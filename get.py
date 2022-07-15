@@ -48,9 +48,15 @@ def web_process(**kwargs):
             continue
         processed_detail = each
         while processed_detail.find('<strong>') != -1:
-                processed_detail = processed_detail[:processed_detail.find('<strong>')]+'**'+processed_detail[processed_detail.find('<strong>')+8:]
+                if processed_detail[processed_detail.find('<strong>')-1] == ' ':
+                    processed_detail = processed_detail[:processed_detail.find('<strong>')]+'**'+processed_detail[processed_detail.find('<strong>')+8:]
+                else:
+                    processed_detail = processed_detail[:processed_detail.find('<strong>')]+' **'+processed_detail[processed_detail.find('<strong>')+8:]
         while processed_detail.find('</strong') != -1:
-            processed_detail = processed_detail[:processed_detail.find('</strong>')]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
+            if processed_detail[processed_detail.find('</strong>')+9] == ' ':
+                processed_detail = processed_detail[:processed_detail.find('</strong>')]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
+            else:
+                processed_detail = processed_detail[:processed_detail.find('</strong>')]+'** '+processed_detail[processed_detail.find('</strong>')+9:]
         while processed_detail.find('<a ') != -1:
             # print(len(processed_detail))
             # print(processed_detail[processed_detail.find("<a "):].find('href="')+processed_detail.find("<a ")+6)
@@ -68,6 +74,7 @@ def web_process(**kwargs):
         while processed_detail.find('<br/>') != -1:
             processed_detail = processed_detail[:processed_detail.find('<br/>')]+processed_detail[processed_detail.find('<br/>')+5:]
         mdlines.append(processed_detail)
+    mdlines.append('----------')
     for i in range(len(titles)):
         mdlines.append(f'## {titles[i]}')
         for j in range(len(details[i])):
