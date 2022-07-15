@@ -14,7 +14,7 @@ Defying a curfew, demonstrators in Colombo have been celebrating the end of **Go
 
 Italy’s president rejected an offer by **Mario Draghi** to resign after losing the support of his coalition allies, the Five Star Movement. A former head of the European Central Bank, Mr Draghi has held the office since February 2021, helping to stabilise Italian politics. The president’s decision means he will have to try again to win the backing of his coalition, or form a new one.
 
-After a second round of voting in the contest to succeed Boris Johnson as leader of the **Conservative Party** , and thus [Britain’s next prime minister](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm), Rishi Sunak topped the poll again. But Penny Mordaunt, the trade minister, also made a strong showing among the party’s MPs; her campaign is still gathering momentum. Suella Braverman, the attorney-general, was knocked out of the contest after coming in last.
+ **Rishi Sunak** topped a second successive round of voting among **Conservative Party** MPs in the contest to succeed Boris Johnson as party leader and [Britain’s next prime minister](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm). **Penny Mordaunt** , the trade minister, also made another strong showing. Suella Braverman, the attorney-general, was knocked out of the contest after coming in last. On Friday she threw her support behind Liz Truss, the current foreign secretary.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -65,7 +65,7 @@ The documentary is part of a wave of fashion retrospectives portraying an indust
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="5a0b2f33201f292a283f2929351a3f393534353733292e74393537">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?  
  **Wednesday:** Which Methodist preacher founded the Salvation Army?
