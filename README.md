@@ -2,8 +2,6 @@
 
 <p align="center"><strong><font size=6>The world in brief 2022-07-15</font></strong><br/><font size=4>Catch up quickly on the global stories that matter</font><br/><hr></p>
 
-<p style="font-family: var(--ds-type-system-serif);"></p>
-
 The **Italian** prime minister, **Mario Draghi** , offered his resignation to the president after losing the support of a key ally in his coalition government—only to [have it rejected](https://www.economist.com/europe/2022/07/14/mario-draghi-italys-prime-minister-tries-and-fails-to-resign). Earlier Mr Draghi won a vote of no-confidence, but with the populist Five Star Movement boycotting. Mr Draghi said that the pact of trust which had sustained the coalition had therefore been broken. A former head of the European Central Bank, Mr Draghi has held the office since February 2021, helping to stabilise Italian politics.
 
  **Gotabaya Rajapaksa** officially resigned as president of **Sri Lanka** , by sending a formal letter to the speaker of parliament. Mr Rajapaksa [fled the country](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) earlier this week amid an economic collapse and huge popular protests and is currently holing up in Singapore. An official announcement on the matter is expected on Friday.
@@ -58,6 +56,6 @@ The documentary is part of a wave of fashion retrospectives portraying an indust
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="87d6f2eefdc2f4f7f5e2f4f4e8c7e2e4e8e9e8eaeef4f3a9e4e8ea">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse? **Wednesday:** Which Methodist preacher founded the Salvation Army?
