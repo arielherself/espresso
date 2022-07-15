@@ -1,4 +1,3 @@
-from concurrent.futures import process
 import requests
 import datetime
 
@@ -44,7 +43,7 @@ def web_process(**kwargs):
     pre, titles, details = get(**kwargs)
     mdlines = []
     mdlines.append('<div align="center"><img src="https://www.economist.com/engassets/ico/touch-icon-180x180.f1ea908894.png" align-center /></div>')
-    mdlines.append(f'# The world in brief {str(datetime.date.today())}')
+    mdlines.append(f'# <p align="center">The world in brief {str(datetime.date.today())}</p>')
     for each in pre:
         if each == '':
             continue
