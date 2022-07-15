@@ -32,7 +32,10 @@ Christopher Waller, a governor of **the Federal Reserve** , indicated that Ameri
 
 Monetary policy is supposed to take time to work its magic. But central bankers’ abrupt shift to fight inflation seriously has caused financial conditions in America to tighten sharply in 2022. Just how brutal the shift has been was exposed on Thursday when JPMorgan Chase, the country’s largest bank, and Morgan Stanley, released results showing that for both banks net income fell by around 30% in the second quarter of the year.
 
-Sharper than expected falls in investment banking revenues pulled down overall results. As stocks have slumped and interest rates have climbed, firms have all but stopped merging, issuing debt or going public. At Morgan Stanley revenue from investment banking fell 55%. Revenues earned by their colleagues on the trading floor, where market volatility tends to lift trading activity and revenues, were up by around 15% at both firms. And in JPMorgan&#x27;s retail bank strong loan growth helped lift interest income. Still, those tailwinds were not quite able to offset the precipitous turn in fortunes for Wall Street’s slick investment bankers.
+
+Sharper than expected falls in investment banking revenues pulled down overall results. As stocks have slumped and interest rates have climbed, firms have all but stopped merging, issuing debt or going public. At Morgan Stanley revenue from investment banking fell 55%.
+
+ Revenues earned by their colleagues on the trading floor, where market volatility tends to lift trading activity and revenues, were up by around 15% at both firms. And in JPMorgan&#x27;s retail bank strong loan growth helped lift interest income. Still, those tailwinds were not quite able to offset the precipitous turn in fortunes for Wall Street’s slick investment bankers.
 
 ## The end of the chipmaking boom
 
@@ -62,9 +65,10 @@ The documentary is part of a wave of fashion retrospectives portraying an indust
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="c899bda1b28dbbb8baadbbbba788adaba7a6a7a5a1bbbce6aba7a5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
- **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse? **Wednesday:** Which Methodist preacher founded the Salvation Army?
+ **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?
+ **Wednesday:** Which Methodist preacher founded the Salvation Army?
 
 ----------
 
