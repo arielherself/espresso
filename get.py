@@ -1,3 +1,4 @@
+from concurrent.futures import process
 import requests
 import datetime
 
@@ -48,15 +49,27 @@ def web_process(**kwargs):
             continue
         processed_detail = each
         while processed_detail.find('<strong>') != -1:
-                if processed_detail[processed_detail.find('<strong>')-1] == ' ':
+            if processed_detail[processed_detail.find('<strong>')-1] == ' ':
+                if processed_detail[processed_detail.find('<strong>')+8] == ' ':
+                    processed_detail = processed_detail[:processed_detail.find('<strong>')]+'**'+processed_detail[processed_detail.find('<strong>')+9:]
+                else:
                     processed_detail = processed_detail[:processed_detail.find('<strong>')]+'**'+processed_detail[processed_detail.find('<strong>')+8:]
+            else:
+                if processed_detail[processed_detail.find('<strong>')+8] == ' ':
+                    processed_detail = processed_detail[:processed_detail.find('<strong>')]+' **'+processed_detail[processed_detail.find('<strong>')+9:]
                 else:
                     processed_detail = processed_detail[:processed_detail.find('<strong>')]+' **'+processed_detail[processed_detail.find('<strong>')+8:]
         while processed_detail.find('</strong') != -1:
             if processed_detail[processed_detail.find('</strong>')+9] == ' ':
-                processed_detail = processed_detail[:processed_detail.find('</strong>')]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
+                if processed_detail[processed_detail.find('</strong>')-1] == ' ':
+                    processed_detail = processed_detail[:processed_detail.find('</strong>')-1]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
+                else:
+                    processed_detail = processed_detail[:processed_detail.find('</strong>')]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
             else:
-                processed_detail = processed_detail[:processed_detail.find('</strong>')]+'** '+processed_detail[processed_detail.find('</strong>')+9:]
+                if processed_detail[processed_detail.find('</strong>')-1] == ' ':
+                    processed_detail = processed_detail[:processed_detail.find('</strong>')-1]+'** '+processed_detail[processed_detail.find('</strong>')+9:]
+                else:
+                    processed_detail = processed_detail[:processed_detail.find('</strong>')]+'** '+processed_detail[processed_detail.find('</strong>')+9:]
         while processed_detail.find('<a ') != -1:
             # print(len(processed_detail))
             # print(processed_detail[processed_detail.find("<a "):].find('href="')+processed_detail.find("<a ")+6)
@@ -80,9 +93,27 @@ def web_process(**kwargs):
         for j in range(len(details[i])):
             processed_detail = details[i][j]
             while processed_detail.find('<strong>') != -1:
-                processed_detail = processed_detail[:processed_detail.find('<strong>')]+'**'+processed_detail[processed_detail.find('<strong>')+8:]
+                if processed_detail[processed_detail.find('<strong>')-1] == ' ':
+                    if processed_detail[processed_detail.find('<strong>')+8] == ' ':
+                        processed_detail = processed_detail[:processed_detail.find('<strong>')]+'**'+processed_detail[processed_detail.find('<strong>')+9:]
+                    else:
+                        processed_detail = processed_detail[:processed_detail.find('<strong>')]+'**'+processed_detail[processed_detail.find('<strong>')+8:]
+                else:
+                    if processed_detail[processed_detail.find('<strong>')-1] == ' ':
+                        processed_detail = processed_detail[:processed_detail.find('<strong>')]+' **'+processed_detail[processed_detail.find('<strong>')+9:]
+                    else:
+                        processed_detail = processed_detail[:processed_detail.find('<strong>')]+' **'+processed_detail[processed_detail.find('<strong>')+8:]
             while processed_detail.find('</strong') != -1:
-                processed_detail = processed_detail[:processed_detail.find('</strong>')]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
+                if processed_detail[processed_detail.find('</strong>')+9] == ' ':
+                    if processed_detail[processed_detail.find('</strong>')-1] == ' ':
+                        processed_detail = processed_detail[:processed_detail.find('</strong>')-1]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
+                    else:
+                        processed_detail = processed_detail[:processed_detail.find('</strong>')]+'**'+processed_detail[processed_detail.find('</strong>')+9:]
+                else:
+                    if processed_detail[processed_detail.find('</strong>')-1] == ' ':
+                        processed_detail = processed_detail[:processed_detail.find('</strong>')-1]+'** '+processed_detail[processed_detail.find('</strong>')+9:]
+                    else:
+                        processed_detail = processed_detail[:processed_detail.find('</strong>')]+'** '+processed_detail[processed_detail.find('</strong>')+9:]
             while processed_detail.find('<a ') != -1:
                 # print(len(processed_detail))
                 # print(processed_detail[processed_detail.find("<a "):].find('href="')+processed_detail.find("<a ")+6)
