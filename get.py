@@ -88,7 +88,7 @@ def web_process(**kwargs):
             processed_detail = processed_detail[:processed_detail.find('<a ')]+f'[{processed_detail[processed_detail[processed_detail.find("<a "):].find(">")+processed_detail.find("<a ")+1:processed_detail[processed_detail.find("<a ")+1:].find("</a>")+processed_detail.find("<a ")+1]}]('+hyperlink+')'+processed_detail[processed_detail.find('</a>')+4:]
             # print(processed_detail)
         while processed_detail.find('<br/>') != -1:
-            processed_detail = processed_detail[:processed_detail.find('<br/>')]+'\n'+processed_detail[processed_detail.find('<br/>')+5:]
+            processed_detail = processed_detail[:processed_detail.find('<br/>')]+'  \n'+processed_detail[processed_detail.find('<br/>')+5:]
         mdlines.append(processed_detail)
     mdlines.append('----------')
     for i in range(len(titles)):
@@ -132,7 +132,7 @@ def web_process(**kwargs):
                 processed_detail = processed_detail[:processed_detail.find('<a ')]+f'[{processed_detail[processed_detail[processed_detail.find("<a "):].find(">")+processed_detail.find("<a ")+1:processed_detail[processed_detail.find("<a ")+1:].find("</a>")+processed_detail.find("<a ")+1]}]('+hyperlink+')'+processed_detail[processed_detail.find('</a>')+4:]
                 # print(processed_detail)
             while processed_detail.find('<br/>') != -1:
-                processed_detail = processed_detail[:processed_detail.find('<br/>')]+'\n'+processed_detail[processed_detail.find('<br/>')+5:]
+                processed_detail = processed_detail[:processed_detail.find('<br/>')]+'  \n'+processed_detail[processed_detail.find('<br/>')+5:]
             mdlines.append(processed_detail)
     mdlines.append('----------')
     mdlines.append("*Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*")
