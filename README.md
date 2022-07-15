@@ -12,7 +12,7 @@ The [toll taken](https://www.economist.com/leaders/2022/05/26/how-xi-jinping-is-
 
 Defying a curfew, demonstrators in Colombo have been celebrating the end of **Gotabaya Rajapaksa’s** presidency of **Sri Lanka** . Mr Rajapaksa [fled the country](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) earlier this week amid an economic collapse and huge popular protests and is currently holed up in Singapore. Legal technicalities have held up an official announcement of his resignation.
 
-Italy’s president rejected an offer by **Mario Draghi** to resign, after losing the support of his coalition allies, the Five Star Movement. A former head of the European Central Bank, Mr Draghi has held the office since February 2021, helping to stabilise Italian politics. The president’s decision means he will have to try again to win the backing of his coalition, or form a new one.
+Italy’s president rejected an offer by **Mario Draghi** to resign after losing the support of his coalition allies, the Five Star Movement. A former head of the European Central Bank, Mr Draghi has held the office since February 2021, helping to stabilise Italian politics. The president’s decision means he will have to try again to win the backing of his coalition, or form a new one.
 
 After a second round of voting in the contest to succeed Boris Johnson as leader of the **Conservative Party** , and thus [Britain’s next prime minister](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm), Rishi Sunak topped the poll again. But Penny Mordaunt, the trade minister, also made a strong showing among the party’s MPs; her campaign is still gathering momentum. Suella Braverman, the attorney-general, was knocked out of the contest after coming in last.
 
@@ -65,7 +65,7 @@ The documentary is part of a wave of fashion retrospectives portraying an indust
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?  
  **Wednesday:** Which Methodist preacher founded the Salvation Army?
