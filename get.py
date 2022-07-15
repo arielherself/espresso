@@ -43,7 +43,7 @@ def web_process(**kwargs):
     pre, titles, details = get(**kwargs)
     mdlines = []
     mdlines.append('<div align="center"><img src="https://www.economist.com/engassets/ico/touch-icon-180x180.f1ea908894.png" align-center /></div>')
-    mdlines.append(f'# <p align="center">The world in brief {str(datetime.date.today())}</p>')
+    mdlines.append(f'<p align="center"><strong><font size=6>The world in brief {str(datetime.date.today())}</font></strong><br/><font size=4>Catch up quickly on the global stories that matter</font><br/><hr></p>')
     for each in pre:
         if each == '':
             continue

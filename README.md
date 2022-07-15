@@ -1,6 +1,8 @@
 <div align="center"><img src="https://www.economist.com/engassets/ico/touch-icon-180x180.f1ea908894.png" align-center /></div>
 
-# <p align="center">The world in brief 2022-07-15</p>
+<p align="center"><strong><font size=6>The world in brief 2022-07-15</font></strong><br/><font size=4>Catch up quickly on the global stories that matter</font><br/><hr></p>
+
+<p style="font-family: var(--ds-type-system-serif);"></p>
 
 The **Italian** prime minister, **Mario Draghi** , offered his resignation to the president after losing the support of a key ally in his coalition government—only to [have it rejected](https://www.economist.com/europe/2022/07/14/mario-draghi-italys-prime-minister-tries-and-fails-to-resign). Earlier Mr Draghi won a vote of no-confidence, but with the populist Five Star Movement boycotting. Mr Draghi said that the pact of trust which had sustained the coalition had therefore been broken. A former head of the European Central Bank, Mr Draghi has held the office since February 2021, helping to stabilise Italian politics.
 
