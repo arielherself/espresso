@@ -8,7 +8,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The toll taken on **China’s economy** by its pandemic lockdowns was apparent in data released on Friday, showing a sharp contraction in the second quarter of 2022. GDP fell by 2.6% from the previous three months, with annual growth slowing to just 0.4%, well below analysts’ expectations. Although many covid-19 restrictions have been eased, China’s zero-covid policy makes a rapid recovery unlikely.
+The [toll taken](https://www.economist.com/leaders/2022/05/26/how-xi-jinping-is-damaging-chinas-economy) on **China’s economy** by its pandemic lockdowns was apparent in data released on Friday, showing a sharp contraction in the second quarter of 2022 compared to the previous quarter. GDP fell by 2.6% from the previous three months, with annual growth slowing to just 0.4%, well below analysts’ expectations. Although many covid-19 restrictions have been eased, China’s zero-covid policy makes a rapid recovery unlikely.
 
 Defying a curfew, demonstrators in Colombo have been celebrating the end of **Gotabaya Rajapaksa’s** presidency of **Sri Lanka** . Mr Rajapaksa [fled the country](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) earlier this week amid an economic collapse and huge popular protests and is currently holed up in Singapore. Legal technicalities have held up an official announcement of his resignation.
 
@@ -30,11 +30,11 @@ Christopher Waller, a governor of **the Federal Reserve** , indicated that Ameri
 
 ## Earnings season for American banks
 
-Monetary policy is supposed to take time to work its magic. But central bankers’ abrupt shift to fight inflation seriously has caused financial conditions in America to tighten sharply in 2022. Just how brutal the shift has been was exposed on Thursday when JPMorgan Chase, the country’s largest bank, and Morgan Stanley, released results showing that for both banks net income fell by around 30% in the second quarter of the year.
+Monetary policy is supposed to take time to work its magic. But central bankers’ abrupt shift to fight inflation seriously has caused financial conditions in America to tighten sharply in 2022. Just how brutal the shift has been was exposed on Thursday when JPMorgan Chase, the country’s largest bank, and Morgan Stanley, released results showing that for both banks net income fell by around 30% in the second quarter of the year.  
 
 
-Sharper than expected falls in investment banking revenues pulled down overall results. As stocks have slumped and interest rates have climbed, firms have all but stopped merging, issuing debt or going public. At Morgan Stanley revenue from investment banking fell 55%.
-
+Sharper than expected falls in investment banking revenues pulled down overall results. As stocks have slumped and interest rates have climbed, firms have all but stopped merging, issuing debt or going public. At Morgan Stanley revenue from investment banking fell 55%.  
+  
  Revenues earned by their colleagues on the trading floor, where market volatility tends to lift trading activity and revenues, were up by around 15% at both firms. And in JPMorgan&#x27;s retail bank strong loan growth helped lift interest income. Still, those tailwinds were not quite able to offset the precipitous turn in fortunes for Wall Street’s slick investment bankers.
 
 ## The end of the chipmaking boom
@@ -65,9 +65,9 @@ The documentary is part of a wave of fashion retrospectives portraying an indust
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="d889adb1a29daba8aabdababb798bdbbb7b6b7b5b1abacf6bbb7b5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
- **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?
+ **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?  
  **Wednesday:** Which Methodist preacher founded the Salvation Army?
 
 ----------
