@@ -45,7 +45,7 @@ def web_process(**kwargs):
     mdlines.append('<div align="center"><img src="https://www.economist.com/engassets/ico/touch-icon-180x180.f1ea908894.png" align-center /></div>')
     mdlines.append(f'# <p align="center">The world in brief {str(datetime.date.today())}</p>')
     mdlines.append('## <p align="center">Catch up quickly on the global stories that matter</p>')
-    mdlines.append('<p align="center">Origin: <a>https://www.economist.com/the-world-in-brief</a><hr>')
+    mdlines.append('<p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>')
     for each in pre:
         if each == '':
             continue
