@@ -10,19 +10,19 @@
 
 The [toll taken](https://www.economist.com/leaders/2022/05/26/how-xi-jinping-is-damaging-chinas-economy) on **China’s economy** by its pandemic lockdowns was apparent in data released on Friday, showing a sharp contraction in the second quarter of 2022 compared with the previous quarter. GDP fell by 2.6% from the previous three months, with annual growth slowing to just 0.4%, well below analysts’ expectations. Although many covid-19 restrictions have been eased, China’s zero-covid policy makes a rapid recovery unlikely.
 
+ **American retail sales** rebounded strongly in June, easing some fears about a coming recession. Commerce department data showed that retail sales rose 1% last month, better than the 0.8% gain forecast by economists. Wall Street’s S&amp;P 500 share index rose 1.3% in early dealings, though it remained on course for a weekly decline of more than 2%.
+
  **America’s** president, [Joe Biden](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america), is due to discuss oil supply and regional security on a trip to **Saudi Arabia** , a country he once vowed to make a “pariah” after the killing of journalist [Jamal Khashoggi](https://www.economist.com/middle-east-and-africa/2021/02/26/the-cia-blames-mbs-for-the-murder-of-jamal-khashoggi). On Thursday Mr Biden and **Israel** ’s prime minister, [Yair Lapid](https://www.economist.com/middle-east-and-africa/2022/07/07/israels-new-leader-yair-lapid-has-four-months-to-prove-himself), signed a joint pledge to prevent **Iran** from obtaining nuclear arms.
+
+Officials across **Europe** issued **health warnings** as temperatures are expected to soar over the next few days, topping 40℃ in several places. Britain issued its first-ever “extreme heat” warning. Thousands of people have already been evacuated from homes to escape wildfires in France, Portugal and Spain.
+
+Listen to an abridged version of the subscriber-only briefing.
 
 News emerged that Paul Urey, a **British aid worker** being held as a hostage in eastern **Ukraine** , died on Sunday. Mr Urey and another Briton, Dylan Healy, were captured in April in the self-declared Donetsk People’s Republic and later charged with “mercenary activities”. An official for the DPR wrote that Mr Urey’s death was caused by “illness and stress”.
 
 The **EU** saw the lowest level of **new passenger car registrations** for the month of June since 1996, at just under 900,000 vehicles, according to data from the continent’s automobile association. The biggest manufacturers saw steep declines. Volkswagen Group’s registrations were down by 22.3% on June 2021. The multinational Stellantis saw a fall of 17%.
 
-Listen to an abridged version of the subscriber-only briefing.
-
 The **World Health Organisation** reported the “largest sustained decline” in the administering of **childhood vaccines** for 30 years. According to official data, the number of youngsters receiving three doses of DTP3, which vaccinates against diphtheria, tetanus and pertussis, fell by five percentage points between 2019 and 2021. The WHO blamed disruption caused by the covid-19 pandemic for some of the decline.
-
-Demonstrators in Colombo have been celebrating the end of **Gotabaya Rajapaksa’s** presidency of **Sri Lanka** . On Friday the speaker of parliament announced that Mr Rajapaksa’s resignation had been accepted, and that Ranil Wickremesinghe, the prime minister, will continue as acting president until a vote is held in parliament on Saturday. The new president will then see out the remainder of Mr Rajapaksa’s term, which ends in 2024.
-
-Christopher Waller, a governor of **the Federal Reserve** , indicated that America’s central bank is mulling a one-percentage-point bump to its benchmark interest rate when it meets later this month. Mr Waller said he favours the move instead of another increase of three-quarters of a point, as in June. This week’s high [inflation numbers](https://www.economist.com/finance-and-economics/2022/07/13/american-inflation-tops-forecasts-yet-again-adding-to-recession-risks) startled the Fed and its watchers.
 
  **Fact of the Day:** 750,000, the estimated number of illegal guns in Kenya. [Read the full article](https://www.economist.com/middle-east-and-africa/2022/07/14/can-elephants-and-rhinos-coexist-with-livestock-and-their-owners).
 
@@ -79,7 +79,7 @@ They all gave the correct answers of [Boris Johnson](https://www.economist.com/b
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="db8aaeb2a19ea8aba9bea8a8b49bbeb8b4b5b4b6b2a8aff5b8b4b6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="5607233f2c13252624332525391633353938393b3f25227835393b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** What was the birth name of the boxer Muhammad Ali?  
  **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?
