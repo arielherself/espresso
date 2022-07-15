@@ -43,7 +43,7 @@ def get(proxy=False, http_proxy='', https_proxy=''):
 def web_process(**kwargs):
     pre, titles, details = get(**kwargs)
     mdlines = []
-    mdlines.append(f'# The world in brief {str(datetime.date.today())}')
+    mdlines.append(f'# <img src="https://www.economist.com/engassets/ico/favicon.f1ea908894.ico" style="zoom:25%" /> The world in brief {str(datetime.date.today())}')
     for each in pre:
         if each == '':
             continue
