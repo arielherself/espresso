@@ -134,6 +134,6 @@ def web_process(**kwargs):
     return mdlines
 
 if __name__ == '__main__':
-    page = web_process()
+    page = web_process(proxy=False)
     with open('README.md', 'w', encoding='utf8') as fil:
         print(*page, sep='\n\n', file=fil)
