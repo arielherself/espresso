@@ -4,7 +4,7 @@ The **Italian** prime minister, **Mario Draghi** , offered his resignation to th
 
  **Gotabaya Rajapaksa** officially resigned as president of **Sri Lanka** , by sending a formal letter to the speaker of parliament. Mr Rajapaksa [fled the country](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) earlier this week amid an economic collapse and huge popular protests and is currently holing up in Singapore. An official announcement on the matter is expected on Friday.
 
- **America’s** president, [Joe Biden](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america), and ** Israel’s** prime minister, [Yair Lapid](https://www.economist.com/middle-east-and-africa/2022/07/07/israels-new-leader-yair-lapid-has-four-months-to-prove-himself), signed a joint pledge to prevent **Iran ** from obtaining nuclear arms. America declared itself “prepared to use all elements of its national power” to stop Iran developing the weapons, implying military force as a last resort. The Iranian government said any “mistake” made by its enemies would be met with a “harsh and regrettable response”.
+ **America’s** president, [Joe Biden](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america), and **Israel’s** prime minister, [Yair Lapid](https://www.economist.com/middle-east-and-africa/2022/07/07/israels-new-leader-yair-lapid-has-four-months-to-prove-himself), signed a joint pledge to prevent **Iran** from obtaining nuclear arms. America declared itself “prepared to use all elements of its national power” to stop Iran developing the weapons, implying military force as a last resort. The Iranian government said any “mistake” made by its enemies would be met with a “harsh and regrettable response”.
 
 After a second round of voting in the contest to succeed Boris Johnson as leader of the **Conservative Party** , and thus [Britain’s next prime minister](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm), Rishi Sunak topped the poll again. But Penny Mordaunt, the trade minister, also made a strong showing among the party’s MPs; her campaign is still gathering momentum. Suella Braverman, the attorney-general, was knocked out of the contest after coming in last.
 
@@ -16,7 +16,7 @@ Christopher Waller, a governor of **the Federal Reserve** , indicated that Ameri
 
 Two big **American banks** , JPMorgan Chase and Morgan Stanley, both released results showing that their net incomes fell by around 30% in the second quarter of the year. Sharper than expected falls in investment-banking revenue pulled down the overall results. At Morgan Stanley revenue from investment banking fell 55%.
 
- **Fact of the day: ** 84km, the range of the High-Mobility Artillery Rocket Systems that America has sent to Ukraine. [Read the full story](https://www.economist.com/europe/2022/07/13/ukraines-new-rockets-are-wreaking-havoc-on-russias-army).
+ **Fact of the day:** 84km, the range of the High-Mobility Artillery Rocket Systems that America has sent to Ukraine. [Read the full story](https://www.economist.com/europe/2022/07/13/ukraines-new-rockets-are-wreaking-havoc-on-russias-army).
 
 ----------
 
@@ -54,6 +54,6 @@ The documentary is part of a wave of fashion retrospectives portraying an indust
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4d1c382437083e3d3f283e3e220d282e22232220243e39632e2220">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="8fdefae6f5cafcfffdeafcfce0cfeaece0e1e0e2e6fcfba1ece0e2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-**Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?**Wednesday:** Which Methodist preacher founded the Salvation Army?
+ **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse? **Wednesday:** Which Methodist preacher founded the Salvation Army?
