@@ -8,21 +8,21 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
- **American retail sales** rebounded strongly in June, easing some fears about a coming recession. Commerce department data showed that retail sales rose 1% last month, better than the 0.8% gain forecast by economists. Wall Street’s S&amp;P 500 share index rose 1.3% in early dealings, though it remained on course for a weekly decline of more than 2%.
+**American retail sales** rebounded strongly in June, easing some fears about a coming recession. Commerce-department data showed that retail sales rose 1% last month, better than the 0.8% gain forecast by economists. Wall Street’s S&amp;P 500 share index rose almost 2%, though it still closed slightly below where it started the week. 
 
  **America’s** president, Joe Biden, offered a fist bump to Muhammad bin Salman, **Saudi Arabia’s** crown prince, upon their meeting in Jeddah. Mr Biden once vowed to make the kingdom a “pariah” after [Jamal Khashoggi](https://www.economist.com/middle-east-and-africa/2021/02/26/the-cia-blames-mbs-for-the-murder-of-jamal-khashoggi), a journalist, was kidnapped and murdered by the Saudi government in 2018. The two leaders were expected to discuss oil supply and regional security. Mr Biden also hailed a decision by the Saudis to open their airspace to all civilian carriers—including flights from Israel.
 
-Officials across **Europe** issued **health warnings** as temperatures are expected to soar over the next few days, surpassing 40℃ in several places. Britain issued its first-ever “extreme heat” warning. Thousands of people have already been evacuated from homes to escape wildfires in France, Portugal and Spain.
+Mr Biden vowed to use executive action to cut **greenhouse-gas emissions** after climate-change legislation stalled in America’s Senate. Joe Manchin, a Democratic senator for West Virginia and frequent foil to the Biden administration, said on Thursday that he would not support the inclusion of clean-energy incentives in a [social-spending bill](https://www.economist.com/united-states/2021/12/19/joe-manchin-kills-the-build-back-better-act-joe-bidens-ambitious-legislative-package). Mr Biden urged the Senate to pass the bill, even without the climate bits, to reform [prescription-drugs pricing](https://www.economist.com/united-states/2021/11/20/democrats-have-a-plan-to-lower-drug-costs-without-hurting-innovation).
 
-The **World Health Organisation** reported the “largest sustained decline” in the administering of **childhood vaccines** for 30 years. According to official data, the number of youngsters receiving three doses of DTP3, which vaccinates against diphtheria, tetanus and pertussis, fell by five percentage points between 2019 and 2021. The WHO blamed disruption caused by the covid-19 pandemic for some of the decline.
+Officials across **Europe** issued **health warnings** as temperatures are expected to soar over the next few days, surpassing 40℃ in several places. Britain issued its first-ever “extreme heat” warning. Thousands of people have already been evacuated from homes to escape wildfires in France, Portugal and Spain.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The **EU** saw the lowest level of **new passenger car registrations** for the month of June since 1996, at just under 900,000 vehicles, according to data from the continent’s automobile association. The biggest manufacturers saw steep declines. Volkswagen Group’s registrations were down by 22.3% on June 2021. The multinational Stellantis saw a fall of 17%.
+The **World Health Organisation** reported the “largest sustained decline” in the administering of **childhood vaccines** for 30 years. According to official data, the number of youngsters receiving three doses of DTP3, which vaccinates against diphtheria, tetanus and pertussis, fell by five percentage points between 2019 and 2021. The WHO blamed disruption caused by the covid-19 pandemic for some of the decline.
 
 An autopsy revealed that **Jayland Walker** , a black man killed by police in **Ohio** last month, was struck by gunfire at least 46 times. Mr Walker had fled police when a reportedly routine traffic stop went wrong. Hundreds of people mourned at his funeral this week in Akron, where regular protests are ongoing despite an indefinite curfew.
 
-A local official said that Paul Urey, a **British aid worker** held as a hostage in eastern **Ukraine** , died on Sunday. Mr Urey and another Briton, Dylan Healy, were captured by pro-Russian separatists in April in the self-declared [Donetsk People’s Republic](https://www.economist.com/briefing/2022/02/26/russias-invasion-of-ukraine) and later charged with “mercenary activities”. An official for the DPR wrote that Mr Urey’s death was caused by “illness and stress”.
+ **Jim Thorpe** , a Native American of the Sac and Fox nation, was named the sole gold medallist of the decathlon and pentathlon for the **Olympic games** —in 1912. <em>Indian Country Today</em> reported that the International Olympic Committee restored the full honours that it stripped from Thorpe in 1913 on the grounds that a brief stint as a paid baseball player [disqualified him from amateur competition](https://www.economist.com/the-economist-explains/2021/07/20/why-did-the-olympics-ditch-their-amateur-athlete-requirement).
 
  **Fact of the Day:** 750,000, the estimated number of illegal guns in Kenya. [Read the full article](https://www.economist.com/middle-east-and-africa/2022/07/14/can-elephants-and-rhinos-coexist-with-livestock-and-their-owners).
 
@@ -79,7 +79,7 @@ They all gave the correct answers of [Boris Johnson](https://www.economist.com/b
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="a7f6d2cedde2d4d7d5c2d4d4c8e7c2c4c8c9c8caced4d389c4c8ca">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="b1e0c4d8cbf4c2c1c3d4c2c2def1d4d2dedfdedcd8c2c59fd2dedc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** What was the birth name of the boxer Muhammad Ali?  
  **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?
