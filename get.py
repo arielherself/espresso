@@ -133,6 +133,8 @@ def web_process(**kwargs):
             while processed_detail.find('<br/>') != -1:
                 processed_detail = processed_detail[:processed_detail.find('<br/>')]+processed_detail[processed_detail.find('<br/>')+5:]
             mdlines.append(processed_detail)
+    mdlines.append('----------')
+    mdlines.append("*Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*")
     return mdlines
 
 if __name__ == '__main__':
