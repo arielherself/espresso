@@ -8,13 +8,13 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The [toll taken](https://www.economist.com/leaders/2022/05/26/how-xi-jinping-is-damaging-chinas-economy) on **China’s economy** by its pandemic lockdowns was apparent in data released on Friday, showing a sharp contraction in the second quarter of 2022 compared with the previous quarter. GDP fell by 2.6% from the previous three months, with annual growth slowing to just 0.4%, well below analysts’ expectations. Although many covid-19 restrictions have been eased, China’s zero-covid policy makes a rapid recovery unlikely.
-
  **American retail sales** rebounded strongly in June, easing some fears about a coming recession. Commerce department data showed that retail sales rose 1% last month, better than the 0.8% gain forecast by economists. Wall Street’s S&amp;P 500 share index rose 1.3% in early dealings, though it remained on course for a weekly decline of more than 2%.
+
+Officials across **Europe** issued **health warnings** as temperatures are expected to soar over the next few days, topping 40℃ in several places. Britain issued its first-ever “extreme heat” warning. Thousands of people have already been evacuated from homes to escape wildfires in France, Portugal and Spain.
 
  **America’s** president, [Joe Biden](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america), is due to discuss oil supply and regional security on a trip to **Saudi Arabia** , a country he once vowed to make a “pariah” after the killing of journalist [Jamal Khashoggi](https://www.economist.com/middle-east-and-africa/2021/02/26/the-cia-blames-mbs-for-the-murder-of-jamal-khashoggi). On Thursday Mr Biden and **Israel** ’s prime minister, [Yair Lapid](https://www.economist.com/middle-east-and-africa/2022/07/07/israels-new-leader-yair-lapid-has-four-months-to-prove-himself), signed a joint pledge to prevent **Iran** from obtaining nuclear arms.
 
-Officials across **Europe** issued **health warnings** as temperatures are expected to soar over the next few days, topping 40℃ in several places. Britain issued its first-ever “extreme heat” warning. Thousands of people have already been evacuated from homes to escape wildfires in France, Portugal and Spain.
+The [toll taken](https://www.economist.com/leaders/2022/05/26/how-xi-jinping-is-damaging-chinas-economy) on **China’s economy** by its pandemic lockdowns was apparent in data released on Friday, showing a sharp contraction in the second quarter of 2022 compared to the previous quarter. GDP fell by 2.6% from the previous three months, with annual growth slowing to just 0.4%, well below analysts’ expectations. Although many covid-19 restrictions have been eased, China’s zero-covid policy makes a rapid recovery unlikely.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -79,7 +79,7 @@ They all gave the correct answers of [Boris Johnson](https://www.economist.com/b
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="b9e8ccd0c3fccac9cbdccacad6f9dcdad6d7d6d4d0cacd97dad6d4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** What was the birth name of the boxer Muhammad Ali?  
  **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?
