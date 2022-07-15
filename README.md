@@ -79,7 +79,7 @@ They all gave the correct answers of [Boris Johnson](https://www.economist.com/b
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="e4b5918d9ea19794968197978ba481878b8a8b898d9790ca878b89">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** What was the birth name of the boxer Muhammad Ali?  
  **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?
