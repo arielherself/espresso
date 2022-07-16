@@ -8,81 +8,93 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-**American retail sales** rebounded strongly in June, easing some fears about a coming recession. Commerce-department data showed that retail sales rose 1% last month, better than the 0.8% gain forecast by economists. Wall Street’s S&amp;P 500 share index rose almost 2%, though it still closed slightly below where it started the week. 
+After exchanging a fist-bump with Muhammad bin Salman, **Saudi Arabia’s** crown prince, in Jeddah, **America’s** president, Joe Biden, says he confronted him about [Jamal Khashoggi](https://www.economist.com/middle-east-and-africa/2021/02/26/the-cia-blames-mbs-for-the-murder-of-jamal-khashoggi), a journalist whose state-sponsored murder in 2018 once prompted Mr Biden to threaten to make the kingdom a “pariah”. He said the crown prince denied involvement. He also said he expects to see steps from Saudi Arabia in the coming weeks to increase energy supplies.
 
- **America’s** president, Joe Biden, offered a fist bump to Muhammad bin Salman, **Saudi Arabia’s** crown prince, upon their meeting in Jeddah. Mr Biden once vowed to make the kingdom a “pariah” after [Jamal Khashoggi](https://www.economist.com/middle-east-and-africa/2021/02/26/the-cia-blames-mbs-for-the-murder-of-jamal-khashoggi), a journalist, was kidnapped and murdered by the Saudi government in 2018. The two leaders were expected to discuss oil supply and regional security. Mr Biden also hailed a decision by the Saudis to open their airspace to all civilian carriers—including flights from Israel.
+Mr Biden vowed to use executive action to cut **greenhouse-gas emissions** after climate-change legislation stalled in America’s Senate. Joe Manchin, a Democratic senator who is a frequent obstacle to the administration’s plans said on Thursday that he opposed the inclusion of clean-energy incentives in a [social-spending bill](https://www.economist.com/united-states/2021/12/19/joe-manchin-kills-the-build-back-better-act-joe-bidens-ambitious-legislative-package). Mr Biden urged the Senate to pass the bill, even without the climate bits, to reform [prescription-drugs pricing](https://www.economist.com/united-states/2021/11/20/democrats-have-a-plan-to-lower-drug-costs-without-hurting-innovation).
 
-Mr Biden vowed to use executive action to cut **greenhouse-gas emissions** after climate-change legislation stalled in America’s Senate. Joe Manchin, a Democratic senator for West Virginia and frequent foil to the Biden administration, said on Thursday that he would not support the inclusion of clean-energy incentives in a [social-spending bill](https://www.economist.com/united-states/2021/12/19/joe-manchin-kills-the-build-back-better-act-joe-bidens-ambitious-legislative-package). Mr Biden urged the Senate to pass the bill, even without the climate bits, to reform [prescription-drugs pricing](https://www.economist.com/united-states/2021/11/20/democrats-have-a-plan-to-lower-drug-costs-without-hurting-innovation).
+ **Russia** shelled Nikopol in south Ukraine on Saturday, the latest [in a series of attacks](https://www.economist.com/briefing/2022/06/30/does-a-protracted-conflict-favour-russia-or-ukraine) on cities that have killed at least 37 people since Thursday. **Ukraine** accused Russia of terrorising civilians by firing long-range missiles at crowded residential blocks, [industrial plants](https://www.economist.com/europe/2022/07/14/the-war-is-forcing-ukraines-energy-planners-to-be-creative), schools and shops. Russia’s defence ministry said the target of its cruise-missile strike on Vinnytsia on Thursday was a meeting between officials and foreign arms suppliers.
 
-Officials across **Europe** issued **health warnings** as temperatures are expected to soar over the next few days, surpassing 40℃ in several places. Britain issued its first-ever “extreme heat” warning. Thousands of people have already been evacuated from homes to escape wildfires in France, Portugal and Spain.
+Mexico said it had arrested **Rafael Caro Quintero** , a founding member of the powerful Guadalajara Cartel, during a military operation in the north-western state of Sinaloa. The drugs lord is on [America’s most-wanted list](https://www.economist.com/the-americas/2013/08/17/ghosts-of-the-past) for the kidnapping and murder of an American anti-narcotics agent in 1985. Officials said they would seek the fugitive’s immediate extradition.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The **World Health Organisation** reported the “largest sustained decline” in the administering of **childhood vaccines** for 30 years. According to official data, the number of youngsters receiving three doses of DTP3, which vaccinates against diphtheria, tetanus and pertussis, fell by five percentage points between 2019 and 2021. The WHO blamed disruption caused by the covid-19 pandemic for some of the decline.
+ **Sri Lanka** ’s parliament convened to begin the process of electing a new president to replace Gotabaya Rajapaksa, who was ousted after [mass protests](https://www.economist.com/asia/2022/07/09/sri-lankas-president-resigns-in-the-face-of-massive-protests) and this week [fled to Singapore](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) from where he submitted his resignation letter. On Tuesday it will accept nominations for his successor. The acting president, Ranil Wickremesinghe, wants the job, as does the leader of the opposition, Sajith Premadasa.
 
-An autopsy revealed that **Jayland Walker** , a black man killed by police in **Ohio** last month, was struck by gunfire at least 46 times. Mr Walker had fled police when a reportedly routine traffic stop went wrong. Hundreds of people mourned at his funeral this week in Akron, where regular protests are ongoing despite an indefinite curfew.
+Officials across **Europe** issued **health warnings** as [temperatures are expected to soar](https://www.economist.com/graphic-detail/2022/04/16/in-chilly-parts-of-europe-heatwaves-strengthen-environmentalism) over the next few days, surpassing 40℃ in several places. Britain issued its first-ever “extreme heat” warning. Thousands of people have already been evacuated from homes to escape wildfires in France, Portugal and Spain. It is not just Europe. Record temperatures have also been recorded in recent days in parts of China.
 
- **Jim Thorpe** , a Native American of the Sac and Fox nation, was named the sole gold medallist of the decathlon and pentathlon for the **Olympic games** —in 1912. <em>Indian Country Today</em> reported that the International Olympic Committee restored the full honours that it stripped from Thorpe in 1913 on the grounds that a brief stint as a paid baseball player [disqualified him from amateur competition](https://www.economist.com/the-economist-explains/2021/07/20/why-did-the-olympics-ditch-their-amateur-athlete-requirement).
+A televised debate between the five candidates to [succeed Boris Johnson](https://www.economist.com/britain/2022/07/12/the-conservative-party-after-boris-johnson) as leader of the Conservative Party and **Britain’s prime minister** entailed tetchy squabbles over how to finance public spending, and the rivals’ credentials. **Rishi Sunak** , who won the first two rounds of voting, was criticised for raising taxes when he was [chancellor of the exchequer](https://www.economist.com/britain/2022/03/19/does-rishi-sunak-have-the-stomach-for-what-he-must-swallow), as was **Penny Mordaunt** , the [bookmakers’ favourite](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm), for her record as equalities minister.
 
- **Fact of the Day:** 750,000, the estimated number of illegal guns in Kenya. [Read the full article](https://www.economist.com/middle-east-and-africa/2022/07/14/can-elephants-and-rhinos-coexist-with-livestock-and-their-owners).
+ **Word of the Week:** <em>post-quantum cryptography</em>, new encryption mathematics that outpaces the capabilities even of quantum computers. [Read the full article](https://www.economist.com/leaders/2022/07/14/what-to-do-now-about-tomorrows-code-cracking-computers).
 
 ----------
 
-## Realpolitik in Arabia
+## Europe’s herd of unicorns
 
-After the rapture of Joe Biden’s pilgrimage to [Israel](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america)—land of biblical prophets, democracy and tech—comes penitence in Saudi Arabia. America’s president once vowed to make the country “a pariah”. Now he must beseech it to pump more oil to bring down global prices.
+Tech stocks keep tanking, and yet unicorns are born every day. Surprisingly, it is Europe in particular that keeps breeding private companies worth more than $1bn (the definition of a “unicorn”), bucking the downward trend in the industry. In the first six months of the year, Europe added 35 new unicorns, up from 30 in the same period in 2021 and 29 in the second half of that year, according to the latest update of a global “unicorn tracker” maintained by PitchBook, a data provider.
 
-Mr Biden has some fig-leaves. One is that his self-mortification will help Israel, by pushing the Saudis towards normalisation and isolating Iran. A second is that he is not really visiting Saudi Arabia on Friday, but attending a summit of Arab countries in Jeddah. A third is that the risk of covid means he will not not be shaking hands with anyone, least of all Muhammad bin Salman, the crown prince.
+By comparison, unicorn creation in America and Canada was down from its peak; North America tallied 197 in the second half of 2021 and then 146 in the first half of this year. If the current downturn in tech continues, the herd of European unicorns is certain to start growing more slowly—or to shrink. But the data suggest that Europe’s startup ecosystem is now on a more independent path from its bigger American counterpart. Call it the transatlantic tech decoupling.
 
-Alas, the Saudis will not go much further in embracing Israel until it makes peace with the Palestinians. And they remain aligned with Russia on oil policy. As for avoiding physical contact, the tactile Mr Biden already abandoned fist-bumps in Israel. The president’s discomfort in Saudi will be plain to see.
+## India’s banks get out of a funk
 
-## Counting the cost of covid in China
+HDFC Bank, India’s biggest private lender, reports its results for the quarter ending in June on Saturday, opening the country’s banking-sector earnings season. HDFC posted profits of $1.1bn, an increase of 19% over the same period last year. The bank hopes that profits will double over the next five years as it reaps the benefits of [acquiring a housing-finance unit](https://www.economist.com/finance-and-economics/2022/04/09/hdfc-banks-merger-marks-a-milestone-for-india) in April. In the rest of the sector, net profits of the 12 biggest banks are forecast to have grown by 47% year-on-year.
 
-Cases of covid-19 have edged up in China this month, making everyone nervous about future [lockdowns](https://www.economist.com/china/2022/06/14/beijing-and-shanghai-are-still-trying-to-get-a-grip-on-covid-19). Some residents of Shanghai were briefly confined to their buildings in recent days, an unwelcome reprise of their [torment](https://www.economist.com/1843/2022/04/26/locked-down-in-shanghai-ive-caught-a-glimpse-of-our-techno-dystopian-future) in April and May, when the city imposed a hastily executed and harshly enforced lockdown. The [economic damage](https://www.economist.com/china/2022/06/09/it-will-take-time-for-chinas-consumers-to-recover-from-lockdown) such measures can inflict was plain to see in GDP figures released on Friday.
+Such bullishness suggests that India’s banks are getting their act together after years of struggling with loans to businesses not being repaid. India’s central bank, which has been clamping down on lax lenders, estimates that bad loans are now 5.9% of the total, a six-year low. And India’s government is reportedly considering culling the number of state-owned banks—which tend to perform especially badly—from 12 to about four.
 
-China’s economy grew by only 0.4% in the second quarter, compared with a year earlier. (Compared with the previous quarter, it shrank by 2.6%.) The government is lining up over 7trn yuan ($1trn) of financing for a recovery effort in the remainder of the year, according to Morgan Stanley, a bank. But every time the economy tries to bounce back, the virus stages a recovery of its own.
+## Bacteria-produced jet fuel
 
-## An extraordinary meeting in Russia
+Aviation requires fuel that is energy-dense—powerful, but also light. Without a sufficiently powerful and affordable synthetic alternative, flying will continue to rely on fossil fuels. But researchers at Lawrence Berkeley National Laboratory, in California, may have [a solution](https://www.economist.com/science-and-technology/2022/07/13/modified-bacterial-fungicides-may-propel-the-planes-of-the-future). 
 
-Russia’s parliament mostly exists to rubber-stamp decisions made by the president, Vladimir Putin. His party, United Russia, controls 325 of the 450 seats. So the fact that members of the Duma were told to return from their summer holidays early for an extraordinary meeting on Friday could spell trouble for Ukraine.  
+In a new paper published in <em>Joule</em>, a journal, the researchers describe how to tweak the enzymes in bacteria to create an artificial metabolic pathway that starts with sugar and ends with polycyclopropanated (POP) fuels. The researchers used the bacteria’s natural metabolism to create cyclopropane rings, one of the most energy-rich structures found in hydrocarbons. Many of the POP fuels had energy densities greater than 40 megajoules per litre, which is more potent than most widely used aviation fuels. 
+
+But to become commercially viable this biofuel must be scaled up in a cost-effective manner. Shifting subsidies from fossil fuels to green ones would be one way to get the product off the ground.
+
+## The rather unpersuasive “Persuasion”
+
+Updating Jane Austen can be a recipe for cinematic magic. “Clueless”, which in 1995 shifted “Emma” to a Beverly Hills high school, is the wittiest Austen adaptation of all. “Persuasion”, released on Netflix on July 15th, is less persuasive. 
+
+The film is set in the early 1800s, and it plods around the usual picturesque locations: Bath, Lyme Regis, various stately homes. But the director, Carrie Cracknell, and the screenwriters, Alice Victoria Winslow and Ron Bass, have modernised Austen’s novel in other ways, perhaps inspired by [“Bridgerton”](https://www.economist.com/books-and-arts/2021/03/06/in-a-new-breed-of-stories-the-past-is-a-playground-not-a-corset), Netflix’s hit Regency costume drama, or British comedies such as “Bridget Jones’s Diary” and “Fleabag”. The multicultural cast of “Persuasion” is prone to anachronistic dialogue such as “self-care” or “out of his league”. Anne Elliot (Dakota Johnson) swigs wine from a bottle, sobs in the bath and addresses waspish remarks to the camera. But her conspiratorial comments and sly winks make her obnoxiously smug. Her beloved old flame, the tongue-tied Captain Wentworth (Cosmo Jarvis), might have been better off without her.
+
+## Weekend profile: Penny Mordaunt, Britain’s next prime minister?
+
+Penny Mordaunt has emerged as the [bookies’ favourite](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm) to succeed Boris Johnson as leader of the Conservative Party, and thus as Britain’s prime minister. Last week she finished second in the first two ballots of Conservative MPs, who next week will whittle down the five remaining candidates to a final pair. The party’s 100,000-or-so members will then have the final say, with the winner to be announced in early September. If Ms Mordaunt makes it that far, she stands a good chance of triumphing. Separate surveys conducted by ConservativeHome, a grassroots website, and YouGov, a pollster, found that she is the favourite among party members. Yet Ms Mordaunt is unknown outside Westminster. What do the Tories see in her?
+
+Ms Mordaunt was born in 1973. Her mother died when she was 15, and her father, a former paratrooper, fell ill the following year, leaving her to care for her younger brother until her father remarried. She worked as a magician’s assistant to help fund her philosophy studies at the University of Reading. When she joined the leadership race, Ms Mordaunt said her “love and pride” of Britain was kindled as a nine-year-old in Portsmouth, as she watched the navy set sail for [war in the Falklands](https://www.economist.com/britain/2022/04/02/the-falklands-war-resonates-40-years-on). Her naval interest seems preordained: she was named after <em>HMS Penelope</em>, a cruiser. She serves as a navy reservist, and was elected as the Conservative MP for Portsmouth North in 2010. 
+
+Ms Mordaunt’s supporters say her rise reflects the party’s appetite for change after the scandal and decadence of Mr Johnson’s tenure. They describe her as hard-working and dutiful, provincial rather than metropolitan. She supported Brexit, but is not fervent about the divorce. In “Greater: Britain After the Storm”, a book she co-authored last year, she offers an affectionate portrait of modern Britain as a good-humoured land of the NHS, pubs and the Human Rights Act. Her policies tend to focus on local communities rather than grand national ideas. One of her ideas is for MPs to be given pots of money to distribute to good causes in their constituencies. She would like to see a bigger role for charities, and for the volunteers who rallied during covid-19 to be put to work permanently.
+
+The video that announced her candidacy was subject to much mockery in Westminster. It featured rolling shots of Britain, set to “I Vow to Thee My Country”, a patriotic ditty. Party members were not so sniffy. Ms Mordaunt’s ideological ambiguity has made her an attractive default candidate for MPs who dislike Rishi Sunak, the former chancellor and current frontrunner, and Liz Truss, the foreign secretary, her main rival for that second place. Yet even her supporters admit she is untested, and that the success of her notional premiership would depend on whether she would be prepared to appoint strong rivals to big posts, or rely on yes-men—as Mr Johnson did.  
   
- The parliamentary leader of United Russia said at least 60 items are on the agenda. One of them is to confirm the promotion of Denis Manturov, the trade and industry minister, to deputy prime minister. Mr Manturov will have a mandate to revive Russia’s industrial capacity. This could signal increased economic mobilisation for the war. On July 5th the Duma passed a bill compelling Russian businesses to aid the military effort if necessary. Two days later Mr Putin suggested to the chamber’s leaders that what he calls Russia’s “special military operation” in Ukraine has yet to start “in earnest”. Ukraine and the West will hope that amounts to little more than bluster.
+<em>Follow the Conservative Party leadership contest with </em>[<em>our interactive tracker</em>](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm)
 
-## A rocket under Ukraine’s defences
+## The winner’s of this week’s quiz
 
-Ukraine’s armed forces are eagerly awaiting further deliveries of a weapon which might tilt the war in their favour. America has already donated eight High Mobility Artillery Rocket Systems (HIMARS). Britain is supplying some too. 
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
 
-Each HIMARS launcher fires GPS-guided missiles up to 84km. And they are making an immediate impact. Around 20 Russian ammunition dumps on Ukrainian soil have gone boom since the first rockets arrived in late June. So have barracks and command posts. Ukrainian commanders are delighted. Russia might adapt by dispersing and disguising its headquarters and depots. But this could make it trickier to get artillery ammunition to the frontlines.
+Asia: **Unmesh Sharma** , Mumbai, India   
+ North America: **Robert V. Johnson** , Hinsdale, United States  
+ Central and South America: ** Jos** **é Miguel Ried** , Santiago, Chile  
+ Europe: **Fred Chambers** , London, United Kingdom   
+ Africa: **Madeleine Wackernagel** , Naro Moru, Kenya  
+ Oceania: **Deborah Campbell** , Clovelly, Australia 
 
-And things could get worse for the Russians. America has not—yet—sent M77 anti-artillery rounds, which can disperse 8,000 bomblets in fewer than 60 seconds. Nor has it provided the longest-range munitions, known as ATACMS, which can be fired 300km. That would put every single Russian soldier in Ukraine in the crosshairs.
+They all gave the correct answers of Johnny Ray, Graham Chapman, William Booth, Oswald the lucky rabbit and Cassius Clay. They all share names with assassins: James Earl Ray (Martin Luther King), Mark Chapman (John Lennon), John Wilkes Booth (Abraham Lincoln), Lee Harvey Oswald (JFK) and Cassius (Julius Caesar).
 
-## Medallion women, and men, in Oregon
+## The weekend crossword
 
-A clean sweep by a national team in the 100m sprint, the highlight of the World Athletics Championships, is almost unheard of. But at this year’s competition, which begins in Oregon on Friday, it could happen in both the men’s and the women’s races.
+**Cryptic clues**   
+<em>1 down </em>Muddled, non-U focus in papers for religious leader (4,7)  
+<em>1 across </em>Some cram an apple upside down in their hat (6)  
+<em>2 across</em> Leading rough-hide in name only? (5)  
+<em>3 across</em> Princess is not indiscreet, but messy: don’t tell! (6) 
 
-Three female Jamaican sprinters, Elaine Thompson-Herah, Shelly-Ann Fraser-Pryce and Shericka Jackson, filled the podium at the Tokyo Olympics last summer. And they have run the five fastest times in the world so far this year.
+ **Factual clues**   
+ 1 <em>down</em> A man not in the habit of taking advice from newspapers (4,7)  
+ 1 <em>across </em>Last year 130,000 people trekked through its trackless jungle (6)   
+ 2 <em>across</em> It produces material for a powder that sells for $70,000 a kilo (5)  
+ 3 <em>across</em> One is hard to preserve in a quantum age (6)  
 
-In the men’s competition, Team USA has four contenders. Fred Kerley won silver in Tokyo and is the only man to have run under 9.8 seconds this year. Trayvon Bromell, who was favourite in Tokyo before crashing out in the semi-finals, has the second fastest time this year. Marvin Bracy and Christian Coleman, the defending 100m champion, are also in the running. And Lamont Marcell Jacobs, the Italian who beat them all at the Olympics, has been struggling with injuries ever since.
 
-## The winners of last week’s crossword
-
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
-
-Asia: **Satyen Hombali** , Pune, India  
- North America: ** Corien Kershey** , Ontario, Canada  
- Central and South America: **Daniel Cossio** , Cochabamba, Bolivia  
- Europe: **Kevin Conley** , Espoo, Finland  
- Middle East &amp; Africa: **Niharika Mittra** , Dubai, UAE   
- Oceania: **Virstine Yazdanparast** , Lane Cove, Australia
-
-They all gave the correct answers of [Boris Johnson](https://www.economist.com/britain/2022/07/06/the-toxicity-of-boris-johnson), [Berlin](https://www.economist.com/business/2022/07/04/how-sturdy-are-europes-tech-unicorns), [jokes](https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver) and [nature](https://www.economist.com/leaders/2022/07/06/voters-should-reject-chiles-new-draft-constitution). Check back tomorrow for this week’s crossword.
-
-## Daily quiz
-
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="c697b3afbc83b5b6b4a3b5b5a986a3a5a9a8a9abafb5b2e8a5a9ab">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
-
- **Friday:** What was the birth name of the boxer Muhammad Ali?  
- **Thursday:** Which Disney cartoon character (a rabbit) was created before Mickey Mouse?
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ----------
 
