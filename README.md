@@ -12,14 +12,11 @@
 
 A spokesman for **Ukraine’s** military-intelligence agency has said **Russia** is preparing for the next stage of its offensive in the country. He said that, besides missile attacks from land and sea, shelling has continued along the entire front line. On Saturday Russia’s defence minister, Sergei Shoigu, ordered units to ramp up attacks in order to pre-empt Ukrainian [strikes on occupied areas](https://www.economist.com/briefing/2022/06/30/does-a-protracted-conflict-favour-russia-or-ukraine).
 
- **America’s** president, Joe Biden, returned from the **Middle East** after a summit with the leaders of nine Arab countries in Jeddah, without securing public commitments either on increased oil production, or new regional security arrangements to counter Iran that would include Israel. But he said America [not cede the Middle East](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america) to China or Russia:“The United States is not going anywhere.”
+ **America’s** president, Joe Biden, returned from the **Middle East** after a summit with the leaders of nine Arab countries in Jeddah, without securing public commitments either on increased oil production, or new regional security arrangements to counter Iran that would include Israel. But he said America [not cede the Middle East](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america) to China or Russia: “The United States is not going anywhere.”
 
  **Iran** has imposed sanctions on 61 Americans, accusing them of backing an exiled dissident group. The blacklist includes officials who served under President Donald Trump, including Rudy Giuliani, his lawyer, Mike Pompeo, the secretary of state, and John Bolton, the White House national security adviser. The sanctions are largely symbolic but come as America’s efforts [to revive the 2015 nuclear pact](https://www.economist.com/middle-east-and-africa/nuclear-talks-with-iran-enter-the-endgame/21807592) are faltering.
 
 Listen to an abridged version of the subscriber-only briefing.
-
-  
- .
 
 Mexico said it had arrested **Rafael Caro Quintero** , a founding member of the powerful Guadalajara Cartel, during a military operation in the north-western state of Sinaloa. The drugs lord is on [America’s most-wanted list](https://www.economist.com/the-americas/2013/08/17/ghosts-of-the-past) for the kidnapping and murder of an American anti-narcotics agent in 1985. Officials said they would seek the fugitive’s immediate extradition.
 
