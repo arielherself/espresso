@@ -10,11 +10,11 @@
 
  **Wildfires** continue to ravage southern France, Portugal, Spain and north Africa, as well as parts of Croatia, Greece, Italy and Turkey. Temperatures have soared above 45℃ in several places, intensifying [fears about climate change](https://www.economist.com/graphic-detail/2022/04/16/in-chilly-parts-of-europe-heatwaves-strengthen-environmentalism). Thousands of people have been evacuated from their homes in the French department of Gironde, in Spain’s province of Málaga and in parts of Morocco. No respite is expected over the next few days. Britain has issued its first-ever “extreme heat” warning.
 
-A spokesman for **Ukraine’s** military-intelligence agency has said **Russia** is preparing for the next stage of its offensive in the country. He said that, besides missile attacks from land and sea, shelling has continued along the entire front line. On Saturday Russia’s defence minister, Sergei Shoigu, ordered units to ramp up attacks in order to pre-empt Ukrainian [strikes on occupied areas](https://www.economist.com/briefing/2022/06/30/does-a-protracted-conflict-favour-russia-or-ukraine).
+Volodymyr Zelensky, **Ukraine’s** president, fired the head of the country’s **security service** , the SBU, as well as the state prosecutor general. Mr Zelensky said on Telegram that over 60 officials in the two agencies had been found to be collaborating with Russia in territory it has occupied. More collusion is suspected: the Ukrainian president said 651 cases of alleged treason had been opened against officials.
+
+A special committee examining the police response to a deadly mass shooting at a school in **Uvalde, Texas** , in May said that “systemic failures” had prevented swifter action. The report found that the order to confront the gunman was delayed by a lack of co-ordination among the 400 law-enforcement officers at the scene. The report suggested that some of the 21 lives lost that day might have been saved.
 
 The crash of a large cargo plane in **Greece** has raised fears of toxic fumes billowing in the area. Greek media reported that the plane, operated by a company based in Ukraine, was carrying around 11 tonnes of **“dangerous materials”** , including explosives. All eight people on board were killed. Fire engines were not able to approach the site because of blasts that continued hours after the crash. Residents nearby were told to stay indoors.
-
- **America’s** president, Joe Biden, returned from the **Middle East** after a summit with the leaders of nine Arab countries in Jeddah, without securing public commitments either on increased oil production, or new regional security arrangements to counter Iran that would include Israel. But he said America would [not cede the Middle East](https://www.economist.com/middle-east-and-africa/2022/07/12/what-does-the-middle-east-offer-america) to China or Russia: “The United States is not going anywhere.”
 
 Listen to an abridged version of the subscriber-only briefing.
 
