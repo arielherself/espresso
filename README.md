@@ -22,7 +22,7 @@ Ranil Wickremesinghe, **Sri Lanka’s** acting president, declared a state of em
 
  **China’s** banking regulator asked lenders to provide credit to certain **property** **developers** so that they could complete unfinished residential properties. A growing number of home buyers across China have stopped paying mortgages on incomplete and stalled projects, threatening to worsen a [slump in the property sector](https://www.economist.com/finance-and-economics/china-scrambles-to-prevent-property-pandemonium/21807940). Banks have also been asked to support mergers and acquisitions by developers to help stabilise the market.
 
- **Imran Khan** again called for early parliamentary elections after his party won control of the legislature in Punjab, **Pakistan’s** most populous state. The former prime minister’s party won 15 of the 20 seats available in a by-election. Pakistan must hold elections by October 2023, but Mr Khan is keen to regain his grip on power, having [lost a no-confidence vote in April](https://www.economist.com/asia/2022/04/09/the-trouble-facing-pakistans-new-prime-minister).
+At least 20 people died and another 30 went missing after a boat capsized in the Indus river in **Pakistan** . The boat, which was carrying over 100 people, was travelling to a wedding. Its passengers were mostly women and children. Divers have rescued more than 90 passengers so far, according to officials.
 
  **Fact of the day:** 216,000, the estimated number of victims of child abuse at the hands of the Catholic church in France between 1950 and 2020. [Read the full story](https://www.economist.com/leaders/2022/07/14/the-catholic-church-should-scrap-the-requirement-for-priestly-celibacy).
 
@@ -64,7 +64,7 @@ By adjusting the composition of the polymer, the researchers can determine exact
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="8edffbe7f4cbfdfefcebfdfde1ceebede1e0e1e3e7fdfaa0ede1e3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Monday:** Which legendary drummer died at the age of 80 last year?
 
