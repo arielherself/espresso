@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://cdn.static-economist.com/sites/all/themes/econfinal/images/svg/logo.svg" align-center /></div>
 
-# <p align="center">The world in brief 2022-07-17</p>
+# <p align="center">The world in brief 2022-07-18</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
