@@ -100,7 +100,7 @@ They all gave the correct answers of Johnny Ray, Graham Chapman, William Booth, 
  3 <em>across</em> One is hard to preserve in a quantum age (6)  
 
 
-Email all four answers by 9am BST on Monday to cros[[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ----------
 
