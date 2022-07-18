@@ -14,7 +14,7 @@ Volodymyr Zelensky, **Ukraine’s** president, fired the head of the country’s
 
 A special committee examining the police response to a [deadly mass shooting](https://www.economist.com/united-states/2022/05/25/the-spate-of-gun-violence-shows-american-exceptionalism-at-its-worst) at a school in **Uvalde, Texas** , in May said that “systemic failures” had prevented swifter action. The report found that the order to confront the shooter was delayed by a lack of co-ordination among the 400 law-enforcement officers at the scene. The report suggested that some of the 21 lives lost that day might have been saved.
 
-Ranil Wickremesinghe, **Sri Lanka’s** acting president, declared a state of emergency to quell widespread unrest. The ruling party has nominated him for the permanent job, which has infuriated protesters. He would replace Gotabaya Rajapaksa, who last week [fled to Singapore](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) after mass protests and resigned. Mr Wickremesinghe is likely to face several challengers when nominations are submitted on Tuesday.
+Ranil Wickremesinghe, **Sri Lanka’s** acting president, declared a state of emergency to quell widespread unrest. The ruling party has nominated him for the permanent job, which has infuriated protesters. He would replace Gotabaya Rajapaksa, who last week [fled to Singapore](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) after mass protests and resigned. Mr Wickremesinghe is likely to face several challengers when nominations are submitted on Tuesday. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -24,83 +24,49 @@ Ursula von der Leyen, the president of the European Commission, will travel to *
 
  **Imran Khan** again called for early parliamentary elections after his party won control of the legislature in Punjab, **Pakistan’s** most populous state. The former prime minister’s party won 15 of the 20 seats available in a by-election. Pakistan must hold elections by October 2023, but Mr Khan is keen to regain his grip on power, having [lost a no-confidence vote in April](https://www.economist.com/asia/2022/04/09/the-trouble-facing-pakistans-new-prime-minister).
 
- **Word of the Week:** <em>post-quantum cryptography</em>, new encryption mathematics that outpaces the capabilities even of quantum computers. [Read the full article](https://www.economist.com/leaders/2022/07/14/what-to-do-now-about-tomorrows-code-cracking-computers).
+ **Fact of the day:** 216,000, the estimated number of victims of child abuse at the hands of the Catholic church in France between 1950 and 2020. [Read the full story](https://www.economist.com/leaders/2022/07/14/the-catholic-church-should-scrap-the-requirement-for-priestly-celibacy).
 
 ----------
 
-## Sunday night Tory-vision
+## Bannon in the dock
 
-The five [contenders](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm) vying to [succeed Boris Johnson](https://www.economist.com/britain/2022/07/12/the-conservative-party-after-boris-johnson) as leader of Britain’s Conservative Party—and hence prime minister—will face each other in a televised debate on Sunday evening. They are [Liz Truss](https://www.economist.com/britain/2021/04/08/liz-truss-and-the-power-of-perkiness), the foreign secretary; [Rishi Sunak](https://www.economist.com/britain/2020/11/26/rishi-sunak-thatcherite-at-heart), a former chancellor; [Tom Tugendhat](https://www.economist.com/by-invitation/2022/07/13/tom-tugendhat-on-his-ten-year-plan-for-britains-growth), chairman of the foreign-affairs committee; [Penny Mordaunt](https://www.economist.com/britain/2019/05/09/penny-mordaunt-is-on-manoeuvres), a trade minister; and [Kemi Badenoch](https://www.economist.com/britain/2020/10/03/the-tories-launch-a-culture-war), a former local-government minister. The first debate was held on Friday, and the last one will take place on Tuesday.  
-  
- The candidates should expect to be grilled again on tax, tackling inflation, the war in Ukraine, transgender rights and how to restore trust to British politics after Mr Johnson’s scandal-hit tenure. Although all Britons can tune in to the debate, [few have a vote](https://www.economist.com/britain/2022/07/14/britains-prime-minister-becomes-a-rotten-presidency). That right belongs only to Conservative MPs, who this week will whittle down the candidates to a final two, and then around 180,000 members of the party who will be balloted to choose the winner over the summer.
+When Steve Bannon, a former adviser to Donald Trump, ignored a subpoena from the House of Representatives committee investigating the [Capitol riot on January 6th](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) 2021, he was indicted by prosecutors for contempt of Congress. His trial begins on Monday. Combative as ever, Mr Bannon has promised to turn the charges into the “misdemeanour from hell”. He may come to regret that bullishness: if convicted, he faces up to two years in prison.
 
-<em>Follow the Conservative Party leadership contest with </em>[<em>our interactive tracker</em>](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm)
+Congressional investigators intended to ask Mr Bannon about efforts to steal the 2020 election, which culminated in the riot. Before the vote, he presciently predicted that Mr Trump would declare victory before ballot-counting had finished. On January 5th, he warned that “all hell is going to break loose tomorrow”.
 
-## An ugly fight for Wisconsin
+The committee has already painstakingly documented how Mr Trump and his cronies [subverted democracy](https://www.economist.com/podcasts/2022/06/24/what-impact-can-the-january-6th-committee-have). What the Department of Justice does with that information is a separate question. It will have to decide if there is enough [criminal culpability to indict Mr Trump](https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump). 
 
-For the Democratic Party to improve its [hold on America’s Senate](https://www.economist.com/united-states/2022/05/18/republicans-divide-and-democrats-unite-in-the-pennsylvania-primaries) in November it needs to win Wisconsin. On Sunday Democrats vying for the party’s nomination will hold a debate, ahead of the primary election in August.
+## India elects a new president
 
-In Wisconsin, which narrowly voted for Donald Trump in 2016 and then for Joe Biden in 2020, a good Democratic candidate should have a chance. But the fight for the nomination has turned ugly. [Mandela Barnes](https://www.economist.com/united-states/2019/11/07/milwaukees-north-side-remains-deeply-troubled) (pictured), the state’s 35-year-old lieutenant-governor, has led the polls for months. But Alex Lasry, the 34-year-old son of a billionaire hedge-funder, has spent $6m of his own money catching up. Mr Barnes is a progressive who rails against “millionaire” politicians; Mr Lasry is more centrist.
+The president of India is a largely ceremonial role but elections for the post, which take place on Monday, offer a chance for opposition parties to score a rare victory over the ruling Bharatiya Janata Party. Seventeen parties have united behind Yashwant Sinha, a former BJP finance and foreign minister who has turned into one of the party’s fiercest critics. 
 
-Whoever secures the nomination will face Ron Johnson, the Republican incumbent, who says that climate change is a hoax and covid-19 is better tackled with deworming tablets than vaccines. The Democrats have made the race to unseat Mr Johnson tougher than it ought to be.
+Mr Sinha, however, is unlikely to win. The BJP and its allies enjoy a big advantage in the electoral college that elects the president. Moreover, their candidate, Draupadi Murmu, an <em>adivasi</em> (ie, a member of a long-neglected tribal community) is already testing the opposition’s unity. Ms Murmu would be the first <em>adivasi</em> (and only the second woman) to be elected to the role. Voting against her is making some opposition legislators queasy. And for the BJP—its eyes perhaps fixed more firmly on future electoral success than on making history—Ms Murmu could draw in more tribal voters in 2024’s national elections. 
 
-## North Carolina goes Hollywood
+## British barristers go on strike
 
-Any folksy, romantic [American bestseller](https://www.economist.com/britain/2022/05/14/the-highway-code-tops-the-bestseller-lists-again) is bound to be made into a movie. But not necessarily a noteworthy one. (“The Horse Whisperer” or “The Bridges of Madison County” are two forgettable examples.) The latest is “Where The Crawdads Sing”, an adaptation of Delia Owens’s debut novel. The book has sold over 12m copies since its publication in 2018. The inevitable film, produced by Reese Witherspoon, is out in America now and in Britain on July 22nd.
+Courts in England and Wales may [grind to a halt](https://www.economist.com/britain/2022/02/12/unless-lawyers-are-paid-better-courts-will-grind-to-a-halt). On Monday criminal barristers will begin a five-day walk-out, in the final week of a month of progressively longer strikes. 
 
-Daisy Edgar-Jones, the British star of “[Normal People](https://www.economist.com/prospero/2020/04/29/a-faithful-careful-adaptation-of-sally-rooneys-normal-people)”, a television series, plays Kya, a poetic loner who grew up alone in a North Carolina marshland. In 1950s flashbacks, her abusive father abandons her; in 1969, she is tried for the murder of her ex-boyfriend (another Brit, Harris Dickinson).
+They are protesting about low pay. The state compensates defence barristers when their clients cannot afford legal representation. Barristers have not had a raise in years. A review last November recommended a 15% increase for cases filed from October this year. But many lawyers want a bigger raise, and they want it to apply to cases already under way. A spokesman for the association that represents most criminal barristers says that, should the government not come back with a better offer, walk-outs will continue indefinitely, every other week, starting in August.
 
-Most of the novel’s mystery plot has survived the transfer to the big screen, but little of its much-praised authenticity. The film makes life in a backwoods shack seem like an idyllic glamping holiday. Such is Hollywood.
+The upshot is that Britain is failing to give everyone a prompt hearing. The covid-19 pandemic had already led to big backlogs; walk-outs will make them worse. 
 
-## Cold-war games on a summer’s day
+## London’s latest IPO
 
-Fifty years after it was played, actors in London will recreate one of the most [famous chess games](https://www.economist.com/books-and-arts/2008/11/20/pawnography) in history. In the 1972 world championship [Bobby Fisher,](https://www.economist.com/obituary/2008/01/24/bobby-fischer) an idiosyncratic American prodigy, played Boris Spassky, a Russian who shunned the Communist Party. After 21 games Fischer convincingly defeated the defending champion. Thus ended 24 years of Soviet dominance. 
+GlaxoSmithKline, the British pharmaceutical giant, is splitting up. On Monday it spins off its consumer-health unit—which hawks pharmacy mainstays like toothpaste and anti-inflammatories—as a separate company, called Haleon. The new firm will aim for a valuation of £45bn ($53bn) when its shares begin trading on the London Stock Exchange, which would instantly make Haleon one of Britain’s biggest businesses. 
 
-Chess was a political game during the cold war. Both players were under huge pressure to win. Henry Kissinger, later America’s secretary of state, encouraged Fischer to play. Mr Spassky, whose loss irked the Kremlin as much as his sympathy for dissidents, emigrated to France four years later. 
+The listing is London’s largest initial offering in a decade. The bourse’s IPO track record has badly lagged behind those of America, Asia and even continental Europe recently. This means the companies it has listed are older, stable businesses rather than the faster-growing technology companies seen on its competitors. Monday’s listing, which cleaves off a part of one of Britain’s most valuable firms, does nothing to solve the problem of how to attract tech firms. Even Arm, a UK-based chip designer, is considering whether to make its primary listing in New York rather than at home.
 
-Game three of the match will be commemorated during ChessFest, held in Trafalgar Square on Sunday, by actors playing the 32 pieces. The American lost the first game and controversially forfeited the second, so his win in the third proved a turning point. Fischer died in 2008, but Mr Spassky can still enjoy the show.
+## Next-generation vaccines could end boosters
 
-## Weekend profile: Penny Mordaunt, Britain’s next prime minister?
+Few vaccines are “one-and-dones”—[boosters](https://www.economist.com/podcasts/2021/09/14/booster-shots-are-they-necessary) are usually required. Each additional dose means lower uptake and a less immunised population. But suppose you could receive all your doses at once, from a single jab? A new paper in <em>Science Advances</em>, a journal, explains how scientists at the Massachusetts Institute of Technology have developed self-boosting vaccine technology. It employs hollow microparticles made of a biodegradable polymer. These microparticles contain the vaccine, which is released when the outer shell breaks down.
 
-Penny Mordaunt has emerged as the [bookies’ favourite](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm) to succeed Boris Johnson as leader of the Conservative Party, and thus as Britain’s prime minister. Last week she finished second in the first two ballots of Conservative MPs, who next week will whittle down the five remaining candidates to a final pair. The party’s 100,000-or-so members will then have the final say, with the winner to be announced in early September. If Ms Mordaunt makes it that far, she stands a good chance of triumphing. Separate surveys conducted by ConservativeHome, a grassroots website, and YouGov, a pollster, found that she is the favourite among party members. Yet Ms Mordaunt is unknown outside Westminster. What do the Tories see in her?
+By adjusting the composition of the polymer, the researchers can determine exactly how long this process takes, whether days or months. This would be a game-changer, not only for [future pandemics](https://www.economist.com/graphic-detail/2022/04/09/asias-outbreaks-show-that-omicron-is-deadly-in-unvaccinated-people) but also for vaccination programmes in remote regions where it is harder to deliver boosters. It seems too good to be true. But over the past two years vaccine-makers have proved that, with enough funding, they can work wonders.
 
-Ms Mordaunt was born in 1973. Her mother died when she was 15, and her father, a former paratrooper, fell ill the following year, leaving her to care for her younger brother until her father remarried. She worked as a magician’s assistant to help fund her philosophy studies at the University of Reading. When she joined the leadership race, Ms Mordaunt said her “love and pride” of Britain was kindled as a nine-year-old in Portsmouth, as she watched the navy set sail for [war in the Falklands](https://www.economist.com/britain/2022/04/02/the-falklands-war-resonates-40-years-on). Her naval interest seems preordained: she was named after <em>HMS Penelope</em>, a cruiser. She serves as a navy reservist, and was elected as the Conservative MP for Portsmouth North in 2010. 
+## Daily quiz
 
-Ms Mordaunt’s supporters say her rise reflects the party’s appetite for change after the scandal and decadence of Mr Johnson’s tenure. They describe her as hard-working and dutiful, provincial rather than metropolitan. She supported Brexit, but is not fervent about the divorce. In “Greater: Britain After the Storm”, a book she co-authored last year, she offers an affectionate portrait of modern Britain as a good-humoured land of the NHS, pubs and the Human Rights Act. Her policies tend to focus on local communities rather than grand national ideas. One of her ideas is for MPs to be given pots of money to distribute to good causes in their constituencies. She would like to see a bigger role for charities, and for the volunteers who rallied during covid-19 to be put to work permanently.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="e9b89c8093ac9a999b8c9a9a86a98c8a86878684809a9dc78a8684">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-The video that announced her candidacy was subject to much mockery in Westminster. It featured rolling shots of Britain, set to “I Vow to Thee My Country”, a patriotic ditty. Party members were not so sniffy. Ms Mordaunt’s ideological ambiguity has made her an attractive default candidate for MPs who dislike Rishi Sunak, the former chancellor and current frontrunner, and Liz Truss, the foreign secretary, her main rival for that second place. Yet even her supporters admit she is untested, and that the success of her notional premiership would depend on whether she would be prepared to appoint strong rivals to big posts, or rely on yes-men—as Mr Johnson did.  
-  
-<em>Follow the Conservative Party leadership contest with </em>[<em>our interactive tracker</em>](https://www.economist.com/interactive/2022/07/12/the-race-to-become-britains-next-pm)
-
-## The winner’s of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: **Unmesh Sharma** , Mumbai, India   
- North America: **Robert V. Johnson** , Hinsdale, United States  
- Central and South America: ** Jos** **é Miguel Ried** , Santiago, Chile  
- Europe: **Fred Chambers** , London, United Kingdom   
- Africa: **Madeleine Wackernagel** , Naro Moru, Kenya  
- Oceania: **Deborah Campbell** , Clovelly, Australia 
-
-They all gave the correct answers of Johnny Ray, Graham Chapman, William Booth, Oswald the lucky rabbit and Cassius Clay. They all share names with assassins: James Earl Ray (Martin Luther King), Mark Chapman (John Lennon), John Wilkes Booth (Abraham Lincoln), Lee Harvey Oswald (JFK) and Cassius (Julius Caesar).
-
-## The weekend crossword
-
-**Cryptic clues**   
-<em>1 down </em>Muddled, non-U focus in papers for religious leader (4,7)  
-<em>1 across </em>Some cram an apple upside down in their hat (6)  
-<em>2 across</em> Leading rough-hide in name only? (5)  
-<em>3 across</em> Princess is not indiscreet, but messy: don’t tell! (6) 
-
- **Factual clues**   
- 1 <em>down</em> A man not in the habit of taking advice from newspapers (4,7)  
- 1 <em>across </em>Last year 130,000 people trekked through its trackless jungle (6)   
- 2 <em>across</em> It produces material for a powder that sells for $70,000 a kilo (5)  
- 3 <em>across</em> One is hard to preserve in a quantum age (6)  
-
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+ **Monday:** Which legendary drummer died at the age of 80 last year?
 
 ----------
 
