@@ -38,9 +38,15 @@ The committee has already painstakingly documented how Mr Trump and his cronies 
 
 ## India elects a new president
 
-The president of India is a largely ceremonial role but elections for the post, which take place on Monday, offer a chance for opposition parties to score a rare victory over the ruling Bharatiya Janata Party. Seventeen parties have united behind Yashwant Sinha, a former BJP finance and foreign minister who has turned into one of the party’s fiercest critics. 
+The president of India is a largely ceremonial role but elections for the post, which took place on Monday, offer a chance for opposition parties to score a rare victory over the ruling Bharatiya Janata Party. Seventeen parties have united behind Yashwant Sinha, a former BJP finance and foreign minister who has turned into one of the party’s fiercest critics. 
 
-Mr Sinha, however, is unlikely to win. The BJP and its allies enjoy a big advantage in the electoral college that elects the president. Moreover, their candidate, Draupadi Murmu, an <em>adivasi</em> (ie, a member of a long-neglected tribal community) is already testing the opposition’s unity. Ms Murmu would be the first <em>adivasi</em> (and only the second woman) to be elected to the role. Voting against her is making some opposition legislators queasy. And for the BJP—its eyes perhaps fixed more firmly on future electoral success than on making history—Ms Murmu could draw in more tribal voters in 2024’s national elections. 
+Mr Sinha, however, is unlikely to prevail once a winner is announced later in the week. The BJP and its allies enjoy a big advantage in the electoral college that elects the president. Moreover, their candidate, Draupadi Murmu, an <em>adivasi</em> (ie, a member of a long-neglected tribal community) is already testing the opposition’s unity. Ms Murmu would be the first <em>adivasi</em> (and only the second woman) to be elected to the role. Voting against her is making some opposition legislators queasy. And for the BJP—its eyes perhaps fixed more firmly on future electoral success than on making history—Ms Murmu could draw in more tribal voters in 2024’s national elections. 
+
+## London’s latest IPO
+
+GlaxoSmithKline, the British pharmaceutical giant, is splitting up. On Monday it spun off its consumer-health unit—which hawks pharmacy mainstays like toothpaste and anti-inflammatories—as a separate company, called Haleon. The new firm [started trading on the London Stock Exchange](https://www.economist.com/britain/2022/07/18/haleons-listing-shows-the-woes-of-the-london-stock-exchange) with a valuation of a little over £30.5bn ($36.4bn), making Haleon one of Britain’s biggest businesses. 
+
+The listing was London’s largest initial offering in a decade. The bourse’s IPO track record has badly lagged behind those of America, Asia and even continental Europe recently. This means the companies it has listed are older, stable businesses rather than the faster-growing technology companies seen on its competitors. Monday’s listing, which cleaves off a part of one of Britain’s most valuable firms, does nothing to solve the problem of how to attract tech firms. Even Arm, a UK-based chip designer, is considering whether to make its primary listing in New York rather than at home.
 
 ## British barristers go on strike
 
@@ -50,12 +56,6 @@ They are protesting about low pay. The state compensates defence barristers when
 
 The upshot is that Britain is failing to give everyone a prompt hearing. The covid-19 pandemic had already led to big backlogs; walk-outs will make them worse. 
 
-## London’s latest IPO
-
-GlaxoSmithKline, the British pharmaceutical giant, is splitting up. On Monday it spins off its consumer-health unit—which hawks pharmacy mainstays like toothpaste and anti-inflammatories—as a separate company, called Haleon. The new firm will aim for a valuation of £45bn ($53bn) when its shares begin trading on the London Stock Exchange, which would instantly make Haleon one of Britain’s biggest businesses. 
-
-The listing is London’s largest initial offering in a decade. The bourse’s IPO track record has badly lagged behind those of America, Asia and even continental Europe recently. This means the companies it has listed are older, stable businesses rather than the faster-growing technology companies seen on its competitors. Monday’s listing, which cleaves off a part of one of Britain’s most valuable firms, does nothing to solve the problem of how to attract tech firms. Even Arm, a UK-based chip designer, is considering whether to make its primary listing in New York rather than at home.
-
 ## Next-generation vaccines could end boosters
 
 Few vaccines are “one-and-dones”—[boosters](https://www.economist.com/podcasts/2021/09/14/booster-shots-are-they-necessary) are usually required. Each additional dose means lower uptake and a less immunised population. But suppose you could receive all your doses at once, from a single jab? A new paper in <em>Science Advances</em>, a journal, explains how scientists at the Massachusetts Institute of Technology have developed self-boosting vaccine technology. It employs hollow microparticles made of a biodegradable polymer. These microparticles contain the vaccine, which is released when the outer shell breaks down.
@@ -64,7 +64,7 @@ By adjusting the composition of the polymer, the researchers can determine exact
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="dd8ca8b4a798aeadafb8aeaeb29db8beb2b3b2b0b4aea9f3beb2b0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Monday:** Which legendary drummer died at the age of 80 last year?
 
