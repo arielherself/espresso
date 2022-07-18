@@ -12,13 +12,13 @@
 
 Ursula von der Leyen, the president of the European Commission, met with **Azerbaijan’s** president, Ilham Aliev, to sign a new agreement on **energy** supplies. The agreement commits to double gas deliveries from Azerbaijan to the EU, as it looks to [wean itself from Russian supplies](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). The leaders also agreed to expand support for Azerbaijan’s renewable-energy sector and help it reduce its methane emissions.
 
- **Ghana** confirmed two cases of the **Marburg virus** , a highly contagious disease similar to Ebola. It is only the second time the illness has been detected in **West Africa** . The announcement followed tests by the World Health Organisation on samples from two patients who died in late June. Over 90 of their contacts are being monitored by health authorities.
+ **Goldman Sachs** reported that net income in the second quarter fell by 47% from the same period a year ago, to $2.9bn. Its investment-banking revenues dropped by 41% amid a drought of public listings, though stockmarket volatility boosted trading revenues by 32%. Goldman said it would slow hiring and possibly resume culling underperformers, a practice it had [abandoned in the pandemic](https://www.economist.com/finance-and-economics/the-latest-industry-to-suffer-labour-shortages-investment-banking/21808714).
 
- **Euromoney** , a British financial news company, accepted a takeover bid of around $2bn from private equity groups Astorg and Epiris, a rare take-private deal amidst economic uncertainty. If accepted by shareholders, the deal will see the business split into two, with Astorg taking Euromoney’s price reporting division and Epiris taking the rest.
+ **Ghana** confirmed two cases of the **Marburg virus** , a highly contagious disease similar to Ebola. It is only the second time the illness has been detected in **West Africa** . The announcement followed tests by the World Health Organisation on samples from two patients who died in late June. Over 90 of their contacts are being monitored by health authorities.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Ranil Wickremesinghe, **Sri Lanka’s** acting president, declared a state of emergency to quell widespread unrest. The ruling party has nominated him for the permanent job, which has infuriated protesters. He would replace Gotabaya Rajapaksa, who last week [fled to Singapore](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) after mass protests and resigned. Mr Wickremesinghe is likely to face several challengers when nominations are submitted on Tuesday. 
+ **Euromoney** , a British financial news company, accepted a takeover bid of around $2bn from private equity groups Astorg and Epiris, a rare take-private deal amidst economic uncertainty. If accepted by shareholders, the deal will see the business split into two, with Astorg taking Euromoney’s price reporting division and Epiris taking the rest.
 
  **China’s** banking regulator asked lenders to provide credit to certain **property** **developers** so that they could complete unfinished residential properties. A growing number of home buyers across China have stopped paying mortgages on incomplete and stalled projects, threatening to worsen a [slump in the property sector](https://www.economist.com/finance-and-economics/china-scrambles-to-prevent-property-pandemonium/21807940). Banks have also been asked to support mergers and acquisitions by developers to help stabilise the market.
 
@@ -64,7 +64,7 @@ By adjusting the composition of the polymer, the researchers can determine exact
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="9bcaeef2e1dee8ebe9fee8e8f4dbfef8f4f5f4f6f2e8efb5f8f4f6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3d6c485447784e4d4f584e4e527d585e52535250544e49135e5250">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Monday:** Which legendary drummer died at the age of 80 last year?
 
