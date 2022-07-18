@@ -8,7 +8,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
- **Britain** issued its first-ever “ **extreme heat** ” warning, with temperatures expected to touch a record-high 41°C on Monday. Over the weekend wildfires ravaged southern France, Portugal, Spain and north Africa, as well as parts of Croatia, Greece, Italy and Turkey. Temperatures soared above 45°C in several places, intensifying [fears about climate change](https://www.economist.com/graphic-detail/2022/04/16/in-chilly-parts-of-europe-heatwaves-strengthen-environmentalism). Thousands of people have been evacuated from their homes in the French department of Gironde, in Spain’s province of Málaga and in parts of Morocco.
+ **Britain** recorded one of its hottest days ever on Monday, with temperatures reaching 38°C. They were expected to climb higher still on Tuesday, to 41°C. Over the weekend wildfires ravaged southern France, Portugal, Spain and north Africa, as well as parts of Croatia, Greece, Italy and Turkey. Temperatures soared above 45°C in several places, intensifying [fears about climate change](https://www.economist.com/graphic-detail/2022/04/16/in-chilly-parts-of-europe-heatwaves-strengthen-environmentalism). Thousands of people have been evacuated from their homes in the French department of Gironde, in Spain’s province of Málaga and in parts of Morocco.
 
 Ursula von der Leyen, the president of the European Commission, met with **Azerbaijan’s** president, Ilham Aliev, to sign a new agreement on **energy** supplies. The agreement commits to double gas deliveries from Azerbaijan to the EU, as it looks to [wean itself from Russian supplies](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). The leaders also agreed to expand support for Azerbaijan’s renewable-energy sector and help it reduce its methane emissions.
 
@@ -18,9 +18,9 @@ Ursula von der Leyen, the president of the European Commission, met with **Azerb
 
 Listen to an abridged version of the subscriber-only briefing.
 
- **Euromoney** , a British financial news company, accepted a takeover bid of around $2bn from private equity groups Astorg and Epiris, a rare take-private deal amidst economic uncertainty. If accepted by shareholders, the deal will see the business split into two, with Astorg taking Euromoney’s price reporting division and Epiris taking the rest.
+Chuck Schumer, the Senate majority leader, said he would call a vote on a $52bn package of subsidies to American **chipmakers** as soon as Tuesday. Two years in the making, the legislation was prompted by concerns that China’s semiconductor industry has [raced ahead](https://www.economist.com/business/america-has-a-plan-to-throttle-chinese-chipmakers/21808959) of America’s. Senators are expected to vote on a pared-down version of the bill: other provisions related to American competitiveness vis-à-vis China, such as grants for science research, were scrapped.
 
- **China’s** banking regulator asked lenders to provide credit to certain **property** **developers** so that they could complete unfinished residential properties. A growing number of home buyers across China have stopped paying mortgages on incomplete and stalled projects, threatening to worsen a [slump in the property sector](https://www.economist.com/finance-and-economics/china-scrambles-to-prevent-property-pandemonium/21807940). Banks have also been asked to support mergers and acquisitions by developers to help stabilise the market.
+ **Euromoney** , a British financial news company, accepted a takeover bid of around $2bn from private equity groups Astorg and Epiris, a rare take-private deal amidst economic uncertainty. If accepted by shareholders, the deal will see the business split into two, with Astorg taking Euromoney’s price reporting division and Epiris taking the rest.
 
 At least 20 people died and another 30 went missing after a boat capsized in the Indus river in **Pakistan** . The boat, which was carrying over 100 people, was travelling to a wedding. Its passengers were mostly women and children. Divers have rescued more than 90 passengers so far, according to officials.
 
@@ -64,7 +64,7 @@ By adjusting the composition of the polymer, the researchers can determine exact
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="6637130f1c23151614031515092603050908090b0f15124805090b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="015074687b447271736472726e4164626e6f6e6c6872752f626e6c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Monday:** Which legendary drummer died at the age of 80 last year?
 
