@@ -12,17 +12,17 @@
 
 A Delaware judge set an October start date in the trial between **Elon Musk** and **Twitter** , rejecting Mr Musk’s bid to hold it next year. A long delay, and the uncertainty around the deal, harms Twitter “every hour of every day”, argued its lawyers. The social-media firm sued Mr Musk after he sought to [abandon his agreement to buy it](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up) for $44bn.
 
+ **Volodymyr Zelensky** , Ukraine’s president, sacked the deputy head of the domestic intelligence agency, days after he had dismissed the agency’s boss and Ukraine’s prosecutor-general. Mr Zelensky has criticised senior officials for acting too slowly to root out pro-Russian sympathisers in government. One of his allies said more such purges were likely, given the extent to which Russian agents had “secretly entrenched themselves”.
+
  **China’s** government warned it would take “forceful measures” if **Nancy Pelosi** , speaker of America’s House of Representatives, visits **Taiwan** . The <em>Financial Times</em> reported that Ms Pelosi plans to visit the island, which China claims, next month. Ms Pelosi would be the most senior American lawmaker to visit Taiwan since Newt Gingrich travelled to the island as speaker in 1997.
 
- **China** reported almost 700 new cases of **covid-19** on Monday, its highest tally in nearly two months. Most cases were recorded in the southern region of Guangxi and the north-western province of Gansu. Lockdowns have been imposed in both places. In Shanghai, the financial capital, officials launched a campaign to test around 20m people to [prevent another lockdown](https://www.economist.com/finance-and-economics/2022/06/16/in-stamping-out-covid-china-has-stomped-on-confidence).
-
 Listen to an abridged version of the subscriber-only briefing.
+
+ **China** reported almost 700 new cases of **covid-19** on Monday, its highest tally in nearly two months. Most cases were recorded in the southern region of Guangxi and the north-western province of Gansu. Lockdowns have been imposed in both places. In Shanghai, the financial capital, officials launched a campaign to test around 20m people to [prevent another lockdown](https://www.economist.com/finance-and-economics/2022/06/16/in-stamping-out-covid-china-has-stomped-on-confidence).
 
  **France’s** government offered nearly €10bn to nationalise the struggling nuclear energy operator **EDF** . The government already owns 84% of the company but will make an offer of €12 per share to minority shareholders to take full control. The offer is a 53% premium on EDF’s closing price before the nationalisation plan was announced in early July. Shares in the company rose nearly 15% in early trading on the news.
 
 The London listing of **Arm** , a British chip designer, was delayed amid Britain’s political instability, according to the <em>Financial Times</em>. SoftBank, the company’s Japanese owner, had been lobbied by British politicians to list Arm, one of Britain’s few tech [success stories](https://www.economist.com/business/2022/06/22/why-everyone-wants-arm), in London. Though SoftBank had considered a dual-listing in London and New York, the resignation of Boris Johnson, Britain’s prime minister, reportedly prompted a change of plan.
-
-Swedish-born pop artist **Claes Oldenburg** , known for turning everyday objects into monumental sculptures, died in Manhattan. The 93-year-old artist’s subjects included a baseball bat, an apple core and a [clothespeg](https://www.economist.com/christmas-specials/2016/12/24/a-celebration-of-the-oddly-modern-oddly-mystical-clothespeg). In 2009 his sculpture “Typewriter Eraser” sold for $2.2m at auction in New York. 
 
  **Fact of the day:** £30.5bn, the opening market capitalisation of Haleon, the largest new entrant on the London Stock Exchange since 2011. [Read the full article](https://www.economist.com/britain/2022/07/18/haleons-listing-shows-the-woes-of-the-london-stock-exchange).
 
@@ -48,7 +48,7 @@ These new challenges provoke many questions, but few clear answers. Can America 
 
 ## Netflix’s big cliffhanger
 
-The last instalment of Netflix’s earnings, in April, [shocked shareholders](https://www.economist.com/business/netflix-sheds-subscribers-and-170bn-in-market-value/21808847). Not only had the company lost 200,000 subscribers in the first quarter, but bosses warned it was likely to shed 2m more in the second, around 1% of total subscribers. That news sparked a share-price crash and left investors on the edge of their seats. On Tuesday the cliffhanger will end as the company reports its second-quarter earnings—and investors will learn just how many subscribers have left.
+The last instalment of Netflix’s earnings, in April, [shocked shareholders](https://www.economist.com/business/netflix-sheds-subscribers-and-170bn-in-market-value/21808847). Not only had the company lost 200,000 subscribers in the first quarter, but bosses warned it was likely to shed 2m more in the second, around 1% of total subscribers. That news sparked a share-price crash and left investors on the edge of their seats. On Tuesday the company said it lost 970,000 paid subscribers in the second quarter. Revenues grew by 9% year on year, to nearly $8bn.
 
 Netflix is working on a revival plan, including a subscription tier with adverts, which it thinks could boost revenues. Hoping to increase the number of subscribers, bosses are trying to crack down on the sharing of passwords. But as inflation grows and consumers cut back on spending, Netflix faces an uphill battle. It will have to make its own spending cuts too. That makes the release of “The Gray Man” this week rather awkward. With a budget of $200m, it is Netflix’s most expensive film yet.
 
@@ -60,7 +60,7 @@ In “The Day the Music Died” Mr McLean, who has long been cagey about the mea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3766425e4d72444745524444587752545859585a5e44431954585a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 Tuesday: Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
 
