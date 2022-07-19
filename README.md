@@ -18,7 +18,7 @@ Sajith Premadasa, **Sri Lanka** ’s opposition leader, withdrew from the race t
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Chuck Schumer, America’s Senate majority leader, said he would call a vote on a $52bn package of subsidies to **chipmakers** as soon as Tuesday. Two years in the making, the legislation was prompted by fears that China’s semiconductor industry has [raced ahead](https://www.economist.com/business/america-has-a-plan-to-throttle-chinese-chipmakers/21808959) of America’s. Senators are expected to vote on a pared-down version of the bill, which scraps other provisions related to American competitiveness.
+ **France’s** government offered nearly €10bn to nationalise the struggling nuclear energy operator **EDF** . The government already owns 84% of the company but will make an offer of €12 per share to minority shareholders to take full control. The offer is a 53% premium on EDF’s closing price before the nationalisation plan was announced in early July. Shares in the company rose nearly 15% in early trading on the news.
 
 The London listing of **Arm** , a British chip designer, was delayed amid Britain’s political instability, according to the <em>Financial Times</em>. SoftBank, the company’s Japanese owner, had been lobbied by British politicians to list Arm, one of Britain’s few tech [success stories](https://www.economist.com/business/2022/06/22/why-everyone-wants-arm), in London. Though SoftBank had considered a dual-listing in London and New York, the resignation of Boris Johnson, Britain’s prime minister, reportedly prompted a change of plan.
 
@@ -60,7 +60,7 @@ In “The Day the Music Died” Mr McLean, who has long been cagey about the mea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="fdac889487b88e8d8f988e8e92bd989e92939290948e89d39e9290">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="fcad899586b98f8c8e998f8f93bc999f93929391958f88d29f9391">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 Tuesday: Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
 
