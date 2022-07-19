@@ -8,7 +8,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The **European Commission** said it does not expect Russia’s Gazprom to restart gas supplies through the **Nord Stream 1** pipeline as scheduled on Thursday. The pipeline was closed last week for maintenance, though some suspect Russia is wielding it as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for EU sanctions. Gazprom earlier declared <em>force majeure</em> to European buyers, warning that it could not fulfil its supply obligations.
+ **Russia’s** Gazprom will restart gas supplies to Europe via the **Nord Stream 1** pipeline on schedule on Thursday, but at a reduced capacity, according to a report by Reuters. The pipeline closed last week for maintenance but the European Commission said earlier they did not expect it to reopen on time. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for EU sanctions.
 
  **China’s** government warned it would take “forceful measures” if **Nancy Pelosi** , speaker of America’s House of Representatives, visits **Taiwan** . The <em>Financial Times</em> reported that Ms Pelosi plans to visit the island, which China claims, next month. Ms Pelosi would be the most senior American lawmaker to visit Taiwan since Newt Gingrich travelled to the island as speaker in 1997.
 
@@ -60,7 +60,7 @@ In “The Day the Music Died” Mr McLean, who has long been cagey about the mea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="a6f7d3cfdce3d5d6d4c3d5d5c9e6c3c5c9c8c9cbcfd5d288c5c9cb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 Tuesday: Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
 
