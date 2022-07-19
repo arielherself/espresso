@@ -8,7 +8,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
- **Russia’s** Gazprom will restart gas supplies to Europe via the **Nord Stream 1** pipeline on schedule on Thursday, but at a reduced capacity, according to a report by Reuters. The pipeline closed last week for maintenance but the European Commission said earlier they did not expect it to reopen on time. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for EU sanctions.
+ **Russia’s** Gazprom will restart gas supplies to Europe via the **Nord Stream 1** pipeline on schedule on Thursday, but at a reduced capacity, according to a report by Reuters. The pipeline closed last week for maintenance but the European Commission said earlier it did not expect it to reopen on time. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for EU sanctions.
 
 A Delaware judge set an October start date in the trial between **Elon Musk** and **Twitter** , rejecting Mr Musk’s bid to hold it next year. A long delay, and the uncertainty around the deal, harms Twitter “every hour of every day”, argued its lawyers. The social-media firm sued Mr Musk after he sought to [abandon his agreement to buy it](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up) for $44bn.
 
@@ -60,7 +60,7 @@ In “The Day the Music Died” Mr McLean, who has long been cagey about the mea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="f5a4809c8fb08685879086869ab590969a9b9a989c8681db969a98">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="1e4f6b77645b6d6e6c7b6d6d715e7b7d71707173776d6a307d7173">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 Tuesday: Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
 
