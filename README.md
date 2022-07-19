@@ -10,11 +10,11 @@
 
  **Russia’s** Gazprom will restart gas supplies to Europe via the **Nord Stream 1** pipeline on schedule on Thursday, but at a reduced capacity, according to a report by Reuters. The pipeline closed last week for maintenance but the European Commission said earlier they did not expect it to reopen on time. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for EU sanctions.
 
+A Delaware judge set an October start date in the trial between **Elon Musk** and **Twitter** , rejecting Mr Musk’s bid to hold it next year. A long delay, and the uncertainty around the deal, harms Twitter “every hour of every day”, argued its lawyers. The social-media firm sued Mr Musk after he sought to [abandon his agreement to buy it](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up) for $44bn.
+
  **China’s** government warned it would take “forceful measures” if **Nancy Pelosi** , speaker of America’s House of Representatives, visits **Taiwan** . The <em>Financial Times</em> reported that Ms Pelosi plans to visit the island, which China claims, next month. Ms Pelosi would be the most senior American lawmaker to visit Taiwan since Newt Gingrich travelled to the island as speaker in 1997.
 
  **China** reported almost 700 new cases of **covid-19** on Monday, its highest tally in nearly two months. Most cases were recorded in the southern region of Guangxi and the north-western province of Gansu. Lockdowns have been imposed in both places. In Shanghai, the financial capital, officials launched a campaign to test around 20m people to [prevent another lockdown](https://www.economist.com/finance-and-economics/2022/06/16/in-stamping-out-covid-china-has-stomped-on-confidence).
-
-Sajith Premadasa, **Sri Lanka** ’s opposition leader, withdrew from the race to replace Gotabaya Rajapaksa, the disgraced former president who [fled the country](https://www.economist.com/asia/2022/07/13/sri-lankas-president-flees-leaving-the-country-in-chaos) amid widespread protests. Mr Premadasa pledged his support for Dullas Alahapperuma, a candidate from a breakaway group of the ruling party. Mr Alahapperuma will challenge Ranil Wickremesinghe, the acting president, and Anura Dissanayake, a leftist leader, in a vote in parliament which takes place on Wednesday.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -60,7 +60,7 @@ In “The Day the Music Died” Mr McLean, who has long been cagey about the mea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="2372564a59665053514650504c6346404c4d4c4e4a50570d404c4e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4b1a3e22310e383b392e3838240b2e282425242622383f65282426">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 Tuesday: Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
 
