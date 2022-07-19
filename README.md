@@ -30,7 +30,7 @@ Swedish-born pop artist **Claes Oldenburg** , known for turning everyday objects
 
 ## Europe’s deadly heat
 
-On Tuesday temperatures in some parts of Britain may hit a record-breaking 42°C. Things are even worse elsewhere in Europe, where a severe heatwave has sparked enormous wildfires in Greece, Portugal and Spain. Midwestern and Southern parts of America are enduring a historically hot summer, too. And last week cities in eastern and southern China sweltered through unusually high temperatures.
+On Tuesday temperatures in Britain hit a record-breaking 40°C. Things are even worse elsewhere in Europe, where a severe heatwave has sparked enormous wildfires in Greece, Portugal and Spain; hundreds are thought to have died. Midwestern and Southern parts of America are enduring a historically hot summer, too. And last week cities in eastern and southern China sweltered through unusually high temperatures.
 
 Heatwaves are becoming more frequent, and worse, because of climate change. They are also more likely to happen simultaneously across countries. This could be because it is hotter everywhere: with each fraction of a degree of global warming, temperature spikes become more extreme. Or it might be because climate change is altering the jet stream—the name given to air currents that snake through the upper atmosphere—though the link is not yet clear. Either way, millions if not billions of people are struggling with higher temperatures that they are not prepared for. Many [thousands will die](https://www.economist.com/leaders/2021/07/03/the-danger-posed-by-heatwaves-deserves-to-be-taken-more-seriously).
 
@@ -60,7 +60,7 @@ In “The Day the Music Died” Mr McLean, who has long been cagey about the mea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="efbe9a8695aa9c9f9d8a9c9c80af8a8c80818082869c9bc18c8082">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 Tuesday: Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
 
