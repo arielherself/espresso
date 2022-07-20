@@ -18,7 +18,7 @@ Regulators in **China** are reportedly preparing to fine **Didi** , a ride-haili
 
 Listen to an abridged version of the subscriber-only briefing.
 
-A Delaware judge set an October start date in the trial between **Elon Musk** and **Twitter** , rejecting Mr Musk’s bid to hold it next year. A long delay, and the uncertainty around the deal, harms Twitter “every hour of every day”, argued its lawyers. The social-media firm sued Mr Musk after he sought to [abandon his agreement to buy it](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up) for $44bn.
+**Sri Lanka’s** parliament voted in **Ranil Wickremesinghe** as the new president on Wednesday. He was already serving as acting president, after the resignation of Gotabaya Rajapaksa last week. Mr Wickremesinghe is seen as an ally to his predecessor and is unpopular with the public; his house was burnt down amid the violent protests that triggered Mr Rajapaksa’s flight. 
 
  **Netflix** shed 970,000 paid subscribers in the three months ending in June. The drop marked its [second consecutive quarterly decline](https://www.economist.com/business/netflix-sheds-subscribers-and-170bn-in-market-value/21808847), although it was less drastic than the 2m loss the firm had forecast. Revenues grew by 9% year on year, to nearly $8bn. The streaming firm said it would probably add 1m new subscribers in the next quarter. It plans to offer a cheaper ad-supported tier in a handful of countries starting next year.
 
@@ -70,7 +70,7 @@ Thirty years later, some people are still loyal. Websites offer recreations of t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="2273574b58675152504751514d6247414d4c4d4f4b51560c414d4f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Wednesday:** Which scientist won the Nobel peace prize as well as a Nobel for chemistry?  
  **Tuesday:** Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
