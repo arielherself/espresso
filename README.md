@@ -8,7 +8,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The **European Commission** will reportedly urge member countries to cut **gas** usage by 15% amid fears of reduced supply from Russia. The emergency plan, reported by Reuters, comes after Vladimir Putin said when **Gazprom** restarts supplies to Europe via the **Nord Stream 1** pipeline on Thursday, it will be at a drastically reduced capacity. Officially the pipeline is closed for maintenance. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for the EU’s support of Ukraine.
+The **European Commission** urged member countries to cut **gas** usage by 15% amid fears of reduced supply from Russia. The emergency plan, comes after Vladimir Putin said that when **Gazprom** restarts supplies to Europe via the **Nord Stream 1** pipeline on Thursday, it will be at a drastically reduced capacity. Officially the pipeline is closed for maintenance. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for the EU’s support of Ukraine.
 
  **Britain** recorded **temperatures** of more than 40°C for the first time on Tuesday, with the freakish heat straining fire departments and other public services. [Extremely high temperatures](https://www.economist.com/the-economist-explains/2022/07/19/the-increase-in-simultaneous-heatwaves) were recorded across Europe. Huge [wildfires](https://www.economist.com/graphic-detail/2022/07/18/how-bad-are-europes-wildfires) have flashed across the continent in recent days, with tens of thousands of people fleeing homes in France. Portugal reported more than 1,000 heatwave-related deaths.
 
@@ -70,7 +70,7 @@ Thirty years later, some people are still loyal. Websites offer recreations of t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="81d0f4e8fbc4f2f1f3e4f2f2eec1e4e2eeefeeece8f2f5afe2eeec">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Wednesday:** Which scientist won the Nobel peace prize as well as a Nobel for chemistry?  
  **Tuesday:** Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
