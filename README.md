@@ -14,15 +14,15 @@ The government of Mario Draghi, **Italy’s** prime minister, unravelled on Wedn
 
 President **Joe Biden** announced various climate-related executive actions, days after his proposed **climate** legislation ran aground in Congress. One directive promotes offshore wind development in the Gulf of Mexico, historically a site of oil-and-gas drilling, and in waters along America’s south-eastern coast. But Mr Biden stopped short of declaring a national climate-change emergency, as some activists had hoped. Such a decree would make more federal money available for mitigation efforts.
 
-The **European Commission** urged member countries to cut **gas** usage by 15% amid fears of reduced supply from Russia. The emergency plan, comes after Vladimir Putin said that when **Gazprom** restarts supplies to Europe via the **Nord Stream 1** pipeline on Thursday, it will be at a drastically reduced capacity. Officially the pipeline is closed for maintenance. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for the EU’s support of Ukraine.
+ **Tesla’s** second-quarter profit declined from the first three months of the year, owing to [covid-related shutdowns](https://www.economist.com/business/what-shanghai-lockdowns-mean-for-china-inc/21808450) at its Shanghai factory and a parts shortage. The carmaker recorded revenues of $16.9bn. Net income was $2.3bn—nearly double its profit in the same period last year, but short of the record $3.3bn booked last quarter. Tesla aims to produce more than 1.5m vehicles this year, up by 60% from 2021.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+The **European Commission** urged member countries to cut **gas** usage by 15% amid fears of reduced supply from Russia. The emergency plan, comes after Vladimir Putin said that when **Gazprom** restarts supplies to Europe via the **Nord Stream 1** pipeline on Thursday, it will be at a drastically reduced capacity. Officially the pipeline is closed for maintenance. Some suspect Russia is manipulating gas flows as a [political tool](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) in retaliation for the EU’s support of Ukraine.
 
 **Ukraine** will ask international bondholders for a delay of two years in making its **debt repayments​​** **—** so it can put the money towards its defence against Russia. The Ukrainian government hopes to negotiate the deferral by the middle of August, before some $1.2bn of debt payments are due in early September. Ukraine’s GDP has fallen by an estimated 40% since Russia invaded in February. 
 
 **Rishi Sunak** and **Liz Truss** made it through to the final round of **Britain’s** Conservative [leadership race](https://www.economist.com/interactive/next-prime-minister-uk); **Penny Mordaunt** was eliminated. The winner will replace Boris Johnson as prime minister. Ms Mordaunt received only 105 votes from Conservative MPs on Wednesday. Ms Truss, the foreign secretary, received 113 supporters; Mr Sunak, a former chancellor, led with 137. The final two candidates will now [face a ballot](https://www.economist.com/the-economist-explains/2022/07/07/how-does-britains-conservative-party-choose-a-new-leader) of approximately 180,000 Conservative Party members, with the result expected on September 5th. 
-
-**Inflation** in **Canada** accelerated to 8.1% in June, though not as sharply as forecasts suggested. Prices were estimated to have risen by 8.4%, though the real inflation rate was still above May’s 7.7%. Last week the Bank of Canada raised its key interest rate by one percentage point, to 2.5%, to try and curb inflation. 
 
  **Fact of the day:** 45%, the decline of the Sri Lankan rupee against the dollar since March. [Read the full article](https://www.economist.com/the-economist-explains/2022/07/19/why-is-sri-lanka-in-turmoil).
 
@@ -70,7 +70,7 @@ Thirty years later, some people are still loyal. Websites offer recreations of t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="9ecfebf7e4dbedeeecfbededf1defbfdf1f0f1f3f7edeab0fdf1f3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Wednesday:** Which scientist won the Nobel peace prize as well as a Nobel for chemistry?  
  **Tuesday:** Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
