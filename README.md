@@ -54,9 +54,9 @@ Yet rates are only part of the job. The bank must also hash out the details of a
 
 In Brussels, London and Washington, the topic of conversation at central banks is not whether to raise interest rates to contain inflation, but by how much. In Ankara, things are different.
 
-When Turkey’s central bank meets on Thursday, almost no one expects the rate-setters to increase rates at all. Turkey’s president, Recep Tayyip Erdogan, believes that higher [interest rates](https://www.economist.com/finance-and-economics/erdogans-zany-monetary-experiment-is-impoverishing-turkey/21806459) are the cause of high inflation, not a cure for it. Those who think otherwise, he recently said, “are either illiterates or traitors”. He has duly sacked three central-bank governors who disagree.
+When Turkey’s central bank meets on Thursday, the rate-setters did not increase rates at all. That was entirely expected. Turkey’s president, Recep Tayyip Erdogan, believes that higher [interest rates](https://www.economist.com/finance-and-economics/erdogans-zany-monetary-experiment-is-impoverishing-turkey/21806459) are the cause of high inflation, not a cure for it. Those who think otherwise, he recently said, “are either illiterates or traitors”. He has duly sacked three central-bank governors who disagree.
 
-Evidence is not on Mr Erdogan’s side. Inflation in Turkey has [surged](https://www.economist.com/europe/2022/07/14/turkey-grapples-with-triple-digit-inflation) to almost 80% since the bank slashed interest rates late last year, putting pressure on consumers. A recent poll found that more than one-third of Turks are unable to meet their basic needs. But there is no sign of a U-turn. Expect, then, interest rates in Turkey to remain unchanged on Thursday—because Mr Erdogan says so.
+Evidence is not on Mr Erdogan’s side. Inflation in Turkey has [surged](https://www.economist.com/europe/2022/07/14/turkey-grapples-with-triple-digit-inflation) to almost 80% since the bank slashed interest rates late last year, putting pressure on consumers. A recent poll found that more than one-third of Turks are unable to meet their basic needs. But there is no sign of a U-turn. Interest rates in Turkey, duly remained unchanged on Thursday—because Mr Erdogan says so.
 
 ## A marvellous return for Comic-Con
 
@@ -66,7 +66,7 @@ For the first time since the pandemic, over 100,000 nerds, many dressed as their
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4f1e3a26350a3c3f3d2a3c3c200f2a2c20212022263c3b612c2022">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which 1950s American sitcom was voted the best TV show of all time in a 2012 poll?
 
