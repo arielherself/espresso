@@ -22,7 +22,7 @@ President Joe Biden said that the Pentagon thinks it is “not a good idea” fo
 
  **China** fined **Didi** , a ride-hailing company, more than $1bn over “vile” breaches of the country’s data security laws. The fine amounts to about 5% of its revenue in 2021 and would end a months-long investigation into the firm’s cyber-security practices. Didi has [struggled](https://www.economist.com/business/2022/06/09/the-communist-party-resuscitates-didi-global) ever since it angered Chinese regulators by listing on the New York stock exchange last year despite being told not to do so.
 
- **American Airlines** reported record quarterly revenue results of $13.4bn. The company announced a net income of $476m. When adjusted for one-off events, that made for its first quarterly profit since the start of the **covid-19 pandemic** . But despite a summer surge in traveller numbers, challenges remain for the airline, including staffing shortages—but the airline predicted a profitable third quarter nonetheless.
+ **American Airlines** reported record quarterly revenues of $13.4bn. The company announced net income of $476m. When adjusted for one-off events, that made for its first quarterly profit since the start of the **covid-19 pandemic** . Despite a summer surge in traveller numbers, challenges remain for the airline, including staffing shortages. The carrier predicted a profitable third quarter nonetheless.
 
  **Fact of the day:** 0.03, the number of deaths associated with one terawatt-hour of electricity produced from nuclear-power plants. [Read the full article](https://www.economist.com/graphic-detail/2022/07/19/how-safe-is-nuclear-energy).
 
@@ -66,7 +66,7 @@ For the first time since the pandemic, over 100,000 nerds, many dressed as their
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="1a4b6f73605f696a687f6969755a7f797574757773696e34797577">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="f6a7839f8cb385868493858599b693959998999b9f8582d895999b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which 1950s American sitcom was voted the best TV show of all time in a 2012 poll?
 
