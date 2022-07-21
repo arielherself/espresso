@@ -8,7 +8,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
- **Mario Draghi** , Italy’s prime minister, resigned; the country’s president, who is expected to dissolve parliament and call early elections, asked him to remain in a caretaker capacity. Italian bond yields jumped and stocks plunged on the news. Mr Draghi stepped down on Thursday after three parties in his coalition sat out a [vote of confidence](https://www.economist.com/europe/2022/07/21/mario-draghi-italys-reformist-prime-minister-resigns) in his government on Wednesday. He won the vote 95-38, but it was a hollow victory: there are 321 senators.
+**Italy’s** president dissolved parliament following the resignation of **Mario Draghi** , the prime minister, and called for elections within 70 days. Mr Draghi will remain in a caretaker capacity until then. He stepped down on Thursday after three parties in his coalition sat out a [vote of confidence](https://www.economist.com/europe/2022/07/21/mario-draghi-italys-reformist-prime-minister-resigns) in his government on Wednesday. He won the vote 95-38, but it was a hollow victory: there are 321 senators. 
 
 The **European Central Bank** raised interest rates by **0.5 percentage points** on Thursday, its first increase in 11 years. The bank also approved a new **bond-buying programme** to try to avert a fresh euro-zone debt crisis. The rise was higher than the ECB’s pre-announced plan, which proposed an increase of 0.25 percentage points.
 
@@ -66,7 +66,7 @@ For the first time since the pandemic, over 100,000 nerds, many dressed as their
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="59082c30231c2a292b3c2a2a36193c3a36373634302a2d773a3634">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="39684c50437c4a494b5c4a4a56795c5a56575654504a4d175a5654">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which 1950s American sitcom was voted the best TV show of all time in a 2012 poll?
 
