@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://cdn.static-economist.com/sites/all/themes/econfinal/images/svg/logo.svg" align-center /></div>
 
-# <p align="center">The world in brief 2022-07-20</p>
+# <p align="center">The world in brief 2022-07-21</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -70,7 +70,7 @@ Thirty years later, some people are still loyal. Websites offer recreations of t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="0554706c7f407675776076766a4560666a6b6a686c76712b666a68">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="eabb9f8390af999a988f999985aa8f898584858783999ec4898587">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Wednesday:** Which scientist won the Nobel peace prize as well as a Nobel for chemistry?  
  **Tuesday:** Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
