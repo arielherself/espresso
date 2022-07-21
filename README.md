@@ -8,7 +8,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The government of Mario Draghi, **Italy’s** prime minister, unravelled on Wednesday as the leaders of two right-wing parties in his coalition sat out a confidence vote in his government. Mr Draghi won the vote 95-38, but it was a hollow victory given the boycotts. Silvio Berlusconi, of Forza Italia, and Matteo Salvini, of the Northern League, had demanded the [exclusion of the populist Five Star Movement](https://www.economist.com/europe/2022/07/14/mario-draghi-italys-prime-minister-tries-and-fails-to-resign) from the governing coalition—a condition Mr Draghi refused to accept. He is expected to submit his resignation on Thursday, a move likely to precipitate early elections.
+Mario Draghi, Italy’s prime minister, resigned; Italian bond yields jumped and stocks plunged on the news. Mr Draghi resigned on Thursday after the leaders of two right-wing parties in his coalition sat out a [vote of confidence](https://www.economist.com/europe/2022/07/14/mario-draghi-italys-prime-minister-tries-and-fails-to-resign) in his government on Wednesday. He won the vote 95-38, but it was a hollow victory. Early elections are now likely, with right-wing parties expected to win.
 
 Germany’s energy regulator said that **gas** resumed flowing west through the **Nord Stream 1** pipeline on Thursday morning, at about 30% capacity. On Wednesday the European Commission encouraged the EU’s member-states to prepare by cutting their gas usage by 15%. For over a week Europe has worried that when **Gazprom** restarts supply—officially halted for maintenance—Russia will [reduce flow as retaliation](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) for the EU’s support of Ukraine.
 
@@ -70,7 +70,7 @@ Thirty years later, some people are still loyal. Websites offer recreations of t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="cf9ebaa6b58abcbfbdaabcbca08faaaca0a1a0a2a6bcbbe1aca0a2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3564405c4f704645475046465a7550565a5b5a585c46411b565a58">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Wednesday:** Which scientist won the Nobel peace prize as well as a Nobel for chemistry?  
  **Tuesday:** Which heiress was kidnapped by the Symbionese Liberation Army in 1974?
