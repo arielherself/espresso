@@ -66,7 +66,7 @@ For the first time since the pandemic, over 100,000 nerds, many dressed as their
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="1b4a6e72615e686b697e6868745b7e787475747672686f35787476">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="ca9bbfa3b08fb9bab8afb9b9a58aafa9a5a4a5a7a3b9bee4a9a5a7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which 1950s American sitcom was voted the best TV show of all time in a 2012 poll?
 
