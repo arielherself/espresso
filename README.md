@@ -18,9 +18,9 @@ The **European Central Bank** raised interest rates by **0.5 percentage points**
 
 Listen to an abridged version of the subscriber-only briefing.
 
- **Amazon** said it would buy 1Life Healthcare, an American **health care** company, for $3.9bn. 1Life operates One Medical, a membership primary-care service that offers both in-person and virtual appointments. Since 2019 Amazon has had some success in the medical market with its Amazon Care offering. But an earlier joint venture with JPMorgan Chase and Berkshire Hathaway, called Haven, failed.
+America’s **Supreme Court** temporarily refused to reinstate the Biden administration’s policy of limiting **arrests of illegal immigrants** . In September the Department of Homeland Security told immigration agents to prioritise the detention of [recent border-crossers](https://www.economist.com/united-states/2022/05/22/the-title-42-furore-highlights-americas-broken-immigration-system) and those who threaten national security. Louisiana and Texas sued to reverse the rule, and won in a lower court. The Supreme Court will hear a full challenge on the merits of the case in December.
 
-President Joe Biden said that the Pentagon thinks it is “not a good idea” for **Nancy Pelosi** , the speaker of America’s House of Representatives, to visit **Taiwan** . On Wednesday **China’s** foreign ministry had said it would take “strong measures” if Ms Pelosi travelled to the territory, over which [it claims sovereignty](https://www.economist.com/the-economist-reads/2022/06/28/our-former-asia-columnist-on-what-to-read-to-grasp-the-looming-crisis-in-taiwan). Mr Biden himself has made [a habit](https://www.economist.com/the-economist-explains/2022/05/23/what-is-americas-policy-of-strategic-ambiguity-over-taiwan) of overstating America’s commitment to defending [Taiwan’s autonomy](https://www.economist.com/china/2022/06/23/america-and-china-spar-over-the-taiwan-strait).
+ **Amazon** said it would buy 1Life Healthcare, an American **health care** company, for $3.9bn. 1Life operates One Medical, a membership primary-care service that offers both in-person and virtual appointments. Since 2019 Amazon has had some success in the medical market with its Amazon Care offering. But an earlier joint venture with JPMorgan Chase and Berkshire Hathaway, called Haven, failed.
 
  **American Airlines** reported record quarterly revenues of $13.4bn. The company announced net income of $476m. When adjusted for one-off events, that made for its first quarterly profit since the start of the **covid-19 pandemic** . Despite a summer surge in traveller numbers, challenges remain for the airline, including staffing shortages. The carrier predicted a profitable third quarter nonetheless.
 
@@ -66,7 +66,7 @@ For the first time since the pandemic, over 100,000 nerds, many dressed as their
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3263475b48774142405741415d7257515d5c5d5f5b41461c515d5f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="c392b6aab986b0b3b1a6b0b0ac83a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Thursday:** Which 1950s American sitcom was voted the best TV show of all time in a 2012 poll?
 
