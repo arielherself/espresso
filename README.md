@@ -10,19 +10,19 @@
 
  **Ukraine** and **Russia** signed a deal on Friday in Istanbul to resume **grain exports** from Ukraine’s Black Sea ports. Brokered by the UN and Recep Tayyip Erdogan, Turkey’s president, the agreement should [unblock about 18m tonnes of Ukrainian grain](https://www.economist.com/europe/2022/07/21/odessas-port-may-soon-be-reopened) awaiting export. Russia’s blockade of Ukraine’s ports has sent global food prices surging and exacerbated world hunger.
 
+ **Herbert Diess** was ousted as chief executive of Volkswagen, following clashes with the company’s works council, which represents its employees. Mr Diess had tried to re-imagine VW as an electric-car maker, and to impose steep cost cuts. He will be replaced by Oliver Blume, CEO of Volkswagen’s Porsche brand.
+
 America’s House of Representatives and millions of ordinary citizens watched the eighth hearing of a panel investigating **the January 6th Capitol riots** , before it adjourned for a late-summer break. They heard [damning testimony](https://www.economist.com/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump) about then-president Donald Trump and his [refusal to oppose the violence](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) committed in his name while it unfolded. Instead, witnesses said, he watched television, mainly Fox News. The security detail assigned to Mike Pence, then the vice-president, had meanwhile feared for their lives. Earlier on Thursday the Secret Service confirmed that it is subject to a criminal probe for having deleted messages exchanged by its agents that day.
 
  **Euro-zone business activity** went into reverse in July for the first time since February 2021. S&amp;P Global’s flash composite purchasing managers’ index, which measures both service sector and manufacturing companies in the euro zone, dropped to a 17-month low of 49.4 in July, a fall from 52 in June. Economists had expected a slight decline to 51, but the drop below 50, which indicates contraction, was unexpected.
 
-Riot police removed protesters from the area around the president’s office in Colombo, **Sri Lanka** ’s capital, hours after [Ranil Wickremesinghe](https://www.economist.com/asia/2022/07/21/sri-lanka-picks-a-new-president-to-replace-the-one-that-fled) was sworn in as president. Demonstrators have camped out there for months amid an economic crisis. There are fears that the show of force will reignite unrest. Meanwhile Dinesh Gunawardena, a senior lawmaker, was sworn in as the new prime minister.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+Riot police removed protesters from the area around the president’s office in Colombo, **Sri Lanka** ’s capital, hours after [Ranil Wickremesinghe](https://www.economist.com/asia/2022/07/21/sri-lanka-picks-a-new-president-to-replace-the-one-that-fled) was sworn in as president. Demonstrators have camped out there for months amid an economic crisis. There are fears that the show of force will reignite unrest. Meanwhile Dinesh Gunawardena, a senior lawmaker, was sworn in as the new prime minister.
 
 The lower house of **France’s** parliament approved an ambitious economic plan proposed by [Emmanuel Macron](https://www.economist.com/europe/2022/07/07/frances-president-emmanuel-macron-decides-to-go-it-alone), the president, after four days of debate. The “purchasing power bill”, as it is known, is a bundle of measures meant to protect households from rapidly rising inflation, including tax-free bonuses for workers and a bump for pensions. It now must pass the Senate.
 
  **Joe Biden** tweeted that he was “doing great” after testing positive for **covid-19** . The American president, who will be 80 in November, has isolated himself in the White House and is experiencing “very mild symptoms”, according to his press secretary. He is also taking [Paxlovid](https://www.economist.com/science-and-technology/2021/11/12/new-antiviral-drugs-mark-a-big-turning-point-in-the-covid-19-pandemic), an antiviral medication which reduces the risk of severe illness or death, she said.
-
- **Snap’s** share price fell by more than one-quarter in post-session trading after the [social-media firm](https://www.economist.com/business/2021/05/20/how-to-thrive-in-the-shadow-of-giants) delivered dismal second-quarter results. Revenues increased by 13%, to $1.1bn, from the same period last year. But Snap’s net loss widened to $422m, an increase of 178%. The firm declined to provide forecasts for future results, saying “forward-looking visibility remains incredibly challenging”. It added that it would “substantially” [slow hiring](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool).
 
  **Fact of the day:** three, the number of days each year that the average European has experienced temperatures above 38°C over the past five years. [Read the full article](https://www.economist.com/graphic-detail/2022/07/21/a-rising-share-of-people-are-exposed-to-dangerously-high-temperatures).
 
@@ -70,7 +70,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="a4f5d1cddee1d7d4d6c1d7d7cbe4c1c7cbcacbc9cdd7d08ac7cbc9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
