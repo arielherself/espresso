@@ -44,7 +44,7 @@ Inflation is slowing, too. That, though, is partly because Russians are buying l
 
 ## Twitter’s limbo earnings
 
-Twitter’s results, due on Friday, are expected to be mixed. But regardless of what they say, investors’ minds will be elsewhere. They will be focused on the social-media platform’s messy legal dispute with Elon Musk, the billionaire who tried to buy the firm before changing his mind.
+Twitter’s results on Friday were characteristically gloomy: the company reported a drop in revenue from a year earlier and a $66m profit last year swung to a $270m loss. Yet investors still have bigger things to worry about. They will be focused on the social-media platform’s messy legal dispute with Elon Musk, the billionaire who tried to buy the firm before changing his mind.
 
 Twitter’s product, user numbers and revenues have [long been disappointing](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up). But Mr Musk’s expression of interest in buying the firm in April plunged Twitter into chaos. Staff revolted at the idea of working for a plutocrat. The promise of a $44bn payout for shareholders kept things moving. But earlier this month Mr Musk rescinded his offer.
 
@@ -70,7 +70,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="1243677b68576162607761617d5277717d7c7d7f7b61663c717d7f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
