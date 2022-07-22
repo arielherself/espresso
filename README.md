@@ -12,7 +12,7 @@
 
  **Herbert Diess** was ousted as chief executive of Volkswagen, following clashes with the company’s works council, which represents its employees. Mr Diess had tried to re-imagine VW as an electric-car maker, and to impose steep cost cuts. He will be replaced by Oliver Blume, CEO of Volkswagen’s Porsche brand.
 
-America’s House of Representatives and millions of ordinary citizens watched the eighth hearing of a panel investigating **the January 6th Capitol riots** , before it adjourned for a late-summer break. They heard [damning testimony](https://www.economist.com/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump) about then-president Donald Trump and his [refusal to oppose the violence](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) committed in his name while it unfolded. Instead, witnesses said, he watched television, mainly Fox News. The security detail assigned to Mike Pence, then the vice-president, had meanwhile feared for their lives. Earlier on Thursday the Secret Service confirmed that it is subject to a criminal probe for having deleted messages exchanged by its agents that day.
+Gavin Newsom, **California’s** governor, approved legislation authorising private citizens to sue people who violate the state’s **gun laws** . Individuals will be able to seek damages starting at $10,000 from illegal-firearms dealers. The enforcement mechanism mimics one devised in Texas to [target abortion providers](https://www.economist.com/leaders/2021/09/11/texass-bounty-hunting-abortion-law-could-remain-on-the-books-for-a-long-time). The Supreme Court let Texas’s law take effect; Mr Newsom dared the court to block California’s.
 
  **Euro-zone business activity** went into reverse in July for the first time since February 2021. S&amp;P Global’s flash composite purchasing managers’ index, which measures both service sector and manufacturing companies in the euro zone, dropped to a 17-month low of 49.4 in July, a fall from 52 in June. Economists had expected a slight decline to 51, but the drop below 50, which indicates contraction, was unexpected.
 
@@ -70,7 +70,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="f1a084988bb48281839482829eb194929e9f9e9c988285df929e9c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="aeffdbc7d4ebdddedccbddddc1eecbcdc1c0c1c3c7ddda80cdc1c3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
