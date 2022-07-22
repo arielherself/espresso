@@ -36,7 +36,7 @@ Republicans aim to take the Senate at the mid-terms, and Arizona is one of the f
 
 ## Russia’s long economic war
 
-Any good general understands the importance of morale in a [protracted conflict](https://www.economist.com/briefing/2022/06/30/does-a-protracted-conflict-favour-russia-or-ukraine). So does Russia’s central bank. After the invasion of Ukraine in February, the bank acted decisively to show it was in control, doubling interest rates to 20% to save the rouble. As the currency stabilised, since then it has brought rates back down to 9.5%, in four large cuts. On Friday another, more modest cut, of 0.5 percentage points, is expected.
+Any good general understands the importance of morale in a [protracted conflict](https://www.economist.com/briefing/2022/06/30/does-a-protracted-conflict-favour-russia-or-ukraine). So does Russia’s central bank. After the invasion of Ukraine in February, the bank acted decisively to show it was in control, doubling interest rates to 20% to save the rouble. As the currency stabilised, since then it has brought rates back down to 9.5%, in four large cuts. On Friday the bank slashed rates once again, by a larger-than-expected 1.5 percentage points.
 
 While much of the world is [raising rates](https://www.economist.com/finance-and-economics/2022/07/18/how-american-banks-are-responding-to-rising-interest-rates) amid soaring prices, Russia can get away with easing. That is because after the initial shock of sanctions, high energy prices have buoyed [the economy](https://www.economist.com/graphic-detail/2022/06/10/russias-economy-appears-to-be-back-on-track). The rouble has strengthened against the dollar, helped by a ban on taking money out of the country. 
 
@@ -70,7 +70,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="c091b5a9ba85b3b0b2a5b3b3af80a5a3afaeafada9b3b4eea3afad">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
