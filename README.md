@@ -12,17 +12,17 @@
 
  **Herbert Diess** was ousted as chief executive of Volkswagen, following clashes with the company’s works council, which represents its employees. Mr Diess had tried to re-imagine VW as an electric-car maker, and to impose steep cost cuts. He will be replaced by Oliver Blume, CEO of Volkswagen’s Porsche brand.
 
+ **Steve Bannon** was convicted of two charges of contempt of Congress for defying a subpoena from the House committee [investigating the Capitol riot](https://www.economist.com/leaders/2022/06/08/americas-probe-into-the-capitol-riot-is-needed-before-its-too-late) on January 6th 2021. Mr Bannon, a former adviser to Donald Trump, faces between 30 days and one year in prison, as well as fines up to $100,000, on each count. He will be sentenced in October.
+
+The Biden administration authorised another **weapons** delivery to **Ukraine,** worth $270m. An American official said that hundreds of Russian soldiers are dying each day in the war; earlier the CIA estimated that 15,000 had been killed so far. Separately, Volodymyr Zelensky, Ukraine’s president, told the <em>Wall Street Journal</em> that he would not countenance any [ceasefire](https://www.economist.com/europe/2022/05/26/when-and-how-might-the-war-in-ukraine-end) that let Russia retain territory it had taken.
+
+Listen to an abridged version of the subscriber-only briefing.
+
 Gavin Newsom, **California’s** governor, approved legislation authorising private citizens to sue people who violate the state’s **gun laws** . Individuals will be able to seek damages starting at $10,000 from illegal-firearms dealers. The enforcement mechanism mimics one devised in Texas to [target abortion providers](https://www.economist.com/leaders/2021/09/11/texass-bounty-hunting-abortion-law-could-remain-on-the-books-for-a-long-time). The Supreme Court let Texas’s law take effect; Mr Newsom dared the court to block California’s.
 
  **Euro-zone business activity** went into reverse in July for the first time since February 2021. S&amp;P Global’s flash composite purchasing managers’ index, which measures both service sector and manufacturing companies in the euro zone, dropped to a 17-month low of 49.4 in July, a fall from 52 in June. Economists had expected a slight decline to 51, but the drop below 50, which indicates contraction, was unexpected.
 
-Listen to an abridged version of the subscriber-only briefing.
-
 Riot police removed protesters from the area around the president’s office in Colombo, **Sri Lanka** ’s capital, hours after [Ranil Wickremesinghe](https://www.economist.com/asia/2022/07/21/sri-lanka-picks-a-new-president-to-replace-the-one-that-fled) was sworn in as president. Demonstrators have camped out there for months amid an economic crisis. There are fears that the show of force will reignite unrest. Meanwhile Dinesh Gunawardena, a senior lawmaker, was sworn in as the new prime minister.
-
-The lower house of **France’s** parliament approved an ambitious economic plan proposed by [Emmanuel Macron](https://www.economist.com/europe/2022/07/07/frances-president-emmanuel-macron-decides-to-go-it-alone), the president, after four days of debate. The “purchasing power bill”, as it is known, is a bundle of measures meant to protect households from rapidly rising inflation, including tax-free bonuses for workers and a bump for pensions. It now must pass the Senate.
-
- **Joe Biden** tweeted that he was “doing great” after testing positive for **covid-19** . The American president, who will be 80 in November, has isolated himself in the White House and is experiencing “very mild symptoms”, according to his press secretary. He is also taking [Paxlovid](https://www.economist.com/science-and-technology/2021/11/12/new-antiviral-drugs-mark-a-big-turning-point-in-the-covid-19-pandemic), an antiviral medication which reduces the risk of severe illness or death, she said.
 
  **Fact of the day:** three, the number of days each year that the average European has experienced temperatures above 38°C over the past five years. [Read the full article](https://www.economist.com/graphic-detail/2022/07/21/a-rising-share-of-people-are-exposed-to-dangerously-high-temperatures).
 
@@ -70,7 +70,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="58092d31221d2b282a3d2b2b37183d3b37363735312b2c763b3735">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="f3a2869a89b68083819680809cb396909c9d9c9e9a8087dd909c9e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
