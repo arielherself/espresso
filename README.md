@@ -72,7 +72,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="1746627e6d52646765726464785772747879787a7e64633974787a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="ce9fbba7b48bbdbebcabbdbda18eabada1a0a1a3a7bdbae0ada1a3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
@@ -98,6 +98,5 @@ They all gave the correct answers of [Pope Francis](https://te.arielherself.xyz/
 
 *Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*
 
-<div align="center"><img src="unlock.png" /><h1>Privacy Information</h1></div>
-
-We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied.                     Visiting these webpages means you have already acknowledged potential risks of having your behaviour recorded by Cloudflare.                    For an unmodified version, [click here](README.raw.md).
+|<div align="center"><img src="unlock.png" /><h1>Privacy Information</h1></div></br>We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied. Visiting these webpages means you have already acknowledged potential risks of having your behaviour recorded by Cloudflare.For an unmodified version, [click here](README.raw.md).|
+|-----|
