@@ -30,17 +30,31 @@ Xinjiang, a region in the far west of <strong>China</strong>, was warned that it
 
 ----------
 
+## Russia tries to woo Africa
+
+Sergei Lavrov, Russia’s foreign minister, embarks on Sunday on a visit to Egypt, Ethiopia, Uganda and Congo-Brazzaville. The trip is in part a prelude to a Russia-Africa summit scheduled for next year. But Mr Lavrov has more immediate goals. Russia wants international support for its invasion of Ukraine, about which some African countries have [expressed ambivalence](https://www.economist.com/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east). It also wants to convince the continent’s leaders that Western sanctions, not Russia’s war of choice, are to blame for rising [food](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk) and petrol prices. 
+
+Ultimately Russia hopes to win African support in a wider ideological battle against the West. ([China seeks the same.](https://www.economist.com/special-report/2022-05-28)) To foster goodwill, the Kremlin plays up the Soviet Union’s historical support for African decolonisation movements. Writing in several African newspapers on Friday Mr Lavrov said that, unlike the West, Russia “had not stained itself” with colonial crimes, and pledged to “continue to pursue a peace-loving foreign policy.” Ukrainians may disagree.
+
 ## The pope’s pilgrimage of penance
 
-When Pope Francis arrives in Canada on Sunday for a five-day visit, his primary purpose will be not to preach but to do penance. He plans to apologise for the role of the Roman Catholic Church in Canada’s [residential-schools](https://www.economist.com/the-economist-explains/2021/07/26/what-happened-at-residential-schools-for-indigenous-children-in-north-america) system, which from the early 19th century until 1996 separated indigenous children from their families and culture.
+When Pope Francis arrives in Canada on Sunday for a five-day visit, his primary purpose will be not to preach but to do penance. He plans to apologise for the role of the Roman Catholic Church in Canada’s [residential-schools](https://www.economist.com/the-economist-explains/2021/07/26/what-happened-at-residential-schools-for-indigenous-children-in-north-america) system, which from the early 19th century until 1996 separated indigenous children from their families and culture. 
 
 Canada’s government forced 150,000 children into the schools, 60% of which were run by the church. They were housed in inhuman conditions, and many were sexually abused. A horrifying number died. Last year hundreds of [unmarked graves](https://www.economist.com/the-americas/2021/07/01/more-graves-are-found-at-canadian-schools-for-the-indigenous) were discovered at sites of former schools. In 2015 a truth and reconciliation commission, established in response to lawsuits brought by indigenous Canadians, said the schools were part of a programme of “cultural genocide”. 
 
 Francis has already said sorry. In a trip that will take him to Alberta, Quebec and the Arctic territory of Nunavut, he will atone at the scene of the crimes.
 
+## China’s quest for the heavens
+
+<em>Tiangong</em>, China’s space station (the name means ​​“heavenly palace”), has been under construction since 2021, when its first module was launched. On Sunday, if all goes to plan, a second module named <em>Wentian</em> (“quest for the heavens”) will be blasted into orbit from a spaceport at Wenchang, off China’s southern coast. A third module is due to launch later this year. 
+
+Even when finished (probably next year) the 100-tonne <em>Tiangong</em> station will be a tiddler compared to the 440-tonne International Space Station. But China is not welcome aboard the ISS: a law in America, one of the ISS’s main funders, prohibits official contact with China’s space programme over national-security concerns.
+
+China’s space programme is nevertheless marching forward. It is only the third country, after America and the Soviet Union, to have mastered crewed spaceflight. Whether <em>Tiangong</em> will have any value beyond national pride is another question. Many scientists consider the ISS, with an estimated price tag of over $100bn, the most expensive white elephant ever built.
+
 ## Queen of the mountains
 
-Since 1989, when Jeannie Longo won the Tour de France Féminin for the third consecutive time, France’s premier long-distance cycling race has had no room for women. Organisers blamed a lack of money and interest. But times have changed.
+Since 1989, when Jeannie Longo won the Tour de France Féminin for the third consecutive time, France’s premier long-distance cycling race has had no room for women. Organisers blamed a lack of money and interest. But times have changed. 
 
 As the men’s [Tour de France](https://www.economist.com/culture/2022/06/30/how-to-watch-the-tour-de-france-from-afar) finishes in Paris on Sunday, a new competition, the Tour de France Femmes, has its own <em>grand départ</em>. Television audiences in 170 countries can watch as the women’s peloton races across a 1,029km (639 miles) circuit over eight days. (The men’s race was 3,350km over 21 days.)
 
@@ -58,12 +72,6 @@ This has led to headline-grabbing statements: that the [northern European floods
 
 Extreme heat is one of the most straightforward impacts of global warming, and virtually every contemporary heatwave was made [worse or more likely by emissions](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come), or both. But Dr Otto worries that this engenders fatalism. “Yes it’s climate change…but we are also not powerless to do something about it,” she says. “That…is what’s missing in the conversation.”
 
-## Russia tries to woo Africa
-
-Sergei Lavrov, Russia’s foreign minister, embarks on Sunday on a visit to Egypt, Ethiopia, Uganda and Congo-Brazzaville. The trip is in part a prelude to a Russia-Africa summit scheduled for next year. But Mr Lavrov has more immediate goals. Russia wants international support for its invasion of Ukraine, about which some African countries have [expressed ambivalence](https://www.economist.com/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east). It also wants to convince the continent’s leaders that Western sanctions, not Russia’s war of choice, are to blame for rising [food](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk) and petrol prices. 
-
-Ultimately Russia hopes to win African support in a wider ideological battle against the West. ([China seeks the same.](https://www.economist.com/special-report/2022-05-28)) To foster goodwill, the Kremlin plays up the Soviet Union’s historical support for African decolonisation movements. Writing in several African newspapers on Friday Mr Lavrov said that, unlike the West, Russia “had not stained itself” with colonial crimes, and pledged to “continue to pursue a peace-loving foreign policy.” Ukrainians may disagree.
-
 ## Weekly crossword
 
 Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
@@ -80,21 +88,13 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <strong>Factual clues</strong>
 
-<em>1 down </em>Rumoured soon-to-be co-combatant (10)
+<em>1 down </em>Rumoured soon-to-be co-combatant (10) 
 
 <em>1 across </em>What Latin American politicians increasingly want? (5)
 
 <em>2 across </em>A medicine with a mysterious mechanism of action (4)
 
 <em>3 across </em>A victim of Congress’s climate inaction (5)
-
-## China’s quest for the heavens
-
-<em>Tiangong</em>, China’s space station (the name means ​​“heavenly palace”), has been under construction since 2021, when its first module was launched. On Sunday, if all goes to plan, a second module named <em>Wentian</em> (“quest for the heavens”) will be blasted into orbit from a spaceport at Wenchang, off China’s southern coast. A third module is due to launch later this year.
-
-Even when finished (probably next year) the 100-tonne <em>Tiangong</em> station will be a tiddler compared to the 440-tonne International Space Station. But China is not welcome aboard the ISS: a law in America, one of the ISS’s main funders, prohibits official contact with China’s space programme over national-security concerns.
-
-China’s space programme is nevertheless marching forward. It is only the third country, after America and the Soviet Union, to have mastered crewed spaceflight. Whether <em>Tiangong</em> will have any value beyond national pride is another question. Many scientists consider the ISS, with an estimated price tag of over $100bn, the most expensive white elephant ever built.
 
 ## The winner’s of this week’s quiz
 
