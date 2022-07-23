@@ -14,7 +14,7 @@
 
 The Biden administration authorised another **weapons** delivery to **Ukraine,** worth $270m. An American official said that hundreds of Russian soldiers are dying each day in the war; earlier the CIA estimated that 15,000 had been killed so far. Separately, Volodymyr Zelensky, Ukraine’s president, told the <em>Wall Street Journal</em> that he would not countenance any [ceasefire](https://te.arielherself.xyz/europe/2022/05/26/when-and-how-might-the-war-in-ukraine-end) that let Russia retain territory it had taken.
 
-The UN’s top court ruled that a case accusing **Myanmar** of committing **genocide** against Rohingya Muslims can continue, striking down objections from the country’s ruling military junta. The World Court—previously called the International Court of Justice—will now try to establish how responsible the state was for the violence that caused hundreds of thousands of [Rohingyas to flee](https://te.arielherself.xyz/asia/2021/10/09/a-rohingya-leaders-murder-highlights-rising-insecurity-in-refugee-camps).
+The UN’s top court ruled that a case accusing **Myanmar** of committing **genocide** against Rohingya Muslims can continue, striking down objections from the country’s ruling military junta. The World Court—also called the International Court of Justice—will now try to establish how responsible the state was for the violence that caused hundreds of thousands of [Rohingyas to flee](https://te.arielherself.xyz/asia/2021/10/09/a-rohingya-leaders-murder-highlights-rising-insecurity-in-refugee-camps).
 
  **Cuba’s** parliament announced that [the country](https://te.arielherself.xyz/the-americas/2022/03/26/cubas-dictatorship-has-a-cultural-opposition-that-it-cant-tolerate) will hold a referendum on **legalising same-sex marriage** and surrogate parenthood. The National Assembly approved an update to Cuba’s family law, which would also allow same-sex couples to adopt children and strengthen legal protections for children and the elderly. The public will now vote on the matter on September 25th.
 
@@ -72,7 +72,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="f9a88c9083bc8a898b9c8a8a96b99c9a96979694908a8dd79a9694">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
