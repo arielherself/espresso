@@ -44,8 +44,8 @@ def get(proxy=False, http_proxy='', https_proxy=''):
 def web_process(**kwargs):
     pre, titles, details = get(**kwargs)
     mdlines = []
-    mdlines.append('[English](https://github.com/arielherself/espresso/blob/main/README.md)|[中文](https://github-com.translate.goog/arielherself/espresso/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)')
-    mdlines.append('<div align="center"><img src="https://cdn.static-economist.com/sites/all/themes/econfinal/images/svg/logo.svg" align-center /></div>')
+    mdlines.append('[English](https://github.com/arielherself/espresso/blob/main/README.md)|[中文](https://github-com.translate.goog/arielherself/espresso/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)\n\n')
+    mdlines.append('![The Economist](menubar.png)')
     mdlines.append(f'# <p align="center">The world in brief {str(datetime.date.today())}</p>')
     mdlines.append('## <p align="center">Catch up quickly on the global stories that matter</p>')
     mdlines.append('<p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>')
@@ -140,7 +140,7 @@ def web_process(**kwargs):
     mdlines.append("*Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*")
     
     mdlines_proxied = [line.replace('www.economist.com', MIRROR).replace('economist.com', MIRROR) for line in mdlines]
-    mdlines.append('*We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied. \
+    mdlines_proxied.append('*We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied. \
                     Visiting these webpages means you have already acknowledged potential risks of having your behaviour recorded by Cloudflare.\
                     For an unmodified version, [click here](README.raw.md).*')
     return mdlines_proxied, mdlines
