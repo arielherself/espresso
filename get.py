@@ -140,12 +140,15 @@ def web_process(**kwargs):
     mdlines.append("*Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*")
     
     mdlines_proxied = [line.replace('www.economist.com', MIRROR).replace('economist.com', MIRROR) for line in mdlines]
+    mdlines.append('*We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied. \
+                    Visiting these webpages means you have already acknowledged potential risks of having your behaviour recorded by Cloudflare.\
+                    For an unmodified version, [click here](README.raw.md).*')
     return mdlines_proxied, mdlines
 
 if __name__ == '__main__':
     page_proxied, page_raw = web_process(proxy=False)
     with open('README.md', 'w', encoding='utf8') as fil:
         print(*page_proxied, sep='\n\n', file=fil)
-    with open('README.raw.md, 'w', encoding='utf8') as fil:
+    with open('README.raw.md', 'w', encoding='utf8') as fil:
         print(*page_raw, sep='\n\n', file=fil)
 
