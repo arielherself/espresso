@@ -30,31 +30,21 @@ Xinjiang, a region in the far west of <strong>China</strong>, was warned that it
 
 ----------
 
-## A deal for Ukraine’s grain
+## The pope’s pilgrimage of penance
 
-The deal comes not a moment too soon. On Saturday the world will be watching to see if an agreement struck by Ukraine and Russia to resume grain exports from Ukraine’s Black Sea ports will stick. If it does, the accord should ease [world hunger](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)—50m people are on the brink of starvation, warns the UN—and inflation. Indeed, wheat prices fell by 6% on the news.
+When Pope Francis arrives in Canada on Sunday for a five-day visit, his primary purpose will be not to preach but to do penance. He plans to apologise for the role of the Roman Catholic Church in Canada’s [residential-schools](https://www.economist.com/the-economist-explains/2021/07/26/what-happened-at-residential-schools-for-indigenous-children-in-north-america) system, which from the early 19th century until 1996 separated indigenous children from their families and culture.
 
-The pact creates a “joint co-ordination centre” in Istanbul, staffed by the belligerents as well as Turkey and the UN. It will monitor cargo ships transiting through Ukrainian ports, and inspect them for weapons.
+Canada’s government forced 150,000 children into the schools, 60% of which were run by the church. They were housed in inhuman conditions, and many were sexually abused. A horrifying number died. Last year hundreds of [unmarked graves](https://www.economist.com/the-americas/2021/07/01/more-graves-are-found-at-canadian-schools-for-the-indigenous) were discovered at sites of former schools. In 2015 a truth and reconciliation commission, established in response to lawsuits brought by indigenous Canadians, said the schools were part of a programme of “cultural genocide”. 
 
-But the limited agreement, which comes up for renewal every 120 days, will [not solve the food crisis](https://www.economist.com/europe/2022/07/22/russia-and-ukraine-agree-to-reopen-odessa-easing-a-food-crisis). Grain prices are down by one-third from their peak earlier this year, but the stuff is still more than 40% dearer than in January 2020. And as the war is [likely to go on for months](https://www.economist.com/leaders/2022/06/30/how-to-win-ukraines-long-war), no one knows if the deal will hold. Indeed, many wonder if it is too good to be true. After all, Russia is not known for keeping to its word in Ukraine.
+Francis has already said sorry. In a trip that will take him to Alberta, Quebec and the Arctic territory of Nunavut, he will atone at the scene of the crimes.
 
-## Manifesta comes to Kosovo
+## Queen of the mountains
 
-In 1996, when the first edition of Manifesta took place in Rotterdam, the territories of the former Yugoslavia were at war. This week the 14th iteration opens in Pristina, the capital of Kosovo—making it the first city in the western Balkans to host Europe’s nomadic art biennial. Derelict urban sites have been cleared and tidied into new public spaces. Brutalist structures associated with the Yugoslav era, including the Grand Hotel and Palace of Youth and Sports, have been reimagined as exhibition venues.
+Since 1989, when Jeannie Longo won the Tour de France Féminin for the third consecutive time, France’s premier long-distance cycling race has had no room for women. Organisers blamed a lack of money and interest. But times have changed.
 
-Of the 103 participating artists, over one-third are Kosovar and another quarter come from the rest of the western Balkans. This is an unusually regional focus for an international art event. That reflects the organisers’ commitment to the local art scene, but also acknowledges its isolation. Citizens of Kosovo wishing to enter the European Union must tackle a lengthy and expensive visa-application process. The country’s artists thus struggle to participate in the international art scene. Instead, Manifesta is bringing Europe’s art professionals to Kosovo.
+As the men’s [Tour de France](https://www.economist.com/culture/2022/06/30/how-to-watch-the-tour-de-france-from-afar) finishes in Paris on Sunday, a new competition, the Tour de France Femmes, has its own <em>grand départ</em>. Television audiences in 170 countries can watch as the women’s peloton races across a 1,029km (639 miles) circuit over eight days. (The men’s race was 3,350km over 21 days.)
 
-## Why human egg cells don’t spoil
-
-Which came first, the chicken or the egg? For humans, both come at once: baby girls are born with all of the egg cells (or “oocytes”) they will ever have. Decades later, they must still be capable of spawning new life. This remarkable ability is little understood. But new research in <em>Nature</em>, a journal, has unpicked the secret of egg cells’ longevity. Essentially, oocytes put themselves into a state of dormancy by suppressing normal cell metabolism.
-
-Metabolism powers cells, but in doing so produces certain volatile chemicals. These mutate DNA and eventually kill cells. However, oocytes keep their engines running at such a low hum that they produce precious few of these dangerous chemicals. It is as if they are left on standby—for up to 40 or 50 years. This insight could improve success rates in assisted reproduction. Moreover, it highlights how shamefully understudied egg cells are. After all, everybody started out as one.
-
-## Thailand’s prime minister wins another confidence vote
-
-]Politics has a habit of repeating itself in Thailand. Opposition parties had already attempted to oust Prayuth Chan-ocha, the prime minister, in votes of confidence three times since his party was elected in 2019. (Mr Prayuth initially [seized power in a military coup](https://www.economist.com/asia/2022/06/16/thailands-military-ruler-is-on-the-back-foot) five years before.) Last Tuesday the opposition began debating yet another motion of no-confidence, and the vote took place on Saturday. Parliamentarians accused Mr Prayuth and ten members of his cabinet of economic mismanagement and of tolerating corruption in government.
-
-But Mr Prayuth survived the vote, just as he has all the others. This is not a surprise: his coalition controls 253 parliamentary seats, 14 more than the number needed to win. Even before the result, Mr Prayuth denied any possibility of a cabinet reshuffle. Now, Mr Prayuth’s rivals will turn their focus to the elections that must be held before next March, and will seize every opportunity to smear their opponent until then. 
+As with most professional sports, women’s cycling suffers from less money and exposure than the male version. The female winner of the yellow jersey will take home 10% of what her male counterpart makes. Still, the race marks a gear shift. Broadcasting deals have locked networks into showing the 2023 tour, and Zwift, a training app, will sponsor the Tour de France Femmes for at least four years. Female cyclists have slogged to reach this point; it should be downhill from here.
 
 ## Weekend profile: the climatologists transforming how we discuss weather
 
@@ -67,6 +57,12 @@ Thus was the WWA conceived. The group works with the Red Cross Red Crescent’s 
 This has led to headline-grabbing statements: that the [northern European floods last year](https://www.economist.com/europe/2021/08/23/climate-change-made-north-west-europes-lethal-flood-more-likely) were made up to nine times more likely by anthropogenic climate change, the [Siberian heatwave of 2020](https://www.economist.com/science-and-technology/2020/07/15/siberias-heatwave-would-not-have-happened-without-climate-change) was many thousand times more likely, and the [Pacific Northwest heatwave](https://www.economist.com/the-economist-explains/2021/06/29/why-are-the-north-western-united-states-and-british-columbia-suffering-a-heatwave) of 2021 would have been virtually impossible without historical emissions. Such statements, and the underlying methodology, are now part of the climate vernacular. They are also applied elsewhere, such as in legal disputes where people or communities [seek compensation for climate-change-induced damages](https://www.economist.com/international/2022/04/23/lawsuits-aimed-at-greenhouse-gas-emissions-are-a-growing-trend). 
 
 Extreme heat is one of the most straightforward impacts of global warming, and virtually every contemporary heatwave was made [worse or more likely by emissions](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come), or both. But Dr Otto worries that this engenders fatalism. “Yes it’s climate change…but we are also not powerless to do something about it,” she says. “That…is what’s missing in the conversation.”
+
+## Russia tries to woo Africa
+
+Sergei Lavrov, Russia’s foreign minister, embarks on Sunday on a visit to Egypt, Ethiopia, Uganda and Congo-Brazzaville. The trip is in part a prelude to a Russia-Africa summit scheduled for next year. But Mr Lavrov has more immediate goals. Russia wants international support for its invasion of Ukraine, about which some African countries have [expressed ambivalence](https://www.economist.com/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east). It also wants to convince the continent’s leaders that Western sanctions, not Russia’s war of choice, are to blame for rising [food](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk) and petrol prices. 
+
+Ultimately Russia hopes to win African support in a wider ideological battle against the West. ([China seeks the same.](https://www.economist.com/special-report/2022-05-28)) To foster goodwill, the Kremlin plays up the Soviet Union’s historical support for African decolonisation movements. Writing in several African newspapers on Friday Mr Lavrov said that, unlike the West, Russia “had not stained itself” with colonial crimes, and pledged to “continue to pursue a peace-loving foreign policy.” Ukrainians may disagree.
 
 ## Weekly crossword
 
@@ -91,6 +87,14 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 <em>2 across </em>A medicine with a mysterious mechanism of action (4)
 
 <em>3 across </em>A victim of Congress’s climate inaction (5)
+
+## China’s quest for the heavens
+
+<em>Tiangong</em>, China’s space station (the name means ​​“heavenly palace”), has been under construction since 2021, when its first module was launched. On Sunday, if all goes to plan, a second module named <em>Wentian</em> (“quest for the heavens”) will be blasted into orbit from a spaceport at Wenchang, off China’s southern coast. A third module is due to launch later this year.
+
+Even when finished (probably next year) the 100-tonne <em>Tiangong</em> station will be a tiddler compared to the 440-tonne International Space Station. But China is not welcome aboard the ISS: a law in America, one of the ISS’s main funders, prohibits official contact with China’s space programme over national-security concerns.
+
+China’s space programme is nevertheless marching forward. It is only the third country, after America and the Soviet Union, to have mastered crewed spaceflight. Whether <em>Tiangong</em> will have any value beyond national pride is another question. Many scientists consider the ISS, with an estimated price tag of over $100bn, the most expensive white elephant ever built.
 
 ## The winner’s of this week’s quiz
 
