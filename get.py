@@ -1,6 +1,8 @@
 import requests
 import datetime
 
+MIRROR = 'te.arielherself.xyz'
+
 def get(proxy=False, http_proxy='', https_proxy=''):
     try:
         if proxy:
@@ -136,9 +138,14 @@ def web_process(**kwargs):
             mdlines.append(processed_detail)
     mdlines.append('----------')
     mdlines.append("*Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*")
-    return mdlines
+    
+    mdlines_proxied = [line.replace('www.economist.com', MIRROR).replace('economist.com', MIRROR) for line in mdlines]
+    return mdlines_proxied, mdlines
 
 if __name__ == '__main__':
-    page = web_process(proxy=False)
+    page_proxied, page_raw = web_process(proxy=False)
     with open('README.md', 'w', encoding='utf8') as fil:
-        print(*page, sep='\n\n', file=fil)
+        print(*page_proxied, sep='\n\n', file=fil)
+    with open('README.raw.md, 'w', encoding='utf8') as fil:
+        print(*page_raw, sep='\n\n', file=fil)
+
