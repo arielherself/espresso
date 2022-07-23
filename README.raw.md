@@ -1,6 +1,8 @@
 [English](https://github.com/arielherself/espresso/blob/main/README.md)|[中文](https://github-com.translate.goog/arielherself/espresso/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
 
-<div align="center"><img src="https://cdn.static-economist.com/sites/all/themes/econfinal/images/svg/logo.svg" align-center /></div>
+
+
+![The Economist](menubar.png)
 
 # <p align="center">The world in brief 2022-07-23</p>
 
@@ -70,7 +72,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="5203273b28172122203721213d1237313d3c3d3f3b21267c313d3f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="6d3c180417281e1d1f081e1e022d080e02030200041e19430e0200">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
@@ -95,5 +97,3 @@ They all gave the correct answers of [Pope Francis](https://www.economist.com/le
 ----------
 
 *Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*
-
-*We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied.                     Visiting these webpages means you have already acknowledged potential risks of having your behaviour recorded by Cloudflare.                    For an unmodified version, [click here](README.raw.md).*
