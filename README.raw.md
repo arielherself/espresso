@@ -20,7 +20,7 @@ The UN’s top court ruled that a case accusing **Myanmar** of committing **geno
 
 Listen to an abridged version of the subscriber-only briefing.
 
-**Thailand’s** prime minister survived his fourth no-confidence vote in parliament, meaning that he will retain his position until his term ends in March. **Prayuth Chan-ocha** , who has held power since a coup in 2014, and ten members of his cabinet were [accused of corruption and economic mismanagement](https://www.economist.com/asia/2022/06/16/thailands-military-ruler-is-on-the-back-foot). Opposition politicians questioned them on television for four days, but did not get enough parliamentary votes to oust them. 
+Xinjiang, a region in the far west of **China** , was warned that it faced flash floods, mudslides and risks to agriculture amid forecasts of more **unusually high temperatures** in the coming days. Some 20% of the world’s cotton is produced in the area. Since mid-June much of China has baked under [brutal heatwaves](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come), which are attributed to climate change. 
 
  **Steve Bannon** was convicted of two charges of contempt of Congress for defying a subpoena from the House committee [investigating the Capitol riot](https://www.economist.com/leaders/2022/06/08/americas-probe-into-the-capitol-riot-is-needed-before-its-too-late) on January 6th 2021. Mr Bannon, a former adviser to Donald Trump, faces between 30 days and one year in prison, as well as fines up to $100,000, on each count. He will be sentenced in October.
 
@@ -72,7 +72,7 @@ The result is intriguing, if sometimes rambling. Mr Peele struggles to weave eve
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="316044584b744241435442425e7154525e5f5e5c5842451f525e5c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="3b6a4e52417e484b495e4848547b5e585455545652484f15585456">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
  **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
 
