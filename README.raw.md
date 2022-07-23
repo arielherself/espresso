@@ -10,89 +10,105 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
- **Ukraine** and **Russia** signed a deal on Friday in Istanbul to resume **grain exports** from Ukraine’s Black Sea ports. Brokered by the UN and Recep Tayyip Erdogan, Turkey’s president, the agreement should [unblock about 18m tonnes of Ukrainian grain](https://www.economist.com/europe/2022/07/21/odessas-port-may-soon-be-reopened) awaiting export. Russia’s blockade of Ukraine’s ports has sent global food prices surging and exacerbated world hunger.
+A day after <strong>Ukraine</strong> and <strong>Russia</strong> had [signed a deal](https://www.economist.com/europe/2022/07/22/after-agreeing-to-let-ukraine-export-grain-russia-rockets-its-port) to resume grain exports from Ukraine’s Black Sea ports, Russian missiles hit Odessa, the biggest of those ports. A Ukrainian foreign-ministry spokesman accused Vladimir Putin of “spitting in the face” of the UN secretary-general, António Guterres, and Turkey’s president, Recep Tayyip Erdogan, who brokered the agreement. The attack breaks the conditions of the deal and could already signal its demise.
 
-The Biden administration authorised another **weapons** delivery to **Ukraine,** worth $270m. An American official said that hundreds of Russian soldiers are dying each day in the war; earlier the CIA estimated that 15,000 had been killed so far. Separately, Volodymyr Zelensky, Ukraine’s president, told the <em>Wall Street Journal</em> that he would not countenance any [ceasefire](https://www.economist.com/europe/2022/05/26/when-and-how-might-the-war-in-ukraine-end) that let Russia retain territory it had taken.
+The Biden administration authorised another <strong>weapons</strong> delivery to <strong>Ukraine,</strong> worth $270m. An American official said that hundreds of Russian soldiers are dying each day in the war; earlier the CIA estimated that 15,000 had been killed so far. Separately, Volodymyr Zelensky, Ukraine’s president, told the <em>Wall Street Journal</em> that he would not countenance any [ceasefire](https://www.economist.com/europe/2022/05/26/when-and-how-might-the-war-in-ukraine-end) that let Russia retain territory it had taken.
 
-The UN’s top court ruled that a case accusing **Myanmar** of committing **genocide** against Rohingya Muslims can continue, striking down objections from the country’s ruling military junta. The World Court—also called the International Court of Justice—will now try to establish how responsible the state was for the violence that caused hundreds of thousands of [Rohingyas to flee](https://www.economist.com/asia/2021/10/09/a-rohingya-leaders-murder-highlights-rising-insecurity-in-refugee-camps).
+<strong>Google</strong> has sacked a software engineer, Blake Lemoine, who last month shared his belief that [LaMDA](https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-are-making-strides-towards-consciousness-according-to-blaise-aguera-y-arcas), the company’s chatbot, had become “[sentient](https://www.economist.com/the-economist-explains/2022/06/14/could-artificial-intelligence-become-sentient)” with the <em>Washington Post</em>. He said that, without knowing better, he’d think he was talking to “a seven-year-old, eight-year-old kid that happens to know physics”. Google dismissed Mr Lemoine’s claims as unfounded and said his behaviour violated the company’s employment and data-security policies.
 
- **Cuba’s** parliament announced that [the country](https://www.economist.com/the-americas/2022/03/26/cubas-dictatorship-has-a-cultural-opposition-that-it-cant-tolerate) will hold a referendum on **legalising same-sex marriage** and surrogate parenthood. The National Assembly approved an update to Cuba’s family law, which would also allow same-sex couples to adopt children and strengthen legal protections for children and the elderly. The public will now vote on the matter on September 25th.
+The UN’s top court ruled that a case accusing <strong>Myanmar</strong> of committing <strong>genocide</strong> against Rohingya Muslims can continue, striking down objections from the country’s ruling military junta. The International Court of Justice will now try to establish how responsible the state was for the violence that caused hundreds of thousands of [Rohingyas to flee](https://www.economist.com/asia/2021/10/09/a-rohingya-leaders-murder-highlights-rising-insecurity-in-refugee-camps). 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Xinjiang, a region in the far west of **China** , was warned that it faced flash floods, mudslides and risks to agriculture amid forecasts of more **unusually high temperatures** in the coming days. Some 20% of the world’s cotton is produced in the area. Since mid-June much of China has baked under [brutal heatwaves](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come), which are attributed to climate change. 
+<strong>Cuba’s</strong> parliament announced that [the country](https://www.economist.com/the-americas/2022/03/26/cubas-dictatorship-has-a-cultural-opposition-that-it-cant-tolerate) will hold a referendum on <strong>legalising same-sex marriage</strong> and surrogate parenthood. The National Assembly approved an update to Cuba’s family law, which would also allow same-sex couples to adopt children and strengthen legal protections for children and the elderly. The public will now vote on the matter on September 25th. 
 
- **Steve Bannon** was convicted of two charges of contempt of Congress for defying a subpoena from the House committee [investigating the Capitol riot](https://www.economist.com/leaders/2022/06/08/americas-probe-into-the-capitol-riot-is-needed-before-its-too-late) on January 6th 2021. Mr Bannon, a former adviser to Donald Trump, faces between 30 days and one year in prison, as well as fines up to $100,000, on each count. He will be sentenced in October.
+Xinjiang, a region in the far west of <strong>China</strong>, was warned that it faced flash floods, mudslides and risks to agriculture amid forecasts of more <strong>unusually high temperatures</strong> in the coming days. Some 20% of the world’s cotton is produced in the area. Since mid-June much of China has baked under [brutal heatwaves](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come), which are attributed to climate change. 
 
- **Herbert Diess** was ousted as chief executive of Volkswagen, following clashes with the company’s works council, which represents its employees. Mr Diess had tried to re-imagine VW as an electric-car maker, and to impose steep cost cuts. He will be replaced by Oliver Blume, CEO of Volkswagen’s Porsche brand.
+<strong>Herbert Diess </strong>was ousted as chief executive of Volkswagen, following clashes with the company’s works council, which represents its employees. Mr Diess had tried to re-imagine VW as an electric-car maker, and to impose steep cost cuts. He will be replaced by Oliver Blume, CEO of Volkswagen’s Porsche brand.
 
- **Fact of the day:** three, the number of days each year that the average European has experienced temperatures above 38°C over the past five years. [Read the full article](https://www.economist.com/graphic-detail/2022/07/21/a-rising-share-of-people-are-exposed-to-dangerously-high-temperatures).
+<strong>Word of the week:</strong> <em>lanweilou</em>, a Chinese term for unfinished buildings. Across China people are halting mortgage payments on such homes to protest construction delays. [Read the full story](https://www.economist.com/finance-and-economics/2022/07/21/fresh-woe-for-chinas-property-sector-mortgage-boycotts).
 
 ----------
 
-## Trump plays kingmaker in Arizona
+## A deal for Ukraine’s grain
 
-Donald Trump considers Blake Masters, a venture capitalist, to be “a great modern-day thinker!” On Friday the former president will [host a rally](https://www.economist.com/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump) in Arizona alongside Mr Masters, who hopes to secure the Republican nomination for the upcoming Senate contest in the November mid-term elections. Together they will set out their plans to “save America”, as Friday’s rally is called.
+The deal comes not a moment too soon. On Saturday the world will be watching to see if an agreement struck by Ukraine and Russia to resume grain exports from Ukraine’s Black Sea ports will stick. If it does, the accord should ease [world hunger](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)—50m people are on the brink of starvation, warns the UN—and inflation. Indeed, wheat prices fell by 6% on the news.
 
-Republicans aim to take the Senate at the mid-terms, and Arizona is one of the few competitive seats up for grabs. With Mr Trump’s backing, Mr Masters has a good chance of winning the GOP primary on August 2nd. Four-fifths of Republican candidates endorsed by Mr Trump in open primary contests have won their party’s nomination. But Mr Masters may fare less well in the general election. He recently claimed black people are responsible for gun violence and obliquely endorsed the so-called “[great replacement theory](https://www.economist.com/the-economist-explains/2022/05/16/what-is-the-great-replacement-right-wing-conspiracy-theory)”, warning that Democrats were aiming to “change the demographics of our country”. Polling suggests Mr Masters would lose to Mark Kelly, the Democratic incumbent, in November. Mr Trump may once again be leading his party astray.
+The pact creates a “joint co-ordination centre” in Istanbul, staffed by the belligerents as well as Turkey and the UN. It will monitor cargo ships transiting through Ukrainian ports, and inspect them for weapons.
 
-## Russia’s long economic war
+But the limited agreement, which comes up for renewal every 120 days, will [not solve the food crisis](https://www.economist.com/europe/2022/07/22/russia-and-ukraine-agree-to-reopen-odessa-easing-a-food-crisis). Grain prices are down by one-third from their peak earlier this year, but the stuff is still more than 40% dearer than in January 2020. And as the war is [likely to go on for months](https://www.economist.com/leaders/2022/06/30/how-to-win-ukraines-long-war), no one knows if the deal will hold. Indeed, many wonder if it is too good to be true. After all, Russia is not known for keeping to its word in Ukraine.
 
-Any good general understands the importance of morale in a [protracted conflict](https://www.economist.com/briefing/2022/06/30/does-a-protracted-conflict-favour-russia-or-ukraine). So does Russia’s central bank. After the invasion of Ukraine in February, the bank acted decisively to show it was in control, doubling interest rates to 20% to save the rouble. As the currency stabilised, since then it has brought rates back down to 9.5%, in four large cuts. On Friday the bank slashed rates once again, by a larger-than-expected 1.5 percentage points.
+## Manifesta comes to Kosovo
 
-While much of the world is [raising rates](https://www.economist.com/finance-and-economics/2022/07/18/how-american-banks-are-responding-to-rising-interest-rates) amid soaring prices, Russia can get away with easing. That is because after the initial shock of sanctions, high energy prices have buoyed [the economy](https://www.economist.com/graphic-detail/2022/06/10/russias-economy-appears-to-be-back-on-track). The rouble has strengthened against the dollar, helped by a ban on taking money out of the country. 
+In 1996, when the first edition of Manifesta took place in Rotterdam, the territories of the former Yugoslavia were at war. This week the 14th iteration opens in Pristina, the capital of Kosovo—making it the first city in the western Balkans to host Europe’s nomadic art biennial. Derelict urban sites have been cleared and tidied into new public spaces. Brutalist structures associated with the Yugoslav era, including the Grand Hotel and Palace of Youth and Sports, have been reimagined as exhibition venues.
 
-Inflation is slowing, too. That, though, is partly because Russians are buying less as Western goods disappear from the shelves. Eventually the stun-gunned economy will become less productive, real incomes will fall, and Russia’s central bankers will have to work harder to rally the troops.
+Of the 103 participating artists, over one-third are Kosovar and another quarter come from the rest of the western Balkans. This is an unusually regional focus for an international art event. That reflects the organisers’ commitment to the local art scene, but also acknowledges its isolation. Citizens of Kosovo wishing to enter the European Union must tackle a lengthy and expensive visa-application process. The country’s artists thus struggle to participate in the international art scene. Instead, Manifesta is bringing Europe’s art professionals to Kosovo.
 
-## Twitter’s limbo earnings
+## Why human egg cells don’t spoil
 
-Twitter’s results on Friday were characteristically gloomy. The company reported a drop in revenue from a year earlier and a $66m profit last year swung to a $270m loss. Yet investors still have bigger things to worry about. They will be focused on the social-media platform’s messy legal dispute with Elon Musk, the billionaire who tried to buy the firm before changing his mind.
+Which came first, the chicken or the egg? For humans, both come at once: baby girls are born with all of the egg cells (or “oocytes”) they will ever have. Decades later, they must still be capable of spawning new life. This remarkable ability is little understood. But new research in <em>Nature</em>, a journal, has unpicked the secret of egg cells’ longevity. Essentially, oocytes put themselves into a state of dormancy by suppressing normal cell metabolism.
 
-Twitter’s product, user numbers and revenues have [long been disappointing](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up). But Mr Musk’s expression of interest in buying the firm in April plunged Twitter into chaos. Staff revolted at the idea of working for a plutocrat. The promise of a $44bn payout for shareholders kept things moving. But earlier this month Mr Musk rescinded his offer.
+Metabolism powers cells, but in doing so produces certain volatile chemicals. These mutate DNA and eventually kill cells. However, oocytes keep their engines running at such a low hum that they produce precious few of these dangerous chemicals. It is as if they are left on standby—for up to 40 or 50 years. This insight could improve success rates in assisted reproduction. Moreover, it highlights how shamefully understudied egg cells are. After all, everybody started out as one.
 
-Twitter is now in the unenviable position of trying to force a reluctant buyer to seal the deal. Its lawsuit against Mr Musk is off to a good start: despite his attempts to delay the trial until next year, a judge has ordered a hearing for October. In arguing against the delay Twitter’s lawyers said that the protracted uncertainty “inflicts harm on Twitter every hour of every day”.
+## Thailand’s prime minister wins another confidence vote
 
-## A Tory summer roadshow
+]Politics has a habit of repeating itself in Thailand. Opposition parties had already attempted to oust Prayuth Chan-ocha, the prime minister, in votes of confidence three times since his party was elected in 2019. (Mr Prayuth initially [seized power in a military coup](https://www.economist.com/asia/2022/06/16/thailands-military-ruler-is-on-the-back-foot) five years before.) Last Tuesday the opposition began debating yet another motion of no-confidence, and the vote took place on Saturday. Parliamentarians accused Mr Prayuth and ten members of his cabinet of economic mismanagement and of tolerating corruption in government.
 
-Friday marks the first day of summer recess for Britain’s parliament. It returns on September 5th, the day the country will also learn the name of their new prime minister.
+But Mr Prayuth survived the vote, just as he has all the others. This is not a surprise: his coalition controls 253 parliamentary seats, 14 more than the number needed to win. Even before the result, Mr Prayuth denied any possibility of a cabinet reshuffle. Now, Mr Prayuth’s rivals will turn their focus to the elections that must be held before next March, and will seize every opportunity to smear their opponent until then. 
 
-On Wednesday Conservative MPs finished whittling down a longlist of contenders to replace Boris Johnson as the [leader of their party](https://www.economist.com/britain/2022/07/20/rishi-sunak-and-liz-truss-will-battle-to-be-britains-next-prime-minister) to two: Rishi Sunak, the former chancellor, and Liz Truss, the foreign secretary. Both claim to be Thatcherites, but they are split on fiscal policy. She wants big tax cuts now, whereas he insists they must wait until inflation is tamed. [They differ in style](https://www.economist.com/britain/2022/07/21/the-choice-between-rishi-sunak-and-liz-truss), too. Ms Truss is not a fluent public speaker while Mr Sunak is polished, albeit sometimes prickly. Their campaigns have kicked into gear: on Thursday, the candidates tried to win over Conservative councillors at a private event in London.
+## Weekend profile: the climatologists transforming how we discuss weather
 
-It is now up to the Conservative Party’s roughly 180,000 members to pick a winner. In an attempt to woo them Mr Sunak and Ms Truss will now spend the summer traipsing up and down the country for 12 hustings. The tour will kick off in Leeds—Ms Truss’ hometown—on July 28th. She is currently the favourite, and that might give her another advantage.
+“People don’t have to die in their tens of thousands,” says Friederike Otto, with a touch of exasperation. In 2014 Dr Otto co-founded the World Weather Attribution (WWA) initiative, a collective of climate researchers and statisticians that has transformed the understanding of extreme weather events, such as the remarkable [trio of heatwaves](https://www.economist.com/the-economist-explains/2022/07/19/the-increase-in-simultaneous-heatwaves) that hit Europe, China and America this week. 
 
-<em>Follow the Conservative Party leadership contest with </em>[<em>our interactive tracker</em>](https://www.economist.com/interactive/next-prime-minister-uk)
+The idea was born of frustration with the academic distinction between climate and weather. “Climate” denotes macro, long-term trends; “weather” is what’s going on outside your window. Most people are more interested in daily weather patterns than decadal or even longer-term patterns. In the 2010s a group of researchers decided that to make the world understand why climate change mattered, they needed to introduce it into conversations about the weather, including the forecasts people see on television. 
 
-## “Nope” is a maybe
+Thus was the WWA conceived. The group works with the Red Cross Red Crescent’s Climate Centre, which gathers data on the number of people affected by any given climate event. If the number passes a certain threshold, Dr Otto and her collaborators, Sjoukje Philip and Sarah Kew of the Dutch meteorology institute, activate the WWA community. They canvass “everyone we know” to form an ad-hoc group of expert modellers. The exercise is, on the face of it, simple: to simulate two atmospheres, one with all the accumulated greenhouse-gas emissions of the last two centuries, and one that is unsullied. By comparing these two worlds, they can say whether a specific event is more or less likely to happen in a climate-changed atmosphere. 
 
-Jordan Peele, the writer and director of “Us” and “Get Out”—which earned him an Oscar for best original screenplay—has made another comedy-drama with a very short title: “Nope”, released in America on Friday.
+This has led to headline-grabbing statements: that the [northern European floods last year](https://www.economist.com/europe/2021/08/23/climate-change-made-north-west-europes-lethal-flood-more-likely) were made up to nine times more likely by anthropogenic climate change, the [Siberian heatwave of 2020](https://www.economist.com/science-and-technology/2020/07/15/siberias-heatwave-would-not-have-happened-without-climate-change) was many thousand times more likely, and the [Pacific Northwest heatwave](https://www.economist.com/the-economist-explains/2021/06/29/why-are-the-north-western-united-states-and-british-columbia-suffering-a-heatwave) of 2021 would have been virtually impossible without historical emissions. Such statements, and the underlying methodology, are now part of the climate vernacular. They are also applied elsewhere, such as in legal disputes where people or communities [seek compensation for climate-change-induced damages](https://www.economist.com/international/2022/04/23/lawsuits-aimed-at-greenhouse-gas-emissions-are-a-growing-trend). 
 
-Daniel Kaluuya and Keke Palmer star as siblings who spot a flying saucer. Desperate for money, they set about becoming the first people to take an irrefutable photograph of an alien spaceship. Despite that simple premise the film is the most wide-ranging of Mr Peele’s oeuvre. “Nope” is sprinkled with interludes concerning the Wild West, animal training, child stars, social media and the erasure of black people from Hollywood history—all of which are shot beautifully by cinematographer Hoyte van Hoytema, of “Interstellar” and “Dunkirk”.
+Extreme heat is one of the most straightforward impacts of global warming, and virtually every contemporary heatwave was made [worse or more likely by emissions](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come), or both. But Dr Otto worries that this engenders fatalism. “Yes it’s climate change…but we are also not powerless to do something about it,” she says. “That…is what’s missing in the conversation.”
 
-The result is intriguing, if sometimes rambling. Mr Peele struggles to weave everything together. But he is the rare Hollywood filmmaker who has too many ideas, rather than not enough.
+## Weekly crossword
 
-## Daily quiz
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on **Friday** to [<span class="__cf_email__" data-cfemail="0455716d7e417774766177776b4461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+<strong>Cryptic clues</strong>
 
- **Friday:** Which rock festival was the subject of a song written by Joni Mitchell?
+<em>1 down </em>Thug hiding in a skunk hole? (10)
 
- **Thursday:** Which 1950s American sitcom was voted the best TV show of all time in a 2012 poll?
+<em>1 across </em>King caught in falsehoods for social currency (5)
 
-## The winners of last week’s crossword
+<em>2 across</em> Stress rising, in part, might lead to being prescribed this? (4)
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+<em>3 across</em> Originally Biden and Manchin’s authority (5)
 
-Asia: **Anand Mahajan** , Mumbai, India
+<strong>Factual clues</strong>
 
-North America: ** Leslie Appiah** , Denver, United States
+<em>1 down </em>Rumoured soon-to-be co-combatant (10)
 
-Europe: **Laura Sedman** , Vienna, Austria
+<em>1 across </em>What Latin American politicians increasingly want? (5)
 
-Africa: ** Lasse Herdien** , Cape Town, South Africa
+<em>2 across </em>A medicine with a mysterious mechanism of action (4)
 
-Oceania: **Orson Passi** , Canberra, Australia
+<em>3 across </em>A victim of Congress’s climate inaction (5)
 
-They all gave the correct answers of [Pope Francis](https://www.economist.com/leaders/2022/07/14/the-catholic-church-should-scrap-the-requirement-for-priestly-celibacy), [Panama](https://www.economist.com/the-americas/2022/07/14/migrant-flows-are-changing-in-the-americas), [rhino](https://www.economist.com/middle-east-and-africa/2022/07/14/can-elephants-and-rhinos-coexist-with-livestock-and-their-owners) and [secret](https://www.economist.com/science-and-technology/2022/07/13/how-to-preserve-secrets-in-a-quantum-age). There were no entries from Central or South America. Check back tomorrow for this week’s crossword.
+## The winner’s of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Jin-Hong Park</strong>, Suwon, South Korea 
+
+North America: <strong>Ashley Easterling</strong>, Bay St. Louis, United States
+
+Central and South America: <strong>Carlos Flexa Ribeiro</strong>, Rio de Janeiro, Brazil
+
+Europe: <strong>Julius Kintzinger</strong>, Hamburg, Germany
+
+Africa: <strong>Hasit Raja</strong>, Nairobi, Kenya
+
+Oceania: <strong>Ian Harland</strong>, Wellington, New Zealand
+
+They all gave the correct answers of Charlie Watts, Patty Hearst, Linus Pauling, I Love Lucy and Woodstock. They are all characters in the “Peanuts” cartoon strip: Charlie Brown, Peppermint Patty, Linus, Lucy and Woodstock.
 
 ----------
 
