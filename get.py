@@ -141,9 +141,9 @@ def web_process(**kwargs):
     
     mdlines_proxied = [line.replace('www.economist.com', MIRROR).replace('economist.com', MIRROR) for line in mdlines]
     mdlines_proxied.append('<div align="center"><img src="unlock.png" /><h1>Privacy Information</h1></div>')
-    mdlines_proxied.append('*We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied. \
+    mdlines_proxied.append('We use a certain script to prevent the paywall from loading, thus links contained lead you to the corresponding webpages proxied. \
                     Visiting these webpages means you have already acknowledged potential risks of having your behaviour recorded by Cloudflare.\
-                    For an unmodified version, [click here](README.raw.md).*')
+                    For an unmodified version, [click here](README.raw.md).')
     return mdlines_proxied, mdlines
 
 if __name__ == '__main__':
