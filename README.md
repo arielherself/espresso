@@ -20,7 +20,7 @@ A <strong>wildfire</strong> near <strong>California’s</strong> Yosemite Nation
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The UN’s top court ruled that a case accusing <strong>Myanmar</strong> of committing <strong>genocide</strong> against Rohingya Muslims can continue, striking down objections from the country’s ruling military junta. The International Court of Justice will now try to establish how responsible the state was for the violence that caused hundreds of thousands of [Rohingyas to flee](https://te.arielherself.xyz/asia/2021/10/09/a-rohingya-leaders-murder-highlights-rising-insecurity-in-refugee-camps). 
+British and French officials sparred over the cause of traffic jams and multi-hour delays for travellers crossing the Channel from the <strong>port of Dover</strong>. Britain blamed a shortage of French border-patrol officers; France said more [checks](https://te.arielherself.xyz/britain/2020/12/19/will-brexit-cause-disruption-in-britains-ports) were needed because Britain left the European Union. “France is not responsible for Brexit”, tweeted France’s transport minister.
 
 <strong>Cuba’s</strong> parliament announced that [the country](https://te.arielherself.xyz/the-americas/2022/03/26/cubas-dictatorship-has-a-cultural-opposition-that-it-cant-tolerate) will hold a referendum on <strong>legalising same-sex marriage</strong> and surrogate parenthood. The National Assembly approved an update to Cuba’s family law, which would also allow same-sex couples to adopt children and strengthen legal protections for children and the elderly. The public will now vote on the matter on September 25th. 
 
