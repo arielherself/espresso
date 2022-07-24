@@ -22,7 +22,7 @@ The World Health Organisation declared <strong>monkeypox</strong> [a global heal
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Gavin Newsom, the governor of <strong>California</strong>, announced a state of emergency over a <strong>wildfire</strong> near Yosemite National Park. Since igniting on Friday afternoon, the Oak Fire has [spread rapidly](https://te.arielherself.xyz/science-and-technology/2020/09/10/wildfires-will-be-more-common-in-a-warming-world), covering more than 11,900 acres (4,815 hectares) and destroying ten properties. More than 6,000 people have been evacuated thus far and hundreds of firefighters have been deployed.
+The Oak Fire near <strong>California’s</strong> Yosemite National Park has nearly tripled in size since [igniting](https://te.arielherself.xyz/science-and-technology/2020/09/10/wildfires-will-be-more-common-in-a-warming-world) on Friday, torching some 14,000 acres (5,665 hectares). More than 6,000 people have been evacuated and 2,000 firefighters have been deployed. Meanwhile, several <strong>wildfires</strong> raged in Greece, including one on the island of <strong>Lesbos</strong> that forced the evacuation of more than 450 people.
 
 <strong>Israeli</strong> security forces killed two <strong>Palestinian</strong> gunmen in a clash in Nablus, a town in the West Bank, early on Sunday morning. Six other men were wounded. Those killed were claimed by the al-Aqsa Martyrs’ Brigade, a militant group associated with Fatah, the political party led by Palestine’s president. Israeli forces have been conducting more raids in the area recently, after a [spate of terror attacks](https://te.arielherself.xyz/middle-east-and-africa/2022/04/16/israels-government-is-being-tested-by-a-spate-of-terror-attacks). 
 
