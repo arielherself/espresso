@@ -1,4 +1,4 @@
-> **Try a brand-new rebuilt webpage version at https://arielherself.github.io/espresso-native **
+> **Try a brand-new rebuilt webpage version at https://arielherself.github.io/espresso-native**
 
 [English](https://github.com/arielherself/espresso/blob/main/README.md)|[中文](https://github-com.translate.goog/arielherself/espresso/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
 
