@@ -48,7 +48,7 @@ Francis has already said sorry. In a trip that will take him to Alberta, Quebec 
 
 ## China’s quest for the heavens
 
-<em>Tiangong</em>, China’s space station (the name means ​​“heavenly palace”), has been under construction since 2021, when its first module was launched. On Sunday, if all goes to plan, a second module named <em>Wentian</em> (“quest for the heavens”) will be blasted into orbit from a spaceport at Wenchang, off China’s southern coast. A third module is due to launch later this year. 
+<em>Tiangong</em>, China’s space station (the name means ​​“heavenly palace”), has been under construction since 2021, when its first module was launched. On Sunday a second module named <em>Wentian</em> (“quest for the heavens”) was blasted into orbit from a spaceport at Wenchang, off China’s southern coast. A third module is due to launch later this year. 
 
 Even when finished (probably next year) the 100-tonne <em>Tiangong</em> station will be a tiddler compared to the 440-tonne International Space Station. But China is not welcome aboard the ISS: a law in America, one of the ISS’s main funders, prohibits official contact with China’s space programme over national-security concerns.
 
