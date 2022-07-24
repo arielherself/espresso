@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Emmanuel Macron</strong>, the French president, told <strong>Ebrahim Raisi</strong>, the Iranian president, that a <strong>nuclear deal</strong> is “still possible” but that it needs to happen quickly. Mr Macron is part of a group of leaders who have been trying to revive a 2015 nuclear deal between America and Iran, which America pulled out of in 2018. Talks on the deal [have been stalled](https://www.economist.com/united-states/2022/06/02/the-zombie-nuclear-deal) since March. 
 
-A former mayor and two other people were killed in a shooting at a graduation ceremony in Manila, in the <strong>Philippines</strong>. Authorities said the attack appeared to be a targeted assassination; the suspect had two pistols and was arrested after a car chase.
+A former mayor and two other people were killed in a <strong>shooting</strong> at a graduation ceremony in Manila, the capital of the <strong>Philippines</strong>. Authorities said the attack appeared to be a targeted assassination; the suspect had two pistols and was arrested after a car chase.
 
 A local affiliate of <strong>al-Qaeda</strong> claimed responsibility for an attack on <strong>Mali’s</strong> main army base on Friday. The raid, at a garrison 15 kilometres (10 miles) northwest of Bamako, the capital, killed one soldier. Seven of the assailants also died. The jihadists said it was retribution for indiscriminate killings by [government-hired Russian mercenaries](https://www.economist.com/middle-east-and-africa/2022/01/15/small-bands-of-mercenaries-extend-russias-reach-in-africa).
 
