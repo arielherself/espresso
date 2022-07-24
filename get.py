@@ -44,7 +44,7 @@ def get(proxy=False, http_proxy='', https_proxy=''):
 def web_process(**kwargs):
     pre, titles, details = get(**kwargs)
     mdlines = []
-    mdlines.append('> **Try a brand-new rebuilt webpage version at https://arielherself.github.io/espresso-native **')
+    mdlines.append('> **Try a brand-new rebuilt webpage version at https://arielherself.github.io/espresso-native**')
     mdlines.append('[English](https://github.com/arielherself/espresso/blob/main/README.md)|[中文](https://github-com.translate.goog/arielherself/espresso/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)\n\n')
     mdlines.append('![The Economist](menubar.png)')
     mdlines.append(f'# <p align="center">The world in brief {str(datetime.date.today())}</p>')
