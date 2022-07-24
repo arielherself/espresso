@@ -24,13 +24,31 @@ Listen to an abridged version of the subscriber-only briefing.
 
 The Oak Fire near <strong>California’s</strong> Yosemite National Park has nearly tripled in size since [igniting](https://www.economist.com/science-and-technology/2020/09/10/wildfires-will-be-more-common-in-a-warming-world) on Friday, torching some 14,000 acres (5,665 hectares). More than 6,000 people have been evacuated and 2,000 firefighters have been deployed. Meanwhile, several <strong>wildfires</strong> raged in Greece, including one on the island of <strong>Lesbos</strong> that forced the evacuation of more than 450 people.
 
-<strong>Israeli</strong> security forces killed two <strong>Palestinian</strong> gunmen in a clash in Nablus, a town in the West Bank, early on Sunday morning. Six other men were wounded. Those killed were claimed by the al-Aqsa Martyrs’ Brigade, a militant group associated with Fatah, the political party led by Palestine’s president. Israeli forces have been conducting more raids in the area recently, after a [spate of terror attacks](https://www.economist.com/middle-east-and-africa/2022/04/16/israels-government-is-being-tested-by-a-spate-of-terror-attacks). 
+The <strong>House committee</strong> probing the <strong>Capitol riot</strong> plans to interview additional witnesses, including former members of Donald Trump’s cabinet, in preparation for more hearings in September. Liz Cheney, the panel’s vice-chairwoman, said she would consider subpoenaing [Ginni Thomas](https://www.economist.com/united-states/2022/03/19/the-embarrassing-mrs-thomas), the wife of Supreme Court justice Clarence Thomas. The committee is “absolutely…looking at” whether to refer Mr Trump and his associates for [criminal prosecution](https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump), she added.
 
 A former mayor and two other people were killed in a <strong>shooting</strong> at a graduation ceremony in Manila, the capital of the <strong>Philippines</strong>. Authorities said the attack appeared to be a targeted assassination; the suspect had two pistols and was arrested after a car chase.
 
 <strong>Word of the week:</strong> <em>lanweilou</em>, a Chinese term for unfinished buildings. Across China people are halting mortgage payments on such homes to protest construction delays. [Read the full story](https://www.economist.com/finance-and-economics/2022/07/21/fresh-woe-for-chinas-property-sector-mortgage-boycotts).
 
 ----------
+
+## The world in brief, July 23rd 2022
+
+<strong>Volodymyr Zelensky</strong>, Ukraine’s president, said his country’s forces were advancing “step by step” into the [<strong>Kherson province</strong>](https://www.economist.com/europe/2022/07/03/ukraine-prepares-a-counter-offensive-to-retake-kherson-province) of southern Ukraine. Heavy fighting was reported in the region, and one official claimed it could be “liberated by September”. The city of Kherson was one of the first to fall to the Russians after they invaded Ukraine in February.
+
+Mr Zelensky earlier accused <strong>Russia</strong> of “barbarism” after missiles hit Odessa, Ukraine’s biggest port, mere hours after the two countries signed a deal over grain exports. Russia had agreed to allow Ukraine to resume exporting commodities like wheat, of which it is one of the world’s most important producers. The attack [immediately jeopardises the deal](https://www.economist.com/europe/2022/07/22/after-agreeing-to-let-ukraine-export-grain-russia-rockets-its-port), though the Ukrainian government says it is still preparing shipments. 
+
+At least 17 <strong>Haitians</strong> died when their boat capsized off the coast of the Bahamas while en route to Florida. Twenty-five people were rescued, and more were presumed missing. Recently there has been an uptick in the number of <strong>migrants</strong> from Haiti attempting to reach Miami by sea, to [escape poverty and gang violence](https://www.economist.com/the-americas/2021/06/24/haitis-crisis-appears-to-be-getting-worse).
+
+The World Health Organisation declared <strong>monkeypox</strong> [a global health emergency](https://www.economist.com/graphic-detail/2022/06/23/is-monkeypox-an-international-public-health-emergency). More than 16,000 cases of the viral illness have been reported this year. The alert, the WHO’s highest, was last used in January 2020 with SARS-CoV-2. It is meant to spur countries to mount a co-ordinated, international response. Although monkeypox [rarely kills healthy adults](https://www.economist.com/science-and-technology/2022/05/25/the-spread-of-monkeypox), it can be dangerous for children, pregnant women and immunocompromised people.
+
+The Oak Fire near <strong>California’s</strong> Yosemite National Park has nearly tripled in size since [igniting](https://www.economist.com/science-and-technology/2020/09/10/wildfires-will-be-more-common-in-a-warming-world) on Friday, torching some 14,000 acres (5,665 hectares). More than 6,000 people have been evacuated and 2,000 firefighters have been deployed. Meanwhile, several <strong>wildfires</strong> raged in Greece, including one on the island of <strong>Lesbos</strong> that forced the evacuation of more than 450 people.
+
+The <strong>House committee</strong> probing the <strong>Capitol riot</strong> plans to interview additional witnesses, including former members of Donald Trump’s cabinet, in preparation for more hearings in September. Liz Cheney, the panel’s vice-chairwoman, said she would consider subpoenaing [Ginni Thomas](https://www.economist.com/united-states/2022/03/19/the-embarrassing-mrs-thomas), the wife of Supreme Court justice Clarence Thomas. The committee is “absolutely…looking at” whether to refer Mr Trump and his associates for [criminal prosecution](https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump), she added.
+
+A former mayor and two other people were killed in a <strong>shooting</strong> at a graduation ceremony in Manila, the capital of the <strong>Philippines</strong>. Authorities said the attack appeared to be a targeted assassination; the suspect had two pistols and was arrested after a car chase.
+
+<strong>Word of the week:</strong> <em>lanweilou</em>, a Chinese term for unfinished buildings. Across China people are halting mortgage payments on such homes to protest construction delays. [Read the full story](https://www.economist.com/finance-and-economics/2022/07/21/fresh-woe-for-chinas-property-sector-mortgage-boycotts).
 
 ## Russia tries to woo Africa
 
