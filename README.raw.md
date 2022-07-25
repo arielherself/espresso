@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Pope Francis</strong> arrived in Maskwacis to deliver a long-awaited apology in <strong>Canada</strong> for decades of abuse at Catholic-run [residential schools](https://www.economist.com/the-economist-explains/2021/07/26/what-happened-at-residential-schools-for-indigenous-children-in-north-america). The schools separated some 150,000 indigenous children from their families and intended to forcibly assimilate them into Christian society. Thousands of children died; physical and sexual abuse were common. Francis has called his visit to Canada a “pilgrimage of penance”.
+<strong>Pope Francis</strong> delivered a long-awaited apology in <strong>Canada</strong> for decades of abuse at Catholic-run [residential schools](https://www.economist.com/the-economist-explains/2021/07/26/what-happened-at-residential-schools-for-indigenous-children-in-north-america). The schools separated some 150,000 indigenous children from their families and intended to forcibly assimilate them into Christian society. Thousands of children died; physical and sexual abuse were common. Francis has called his visit to Canada a “pilgrimage of penance”.
 
 Russia’s <strong>Gazprom </strong>announced it would further cut [gas flows](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) through the Nord Stream 1 pipeline to Europe via Germany. Daily gas deliveries will drop to 20% of the pipeline’s capacity, from the current 40%. [Gazprom](https://www.economist.com/business/how-gazprom-helps-the-kremlin-put-the-squeeze-on-europe/21807841) said the pipeline, which was shut recently for repairs, still needed more work. But Germany’s economic ministry insisted there was “no technical reason” for the reduction.
 
@@ -68,7 +68,7 @@ The younger Marcos has a strong incentive to put into action a sensible, democra
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7c2d091506390f0c0e190f0f133c191f13121311150f08521f1311">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>What do vexillologists study?
 
