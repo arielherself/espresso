@@ -12,109 +12,65 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Volodymyr Zelensky</strong>, Ukraine’s president, said his country’s forces were advancing “step by step” into the [<strong>Kherson province</strong>](https://www.economist.com/europe/2022/07/03/ukraine-prepares-a-counter-offensive-to-retake-kherson-province) of southern Ukraine. Heavy fighting was reported in the region, and one official claimed it could be “liberated by September”. The city of Kherson was one of the first to fall to the Russians after they invaded Ukraine in February.
+<strong>Russia </strong>charged 92 members of <strong>Ukraine’s armed forces </strong>with crimes against humanity. Alexander Bastrykin, the head of Russia’s fearsome Investigative Committee, announced these as the first of many prosecutions to come. Ukraine has said it is looking into more than 21,000 [war crimes](https://www.economist.com/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine) committed by Russian forces. Meanwhile President Volodymyr Zelensky said his country’s troops were advancing “step by step” towards [Kherson](https://www.economist.com/europe/2022/07/03/ukraine-prepares-a-counter-offensive-to-retake-kherson-province) in southern Ukraine, which Russia seized early in the war. [Moldova’s](https://www.economist.com/europe/moldova-is-trying-to-stay-out-of-russias-war-with-ukraine/21809093) prime minister, Natalia Gavrilita, said she is “very worried” that her country could be invaded next, if Russia takes Odessa.
 
-<strong>Russia’s</strong> foreign minister, Sergei Lavrov, reassured his <strong>Egyptian</strong> counterpart in Cairo that commitments to export Russian <strong>grain</strong> would be honoured. He also refuted allegations that Russia is “exporting hunger”. His trip came after Russian missiles struck the port of Odessa, casting doubt on the viability of a [deal to unblock grain exports](https://www.economist.com/europe/2022/07/22/after-agreeing-to-let-ukraine-export-grain-russia-rockets-its-port) from Ukraine. Last year Egypt bought four-fifths of its imported wheat from Russia and Ukraine.
+Visiting Cairo, Russia’s foreign minister, <strong>Sergei Lavrov</strong>, assured his Egyptian counterpart that his country would honour its commitment to allow <strong>the export of grain</strong> via the Black Sea to resume. Awkwardly, his ministry also confirmed that Russian cruise missiles had struck Odessa’s port the day after the deal was struck, casting doubt on the viability of its [promise to unblock grain stockpiled](https://www.economist.com/europe/2022/07/22/after-agreeing-to-let-ukraine-export-grain-russia-rockets-its-port) in Ukraine. Last year Egypt bought four-fifths of its imported wheat from Russia and Ukraine. 
 
-At least 17 <strong>Haitians</strong> died when their boat capsized off the coast of the Bahamas while en route to Florida. Twenty-five people were rescued, and more were presumed missing. Recently there has been an uptick in the number of <strong>migrants</strong> from Haiti attempting to reach Miami by sea, to [escape poverty and gang violence](https://www.economist.com/the-americas/2021/06/24/haitis-crisis-appears-to-be-getting-worse).
+The <strong>Oak Fire</strong> near Yosemite National Park was “0% contained” on Sunday, according to California’s fire department, despite thousands of firefighters being deployed to tackle it. The state’s governor, Gavin Newsom, declared a state of emergency in the area. The [wildfire](https://www.economist.com/science-and-technology/2020/09/10/wildfires-will-be-more-common-in-a-warming-world) ignited on Friday and has so far set over 15,600 acres (6,313 hectares) of land ablaze.
 
-The Oak Fire near <strong>California’s</strong> Yosemite National Park has nearly tripled in size since [igniting](https://www.economist.com/science-and-technology/2020/09/10/wildfires-will-be-more-common-in-a-warming-world) on Friday, torching some 14,000 acres (5,665 hectares). More than 6,000 people have been evacuated and 2,000 firefighters have been deployed. Meanwhile, several <strong>wildfires</strong> raged in Greece, including one on the island of <strong>Lesbos</strong> that forced the evacuation of more than 450 people.
+Bavarian Nordic, a Danish biotechnology company, announced that the <strong>European Commission</strong> had approved its Imvanex <strong>vaccine</strong> for use against <strong>monkeypox</strong>. On Saturday the World Health Organisation declared the disease a global emergency. The Imvanex vaccine—developed for smallpox—has already been approved for monkeypox in America and Canada. Vaccination efforts are mainly focusing on men who have sex with men, [the group deemed to be most at risk](https://www.economist.com/science-and-technology/2022/07/23/monkeypox-is-declared-a-global-health-emergency). 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The <strong>House committee</strong> probing the <strong>Capitol riot</strong> plans to interview additional witnesses, including former members of Donald Trump’s cabinet, in preparation for more hearings in September. Liz Cheney, the panel’s vice-chairwoman, said she would consider subpoenaing [Ginni Thomas](https://www.economist.com/united-states/2022/03/19/the-embarrassing-mrs-thomas), the wife of Supreme Court justice Clarence Thomas. The committee is “absolutely…looking at” whether to refer Mr Trump and his associates for [criminal prosecution](https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump), she added.
+The American congressional committee probing the <strong>Capitol riot</strong> of January 6th plans to interview additional witnesses, including former members of Donald Trump’s cabinet, in preparation for more hearings in September. Liz Cheney, the panel’s vice-chairwoman, said she would consider subpoenaing [Ginni Thomas](https://www.economist.com/united-states/2022/03/19/the-embarrassing-mrs-thomas), the wife of Clarence Thomas, a justice on the Supreme Court. She also said the committee may also refer the former president for [criminal prosecution](https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump).
 
-A former mayor and two other people were killed in a <strong>shooting</strong> at a graduation ceremony in Manila, the capital of the <strong>Philippines</strong>. Authorities said the attack appeared to be a targeted assassination; the suspect had two pistols and was arrested after a car chase.
+<strong>Myanmar’s</strong> junta executed four prisoners accused of “terror acts”, the state media reported on Monday. It is the first time in 30 years the country has enacted the death penalty. Two of the men were prominent democracy activists convicted of collaborating with a self-styled shadow government or its associated militias. The other two killed a woman they denounced as an informer for the junta.
 
-The World Health Organisation declared <strong>monkeypox</strong> [a global health emergency](https://www.economist.com/graphic-detail/2022/06/23/is-monkeypox-an-international-public-health-emergency). More than 16,000 cases of the viral illness have been reported this year. The alert, the WHO’s highest, was last used in January 2020 with SARS-CoV-2. It is meant to spur countries to mount a co-ordinated, international response. Although monkeypox [rarely kills healthy adults](https://www.economist.com/science-and-technology/2022/05/25/the-spread-of-monkeypox), it can be dangerous for children, pregnant women and immunocompromised people.
+The growth of <strong>China’s population</strong>, slowing for years, is now expected to go into decline sometime before 2025, according to a senior health official cited by the nationalistic <em>Global Times</em>. [Some observers](https://www.economist.com/china/2021/04/29/is-chinas-population-shrinking) think the peak has been passed already, but China’s government has denied it. Last year laws were changed to allow mothers to bear three children—to little avail.
 
-<strong>Word of the week:</strong> <em>lanweilou</em>, a Chinese term for unfinished buildings. Across China people are halting mortgage payments on such homes to protest construction delays. [Read the full story](https://www.economist.com/finance-and-economics/2022/07/21/fresh-woe-for-chinas-property-sector-mortgage-boycotts).
+<strong>Fact of the day:</strong> 250m, the hoped-for viewership for this year’s women’s Euros competition—which would be up from 178m in 2017. [Read the full article](https://www.economist.com/international/2022/07/21/the-womens-euros-are-selling-out-stadiums).
 
 ----------
 
-## Russia tries to woo Africa
+## A criminal probe into Trumpworld
 
-Sergei Lavrov, Russia’s foreign minister, embarks on Sunday on a visit to Egypt, Ethiopia, Uganda and Congo-Brazzaville. The trip is in part a prelude to a Russia-Africa summit scheduled for next year. But Mr Lavrov has more immediate goals. Russia wants international support for its invasion of Ukraine, about which some African countries have [expressed ambivalence](https://www.economist.com/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east). It also wants to convince the continent’s leaders that Western sanctions, not Russia’s war of choice, are to blame for rising [food](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk) and petrol prices. 
+The House committee investigating Donald Trump’s interference in the 2020 election has laid a road map for federal prosecutors, who [could charge him with a crime](https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump) related to his conduct. But it is in Atlanta, Georgia, where the former president and his henchmen face the most immediate legal peril. Fani Willis, a local prosecutor, has been probing his efforts to overturn his loss in the state. She has subpoenaed dozens of witnesses, including Lindsey Graham, a US senator, and Rudy Giuliani, Mr Trump’s former lawyer. On Monday a grand jury will hear recorded testimony from Brian Kemp, the state’s governor.
 
-Ultimately Russia hopes to win African support in a wider ideological battle against the West. ([China seeks the same.](https://www.economist.com/special-report/2022-05-28)) To foster goodwill, the Kremlin plays up the Soviet Union’s historical support for African decolonisation movements. Writing in several African newspapers on Friday Mr Lavrov said that, unlike the West, Russia “had not stained itself” with colonial crimes, and pledged to “continue to pursue a peace-loving foreign policy.” Ukrainians may disagree.
+Mr Trump notoriously ordered Georgia’s top election official to “find” enough votes to reverse his defeat. Soliciting election fraud is a crime in the state; legal experts reckon that demand puts him at risk of getting indicted. Ms Willis has already told the 16 “electors” who falsely cast the state’s electoral votes for Mr Trump that they are criminal targets. Asked whether she will subpoena Mr Trump, she stays evasive: “We’ll just have to see.”
 
-## The pope’s pilgrimage of penance
+## Tunisia’s president tears up the constitution
 
-When Pope Francis arrives in Canada on Sunday for a five-day visit, his primary purpose will be not to preach but to do penance. He plans to apologise for the role of the Roman Catholic Church in Canada’s [residential-schools](https://www.economist.com/the-economist-explains/2021/07/26/what-happened-at-residential-schools-for-indigenous-children-in-north-america) system, which from the early 19th century until 1996 separated indigenous children from their families and culture. 
+Democracy can end with a whimper—not a bang. On Monday Tunisians are voting on a [new constitution](https://www.economist.com/middle-east-and-africa/2022/07/21/tunisias-president-is-pushing-an-ominous-constitution). The charter would weaken parliament in favour of the president, giving him the right to hire and fire ministers and to impose an unlimited state of emergency. There would be no process for removing him. If approved, the constitution would consolidate a power grab by Kais Saied, the [authoritarian-minded president](https://www.economist.com/the-world-ahead/2021/11/08/tunisia-is-setting-itself-up-for-an-autocratic-future), who has ruled by decree since he suspended parliament last July.
 
-Canada’s government forced 150,000 children into the schools, 60% of which were run by the church. They were housed in inhuman conditions, and many were sexually abused. A horrifying number died. Last year hundreds of [unmarked graves](https://www.economist.com/the-americas/2021/07/01/more-graves-are-found-at-canadian-schools-for-the-indigenous) were discovered at sites of former schools. In 2015 a truth and reconciliation commission, established in response to lawsuits brought by indigenous Canadians, said the schools were part of a programme of “cultural genocide”. 
+Unlike the country’s 2014 constitution, drawn up in collaboration with the public in the wake of the Arab spring, which began in Tunisia, the new one—which Mr Saied claims will “correct” the course of the revolution—was written largely in secret. Voters have had less than a month to consider its contents. Mr Saied appointed Sadok Belaid, an accomplished law professor, to draft it, but Mr Belaid says the final text is quite different from what he submitted. He calls it “dangerous”. Opposition groups have urged Tunisians to boycott the referendum; turnout will probably be low (it was just 4.5% in the diaspora after two days of overseas voting). Eleven years after they [toppled a dictator](https://www.economist.com/middle-east-and-africa/2014/10/25/spring-is-still-in-the-air), many Tunisians have grown frustrated with impotent democratic leaders. But Mr Saied has little to offer except a return to the past.
 
-Francis has already said sorry. In a trip that will take him to Alberta, Quebec and the Arctic territory of Nunavut, he will atone at the scene of the crimes.
+## Ryanair’s soaring fortunes
 
-## China’s quest for the heavens
+European air travel has been [anything but smooth](https://www.economist.com/europe/2022/07/07/travel-chaos-in-europe-is-a-glimpse-of-a-future-with-few-spare-workers) this summer. Staff shortages have led to long queues, giant piles of suitcases and angry passengers. But not everyone has been affected: Ryanair’s customers have been spared the worst of the chaos.
 
-<em>Tiangong</em>, China’s space station (the name means ​​“heavenly palace”), has been under construction since 2021, when its first module was launched. On Sunday a second module named <em>Wentian</em> (“quest for the heavens”) was blasted into orbit from a spaceport at Wenchang, off China’s southern coast. A third module is due to launch later this year. 
+As Michael O’Leary, the airline’s boss, bragged on an earnings call on Monday, that is thanks to careful planning. Unlike other airlines, Ryanair did not lay off large numbers of staff when the pandemic began, thereby avoiding a last-minute race to rehire workers as travel demand rebounded. It also dodged soaring fuel prices by hedging its costs in advance. The airline reported a profit of $174m in the quarter ending in June, higher than analysts had predicted. 
 
-Even when finished (probably next year) the 100-tonne <em>Tiangong</em> station will be a tiddler compared to the 440-tonne International Space Station. But China is not welcome aboard the ISS: a law in America, one of the ISS’s main funders, prohibits official contact with China’s space programme over national-security concerns.
+But there may be turbulence ahead. Mr O’Leary warned that the recovery remains “fragile” and high oil prices will increase costs. And Ryanair is not completely immune from staffing woes: on Monday workers in Spain will walk out, demanding better working conditions.
 
-China’s space programme is nevertheless marching forward. It is only the third country, after America and the Soviet Union, to have mastered crewed spaceflight. Whether <em>Tiangong</em> will have any value beyond national pride is another question. Many scientists consider the ISS, with an estimated price tag of over $100bn, the most expensive white elephant ever built.
+## The rise and rise of franchise cricket
 
-## Queen of the mountains
+When the International Cricket Council, the sport’s governing body, sets out the next year’s playing calendar at its annual general meeting on Monday, the real insight lies not in when matches are being played—but when they aren’t.
 
-Since 1989, when Jeannie Longo won the Tour de France Féminin for the third consecutive time, France’s premier long-distance cycling race has had no room for women. Organisers blamed a lack of money and interest. But times have changed. 
+As lucrative franchise leagues take off around the world, the ICC is increasingly prioritising domestic competitions over international test matches. In this year’s schedule, the [Indian Premier League](https://www.economist.com/asia/2022/03/26/how-the-ipl-reflects-indias-strengths-and-weaknesses)—the most valuable competition in cricket—is expected to get an official two-and-a-half-month window where almost no international cricket will be played. That will allow the league to attract more players.
 
-As the men’s [Tour de France](https://www.economist.com/culture/2022/06/30/how-to-watch-the-tour-de-france-from-afar) finishes in Paris on Sunday, a new competition, the Tour de France Femmes, has its own <em>grand départ</em>. Television audiences in 170 countries can watch as the women’s peloton races across a 1,029km (639 miles) circuit over eight days. (The men’s race was 3,350km over 21 days.)
+Other, less profitable, leagues will not get quite the same concessions. But the ICC is poised to give England and Australia breaks from international games during their own tournaments, so local players can compete. But while the proliferation of cricket may entertain fans, it risks burning out players. Last week Ben Stokes, England’s 31-year-old test captain, retired from one-day-international cricket; his body, he said, was “letting him down”.
 
-As with most professional sports, women’s cycling suffers from less money and exposure than the male version. The female winner of the yellow jersey will take home 10% of what her male counterpart makes. Still, the race marks a gear shift. Broadcasting deals have locked networks into showing the 2023 tour, and Zwift, a training app, will sponsor the Tour de France Femmes for at least four years. Female cyclists have slogged to reach this point; it should be downhill from here.
+## Politics in the Philippines: a generation game
 
-## Weekend profile: the climatologists transforming how we discuss weather
+In Manila on Monday the newly-elected president of the Philippines, Ferdinand “Bongbong” Marcos, gave his first annual address to Congress. Mr Marcos confidently spelt out a populist but generally plausible programme of government, full of detail on policy. Such detail had been glaringly absent from his [election campaign](https://www.economist.com/asia/2022/06/29/by-electing-another-marcos-filipinos-show-they-have-forgotten-history), when vague slogans were enough to persuade voters that he would forgo the killing and thieving characteristic of the dictatorial regime of his late father, the first President Ferdinand Marcos, who was deposed by a popular uprising in 1986.
 
-“People don’t have to die in their tens of thousands,” says Friederike Otto, with a touch of exasperation. In 2014 Dr Otto co-founded the World Weather Attribution (WWA) initiative, a collective of climate researchers and statisticians that has transformed the understanding of extreme weather events, such as the remarkable [trio of heatwaves](https://www.economist.com/the-economist-explains/2022/07/19/the-increase-in-simultaneous-heatwaves) that hit Europe, China and America this week. 
+The younger Marcos has a strong incentive to put into action a sensible, democratic programme as it would justify the political rehabilitation of his dynasty. That would in turn improve the career prospects of the new president’s own eldest son, Ferdinand Alexander “Sandro” Marcos, a newly elected congressman—who was among the audience listening to his father’s address.
 
-The idea was born of frustration with the academic distinction between climate and weather. “Climate” denotes macro, long-term trends; “weather” is what’s going on outside your window. Most people are more interested in daily weather patterns than decadal or even longer-term patterns. In the 2010s a group of researchers decided that to make the world understand why climate change mattered, they needed to introduce it into conversations about the weather, including the forecasts people see on television. 
+## Daily quiz
 
-Thus was the WWA conceived. The group works with the Red Cross Red Crescent’s Climate Centre, which gathers data on the number of people affected by any given climate event. If the number passes a certain threshold, Dr Otto and her collaborators, Sjoukje Philip and Sarah Kew of the Dutch meteorology institute, activate the WWA community. They canvass “everyone we know” to form an ad-hoc group of expert modellers. The exercise is, on the face of it, simple: to simulate two atmospheres, one with all the accumulated greenhouse-gas emissions of the last two centuries, and one that is unsullied. By comparing these two worlds, they can say whether a specific event is more or less likely to happen in a climate-changed atmosphere. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d180a4b8ab94a2a1a3b4a2a2be91b4b2bebfbebcb8a2a5ffb2bebc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-This has led to headline-grabbing statements: that the [northern European floods last year](https://www.economist.com/europe/2021/08/23/climate-change-made-north-west-europes-lethal-flood-more-likely) were made up to nine times more likely by anthropogenic climate change, the [Siberian heatwave of 2020](https://www.economist.com/science-and-technology/2020/07/15/siberias-heatwave-would-not-have-happened-without-climate-change) was many thousand times more likely, and the [Pacific Northwest heatwave](https://www.economist.com/the-economist-explains/2021/06/29/why-are-the-north-western-united-states-and-british-columbia-suffering-a-heatwave) of 2021 would have been virtually impossible without historical emissions. Such statements, and the underlying methodology, are now part of the climate vernacular. They are also applied elsewhere, such as in legal disputes where people or communities [seek compensation for climate-change-induced damages](https://www.economist.com/international/2022/04/23/lawsuits-aimed-at-greenhouse-gas-emissions-are-a-growing-trend). 
-
-Extreme heat is one of the most straightforward impacts of global warming, and virtually every contemporary heatwave was made [worse or more likely by emissions](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come), or both. But Dr Otto worries that this engenders fatalism. “Yes it’s climate change…but we are also not powerless to do something about it,” she says. “That…is what’s missing in the conversation.”
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Thug hiding in a skunk hole? (10)
-
-<em>1 across </em>King caught in falsehoods for social currency (5)
-
-<em>2 across</em> Stress rising, in part, might lead to being prescribed this? (4)
-
-<em>3 across</em> Originally Biden and Manchin’s authority (5)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>Rumoured soon-to-be co-combatant (10) 
-
-<em>1 across </em>What Latin American politicians increasingly want? (5)
-
-<em>2 across </em>A medicine with a mysterious mechanism of action (4)
-
-<em>3 across </em>A victim of Congress’s climate inaction (5)
-
-## The winner’s of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Jin-Hong Park</strong>, Suwon, South Korea 
-
-North America: <strong>Ashley Easterling</strong>, Bay St. Louis, United States
-
-Central and South America: <strong>Carlos Flexa Ribeiro</strong>, Rio de Janeiro, Brazil
-
-Europe: <strong>Julius Kintzinger</strong>, Hamburg, Germany
-
-Africa: <strong>Hasit Raja</strong>, Nairobi, Kenya
-
-Oceania: <strong>Ian Harland</strong>, Wellington, New Zealand
-
-They all gave the correct answers of Charlie Watts, Patty Hearst, Linus Pauling, I Love Lucy and Woodstock. They are all characters in the “Peanuts” cartoon strip: Charlie Brown, Peppermint Patty, Linus, Lucy and Woodstock.
+<strong>Monday: </strong>What do vexillologists study?
 
 ----------
 
