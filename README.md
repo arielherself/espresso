@@ -22,9 +22,9 @@ A spokesman for <strong>America’s</strong> State Department said that <strong>
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Taiwan</strong>’s president, Tsai Ing-wen, made a rare visit onboard a naval warship to oversee annual military exercises. Ms Tsai applauded soldiers for their “ability and determination” to defend Taiwan. The week-long drills come amid rising concerns over a possible Chinese invasion. [Nancy Pelosi](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china), Speaker of America’s House of Representatives, plans to visit Taiwan in August, much to the chagrin of China.
+<strong>Taiwan’s </strong>president, Tsai Ing-wen, made a rare visit onboard a naval warship to oversee annual military exercises. Ms Tsai applauded soldiers for their “ability and determination” to defend Taiwan. The week-long drills come amid rising concerns over a possible Chinese invasion. [Nancy Pelosi](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china), Speaker of America’s House of Representatives, plans to visit Taiwan in August, much to the chagrin of China.
 
-The <strong>Oak Fire</strong> near Yosemite National Park was only “10% contained” on Monday, according to <strong>California’s</strong> fire department, despite thousands of firefighters being deployed to tackle it. Governor Gavin Newsom declared a state of emergency in the area; its smoke was anticipated in the San Francisco Bay Area by Monday night. The [wildfire](https://te.arielherself.xyz/the-economist-reads/2022/07/08/what-to-read-to-understand-the-burning-of-the-american-west) ignited on Friday and has so far set over 16,700 acres (6,758 hectares) of land ablaze.
+<strong>China </strong>attempted to obtain insider information from America’s <strong>Federal Reserve</strong>, according to an investigation by a Senate committee. The investigation identified “a sustained effort by China, over more than a decade, to gain influence over the Federal Reserve and a failure by the Federal Reserve to combat this threat effectively.” The Fed disputed the investigation’s findings, calling it “unfair, unsubstantiated, and unverified”.
 
 <strong>OneWeb</strong> and <strong>Eutelsat</strong>, two satellite companies, announced plans to merge in an attempt to create a European <strong>satellite internet</strong> provider that could rival SpaceX’s Starlink. The deal values OneWeb at $3.4bn; once it closes OneWeb shareholders will own 50% of Eutelsat. OneWeb went bankrupt in 2020 but was bailed out, in part by Britain’s government.
 
@@ -40,11 +40,9 @@ An updated forecast for the global economy, due to be released by the IMF on Tue
 
 ## Keeping Europe warm this winter
 
-An emergency meeting of EU energy ministers on Tuesday risks being unusually frosty. On the agenda is a plan for how the EU should cut gas demand so it can weather the winter, should Russia [halt gas supplies](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). Such fears were only deepened on Monday when Russia announced that it would further reduce the flow of gas to Europe through the Nord Stream 1 pipeline, to 20% of capacity. 
+At an emergency meeting in Brussels, energy ministers of the 27 EU countries agreed to reduce their gas consumption by 15%, compared with the average for the past five years, from August 1st until the end of March. The hope is to help the bloc weather the winter should Russia [halt or radically reduce gas supplies](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). Such fears had deepened on Monday when Russia announced that it would further reduce the flow of gas to Europe through the Nord Stream 1 pipeline, to 20% of capacity.
 
-On July 20th the European Commission proposed that member-states should cut consumption by 15%, compared with the average for the past five years, from August 1st until the end of March. But some countries refuse to comply. Spain and Portugal wonder why they should be punished for the energy policies of countries, especially [Germany](https://te.arielherself.xyz/business/2022/07/14/can-deutschland-ag-cope-with-the-russian-gas-shock), that spent decades making themselves ever-more dependent on Russian gas. 
-
-The likely outcome is a deal that keeps an EU-wide target but makes exemptions for some. Cosy relations must be maintained, for if negotiations fall apart the only winner would be Vladimir Putin. A collapse of European solidarity is exactly what he wants.
+The agreement is voluntary, though ministers accepted that should flows fall further, mandatory cuts proposed by the European Commision a few weeks ago could be introduced. It also has allowances for countries less exposed to Russian energy blackmail. Spain and Portugal wondered why they should be punished for the mistakes of countries, such as [Germany](https://te.arielherself.xyz/business/2022/07/14/can-deutschland-ag-cope-with-the-russian-gas-shock), that spent decades making themselves ever-more dependent on Russian gas. Hungary was reportedly the only country of the 27 to oppose the compromise deal
 
 ## Indonesia’s surprisingly energetic diplomacy
 
@@ -70,7 +68,7 @@ In 1969 Buzz Aldrin became the second Earthling to walk on the moon, stepping on
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e7b6928e9da294979582949488a782848889888a8e9493c984888a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c293b7abb887b1b2b0a7b1b1ad82a7a1adacadafabb1b6eca1adaf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>What do vexillologists study?
 
