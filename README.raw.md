@@ -46,9 +46,9 @@ The agreement is voluntary, though ministers accepted that should flows fall fur
 
 ## Indonesia’s surprisingly energetic diplomacy
 
-For Xi Jinping, China’s president, a meeting with Joko Widodo on Tuesday marks something of a return to face-to-face diplomacy after his self-enforced isolation during the pandemic. (He did hold a few meetings with foreign leaders during Beijing’s Winter Olympics in February.) But for Jokowi, as Indonesia’s president is known, it is the latest in a recent flurry of visits.  
-  
- Jokowi’s diplomacy has an important [economic dimension](https://www.economist.com/asia/2022/07/21/why-indonesia-punches-below-its-weight-in-global-affairs). He has pleaded with Vladimir Putin to unblock exports of Ukrainian wheat, which Indonesia needs for instant noodles. In Beijing he will lobby for a high-speed rail project. And investment will be top of the agenda when he heads to Japan and South Korea afterwards. 
+For Xi Jinping, China’s president, a meeting with Joko Widodo on Tuesday marked something of a return to face-to-face diplomacy after his self-enforced isolation during the pandemic. (He did hold a few meetings with foreign leaders during Beijing’s Winter Olympics in February.) But for Jokowi, as Indonesia’s president is known, it is the latest in a recent flurry of visits.
+
+Jokowi’s diplomacy has an important [economic dimension](https://www.economist.com/asia/2022/07/21/why-indonesia-punches-below-its-weight-in-global-affairs). He has pleaded with Vladimir Putin to unblock exports of Ukrainian wheat, which Indonesia needs for instant noodles. In Beijing, he and Mr Xi agreed to boost trade and work together on agriculture and food security.
 
 Yet Jokowi’s diplomatic skills will be especially tested by Indonesia’s hosting of a summit of G20 leaders in November. Russia is a G20 member, but the West has threatened to boycott the event if Mr Putin shows up. So Jokowi has invited Volodymyr Zelensky, Ukraine’s president, to join too, hoping that might soothe the West.
 
@@ -68,7 +68,7 @@ In 1969 Buzz Aldrin became the second Earthling to walk on the moon, stepping on
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b6e7c3dfccf3c5c6c4d3c5c5d9f6d3d5d9d8d9dbdfc5c298d5d9db">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4c1d392536093f3c3e293f3f230c292f23222321253f38622f2321">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>What do vexillologists study?
 
