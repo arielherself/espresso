@@ -34,9 +34,9 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## A darkening outlook for the global economy
 
-An updated forecast for the global economy, due to be released by the IMF on Tuesday, will make for grim reading. The outlook has worsened steadily over the year, spoiled by Russia’s war in Ukraine, [economic weakness in China](https://www.economist.com/briefing/2022/05/26/china-is-trying-to-protect-its-economy-from-western-pressure) and central banks’ struggle to choke off [inflation](https://www.economist.com/finance-and-economics/2022/06/26/why-inflation-looks-likely-to-stay-above-the-pre-pandemic-norm).  
-  
- The IMF last published its World Economic Outlook in April. Back then it revised down its forecast for world GDP growth in 2022 by nearly a full percentage point, to a so-so rate of 3.6%. But actual growth will almost certainly come in well below that forecast. Indeed, the updated projections may show that the world economy is on track for its third-worst performance of the millennium, after the covid-19 shock of 2020 and the financial crisis 2009. And there is plenty of time for the situation to worsen further.
+An updated forecast for the global economy, released by the IMF on Tuesday, makes for grim reading. The world economy is expected to grow by just 3.2% this year. But the IMF suggests that if [gas flows](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to Europe reduce and [inflation](https://www.economist.com/finance-and-economics/2022/06/26/why-inflation-looks-likely-to-stay-above-the-pre-pandemic-norm) worsens, growth could come in at just 2.9% this year and 2% in 2023. The period from 2020 to 2023 would then register as one of the worst global growth performances of the post-war era.
+
+Economic conditions have worsened steadily since early this year, spoiled by Russia’s war in Ukraine, economic weakness in China and central banks’ struggle to choke off inflation. The IMF last published its World Economic Outlook in April. Back then it revised down its forecast for world GDP growth in 2022 by nearly a full percentage point, to a so-so rate of 3.6%. But in the months since then, inflation has proven harder to contain and the economies of America, China and Europe have all stumbled. There are likely to be more disappointments ahead.
 
 ## Keeping Europe warm this winter
 
@@ -68,7 +68,7 @@ In 1969 Buzz Aldrin became the second Earthling to walk on the moon, stepping on
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5b0a2e32211e282b293e2828341b3e383435343632282f75383436">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c091b5a9ba85b3b0b2a5b3b3af80a5a3afaeafada9b3b4eea3afad">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>What do vexillologists study?
 
