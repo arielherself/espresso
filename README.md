@@ -42,7 +42,7 @@ Economic conditions have worsened steadily since early this year, spoiled by Rus
 
 At an emergency meeting in Brussels, energy ministers of the 27 EU countries agreed to reduce their gas consumption by 15%, compared with the average for the past five years, from August 1st until the end of March. The hope is to help the bloc weather the winter should Russia [halt or radically reduce gas supplies](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). Such fears had deepened on Monday when Russia announced that it would further reduce the flow of gas to Europe through the Nord Stream 1 pipeline, to 20% of capacity.
 
-The agreement is voluntary, though ministers accepted that should flows fall further, mandatory cuts proposed by the European Commision a few weeks ago could be introduced. It also has allowances for countries less exposed to Russian energy blackmail. Spain and Portugal wondered why they should be punished for the mistakes of countries, such as [Germany](https://te.arielherself.xyz/business/2022/07/14/can-deutschland-ag-cope-with-the-russian-gas-shock), that spent decades making themselves ever-more dependent on Russian gas. Hungary was reportedly the only country of the 27 to oppose the compromise deal
+The agreement is voluntary, though ministers accepted that should flows fall further, mandatory cuts proposed by the European Commision a few weeks ago could be introduced. It also has allowances for countries less exposed to Russian energy blackmail. Spain and Portugal wondered why they should be punished for the mistakes of countries, such as [Germany](https://te.arielherself.xyz/business/2022/07/14/can-deutschland-ag-cope-with-the-russian-gas-shock), that spent decades making themselves ever-more dependent on Russian gas. Hungary was reportedly the only country of the 27 to oppose the compromise deal.
 
 ## Indonesia’s surprisingly energetic diplomacy
 
@@ -68,7 +68,7 @@ In 1969 Buzz Aldrin became the second Earthling to walk on the moon, stepping on
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c293b7abb887b1b2b0a7b1b1ad82a7a1adacadafabb1b6eca1adaf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b0e1c5d9caf5c3c0c2d5c3c3dff0d5d3dfdedfddd9c3c49ed3dfdd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>What do vexillologists study?
 
