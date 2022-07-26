@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, Ukraine’s president, accused <strong>Russia</strong> of “gas blackmail” after <strong>Gazprom</strong> announced it would further cut [gas flows](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) through the <strong>Nord Stream 1</strong> pipeline to Europe. Daily deliveries will drop to 20% of capacity, from the current 40%. Mr Zelensky called Russia a “terrorist state” for making the “life of every European worse”. [Gazprom](https://www.economist.com/business/how-gazprom-helps-the-kremlin-put-the-squeeze-on-europe/21807841) said the pipeline, which was shut recently for repairs, needs further work. Oil prices rose, on the expectation that Europeans may shift from gas to crude to cover their energy needs.
+The <strong>European Union</strong> reached an agreement to voluntarily reduce <strong>natural gas</strong> demand by 15%, in preparation for [Russian cuts](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to gas supplies. Exemptions from the reduction target are possible for some member states. The bloc’s decision came a day after [Gazprom](https://www.economist.com/business/how-gazprom-helps-the-kremlin-put-the-squeeze-on-europe/21807841) announced it would further cut gas flows through the Nord Stream 1 pipeline to Europe, saying the pipeline needs repair work. Volodymyr Zelensky accused Russia of “gas blackmail”.
 
 <strong>Walmart</strong> pared down its profit forecast for this year, sending shares in American retail firms for a spin. The [beast of Bentonville](https://www.economist.com/business/2017/12/07/the-beast-of-bentonville-battles-amazon-the-king-of-the-e-commerce-jungle) predicted its annual profits will decline by 11-13%, as food and fuel prices force consumers to reduce discretionary spending. Walmart’s shares promptly fell by 10% and Amazon’s fell by 4%. The S&amp;P 500’s Retail Index is down by 24% this year.
 
@@ -70,7 +70,7 @@ In 1969 Buzz Aldrin became the second Earthling to walk on the moon, stepping on
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a1f0d4c8dbe4d2d1d3c4d2d2cee1c4c2cecfceccc8d2d58fc2cecc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e7b6928e9da294979582949488a782848889888a8e9493c984888a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>What do vexillologists study?
 
