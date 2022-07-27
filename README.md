@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Gas flows through <strong>Nord Stream 1</strong>, the pipeline fuelling Russian gas to Germany, dropped to 20% of capacity on Wednesday. In response, authorities in Germany renewed calls for industry and consumers to [cut down](https://te.arielherself.xyz/the-economist-explains/2022/07/26/the-flaws-in-europes-deal-to-ration-gas) on their gas usage in an attempt to avoid emergency rationing.
 
-<strong>Japan’s</strong> armed forces will participate for the first time in joint military exercises with <strong>America</strong>, <strong>Australia</strong> and <strong>Indonesia</strong>. The plan was announced during talks between Kishida Fumio, Japan’s prime minister, and Joko Widodo, the president of Indonesia, where the drills will take place next month. America and its allies are [stepping up attempts](https://te.arielherself.xyz/united-states/2022/06/16/how-america-tries-to-grapple-with-china-while-confronting-russia) to counter growing Chinese influence in the Indo-Pacific region. 
+A European Union ban on <strong>Russia Today</strong>, a state-controlled media outlet, was upheld by the bloc’s second-highest court, prompting Russia to threaten retaliation against Western media. The ban blocks EU operators from broadcasting RT content, on the grounds that its website and TV channel spread disinformation.
 
 British scientist <strong>James Lovelock</strong>, best known for his “Gaia hypothesis” that the Earth is a [complex, self-regulating system](https://www.youtube.com/watch?v=HuGj5n_vYz4), died aged 103. Mr Lovelock also invented a device to detect CFCs in the atmosphere, work that led to a ban on the ozone-layer-destroying chemicals.
 
@@ -68,7 +68,7 @@ California’s wildfires matter beyond the areas they blacken. Flames threaten a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1b4a6e72615e686b697e6868745b7e787475747672686f35787476">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4f1e3a26350a3c3f3d2a3c3c200f2a2c20212022263c3b612c2022">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> In what location did Eva Braun get married in April 1945?
 
