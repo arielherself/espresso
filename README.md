@@ -54,9 +54,11 @@ The latter is particularly pressing, given the spillover of jihadist violence fr
 
 ## The sputtering recovery of India’s car sector
 
-On Wednesday Maruti Suzuki and Tata Motors, India’s two biggest carmakers, are to announce earnings for the quarter ending in June. Their performance will reveal much about the country’s broader [economic performance](https://te.arielherself.xyz/leaders/2022/05/13/the-indian-economy-is-being-rewired-the-opportunity-is-immense). According to an industry body, the car sector accounts for roughly 7% of India’s GDP and nearly half of its manufacturing output; directly and indirectly, it employs around 37m people, roughly the population of Poland. And car sales are a strong indicator of consumer demand.
+On Wednesday Maruti Suzuki and Tata Motors, India’s two biggest carmakers, announced earnings for the quarter ending in June. Profits at Maruti Suzuki, the market leader in passenger vehicles, have more than doubled—but only when compared with last year’s covid-induced slump. Tata Motors, meanwhile, posted a loss because of rising costs and an industry-wide semiconductor shortage.
 
-Profits at Maruti Suzuki, the market leader in passenger vehicles, are expected to soar—but only when compared with last year’s covid-induced slump. Tata Motors, meanwhile, is expected to post a loss because of rising costs and an industry-wide [semiconductor shortage](https://te.arielherself.xyz/business/semiconductors-pose-an-unwelcome-roadblock-for-carmakers/21803287). Overall, though, car sales in India have grown beyond pre-pandemic levels, thanks in part to a boom in high-end SUVs. But the sales of motorbikes and other two-wheelers, the vehicle of choice for poorer Indians, have yet to bounce back. That suggests a lopsided recovery.
+Their mixed results reflect the country’s broader [economic performance](https://te.arielherself.xyz/leaders/2022/05/13/the-indian-economy-is-being-rewired-the-opportunity-is-immense). According to an industry body, the car sector accounts for roughly 7% of India’s GDP and nearly half of its manufacturing output; directly and indirectly, it employs around 37m people, roughly the population of Poland. And car sales are a strong indicator of consumer demand.
+
+Overall car sales in India have grown beyond pre-pandemic levels, thanks in part to a boom in high-end SUVs. But the sales of motorbikes and other two-wheelers, the vehicle of choice for poorer Indians, have yet to bounce back. That suggests a lopsided recovery. 
 
 ## California is burning—again
 
@@ -66,7 +68,7 @@ California’s wildfires matter beyond the areas they blacken. Flames threaten a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0b5a7e62714e787b796e7878644b6e686465646662787f25686466">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d584a0bcaf90a6a5a7b0a6a6ba95b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> In what location did Eva Braun get married in April 1945?
 
