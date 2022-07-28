@@ -34,9 +34,9 @@ The coalition of right-wing parties predicted to win <strong>Italy’s</strong> 
 
 ## America on the brink of recession
 
-When America reports its latest GDP data on Thursday, all eyes will be on whether the economy contracted for a second straight quarter—the popular definition of a [recession](https://te.arielherself.xyz/finance-and-economics/2022/07/24/why-it-is-too-early-to-say-the-world-economy-is-in-recession). On balance, it may avoid that: despite shrinking in the first quarter of 2022, it is expected to have eked out an expansion in the second quarter.
+America’s latest GDP data, released on Thursday, showed that the economy contracted for a second straight quarter—the popular definition of a [recession](https://te.arielherself.xyz/finance-and-economics/2022/07/24/why-it-is-too-early-to-say-the-world-economy-is-in-recession). Higher consumer spending was not enough to make up for a decline in private company investment, leading to a 0.9% slump in GDP. Following a 1.6% decline in the first quarter, many argue that puts America in a recession.
 
-Still, the White House has [pre-emptively argued](https://te.arielherself.xyz/united-states/2022/07/14/even-if-gdp-shrinks-america-may-officially-avoid-a-downturn-for-now) that a mild contraction would not equal a recession. It is technically correct. The official determination of whether America is in recession is made by the National Bureau for Economic Research, which places much weight on the jobs market. America’s current unemployment rate of 3.6%, one of the lowest levels in seventy years, is not consistent with any notion of a downturn. But what matters most for voters is their perception of growth. And that does not look good: consumer sentiment has plunged. Many believe the economy is in bad shape, regardless of the data.
+Yet, the White House has [pre-emptively argued](https://te.arielherself.xyz/united-states/2022/07/14/even-if-gdp-shrinks-america-may-officially-avoid-a-downturn-for-now) that a contraction like this would not equal a recession. It is technically correct. The official determination of whether America is in recession is made by the National Bureau for Economic Research, which places much weight on the jobs market. America’s current unemployment rate of 3.6%, one of the lowest levels in seventy years, is not consistent with any notion of a downturn. But what matters most for voters is their perception of growth. And that does not look good: consumer sentiment has plunged. Many believe the economy is in bad shape, regardless of the data.
 
 ## MBS in Paris
 
@@ -70,7 +70,7 @@ The games’ organisers promise a sweep of changes. The next competition, in 202
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5e0f2b37241b2d2e2c3b2d2d311e3b3d31303133372d2a703d3133">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="85d4f0ecffc0f6f5f7e0f6f6eac5e0e6eaebeae8ecf6f1abe6eae8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which animated characters are the “rescue rangers” who are the focus of a new Disney film?
 
