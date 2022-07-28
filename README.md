@@ -16,7 +16,7 @@ New data suggested that <strong>America’s</strong> economy shrunk for the seco
 
 <strong>Xi Jinping</strong>, China’s president, warned <strong>Joe Biden</strong> about interfering with Taiwan, saying that “those who play with fire will perish by it”, according to Chinese state media. The two leaders spoke on a call for more than two hours, also discussing Russia’s invasion of Ukraine. US-China relations have entered a particularly perilous period following reports that Nancy Pelosi, America’s Speaker of the House of Representatives, would visit Taiwan.
 
-It was reported that <strong>Ukrainian troops</strong> destroyed a bridge that supplies <strong>Kherson</strong> in the south of their country, potentially [cutting off](https://te.arielherself.xyz/europe/2022/07/03/ukraine-prepares-a-counter-offensive-to-retake-kherson-province) the Russian forces occupying it. Ukrainian officials said that Russia was trying to shift more troops there, from the east. Meanwhile, Russian forces appear to have captured Ukraine’s second-biggest power plant, at Vuhlehirsk, in the Donbas region. 
+<strong>Amazon’s </strong>sales grew by 7% year on year, to $121bn, [surpassing analysts’ expectations](https://te.arielherself.xyz/leaders/2022/07/27/the-era-of-big-tech-exceptionalism-may-be-over). The firm’s forecast for third-quarter revenue growth was even better, ranging from 13-17%, sending its share price up by more than a tenth in after-hours trading. But the poor performance of its investment in Rivian, an electric-vehicle startup, saw Amazon book its second consecutive quarterly loss. Meanwhile, <strong>Apple’s</strong> revenues rose by 2% year on year, to $83bn, lifted by stronger-than-expected iPhone sales. Net income fell by 10%.
 
 <strong>JetBlue</strong> agreed to buy <strong>Spirit</strong>, a rival American airline, for $3.8bn, after <strong>Frontier</strong>, another airline, pulled out of a bidding war. The deal will create America’s fifth-largest airline, which JetBlue bosses think will be able to compete with giants like American, United and Delta.
 
@@ -70,7 +70,7 @@ The games’ organisers promise a sweep of changes. The next competition, in 202
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="613014081b241211130412120e2104020e0f0e0c0812154f020e0c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5f0e2a36251a2c2f2d3a2c2c301f3a3c30313032362c2b713c3032">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which animated characters are the “rescue rangers” who are the focus of a new Disney film?
 
