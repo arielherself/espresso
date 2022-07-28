@@ -16,9 +16,9 @@ Officials at the <strong>Federal Reserve</strong> agreed unanimously to raise in
 
 It was reported that <strong>Ukrainian troops</strong> destroyed a bridge that supplies <strong>Kherson</strong> in the south of their country, potentially [cutting off](https://te.arielherself.xyz/europe/2022/07/03/ukraine-prepares-a-counter-offensive-to-retake-kherson-province) the Russian forces occupying it. Ukrainian officials said that Russia was trying to shift more troops there, from the east. Meanwhile, Russian forces appear to have captured Ukraine’s second-biggest power plant, at Vuhlehirsk, in the Donbas region. 
 
-<strong>Joe Manchin</strong>, a conservative Democratic senator for West Virginia, said he had reached a deal with Chuck Schumer, the Senate’s top Democrat, on a <strong>spending bill</strong> that includes energy and tax provisions. Mr Manchin had previously torpedoed several iterations of President Joe Biden’s Build Back Better legislation, taking aim at [clean-energy incentives](https://te.arielherself.xyz/united-states/2022/07/21/american-climate-policy-is-in-tatters) in particular. “Build Back Better is dead,” Mr Manchin insisted in a statement, perversely, while championing the new agreement.
-
 <strong>Meta</strong>, the [parent company](https://te.arielherself.xyz/business/2022/02/04/metamorphosis-facebook-and-big-tech-competition) of <strong>Facebook</strong>, reported its first-ever decline in quarterly revenues, which slipped by 1% year on year, to $28.8bn. Its user base held steady, but [TikTok](https://te.arielherself.xyz/graphic-detail/2022/07/07/has-tiktok-burst-the-zuckerbubble), an up-and-coming rival, is nibbling away at its ad revenues. Meanwhile the Federal Trade Commission, America’s competition regulator, filed a complaint to stop Meta from taking over a virtual-reality firm.
+
+<strong>JetBlue</strong> agreed to buy <strong>Spirit</strong>, a rival American airline, for $3.8bn, after <strong>Frontier</strong>, another airline, pulled out of a bidding war. The deal will create America’s fifth-largest airline, which JetBlue bosses think will be able to compete with giants like American, United and Delta.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -70,7 +70,7 @@ The games’ organisers promise a sweep of changes. The next competition, in 202
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8fdefae6f5cafcfffdeafcfce0cfeaece0e1e0e2e6fcfba1ece0e2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b3e2c6dac9f6c0c3c1d6c0c0dcf3d6d0dcdddcdedac0c79dd0dcde">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which animated characters are the “rescue rangers” who are the focus of a new Disney film?
 
