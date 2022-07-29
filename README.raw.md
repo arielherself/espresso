@@ -42,7 +42,7 @@ The deal may ease a global [food crisis](https://www.economist.com/leaders/2022/
 
 ## America revs up its industrial policy
 
-The CHIPS and Science Act, a bill aimed at building up America’s technological muscle, bringing chip manufacturing back to the country and countering China, has had a torturous path. A version was first proposed in 2020. But this week, it finally sailed through votes in the Senate and the House. On Friday President Joe Biden is expected to sign it into law.
+The CHIPS and Science Act, a bill aimed at building up America’s technological muscle, bringing chip manufacturing back to the country and countering China, has had a tortuous path. A version was first proposed in 2020. But this week, it finally sailed through votes in the Senate and the House. On Friday President Joe Biden is expected to sign it into law.
 
 [The bill](https://www.economist.com/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersize-bust) allocates about $52bn to the semiconductor industry, providing subsidies to manufacture chips in America. A separate $200bn will go towards scientific research, particularly in cutting-edge fields such as artificial intelligence and advanced manufacturing.
 
@@ -68,7 +68,7 @@ Treatment, too, has improved. For years, people with HIV/AIDS had to take severa
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7d2c081407380e0d0f180e0e123d181e12131210140e09531e1210">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="fcad899586b98f8c8e998f8f93bc999f93929391958f88d29f9391">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday:</strong> What was the codename of the Apollo 11 lunar module?
 
