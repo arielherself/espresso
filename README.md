@@ -34,6 +34,12 @@ President Joe Biden issued a disaster declaration for the state of <strong>Kentu
 
 ----------
 
+## Clubbing together for Ukraine
+
+Most people go to nightclubs to be carefree, raving to electronic beats amid the anonymity of a darkened dancefloor. But on Saturday party-goers visiting Zenner, a club in Berlin, will be dancing for a purpose. Closer, a famous techno institution in Kyiv, is hosting the first of two fundraising events for the [war in Ukraine](https://te.arielherself.xyz/ukraine-crisis). It will feature Ukrainian and international artists and a room in the basement made to look like a bomb shelter.
+
+Maintaining international support for Ukraine’s struggle is one way that the country’s musicians are doing their bit. Back home, shuttered nightclubs in cities such as Kyiv and Dnipro have found new purpose, as storages for food, medicine and military supplies. Ukrainian techno has long been associated with politics and protest: the gritty “Cxema” raves were born out of the Maidan Revolution of 2014, the year Russia annexed Crimea. The Kremlin has sought to [erase Ukraine’s culture](https://te.arielherself.xyz/culture/2022/03/19/vladimir-putins-war-endangers-ukraines-cultural-heritage). That will be impossible—especially when it thrives underground.
+
 ## A boom for Britain’s energy producers
 
 Britain’s energy industry has had a mixed year. Some 30 suppliers went bust: bound to the country’s energy price cap, they were forced to sell power cheaply even as a cold winter and [war in Ukraine](https://te.arielherself.xyz/ukraine-crisis) pushed wholesale prices to dizzying highs. 
@@ -66,24 +72,6 @@ The hard work paid off. At ten Pragg became the youngest-ever international mast
 
 This weekend he will continue his chase for glory when he competes with 2,000 players, including Mr Carlsen, at the Chess Olympiad, which started on Thursday in Mahabalipuram, near Chennai. In his matches, he will sport what has become his trademark look, sacred ash on his forehead, dabbed there for good luck. He scarcely needs it.
 
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Tetsuyuki Maruyama, </strong>Ito, Japan
-
-North America: <strong>Qin Lin, </strong>New York City, USA
-
-Central and South America: <strong>Antonio Lemos</strong>, Petropolis, Brazil
-
-Europe: <strong>Arne Tobias Ødegaard, </strong>Bergen, Norway
-
-Africa: <strong>Christine Reiter</strong>, Tunis, Tunisia
-
-Oceania: <strong>Warren Twohey, </strong>Auckland, New Zealand
-
-They all gave the correct answers of flags, Minnie Driver, Hitler’s bunker, Chip and Dale, and Eagle. The theme is golf: flags, driver, bunker, chip and eagle.
-
 ## Weekend crossword
 
 Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
@@ -108,7 +96,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="cdaebfa2bebebaa2bfa98da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#1e7d6c716d6d69716c7a5e7b7d71707173776d6a307d7173), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="82e1f0edf1f1f5edf0e6c2e7e1edecedefebf1f6ace1edef">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#bcdfced3cfcfcbd3ced8fcd9dfd3d2d3d1d5cfc892dfd3d1), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
@@ -122,11 +110,23 @@ Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-
 
 They all gave the correct answers of [Lukashenko](https://te.arielherself.xyz/europe/2022/07/19/why-a-regiment-of-belarusian-dissidents-is-fighting-for-ukraine), [likes](https://te.arielherself.xyz/the-americas/2022/07/21/latin-american-politicians-court-social-media-stars-often-ineptly), [SSRI](https://te.arielherself.xyz/science-and-technology/2022/07/20/a-popular-medical-explanation-for-depression-is-rebuffed) and [Obama](https://te.arielherself.xyz/united-states/2022/07/21/american-climate-policy-is-in-tatters).
 
-## Clubbing together for Ukraine
+## The winners of this week’s quiz
 
-Most people go to nightclubs to be carefree, raving to electronic beats amid the anonymity of a darkened dancefloor. But on Saturday party-goers visiting Zenner, a club in Berlin, will be dancing for a purpose. Closer, a famous techno institution in Kyiv, is hosting the first of two fundraising events for the [war in Ukraine](https://te.arielherself.xyz/ukraine-crisis). It will feature Ukrainian and international artists and a room in the basement made to look like a bomb shelter.
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
 
-Maintaining international support for Ukraine’s struggle is one way that the country’s musicians are doing their bit. Back home, shuttered nightclubs in cities such as Kyiv and Dnipro have found new purpose, as storages for food, medicine and military supplies. Ukrainian techno has long been associated with politics and protest: the gritty “Cxema” raves were born out of the Maidan Revolution of 2014, the year Russia annexed Crimea. The Kremlin has sought to [erase Ukraine’s culture](https://te.arielherself.xyz/culture/2022/03/19/vladimir-putins-war-endangers-ukraines-cultural-heritage). That will be impossible—especially when it thrives underground.
+Asia: <strong>Tetsuyuki Maruyama, </strong>Ito, Japan
+
+North America: <strong>Qin Lin, </strong>New York City, USA
+
+Central and South America: <strong>Antonio Lemos</strong>, Petropolis, Brazil
+
+Europe: <strong>Arne Tobias Ødegaard, </strong>Bergen, Norway
+
+Africa: <strong>Christine Reiter</strong>, Tunis, Tunisia
+
+Oceania: <strong>Warren Twohey, </strong>Auckland, New Zealand
+
+They all gave the correct answers of flags, Minnie Driver, Hitler’s bunker, Chip and Dale, and Eagle. The theme is golf: flags, driver, bunker, chip and eagle.
 
 ----------
 
