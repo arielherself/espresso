@@ -18,11 +18,11 @@ Supporters of <strong>Muqtada al-Sadr</strong>, an Iraqi cleric, forced their wa
 
 Brazil and Spain reported deaths related to <strong>monkeypox</strong>, the first fatalities from the virus outside Africa. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/united-states/2022/07/27/americas-response-to-monkeypox-has-been-underwhelming) of international concern. Governor Kathy Hochul declared a state of emergency in New York, where the virus is spreading fast.
 
-On his flight home from a six-day “penitential pilgrimage” to Canada, <strong>Pope Francis</strong> said that he might one day have to retire. The 85-year-old pontiff used a wheelchair for much of the trip, during which he apologised to indigenous people for the abuses inflicted on children in residential schools run by the Catholic church. In his remarks during the flight, Francis called the mistreatment “genocide”.
+A committee of <strong>Zambia’s</strong> official creditors, headed by <strong>China</strong> and <strong>France</strong>, said it had reached agreement on a restructuring of the southern African country’s [debts](https://www.economist.com/middle-east-and-africa/2022/05/14/zambia-wants-to-be-a-model-for-resolving-africas-debt-crises). Zambia stopped servicing $17bn of foreign debt in November 2020, with its economy weakened by low copper prices and the covid-19 pandemic. The deal looks likely to unlock a $1.3bn loan from the IMF.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Elon Musk</strong> countersued <strong>Twitter</strong> on Friday, escalating his [legal battle against the social-media platform](https://www.economist.com/business/2022/04/23/elon-musks-twitter-saga-is-capitalism-gone-rogue). Details of the countersuit are not publicly available yet. Mr Musk is being sued by Twitter for abandoning a $44bn deal to purchase the company. That case will go to trial on October 17th and is expected to last five days.
+On his flight home from a six-day “penitential pilgrimage” to Canada, <strong>Pope Francis</strong> said that he might one day have to retire. The 85-year-old pontiff used a wheelchair for much of the trip, during which he apologised to indigenous people for the abuses inflicted on children in residential schools run by the Catholic church. In his remarks during the flight, Francis called the mistreatment “genocide”.
 
 The S&amp;P 500 index increased by 9.1% in July as <strong>stockmarkets</strong> rebounded on Friday, its best monthly performance since November 2020. The Dow Jones Industrial Average and the Nasdaq Composite also posted monthly rises of 6.7% and 12%, respectively. Despite fears of [a recession](https://www.economist.com/finance-and-economics/2022/07/24/why-it-is-too-early-to-say-the-world-economy-is-in-recession), markets were buoyed by the tech giants’ gains after Apple, Amazon, Microsoft and Alphabet reported earnings this week. 
 
@@ -34,31 +34,33 @@ President Joe Biden issued a disaster declaration for the state of <strong>Kentu
 
 ----------
 
-## Clubbing together for Ukraine
+## England v Germany, again
 
-Most people go to nightclubs to be carefree, raving to electronic beats amid the anonymity of a darkened dancefloor. But on Saturday party-goers visiting Zenner, a club in Berlin, will be dancing for a purpose. Closer, a famous techno institution in Kyiv, is hosting the first of two fundraising events for the [war in Ukraine](https://www.economist.com/ukraine-crisis). It will feature Ukrainian and international artists and a room in the basement made to look like a bomb shelter.
+The final of the women’s European Championships, which kicks off at a sold-out Wembley Stadium in London on Sunday, is beautifully poised. The contenders are England and Germany, old rivals in both men’s and women’s football. 
 
-Maintaining international support for Ukraine’s struggle is one way that the country’s musicians are doing their bit. Back home, shuttered nightclubs in cities such as Kyiv and Dnipro have found new purpose, as storages for food, medicine and military supplies. Ukrainian techno has long been associated with politics and protest: the gritty “Cxema” raves were born out of the Maidan Revolution of 2014, the year Russia annexed Crimea. The Kremlin has sought to [erase Ukraine’s culture](https://www.economist.com/culture/2022/03/19/vladimir-putins-war-endangers-ukraines-cultural-heritage). That will be impossible—especially when it thrives underground.
+The Germans have a stronger record. They won all three of their group games, comfortably defeated Austria in the quarter-finals and withstood the attacking verve of France in their semi. They have also won eight of the 12 editions of the competition, dating back to 1984. 
 
-## A boom for Britain’s energy producers
+England have never won the tournament, and were defeated by Germany in the 2009 final. But this year they have momentum and the raucous backing of home support. And they come fresh from a 4-0 win against Sweden, the top-ranked team in the competition. So no matter Sunday’s outcome, this excellent tournament—which has raised the profile of [women’s football](https://www.economist.com/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) across Europe—is guaranteed a worthy winner. 
 
-Britain’s energy industry has had a mixed year. Some 30 suppliers went bust: bound to the country’s energy price cap, they were forced to sell power cheaply even as a cold winter and [war in Ukraine](https://www.economist.com/ukraine-crisis) pushed wholesale prices to dizzying highs. 
+## Russia’s not-so-great navy
 
-But that helped other companies. In the first six months of 2022 Centrica, Britain’s biggest energy firm, raked in £1.3bn ($1.6bn) in operating profits, up from £262m in the same period last year. On Thursday, bosses issued a dividend for the first time since 2020, even as soaring energy bills force some Britons to choose between [heating and eating](https://www.economist.com/britain/2022/05/26/rishi-sunak-unveils-a-new-plan-to-ease-britains-cost-of-living-squeeze). BP, another energy giant, is also expected to post strong results on Tuesday.
+At the Navy Day parade in St Petersburg on Sunday, Russia will try to project an image of marine supremacy. The River Neva will host a parade of 47 combat ships, gunboats and submarines. There will be celebrations elsewhere too, including Tartus on the Syrian coast, where the Russian navy has a Mediterranean outpost.
 
-A new windfall tax on energy companies will redirect part of the bumper profits to consumers. But charities have warned that the complex logistics of the energy bills support scheme may exclude poorer households. With winter gas shortages looming, an increasing number of people may struggle to keep the lights on.
+But the absence of festivities at the port of Sevastopol, in Russian-annexed Crimea, hints at Russia’s travails: Sevastopol’s ships are busy fighting Ukraine in the Black Sea. Though Russia claims control of the sea’s north-west, its navy has suffered significant setbacks—most notably by losing [Snake Island](https://www.economist.com/europe/2022/06/27/the-battle-for-snake-island), a strategic outcrop it had gained early in the invasion. And Russia is still reeling from the loss of the <em>Moskva</em>, one of its flagship missile cruisers, in April. On paper Russia’s naval power still vastly outmuscles Ukraine’s. But observers may wonder if there’s really much to celebrate on the Neva. 
 
-## The cumbersome course of justice in Ethiopia
+## ASEAN grapples with crisis after crisis
 
-The [horrific civil war](https://www.economist.com/middle-east-and-africa/2022/04/13/ethnic-cleansing-of-tigrayans-may-prolong-ethiopias-civil-war) in Ethiopia has been plagued by war crimes since it began in 2020. Yet, despite repeated promises from the warring parties, which include the government and Tigrayan rebels, barely any justice has been served. The United Nations is hoping to rectify this. Following a brief visit to the country, a three-member commission will deliver a report on human-rights violations during the conflict on Saturday.
+Meetings of the ten-member Association of South-East Asian Nations are normally dull talking-shops. Yet the region has rarely been beset by so many crises. As the member states’ foreign ministers convene in Phnom Penh, the capital of Cambodia, next week, their pow-wow is bound to make headlines.
 
-A thorough investigation—let alone redress—is unlikely. The commission, which has been rejected by the Ethiopian government, is hamstrung. It lacks staff and resources. Investigators have been prevented from visiting Tigray, the site of many of the worst atrocities. For now they are investigating only “emblematic incidents”, which mostly means massacres allegedly committed by rebels from the northern Tigray region (but includes the bombing of civilians by the Ethiopian air force). Meanwhile the horrors continue: last month ethnic Oromo rebels allegedly massacred hundreds of civilians in western Ethiopia. 
+First on the agenda is Myanmar, whose murderous junta recently [executed](https://www.economist.com/asia/2022/07/28/myanmars-brutal-junta-has-brought-back-the-death-penalty) four pro-democracy activists. ASEAN is unlikely to suspend Myanmar’s membership, but it may downgrade its representation even further and, perhaps, scrap the moribund peace deal it negotiated with the junta in 2021.
 
-## A two-faced van Gogh
+The ministers will also urge China, which claims almost all of the South China Sea, to recognise the respective claims of ASEAN members such as Indonesia and Vietnam. They will discuss the Rohingya refugee crisis as well as the war in Ukraine. Representatives from China, Russia and America will attend. Arguments and walk-outs are likely.
 
-Vincent van Gogh was not [recognised as a genius](https://www.economist.com/books-and-arts/2021/10/30/the-van-gogh-museum-showcases-a-rejected-early-masterpiece) in his short lifetime. The Dutch painter was often hard up. To cut back on the cost of canvases he sometimes painted on both their sides. That has led to a handful of his works—now extraordinarily valuable—emerging on the reverse side of other pieces. In July the National Galleries of Scotland discovered the first such work in Britain, when an image appeared, from under layers of glue and cardboard, on the back of the “Head of a Peasant Woman”, painted in 1885.
+## Elections in Senegal
 
-On Saturday the world’s newest Van Gogh will be shown to the public. Its subject, a familiar-looking bearded man in a brimmed hat, is an example of another penny-pinching measure. The artist would paint self-portraits to save on the cost of hiring models. Exposing the painting properly will require tricky conservation work. For now, visitors to the museum in Edinburgh will have to content themselves with a ghostly X-ray image.
+Senegal is often considered a democratic beacon in Africa. But its light may be dimming. Legislative elections on Sunday are seen as a test of strength for President Macky Sall, who may run for a constitution-bending third term in 2024. He has remained ominously vague about his intentions.
+
+There have been numerous violent flare-ups in the country in recent years. Fourteen people died in protests in March 2021 after an opposition leader, Ousmane Sonko, was arrested and charged with rape. (He denies the allegation.) Protesters claimed it was another attempt to kneecap the president’s rivals. There were also protests last month when the constitutional council threw out an opposition group’s candidate-list because of an error. The group will still contest the election on Sunday but some big names, including Mr Sonko, are barred. Still, Mr Sall’s party was thumped in municipal elections in January. A repeat might scupper any third-term ambitions.
 
 ## Weekend profile: Pragg, India’s chess superstar
 
@@ -96,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="573425382424203825331732343839383a3e24237934383a">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#3a59485549494d55485e7a5f595554555753494e14595557), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="a7c4d5c8d4d4d0c8d5c3e7c2c4c8c9c8caced4d389c4c8ca">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#5437263b2727233b26301431373b3a3b393d27207a373b39), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
