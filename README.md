@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The S&amp;P 500 index increased 9.1% in July as <strong>stockmarkets</strong> rebounded Friday, its best monthly performance since November of 2020. The Dow Jones Industrial Average and the Nasdaq Composite also posted monthly rises of 6.7% and 12%, respectively. Despite fears of [a recession](https://te.arielherself.xyz/finance-and-economics/2022/07/24/why-it-is-too-early-to-say-the-world-economy-is-in-recession), markets were buoyed by the tech giants’ gains after Apple, Amazon, Microsoft and Alphabet reported earnings this week.
+The S&amp;P 500 index increased by 9.1% in July as <strong>stockmarkets</strong> rebounded on Friday, its best monthly performance since November 2020. The Dow Jones Industrial Average and the Nasdaq Composite also posted monthly rises of 6.7% and 12%, respectively. Despite fears of [a recession](https://te.arielherself.xyz/finance-and-economics/2022/07/24/why-it-is-too-early-to-say-the-world-economy-is-in-recession), markets were buoyed by the tech giants’ gains after Apple, Amazon, Microsoft and Alphabet reported earnings this week. 
 
-<strong>Ukraine</strong> and <strong>Russia </strong>blamed each other for the shelling of a prison which killed 53 Ukrainian prisoners of war. Ukraine said Russia had launched the attack to cover up evidence of Russian war crimes against imprisoned Ukrainians, and that claims to the contrary were part of Moscow’s “information war”. Russia said Ukraine had used American-supplied rockets against the prison, which is located in a Russian-controlled separatist region of Ukraine.
+Volodymyr Zelensky, <strong>Ukraine</strong>’s president, called a strike on a prison which killed 53 Ukrainian prisoners of war “a deliberate Russian [<strong>war crime</strong>](https://te.arielherself.xyz/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine)”. Russia blamed Ukraine, accusing it of using American-supplied rockets against the prison, which lies in Russian-controlled territory. The International Committee of the Red Cross said it is seeking access to the site to help the wounded.
 
 The top diplomats from <strong>America</strong> and <strong>Russia</strong> discussed the potential for a prisoner swap and safe passage for [Ukrainian grain](https://te.arielherself.xyz/europe/2022/07/22/after-agreeing-to-let-ukraine-export-grain-russia-rockets-its-port) in their first call since the invasion began. Antony Blinken said he pressed Sergei Lavrov to release Brittney Griner, a women’s basketball star, and Paul Whelan, a former marine. The Kremlin would prefer to negotiate prisoner exchanges using “quiet diplomacy”, according to a statement from Russia’s foreign ministry.
 
@@ -22,57 +22,111 @@ The Securities and Exchange Commission added <strong>Alibaba</strong>, a Chinese
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Inflation</strong> in the euro zone rose to a record high 8.9%, stoked by the economic fallout from Russia’s invasion of Ukraine. The new numbers may spur the European Central Bank to hike interest rates again; last week the bank raised rates for the first time since 2011. Europe’s biggest economy, Germany, reported stagnant <strong>GDP</strong> figures for the second quarter of 2022; it is set to be the worst economic performer among G7 nations this year.
+<strong>Elon Musk</strong> countersued <strong>Twitter</strong> on Friday, escalating his [legal battle against the social-media platform](https://te.arielherself.xyz/business/2022/04/23/elon-musks-twitter-saga-is-capitalism-gone-rogue). Details of the countersuit are not publicly available yet. Mr Musk is being sued by Twitter for abandoning a $44bn deal to purchase the company. That case will go to trial on October 17th and is expected to last five days.
 
-<strong>Belarus </strong>recalled its ambassador to <strong>Britain</strong>, accusing the British government of “hostile and unfriendly” actions. Belarus’s foreign ministry said Britain had executed policies “systematically aimed at causing maximum damage to Belarusian citizens and legal entities”, such as sanctions on Belarusian companies. Relations have soured after Belarus’s [dictatorial](https://te.arielherself.xyz/the-economist-explains/2021/05/25/why-belarus-is-called-europes-last-dictatorship) ruler, Alexander Lukashenko, cracked down on opposition and cosied up to Russia.
+Brazil and Spain reported deaths related to <strong>monkeypox</strong>, the first fatalities from the virus outside Africa. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://te.arielherself.xyz/united-states/2022/07/27/americas-response-to-monkeypox-has-been-underwhelming) of international concern. But America has yet to [learn its lessons](https://te.arielherself.xyz/united-states/2022/07/27/americas-response-to-monkeypox-has-been-underwhelming) from the covid-19 pandemic.
 
 President Joe Biden issued a disaster declaration for the state of <strong>Kentucky</strong>, where flash floods killed at least 16 people and destroyed hundreds of homes. Andy Beshear, the state’s governor, said the death toll would probably “get a lot higher”. Torrential rains battered towns this week across several states, including Missouri, Kentucky and Tennessee.
 
-<strong>Fact of the day:</strong> 31%, the share of Americans who say the economy is their most important issue. [Read the full story](https://te.arielherself.xyz/graphic-detail/2022/07/28/americas-gdp-shrinks-for-the-second-consecutive-quarter).
+<strong>Word of the week: </strong><em>champing</em>, the practice of [camping in churches](https://te.arielherself.xyz/britain/2022/07/28/britains-empty-churches-are-turning-into-campsites).
+
+<strong>Editor’s note: </strong>Owing to a technical error, some readers in Asia will not have seen the full edition of World in Brief on July 30th. Visitors to our website, and users of the Espresso and Economist apps, will also have seen out-of-date content for several hours. Sorry.
 
 ----------
 
-## Ukraine’s grain sets sail
+## A boom for Britain’s energy producers
 
-A ship packed with Ukrainian grain is is readying to leave Odessa or a nearby Ukrainian port, perhaps as early as Friday. It would be the first to leave the port under an agreement brokered last week by António Guterres, the UN’s secretary-general, and Recep Tayyip Erdogan, Turkey’s president.
+Britain’s energy industry has had a mixed year. Some 30 suppliers went bust: bound to the country’s energy price cap, they were forced to sell power cheaply even as a cold winter and [war in Ukraine](https://te.arielherself.xyz/ukraine-crisis) pushed wholesale prices to dizzying highs. 
 
-The deal has survived despite a Russian [missile strike](https://te.arielherself.xyz/europe/2022/07/22/after-agreeing-to-let-ukraine-export-grain-russia-rockets-its-port) on Odessa’s port on July 23rd, one day after it was signed. A co-ordination centre in Istanbul, staffed by officials from Russia, Turkey, Ukraine and the UN, will inspect ships entering and leaving Ukrainian ports to ensure they do not carry weapons. Ukraine may have to clear some of the mines it planted in its own waters, to prevent an amphibious invasion, to create corridors for cargo ships.
+But that helped other companies. In the first six months of 2022 Centrica, Britain’s biggest energy firm, raked in £1.3bn ($1.6bn) in operating profits, up from £262m in the same period last year. On Thursday, bosses issued a dividend for the first time since 2020, even as soaring energy bills force some Britons to choose between [heating and eating](https://te.arielherself.xyz/britain/2022/05/26/rishi-sunak-unveils-a-new-plan-to-ease-britains-cost-of-living-squeeze). BP, another energy giant, is also expected to post strong results on Tuesday.
 
-The deal may ease a global [food crisis](https://te.arielherself.xyz/leaders/2022/05/19/the-coming-food-catastrophe) intensified by the grain blockade. But uncertainty abounds. The costs of insuring shipments through the Black Sea have spiked, as companies fret about Russian attacks. And Russia could still—literally—torpedo the deal.
+A new windfall tax on energy companies will redirect part of the bumper profits to consumers. But charities have warned that the complex logistics of the energy bills support scheme may exclude poorer households. With winter gas shortages looming, an increasing number of people may struggle to keep the lights on.
 
-## America revs up its industrial policy
+## The cumbersome course of justice in Ethiopia
 
-The CHIPS and Science Act, a bill aimed at building up America’s technological muscle, bringing chip manufacturing back to the country and countering China, has had a tortuous path. A version was first proposed in 2020. But this week, it finally sailed through votes in the Senate and the House. On Friday President Joe Biden is expected to sign it into law.
+The [horrific civil war](https://te.arielherself.xyz/middle-east-and-africa/2022/04/13/ethnic-cleansing-of-tigrayans-may-prolong-ethiopias-civil-war) in Ethiopia has been plagued by war crimes since it began in 2020. Yet, despite repeated promises from the warring parties, which include the government and Tigrayan rebels, barely any justice has been served. The United Nations is hoping to rectify this. Following a brief visit to the country, a three-member commission will deliver a report on human-rights violations during the conflict on Saturday.
 
-[The bill](https://te.arielherself.xyz/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersize-bust) allocates about $52bn to the semiconductor industry, providing subsidies to manufacture chips in America. A separate $200bn will go towards scientific research, particularly in cutting-edge fields such as artificial intelligence and advanced manufacturing.
+A thorough investigation—let alone redress—is unlikely. The commission, which has been rejected by the Ethiopian government, is hamstrung. It lacks staff and resources. Investigators have been prevented from visiting Tigray, the site of many of the worst atrocities. For now they are investigating only “emblematic incidents”, which mostly means massacres allegedly committed by rebels from the northern Tigray region (but includes the bombing of civilians by the Ethiopian air force). Meanwhile the horrors continue: last month ethnic Oromo rebels allegedly massacred hundreds of civilians in western Ethiopia. 
 
-There are plenty of sceptics about the potential impact. America’s advantage in the semiconductor industry lies in design, not manufacturing, but the legislation is focused on the latter. Managing such a huge infusion of cash into the sciences will also be a challenge. But given America’s [political polarisation](https://te.arielherself.xyz/the-economist-explains/2021/10/05/is-political-polarisation-in-america-really-rising), Congress’s ability to agree on such a big initiative is remarkable in itself.
+## A two-faced van Gogh
 
-## Rocketing profits at ExxonMobil
+Vincent van Gogh was not [recognised as a genius](https://te.arielherself.xyz/books-and-arts/2021/10/30/the-van-gogh-museum-showcases-a-rejected-early-masterpiece) in his short lifetime. The Dutch painter was often hard up. To cut back on the cost of canvases he sometimes painted on both their sides. That has led to a handful of his works—now extraordinarily valuable—emerging on the reverse side of other pieces. In July the National Galleries of Scotland discovered the first such work in Britain, when an image appeared, from under layers of glue and cardboard, on the back of the “Head of a Peasant Woman”, painted in 1885.
 
-ExxonMobil, an American oil firm, is expected to unveil its best quarterly financial results in at least 25 years on Friday. Its profits for the second quarter could shoot up to $18bn, more than double the figure it posted in the previous three months. Two factors are boosting the company’s fortunes. First, Russia’s [war in Ukraine](https://te.arielherself.xyz/ukraine-crisis) has led to a crunch in refined products like petrol and diesel. That has increased ExxonMobil’s refining margins by as much as $4.6bn. Second, higher global oil and gas prices will increase profits by up to $3.3bn.
+On Saturday the world’s newest Van Gogh will be shown to the public. Its subject, a familiar-looking bearded man in a brimmed hat, is an example of another penny-pinching measure. The artist would paint self-portraits to save on the cost of hiring models. Exposing the painting properly will require tricky conservation work. For now, visitors to the museum in Edinburgh will have to content themselves with a ghostly X-ray image.
 
-But there might be trouble ahead. Sky-high profits for energy firms have triggered a political backlash: more governments may follow Britain’s lead in imposing [windfall taxes](https://te.arielherself.xyz/leaders/2022/03/19/windfall-taxes-on-energy-companies-are-a-bad-idea). And elevated prices could eventually reduce demand, for example by spurring faster adoption of electric vehicles. As industry veterans say, the best cure for high prices is high prices.
+## Weekend profile: Pragg, India’s chess superstar
 
-## Airbnb checks out of China
+In February, Rameshbabu Praggnanandhaa, a 16-year-old Indian, became the youngest person to defeat Magnus Carlsen, a five-time world chess champion and giant of the game. Any victory over Mr Carlsen is remarkable but this was comprehensive, taking just 39 moves. [Chess](https://te.arielherself.xyz/1843/2015/06/15/chess) has a rich history of such precocious exploits—Mr Carlsen himself was a teenage prodigy. But in India, a country starved of sporting success outside cricket, Pragg, as he is commonly known, became an instant superstar. On Twitter, Narendra Modi, the prime minister, and Sachin Tendulkar, a celebrated former cricketer, gushed praise. 
 
-Few foreign internet services work in China. The country has its own array of super-app businesses and the government has restricted much of the competition, blocking foreign social-media sites such as Facebook and Twitter. But Airbnb, an accommodation-rental site, thought it could crack the market when it launched in 2016.
+Although young, Pragg’s stardom has been a while in the making. He started playing at the age of three when his father, a bank employee, introduced chess to the household to distract his sister from watching TV. By the age of seven Pragg began showing signs of genius, so his father enrolled him in a chess academy—easy enough in Chennai, one of south India’s biggest cities and a breeding ground for chess champions (Viswanathan Anand, India’s best-ever player, is also a Chennaiite).
 
-For a while it did, quickly picking up users by offering localised services on Chinese platforms. Yet revenues from China remained minuscule, accounting for about 1% of business in recent years. The Silicon Valley-based company was also occasionally rocked by controversy when minority groups, such as Uyghurs, were blocked from renting rooms. It finally called it quits in May, prompted by the government’s “[zero-covid](https://te.arielherself.xyz/business/2022/05/14/chinas-zero-covid-industrial-complex)” policy, which has virtually halted foreign tourism. Friday is the last day users can book stays in China: from Saturday onwards they will be unable to. Airbnb joins a growing Western exodus. LinkedIn, a professional networking group, and Kindle, Amazon’s e-book service, have also ditched China over the past year.
+The head of the academy, RB Ramesh, a world-class player himself, was struck by his student’s dedication. While his other charges struggled to watch the ten videos he demanded of them each day, Pragg would watch 30. In between hours-long practices of complex chess manoeuvres, the pair would take a break by indulging in more child-like pursuits: playing hide-and-seek. 
 
-## Improving HIV prevention
+The hard work paid off. At ten Pragg became the youngest-ever international master, the second-highest title in chess. Two years later he became the second-youngest player to secure the game’s highest: grandmaster. In 2019, when barely 14, he became the world under-18 champion.
 
-For years, abstinence and condoms were the only ways to prevent HIV infections. A daily pill of tenofovir and emtricitabine was later approved for high-risk people; it prevents people from contracting HIV, even if exposed. But last year American regulators approved a new regimen: injections of cabotegravir every two months. In trials in Africa, the drug was 89% more effective at preventing acquisition of the disease than the daily pill among women at high risk. Ahead of the International AIDS Conference, which begins in Montreal on Friday, the World Health Organisation has released new guidelines recommending cabotegravir.
+This weekend he will continue his chase for glory when he competes with 2,000 players, including Mr Carlsen, at the Chess Olympiad, which started on Thursday in Mahabalipuram, near Chennai. In his matches, he will sport what has become his trademark look, sacred ash on his forehead, dabbed there for good luck. He scarcely needs it.
 
-Treatment, too, has improved. For years, people with HIV/AIDS had to take several pills a day to stay healthy and reduce the chances of transmission. In December European authorities approved the use of infrequent cabotegravir and rilpivirine injections as a treatment; the injections are as effective as pills in suppressing viral loads but much less burdensome. For people affected by HIV, science has delivered some relief.
+## The winners of this week’s quiz
 
-## Daily quiz
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3a6b4f53407f494a485f4949557a5f595554555753494e14595557">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Asia: <strong>Tetsuyuki Maruyama, </strong>Ito, Japan
 
-<strong>Friday:</strong> What was the codename of the Apollo 11 lunar module?
+North America: <strong>Qin Lin, </strong>New York City, USA
 
-<strong>Thursday:</strong> Which animated characters are the “rescue rangers” who are the focus of a new Disney film?
+Central and South America: <strong>Antonio Lemos</strong>, Petropolis, Brazil
+
+Europe: <strong>Arne Tobias Ødegaard, </strong>Bergen, Norway
+
+Africa: <strong>Christine Reiter</strong>, Tunis, Tunisia
+
+Oceania: <strong>Warren Twohey, </strong>Auckland, New Zealand
+
+They all gave the correct answers of flags, Minnie Driver, Hitler’s bunker, Chip and Dale, and Eagle. The theme is golf: flags, driver, bunker, chip and eagle.
+
+## Weekend crossword
+
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Grandmother on icy slope tumbled into top of house (5,6) 
+
+<em>1 across </em>Agency includes 500 questions for investors (6)
+
+<em>2 across</em> Endless district in France? (5) 
+
+<em>3 across</em> Land on the Mediterranean is not a fantasy, we’re told (6) 
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>A fine emissary to Rome, according to some Washington Kremlinologists (5,6)
+
+<em>1 across </em>Down by a quarter since January? (6)
+
+<em>2 across </em>Where Prince Sultan boarded the flight on which he was kidnapped in 2016? (5)
+
+<em>3 across </em>Home to a large Russian-speaking diaspora (6)
+
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="c3a0b1acb0b0b4acb1a783a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#89eafbe6fafafee6fbedc9eceae6e7e6e4e0fafda7eae6e4), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+
+<strong>Rajesh Raman</strong>, Singapore
+
+<strong>Corien Kershey</strong>, Ottawa, Canada
+
+<strong>Jaime Jean</strong>, Mexico City, Mexico
+
+<strong>John Pierce</strong>, Wexford, Ireland
+
+<strong>Sean Hennessey</strong>, Runaway Bay, Australia
+
+They all gave the correct answers of [Lukashenko](https://te.arielherself.xyz/europe/2022/07/19/why-a-regiment-of-belarusian-dissidents-is-fighting-for-ukraine), [likes](https://te.arielherself.xyz/the-americas/2022/07/21/latin-american-politicians-court-social-media-stars-often-ineptly), [SSRI](https://te.arielherself.xyz/science-and-technology/2022/07/20/a-popular-medical-explanation-for-depression-is-rebuffed) and [Obama](https://te.arielherself.xyz/united-states/2022/07/21/american-climate-policy-is-in-tatters).
+
+## Clubbing together for Ukraine
+
+Most people go to nightclubs to be carefree, raving to electronic beats amid the anonymity of a darkened dancefloor. But on Saturday party-goers visiting Zenner, a club in Berlin, will be dancing for a purpose. Closer, a famous techno institution in Kyiv, is hosting the first of two fundraising events for the [war in Ukraine](https://te.arielherself.xyz/ukraine-crisis). It will feature Ukrainian and international artists and a room in the basement made to look like a bomb shelter.
+
+Maintaining international support for Ukraine’s struggle is one way that the country’s musicians are doing their bit. Back home, shuttered nightclubs in cities such as Kyiv and Dnipro have found new purpose, as storages for food, medicine and military supplies. Ukrainian techno has long been associated with politics and protest: the gritty “Cxema” raves were born out of the Maidan Revolution of 2014, the year Russia annexed Crimea. The Kremlin has sought to [erase Ukraine’s culture](https://te.arielherself.xyz/culture/2022/03/19/vladimir-putins-war-endangers-ukraines-cultural-heritage). That will be impossible—especially when it thrives underground.
 
 ----------
 
