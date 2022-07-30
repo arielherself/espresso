@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine</strong>’s president, called a strike on a prison which killed 53 Ukrainian prisoners of war “a deliberate Russian [<strong>war crime</strong>](https://te.arielherself.xyz/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine)”. Russia blamed Ukraine, accusing it of using American-supplied rockets against the prison, which lies in Russian-controlled territory. The International Committee of the Red Cross said it is seeking access to the site to help the wounded.
+Volodymyr Zelensky, <strong>Ukraine’s </strong>president, called a strike on a prison which killed 53 Ukrainian prisoners of war “a deliberate Russian [<strong>war crime</strong>](https://te.arielherself.xyz/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine)”. Russia blamed Ukraine, accusing it of using American-supplied rockets against the prison, which lies in Russian-controlled territory. The International Committee of the Red Cross said it is seeking access to the site to help the wounded.
 
 Supporters of <strong>Muqtada al-Sadr</strong>, an Iraqi cleric, forced their way into parliament for the second time in a week. His followers are demonstrating against the nomination of Mohammed Shia al-Sudani, a pro-Iranian rival of Mr al-Sadr, as prime minister. In last October’s election Mr al-Sadr’s bloc won the most seats—but it has not formed a government because of political deadlock. Some 120 people have been injured in the unrest. 
 
@@ -96,7 +96,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="177465786464607865735772747879787a7e64633974787a">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#b1d2c3dec2c2c6dec3d5f1d4d2dedfdedcd8c2c59fd2dedc), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="91f2e3fee2e2e6fee3f5d1f4f2fefffefcf8e2e5bff2fefc">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#ed8e9f829e9e9a829f89ad888e82838280849e99c38e8280), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
