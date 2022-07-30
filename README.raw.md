@@ -22,9 +22,9 @@ A committee of <strong>Zambia’s</strong> official creditors, headed by <strong
 
 Listen to an abridged version of the subscriber-only briefing.
 
-On his flight home from a six-day “penitential pilgrimage” to Canada, <strong>Pope Francis</strong> said that he might one day have to retire. The 85-year-old pontiff used a wheelchair for much of the trip, during which he apologised to indigenous people for the abuses inflicted on children in residential schools run by the Catholic church. In his remarks during the flight, Francis called the mistreatment “genocide”.
+<strong>Joe Biden</strong> again tested positive for <strong>covid-19</strong>, just days after leaving isolation for an earlier bout with the virus. The White House physician said the president is not experiencing any symptoms. The Centres for Disease Control and Prevention, America’s public-health agency, issued an advisory in May about the possibility of “rebound” cases for patients who use Paxlovid, [an antiviral drug](https://www.economist.com/graphic-detail/2022/07/28/paxlovid-appears-to-be-reaching-the-americans-who-need-it-least) that reduces the risk of hospitalisation and death from covid-19.
 
-The S&amp;P 500 index increased by 9.1% in July as <strong>stockmarkets</strong> rebounded on Friday, its best monthly performance since November 2020. The Dow Jones Industrial Average and the Nasdaq Composite also posted monthly rises of 6.7% and 12%, respectively. Despite fears of [a recession](https://www.economist.com/finance-and-economics/2022/07/24/why-it-is-too-early-to-say-the-world-economy-is-in-recession), markets were buoyed by the tech giants’ gains after Apple, Amazon, Microsoft and Alphabet reported earnings this week. 
+On his flight home from a six-day “penitential pilgrimage” to Canada, <strong>Pope Francis</strong> said that he might one day have to retire. The 85-year-old pontiff used a wheelchair for much of the trip, during which he apologised to indigenous people for the abuses inflicted on children in residential schools run by the Catholic church. In his remarks during the flight, Francis called the mistreatment “genocide”.
 
 President Joe Biden issued a disaster declaration for the state of <strong>Kentucky</strong>, where flash floods have killed at least 25 people and destroyed hundreds of homes. Andy Beshear, the state’s governor, said the death toll would probably “get a lot higher”. Some 33,000 people have no electricity. Torrential rains battered towns this week in several states, also including Missouri and Tennessee.
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="395a4b564a4a4e564b5d795c5a56575654504a4d175a5654">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#2f4c5d405c5c58405d4b6f4a4c40414042465c5b014c4042), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="f6958499858581998492b693959998999b9f8582d895999b">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#1576677a6666627a67715570767a7b7a787c66613b767a78), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
