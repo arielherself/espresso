@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Vladimir Putin</strong> signed a new doctrine that laid out the <strong>Russian navy’s</strong> strategic aims, which includes plans to become a “great maritime power” that extends over the world. The doctrine listed <strong>America </strong>and <strong>NATO </strong>as the main threats to Russia. In a speech during Navy Day celebrations, the Russian president said new hypersonic cruise missile systems would be delivered to the navy in the coming months.
+<strong>Vladimir Putin</strong> signed a new doctrine that laid out the <strong>Russian navy’s</strong> strategic aims, which includes plans to become a “great maritime power” that extends over the world. The doctrine listed <strong>America </strong>and <strong>NATO </strong>as the main threats to Russia. In a speech during Navy Day celebrations, the Russian president said new hypersonic cruise-missile systems would be delivered to the navy in the coming months.
 
 <strong>Volodymyr Zelensky</strong>, Ukraine’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://www.economist.com/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. Meanwhile Ukraine said it was compiling evidence that Russia perpetrated the attack that killed 53 prisoners of war in Donetsk on Friday. The Kremlin said it would welcome an “objective investigation”.
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="2241504d5151554d50466247414d4c4d4f4b51560c414d4f">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#7417061b0707031b06103411171b1a1b191d07005a171b19), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="bfdccdd0ccccc8d0cddbffdadcd0d1d0d2d6cccb91dcd0d2">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#90f3e2ffe3e3e7ffe2f4d0f5f3fffefffdf9e3e4bef3fffd), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
