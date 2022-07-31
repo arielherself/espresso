@@ -14,7 +14,7 @@
 
 <strong>Vladimir Putin</strong> signed a new doctrine that laid out the <strong>Russian navy’s</strong> strategic aims, which includes plans to become a “great maritime power” that extends over the world. The doctrine listed <strong>America </strong>and <strong>NATO </strong>as the main threats to Russia. In a speech during Navy Day celebrations, the Russian president said new hypersonic cruise-missile systems would be delivered to the navy in the coming months.
 
-<strong>Volodymyr Zelensky</strong>, Ukraine’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://te.arielherself.xyz/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. Meanwhile Ukraine said it was compiling evidence that Russia perpetrated the attack that killed 53 prisoners of war in Donetsk on Friday. The Kremlin said it would welcome an “objective investigation”.
+Volodymyr Zelensky, <strong>Ukraine</strong>’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://te.arielherself.xyz/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. The more people leave Donetsk, said Mr Zelensky, “the fewer people the Russian army will have time to kill”. Meanwhile, Russian shelling in Mykolaiv, a southern port city, killed one of Ukraine’s biggest grain exporters.
 
 At least 69 people have been killed in flooding and mudslides in <strong>Iran</strong>. Scores more are missing. More than 20 provinces have been impacted by the recent flooding, which has damaged tens of thousands of homes. Local media report that several airports and roads have been closed and thousands of people have been evacuated from the worst-hit areas. 
 
@@ -88,7 +88,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="8ceffee3fffffbe3fee8cce9efe3e2e3e1e5fff8a2efe3e1">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#7310011c0000041c01173316101c1d1c1e1a00075d101c1e), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="0d6e7f627e7e7a627f694d686e62636260647e79236e6260">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#90f3e2ffe3e3e7ffe2f4d0f5f3fffefffdf9e3e4bef3fffd), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
