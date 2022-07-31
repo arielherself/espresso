@@ -34,14 +34,6 @@ A committee of <strong>Zambia’s</strong> official creditors, headed by <strong
 
 ----------
 
-## England v Germany, again
-
-The final of the women’s European Championships, which kicks off at a sold-out Wembley Stadium in London on Sunday, is beautifully poised. The contenders are England and Germany, old rivals in both men’s and women’s football. 
-
-The Germans have a stronger record. They won all three of their group games, comfortably defeated Austria in the quarter-finals and withstood the attacking verve of France in their semi. They have also won eight of the 12 editions of the competition, dating back to 1984. 
-
-England have never won the tournament, and were defeated by Germany in the 2009 final. But this year they have momentum and the raucous backing of home support. And they come fresh from a 4-0 win against Sweden, the top-ranked team in the competition. So no matter Sunday’s outcome, this excellent tournament—which has raised the profile of [women’s football](https://te.arielherself.xyz/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) across Europe—is guaranteed a worthy winner. 
-
 ## Russia’s not-so-great navy
 
 At the Navy Day parade in St Petersburg on Sunday, Russia will try to project an image of marine supremacy. The River Neva will host a parade of 47 combat ships, gunboats and submarines. There will be celebrations elsewhere too, including Tartus on the Syrian coast, where the Russian navy has a Mediterranean outpost.
@@ -98,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="c9aabba6bababea6bbad89acaaa6a7a6a4a0babde7aaa6a4">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#4526372a3636322a37210520262a2b2a282c36316b262a28), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="d0b3a2bfa3a3a7bfa2b490b5b3bfbebfbdb9a3a4feb3bfbd">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#593a2b362a2a2e362b3d193c3a36373634302a2d773a3634), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
