@@ -12,19 +12,19 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine</strong>’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://te.arielherself.xyz/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. Meanwhile Ukraine said it was compiling evidence that Russia perpetrated the attack that killed 53 prisoners of war in Donetsk on Friday. The Kremlin said it would welcome an “objective investigation”.
+<strong>Vladimir Putin</strong> signed a new doctrine that laid out the <strong>Russian navy’s</strong> strategic aims, which includes plans to become a “great maritime power” that extends over the world. The doctrine listed <strong>America </strong>and <strong>NATO </strong>as the main threats to Russia. In a speech during Navy Day celebrations, the Russian president said new hypersonic cruise missile systems would be delivered to the navy in the coming months.
+
+<strong>Volodymyr Zelensky</strong>, Ukraine’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://te.arielherself.xyz/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. Meanwhile Ukraine said it was compiling evidence that Russia perpetrated the attack that killed 53 prisoners of war in Donetsk on Friday. The Kremlin said it would welcome an “objective investigation”.
+
+At least 69 people have been killed in flooding and mudslides in <strong>Iran</strong>. Scores more are missing. More than 20 provinces have been impacted by the recent flooding, which has damaged tens of thousands of homes. Local media report that several airports and roads have been closed and thousands of people have been evacuated from the worst-hit areas. 
 
 Factory activity in <strong>China </strong>contracted unexpectedly in July as covid-19 outbreaks hindered manufacturing output. The official manufacturing purchasing managers index fell to 49, down from 50.2 in June and below analysts’ forecasts of 50.3. A reading below 50 indicates contraction. Flare-ups of covid in manufacturing hubs, such as Shenzhen, and weak global demand [dragged down](https://te.arielherself.xyz/finance-and-economics/2022/07/28/chinas-official-growth-figures-are-bad-enough-to-be-believed) the index.
-
-Debris from a <strong>Chinese</strong> rocket crashed into the Pacific Ocean, according to [China’s space agency](https://te.arielherself.xyz/international/2021/07/17/america-china-and-the-race-to-the-moon). Long March 5 had blasted off last week to deliver a laboratory module to a Chinese space station under construction in orbit. NASA, America’s space agency, said China had not shared any “specific trajectory information” which was needed to “ensure the safety of people here on Earth”.
-
-<strong>Joe Biden</strong> again tested positive for <strong>covid-19</strong>, just days after leaving isolation for an earlier bout with the virus. The White House physician said the president is not experiencing any symptoms. The Centres for Disease Control and Prevention, America’s public-health agency, issued an advisory in May about the possibility of “rebound” cases for patients who use Paxlovid, [an antiviral drug](https://te.arielherself.xyz/graphic-detail/2022/07/28/paxlovid-appears-to-be-reaching-the-americans-who-need-it-least) that reduces the risk of hospitalisation and death from covid-19.
 
 Listen to an abridged version of the subscriber-only briefing.
 
 Governor Kathy Hochul declared a state of emergency in New York, in response to the outbreak of <strong>monkeypox</strong> in her state. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://te.arielherself.xyz/science-and-technology/2022/07/23/monkeypox-is-declared-a-global-health-emergency) of international concern. Brazil and Spain reported the first fatalities from the virus outside Africa. 
 
-Gazprom, <strong>Russia’s</strong> state-controlled energy giant, cut off [gas supplies](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to <strong>Latvia, </strong>a day after the Baltic state said it would make payments in euros rather than in roubles. The company accused Latvia of violating supply terms, but did not divulge specifics. Russia had already halted gas deliveries to several other European countries, including Poland and Finland. 
+Debris from a <strong>Chinese</strong> rocket crashed into the Pacific Ocean, according to [China’s space agency](https://te.arielherself.xyz/international/2021/07/17/america-china-and-the-race-to-the-moon). Long March 5 had blasted off last week to deliver a laboratory module to a Chinese space station under construction in orbit. NASA, America’s space agency, said China had not shared any “specific trajectory information” which was needed to “ensure the safety of people here on Earth”.
 
 A committee of <strong>Zambia’s</strong> official creditors, headed by <strong>China</strong> and <strong>France</strong>, said it had reached agreement on a restructuring of the southern African country’s [debts](https://te.arielherself.xyz/middle-east-and-africa/2022/05/14/zambia-wants-to-be-a-model-for-resolving-africas-debt-crises). Zambia stopped servicing $17bn of foreign debt in November 2020, with its economy weakened by low copper prices and the covid-19 pandemic. The deal looks likely to unlock a $1.3bn loan from the IMF.
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="0360716c7070746c71674366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#573425382424203825331732343839383a3e24237934383a), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="3b58495448484c54495f7b5e585455545652484f15585456">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#7f1c0d100c0c08100d1b3f1a1c10111012160c0b511c1012), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
