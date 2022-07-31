@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 A committee of <strong>Zambia’s</strong> official creditors, headed by <strong>China</strong> and <strong>France</strong>, said it had reached agreement on a restructuring of the southern African country’s [debts](https://www.economist.com/middle-east-and-africa/2022/05/14/zambia-wants-to-be-a-model-for-resolving-africas-debt-crises). Zambia stopped servicing $17bn of foreign debt in November 2020, with its economy weakened by low copper prices and the covid-19 pandemic. The deal looks likely to unlock a $1.3bn loan from the IMF.
 
-Brazil and Spain reported deaths related to <strong>monkeypox</strong>, the first fatalities from the virus outside Africa. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/united-states/2022/07/27/americas-response-to-monkeypox-has-been-underwhelming) of international concern. Governor Kathy Hochul declared a state of emergency in New York, where the virus is spreading fast.
+Governor Kathy Hochul declared a state of emergency in New York, in response to the outbreak of <strong>monkeypox</strong> in her state. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/science-and-technology/2022/07/23/monkeypox-is-declared-a-global-health-emergency) of international concern. Brazil and Spain reported the first fatalities from the virus outside Africa. 
 
 Debris from a <strong>Chinese</strong> rocket crashed into the Pacific Ocean, according to [China’s space agency](https://www.economist.com/international/2021/07/17/america-china-and-the-race-to-the-moon). Long March 5 had blasted off last week to deliver a laboratory module to a Chinese space station under construction in orbit. NASA, America’s space agency, said China had not shared any “specific trajectory information” which was needed to “ensure the safety of people here on Earth”.
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="b4d7c6dbc7c7c3dbc6d0f4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#0a69786579797d65786e4a6f696564656763797e24696567), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="e083928f9393978f9284a085838f8e8f8d899394ce838f8d">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#6506170a1616120a17012500060a0b0a080c16114b060a08), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
