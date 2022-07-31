@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukraine</strong> said it was compiling evidence that <strong>Russia</strong> perpetrated the attack that killed 53 prisoners of war on Thursday. The two countries have spent days blaming the other for the explosion. Ukrainian officials also called for an international investigation into the massacre. Earlier, Volodymyr Zelensky, Ukraine’s president, called a strike on a prison which killed 53 Ukrainian prisoners of war “a deliberate Russian [war crime](https://te.arielherself.xyz/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine)”.
+Volodymyr Zelensky, <strong>Ukraine</strong>’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://te.arielherself.xyz/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. Meanwhile Ukraine said it was compiling evidence that Russia perpetrated the attack that killed 53 prisoners of war in Donetsk on Thursday. The Kremlin said it would welcome an “objective investigation”.
 
-Gazprom, <strong>Russia’s</strong> state-controlled energy giant, cut off [gas supplies](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to <strong>Latvia </strong>after the Baltic state said it would pay in euros rather than in roubles. The company accused Latvia of violating supply terms, but did not divulge specifics. Russia had already halted gas deliveries to several other European countries, including Poland and Finland. 
+Gazprom, <strong>Russia’s</strong> state-controlled energy giant, cut off [gas supplies](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to <strong>Latvia, </strong>a day after the Baltic state said it would make payments in euros rather than in roubles. The company accused Latvia of violating supply terms, but did not divulge specifics. Russia had already halted gas deliveries to several other European countries, including Poland and Finland. 
 
 <strong>Joe Biden</strong> again tested positive for <strong>covid-19</strong>, just days after leaving isolation for an earlier bout with the virus. The White House physician said the president is not experiencing any symptoms. The Centres for Disease Control and Prevention, America’s public-health agency, issued an advisory in May about the possibility of “rebound” cases for patients who use Paxlovid, [an antiviral drug](https://te.arielherself.xyz/graphic-detail/2022/07/28/paxlovid-appears-to-be-reaching-the-americans-who-need-it-least) that reduces the risk of hospitalisation and death from covid-19.
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="2f4c5d405c5c58405d4b6f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#5132233e2222263e23351134323e3f3e3c3822257f323e3c), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="c7a4b5a8b4b4b0a8b5a387a2a4a8a9a8aaaeb4b3e9a4a8aa">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#2447564b5757534b56406441474b4a4b494d57500a474b49), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
