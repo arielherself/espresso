@@ -30,8 +30,6 @@ A committee of <strong>Zambia’s</strong> official creditors, headed by <strong
 
 <strong>Word of the week: </strong><em>champing</em>, the practice of [camping in churches](https://te.arielherself.xyz/britain/2022/07/28/britains-empty-churches-are-turning-into-campsites).
 
-<strong>Editor’s note: </strong>Owing to a technical error, some readers in Asia will not have seen the full edition of World in Brief on July 30th. Visitors to our website, and users of the Espresso and Economist apps, will also have seen out-of-date content for several hours. Sorry.
-
 ----------
 
 ## Russia’s not-so-great navy
@@ -90,7 +88,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="1576677a6666627a67715570767a7b7a787c66613b767a78">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#4526372a3636322a37210520262a2b2a282c36316b262a28), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="8ceffee3fffffbe3fee8cce9efe3e2e3e1e5fff8a2efe3e1">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#7310011c0000041c01173316101c1d1c1e1a00075d101c1e), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
