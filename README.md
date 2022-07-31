@@ -26,7 +26,7 @@ A committee of <strong>Zambia’s</strong> official creditors, headed by <strong
 
 Brazil and Spain reported deaths related to <strong>monkeypox</strong>, the first fatalities from the virus outside Africa. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://te.arielherself.xyz/united-states/2022/07/27/americas-response-to-monkeypox-has-been-underwhelming) of international concern. Governor Kathy Hochul declared a state of emergency in New York, where the virus is spreading fast.
 
-On his flight home from a six-day “penitential pilgrimage” to Canada, <strong>Pope Francis</strong> said that he might one day have to retire. The 85-year-old pontiff used a wheelchair for much of the trip, during which he apologised to indigenous people for the abuses inflicted on children in residential schools run by the Catholic church. In his remarks during the flight, Francis called the mistreatment “genocide”.
+Debris from a <strong>Chinese</strong> rocket crashed into the Pacific Ocean, according to [China’s space agency](https://te.arielherself.xyz/international/2021/07/17/america-china-and-the-race-to-the-moon). Long March 5 had blasted off last week to deliver a laboratory module to a Chinese space station under construction in orbit. NASA, America’s space agency, said China had not shared any “specific trajectory information” which was needed to “ensure the safety of people here on Earth”.
 
 <strong>Word of the week: </strong><em>champing</em>, the practice of [camping in churches](https://te.arielherself.xyz/britain/2022/07/28/britains-empty-churches-are-turning-into-campsites).
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="c7a4b5a8b4b4b0a8b5a387a2a4a8a9a8aaaeb4b3e9a4a8aa">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#2447564b5757534b56406441474b4a4b494d57500a474b49), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="6003120f1313170f12042005030f0e0f0d0913144e030f0d">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#95f6e7fae6e6e2fae7f1d5f0f6fafbfaf8fce6e1bbf6faf8), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
