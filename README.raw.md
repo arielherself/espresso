@@ -6,27 +6,27 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-07-30</p>
+# <p align="center">The world in brief 2022-07-31</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine’s </strong>president, called a strike on a prison which killed 53 Ukrainian prisoners of war “a deliberate Russian [<strong>war crime</strong>](https://www.economist.com/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine)”. Russia blamed Ukraine, accusing it of using American-supplied rockets against the prison, which lies in Russian-controlled territory. The International Committee of the Red Cross said it is seeking access to the site to help the wounded.
+<strong>Ukraine</strong> said it was compiling evidence that <strong>Russia</strong> perpetrated the attack that killed 53 prisoners of war on Thursday. The two countries have spent days blaming the other for the explosion. Ukrainian officials also called for an international investigation into the massacre. Earlier, Volodymyr Zelensky, Ukraine’s president, called a strike on a prison which killed 53 Ukrainian prisoners of war “a deliberate Russian [war crime](https://www.economist.com/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine)”.
 
-Supporters of <strong>Muqtada al-Sadr</strong>, an Iraqi cleric, forced their way into parliament for the second time in a week. His followers are demonstrating against the nomination of Mohammed Shia al-Sudani, a pro-Iranian rival of Mr al-Sadr, as prime minister. In last October’s election Mr al-Sadr’s bloc won the most seats—but it has not formed a government because of political deadlock. Some 120 people have been injured in the unrest. 
-
-Brazil and Spain reported deaths related to <strong>monkeypox</strong>, the first fatalities from the virus outside Africa. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/united-states/2022/07/27/americas-response-to-monkeypox-has-been-underwhelming) of international concern. Governor Kathy Hochul declared a state of emergency in New York, where the virus is spreading fast.
-
-A committee of <strong>Zambia’s</strong> official creditors, headed by <strong>China</strong> and <strong>France</strong>, said it had reached agreement on a restructuring of the southern African country’s [debts](https://www.economist.com/middle-east-and-africa/2022/05/14/zambia-wants-to-be-a-model-for-resolving-africas-debt-crises). Zambia stopped servicing $17bn of foreign debt in November 2020, with its economy weakened by low copper prices and the covid-19 pandemic. The deal looks likely to unlock a $1.3bn loan from the IMF.
-
-Listen to an abridged version of the subscriber-only briefing.
+Gazprom, <strong>Russia’s</strong> state-controlled energy giant, cut off [gas supplies](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to <strong>Latvia </strong>after the Baltic state said it would pay in euros rather than in roubles. The company accused Latvia of violating supply terms, but did not divulge specifics. Russia had already halted gas deliveries to several other European countries, including Poland and Finland. 
 
 <strong>Joe Biden</strong> again tested positive for <strong>covid-19</strong>, just days after leaving isolation for an earlier bout with the virus. The White House physician said the president is not experiencing any symptoms. The Centres for Disease Control and Prevention, America’s public-health agency, issued an advisory in May about the possibility of “rebound” cases for patients who use Paxlovid, [an antiviral drug](https://www.economist.com/graphic-detail/2022/07/28/paxlovid-appears-to-be-reaching-the-americans-who-need-it-least) that reduces the risk of hospitalisation and death from covid-19.
 
-On his flight home from a six-day “penitential pilgrimage” to Canada, <strong>Pope Francis</strong> said that he might one day have to retire. The 85-year-old pontiff used a wheelchair for much of the trip, during which he apologised to indigenous people for the abuses inflicted on children in residential schools run by the Catholic church. In his remarks during the flight, Francis called the mistreatment “genocide”.
+Supporters of <strong>Muqtada al-Sadr</strong>, an Iraqi cleric, forced their way into parliament for the second time in a week. His followers are demonstrating against the nomination of Mohammed Shia al-Sudani, a pro-Iranian rival of Mr al-Sadr, as prime minister. In last October’s election Mr al-Sadr’s bloc won the most seats—but it has not formed a government because of political deadlock. Some 120 people have been injured in the unrest. 
 
-President Joe Biden issued a disaster declaration for the state of <strong>Kentucky</strong>, where flash floods have killed at least 25 people and destroyed hundreds of homes. Andy Beshear, the state’s governor, said the death toll would probably “get a lot higher”. Some 33,000 people have no electricity. Torrential rains battered towns this week in several states, also including Missouri and Tennessee.
+Listen to an abridged version of the subscriber-only briefing.
+
+A committee of <strong>Zambia’s</strong> official creditors, headed by <strong>China</strong> and <strong>France</strong>, said it had reached agreement on a restructuring of the southern African country’s [debts](https://www.economist.com/middle-east-and-africa/2022/05/14/zambia-wants-to-be-a-model-for-resolving-africas-debt-crises). Zambia stopped servicing $17bn of foreign debt in November 2020, with its economy weakened by low copper prices and the covid-19 pandemic. The deal looks likely to unlock a $1.3bn loan from the IMF.
+
+Brazil and Spain reported deaths related to <strong>monkeypox</strong>, the first fatalities from the virus outside Africa. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/united-states/2022/07/27/americas-response-to-monkeypox-has-been-underwhelming) of international concern. Governor Kathy Hochul declared a state of emergency in New York, where the virus is spreading fast.
+
+On his flight home from a six-day “penitential pilgrimage” to Canada, <strong>Pope Francis</strong> said that he might one day have to retire. The 85-year-old pontiff used a wheelchair for much of the trip, during which he apologised to indigenous people for the abuses inflicted on children in residential schools run by the Catholic church. In his remarks during the flight, Francis called the mistreatment “genocide”.
 
 <strong>Word of the week: </strong><em>champing</em>, the practice of [camping in churches](https://www.economist.com/britain/2022/07/28/britains-empty-churches-are-turning-into-campsites).
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="6e0d1c011d1d19011c0a2e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#f192839e8282869e8395b194929e9f9e9c988285df929e9c), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="abc8d9c4d8d8dcc4d9cfebcec8c4c5c4c6c2d8df85c8c4c6">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#3a59485549494d55485e7a5f595554555753494e14595557), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
