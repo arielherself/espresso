@@ -18,7 +18,7 @@ Gazprom, <strong>Russia’s</strong> state-controlled energy giant, cut off [gas
 
 <strong>Joe Biden</strong> again tested positive for <strong>covid-19</strong>, just days after leaving isolation for an earlier bout with the virus. The White House physician said the president is not experiencing any symptoms. The Centres for Disease Control and Prevention, America’s public-health agency, issued an advisory in May about the possibility of “rebound” cases for patients who use Paxlovid, [an antiviral drug](https://te.arielherself.xyz/graphic-detail/2022/07/28/paxlovid-appears-to-be-reaching-the-americans-who-need-it-least) that reduces the risk of hospitalisation and death from covid-19.
 
-Supporters of <strong>Muqtada al-Sadr</strong>, an Iraqi cleric, forced their way into parliament for the second time in a week. His followers are demonstrating against the nomination of Mohammed Shia al-Sudani, a pro-Iranian rival of Mr al-Sadr, as prime minister. In last October’s election Mr al-Sadr’s bloc won the most seats—but it has not formed a government because of political deadlock. Some 120 people have been injured in the unrest. 
+Factory activity in <strong>China </strong>contracted unexpectedly in July as covid-19 outbreaks hindered manufacturing output. The official manufacturing purchasing managers index fell to 49, down from 50.2 in June and below analysts’ forecasts of 50.3. A reading below 50 indicates contraction. Flare-ups of covid in manufacturing hubs, such as Shenzhen, and weak global demand [dragged down](https://te.arielherself.xyz/finance-and-economics/2022/07/28/chinas-official-growth-figures-are-bad-enough-to-be-believed) the index.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="5330213c2020243c21371336303c3d3c3e3a20277d303c3e">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#3457465b4747435b46507451575b5a5b595d47401a575b59), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="7013021f0303071f02143015131f1e1f1d1903045e131f1d">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#375445584444405845537752545859585a5e44431954585a), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
