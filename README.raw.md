@@ -24,9 +24,9 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Governor Kathy Hochul declared a state of emergency in New York, in response to the outbreak of <strong>monkeypox</strong> in her state. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/science-and-technology/2022/07/23/monkeypox-is-declared-a-global-health-emergency) of international concern. Brazil and Spain reported the first fatalities from the virus outside Africa. 
 
-Debris from a <strong>Chinese</strong> rocket crashed into the Pacific Ocean, according to [China’s space agency](https://www.economist.com/international/2021/07/17/america-china-and-the-race-to-the-moon). Long March 5 had blasted off last week to deliver a laboratory module to a Chinese space station under construction in orbit. NASA, America’s space agency, said China had not shared any “specific trajectory information” which was needed to “ensure the safety of people here on Earth”.
+The <strong>McKinney fire</strong> in northern <strong>California</strong> exploded in size to roughly 51,000 acres (20,639 hectares), making it the state’s biggest blaze so far this year. The conflagration, which is burning just south of the border with Oregon, was 0% contained as of Sunday afternoon. The House of Representatives passed a bill on Friday that aims to help the American West cope with seemingly [perennial drought and wildfire](https://www.economist.com/the-economist-reads/2022/07/08/what-to-read-to-understand-the-burning-of-the-american-west).
 
-A committee of <strong>Zambia’s</strong> official creditors, headed by <strong>China</strong> and <strong>France</strong>, said it had reached agreement on a restructuring of the southern African country’s [debts](https://www.economist.com/middle-east-and-africa/2022/05/14/zambia-wants-to-be-a-model-for-resolving-africas-debt-crises). Zambia stopped servicing $17bn of foreign debt in November 2020, with its economy weakened by low copper prices and the covid-19 pandemic. The deal looks likely to unlock a $1.3bn loan from the IMF.
+Debris from a <strong>Chinese</strong> rocket crashed into the Pacific Ocean, according to [China’s space agency](https://www.economist.com/international/2021/07/17/america-china-and-the-race-to-the-moon). Long March 5 had blasted off last week to deliver a laboratory module to a Chinese space station under construction in orbit. NASA, America’s space agency, said China had not shared any “specific trajectory information” which was needed to “ensure the safety of people here on Earth”.
 
 <strong>Word of the week: </strong><em>champing</em>, the practice of [camping in churches](https://www.economist.com/britain/2022/07/28/britains-empty-churches-are-turning-into-campsites).
 
@@ -88,7 +88,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="dbb8a9b4a8a8acb4a9bf9bbeb8b4b5b4b6b2a8aff5b8b4b6">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#2a49584559595d45584e6a4f494544454743595e04494547), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="395a4b564a4a4e564b5d795c5a56575654504a4d175a5654">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#1e7d6c716d6d69716c7a5e7b7d71707173776d6a307d7173), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
