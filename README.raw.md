@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine</strong>’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://www.economist.com/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. Meanwhile Ukraine said it was compiling evidence that Russia perpetrated the attack that killed 53 prisoners of war in Donetsk on Thursday. The Kremlin said it would welcome an “objective investigation”.
+Volodymyr Zelensky, <strong>Ukraine</strong>’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://www.economist.com/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. Meanwhile Ukraine said it was compiling evidence that Russia perpetrated the attack that killed 53 prisoners of war in Donetsk on Friday. The Kremlin said it would welcome an “objective investigation”.
 
 Gazprom, <strong>Russia’s</strong> state-controlled energy giant, cut off [gas supplies](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to <strong>Latvia, </strong>a day after the Baltic state said it would make payments in euros rather than in roubles. The company accused Latvia of violating supply terms, but did not divulge specifics. Russia had already halted gas deliveries to several other European countries, including Poland and Finland. 
 
@@ -98,7 +98,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="a7c4d5c8d4d4d0c8d5c3e7c2c4c8c9c8caced4d389c4c8ca">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#5033223f2323273f22341035333f3e3f3d3923247e333f3d), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="ed8e9f829e9e9a829f89ad888e82838280849e99c38e8280">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#bbd8c9d4c8c8ccd4c9dffbded8d4d5d4d6d2c8cf95d8d4d6), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
