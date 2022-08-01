@@ -12,113 +12,63 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Russian missile strikes</strong> on <strong>Mykolaiv</strong>, a port city in the south of <strong>Ukraine</strong>, killed Oleksiy Vadatursky, one of the country’s richest businessmen and biggest exporters of grain. On July 22nd Russia had agreed to allow Ukraine to resume shipping grain, before [jeopardising the deal](https://te.arielherself.xyz/europe/2022/07/22/after-agreeing-to-let-ukraine-export-grain-russia-rockets-its-port) by bombing Odessa, another port. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately. 
+The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://te.arielherself.xyz/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
 
-Volodymyr Zelensky, <strong>Ukraine</strong>’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://te.arielherself.xyz/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. The more people leave Donetsk, said Mr Zelensky, “the fewer people the Russian army will have time to kill”. Meanwhile, Russian shelling in Mykolaiv, a southern port city, killed one of Ukraine’s biggest grain exporters.
+<strong>Nancy Pelosi</strong>, the speaker of America’s House of Representatives, landed in Singapore, the first stop of a tour through Asia. Her delegation also plans to visit Malaysia, South Korea and Japan. There was no mention of whether she would travel to Taiwan as initially suggested. Chinese officials earlier [threatened](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island. If she does, Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997.
+
+<strong>Retail sales</strong> in <strong>Germany</strong> saw their biggest year-on-year slump since 1994, new data showed on Monday. Sales in June fell 8.8% in real terms compared to the same month last year, larger than the 8% drop predicted by analysts. High inflation, Russia’s invasion of Ukraine and the covid-19 pandemic have all helped to deter shoppers. 
 
 <strong>Myanmar’s</strong> military junta extended a <strong>state of emergency</strong> across the country by six months. The regime has ruled with emergency powers since overthrowing the democratically elected government of Aung San Suu Kyi in February 2021. Last week it reintroduced the death penalty and [executed](https://www.straitstimes.com/asia/se-asia/myanmar-extends-state-of-emergency-for-six-months-until-february) four activists. Generals promise new elections will be held next year, though few think that likely.
 
-<strong>Hong Kong’s</strong> finance secretary said the territory’s economy had shrunk during the second quarter, compared with a year ago. GDP also fell substantially during the first quarter, as a debilitating wave of covid-19 infections swept the city. [Hong Kong’s](https://te.arielherself.xyz/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state) strict covid rules, including lengthy quarantines for visitors, are proving a drag. Meanwhile, that policy’s aim—reopening Hong Kong’s border with the mainland—remains a distant prospect.
-
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>New Zealand</strong> fully reopened its borders for the first time since March 2020. Visitors from all over the world can now enter the country without quarantining, though they must be vaccinated against covid-19 and take two tests on arrival. The government has been slowly loosening border restrictions since February, when it started to allow New Zealanders back in.
+The government of <strong>Kosovo</strong> delayed introducing a new rule that would make drivers in areas with an ethnic Serb majority put <strong>number plates</strong> issued by Kosovo on their cars, rather than ones issued by <strong>Serbia</strong>, after protests broke out. Kosovo unilaterally declared independence from Serbia in 2008 but many Serbs in the north of the country still align themselves with Serbia. 
 
-Hundreds of firefighters were brought in to tackle a large <strong>wildfire</strong> near Lisbon, the capital of <strong>Portugal</strong>. Weeks of drought and an [intense heatwave](https://te.arielherself.xyz/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come) have sparked blazes in several parts of the country. Meanwhile in America, the McKinney fire in northern <strong>California</strong> has rapidly grown to become the biggest in the state this year. At least 2,000 people have been told to evacuate. 
+<strong>Hong Kong’s</strong> finance secretary said the territory’s economy had shrunk during the second quarter, compared with a year ago. GDP also fell substantially during the first quarter, as a debilitating wave of covid-19 infections swept the city. [Hong Kong’s](https://te.arielherself.xyz/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state) strict covid rules, including lengthy quarantines for visitors, are proving a drag. Meanwhile, that policy’s aim—reopening Hong Kong’s border with the mainland—remains a distant prospect.
 
 <strong>England’s women footballers</strong> became European champions, defeating Germany in a tense final in London. It was England’s first victory in a [major football tournament](https://te.arielherself.xyz/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) since the men’s team won the World Cup in 1966. Viewing figures for the final are not yet out, but more than 10m Britons watched the Lionesses’ semi-final victory, a striking figure for a country obsessed with the men’s game.
 
-<strong>Word of the week: </strong><em>champing</em>, the practice of [camping in churches](https://te.arielherself.xyz/britain/2022/07/28/britains-empty-churches-are-turning-into-campsites).
+<strong>Fact of the day: </strong>10%, the proportion of the Russian population that has experienced torture by law-enforcement agencies. [Read the full story](https://te.arielherself.xyz/briefing/2022/07/28/vladimir-putin-is-in-thrall-to-a-distinctive-brand-of-russian-fascism).
 
 ----------
 
-## Russia’s not-so-great navy
+## A nuclear free-for-all looms
 
-At the Navy Day parade in St Petersburg on Sunday, Russia will try to project an image of marine supremacy. The River Neva will host a parade of 47 combat ships, gunboats and submarines. There will be celebrations elsewhere too, including Tartus on the Syrian coast, where the Russian navy has a Mediterranean outpost.
+The fabric of nuclear-arms control, woven after the Cuban missile crisis in 1962, has long been fraying. The [war in Ukraine](https://te.arielherself.xyz/leaders/2022/06/02/a-new-nuclear-era) may rip it entirely, as [Russia](https://te.arielherself.xyz/briefing/2022/07/28/vladimir-putin-is-in-thrall-to-a-distinctive-brand-of-russian-fascism) threatens to use nukes. A chance to patch it up comes on Monday, with the opening in New York of a month-long conference of 191 signatories of the Nuclear Non-Proliferation Treaty.
 
-But the absence of festivities at the port of Sevastopol, in Russian-annexed Crimea, hints at Russia’s travails: Sevastopol’s ships are busy fighting Ukraine in the Black Sea. Though Russia claims control of the sea’s north-west, its navy has suffered significant setbacks—most notably by losing [Snake Island](https://te.arielherself.xyz/europe/2022/06/27/the-battle-for-snake-island), a strategic outcrop it had gained early in the invasion. And Russia is still reeling from the loss of the <em>Moskva</em>, one of its flagship missile cruisers, in April. On paper Russia’s naval power still vastly outmuscles Ukraine’s. But observers may wonder if there’s really much to celebrate on the Neva. 
+The agenda is forbidding: Iran is on the nuclear threshold; North Korea has crossed it; Britain is enlarging its arsenal; and China is building up fast. The global stockpile of 12,700 warheads is thus set to grow. Splits between big powers, and between nuclear haves and have-nots, may prevent agreement. Many have signed an alternative treaty to ban nukes altogether.
 
-## ASEAN grapples with crisis after crisis
+The good news? America and Russia still swap information about long-range weapons under New START. The bad? The treaty expires in 2026. Follow-on talks stopped after the invasion of Ukraine. There is no sign of them resuming soon—if ever.
 
-Meetings of the ten-member Association of South-East Asian Nations are normally dull talking-shops. Yet the region has rarely been beset by so many crises. As the member states’ foreign ministers convene in Phnom Penh, the capital of Cambodia, next week, their pow-wow is bound to make headlines.
+## Less gas requires more solidarity
 
-First on the agenda is Myanmar, whose murderous junta recently [executed](https://te.arielherself.xyz/asia/2022/07/28/myanmars-brutal-junta-has-brought-back-the-death-penalty) four pro-democracy activists. ASEAN is unlikely to suspend Myanmar’s membership, but it may downgrade its representation even further and, perhaps, scrap the moribund peace deal it negotiated with the junta in 2021.
+It is rare for industrial assets to be expropriated in Europe these days. But because it has done nothing to fill it up, Gazprom, the Russian energy giant, will on Monday lose its part of the Haidach natural-gas storage facility in Austria, one of the largest in central Europe. Another operator will take over the space. Yet the change in ownership will not do much to solve the [continent’s gas squeeze](https://te.arielherself.xyz/europe/2022/07/28/the-eu-agrees-on-an-energy-diet-to-fight-russian-gas-cuts). It may run out of gas next spring.
 
-The ministers will also urge China, which claims almost all of the South China Sea, to recognise the respective claims of ASEAN members such as Indonesia and Vietnam. They will discuss the Rohingya refugee crisis as well as the war in Ukraine. Representatives from China, Russia and America will attend. Arguments and walk-outs are likely.
+If Gazprom keeps supply at just 20% of capacity through Nord Stream 1, the biggest pipeline providing Russian gas, it is unlikely that storage facilities across the European Union, currently 67% full, will reach the EU’s goal of 80%. If the firm reduces the flow even further or the winter is unusually cold (or both), facilities in some countries, particularly Germany, could run empty by March or so. Then the big question will be whether EU member states will show solidarity and share [whatever gas they have left](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter).
 
-## Elections in Senegal
+## Britain takes aim at dirty money
 
-Senegal is often considered a democratic beacon in Africa. But its light may be dimming. Legislative elections on Sunday are seen as a test of strength for President Macky Sall, who may run for a constitution-bending third term in 2024. He has remained ominously vague about his intentions.
+Any government serious about tackling [money-laundering](https://te.arielherself.xyz/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime) needs to crack open anonymous shell companies. These can shield those using dirty dosh to buy assets, often swanky pads in places like London and Paris. On Monday [Britain](https://te.arielherself.xyz/leaders/2022/05/07/how-to-solve-britains-dirty-money-problem) will take a step in the right direction. A register of the “beneficial” (real) owners of overseas companies that hold British property will come into force. The idea is to force more transparency on those hiding behind brass-plate firms in tax havens such as the British Virgin Islands.
 
-There have been numerous violent flare-ups in the country in recent years. Fourteen people died in protests in March 2021 after an opposition leader, Ousmane Sonko, was arrested and charged with rape. (He denies the allegation.) Protesters claimed it was another attempt to kneecap the president’s rivals. There were also protests last month when the constitutional council threw out an opposition group’s candidate-list because of an error. The group will still contest the election on Sunday but some big names, including Mr Sonko, are barred. Still, Mr Sall’s party was thumped in municipal elections in January. A repeat might scupper any third-term ambitions.
+The move comes six years after Britain introduced a public register of owners of domestic companies. This was seen at the time as a global landmark in the fight against financial crime. But the lessons from it are sobering. Policing has been weak, with few prosecutions for submitting false data. The omens this time are not good, either. Despite feisty political rhetoric, British law enforcement lacks the funding needed to get a grip on the money-rinsers.
 
-## Weekend profile: Pragg, India’s chess superstar
+## Publishers’ antitrust battle
 
-In February, Rameshbabu Praggnanandhaa, a 16-year-old Indian, became the youngest person to defeat Magnus Carlsen, a five-time world chess champion and giant of the game. Any victory over Mr Carlsen is remarkable but this was comprehensive, taking just 39 moves. [Chess](https://te.arielherself.xyz/1843/2015/06/15/chess) has a rich history of such precocious exploits—Mr Carlsen himself was a teenage prodigy. But in India, a country starved of sporting success outside cricket, Pragg, as he is commonly known, became an instant superstar. On Twitter, Narendra Modi, the prime minister, and Sachin Tendulkar, a celebrated former cricketer, gushed praise. 
+The proposed $2.1bn merger of Penguin Random House and Simon &amp; Schuster may reduce the North American book industry’s Big Five to just four. But first it has to get past the American Department of Justice’s [antitrust division,](https://te.arielherself.xyz/special-report/2022/01/10/the-growing-demand-for-more-vigorous-antitrust-action) which will argue in a trial beginning on Monday that the two publishers should be kept separate.
 
-Although young, Pragg’s stardom has been a while in the making. He started playing at the age of three when his father, a bank employee, introduced chess to the household to distract his sister from watching TV. By the age of seven Pragg began showing signs of genius, so his father enrolled him in a chess academy—easy enough in Chennai, one of south India’s biggest cities and a breeding ground for chess champions (Viswanathan Anand, India’s best-ever player, is also a Chennaiite).
+America’s antitrust enforcers normally keep firms apart over concerns that their market power would reduce supply and raise prices for consumers. But rather than base its case on arguments about fewer and more expensive books, the department will argue that the combined company would have too much power over authors’ pay, leading to less fierce bidding wars for writers’ works. The DoJ’s tactic is rare but not unprecedented. If it is successful, more cases focused on big firms’ power over wages could be on the way. 
 
-The head of the academy, RB Ramesh, a world-class player himself, was struck by his student’s dedication. While his other charges struggled to watch the ten videos he demanded of them each day, Pragg would watch 30. In between hours-long practices of complex chess manoeuvres, the pair would take a break by indulging in more child-like pursuits: playing hide-and-seek. 
+## Wearable stickers to peer inside the body
 
-The hard work paid off. At ten Pragg became the youngest-ever international master, the second-highest title in chess. Two years later he became the second-youngest player to secure the game’s highest: grandmaster. In 2019, when barely 14, he became the world under-18 champion.
+Ultrasound captures images from inside the body in real time with high-frequency sound waves. Useful as it is, clunky equipment and clammy gel make it a cumbersome affair. It also requires the steady hand of a highly skilled sonographer. But now, as published in <em>Science</em>, researchers have invented a bioadhesive sticker that attaches to the skin. The size of a postage stamp, the stickers can take images of organs, tumours or embryos continuously for 48 hours.
 
-This weekend he will continue his chase for glory when he competes with 2,000 players, including Mr Carlsen, at the Chess Olympiad, which started on Thursday in Mahabalipuram, near Chennai. In his matches, he will sport what has become his trademark look, sacred ash on his forehead, dabbed there for good luck. He scarcely needs it.
+In tests, the stickers provided high-resolution live images of volunteers’ insides. That could mean sonographers may no longer need to be present throughout surgeries, monitoring blood flow. But the real breakthrough would come if the stickers could be made wireless; people could buy them at the pharmacy and slap them on like plasters. Patients’ smartphones would do the rest—analysing the data and alerting them or their doctor. As easy to use as nicotine patches—only better for your health.
 
-## Weekend crossword
+## Daily quiz
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8fdefae6f5cafcfffdeafcfce0cfeaece0e1e0e2e6fcfba1ece0e2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Grandmother on icy slope tumbled into top of house (5,6) 
-
-<em>1 across </em>Agency includes 500 questions for investors (6)
-
-<em>2 across</em> Endless district in France? (5) 
-
-<em>3 across</em> Land on the Mediterranean is not a fantasy, we’re told (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>A fine emissary to Rome, according to some Washington Kremlinologists (5,6)
-
-<em>1 across </em>Down by a quarter since January? (6)
-
-<em>2 across </em>Where Prince Sultan boarded the flight on which he was kidnapped in 2016? (5)
-
-<em>3 across </em>Home to a large Russian-speaking diaspora (6)
-
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="1f7c6d706c6c68706d7b5f7a7c70717072766c6b317c7072">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#c3a0b1acb0b0b4acb1a783a6a0acadacaeaab0b7eda0acae), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
-
-<strong>Rajesh Raman</strong>, Singapore
-
-<strong>Corien Kershey</strong>, Ottawa, Canada
-
-<strong>Jaime Jean</strong>, Mexico City, Mexico
-
-<strong>John Pierce</strong>, Wexford, Ireland
-
-<strong>Sean Hennessey</strong>, Runaway Bay, Australia
-
-They all gave the correct answers of [Lukashenko](https://te.arielherself.xyz/europe/2022/07/19/why-a-regiment-of-belarusian-dissidents-is-fighting-for-ukraine), [likes](https://te.arielherself.xyz/the-americas/2022/07/21/latin-american-politicians-court-social-media-stars-often-ineptly), [SSRI](https://te.arielherself.xyz/science-and-technology/2022/07/20/a-popular-medical-explanation-for-depression-is-rebuffed) and [Obama](https://te.arielherself.xyz/united-states/2022/07/21/american-climate-policy-is-in-tatters).
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Tetsuyuki Maruyama, </strong>Ito, Japan
-
-North America: <strong>Qin Lin, </strong>New York City, USA
-
-Central and South America: <strong>Antonio Lemos</strong>, Petropolis, Brazil
-
-Europe: <strong>Arne Tobias Ødegaard, </strong>Bergen, Norway
-
-Africa: <strong>Christine Reiter</strong>, Tunis, Tunisia
-
-Oceania: <strong>Warren Twohey, </strong>Auckland, New Zealand
-
-They all gave the correct answers of flags, Minnie Driver, Hitler’s bunker, Chip and Dale, and Eagle. The theme is golf: flags, driver, bunker, chip and eagle.
+<strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
 ----------
 
