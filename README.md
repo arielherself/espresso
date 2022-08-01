@@ -18,13 +18,13 @@ News reports suggested <strong>Nancy Pelosi</strong>, the speaker of America’s
 
 Manufacturing activity in the euro zone contracted in July, intensifying fears of a <strong>recession</strong>. S&amp;P Global’s Purchasing Managers’ Index dropped to 49.8 in July compared with 52.1 in June. It was the first fall below 50, which indicates contraction, since May 2020. Staff absences due to covid-19 and supply shortages contributed to the downturn.
 
-<strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to unravel after <strong>America</strong> withdrew its support under the presidency of Donald Trump.
+Two people died and thousands were forced to evacuate as a wildfire torched 55,000 acres (22,258 hectares) in northern <strong>California</strong>. The McKinney fire, which erupted on Friday, is the state’s largest wildfire this year. Meanwhile the death toll in flood-stricken <strong>Kentucky </strong>reached 35, and is likely to rise further as hundreds of people remain unaccounted for, the governor said.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Retail sales</strong> in <strong>Germany</strong> saw their biggest year-on-year slump since 1994, new data showed on Monday. Sales in June fell 8.8% in real terms compared to the same month last year, larger than the 8% drop predicted by analysts. High inflation, Russia’s invasion of Ukraine and the covid-19 pandemic have all helped to deter shoppers. 
+<strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to unravel after <strong>America</strong> withdrew its support under the presidency of Donald Trump.
 
-<strong>Myanmar’s</strong> military junta extended a <strong>state of emergency</strong> across the country by six months. The regime has ruled with emergency powers since overthrowing the democratically elected government of Aung San Suu Kyi in February 2021. Last week it reintroduced the death penalty and [executed](https://www.straitstimes.com/asia/se-asia/myanmar-extends-state-of-emergency-for-six-months-until-february) four activists. Generals promise new elections will be held next year, though few think that likely.
+<strong>Retail sales</strong> in <strong>Germany</strong> saw their biggest year-on-year slump since 1994, new data showed on Monday. Sales in June fell 8.8% in real terms compared to the same month last year, larger than the 8% drop predicted by analysts. High inflation, Russia’s invasion of Ukraine and the covid-19 pandemic have all helped to deter shoppers. 
 
 <strong>England’s women footballers</strong> became European champions, defeating Germany in a tense final in London. It was England’s first victory in a [major football tournament](https://te.arielherself.xyz/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) since the men’s team won the World Cup in 1966. Some 17.4m Britons watched the Lionesses’ final victory, a striking figure for a country obsessed with the men’s game.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="89d8fce0f3ccfaf9fbecfafae6c9eceae6e7e6e4e0fafda7eae6e4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
