@@ -14,11 +14,11 @@
 
 The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://www.economist.com/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
 
+News reports suggested <strong>Nancy Pelosi</strong>, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997. Chinese officials earlier [threatened](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island.
+
 Manufacturing activity in the euro zone contracted in July, intensifying fears of a <strong>recession</strong>. S&amp;P Global’s Purchasing Managers’ Index dropped to 49.8 in July compared with 52.1 in June. It was the first fall below 50, which indicates contraction, since May 2020. Staff absences due to covid-19 and supply shortages contributed to the downturn.
 
 <strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to unravel after <strong>America</strong> withdrew its support under the presidency of Donald Trump.
-
-<strong>Nancy Pelosi</strong>, the speaker of America’s House of Representatives, landed in Singapore, the first stop of a tour through Asia. Her delegation also plans to visit Malaysia, South Korea and Japan. There was no mention of whether she would travel to Taiwan as initially suggested. Chinese officials earlier [threatened](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island. If she does, Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6435110d1e211714160117170b2401070b0a0b090d17104a070b09">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="eebf9b8794ab9d9e9c8b9d9d81ae8b8d81808183879d9ac08d8183">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
