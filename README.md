@@ -14,19 +14,19 @@
 
 The White House warned <strong>China </strong>against using <strong>Nancy Pelosi’s</strong> [prospective visit to Taiwan](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) as a “pretext to increase aggressive military activity in or around the Taiwan Strait”. News reports suggest Ms Pelosi, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. She would be the highest-ranking American official to visit Taiwan since 1997. “Our actions are not threatening and they break no new ground”, added the White House. Chinese officials had threatened “strong and resolute measures” should she stop on the island.
 
-The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://te.arielherself.xyz/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
+Two people died and thousands were forced to evacuate as a wildfire torched 55,000 acres (22,258 hectares) in northern <strong>California</strong>. The McKinney fire, which erupted on Friday, is the state’s largest wildfire this year. Meanwhile the death toll in flood-stricken <strong>Kentucky </strong>reached 35, and is likely to rise further as hundreds of people remain unaccounted for, the governor said.
 
 Manufacturing activity in the euro zone contracted in July, intensifying fears of a <strong>recession</strong>. S&amp;P Global’s Purchasing Managers’ Index dropped to 49.8 in July compared with 52.1 in June. It was the first fall below 50, which indicates contraction, since May 2020. Staff absences due to covid-19 and supply shortages contributed to the downturn.
 
-Two people died and thousands were forced to evacuate as a wildfire torched 55,000 acres (22,258 hectares) in northern <strong>California</strong>. The McKinney fire, which erupted on Friday, is the state’s largest wildfire this year. Meanwhile the death toll in flood-stricken <strong>Kentucky </strong>reached 35, and is likely to rise further as hundreds of people remain unaccounted for, the governor said.
+America’s <strong>Securities and Exchange Commission</strong> charged 11 people in a <strong>crypto Ponzi scheme</strong>, alleging they bilked retail investors of more than $300m. Among those charged were the four founders of the venture, known as Forsage, who are thought to live in Russia, Georgia and Indonesia. Forsage had “no apparent source of revenue” other than funds received from investors, who made money by recruiting other participants, the SEC said in its complaint.
 
 Listen to an abridged version of the subscriber-only briefing.
-
-America’s <strong>Securities and Exchange Commission</strong> charged 11 people in a <strong>crypto Ponzi scheme</strong>, alleging they bilked retail investors of more than $300m. Among those charged were the four founders of the venture, known as Forsage, who are thought to live in Russia, Georgia and Indonesia. Forsage had “no apparent source of revenue” other than funds received from investors, who made money by recruiting other participants, the SEC said in its complaint.
 
 <strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to unravel after <strong>America</strong> withdrew its support under the presidency of Donald Trump.
 
 <strong>Retail sales</strong> in <strong>Germany</strong> saw their biggest year-on-year slump since 1994, new data showed on Monday. Sales in June fell 8.8% in real terms compared to the same month last year, larger than the 8% drop predicted by analysts. High inflation, Russia’s invasion of Ukraine and the covid-19 pandemic have all helped to deter shoppers. 
+
+The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://te.arielherself.xyz/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
 
 <strong>Fact of the day: </strong>10%, the proportion of the Russian population that has experienced torture by law-enforcement agencies. [Read the full story](https://te.arielherself.xyz/briefing/2022/07/28/vladimir-putin-is-in-thrall-to-a-distinctive-brand-of-russian-fascism).
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="18496d71625d6b686a7d6b6b77587d7b77767775716b6c367b7775">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
