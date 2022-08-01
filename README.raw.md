@@ -16,7 +16,7 @@ The first ship carrying <strong>grain exports</strong> set off from the Ukrainia
 
 Manufacturing activity in the euro zone contracted in July, intensifying fears of a <strong>recession</strong>. S&amp;P Global’s Purchasing Managers’ Index dropped to 49.8 in July compared with 52.1 in June. It was the first fall below 50, which indicates contraction, since May 2020. Staff absences due to covid-19 and supply shortages contributed to the downturn.
 
-<strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to u
+<strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to unravel after <strong>America</strong> withdrew its support under the presidency of Donald Trump.
 
 <strong>Nancy Pelosi</strong>, the speaker of America’s House of Representatives, landed in Singapore, the first stop of a tour through Asia. Her delegation also plans to visit Malaysia, South Korea and Japan. There was no mention of whether she would travel to Taiwan as initially suggested. Chinese officials earlier [threatened](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island. If she does, Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1a4b6f73605f696a687f6969755a7f797574757773696e34797577">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="86d7f3effcc3f5f6f4e3f5f5e9c6e3e5e9e8e9ebeff5f2a8e5e9eb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
