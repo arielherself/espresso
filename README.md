@@ -22,11 +22,11 @@ Two people died and thousands were forced to evacuate as a wildfire torched 55,0
 
 Listen to an abridged version of the subscriber-only briefing.
 
+America’s <strong>Securities and Exchange Commission</strong> charged 11 people in a <strong>crypto Ponzi scheme</strong>, alleging they bilked retail investors of more than $300m. Among those charged were the four founders of the venture, known as Forsage, who are thought to live in Russia, Georgia and Indonesia. Forsage had “no apparent source of revenue” other than funds received from investors, who made money by recruiting other participants, the SEC said in its complaint.
+
 <strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to unravel after <strong>America</strong> withdrew its support under the presidency of Donald Trump.
 
 <strong>Retail sales</strong> in <strong>Germany</strong> saw their biggest year-on-year slump since 1994, new data showed on Monday. Sales in June fell 8.8% in real terms compared to the same month last year, larger than the 8% drop predicted by analysts. High inflation, Russia’s invasion of Ukraine and the covid-19 pandemic have all helped to deter shoppers. 
-
-<strong>England’s women footballers</strong> became European champions, defeating Germany in a tense final in London. It was England’s first victory in a [major football tournament](https://te.arielherself.xyz/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) since the men’s team won the World Cup in 1966. Some 17.4m Britons watched the Lionesses’ final victory, a striking figure for a country obsessed with the men’s game.
 
 <strong>Fact of the day: </strong>10%, the proportion of the Russian population that has experienced torture by law-enforcement agencies. [Read the full story](https://te.arielherself.xyz/briefing/2022/07/28/vladimir-putin-is-in-thrall-to-a-distinctive-brand-of-russian-fascism).
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7e2f0b17043b0d0e0c1b0d0d113e1b1d11101113170d0a501d1113">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="dd8ca8b4a798aeadafb8aeaeb29db8beb2b3b2b0b4aea9f3beb2b0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
