@@ -26,7 +26,7 @@ The government of <strong>Kosovo</strong> delayed introducing a new rule that wo
 
 <strong>Hong Kong’s</strong> finance secretary said the territory’s economy had shrunk during the second quarter, compared with a year ago. GDP also fell substantially during the first quarter, as a debilitating wave of covid-19 infections swept the city. [Hong Kong’s](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state) strict covid rules, including lengthy quarantines for visitors, are proving a drag. Meanwhile, that policy’s aim—reopening Hong Kong’s border with the mainland—remains a distant prospect.
 
-<strong>England’s women footballers</strong> became European champions, defeating Germany in a tense final in London. It was England’s first victory in a [major football tournament](https://www.economist.com/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) since the men’s team won the World Cup in 1966. Viewing figures for the final are not yet out, but more than 10m Britons watched the Lionesses’ semi-final victory, a striking figure for a country obsessed with the men’s game.
+<strong>England’s women footballers</strong> became European champions, defeating Germany in a tense final in London. It was England’s first victory in a [major football tournament](https://www.economist.com/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) since the men’s team won the World Cup in 1966. Some 17.4m Britons watched the Lionesses’ final victory, a striking figure for a country obsessed with the men’s game.
 
 <strong>Fact of the day: </strong>10%, the proportion of the Russian population that has experienced torture by law-enforcement agencies. [Read the full story](https://www.economist.com/briefing/2022/07/28/vladimir-putin-is-in-thrall-to-a-distinctive-brand-of-russian-fascism).
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6332160a19261013110610100c2306000c0d0c0e0a10174d000c0e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
