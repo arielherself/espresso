@@ -14,17 +14,17 @@
 
 The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://te.arielherself.xyz/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
 
+Manufacturing activity in the euro zone contracted in July, intensifying fears of a <strong>recession</strong>. S&amp;P Global’s Purchasing Managers’ Index dropped to 49.8 in July compared with 52.1 in June. It was the first fall below 50, which indicates contraction, since May 2020. Staff absences due to covid-19 and supply shortages contributed to the downturn.
+
+<strong>Iran’s </strong>atomic energy chief, Mohammad Eslami, said that the country has the ability to build a<strong> nuclear weapon</strong>, but does not plan to do so. His comments will increase anxiety over Iran’s nuclear activities, which have increased since a deal to limit its nuclear programme, agreed in 2015, began to u
+
 <strong>Nancy Pelosi</strong>, the speaker of America’s House of Representatives, landed in Singapore, the first stop of a tour through Asia. Her delegation also plans to visit Malaysia, South Korea and Japan. There was no mention of whether she would travel to Taiwan as initially suggested. Chinese officials earlier [threatened](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island. If she does, Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997.
+
+Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Retail sales</strong> in <strong>Germany</strong> saw their biggest year-on-year slump since 1994, new data showed on Monday. Sales in June fell 8.8% in real terms compared to the same month last year, larger than the 8% drop predicted by analysts. High inflation, Russia’s invasion of Ukraine and the covid-19 pandemic have all helped to deter shoppers. 
 
 <strong>Myanmar’s</strong> military junta extended a <strong>state of emergency</strong> across the country by six months. The regime has ruled with emergency powers since overthrowing the democratically elected government of Aung San Suu Kyi in February 2021. Last week it reintroduced the death penalty and [executed](https://www.straitstimes.com/asia/se-asia/myanmar-extends-state-of-emergency-for-six-months-until-february) four activists. Generals promise new elections will be held next year, though few think that likely.
-
-Listen to an abridged version of the subscriber-only briefing.
-
-The government of <strong>Kosovo</strong> delayed introducing a new rule that would make drivers in areas with an ethnic Serb majority put <strong>number plates</strong> issued by Kosovo on their cars, rather than ones issued by <strong>Serbia</strong>, after protests broke out. Kosovo unilaterally declared independence from Serbia in 2008 but many Serbs in the north of the country still align themselves with Serbia. 
-
-<strong>Hong Kong’s</strong> finance secretary said the territory’s economy had shrunk during the second quarter, compared with a year ago. GDP also fell substantially during the first quarter, as a debilitating wave of covid-19 infections swept the city. [Hong Kong’s](https://te.arielherself.xyz/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state) strict covid rules, including lengthy quarantines for visitors, are proving a drag. Meanwhile, that policy’s aim—reopening Hong Kong’s border with the mainland—remains a distant prospect.
 
 <strong>England’s women footballers</strong> became European champions, defeating Germany in a tense final in London. It was England’s first victory in a [major football tournament](https://te.arielherself.xyz/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) since the men’s team won the World Cup in 1966. Some 17.4m Britons watched the Lionesses’ final victory, a striking figure for a country obsessed with the men’s game.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="aafbdfc3d0efd9dad8cfd9d9c5eacfc9c5c4c5c7c3d9de84c9c5c7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
