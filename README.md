@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The White House warned <strong>China </strong>against using <strong>Nancy Pelosi’s</strong> [prospective visit to Taiwan](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) as a “pretext to increase aggressive military activity in or around the Taiwan Strait”. News reports suggest Ms Pelosi, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. She would be the highest-ranking American official to visit Taiwan since 1997. Chinese officials [threatened](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island.
+The White House warned <strong>China </strong>against using <strong>Nancy Pelosi’s</strong> [prospective visit to Taiwan](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) as a “pretext to increase aggressive military activity in or around the Taiwan Strait”. News reports suggest Ms Pelosi, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. She would be the highest-ranking American official to visit Taiwan since 1997. “Our actions are not threatening and they break no new ground”, added the White House. Chinese officials had threatened “strong and resolute measures” should she stop on the island.
 
 The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://te.arielherself.xyz/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
