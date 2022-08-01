@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-07-31</p>
+# <p align="center">The world in brief 2022-08-01</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -16,17 +16,17 @@
 
 Volodymyr Zelensky, <strong>Ukraine</strong>’s president, ordered civilians to evacuate <strong>Donetsk</strong>, amid [fierce fighting ](https://www.economist.com/ukraine-crisis)between Russian and Ukrainian forces. Russia already controls large parts of the eastern region. The more people leave Donetsk, said Mr Zelensky, “the fewer people the Russian army will have time to kill”. Meanwhile, Russian shelling in Mykolaiv, a southern port city, killed one of Ukraine’s biggest grain exporters.
 
-At least 69 people have been killed in flooding and mudslides in <strong>Iran</strong>. Scores more are missing. More than 20 provinces have been impacted by the recent flooding, which has damaged tens of thousands of homes. Local media report that several airports and roads have been closed and thousands of people have been evacuated from the worst-hit areas. 
+<strong>Nancy Pelosi</strong>, the Speaker of America’s House of Representatives, departed to Asia on Sunday with no mention of whether she would travel to Taiwan as initially suggested. Chinese officials earlier [threatened](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island. If she does make a stop, Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997.
 
-Factory activity in <strong>China </strong>contracted unexpectedly in July as covid-19 outbreaks hindered manufacturing output. The official manufacturing purchasing managers index fell to 49, down from 50.2 in June and below analysts’ forecasts of 50.3. A reading below 50 indicates contraction. Flare-ups of covid in manufacturing hubs, such as Shenzhen, and weak global demand [dragged down](https://www.economist.com/finance-and-economics/2022/07/28/chinas-official-growth-figures-are-bad-enough-to-be-believed) the index.
+At least 69 people have been killed in flooding and mudslides in <strong>Iran</strong>. Scores more are missing. More than 20 provinces have been impacted by the recent flooding, which has damaged tens of thousands of homes. Local media report that several airports and roads have been closed and thousands of people have been evacuated from the worst-hit areas. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Governor Kathy Hochul declared a state of emergency in New York, in response to the outbreak of <strong>monkeypox</strong> in her state. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/science-and-technology/2022/07/23/monkeypox-is-declared-a-global-health-emergency) of international concern. Brazil and Spain reported the first fatalities from the virus outside Africa. 
+Factory activity in <strong>China </strong>contracted unexpectedly in July as covid-19 outbreaks hindered manufacturing output. The official manufacturing purchasing managers index fell to 49, down from 50.2 in June and below analysts’ forecasts of 50.3. A reading below 50 indicates contraction. Flare-ups of covid in manufacturing hubs, such as Shenzhen, and weak global demand [dragged down](https://www.economist.com/finance-and-economics/2022/07/28/chinas-official-growth-figures-are-bad-enough-to-be-believed) the index.
 
 The McKinney fire in northern <strong>California</strong> exploded in size to roughly 51,000 acres (20,639 hectares), making it the state’s biggest blaze so far this year. As of Sunday afternoon, the conflagration was burning entirely out of control just south of the border with Oregon. The House of Representatives passed a bill on Friday that aims to help the American West cope with seemingly [perennial drought and wildfire](https://www.economist.com/the-economist-reads/2022/07/08/what-to-read-to-understand-the-burning-of-the-american-west).
 
-Debris from a <strong>Chinese</strong> rocket crashed into the Pacific Ocean, according to [China’s space agency](https://www.economist.com/international/2021/07/17/america-china-and-the-race-to-the-moon). Long March 5 had blasted off last week to deliver a laboratory module to a Chinese space station under construction in orbit. NASA, America’s space agency, said China had not shared any “specific trajectory information” which was needed to “ensure the safety of people here on Earth”.
+Governor Kathy Hochul declared a state of emergency in New York, in response to the outbreak of <strong>monkeypox</strong> in her state. Monkeypox—which is similar to smallpox, though less likely to kill—is spreading across the world, including America and Europe. The World Health Organisation recently declared the outbreak a [<strong>public-health emergency</strong>](https://www.economist.com/science-and-technology/2022/07/23/monkeypox-is-declared-a-global-health-emergency) of international concern. Brazil and Spain reported the first fatalities from the virus outside Africa. 
 
 <strong>Word of the week: </strong><em>champing</em>, the practice of [camping in churches](https://www.economist.com/britain/2022/07/28/britains-empty-churches-are-turning-into-campsites).
 
@@ -88,7 +88,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="2f4c5d405c5c58405d4b6f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#7516071a0606021a07113510161a1b1a181c06015b161a18), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="dab9a8b5a9a9adb5a8be9abfb9b5b4b5b7b3a9aef4b9b5b7">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#761504190505011904123613151918191b1f05025815191b), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
