@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The White House warned <strong>China </strong>against using <strong>Nancy Pelosi’s</strong> [prospective visit to Taiwan](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) as a “pretext to increase aggressive military activity in or around the Taiwan Strait”. News reports suggest Ms Pelosi, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. She would be the highest-ranking American official to visit Taiwan since 1997. “Our actions are not threatening and they break no new ground”, added the White House. Chinese officials had threatened “strong and resolute measures” should she stop on the island.
+The White House warned <strong>China </strong>against using <strong>Nancy Pelosi’s</strong> [prospective visit to Taiwan](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) as a “pretext to increase aggressive military activity in or around the Taiwan Strait”. News reports suggest Ms Pelosi, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. She would be the highest-ranking American official to visit Taiwan since 1997. Chinese officials had threatened “strong and resolute measures” should she stop on the island.
 
 Two people died and thousands were forced to evacuate as a wildfire torched 55,000 acres (22,258 hectares) in northern <strong>California</strong>. The McKinney fire, which erupted on Friday, is the state’s largest wildfire this year. Meanwhile the death toll in flood-stricken <strong>Kentucky </strong>reached 35, and is likely to rise further as hundreds of people remain unaccounted for, the governor said.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c190b4a8bb84b2b1b3a4b2b2ae81a4a2aeafaeaca8b2b5efa2aeac">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
