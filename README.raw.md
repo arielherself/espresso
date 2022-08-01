@@ -88,7 +88,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Home to a large Russian-speaking diaspora (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="accfdec3dfdfdbc3dec8ecc9cfc3c2c3c1c5dfd882cfc3c1">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#83e0f1ecf0f0f4ecf1e7c3e6e0ecedeceeeaf0f7ade0ecee), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="4526372a3636322a37210520262a2b2a282c36316b262a28">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#076475687474706875634762646869686a6e74732964686a), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition. The winners of last week’s crossword were: 
 
 <strong>Rajesh Raman</strong>, Singapore
 
