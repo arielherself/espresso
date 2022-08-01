@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://www.economist.com/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
+News reports suggested <strong>Nancy Pelosi</strong>, the speaker of America’s House of Representatives, will arrive in <strong>Taiwan</strong> on Tuesday and meet President Tsai Ing-wen on Wednesday. Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997. Chinese officials earlier [threatened](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island.
 
-News reports suggested <strong>Nancy Pelosi</strong>, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. Ms Pelosi would be the highest-ranking American official to visit Taiwan since 1997. Chinese officials earlier [threatened](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) “strong and resolute measures” should she stop on the island.
+The first ship carrying <strong>grain exports</strong> set off from the Ukrainian port of Odessa on Monday as part of the [deal negotiated between Russia and Ukraine](https://www.economist.com/europe/2022/07/21/odessas-port-may-soon-be-reopened). Earlier Russian missile strikes on Mykolaiv, a port city in the south, killed Oleksiy Vadatursky, one of Ukraine’s richest businessmen and biggest exporters of grain. A Ukrainian spokesman said Russia had targeted Mr Vadatursky deliberately.
 
 Manufacturing activity in the euro zone contracted in July, intensifying fears of a <strong>recession</strong>. S&amp;P Global’s Purchasing Managers’ Index dropped to 49.8 in July compared with 52.1 in June. It was the first fall below 50, which indicates contraction, since May 2020. Staff absences due to covid-19 and supply shortages contributed to the downturn.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="dd8ca8b4a798aeadafb8aeaeb29db8beb2b3b2b0b4aea9f3beb2b0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="603115091a251310120513130f2005030f0e0f0d0913144e030f0d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
