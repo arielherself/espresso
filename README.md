@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>President Joe Biden</strong> confirmed that <strong>Ayman al-Zawahiri</strong>, the leader of <strong>al-Qaeda</strong>, was killed in Afghanistan by an American drone strike over the weekend. Mr Zawahiri was second-in-command during the plotting of the September 11th attacks, and took over after Osama bin Laden was killed in 2011. He returned to Kabul, Afghanistan’s capital, after the Taliban took over last year. Mr Biden said that “justice had been delivered,” and warned that America would not allow Afghanistan to become a “terrorist safe haven” again. 
+<strong>President Joe Biden</strong> confirmed that <strong>Ayman al-Zawahiri</strong>, the leader of <strong>al-Qaeda</strong>, was [killed in Afghanistan by an American drone strike](https://te.arielherself.xyz/asia/2022/08/02/the-death-of-al-qaedas-leader-may-not-halt-a-jihadist-resurgence) over the weekend. Mr Zawahiri was second-in-command during the plotting of the September 11th attacks, and took over after Osama bin Laden was killed in 2011. He returned to Kabul, Afghanistan’s capital, after the Taliban took over last year. Mr Biden said that “justice had been delivered,” and warned that America would not allow Afghanistan to become a “terrorist safe haven” again. 
 
 The White House warned <strong>China </strong>against using <strong>Nancy Pelosi’s</strong> [prospective visit to Taiwan](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) as a “pretext to increase aggressive military activity in or around the Taiwan Strait”. News reports suggest Ms Pelosi, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. She would be the highest-ranking American official to visit Taiwan since 1997. Chinese officials had threatened “strong and resolute measures” should she stop on the island.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3263475b48774142405741415d7257515d5c5d5f5b41461c515d5f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8fdefae6f5cafcfffdeafcfce0cfeaece0e1e0e2e6fcfba1ece0e2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
