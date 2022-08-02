@@ -16,17 +16,17 @@
 
 <strong>President Joe Biden </strong>confirmed that <strong>Ayman al-Zawahiri</strong>, the leader of <strong>al-Qaeda</strong>, was [killed in Afghanistan by an American drone strike](https://www.economist.com/asia/2022/08/02/the-death-of-al-qaedas-leader-may-not-halt-a-jihadist-resurgence) over the weekend. Mr Zawahiri was second-in-command during the plotting of the September 11th attacks and took over after Osama bin Laden was killed in 2011. He returned to Kabul, Afghanistan’s capital, after the Taliban took over last year. Mr Biden said that “justice had been delivered,” and warned that America would not allow Afghanistan to become a “terrorist safe haven” again.
 
+America’s <strong>Justice Department</strong> sued <strong>Idaho</strong>, alleging that the state’s near-total <strong>abortion</strong> ban will criminalise [emergency medical care](https://www.economist.com/united-states/2022/07/19/americas-already-dreadful-maternal-mortality-rate-looks-set-to-rise) protected under federal law. In some circumstances what states ‘may characterise as an “abortion” is necessary…care that hospitals are required to provide’ to prevent severe health risks to the mother, the Biden administration argued in its complaint. Idaho’s law takes effect on August 25th.
+
+The <strong>Yemeni government</strong> and the <strong>Houthi rebels</strong> who control the north of the country agreed to extend their expiring four-month [truce](https://www.economist.com/middle-east-and-africa/2022/04/16/war-ravaged-yemen-gets-a-truce-and-dumps-a-tired-president) until October 2nd. International peace brokers are still working towards an expanded deal, but settled for the two-month extension amid prevailing mistrust between the two warring parties. The conflict has killed hundreds of thousands and displaced millions, but over the past four months Yemen has seen the longest period of calm in seven years.
+
+Listen to an abridged version of the subscriber-only briefing.
+
 <strong>Uber</strong> recorded its first ever positive quarterly cash flow as the ride-hailing service was boosted by an increase in trips following the pandemic. The company announced free cash flow, defined as revenue from operating activities minus capital expenditures, of $382m in the three months to June, well above analysts’ predictions. Despite the good news, Uber still posted a quarterly net loss of $2.6bn, partly due to [poorly performing investments](https://www.economist.com/business/2021/02/20/why-chinas-didi-can-succeed-where-uber-has-struggled).
 
 The <strong>Ukrainian</strong> infrastructure minister said it will be months before <strong>grain exports</strong> from Odessa and nearby ports return to prewar levels, despite Russia lifting its blockade. On Monday [a ship carrying grain left Odessa](https://www.economist.com/europe/2022/08/01/the-first-grain-ship-leaves-odessa-under-a-un-brokered-deal) for the first time since Russia invaded Ukraine in February. But Oleksander Kubrakov said he expected only five vessels to set sail in the next two weeks. 
 
-Listen to an abridged version of the subscriber-only briefing.
-
 <strong>Europe’s</strong> imports of <strong>Russian diesel</strong> rose by more than a fifth in July, showing the challenge the continent faces in cutting energy supplies from Russia. Imports from the country reached nearly <strong>700,000 barrels </strong>a day, an increase of 22% compared to July last year. The EU has pledged to [stop importing](https://www.economist.com/finance-and-economics/2022/05/31/why-the-oil-price-is-spiking-again) Russian diesel by February 2023.
-
-<strong>Manufacturing activity</strong> in America expanded at its slowest pace in two years in July, as more factories reduced output because of lower demand. <strong>Britain’s</strong> manufacturing sector reported the same thing. Factory output has also fallen across Europe and in Asia. Oil prices fell by 4% on Monday amid fears of a [global recession](https://www.economist.com/finance-and-economics/2022/07/24/why-it-is-too-early-to-say-the-world-economy-is-in-recession).
-
-<strong>Pakistan’s</strong> election commission ruled that the party of Imran Khan, the [former prime minister](https://www.economist.com/asia/2022/06/02/imran-khan-is-jeopardising-pakistans-attempts-to-fix-its-economy), had received illegal funds. The ruling could result in Mr Khan and the Pakistan Tehreek-e-Insaf party being banned from participating in politics. A spokesman for Mr Khan denied any wrongdoing and said the funds were received from Pakistanis living overseas.
 
 <strong>Fact of the day: </strong>1,000, the number of nuclear warheads that the Pentagon expects China to have by 2030. [Read the full story](https://www.economist.com/united-states/2022/07/31/will-the-ukraine-war-ring-the-knell-for-nuclear-arms-control).
 
@@ -64,7 +64,7 @@ Thailand’s authoritarian government has often tried to silence critics by lock
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7e2f0b17043b0d0e0c1b0d0d113e1b1d11101113170d0a501d1113">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1976 science fiction film was built on the premise that all people must be killed at the age of 30?
 
