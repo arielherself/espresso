@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Ayman al-Zawahiri</strong>, the leader of <strong>al-Qaeda</strong>, was killed in Afghanistan by an American drone strike over the weekend, US officials said. He was second-in-command during the plotting of the September 11th attacks, and took over after Osama bin Laden was killed in 2011. For years he lived outside Afghanistan but returned to Kabul, the capital, with the Taliban takeover last year. Mr Zawahiri was 71.
+<strong>President Joe Biden</strong> confirmed that <strong>Ayman al-Zawahiri</strong>, the leader of <strong>al-Qaeda</strong>, was killed in Afghanistan by an American drone strike over the weekend. Mr Zawahiri was second-in-command during the plotting of the September 11th attacks, and took over after Osama bin Laden was killed in 2011. He returned to Kabul, Afghanistan’s capital, after the Taliban took over last year. Mr Biden said that “justice had been delivered,” and warned that America would not allow Afghanistan to become a “terrorist safe haven” again. 
 
 The White House warned <strong>China </strong>against using <strong>Nancy Pelosi’s</strong> [prospective visit to Taiwan](https://www.economist.com/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) as a “pretext to increase aggressive military activity in or around the Taiwan Strait”. News reports suggest Ms Pelosi, the speaker of America’s House of Representatives, will arrive in Taiwan on Tuesday and meet President Tsai Ing-wen on Wednesday. She would be the highest-ranking American official to visit Taiwan since 1997. Chinese officials had threatened “strong and resolute measures” should she stop on the island.
 
@@ -66,7 +66,7 @@ In tests, the stickers provided high-resolution live images of volunteers’ ins
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b9e8ccd0c3fccac9cbdccacad6f9dcdad6d7d6d4d0cacd97dad6d4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2776524e5d62545755425454486742444849484a4e54530944484a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor supplied the voice of Bugs Bunny and Daffy Duck?
 
