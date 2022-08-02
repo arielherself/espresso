@@ -34,7 +34,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## Nancy Pelosi visits Taiwan
 
-Nancy Pelosi, the speaker of America’s House of Representatives, is expected to [land in Taiwan](https://te.arielherself.xyz/leaders/2022/08/02/nancy-pelosis-trip-to-taiwan-highlights-an-incoherent-strategy) on Tuesday evening; her plane took off from Malaysia at around 4pm local time. She would be the most senior American politician to visit the self-governing island in 25 years. Chinese fighter jets have been flying close to the informal military boundary in the Taiwan Strait, seemingly as a demonstration of how quickly they could reach Taiwan. The White House has [warned China](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) against turning the visit into “some sort of crisis” or using it as a “pretext” to increase aggressive military activity.
+Nancy Pelosi, the speaker of America’s House of Representatives, [landed in Taiwan](https://te.arielherself.xyz/leaders/2022/08/02/nancy-pelosis-trip-to-taiwan-highlights-americas-incoherent-strategy) on Tuesday evening. She is the most senior American politician to visit the self-governing island in 25 years. Chinese fighter jets have been flying close to the informal military boundary in the Taiwan Strait, seemingly as a demonstration of how quickly they could reach Taiwan. The White House has [warned China](https://te.arielherself.xyz/china/2022/07/21/talk-of-nancy-pelosi-visiting-taiwan-angers-china) against turning the visit into “some sort of crisis” or using it as a “pretext” to increase aggressive military activity.
 
 Xi Jinping, China’s leader, cannot be seen as weak on Taiwan as he seeks a third term in office. He has made reunification with Taiwan, by force if necessary, one of his key aims. China’s government spokesman has warned that Ms Pelosi’s visit will “lead to egregious political impact”. Many worry the brinkmanship could result in some kind of violent confrontation, whether deliberately or by accident.
 
@@ -64,7 +64,7 @@ Thailand’s authoritarian government has often tried to silence critics by lock
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1976 science fiction film was built on the premise that all people must be killed at the age of 30?
 
