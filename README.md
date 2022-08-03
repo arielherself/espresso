@@ -18,7 +18,7 @@ Voters in <strong>Kansas</strong> [chose to keep](https://te.arielherself.xyz/un
 
 <strong>Britain’s</strong> services sector posted its <strong>weakest performance</strong> since February 2021, according to the S&amp;P Global/CIPS UK purchasing managers’ index for services. The closely watched index dropped to 52.6 in July, from 54.3 in June, suggesting an easing of growth. This reading was below initial estimates of 53.3. The larger than expected fall comes as the effects of inflation hit consumers and businesses. 
 
-<strong>Opec </strong>and its allies agreed a minuscule increase in oil production of <strong>100,000 barrels a day</strong>, just 0.1% of global demand. The cartel’s decision will disappoint America’s president, Joe Biden, and France’s president, Emmanuel Macron. Both leaders have in recent weeks [met with the crown prince](https://te.arielherself.xyz/leaders/2022/07/28/how-to-deal-with-despots) of <strong>Saudi Arabia</strong>, Muhammad bin Salman, to persuade the [giant petrostate](https://te.arielherself.xyz/business/why-saudi-aramco-could-be-eclipsed-by-its-qatari-nemesis/21808310) to pump more supplies to lower global energy prices.
+<strong>Opec </strong>and its allies agreed a minuscule increase in oil production of <strong>100,000 barrels a day</strong>, just 0.1% of global demand. The cartel’s decision will disappoint America’s president, Joe Biden, and France’s president, Emmanuel Macron. Both leaders have in recent weeks [met with the crown prince](https://te.arielherself.xyz/leaders/2022/07/28/how-to-deal-with-despots) of <strong>Saudi Arabia</strong>, Muhammad bin Salman, to persuade the [giant petrostate](https://te.arielherself.xyz/business/why-saudi-aramco-could-be-eclipsed-by-its-qatari-nemesis/21808310) to pump more oil to lower global energy prices.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The cash will boost the region’s filmmakers and production companies. It shoul
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3f6e4a56457a4c4f4d5a4c4c507f5a5c50515052564c4b115c5052">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0b5a7e62714e787b796e7878644b6e686465646662787f25686466">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which member of the Grimaldi family did Grace Kelly marry?
 
