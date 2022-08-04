@@ -12,13 +12,13 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
+<strong>Brittney Griner</strong>, an American basketball player, was sentenced to nine years in prison by a <strong>Russian</strong> court for attempting to smuggle illegal drugs into the country. President Joe Biden called the ruling “unacceptable”. Ms Griner has been detained in Moscow since February 17th after customs officials discovered vape cartridges with a small amount of hashish oil in her luggage. America has reportedly offered to free Viktor Bout, a Russian arms dealer imprisoned in Illinois, in exchange for Ms Griner and Paul Whelan, a former Marine who was detained in Moscow in 2018.
+
 <strong>China</strong> began its biggest-ever live fire military drills in the airspace and waters surrounding <strong>Taiwan</strong>, a day after the [visit by Nancy Pelosi](https://www.economist.com/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning), the speaker of America’s House of Representatives. Taiwan said the drills violate UN rules and called it “irresponsible, illegitimate behaviour”. <strong>Japan</strong> said that five Chinese missiles landed in its exclusive economic zone, which stretches 370km outside its territorial waters. 
 
 New applications for <strong>unemployment aid</strong> in America rose slightly last week, reaching their highest in over six months. <strong>America’s</strong> labour department announced that there were <strong>260,000</strong> new jobless claims on a seasonally adjusted basis in the week to July 30th. Companies such as Microsoft, Robinhood and Walmart recently announced job cuts. 
 
 The <strong>Bank of England</strong> [raised interest rates](https://www.economist.com/britain/2022/08/04/how-will-the-bank-of-englands-rate-rises-hit-borrowers) by 0.5 percentage points to 1.75% in response to rising inflation, echoing the [aggressive action](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) taken by the European Central Bank and America&#x27;s Federal Reserve. The bank said it now expected inflation to pass 13% in 2022, well above its forecast in May, and to remain at “very elevated levels” in 2023.
-
-<strong>Brittney Griner</strong>, an American basketball player, was found guilty in a <strong>Russian</strong> court of attempting to smuggle illegal drugs. Ms Griner has been detained in Moscow since February 17th after customs officials discovered vape cartridges with a small amount of hashish oil in her luggage. America says that her detention is politically motivated. Prosecutors are seeking a nine-and-a-half year sentence for Ms Griner.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d485a1bdae91a7a4a6b1a7a7bb94b1b7bbbabbb9bda7a0fab7bbb9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ccde9f5e6d9efeceef9efeff3dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
