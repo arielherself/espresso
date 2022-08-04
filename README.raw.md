@@ -22,7 +22,7 @@ America’s <strong>Department of Justice</strong> charged four current and form
 
 Listen to an abridged version of the subscriber-only briefing.
 
-New applications for <strong>unemployment aid</strong> in America rose slightly last week, reaching their highest in over six months. <strong>America’s</strong> labour department announced that there were <strong>260,000</strong> new jobless claims on a seasonally adjusted basis in the week to July 30th. Companies such as Microsoft, Robinhood and Walmart recently announced job cuts. 
+A jury in <strong>Texas </strong>ordered <strong>Alex Jones</strong>, a right-wing conspiracy theorist, to pay $4m to the parents of a six-year-old child killed in the Sandy Hook school massacre in 2012. The four-year-long legal [dispute](https://www.economist.com/culture/2022/03/19/sandy-hook-was-a-turning-point-in-americas-battle-over-truth) began after Mr Jones claimed that the mass shooting, in which 26 people died, was staged. Next the jury will decide whether to make Mr Jones pay separate punitive damages. He then faces two more defamation trials.
 
 <strong>Glencore</strong>, a minerals-and-metals giant, announced profits for the first half of 2022 more than doubling to a record $18.9bn. The miner’s bid to [stick with its coal business](https://www.economist.com/business/2022/01/01/glencores-message-to-the-planet)—even as others have retreated from theirs in recent years—has paid off, as the fossil fuel’s price has surged since the war in Ukraine.
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a6f7d3cfdce3d5d6d4c3d5d5c9e6c3c5c9c8c9cbcfd5d288c5c9cb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4514302c3f003635372036362a0520262a2b2a282c36316b262a28">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
