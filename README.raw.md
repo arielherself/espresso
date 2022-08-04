@@ -56,7 +56,7 @@ Then there are the policies. With [<em>Roe v Wade </em>overturned](https://www.e
 
 On Thursday the Bank of England [raised interest rates by 0.5 percentage points](https://www.economist.com/britain/2022/08/04/how-will-the-bank-of-englands-rate-rises-hit-borrowers), the biggest single increase in 27 years. Only one of the monetary policy committee’s nine members voted for a smaller increase. Although Britain’s annual inflation rate of 9.4% in June was mostly the result of external shocks (principally high global energy prices), the aggressive rate rise is supposed to show that the bank is serious about quashing home-grown inflationary pressure, particularly stemming from a[ tight labour market](https://www.economist.com/britain/2022/06/22/britains-government-is-restraining-public-sector-pay-to-curb-inflation).
 
-But the action also comes despite a grim outlook for the economy. Energy bills could rise by an eye-popping 75% this autumn, draining wallets and dampening activity. [The bank’s agents](https://www.economist.com/britain/2022/07/28/the-bank-of-england-must-weather-high-inflation-and-meddling-politicians) have already seen signs of softening demand as incomes are squeezed, and there are early signs of the housing market slowing. Policymakers expect the economy to sink into recession in the fourth quarter of the year, and for consumption to drop.
+But the action also comes amid a [grim outlook for the economy](https://www.economist.com/britain/2022/07/28/the-bank-of-england-must-weather-high-inflation-and-meddling-politicians). Energy bills could rise by an eye-popping 75% this autumn, draining wallets and dampening activity. The bank’s agents have already seen signs of softening demand as incomes are squeezed, and there are early signals of the housing market slowing. Policymakers expect the economy to sink into recession in the fourth quarter of the year, and for consumption to drop.
 
 ## A homecoming for the Elgin marbles?
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6233170b18271112100711110d2207010d0c0d0f0b11164c010d0f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e7b6928e9da294979582949488a782848889888a8e9493c984888a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
