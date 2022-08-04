@@ -14,7 +14,7 @@
 
 <strong>China</strong> began its biggest-ever live fire military drills in the airspace and waters surrounding <strong>Taiwan</strong>, a day after the [visit by Nancy Pelosi](https://www.economist.com/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning), the speaker of America’s House of Representatives. Taiwan said the drills violate UN rules and called it “irresponsible, illegitimate behaviour”. Earlier several Taiwanese government websites were attacked by hackers. China claims the self-governing island as its own.
 
-America’s Senate and Italy’s parliament approved the accession of <strong>Finland</strong> and <strong>Sweden</strong> to NATO. Both countries applied for membership to the alliance following Russia’s invasion of Ukraine. Full membership requires approval from all 30 of NATO’s members. Seven, [including sceptical Turkey](https://www.economist.com/europe/2022/06/16/is-turkey-more-trouble-to-nato-than-it-is-worth), have yet to ratify the move.
+New applications for <strong>unemployment aid</strong> in America rose slightly last week, reaching their highest in over six months. <strong>America’s</strong> labour department announced that there were <strong>260,000</strong> new jobless claims on a seasonally adjusted basis in the week to July 30th. Companies such as Microsoft, Robinhood and Walmart recently announced job cuts. 
 
 The <strong>Bank of England</strong> [raised interest rates](https://www.economist.com/britain/2022/08/04/how-will-the-bank-of-englands-rate-rises-hit-borrowers) by 0.5 percentage points to 1.75% in response to rising inflation, echoing the [aggressive action](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) taken by the European Central Bank and America&#x27;s Federal Reserve. The bank said it now expected inflation to pass 13% in 2022, well above its forecast in May, and to remain at “very elevated levels” in 2023.
 
@@ -22,11 +22,11 @@ The <strong>Bank of England</strong> [raised interest rates](https://www.economi
 
 Listen to an abridged version of the subscriber-only briefing.
 
+America’s Senate and Italy’s parliament approved the accession of <strong>Finland</strong> and <strong>Sweden</strong> to NATO. Both countries applied for membership to the alliance following Russia’s invasion of Ukraine. Full membership requires approval from all 30 of NATO’s members. Seven, [including sceptical Turkey](https://www.economist.com/europe/2022/06/16/is-turkey-more-trouble-to-nato-than-it-is-worth), have yet to ratify the move.
+
 <strong>Glencore</strong>, a minerals-and-metals giant, announced profits for the first half of 2022 more than doubling to a record $18.9bn. The miner has cashed in on its bid to [stick with its coal business](https://www.economist.com/business/2022/01/01/glencores-message-to-the-planet)—which others have retreated from in recent years—as the fossil fuel’s price has surged following the war in Ukraine.
 
 <strong>Ukraine</strong> warned that Russia had started a <strong>new offensive</strong> aimed at the central Ukrainian city of Kryvyi Rih, which lies about 50km from the southern frontline and is the hometown of the country’s president, Volodymyr Zelensky. Earlier Mr Zelensky urged <strong>Xi Jinping</strong>, his Chinese counterpart, to hold direct talks with him. China has [refused to condemn](https://www.economist.com/leaders/2022/03/19/the-war-in-ukraine-will-determine-how-china-sees-the-world) Russia’s invasion of Ukraine and ignored requests to engage with the Ukrainian government’s top brass.
-
-Parts of the<strong> Great Barrier Reef</strong> in Australia have the highest level of <strong>coral cover</strong> in 36 years, according to a long-term monitoring programme. In about two-thirds of the reef, coral cover exceeded more than 30%, the level considered healthy. But scientists warned that the reef remains vulnerable to both man-made threats, such as bleaching, and natural ones, like infestations of crown-of-thorns starfish.
 
 <strong>Fact of the day: </strong>62,000, the number of Cubans estimated to have died as a result of the covid-19 pandemic, seven times more than the official toll. [Read the full story](https://www.economist.com/graphic-detail/2022/08/03/covid-19-has-damaged-the-reputation-of-cuban-health-care).
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d081a5b9aa95a3a0a2b5a3a3bf90b5b3bfbebfbdb9a3a4feb3bfbd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="fcad899586b98f8c8e998f8f93bc999f93929391958f88d29f9391">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
