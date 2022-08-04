@@ -16,7 +16,7 @@
 
 America’s Senate and Italy’s parliament approved the accession of <strong>Finland</strong> and <strong>Sweden</strong> to NATO. Both countries applied for membership to the alliance following Russia’s invasion of Ukraine. Full membership requires approval from all 30 of NATO’s members. Seven, [including sceptical Turkey](https://www.economist.com/europe/2022/06/16/is-turkey-more-trouble-to-nato-than-it-is-worth), have yet to ratify the move.
 
-The <strong>Bank of England</strong> (BoE) [raised interest rates](https://www.economist.com/britain/2022/08/04/how-will-the-bank-of-englands-rate-rises-hit-borrowers) by 0.5 percentage points to 1.75% in response to rising inflation, echoing the aggressive action taken by the EU and America’s central banks. The BoE said it now expected inflation to pass 13% in 2022, well above its forecast in May, and to remain at “very elevated levels” in 2023.
+The <strong>Bank of England</strong> [raised interest rates](https://www.economist.com/britain/2022/08/04/how-will-the-bank-of-englands-rate-rises-hit-borrowers) by 0.5 percentage points to 1.75% in response to rising inflation, echoing the [aggressive action](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) taken by the European Central Bank and America&#x27;s Federal Reserve. The bank said it now expected inflation to pass 13% in 2022, well above its forecast in May, and to remain at “very elevated levels” in 2023.
 
 <strong>Glencore</strong>, a minerals-and-metals giant, announced profits for the first half of 2022 more than doubling to a record $18.9bn. The miner has cashed in on its bid to [stick with its coal business](https://www.economist.com/business/2022/01/01/glencores-message-to-the-planet)—which others have retreated from in recent years—as the fossil fuel’s price has surged following the war in Ukraine.
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9fceeaf6e5daecefedfaececf0dffafcf0f1f0f2f6ecebb1fcf0f2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6233170b18271112100711110d2207010d0c0d0f0b11164c010d0f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
