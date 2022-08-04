@@ -22,7 +22,7 @@ The <strong>Bank of England</strong> [raised interest rates](https://www.economi
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Alibaba</strong>, a Chinese e-commerce giant, reported flat quarterly growth for the first time, partly due to China’s strict covid-19 lockdowns. Earlier it emerged that <strong>SoftBank</strong>, a Japanese investment group, raised as much as $22bn this year by selling a third of its shares in Alibaba on deferred contracts. SoftBank has been scrambling for cash recently as [tech stocks have slumped](https://www.economist.com/business/2022/05/16/after-a-bruising-year-softbank-braces-for-more-pain).
+America’s <strong>Department of Justice</strong> charged four current and former police officers in Louisville, Kentucky, involved in the raid that led to the death of <strong>Breonna Taylor</strong>, a black woman shot at home two years ago. Two of the officers were indicted for allegedly falsifying the affidavit used to obtain the search warrant of her home. Her death—along with that of [George Floyd](https://www.economist.com/obituary/2020/06/04/george-floyd-was-killed-on-may-25th) in Minneapolis—ignited racial-justice protests nationwide.
 
 <strong>Glencore</strong>, a minerals-and-metals giant, announced profits for the first half of 2022 more than doubling to a record $18.9bn. The miner has cashed in on its bid to [stick with its coal business](https://www.economist.com/business/2022/01/01/glencores-message-to-the-planet)—which others have retreated from in recent years—as the fossil fuel’s price has surged following the war in Ukraine.
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="69381c00132c1a191b0c1a1a06290c0a06070604001a1d470a0604">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8cddf9e5f6c9fffcfee9ffffe3cce9efe3e2e3e1e5fff8a2efe3e1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
