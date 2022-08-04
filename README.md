@@ -26,7 +26,7 @@ America’s <strong>Department of Justice</strong> charged four current and form
 
 <strong>Glencore</strong>, a minerals-and-metals giant, announced profits for the first half of 2022 more than doubling to a record $18.9bn. The miner has cashed in on its bid to [stick with its coal business](https://te.arielherself.xyz/business/2022/01/01/glencores-message-to-the-planet)—which others have retreated from in recent years—as the fossil fuel’s price has surged following the war in Ukraine.
 
-<strong>Ukraine</strong> warned that Russia had started a <strong>new offensive</strong> aimed at the central Ukrainian city of Kryvyi Rih, which lies about 50km from the southern frontline and is the hometown of the country’s president, Volodymyr Zelensky. Earlier Mr Zelensky urged <strong>Xi Jinping</strong>, his Chinese counterpart, to hold direct talks with him. China has [refused to condemn](https://te.arielherself.xyz/leaders/2022/03/19/the-war-in-ukraine-will-determine-how-china-sees-the-world) Russia’s invasion of Ukraine and ignored requests to engage with the Ukrainian government’s top brass.
+<strong>Visa</strong> and <strong>Mastercard</strong> blocked their credit cards from being used to buy ads on Pornhub and other adult sites owned by <strong>MindGeek</strong>. Earlier a federal judge in California refused to dismiss Visa from a lawsuit alleging the payments firm conspired to help MindGeek profit from images of child sex abuse. In 2020 the credit-card companies [cut off subscription payments](https://te.arielherself.xyz/finance-and-economics/credit-card-firms-are-becoming-reluctant-regulators-of-the-web/21805450) to Pornhub; this action applies to advertising.
 
 <strong>Fact of the day: </strong>62,000, the number of Cubans estimated to have died as a result of the covid-19 pandemic, seven times more than the official toll. [Read the full story](https://te.arielherself.xyz/graphic-detail/2022/08/03/covid-19-has-damaged-the-reputation-of-cuban-health-care).
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cb9abea2b18eb8bbb9aeb8b8a48baea8a4a5a4a6a2b8bfe5a8a4a6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="81d0f4e8fbc4f2f1f3e4f2f2eec1e4e2eeefeeece8f2f5afe2eeec">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
