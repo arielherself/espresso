@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 New applications for <strong>unemployment aid</strong> in America rose slightly last week, reaching their highest in over six months. <strong>America’s</strong> labour department announced that there were <strong>260,000</strong> new jobless claims on a seasonally adjusted basis in the week to July 30th. Companies such as Microsoft, Robinhood and Walmart recently announced job cuts. 
 
-<strong>Glencore</strong>, a minerals-and-metals giant, announced profits for the first half of 2022 more than doubling to a record $18.9bn. The miner has cashed in on its bid to [stick with its coal business](https://te.arielherself.xyz/business/2022/01/01/glencores-message-to-the-planet)—which others have retreated from in recent years—as the fossil fuel’s price has surged following the war in Ukraine.
+<strong>Glencore</strong>, a minerals-and-metals giant, announced profits for the first half of 2022 more than doubling to a record $18.9bn. The miner’s bid to [stick with its coal business](https://te.arielherself.xyz/business/2022/01/01/glencores-message-to-the-planet)—even as others have retreated from theirs in recent years—has paid off, as the fossil fuel’s price has surged since the war in Ukraine.
 
 <strong>Visa</strong> and <strong>Mastercard</strong> blocked their credit cards from being used to buy ads on Pornhub and other adult sites owned by <strong>MindGeek</strong>. Earlier a federal judge in California refused to dismiss Visa from a lawsuit alleging the payments firm conspired to help MindGeek profit from images of child sex abuse. In 2020 the credit-card companies [cut off subscription payments](https://te.arielherself.xyz/finance-and-economics/credit-card-firms-are-becoming-reluctant-regulators-of-the-web/21805450) to Pornhub; this action applies to advertising.
 
@@ -66,7 +66,7 @@ Greece has not yet responded to the suggestion, perhaps because it could imply a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1c4d697566596f6c6e796f6f735c797f73727371756f68327f7371">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3e6f4b57447b4d4e4c5b4d4d517e5b5d51505153574d4a105d5153">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Japanese camera film company was established in 1934?
 
