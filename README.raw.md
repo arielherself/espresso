@@ -32,17 +32,17 @@ The Democrats in America’s Senate cleared a final obstacle on their way to pas
 
 ----------
 
+## America’s labour market steams ahead
+
+It is still a very good time to be looking for a job in America. Just when it seemed that the labour market might be softening, the economy added 528,000 jobs in July, the most since February. America has now [fully recovered](https://www.economist.com/graphic-detail/2021/07/07/labour-markets-in-the-rich-world-are-recovering-from-covid-19) all the jobs lost during the pandemic. The unemployment rate edged down to 3.5%, equaling the fifty-year low hit just before covid.
+
+The good news for job-seekers is less welcome for investors. With the labour market so tight, private-sector wages are rising at an annual pace of more than 5%. That is far too fast for the Federal Reserve to succeed in bringing inflation back to its target of roughly 2%. If the strong jobs growth continues this month, the Fed may tee up another [super-sized interest rate increase](https://www.economist.com/leaders/the-federal-reserve-is-causing-pain-in-financial-markets/21809132) at its next meeting, scheduled for September. All the monetary tightening will eventually cool the job market. Just not yet.
+
 ## The sultan and the tsar
 
-Recep Tayyip Erdogan and Vladimir Putin meet in Sochi on Friday for their second summit in 17 days. The war in Ukraine has brought Turkey and Russia’s leaders closer, but also shifted the balance of power in their relationship. Mr Putin is more isolated than ever and suffering humiliations on the battlefield. His Turkish counterpart, until recently a pariah in Western capitals, has made himself indispensable by [brokering a deal](https://www.economist.com/europe/2022/08/01/the-first-grain-ship-leaves-odessa-under-a-un-brokered-deal) to release Ukrainian and Russian grain exports across the Black Sea.
+Recep Tayyip Erdogan and Vladimir Putin met in Sochi this afternoon for their second summit in 17 days to talk about energy, economics and war. But top of the agenda for Turkey was Syria, where Mr Erdogan is planning a new ground war against Kurdish militias. Mr Putin opposes the plan. But his international isolation and military humiliation in Ukraine have him on the backfoot. Meanwhile his Turkish counterpart has emerged as the successful [broker of a deal](https://www.economist.com/europe/2022/08/01/the-first-grain-ship-leaves-odessa-under-a-un-brokered-deal) to release Ukrainian and Russian grain exports across the Black Sea.
 
 But Turkey also needs Russia for its money. Mr Erdogan’s government has not joined in Western sanctions, making his country a destination for oligarchs’ superyachts and potentially also for their investments. Last week the Kremlin said it is buying $6.1bn in Turkish treasury bonds as part of a loan deal for the Russian-built Akkuyu nuclear power plant, currently under construction on the Mediterranean coast. The cash will provide a much needed boost to Turkey’s [shrinking foreign currency reserves](https://www.economist.com/briefing/2022/07/21/how-has-turkeys-economy-kept-growing-despite-raging-inflation).
-
-## America’s job market comes off the boil
-
-Having run hot for 18 months, the labour market in America may at last be softening. Data due on Friday are expected to show that the economy added about 250,000 jobs in July, the fewest since the end of 2020. That would be a solid result: a slowdown in [job creation](https://www.economist.com/graphic-detail/2021/07/07/labour-markets-in-the-rich-world-are-recovering-from-covid-19) ought to lessen inflationary pressure while avoiding the steep employment losses commonly seen during recessions.
-
-The question is how long this Goldilocks scenario can last. Even with the slight cooling in the labour market, private-sector wages are rising at an annual pace of more than 5%. That is far too fast for the Federal Reserve to succeed in bringing inflation back to its target of roughly 2%. Moreover, the economy has yet to feel the full brunt of the central bank’s recent [interest-rate increases](https://www.economist.com/leaders/the-federal-reserve-is-causing-pain-in-financial-markets/21809132). The still robust job figures in July may thus be a way-station on a path towards more lay-offs.
 
 ## The Edinburgh Festival struggles to stay festive
 
