@@ -18,15 +18,15 @@ Three more ships carrying about 58,000 tonnes of <strong>grain</strong> left <st
 
 Sergei Lavrov, <strong>Russia’s</strong> foreign minister, said that his country was open to a prisoner swap with America in the case of <strong>Brittney Griner</strong>. The [basketball star](http://espresso.economist.com/bc06df8f21ab805ccb2a7d9f396ed918), imprisoned in Russia for the possession of drugs, is likely to be exchanged for a Russian arms dealer, Viktor Bout. America also wants the return of Paul Whelan, a marine jailed for espionage.
 
-<strong>Indonesia’s</strong> GDP growth in the second quarter beat expectations, rising 5.44% from a year earlier. [South-East Asia’s largest economy](https://www.economist.com/asia/2022/07/21/soaring-inflation-is-making-south-east-asians-hungrier-and-poorer) was bolstered by its exports, propped up by high global commodity prices, as well as resurgent consumption.
+<strong>Israel</strong> attacked targets in the <strong>Gaza Strip</strong> that it said were linked to Palestinian Islamic Jihad, a militant group. Gaza’s health ministry reported that at least eight people had been killed, including a PIJ commander, and a young girl. The Israeli strikes followed rising tension after Israel arrested a PIJ member in the occupied West Bank.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Indonesia’s</strong> GDP growth in the second quarter beat expectations, rising 5.44% from a year earlier. [South-East Asia’s largest economy](https://www.economist.com/asia/2022/07/21/soaring-inflation-is-making-south-east-asians-hungrier-and-poorer) was bolstered by its exports, propped up by high global commodity prices, as well as resurgent consumption.
 
 The Democrats in America’s Senate cleared a final obstacle on their way to passing an omnibus bill concerning <strong>climate-change, health-care and tax policy</strong>, by pulling their recalcitrant partisan, <strong>Kyrsten Sinema </strong>of Arizona, on side. The other holdout, Joe Manchin of West Virginia, [rejoined the fold](https://www.economist.com/united-states/2022/07/28/democratic-hopes-for-a-big-spending-bill-are-revived) last week. [Ms Sinema](https://www.economist.com/united-states/2021/06/12/kyrsten-sinemas-technicolour-moderation) won a concession to protect financiers from more swingeing taxation, and further relief for her drought-stricken state.
 
 <strong>Viktor Orban</strong>, Hungary’s prime minister, gave the opening speech at <strong>CPAC</strong>, a gathering of mostly American right-wingers, in Texas. Mr Orban’s model of “illiberal democracy”, which includes building a border fence, railing against multiculturalism and banning gender studies, has made him a [darling of the American right](https://www.economist.com/the-economist-explains/2022/08/04/why-is-the-american-right-obsessed-with-viktor-orban)—and a bogeyman to liberals on both sides of the pond.
-
-<strong>Warner Brothers Discovery </strong>said that it would ditch its “streaming-first” model—the first big withdrawal from the [streaming wars](https://www.economist.com/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) being fought between companies such as Netflix, Disney and Apple. The firm—formed in May upon the merger of WarnerMedia and Discovery—will ponder free ad-based channels and pursue more licensing of its films. It announced the about-turn as it marked a $3.4bn net loss for the latest quarter.
 
 <strong>Fact of the day: </strong>$1trn, the amount that the war in Ukraine has taken off forecasts for global GDP in 2022. [Read the full story](https://www.economist.com/graphic-detail/2022/08/04/by-how-much-will-the-war-in-ukraine-reduce-global-growth).
 
