@@ -36,7 +36,7 @@ California’s Department of Motor Vehicles accused <strong>Tesla </strong>of pr
 
 On Friday Israel launched a series of strikes on Palestinian militants in the Gaza Strip. It is the first major spate of violence in the beleaguered coastal enclave since an 11-day conflict in May 2021. At least 24 people in Gaza have been killed. In retaliation, the militants have fired hundreds of mortar shells towards Israel, according to the Israeli military. Many have been intercepted by Israel’s Iron Dome missile-defence system; there have been no Israeli casualties so far.
 
-Israel claims it struck preemptively. It is targeting Palestinian Islamic Jihad, a small outfit backed by Iran. Hamas, a much bigger Islamic movement which rules Gaza, has stayed out of the fighting thus far. That is reason to hope that the flurry of attacks may cease within days. But that may not come to pass. Gaza has been under siege by Israel and Egypt since 2007, when Hamas took control in a coup. Its history shows that escalations can be rapid, and ceasefires tenuous.
+Israel claims it struck pre-emptively. It is targeting Palestinian Islamic Jihad, a small outfit backed by Iran. Hamas, a much bigger Islamic movement which rules Gaza, has stayed out of the fighting thus far. That is reason to hope that the flurry of attacks may cease within days. But that may not come to pass. Gaza has been under siege by Israel and Egypt since 2007, when Hamas took control in a coup. Its history shows that escalations can be rapid, and ceasefires tenuous.
 
 ## Anglicanism reveals its deep divisions
 
