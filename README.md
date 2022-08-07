@@ -22,7 +22,7 @@ As military drills around <strong>Taiwan</strong> entered their last scheduled d
 
 Listen to an abridged version of the subscriber-only briefing.
 
-A foreign-flagged ship arrived in <strong>Ukraine</strong> to be loaded up with <strong>grain</strong> for the first time since Russia invaded. Its presence in Odessa is a result of the [UN-brokered deal](https://te.arielherself.xyz/europe/2022/08/01/the-first-grain-ship-leaves-odessa-under-a-un-brokered-deal) to resume grain exports. Officials hope to receive at least three and five ships a day within two weeks, and to export 3m tonnes of grain a month from Ukraine’s Black Sea ports.
+Four cargo ships loaded with <strong>grain</strong> left <strong>Ukrainian ports</strong> following a [UN-brokered deal](https://te.arielherself.xyz/europe/2022/08/01/the-first-grain-ship-leaves-odessa-under-a-un-brokered-deal) to resume exports. A foreign-flagged ship also arrived in Odessa to load up, the first that has come since the war began. Officials hope to receive at least three to five ships a day within two weeks, and to export 3m tonnes of grain a month from Ukraine’s Black Sea ports.
 
 <strong>Russia</strong> and <strong>Ukraine</strong> blamed each other for shelling at the Zaporizhzhia <strong>nuclear</strong> <strong>plant</strong> in southern Ukraine. The UN’s nuclear watchdog said artillery exchange near the facility amounted to “playing with fire”, and called for the “utmost restraint”. Shelling on Friday prompted Ukrainian technicians at the power station to disconnect one of its six reactors. Europe’s largest nuclear plant, [Zaporizhzhia](https://te.arielherself.xyz/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) was captured by Russian forces in March.
 
