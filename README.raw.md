@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Ongoing Israeli air strikes on the <strong>Gaza Strip </strong>have killed 32 people so far, according to the Palestinian Health ministry. At least two senior members of Palestinian Islamic Jihad, a militant group are among the dead. Retaliatory rockets fired at <strong>Israel </strong>from the Gaza Strip activated air sirens in Jerusalem, though there have been no Israeli casualties so far. On Monday the UN Security Council will hold an emergency meeting to discuss the conflict.
+Ongoing Israeli air strikes on the <strong>Gaza Strip </strong>have killed 31 people so far, according to the Palestinian Health ministry. At least two senior members of Palestinian Islamic Jihad, a militant group are among the dead. Retaliatory rockets fired at <strong>Israel </strong>from the Gaza Strip activated air sirens in Jerusalem, though there have been no Israeli casualties so far. On Monday the UN Security Council will hold an emergency meeting to discuss the conflict.
 
 As military drills around <strong>Taiwan</strong> entered their last scheduled day on Sunday, China announced further exercises in the Bohai Sea and Yellow Sea. During its most provocative wargames in decades China [fired missiles](https://www.economist.com/china/2022/08/04/china-sends-missiles-flying-over-taiwan) over Taipei, Taiwan’s capital, and sent warships across the median line. The island’s government also accused China of simulating an invasion. On August 5th China halted talks with America on several topics following the [visit](https://www.economist.com/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning) of Nancy Pelosi, the speaker of America’s House of Representatives, to Taiwan earlier in the week.
 
@@ -34,7 +34,7 @@ Four cargo ships loaded with <strong>grain</strong> left <strong>Ukrainian ports
 
 ## A resurgence of violence in Gaza
 
-On Friday Israel launched a series of strikes on Palestinian militants in the Gaza Strip. It is the first major spate of violence in the beleaguered coastal enclave since an 11-day conflict in May 2021. At least 29 people in Gaza have been killed. In retaliation, the militants have fired hundreds of mortar shells towards Israel, according to the Israeli armed forces. Many have been intercepted by Israel’s Iron Dome missile-defence system; there have been no Israeli casualties so far.
+On Friday Israel launched a series of strikes on Palestinian militants in the Gaza Strip. It is the first major spate of violence in the beleaguered coastal enclave since an 11-day conflict in May 2021. At least 31 people in Gaza have been killed. In retaliation, the militants have fired hundreds of mortar shells towards Israel, according to the Israeli armed forces. Many have been intercepted by Israel’s Iron Dome missile-defence system; there have been no Israeli casualties so far.
 
 Israel claims it struck pre-emptively. It is targeting Palestinian Islamic Jihad, a small outfit backed by Iran. Hamas, a much bigger Islamic movement which rules Gaza, has stayed out of the fighting thus far. That is reason to hope that the flurry of attacks may cease within days. But that may not come to pass. Gaza has been under siege by Israel and Egypt since 2007, when Hamas took control in a coup. Its history shows that escalations can be rapid, and ceasefires tenuous.
 
