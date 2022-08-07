@@ -34,9 +34,11 @@ The <strong>International Chess Federation</strong> re-elected as its president 
 
 ## A resurgence of violence in Gaza
 
-On Friday Israel launched a series of strikes on Palestinian militants in the Gaza Strip. It is the first major spate of violence in the beleaguered coastal enclave since an 11-day conflict in May 2021. At least 36 people in Gaza have been killed. In retaliation, the militants have fired hundreds of mortar shells towards Israel, according to the Israeli armed forces. Many have been intercepted by Israel’s Iron Dome missile-defence system; there have been no Israeli casualties so far.
+On Sunday Israel and Palestinian militants in the Gaza Strip agreed to a ceasefire, capping a [bloody weekend](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) in which 43 Palestinians died in Israeli air strikes. It was the first major spate of violence in the beleaguered coastal enclave since an 11-day conflict in May 2021. Israel was targeting Palestinian Islamic Jihad (PIJ), a small militant outfit backed by Iran. Among the dead were two senior members of the group.
 
-Israel claims it struck pre-emptively. It is targeting Palestinian Islamic Jihad, a small outfit backed by Iran. Hamas, a much bigger Islamic movement which rules Gaza, has stayed out of the fighting thus far. That is reason to hope that the flurry of attacks may cease within days. But that may not come to pass. Gaza has been under siege by Israel and Egypt since 2007, when Hamas took control in a coup. Its history shows that escalations can be rapid, and ceasefires tenuous.
+In retaliation, PIJ fired hundreds of mortar shells towards Israel, according to the Israeli armed forces. Many were intercepted by Israel’s Iron Dome missile-defence system; there were no Israeli casualties.
+
+Hamas, a much bigger Islamic movement which rules Gaza, stayed out of the fighting. Hamas has been trying in recent years to improve its ties with Egypt, the Saudis and other Arab regimes, agreeing in principle to a long-term truce with Israel. A short Israeli offensive that leaves PIJ weakened without causing too much damage in Gaza may have worked in Hamas’s favour.
 
 ## Anglicanism reveals its deep divisions
 
