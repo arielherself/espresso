@@ -18,7 +18,7 @@ A [ceasefire](https://www.economist.com/middle-east-and-africa/2022/08/07/the-at
 
 <strong>Gustavo Petro</strong> was sworn in as the [first left-wing president](https://www.economist.com/the-economist-explains/2022/08/06/who-is-gustavo-petro) of <strong>Colombia</strong>. A former Marxist guerrilla and anti-corruption crusader, he pledged to prohibit new licences for oil and gas exploration. As a candidate he also promised to provide all unemployed Colombians with a state job if they cannot find work in the private sector.
 
-<strong>Amnesty International</strong>, a human-rights charity, apologised for the “distress and anger” caused by a report it published criticising the conduct of Ukraine’s military. The report, published on Thursday, concluded that Ukrainian troops in residential areas had put civilians at risk. Oksana Pokalchuk, the boss of Amnesty’s Ukraine office, resigned, calling the report “Russian propaganda”. She said that the Ukrainian government had not been given enough time to respond.
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, accused Russia of engaging in “nuclear terror” by shelling the <strong>Zaporizhzhia</strong> [nuclear power plant](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) in southern Ukraine. Russian forces said the artillery fire had in fact come from Ukrainian soldiers. The shelling damaged three radiation sensors and wounded one worker, according to Ukraine’s nuclear-power operator. The UN’s nuclear watchdog implored both sides to let international monitors access the site.
 
 Listen to an abridged version of the subscriber-only briefing.
 
