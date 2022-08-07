@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Ongoing Israeli air strikes on the <strong>Gaza Strip </strong>have killed 31 people so far, according to the Palestinian health ministry. At least two senior members of Palestinian Islamic Jihad, a militant group, are among the dead. Retaliatory rockets fired at <strong>Israel </strong>from the Gaza Strip activated air sirens in Jerusalem, though there have been no Israeli casualties so far. Unconfirmed reports suggested that the two sides had agreed to an Egyptian-brokered ceasefire, to take effect on Sunday evening.
+Reports suggested that <strong>Israel </strong>and <strong>Palestinian militants</strong> in the <strong>Gaza Strip</strong> had agreed to an Egyptian-brokered ceasefire, to take effect on Sunday evening. Israeli air strikes on the enclave, which began on Friday, have killed 36 people so far, according to the Palestinian health ministry. At least two senior members of Palestinian Islamic Jihad, a militant group, are among the dead. Retaliatory rockets fired at <strong>Israel </strong>from Gaza activated air sirens in Jerusalem, though there have been no Israeli casualties so far.
 
 <strong>Amnesty International</strong>, a human-rights charity, apologised for the “distress and anger” caused by a report it published criticising the conduct of Ukraine’s military. The report, published on Thursday, concluded that Ukrainian troops in residential areas had put civilians at risk. Oksana Pokalchuk, the boss of Amnesty’s Ukraine office, resigned, calling the report “Russian propaganda”. She said that the Ukrainian government had not been given enough time to respond.
 
