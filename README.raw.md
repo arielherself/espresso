@@ -12,107 +12,63 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-A [ceasefire](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) between <strong>Israel </strong>and <strong>Palestinian militants</strong> in the <strong>Gaza Strip</strong>, brokered by Egypt, took effect on Sunday evening. Israeli air strikes on the enclave, which began on Friday, killed 43 people, according to the Palestinian health ministry. At least two senior members of Palestinian Islamic Jihad, a militant group, are among the dead. Retaliatory rockets fired at <strong>Israel </strong>from Gaza activated air sirens in Jerusalem, though there were no Israeli casualties.
+<strong>Democrats</strong> in <strong>America’s Senate</strong> passed their signature [climate, tax and health-care legislation](https://www.economist.com/united-states/2022/07/28/democratic-hopes-for-a-big-spending-bill-are-revived) along party lines, after two of their wayward partisans were brought into line. The House is expected to pass it later this week and send it to President Joe Biden’s desk. The law would reduce emissions, raise corporate taxes and enable the government to [negotiate prescription drug prices](https://www.economist.com/united-states/2021/11/20/democrats-have-a-plan-to-lower-drug-costs-without-hurting-innovation) on behalf of over-65s.
 
-<strong>Democrats</strong> in America’s <strong>Senate</strong> passed their signature [climate, tax and health-care legislation](https://www.economist.com/united-states/2022/07/28/democratic-hopes-for-a-big-spending-bill-are-revived) along party lines. The House is expected to pass it later this week and send it to President Joe Biden’s desk. The law would reduce emissions, raise corporate taxes and enable the government to [negotiate prescription drug prices](https://www.economist.com/united-states/2021/11/20/democrats-have-a-plan-to-lower-drug-costs-without-hurting-innovation) on behalf of over-65s.
+A ceasefire between <strong>Israel</strong> and <strong>Palestinian militants</strong> in the <strong>Gaza Strip</strong>, brokered by Egypt, took effect on Sunday evening. [Israeli air strikes on the enclave](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister), which began on Friday, have killed 43 people, according to the Palestinian health ministry. At least two leaders of Palestinian Islamic Jihad, a militant group, are among the dead. Retaliatory rockets fired from Gaza into Israel activated air sirens in Jerusalem. 
 
-<strong>Gustavo Petro</strong> was sworn in as the [first left-wing president](https://www.economist.com/the-economist-explains/2022/08/06/who-is-gustavo-petro) of <strong>Colombia</strong>. A former Marxist guerrilla and anti-corruption crusader, he pledged to prohibit new licences for oil and gas exploration. As a candidate he also promised to provide all unemployed Colombians with a state job if they cannot find work in the private sector.
+<strong>China</strong> announced new military drills around <strong>Taiwan</strong> on Monday, contrary to its previous statement that live-fire exercises would conclude on Sunday. China also announced fresh drills, to last until August 15th, in the Yellow Sea, which separates it from the Korean peninsula. The People’s Liberation Army had already conducted its largest-ever [co-ordinated exercises](https://www.economist.com/china/2022/08/04/china-sends-missiles-flying-over-taiwan) in the Taiwan Strait, in reaction to a visit from an American delegation. Su Tseng-chang, Taiwan’s prime minister, said his island would “never bow to pressure”.
 
-Volodymyr Zelensky, <strong>Ukraine’s</strong> president, accused Russia of engaging in “nuclear terror” by shelling the <strong>Zaporizhzhia</strong> [nuclear power plant](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) in southern Ukraine. Russian forces said the artillery fire had in fact come from Ukrainian soldiers. The shelling damaged three radiation sensors and wounded one worker, according to Ukraine’s nuclear-power operator. The UN’s nuclear watchdog implored both sides to let international monitors access the site.
+<strong>SoftBank</strong>, the Japanese investment giant led by [Masayoshi Son](https://www.economist.com/business/2021/06/17/hard-truths-about-softbank), posted a record-breaking quarterly loss worth $23.4bn. The [global selloff](https://www.economist.com/business/2022/05/16/after-a-bruising-year-softbank-braces-for-more-pain) in <strong>tech stocks</strong> did most of the damage: Mr Son’s Vision Fund unit spilled more than $17bn of the red ink. Flagging enthusiasm for startups and the failure to sell Arm, a British chipmaker, have been darkening SoftBank’s horizons for months.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-On a visit to the Solomon Islands America’s deputy secretary of state, Wendy Sherman, insisted that Mr Biden sees solidarity between America and <strong>Pacific island nations</strong> as a priority for his administration. America and [China](https://www.economist.com/china/2022/05/05/china-wants-to-increase-its-military-presence-abroad) are locked in a diplomatic battle for power in the Pacific. In April the Solomons worried America and its allies by signing a [security pact](https://www.economist.com/asia/2022/04/02/china-makes-inroads-in-the-solomon-islands) with China.
+<strong>Gustavo Petro</strong>, a former Marxist guerrilla and anti-corruption crusader, was sworn in as <strong>Colombia’s</strong> [first left-wing president](https://www.economist.com/the-economist-explains/2022/08/06/who-is-gustavo-petro), pledging to prohibit new licences for oil and gas exploration. He also called for an “international convention” to replace the “war on drugs”—a decades-long, American-led policy of using the army and police to batter criminal organisations, which he said had cost a million Latin American lives.
 
-<strong>Italy’s</strong> centrist Azione party left an election alliance with the Democratic Party that had been agreed just last week. The left-leaning coalition will contest a [general election](https://www.economist.com/europe/2022/07/28/italys-next-government-may-be-more-nationalist-than-europe-likes) on September 25th, called after the resignation of Mario Draghi, the prime minister, last month. Polls suggest a win for right-wing parties, with the far-right Brothers of Italy set to be the largest single party.
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, accused <strong>Russia</strong> of engaging in “nuclear terror” by shelling the Zaporizhzhia [nuclear power plant](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) in southern Ukraine. Russian forces said the artillery fire had in fact come from Ukrainian soldiers. The shelling damaged three radiation sensors and wounded one worker, according to Ukraine’s nuclear-power operator. The UN’s nuclear watchdog implored both sides to give international monitors access to the site.
 
-The Horniman Museum in London announced that it would return 72 <strong>artefacts</strong> to the Nigerian government. The items, looted in the 19th century from the kingdom of Benin, in present-day Nigeria, include 12 [Benin bronzes](https://www.economist.com/books-and-arts/2021/03/31/the-looted-benin-bronzes-should-be-returned), a brass cockerel and the keys to a palace. Thousands of such objects were stolen from the kingdom, and are now spread among more than 160 museums, mostly in Europe and America.
+<strong>Italy’s</strong> centrist Azione party left an election alliance with the Democratic Party that had been forged just last week. The coalition that remains will contest a [general election](https://www.economist.com/europe/2022/07/28/italys-next-government-may-be-more-nationalist-than-europe-likes) on September 25th, which was called after Mario Draghi, the prime minister, resigned last month. Polls look favourable for right-wing parties, with the far-right Brothers of Italy set to become the largest single party.
 
-<strong>Word of the week:</strong> <em>Ganbei</em>, a Chinese term meaning “drink up”. The word is often used when people try to bring up life under China’s covid-19 lockdowns, according to one psychologist. [Read the full article](https://www.economist.com/1843/2022/07/28/how-to-go-to-therapy-without-talking-about-your-feelings).
+<strong>Fact of the day:</strong> 96, points awarded to the Canadian city of Calgary in our liveability index—making it the most liveable city in North America. [Read the full article](https://www.economist.com/graphic-detail/2022/08/05/the-best-places-to-live-in-north-america).
 
 ----------
 
-## A resurgence of violence in Gaza
+## America’s new tone on Africa
 
-On Sunday Israel and Palestinian militants in the Gaza Strip agreed to a ceasefire, capping a [bloody weekend](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) in which 43 Palestinians died in Israeli air strikes. It was the first major spate of violence in the beleaguered coastal enclave since an 11-day conflict in May 2021. Israel was targeting Palestinian Islamic Jihad (PIJ), a small militant outfit backed by Iran. Among the dead were two senior members of the group.
+When Antony Blinken begins a three-country tour of Africa on Monday, America’s secretary of state will strike a more emollient tone than his predecessors. The Trump administration was obsessed with telling African states to resist China’s supposedly nefarious ways. African leaders saw that as patronising and impractical. [China is Africa’s largest trading partner](https://www.economist.com/special-report/2022/05/20/how-chinese-firms-have-changed-africa) and bilateral creditor. 
 
-In retaliation, PIJ fired hundreds of mortar shells towards Israel, according to the Israeli armed forces. Many were intercepted by Israel’s Iron Dome missile-defence system; there were no Israeli casualties.
+Mr Blinken will [recast](https://www.economist.com/special-report/2022/05/20/countering-china-in-africa) America’s approach, saying that African countries have the right to follow their own paths to development. But he will also argue, in a nod to the roughly half of African countries that did not vote at the UN to [condemn](https://www.economist.com/graphic-detail/2022/04/04/who-are-russias-supporters) Russia’s invasion of Ukraine, that America is the most reliable partner for those journeys, whether they involve dealing with [debt crises](https://www.economist.com/middle-east-and-africa/2022/04/30/debt-repayment-costs-are-rising-fast-for-many-african-countries) or climate change. African leaders will appreciate this more nuanced message—but wonder where the beef is. Many African economies are in deep trouble and need support for debt relief, generous IMF programmes and money from climate-finance schemes. Mr Blinken’s words are one thing; America’s deeds, quite another.
 
-Hamas, a much bigger Islamic movement which rules Gaza, stayed out of the fighting. Hamas has been trying in recent years to improve its ties with Egypt, the Saudis and other Arab regimes, agreeing in principle to a long-term truce with Israel. A short Israeli offensive that leaves PIJ weakened without causing too much damage in Gaza may have worked in Hamas’s favour.
+## Hard times ahead for SoftBank
 
-## Anglicanism reveals its deep divisions
+SoftBank Group reported a loss of 3.2trn yen ($23.4bn) in the second quarter. The unprecedented result adds more misery to what is already an annus horribilis for the Japanese investment giant. After an eventually[ profitable pandemic](https://www.economist.com/business/2020/10/15/what-softbanks-masa-does-next), the firm suffered what was then its[ largest-ever losses](https://www.economist.com/business/2022/05/16/after-a-bruising-year-softbank-braces-for-more-pain) in the first quarter of 2022. These ones are worse.
 
-Sunday marks the end of the Lambeth Conference, a decennial meeting of Anglican bishops in Canterbury and London that is part Bible study, part plenary discussion. The bishops, who shepherd 85m worshippers worldwide, spent 12 days discussing the direction of their church in the 21st century. But they leave the conference with conflicting ideas about the next ten years of the church—especially on gay rights.
+Most of the newly announced pain comes from SoftBank’s so-called Vision Funds, which make up 38% of its holdings. The funds—which hold both publicly listed tech firms and smaller private companies aiming for rapid growth—posted a loss of 2.3trn yen in the second quarter. Tech stocks have stumbled in recent months as interest rates have risen, causing nosebleed-level valuations to dive. The NASDAQ 100, an index of the best-performing tech companies, lost 22% in the quarter to the end of June, its worst showing since the financial crisis of 2008. 
 
-A draft motion called on bishops to reaffirm Resolution 1.10, a controversial text from the 1998 Lambeth Conference that rejected “homosexual practice as incompatible with scripture.” Lambeth motions are not binding, but carry sway within the church. This year’s proposal was eventually softened. But the Global South Fellowship of Anglican Churches, which represents around 75% of the faithful and focuses on parts of the world (such as Africa) where the denomination’s reach is growing, released its own text in support of Resolution 1.10. Like the much larger [Roman Catholic](https://www.economist.com/international/2022/07/14/catholic-reformers-want-big-changes-to-a-church-marred-by-sex-abuse) church, Anglicans face a gaping divide between reformers and traditionalists.
+## America’s abortion wars rage on
 
-## All eyes on Taiwan’s performing arts
+Legal challenges to abortion restrictions in America will continue on Monday, when a court in Georgia hears a motion to temporarily halt the state’s ban on abortions after six weeks. In July the American Civil Liberties Union and local pro-choice groups sued the state after a federal court upheld the ban. The plaintiffs argue abortion is protected by a right to privacy in Georgia’s constitution.
 
-As China holds [massive live-fire exercises around Taiwan](https://www.economist.com/china/2022/08/04/china-sends-missiles-flying-over-taiwan), the island’s capital will open the new Taipei Performing Arts Centre on Sunday. The futuristic complex, designed by star Dutch architects, is set amid one of the city’s busiest night markets. Among other things it will give Taipei sorely needed theatre space, especially as two of the centre’s stages can be merged into a 2,300-seat “super theatre”, as well as breathing room for avant-garde works, which have previously been confined to open or industrial spaces. 
+Since June, when the Supreme Court [overturned <em>Roe v Wade</em>](https://www.economist.com/united-states/2022/06/24/the-supreme-court-erases-the-constitutional-right-to-abortion) and handed abortion policy back to individual states, 14 of them have, in effect, banned the procedure. Several others have imposed severe restrictions. Since then, legal challenges to abortion laws have arisen in at least a dozen states. The federal Justice department has sued Idaho, arguing that under its new rules pregnant women may be denied necessary medical care. But last week Kansans voted overwhelmingly [to keep](https://www.economist.com/united-states/2022/08/03/kansans-vote-to-keep-the-right-to-abortion) their right to abortion. With the issue further dividing America ahead of the mid-term elections in November, the battle is far from over.
 
-Rem Koolhaas and David Gianotten, the architects of the centre, tell <em>The Economist</em> that Taiwan’s 24m people see theatre as especially relevant to their lives. The island’s troubled history and blend of eastern and western influences spark creative dynamics, they argue. The centre’s inaugural season of 142 performances will reflect that. It will include both classical acts, such as Wei Hai-min, a superstar of Peking opera, a style of performance popular around China, as well as more adventurous shows, such as a new work for Dance Forum Taipei, a contemporary Taiwanese dance company, by Marina Mascarell, a renowned Spanish choreographer.
+## A boost for BioNTech
 
-## A new airline takes off in India
+Since listing in 2019 BioNTech has rapidly become one of Europe’s biggest biotech companies. With assets worth €19bn ($19.4bn), the German firm is catching up with pharmaceutical giants such as AstraZeneca and GlaxoSmithKline. Despite a downturn across the industry, BioNTech is expected to report another set of impressive results on Monday.  
+  
+ The firm’s success is fuelled by sales of the [highly effective](https://www.economist.com/graphic-detail/2022/07/13/which-covid-19-vaccine-saved-the-most-lives-in-2021) [mRNA](https://www.economist.com/briefing/2021/03/27/covid-19-vaccines-have-alerted-the-world-to-the-power-of-rna-therapies) coronavirus vaccine it developed with Pfizer in 2020. The jab recently became the only covid-19 vaccine fully approved for adolescents in America. The American government has also ordered 105m [booster](https://www.economist.com/podcasts/2021/09/14/booster-shots-are-they-necessary) doses of a version of the BioNtech vaccine that targets the Omicron variant.
 
-Tycoons have always been lured by the airline business. Rakesh Jhunjhunwala, a billionaire Indian investor, is the latest example. On Sunday Mr Jhunjhunwala’s venture, Akasa (“sky”) Air, takes off with a flight between Mumbai and Ahmedabad. The airline’s goal is to become “India’s greenest, most dependable and most affordable airline”. To get there, it plans to procure 20 jets by the end of 2023. Cabin crew will don bright-orange uniforms made from recycled fabric and branded sneakers, a first for an Indian airline. 
+Other biotech firms are battling a funding drought, falling valuations and dwindling reserves of capital. But BioNTech’s vaccine profits allow it the freedom to invest in ambitious experiments. The company has long studied cancer and hopes to use mRNA technology to transform the treatment of the disease. But investors expecting another overnight success should beware—the oncology market is crowded, and agonisingly slow.
 
-But merely becoming profitable will be the biggest challenge. Competition among low-cost airlines in India is fierce. With lockdowns lifted, passenger demand has soared. But so have fuel costs. Caps on fares have also squeezed margins. Staff are disgruntled with wages, and airlines are struggling to hire more workers. Customers are also fed up: 80% of Indian passengers in a recent survey said that airline service in the country is terrible. Akasa faces a turbulent start.
+## The failings of hazing
 
-## Weekend profile: Gustavo Petro, a former guerrilla and Colombia’s next president
+The rites of initiation practised by [American university fraternities](https://www.economist.com/united-states/1997/10/02/raise-a-fond-last-glass-to-dionysus) have long been a source of intrigue for anthropologists. Their pet theory is that these “hazing” traditions, which usually involve humiliating or physically tormenting inductees, help build group solidarity. But studying them is difficult, given that they tend to be shrouded in secrecy. Now <em>Evolution and Human Behavior</em>, a journal, has published one of the most in-depth studies on hazing to date. 
 
-Latin America is known for leftist revolutionaries, from Che Guevara to Hugo Chávez. Yet a leftist ruler was once unthinkable in Colombia. For 52 years the government was at war with a Marxist guerrilla movement called the [FARC](https://www.economist.com/the-americas/2022/07/07/some-ex-farc-guerrillas-have-become-tourist-guides-in-colombia). By 2016, when the armed conflict ended, it had become the longest in the Western hemisphere. But on Sunday Gustavo Petro [assumes the presidency](https://www.economist.com/the-americas/2022/06/20/how-gustavo-petro-a-former-guerrilla-might-govern-colombia) of Colombia.
+Between 2012 and 2014 the study tracked six groups of inductees, known as “pledges”, who were hoping to enter a fraternity chapter (which remained anonymous). The researchers interviewed individuals as they undertook a ten-week induction process, including unnamed hazing rituals. The results suggested that anthropologists were wrong: hazing does not, in fact, improve group solidarity. In recent years concerns about the [dangerous](https://www.economist.com/graphic-detail/2017/10/13/hazing-deaths-on-american-college-campuses-remain-far-too-common) practice have compelled universities to crack down on fraternities. If its ineffectiveness had been proven sooner, hazing would have been exposed for what it is—a cruel, pointless and often dangerous practice.
 
-As a 17-year-old Mr Petro joined the April 19th Movement, an urban guerrilla group known as the M-19. A low-level functionary, in 1985 he was in prison for allegedly storing weapons when the M-19 stormed Colombia’s Supreme Court. The arrival of the army resulted in a shootout, in which about half of the court’s judges were killed in crossfire, along with nearly 100 other people (Mr Petro appears to have had no involvement in the event).
+## Daily quiz
 
-After M-19 demobilised in 1990, Mr Petro entered politics. He became famous as a congressman for exposing links between politicians and right-wing paramilitary groups, and for calling out corruption. But he was less successful as mayor of Bogotá, Colombia’s capital, a job he held from 2012 to 2015. Mr Petro developed a reputation as a dictatorial boss and was briefly suspended after mismanaging the municipal restructuring of a private rubbish-collection service.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-Today Mr Petro still harbours some of his youthful idealism. He has promised to provide all unemployed Colombians—11% of the labour force—with a state job, and to make public higher education free. He wants to prohibit new licences for oil and gas exploration, though extractive industries make up around half of Colombia’s exports. Yet Mr Petro’s revolutionary spirit has been somewhat tempered. He picked José Antonio Ocampo, a moderate who is sceptical about offering state jobs to the unemployed, as his finance minister. Mr Ocampo will serve alongside several other centrist ministers.
-
-And since the election in June Mr Petro has focused on building support among the established parties he once denounced. He has even met his arch-nemesis, Álvaro Uribe, a powerful right-wing former president. Most of Colombia’s big parties have promised to back Mr Petro. That may give him the parliamentary majority he needs to pass reforms, including a tax bill that will be his first major test in government. The rebel has become the peacemaker.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-<strong>August 6th edition</strong>
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Poem has theme that—oddly!—conjures a fictional place (3,9)
-
-<em>1 across </em>City record is broken twice by this person (6)
-
-<em>2 across </em>Overbearing mother of the year? (5)
-
-<em>3 across </em>Reinvent genre with unknown vim and vigour (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>A subject of feverish speculation? (3,9)
-
-<em>1 across </em>Where late-night talk-show hosts analyse military tactics (6)
-
-<em>2 across </em>You can see one rolling in ecstasy on YouTube (5)
-
-<em>3 across </em>The focus of Europe’s diet? (6)
-
-## The winner’s of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were:
-
-Asia: <strong>SuJeong Lee</strong>, Seoul, South Korea
-
-North America: <strong>Gail Rutherford</strong>, Colorado Springs, United States
-
-Central and South America: <strong>Michael Bryant</strong>, Nova Friburgo, Brazil
-
-Europe: <strong>Emiolo Sanmarti</strong>, Sanmarti, Sant Carles de la Rapita, Spain
-
-Africa: <strong>Paul Leigh</strong>, Pretoria, South Africa
-
-Oceania: <strong>Grant Rees</strong>, Queenstown, New Zealand
-
-They all gave the correct answers of Mel Blanc, Logan’s Run, Prince Rainier III, Fuji Photo Film, Earl of Snowdon. The theme is mountains: Mont Blanc, Mt Logan (the highest in Canada), Mt Rainier, Mt Fuji and Mt Snowdon.
+<strong>Monday:</strong> Who was Richard Nixon’s first attorney-general, who went to prison for his role in the Watergate scandal?
 
 ----------
 
