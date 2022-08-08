@@ -22,11 +22,11 @@
 
 Listen to an abridged version of the subscriber-only briefing.
 
+Travis McMichael, one of three white men charged with murdering <strong>Ahmaud Arbery</strong> in 2020, received a life sentence for hate crime charges, in addition to his existing life sentence for murder. The two other killers, Mr McMichael’s father and the McMichaels’ neighbour, will receive their sentencing decisions later on Monday. Arbery, a black man, was chased and shot while jogging through a mostly-white neighbourhood in Georgia, an attack described by many as a “modern day lynching”.
+
 <strong>SoftBank</strong>, the Japanese investment giant led by [Masayoshi Son](https://te.arielherself.xyz/business/2021/06/17/hard-truths-about-softbank), posted a record-breaking quarterly loss worth $23.4bn. The [global selloff](https://te.arielherself.xyz/business/2022/05/16/after-a-bruising-year-softbank-braces-for-more-pain) in <strong>tech stocks</strong> did most of the damage: Mr Son’s Vision Fund unit spilled more than $17bn of the red ink. Flagging enthusiasm for startups and the failure to sell Arm, a British chipmaker, have been darkening SoftBank’s horizons for months.
 
 <strong>Gustavo Petro</strong>, a former Marxist guerrilla and anti-corruption crusader, was sworn in as <strong>Colombia’s</strong> [first left-wing president](https://te.arielherself.xyz/the-economist-explains/2022/08/06/who-is-gustavo-petro), pledging to prohibit new licences for oil and gas exploration. He also called for an “international convention” to replace the “war on drugs”—a decades-long, American-led policy of using the army and police to batter criminal organisations, which he said had cost a million Latin American lives.
-
-<strong>Italy’s</strong> centrist Azione party left an election alliance with the Democratic Party that had been forged just last week. The coalition that remains will contest a [general election](https://te.arielherself.xyz/europe/2022/07/28/italys-next-government-may-be-more-nationalist-than-europe-likes) on September 25th, which was called after Mario Draghi, the prime minister, resigned last month. Polls look favourable for right-wing parties, with the far-right Brothers of Italy set to become the largest single party.
 
 <strong>Fact of the day:</strong> 96, points awarded to the Canadian city of Calgary in our liveability index—making it the most liveable city in North America. [Read the full article](https://te.arielherself.xyz/graphic-detail/2022/08/05/the-best-places-to-live-in-north-america).
 
@@ -66,7 +66,7 @@ Between 2012 and 2014 the study tracked six groups of inductees, known as “ple
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Who was Richard Nixon’s first attorney-general, who went to prison for his role in the Watergate scandal?
 
