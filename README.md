@@ -52,7 +52,7 @@ Extravagant election promises, such as universal health care, will be difficult 
 
 Brazil and China are at opposite ends of the famous BRICs acronym, first coined by Goldman Sachs, a bank, to refer to four of the biggest emerging markets. The two giants are also at opposite ends of the global [inflation cycle](https://te.arielherself.xyz/finance-and-economics/2022/08/03/does-high-inflation-matter).
 
-Brazil’s [central bank](https://te.arielherself.xyz/finance-and-economics/2022/07/07/are-central-banks-in-emerging-markets-now-less-of-a-slave-to-the-fed) was one of the first to react to the danger of rising prices. It began raising interest rates in March 2021 and has battled inflation furiously since. In June the country’s annual inflation rate reached 11.9%. New inflation figures on Tuesday could show signs that price growth is finally peaking.
+Brazil’s [central bank](https://te.arielherself.xyz/finance-and-economics/2022/07/07/are-central-banks-in-emerging-markets-now-less-of-a-slave-to-the-fed) was one of the first to react to the danger of rising prices. It began raising interest rates in March 2021 and has battled inflation furiously since. In June the country’s annual inflation rate reached 11.9%. But new inflation figures on Tuesday showed that price growth may have finally peaked: annual inflation dropped to 10.1% in July.
 
 In China, which is suffering a prolonged property slump and intermittent virus-fighting lockdowns, economic overheating has seemed a distant worry. But new figures on Wednesday could show long dormant inflation beginning to stir, finally threatening the government’s 3% target. When it comes to inflation, these two emerging—yet diverging—economies could finish the year a little closer to each other.
 
@@ -70,7 +70,7 @@ As admirers mark the centenary of Larkin’s birth on Tuesday, his faults are ag
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b5e4c0dccff0c6c5c7d0c6c6daf5d0d6dadbdad8dcc6c19bd6dad8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
 
