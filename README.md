@@ -14,7 +14,7 @@
 
 A series of powerful explosions was reported near the Novofedorivka military airbase in Russia-controlled <strong>Crimea</strong>. The blasts were confirmed by two local officials, although their cause is not yet known. Crimea, a peninsula of land in southern Ukraine, was [annexed by Russia](https://te.arielherself.xyz/europe/2019/06/08/crimea-is-still-in-limbo-five-years-after-russia-seized-it) in 2014. The site of the explosions is some 200 kilometres away from the frontline of the war.
 
-<strong>Donald Trump</strong> was dealt another blow following the FBI raid of his Florida estate, when a federal judge on Tuesday ruled that the House of Representatives could request his tax returns. Meanwhile, leading Republicans denounced the raid at Mar-a-lago. Kevin McCarthy, the most senior Republican in the House, vowed to investigate the justice department should his party take control of the chamber after the mid-term elections.
+<strong>Donald Trump</strong> was dealt another blow following the [FBI raid](https://te.arielherself.xyz/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) of his Florida estate, when a federal judge on Tuesday ruled that the House of Representatives could request his tax returns. Meanwhile, leading Republicans denounced the raid at Mar-a-lago. Kevin McCarthy, the most senior Republican in the House, vowed to investigate the justice department should his party take control of the chamber after the mid-term elections.
 
 <strong>Taiwan</strong>’s foreign minister warned that China was using [military drills](https://te.arielherself.xyz/china/2022/08/04/china-sends-missiles-flying-over-taiwan) around the island “to prepare for the invasion of Taiwan”. Speaking at a press conference on Tuesday Joseph Wu said that regular exercises could be used as an “attempt to wreck the long-term status quo”, but that Taiwan would not be intimidated. On Tuesday Taiwan conducted its own defensive drills.
 
@@ -70,7 +70,7 @@ As admirers mark the centenary of Larkin’s birth on Tuesday, his faults are ag
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1a4b6f73605f696a687f6969755a7f797574757773696e34797577">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ecfebf7e4dbedeeecfbededf1defbfdf1f0f1f3f7edeab0fdf1f3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
 
