@@ -18,13 +18,13 @@ A series of powerful explosions was reported near the Novofedorivka military air
 
 <strong>Taiwan</strong>’s foreign minister warned that China was using [military drills](https://te.arielherself.xyz/china/2022/08/04/china-sends-missiles-flying-over-taiwan) around the island “to prepare for the invasion of Taiwan”. Speaking at a press conference on Tuesday Joseph Wu said that regular exercises could be used as an “attempt to wreck the long-term status quo”, but that Taiwan would not be intimidated. On Tuesday Taiwan conducted its own defensive drills.
 
-President Joe Biden signed documents acknowledging America’s desire to expand <strong>NATO</strong> by admitting <strong>Finland</strong> and <strong>Sweden</strong>. The two Nordic countries need members’ unanimous support in order to join [the military alliance](https://te.arielherself.xyz/europe/2022/06/26/nato-holds-its-most-important-summit-for-decades). NATO has 30 members, and more than 20 have already signed on to the expansion. Finland and Sweden [applied for membership](https://te.arielherself.xyz/leaders/2022/05/19/why-nato-should-swiftly-admit-sweden-and-finland) after Russia’s invasion of Ukraine.
+<strong>Coinbase</strong>, the largest cryptocurrency exchange based in America, on Tuesday posted a $1.1bn loss for the second quarter. Last year, during the sector’s boom times, Coinbase reported a second-quarter net profit of $1.6bn. The firm’s slide offers yet more evidence of crypto’s [recent implosion](https://te.arielherself.xyz/finance-and-economics/2022/06/23/three-mechanisms-for-crypto-contagion). Its shares fell by roughly 4% in after-hours trading.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>AppLovin</strong>, which makes software for advertising in mobile apps, offered to buy <strong>Unity</strong>, another software-maker which mainly makes tools for designing games, for $17.5bn. Unity’s stock, which has plunged in recent months, jumped on the news; AppLovin’s stock, meanwhile, fell more than 10%.
+President Joe Biden signed documents acknowledging America’s desire to expand <strong>NATO</strong> by admitting <strong>Finland</strong> and <strong>Sweden</strong>. The two Nordic countries need members’ unanimous support in order to join [the military alliance](https://te.arielherself.xyz/europe/2022/06/26/nato-holds-its-most-important-summit-for-decades). NATO has 30 members, and more than 20 have already signed on to the expansion. Finland and Sweden [applied for membership](https://te.arielherself.xyz/leaders/2022/05/19/why-nato-should-swiftly-admit-sweden-and-finland) after Russia’s invasion of Ukraine.
 
-<strong>Seoul </strong>was battered by the worst <strong>storm </strong>to pass through South Korea’s capital in 80 years. At some points, nearly four inches of rain were falling each hour, submerging streetside vehicles, roads and subway lines, and knocking out much of the city’s electricity supply. At least eight citizens died in the chaos.
+<strong>AppLovin</strong>, which makes software for advertising in mobile apps, offered to buy <strong>Unity</strong>, another software-maker which mainly makes tools for designing games, for $17.5bn. Unity’s stock, which has plunged in recent months, jumped on the news; AppLovin’s stock, meanwhile, fell more than 10%.
 
 <strong>Serena Williams</strong>, one of the most successful tennis players of all time, said she will <strong>retire</strong>, probably after the US Open finishes in September. Ms Williams said she will now concentrate on her family and her venture-capital firm. The 40-year-old player has won 23 grand slam championships.
 
@@ -70,7 +70,7 @@ As admirers mark the centenary of Larkin’s birth on Tuesday, his faults are ag
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2d7c584457685e5d5f485e5e426d484e42434240445e59034e4240">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3b6a4e52417e484b495e4848547b5e585455545652484f15585456">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
 
