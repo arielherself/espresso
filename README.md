@@ -22,11 +22,11 @@
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>AppLovin</strong>, which makes software for advertising in mobile apps, offered to buy <strong>Unity</strong>, another software-maker which mainly makes tools for designing games, for $17.5bn. Unity’s stock, which has plunged in recent months, jumped on the news; AppLovin’s stock, meanwhile, fell more than 10%.
+
 <strong>Seoul </strong>was battered by the worst <strong>storm </strong>to pass through South Korea’s capital in 80 years. At some points, nearly four inches of rain were falling per hour, submerging streetside vehicles, roads and subway lines, and knocking out much of the city’s electricity supply. At least eight citizens died in the chaos.
 
-America’s Federal Aviation Administration said <strong>Boeing</strong> could soon resume shipments of its 787 Dreamliner jets, nearly two years after deliveries were first halted because of manufacturing flaws. The announcement is welcome news for the firm following a few [bumpy years](https://te.arielherself.xyz/business/2021/01/27/can-boeing-fly-without-government-help)—owing to the grounding of its [737 MAX planes](https://te.arielherself.xyz/books-and-arts/2021/11/27/a-new-book-explains-the-tragic-failure-of-boeings-737-max) after two fatal crashes, and disruptions to air travel during the pandemic.
-
-To the relief of many, <strong>WhatsApp</strong> announced that users will soon be able to discreetly leave group chats without notifying most other members. The feature is part of a raft of privacy updates announced by Meta, WhatsApp’s parent company, including preventing people from screenshotting certain messages and controlling who sees one’s online status.
+<strong>Serena Williams</strong>, one of the most successful tennis players of all time, said she will <strong>retire</strong>, probably after the US Open finishes in September. Ms Williams said she will now concentrate on her family and her venture capital firm. The 40-year-old player has won 23 grand slam championships.
 
 <strong>Fact of the day: </strong>59%, the share of Kansans who voted to preserve abortion rights in the state. [Read the full story](https://te.arielherself.xyz/graphic-detail/2022/08/05/kansass-vote-on-abortion-shows-many-republicans-are-pro-choice).
 
@@ -70,7 +70,7 @@ As admirers mark the centenary of Larkin’s birth on Tuesday, his faults are ag
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5d0c283427182e2d2f382e2e321d383e32333230342e29733e3230">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4b1a3e22310e383b392e3838240b2e282425242622383f65282426">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
 
