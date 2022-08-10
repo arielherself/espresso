@@ -34,9 +34,9 @@ Kishida Fumio, <strong>Japan’s</strong> prime minister reshuffled his cabinet,
 
 ## Inflation down but not out in America
 
-After months of [soaring inflation](https://te.arielherself.xyz/graphic-detail/2022/08/02/regional-differences-in-american-inflation-hit-a-40-year-high), America may get a partial reprieve. In data for July, due out on Wednesday, consumer prices are expected to have risen by about 8.7% year-on-year, down from a four-decade high of 9.1% in June. That is likely to prompt discussion of whether America has finally passed peak inflation.
+After months of soaring inflation, America may get a partial reprieve. In data for July, released on Wednesday, consumer prices rose by 8.5% year-on-year, down from a four-decade high of 9.1% in June. That is likely to prompt discussion of whether America has finally passed peak inflation.
 
-The details of the data may be more sobering. A fall in oil prices—down more than 10% in July from June—will probably account for much of the headline decline in inflation. Take out volatile food and energy costs, and inflation probably accelerated. Moreover, nominal wages are also still rising strongly, generating yet more upward pressure on prices. Markets had hoped the Federal Reserve might be able to slow the pace of its [interest-rate increases](https://te.arielherself.xyz/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation). But with inflation like this, it may not want to let up.
+The details of the data are more sobering. A fall in oil prices—down more than 10% in July from June—accounted for much of the headline decline in inflation. Take out volatile food and energy costs, and inflation remained too hot for comfort. Moreover, nominal wages are also still rising strongly, generating yet more upward pressure on prices. Markets had hoped the Federal Reserve might be able to slow the pace of its interest-rate increases. But with inflation like this, it may not want to let up.
 
 ## Republicans rally around Trump
 
