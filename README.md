@@ -30,6 +30,11 @@ Kishida Fumio, <strong>Japan’s</strong> prime minister reshuffled his cabinet,
 
 <strong>Fact of the day:</strong> $10bn, the amount of venture capital funding for American aerospace and defence startups in 2021, triple 2019’s figure. [Read the full article](https://te.arielherself.xyz/business/2022/08/08/can-tech-reshape-the-pentagon).
 
+We apologise to some readers who, for technical reasons, did not get the quiz questions on Wednesday. Here they are again: 
+
+<strong>Wednesday:</strong> Which novelist wrote “Heart of Darkness”, a book loosely adapted as the film “Apocalypse Now”?  
+<strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
+
 ----------
 
 ## Inflation down but not out in America
@@ -70,7 +75,7 @@ For all that, despite Mr Dvorkovich’s position, his countrymen are still banne
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3263475b48774142405741415d7257515d5c5d5f5b41461c515d5f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c899bda1b28dbbb8baadbbbba788adaba7a6a7a5a1bbbce6aba7a5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Wednesday:</strong> Which novelist wrote “Heart of Darkness”, a book loosely adapted as the film “Apocalypse Now”?
 
