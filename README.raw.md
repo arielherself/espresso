@@ -12,21 +12,21 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
+Annual <strong>inflation</strong> in<strong> America</strong> eased slightly in July, dipping from 9.1% in June to 8.5%. The number raises hopes that American inflation has peaked, as the prices of gas and other commodities have fallen in recent weeks. But the rate is still close to America’s highest in four decades, and prices for housing and food are still rising.
+
 <strong>Russian </strong>shelling killed at least 13 people in the <strong>Dnipropetrovsk </strong>region of central Ukraine, according to Ukrainian authorities. Separately, Energoatom, a Ukrainian state nuclear-power operator, warned that Russia intends to sever the connection between the <strong>Zaporizhzhia</strong> [nuclear plant](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) and Ukraine’s power grid, and connect it to Russia’s instead. That requires a technically difficult process with potentially disastrous consequences, warned Energoatom’s boss.
 
 Leading Republicans denounced the [FBI raid](https://www.economist.com/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) on <strong>Donald Trump’s</strong> Florida home. Kevin McCarthy, the most senior Republican in the House of Representatives, vowed to investigate the justice department should his party take control of the chamber after mid-term elections. Republicans used anger at the operation to fuel a funding drive. Meanwhile, Mr Trump was dealt another blow when a federal judge ruled that the House could request his tax returns.
 
 Early results from <strong>Kenya’s </strong>[presidential election](https://www.economist.com/leaders/2022/08/07/why-kenyas-election-matters) suggested a [tight race](https://www.economist.com/middle-east-and-africa/2022/08/07/kenyas-presidential-election-looks-too-close-to-call) between the two leading candidates, deputy president William Ruto and opposition leader Raila Odinga. Turnout was low, and the election commission now has up to a week to declare the winner. Recent elections have been scarred by violence after the result was announced.
 
-Kishida Fumio, <strong>Japan’s</strong> prime minister reshuffled his cabinet, removing several ministers with links to the controversial <strong>Unification Church</strong>. The [man who in July assassinated Abe Shinzo](https://www.economist.com/asia/2022/07/19/what-drove-yamagami-tetsuya-to-kill-abe-shinzo), a former prime minister, said he was motivated by a grudge against the religious movement, which he claims bankrupted his mother. Mr Abe regularly courted the church. Since his killing the sect’s political ties have come under increased scrutiny. 
-
 Listen to an abridged version of the subscriber-only briefing.
+
+Kishida Fumio, <strong>Japan’s</strong> prime minister reshuffled his cabinet, removing several ministers with links to the controversial <strong>Unification Church</strong>. The [man who in July assassinated Abe Shinzo](https://www.economist.com/asia/2022/07/19/what-drove-yamagami-tetsuya-to-kill-abe-shinzo), a former prime minister, said he was motivated by a grudge against the religious movement, which he claims bankrupted his mother. Mr Abe regularly courted the church. Since his killing the sect’s political ties have come under increased scrutiny. 
 
 <strong>Elon Musk</strong> sold almost $7bn-worth of shares in <strong>Tesla</strong>, his electric-car company, saying he wants to avoid an emergency sale of the firm’s stock if he has to buy <strong>Twitter</strong>. Earlier this year Mr Musk agreed to buy the social-media platform for $44bn, before [almost immediately trying to pull out](https://www.economist.com/business/2022/05/19/elon-musk-twitter-and-an-epic-case-of-buyers-remorse) of the deal. A court in October will decide whether he has to pay up.
 
 <strong>Coinbase</strong>, the largest cryptocurrency exchange based in America, posted a $1.1bn loss for the second quarter. At the same point last year, during the sector’s boom times, Coinbase reported a net profit of $1.6bn. The firm’s slide offers yet more evidence of crypto’s [recent implosion](https://www.economist.com/finance-and-economics/2022/06/23/three-mechanisms-for-crypto-contagion). Its share price tanked.
-
-<strong>Domino’s Pizza</strong> closed its Italian stores, with the American fast-food outlet having inexplicably failed to win over the country that invented the pie with its own, stodgy version. Domino’s blamed the growing number of traditional pizza restaurants offering delivery through apps, as well as high debts, increased costs and the pandemic. It had operated 29 stores in Italy; its local franchise partner filed for bankruptcy in April.
 
 <strong>Fact of the day:</strong> $10bn, the amount of venture capital funding for American aerospace and defence startups in 2021, triple 2019’s figure. [Read the full article](https://www.economist.com/business/2022/08/08/can-tech-reshape-the-pentagon).
 
@@ -67,6 +67,14 @@ In Mahabalipuram, a sleepy Indian town some 40km from Chennai, over 2,000 player
 As rooks and knights jousted on the [chessboard](https://www.economist.com/1843/2015/06/15/chess), there was action away from it, too. On August 7th Arkady Dvorkovich, a former Russian deputy prime minister, was re-elected as the president of the International Chess Federation, which organises the Olympiad, winning a landslide victory over Andrii Baryshpolets, a Ukrainian grandmaster. Mr Dvorkovich’s re-election is controversial. Though he initially decried Russia’s invasion of Ukraine—an action described as a “​​national betrayal” by a Russian MP—he later released a statement praising his country’s soldiers. Russia now calls him “our candidate”. 
 
 For all that, despite Mr Dvorkovich’s position, his countrymen are still banned from the federation’s competitions. Soft power only goes so far.
+
+## Daily quiz
+
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="88d9fde1f2cdfbf8faedfbfbe7c8edebe7e6e7e5e1fbfca6ebe7e5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+
+<strong>Wednesday:</strong> Which novelist wrote “Heart of Darkness”, a book loosely adapted as the film “Apocalypse Now”?
+
+<strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
 
 ----------
 
