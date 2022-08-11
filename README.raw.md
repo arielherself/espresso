@@ -22,7 +22,7 @@ Seven European countries are dispatching aid to help <strong>France </strong>com
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Satellite images of <strong>Saky airbase</strong>, in Russian-occupied Crimea, show eight destroyed fighter planes, thought to have been damaged by explosions reported on Tuesday. Separately, <strong>Russian-backed</strong> separatists claimed control of Pisky, a town in Donetsk, where [fighting](https://www.economist.com/ukraine-crisis) there has intensified as Russian forces seek to capture the region. Meanwhile Ukraine accused Russia of using the Zaporizhzhia nuclear power plant, the country’s biggest, as a shield for attacks. The UN’s Security Council will hold an emergency meeting on Thursday to discuss the issue.
+Satellite images of <strong>Saky airbase</strong>, in Russian-occupied Crimea, show eight destroyed fighter planes, thought to have been damaged by explosions reported on Tuesday. Separately, <strong>Russian-backed</strong> separatists claimed control of Pisky, a town in Donetsk, where [fighting](https://www.economist.com/ukraine-crisis) has intensified as Russian forces seek to capture the region. Meanwhile Ukraine accused Russia of using the Zaporizhzhia nuclear power plant, the country’s biggest, as a shield for attacks. The UN’s Security Council will hold an emergency meeting on Thursday to discuss the issue.
 
 <strong>China</strong> and <strong>South Korea</strong> clashed, again, over an American anti-missile system. China claims radar from the Terminal High Altitude Area Defence system (<strong>THAAD</strong>) installed on South Korean territory could be used to spy on it and wants to restrict its use. South Korea says it is necessary for defence against North Korea. In 2017 a [dispute](https://www.economist.com/asia/2017/03/23/why-china-is-wrong-to-be-furious-about-thaad) over the system led to a Chinese boycott of South Korean goods.
 
@@ -68,7 +68,7 @@ Two months ago a group of elite professional golfers [broke away](https://www.ec
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b9e8ccd0c3fccac9cbdccacad6f9dcdad6d7d6d4d0cacd97dad6d4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
