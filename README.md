@@ -50,9 +50,9 @@ China’s most advanced chipmaker, Semiconductor Manufacturing International Cor
 
 ## An electric vehicle startup slows down
 
-Rivian’s promise of powerful, green electric trucks was so thrilling that nearly 50,000 people placed an order before any had been delivered. The firm became a Wall Street sensation in 2021: its valuation zoomed [above $100bn](https://te.arielherself.xyz/business/2021/09/02/an-electric-vehicle-startup-aims-for-a-stellar-valuation) in the [biggest IPO](https://te.arielherself.xyz/graphic-detail/2021/11/10/rivians-giant-listing-comes-amid-huge-losses) of the year. But its shares have crashed by nearly two-thirds this year. And its second-quarter earnings, due on Thursday, will demonstrate more braking than accelerating.  
+Rivian’s promise of powerful, green electric trucks was so thrilling that nearly 50,000 people placed an order before any had been delivered. The firm became a Wall Street sensation in 2021: its valuation zoomed [above $100bn](https://te.arielherself.xyz/business/2021/09/02/an-electric-vehicle-startup-aims-for-a-stellar-valuation) in the [biggest IPO](https://te.arielherself.xyz/graphic-detail/2021/11/10/rivians-giant-listing-comes-amid-huge-losses) of the year. But its shares have crashed by nearly two-thirds this year. Its second-quarter earnings released on Thursday beat revenue expectations, but forecast a wider loss than initially projected for the year.  
   
- Rivian’s problems are familiar. Supply-chain woes and high inflation are leaving the company unable to meet sky-high demand. Other electric carmaking startups, such as Arrival and Lordstown Motors, are also struggling. Despite Rivian’s impressive order book, which has 90,000 customers waiting, in the first quarter of the year just 2,553 trucks rolled off its assembly line. It chalked up a $1.6bn loss. Now it is facing a cost crunch, obliging it to lay off 6% of its workforce.
+ Rivian’s problems are familiar. Supply-chain woes and high inflation are leaving the company unable to meet sky-high demand. Other electric carmaking startups, such as Arrival and Lordstown Motors, are also struggling. Despite Rivian’s impressive order book, which has 98,000 customers waiting, in the first quarter of the year just 2,553 trucks rolled off its assembly line. It chalked up a $1.6bn loss. Now it is facing a cost crunch, obliging it to lay off 6% of its workforce.
 
 ## Litigating golf’s civil war
 
@@ -68,7 +68,7 @@ Two months ago a group of elite professional golfers [broke away](https://te.ari
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4b1a3e22310e383b392e3838240b2e28">[email&#160;protected]</span>onomist.com](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
