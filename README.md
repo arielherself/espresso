@@ -42,7 +42,7 @@ The conference highlights a second aspect of Vladimir Putin’s war. By invading
 
 ## When the Chinese chips are down
 
-China’s most advanced chipmaker, Semiconductor Manufacturing International Corporation (SMIC), reports its second-quarter results on Thursday. Amid signs of a slowdown in the chip market they will be closely watched, by both investors and politicians.  
+China’s most advanced chipmaker, Semiconductor Manufacturing International Corporation (SMIC), reported its second-quarter results on Thursday. Even amid signs of a slowdown in the chip market, SMIC beat analysts’ expectations, posting net income of roughly $514m and revenues of $1.9bn.   
   
  Computer chips are important for everything from washing machines and cars to cruise missiles and fighter jets. China has long held ambitions to build a cutting-edge chips industry. But American sanctions, begun under Donald Trump and continued by President Joe Biden, are designed to deny China access to the latest chipmaking technology. In July it emerged that SMIC had worked out how to make advanced 7-nanometre chips. Smaller components mean better chips (though the figures bear little relation to the physical characteristics of the chips themselves). That puts SMIC about half a decade behind TSMC, a Taiwanese firm, and Samsung, a Korean one.  
   
@@ -68,7 +68,7 @@ Two months ago a group of elite professional golfers [broke away](https://te.ari
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bdecc8d4c7f8cecdcfd8ceced2fdd8ded2d3d2d0d4cec993ded2d0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7c2d091506390f0c0e190f0f133c191f13121311150f08521f1311">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
