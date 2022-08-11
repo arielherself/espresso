@@ -18,7 +18,7 @@ Satellite images of <strong>Saky airbase</strong>, in Russian-occupied Crimea, s
 
 A <strong>wildfire</strong> has scorched thousands of acres of forest in the Gironde region of <strong>France</strong>, leading to the evacuation of thousands of residents. The conflagration was described as a “monster” by firefighters, who continue to battle it. Local temperatures are very high, and are expected to remain so for several days. France is in the grip of its worst ever drought.
 
-<strong>China</strong> and <strong>South Korea</strong> clashed, again, over an American anti-missile system. China claims radar from the Terminal High Altitude Area Defence system (<strong>THAAD</strong>) installed on South Korean territory could be used to spy on it and wants to restrict its use. South Korea says it is necessary for defence against North Korea. In 2016 a [dispute](https://te.arielherself.xyz/asia/2017/03/23/why-china-is-wrong-to-be-furious-about-thaad) over the system led to a Chinese boycott of South Korean goods.
+<strong>China</strong> and <strong>South Korea</strong> clashed, again, over an American anti-missile system. China claims radar from the Terminal High Altitude Area Defence system (<strong>THAAD</strong>) installed on South Korean territory could be used to spy on it and wants to restrict its use. South Korea says it is necessary for defence against North Korea. In 2017 a [dispute](https://te.arielherself.xyz/asia/2017/03/23/why-china-is-wrong-to-be-furious-about-thaad) over the system led to a Chinese boycott of South Korean goods.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Two months ago a group of elite professional golfers [broke away](https://te.ari
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2776524e5d62545755425454486742444849484a4e54530944484a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="68391d01122d1b181a0d1b1b07280d0b07060705011b1c460b0705">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
