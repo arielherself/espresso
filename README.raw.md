@@ -14,11 +14,11 @@
 
 Seven European countries are dispatching aid to help <strong>France </strong>combat its ongoing <strong>wildfires</strong>. One “monster” conflagration near the southern city of Bordeaux continues into its third day, having destroyed 7,000 hectares (17,300 acres) of forest and forced thousands to evacuate. France is in the grip of a heatwave and its worst ever drought.
 
-<strong>Stockmarkets</strong> rallied after annual [inflation](https://www.economist.com/finance-and-economics/2022/08/03/does-high-inflation-matter) in <strong>America</strong> eased slightly in July, dipping to 8.5% from 9.1% in June. Markets are hoping that the [Federal Reserve](https://www.economist.com/leaders/the-federal-reserve-is-causing-pain-in-financial-markets/21809132) will now temper its interest-rate increases. The Nasdaq composite index gained nearly 3% on the news, and closed more than 20% higher than its nadir in mid-June. Asian stockmarkets also rose during early trading on Thursday. 
+<strong>European stockmarkets</strong> followed America’s lead up by rallying in response to America’s lower-than-expected inflation numbers. The S&amp;P 500 index was trading at its highest level in over three months, in hopes that the [Federal Reserve](https://www.economist.com/leaders/the-federal-reserve-is-causing-pain-in-financial-markets/21809132) will now temper its interest-rate increases. The Nasdaq composite index gained nearly 3% on the news, and closed more than 20% higher than its nadir in mid-June. Asian stockmarkets also rose during early trading on Thursday.
 
 <strong>Olaf Scholz</strong>, the German chancellor, promised to deliver a new <strong>financial assistance package</strong> for citizens struggling with an [energy crunch](https://www.economist.com/finance-and-economics/2022/06/30/can-europe-keep-the-lights-on-this-winter). Speaking at a press conference, Mr Scholz also said he supported the idea of building a new pipeline connecting Portugal to Spain and France; diversifying gas supplies has become a key priority for a continent attempting to reduce its [reliance on Russian gas](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter).
 
-<strong>Estonia </strong>and <strong>Latvia</strong><strong></strong>left China’s forum for central and eastern European countries, dealing a blow to its diplomatic efforts in the region. The two Baltic countries were reportedly driven to quit by China’s declaration of its “no-limits friendship” with Russia. The forum, known as 17+1, is now down to 14+1, after Lithuania withdrew last year.
+<strong>Estonia </strong>and <strong>Latvia</strong> left China’s forum for central and eastern European countries, dealing a blow to its diplomatic efforts in the region. The two Baltic countries were reportedly driven to quit by China’s declaration of its “no-limits friendship” with Russia. The forum, known as 17+1, is now down to 14+1, after Lithuania withdrew last year.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Two months ago a group of elite professional golfers [broke away](https://www.ec
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7322061a09360003011600001c3316101c1d1c1e1a00075d101c1e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2372564a59665053514650504c6346404c4d4c4e4a50570d404c4e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
