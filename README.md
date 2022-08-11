@@ -12,17 +12,17 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Merrick Garland</strong>, America’s attorney-general, said the Department of Justice asked a judge in Florida to make public the warrant used [to search](https://te.arielherself.xyz/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) <strong>Donald Trump’s</strong> Florida estate. Mr Garland also confirmed that he had personally approved the decision to seek the warrant, ending speculation about who authorised the raid at Mar-a-Lago. His decision follows [howls of protest](https://te.arielherself.xyz/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations) from Republicans, who condemned the raid and promised to probe the DoJ should they regain control of Congress in November.
+
 Seven European countries are dispatching aid to help <strong>France </strong>combat its ongoing <strong>wildfires</strong>. One “monster” conflagration near the southern city of Bordeaux continues into its third day, having destroyed 7,000 hectares (17,300 acres) of forest and forced thousands to evacuate. France is in the grip of a heatwave and its worst ever drought.
 
 <strong>European stockmarkets</strong> followed America’s lead up by rallying in response to America’s lower-than-expected inflation numbers. The S&amp;P 500 index was trading at its highest level in over three months, in hopes that the [Federal Reserve](https://te.arielherself.xyz/leaders/the-federal-reserve-is-causing-pain-in-financial-markets/21809132) will now temper its interest-rate increases. The Nasdaq composite index gained nearly 3% on the news, and closed more than 20% higher than its nadir in mid-June. Asian stockmarkets also rose during early trading on Thursday.
 
 <strong>Olaf Scholz</strong>, the German chancellor, promised to deliver a new <strong>financial assistance package</strong> for citizens struggling with an [energy crunch](https://te.arielherself.xyz/finance-and-economics/2022/06/30/can-europe-keep-the-lights-on-this-winter). Speaking at a press conference, Mr Scholz also said he supported the idea of building a new pipeline connecting Portugal to Spain and France; diversifying gas supplies has become a key priority for a continent attempting to reduce its [reliance on Russian gas](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter).
 
-<strong>Estonia </strong>and <strong>Latvia</strong> left China’s forum for central and eastern European countries, dealing a blow to its diplomatic efforts in the region. The two Baltic countries were reportedly driven to quit by China’s declaration of its “no-limits friendship” with Russia. The forum, known as 17+1, is now down to 14+1, after Lithuania withdrew last year.
-
 Listen to an abridged version of the subscriber-only briefing.
 
-Satellite images of <strong>Saky airbase</strong>, in Russian-occupied Crimea, show eight destroyed fighter planes, thought to have been damaged by explosions reported on Tuesday. Separately, <strong>Russian-backed</strong> separatists claimed control of Pisky, a town in Donetsk, where [fighting](https://te.arielherself.xyz/ukraine-crisis) has intensified as Russian forces seek to capture the region. Meanwhile Ukraine accused Russia of using the Zaporizhzhia nuclear power plant, the country’s biggest, as a shield for attacks. The UN’s Security Council will hold an emergency meeting on Thursday to discuss the issue.
+<strong>Estonia </strong>and <strong>Latvia</strong> left China’s forum for central and eastern European countries, dealing a blow to its diplomatic efforts in the region. The two Baltic countries were reportedly driven to quit by China’s declaration of its “no-limits friendship” with Russia. The forum, known as 17+1, is now down to 14+1, after Lithuania withdrew last year.
 
 <strong>China</strong> and <strong>South Korea</strong> clashed, again, over an American anti-missile system. China claims radar from the Terminal High Altitude Area Defence system (<strong>THAAD</strong>) installed on South Korean territory could be used to spy on it and wants to restrict its use. South Korea says it is necessary for defence against North Korea. In 2017 a [dispute](https://te.arielherself.xyz/asia/2017/03/23/why-china-is-wrong-to-be-furious-about-thaad) over the system led to a Chinese boycott of South Korean goods.
 
@@ -68,7 +68,7 @@ Two months ago a group of elite professional golfers [broke away](https://te.ari
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="edbc988497a89e9d9f889e9e82ad888e82838280849e99c38e8280">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [QuizEspre<span class="__cf_email__" data-cfemail="f88b8b97b89d9b97969795918b8cd69b9795">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
