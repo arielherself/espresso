@@ -14,72 +14,65 @@
 
 <strong>Stockmarkets</strong> rallied after annual [inflation](https://www.economist.com/finance-and-economics/2022/08/03/does-high-inflation-matter) in <strong>America</strong> eased slightly in July, dipping to 8.5% from 9.1% in June. Markets are hoping that the [Federal Reserve](https://www.economist.com/leaders/the-federal-reserve-is-causing-pain-in-financial-markets/21809132) will now temper its interest-rate increases. The Nasdaq composite index gained nearly 3% on the news, and closed more than 20% higher than its nadir in mid-June. Asian stockmarkets also rose during early trading on Thursday. 
 
-<strong>Donald Trump</strong> refused to answer questions under oath while being deposed by the New York state attorney-general as part of a civil investigation into his family’s business accounts. Mr Trump said in a statement that he had invoked his Fifth Amendment right against self-incrimination. The investigation runs parallel to [one by the FBI](https://www.economist.com/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) allegedly related to Mr Trump’s activities after he left office. 
+Satellite images of <strong>Saky airbase</strong>, in Russian-occupied Crimea, show eight destroyed fighter planes, thought to have been damaged by explosions reported on Tuesday. Separately, <strong>Russian-backed</strong> separatists claimed control of Pisky, a town in Donetsk, where [fighting](https://www.economist.com/ukraine-crisis) there has intensified as Russian forces seek to capture the region. Meanwhile Ukraine accused Russia of using the Zaporizhzhia nuclear power plant, the country’s biggest, as a shield for attacks. The UN’s Security Council will hold an emergency meeting on Thursday to discuss the issue.
+
+A <strong>wildfire</strong> has scorched thousands of acres of forest in the Gironde region of <strong>France</strong>, leading to the evacuation of thousands of residents. The conflagration was described as a “monster” by firefighters, who continue to battle it. Local temperatures are very high, and are expected to remain so for several days. France is in the grip of its worst ever drought.
+
+<strong>China</strong> and <strong>South Korea</strong> clashed, again, over an American anti-missile system. China claims radar from the Terminal High Altitude Area Defence system (<strong>THAAD</strong>) installed on South Korean territory could be used to spy on it and wants to restrict its use. South Korea says it is necessary for defence against North Korea. In 2016 a [dispute](https://www.economist.com/asia/2017/03/23/why-china-is-wrong-to-be-furious-about-thaad) over the system led to a Chinese boycott of South Korean goods.
+
+Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Kim Jong Un</strong> declared that <strong>North Korea</strong> has overcome the outbreak of <strong>covid-19</strong> which it [finally admitted to in May](https://www.economist.com/asia/2022/05/17/covid-19-is-spreading-like-wildfire-in-north-korea). Meanwhile the dictator’s sister said Mr Kim was among the almost five million North Koreans who suffered from a “fever” (the country never provided the numbers of actual covid cases). She also claimed that leaflets scattered near the border by South Koreans caused the infections. 
 
 <strong>Sierra Leone</strong> imposed a nationwide curfew after mass protests against the government turned violent. Living costs in the country [have soared recently](https://www.economist.com/international/2022/06/23/costly-food-and-energy-are-fostering-global-unrest) and fuel is extremely expensive. On Wednesday thousands of demonstrators took to the streets in Freetown, the capital, with some throwing rocks and setting tyres on fire. At least two police officers and one civilian are reported to have died.
 
-Listen to an abridged version of the subscriber-only briefing.
+<strong>Disney’s</strong> revenues soared by 26% in the latest quarter, thanks in large part to strong demand for its theme parks, which have bounced back from their pandemic doldrums with a vengeance. Disney+, the company’s streaming service, also added millions more subscribers than expected. Even so, Disney said it will raise its streaming prices to hedge against [slower subscriber growth](https://www.economist.com/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) in future. 
 
-<strong>China</strong> announced an end to military [drills](https://www.economist.com/china/2022/08/05/the-crisis-over-taiwan-is-yet-another-test-for-xi-jinping) around <strong>Taiwan</strong> but said regular patrols would continue in the Taiwan Strait. Separately, China’s Taiwan Affairs Office published its first white paper on Taiwan in 22 years. Compared with older versions of the document from 1993 and 2000, the new paper drops China’s previous promise not to deploy its soldiers in Taiwan after it has been “reunified” with the mainland.
-
-<strong>Softbank</strong> said it would reduce its stake in <strong>Alibaba</strong>, a Chinese e-commerce giant, by unloading $22bn-worth of shares. The [Japanese investment group](https://www.economist.com/business/2021/06/17/hard-truths-about-softbank) said its holdings in the company would shrink to 14.6% in September, down from 23.7% at the end of June. The decision came two days after Softbank posted its largest-ever quarterly loss, of $23.4bn, prompting Son Masayoshi, the firm’s boss, to say that “dramatic” cost-cutting was on the cards. 
-
-<strong>Disney’s</strong> revenues soared by 26% in the latest quarter, thanks in large part to strong demand for its theme parks, which have bounced back from their pandemic doldrums with a vengeance. Disney+, the company’s streaming service, also added millions more subscribers than expected. Even so, Disney said it will raise its streaming prices to hedge against [slower subscriber growth](https://www.economist.com/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) in future.
-
-<strong>Fact of the day:</strong> $10bn, the amount of venture capital funding for American aerospace and defence startups in 2021, triple 2019’s figure. [Read the full article](https://www.economist.com/business/2022/08/08/can-tech-reshape-the-pentagon).
-
-We apologise to some readers who, for technical reasons, did not get the quiz questions on Wednesday. Here they are again: 
-
-<strong>Wednesday:</strong> Which novelist wrote “Heart of Darkness”, a book loosely adapted as the film “Apocalypse Now”?  
-<strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
+<strong>Fact of the day:</strong> 46%, the share of American teenagers who are “almost constantly” online. [Read the full story.](https://www.economist.com/graphic-detail/2022/08/10/does-gen-z-spend-too-much-time-on-social-media)
 
 ----------
 
-## Inflation down but not out in America
+## Ukraine’s allies gather in Copenhagen
 
-After months of soaring inflation, America may get a partial reprieve. In data for July, released on Wednesday, consumer prices rose by 8.5% year-on-year, down from a four-decade high of 9.1% in June. That is likely to prompt discussion of whether America has finally passed peak inflation.
+The Danish military will train Ukrainian soldiers in Britain. That announcement came ahead of a meeting of allies in Copenhagen on Thursday, hosted by the three countries. Defence ministers from 15 European countries, plus America and Canada, will discuss further military support for Ukraine.
 
-The details of the data are more sobering. A fall in oil prices—down more than 10% in July from June—accounted for much of the headline decline in inflation. Take out volatile food and energy costs, and inflation remained too hot for comfort. Moreover, nominal wages are also still rising strongly, generating yet more upward pressure on prices. Markets had hoped the Federal Reserve might be able to slow the pace of its interest-rate increases. But with inflation like this, it may not want to let up.
+Western aid continues to bolster Ukraine’s defences. At the meeting Britain pledged to supply more multiple-rocket systems. On Monday America pledged a further $1bn in military assistance, including more ammunition for the [HIMARS rocket launchers](https://www.economist.com/europe/2022/07/13/ukraines-new-rockets-are-wreaking-havoc-on-russias-army) which have pounded Russian positions. The fighting in the east and south of Ukraine remains finely balanced. 
 
-## Republicans rally around Trump
+The conference highlights a second aspect of Vladimir Putin’s war. By invading Ukraine, Russia wished to stop any more countries joining NATO. But Finland and Sweden are now on the cusp of [membership](https://www.economist.com/leaders/2022/05/15/in-applying-to-nato-finland-and-sweden-give-the-lie-to-putins-claims). Britain continues to play a vital role in European security, despite tensions with the EU. Mr Putin’s invasion has transformed Europe’s security architecture, just not as he would have hoped. 
 
-The raid may have been shocking; the response was not. On Monday, the FBI searched Donald Trump’s Florida estate, reportedly part of an inquiry into whether the former president had mishandled classified material after leaving office. The raid [could suggest](https://www.economist.com/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) that evidence of a federal crime lurked in Mr Trump’s estate. Merrick Garland, the attorney-general, is not one for taking bold steps based on whims.
+## When the Chinese chips are down
 
+China’s most advanced chipmaker, Semiconductor Manufacturing International Corporation (SMIC), reports its second-quarter results on Thursday. Amid signs of a slowdown in the chip market they will be closely watched, by both investors and politicians.  
   
- This is only one of many legal threats Mr Trump faces. On Wednesday he will be questioned under oath as part of an investigation in New York into his businesses accounts. Yet it may help unite Republicans around him. After the raid Republican congressmen vowed to investigate the investigators, should the party win a majority in the House of Representatives at the mid-terms in November. Mr Trump called the raid a “weaponisation” of the justice system, intended to to derail another potential presidential bid. His enduring political influence is already visible in [Republican primaries](https://www.economist.com/united-states/2022/08/03/donald-trumps-preferred-candidates-sweep-to-victory-in-arizona) across the country. According to Politico, a news website, insiders think the raid will, if anything, accelerate Mr Trump’s decision to run again in 2024. And he is already using outrage about the raid to solicit donations for his “Save America” campaign.
-
-## Europe bans Russian coal
-
-The European Union’s ban on imports of Russian coal, agreed in April as part of its fifth package of sanctions, takes effect at midnight on Wednesday. One of the world’s biggest exporters of the black stuff, Russia supplied around 70% of the EU’s imports of thermal coal (used to generate electricity) and 45% of all coal imports last year, according to Bruegel, a think-tank in Brussels.
-
+ Computer chips are important for everything from washing machines and cars to cruise missiles and fighter jets. China has long held ambitions to build a cutting-edge chips industry. But American sanctions, begun under Donald Trump and continued by President Joe Biden, are designed to deny China access to the latest chipmaking technology. In July it emerged that SMIC had worked out how to make advanced 7-nanometre chips. Smaller components mean better chips (though the figures bear little relation to the physical characteristics of the chips themselves). That puts SMIC about half a decade behind TSMC, a Taiwanese firm, and Samsung, a Korean one.  
   
- Yet coal matters less to the Kremlin than gas or oil. Of the €94.3bn ($96.5bn) that the EU spent on Russian fuel last year, just €5.3bn ($5.4bn) went on coal. Ukraine’s government would like the EU to go much faster restricting other fuel sources. But a planned embargo on oil will come fully into force only next year. And the EU has so far imposed no restrictions on Russian natural gas at all, other than asking its members to [use less of it](https://www.economist.com/europe/2022/07/28/the-eu-agrees-on-an-energy-diet-to-fight-russian-gas-cuts). Instead, Vladimir Putin, the Russian president, is [cutting gas exports](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) to try to blackmail Europe into relaxing sanctions.
+ The significance of SMIC’s achievement is not yet clear. It may be that only some components on the new chips have been shrunk. And without access to the latest extreme-ultraviolet lithography tools, made in the Netherlands, it is unclear how much further SMIC can push its products.
 
-## A cruel summer for TUI?
+## An electric vehicle startup slows down
 
-<strong>A cruel summer for TUI?</strong>
-
-While much of Europe basks on summer holiday, TUI—the travel giant that will have organised many of those trips—reported its third quarter earnings. A costly hit from flight disruptions this summer left it with an operating loss of €27m ($27m), following two years of travel disruptions caused by covid-19. The outlook looks somewhat brighter though, with future bookings close to pre-pandemic levels.  
+Rivian’s promise of powerful, green electric trucks was so thrilling that nearly 50,000 people placed an order before any had been delivered. The firm became a Wall Street sensation in 2021: its valuation zoomed [above $100bn](https://www.economist.com/business/2021/09/02/an-electric-vehicle-startup-aims-for-a-stellar-valuation) in the [biggest IPO](https://www.economist.com/graphic-detail/2021/11/10/rivians-giant-listing-comes-amid-huge-losses) of the year. But its shares have crashed by nearly two-thirds this year. And its second-quarter earnings, due on Thursday, will demonstrate more braking than accelerating.  
   
- The German firm, which owns 1,600 travel agencies and five airlines, suffered from the ravages inflicted on the travel sector by the pandemic. It has struggled with irate customers upset by this summer’s [travel chaos](https://www.economist.com/britain/2022/07/05/why-british-holiday-makers-should-brace-for-more-misery-this-summer), as thousands of flights were delayed or cancelled. And looming recessions in Germany and Britain could hit the group hard. Further turbulence might come from the departure of Fritz Joussen, the group’s chief executive, who announced his resignation in June after a successful ten-year stint. His successor will take over a ship that is yet to be steadied.
+ Rivian’s problems are familiar. Supply-chain woes and high inflation are leaving the company unable to meet sky-high demand. Other electric carmaking startups, such as Arrival and Lordstown Motors, are also struggling. Despite Rivian’s impressive order book, which has 90,000 customers waiting, in the first quarter of the year just 2,553 trucks rolled off its assembly line. It chalked up a $1.6bn loss. Now it is facing a cost crunch, obliging it to lay off 6% of its workforce.
 
-## The Chess Olympiad concludes
+## Litigating golf’s civil war
 
-In Mahabalipuram, a sleepy Indian town some 40km from Chennai, over 2,000 players from 187 countries have been battling in the Chess Olympiad, the game’s top international team event. As the teams depart on Wednesday, Uzbek and Ukrainian players will be particularly happy: they won the men’s and women’s categories respectively.
+Two months ago a group of elite professional golfers [broke away](https://www.economist.com/culture/2022/06/17/will-signing-stars-like-phil-mickelson-bring-success-to-liv-golf) from the American-run PGA Tour to compete in LIV Golf, a lucrative series of tournaments [bankrolled](https://www.economist.com/middle-east-and-africa/2022/06/23/saudi-arabia-still-thinks-money-can-buy-a-new-reputation) by the government of Saudi Arabia. Some of them resigned from the PGA Tour; others had their membership suspended. Before signing up to LIV nearly a dozen players had qualified to play in the PGA Tour’s FedEx Cup playoffs, which begin on Thursday in Tennessee, only to be banned by the Tour. Three of them contested the ban but on Wednesday a federal judge in America upheld it.  
+  
+ On August 3rd players in LIV who remain suspended by the PGA Tour filed an antitrust lawsuit against it, accusing it of behaving monopolistically and harming their careers. The PGA Tour denies this. The antitrust case could take up to two years to resolve. In the meantime, as the two tours run in parallel, the mutual enmity will only deepen.
 
-As rooks and knights jousted on the [chessboard](https://www.economist.com/1843/2015/06/15/chess), there was action away from it, too. On August 7th Arkady Dvorkovich, a former Russian deputy prime minister, was re-elected as the president of the International Chess Federation, which organises the Olympiad, winning a landslide victory over Andrii Baryshpolets, a Ukrainian grandmaster. Mr Dvorkovich’s re-election is controversial. Though he initially decried Russia’s invasion of Ukraine—an action described as a “​​national betrayal” by a Russian MP—he later released a statement praising his country’s soldiers. Russia now calls him “our candidate”. 
+## Televising Indian matchmaking
 
-For all that, despite Mr Dvorkovich’s position, his countrymen are still banned from the federation’s competitions. Soft power only goes so far.
+“Love has no off season” declared Netflix in March, as it announced a line up of eight reality-dating shows. Among them was a second season of “Indian Matchmaking”. The show, which has just been released, features Sima Taparia, a charismatic “marriage consultant” from Mumbai, who uses profiles—like those on dating apps, which she calls “biodatas”—and astrology to pair up singletons in India and its diaspora.  
+  
+ The first series, also directed by [Smriti Mundhra](https://www.economist.com/prospero/2020/08/12/smriti-mundhra-both-celebrates-and-questions-indian-cultural-values), a film-maker who met Ms Taparia during her own quest for love, intrigued foreign audiences unfamiliar with Indian family values and arranged marriages. Despite complaints about its roster of wealthy, high-caste, heterosexual subjects “Indian Matchmaking” was nominated for an Emmy last year. Having succeeded with this coupling of tradition and reality television, Netflix will soon be serving up “Jewish Matchmaking”, in which a matchmaker known as a <em>shadchan</em> introduces hopefuls in America and Israel.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bcedc9d5c6f9cfccced9cfcfd3fcd9dfd3d2d3d1d5cfc892dfd3d1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bcedc9d5c6f9cfccced9cfcfd3fcd9dfd3d2d3d1d5cfc892dfd3d1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+
+<strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
 <strong>Wednesday:</strong> Which novelist wrote “Heart of Darkness”, a book loosely adapted as the film “Apocalypse Now”?
-
-<strong>Tuesday:</strong> Which Maine-based retailer, founded in 1912, is famous for its outdoor clothing and equipment?
 
 ----------
 
