@@ -18,7 +18,7 @@ Five <strong>Chinese state-owned firms</strong> will apply to <strong>delist </s
 
 <strong>Britain </strong>declared a <strong>drought </strong>in parts of the country for the first time since 2018. The announcement came amid a [heatwave](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come) and on the heels of Britain’s driest July in almost 90 years. Several water companies have imposed restrictions on water usage, prohibiting customers from using hoses on their cars or gardens.
 
-<strong>Salman Rushdie</strong>, the author of “The Satanic Verses”, was <strong>stabbed </strong>multiple times while about to deliver a lecture in Chautauqua, New York. Mr Rushdie was airlifted to the hospital; his current condition is unknown. His attacker has been taken into police custody. “The Satanic Verses” inspired controversy upon its release in 1988. Some Muslims said it was blasphemous, while Iran called for Mr Rushdie’s death.
+<strong>Salman Rushdie</strong>, the author of “The Satanic Verses”, was <strong>stabbed </strong>several times when he was about to deliver a lecture in Chautauqua, New York. Mr Rushdie was airlifted to the hospital; New York’s governor, Kathy Hochul, said he was alive and getting the care he needs. His attacker has been taken into police custody. “The Satanic Verses” inspired controversy upon its release in 1988. Some Muslims said it was blasphemous, and Iran called for Mr Rushdie’s death.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Yet there are differences. The show ditches the film’s all-white cast. Most of
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8edffbe7f4cbfdfefcebfdfde1ceebede1e0e1e3e7fdfaa0ede1e3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0657736f7c43757674637575694663656968696b6f75722865696b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
