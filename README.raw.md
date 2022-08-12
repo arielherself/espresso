@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-08-11</p>
+# <p align="center">The world in brief 2022-08-12</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -68,7 +68,7 @@ Two months ago a group of elite professional golfers [broke away](https://www.ec
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8ddcf8e4f7c8fefdffe8fefee2cde8eee2e3e2e0e4fef9a3eee2e0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
