@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Taiwan </strong>will no longer host WorldPrideTaiwan 2025, following a request from the event’s licensing body to drop the word “Taiwan” from the event title. At the behest of China, international organisations often insist that the self-governing island uses names other than “Taiwan”. But the WorldPride organisers said that capitulating to the request on this occasion would “harm the interests of Taiwan”. 
 
-A trip by China’s president, <strong>Xi Jinping,</strong> in November may include a first face-to-face meeting with his American counterpart <strong>Joe Biden</strong> since Mr Biden became president. They may get together on the margins of multilateral summits in Indonesia or Thailand. Reports also suggest that Mr Xi, who has not left China for nearly three years, may visit Saudi Arabia this month. The Chinese foreign ministry refused to comment. 
+A trip by China’s president, <strong>Xi Jinping,</strong> reportedly being planned for November, may include a first face-to-face meeting with his American counterpart <strong>Joe Biden</strong> since Mr Biden became president. They may get together on the margins of multilateral summits in Indonesia or Thailand. Reports also suggest that Mr Xi, who has not left China for nearly three years, may visit Saudi Arabia this month. The Chinese foreign ministry refused to comment. 
 
 <strong>Britain’s</strong> GDP contracted by 0.1% in the three months to June, compared with the previous quarter. The Office for National Statistics attributed most of the decline in services output to a fall in health and social work activities related to covid-19. Household consumption fell by 0.2%. The new GDP numbers signal another blow to [Britain’s faltering economy](https://www.economist.com/britain/2022/08/11/britains-economy-is-taking-a-drubbing).
 
@@ -68,7 +68,7 @@ Yet there are differences. The show ditches the film’s all-white cast. Most of
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="49183c20330c3a393b2c3a3a26092c2a26272624203a3d672a2624">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="59082c30231c2a292b3c2a2a36193c3a36373634302a2d773a3634">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
