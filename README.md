@@ -18,15 +18,15 @@ Five <strong>Chinese state-owned firms</strong> will apply to <strong>delist </s
 
 <strong>Britain </strong>declared a <strong>drought </strong>in parts of the country for the first time since 2018. The announcement came amid a [heatwave](https://te.arielherself.xyz/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come) and on the heels of Britain’s driest July in almost 90 years. Several water companies have imposed restrictions on water usage, prohibiting customers from using hoses on their cars or gardens.
 
-<strong>Taiwan </strong>will no longer host WorldPrideTaiwan 2025, following a request from the event’s licensing body to drop the word “Taiwan” from the event title. At the behest of China, international organisations often insist that the self-governing island uses names other than “Taiwan”. But the WorldPride organisers said that capitulating to the request on this occasion would “harm the interests of Taiwan”. 
+<strong>Salman Rushdie</strong>, the author of “The Satanic Verses”, was <strong>stabbed </strong>multiple times while about to deliver a lecture in Chautauqua, New York. Mr Rushdie was airlifted to the hospital; his current condition is unknown. His attacker has been taken into police custody. “The Satanic Verses” inspired controversy upon its release in 1988. Some Muslims said it was blasphemous, while Iran called for Mr Rushdie’s death.
 
 Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Britain’s</strong> GDP contracted by 0.1% in the three months to June, compared with the previous quarter. The Office for National Statistics attributed most of the decline in services output to a fall in health and social work activities related to covid-19. Household consumption fell by 0.2%. The new GDP numbers signal another blow to [Britain’s faltering economy](https://te.arielherself.xyz/britain/2022/08/11/britains-economy-is-taking-a-drubbing).
 
-<strong>Salman Rushdie</strong>, the author of “The Satanic Verses”, was <strong>attacked </strong>while about to deliver a lecture in Chautauqua, New York. The attacker reportedly rushed on stage and punched or stabbed Mr Rushdie, who fell to the floor. “The Satanic Verses” inspired controversy upon its release in 1988: some Muslims said it was blasphemous, while Iran called for Mr Rushdie’s death.
-
 <strong>Rivian</strong>, [an upstart electric-vehicle maker](https://te.arielherself.xyz/business/2021/09/02/an-electric-vehicle-startup-aims-for-a-stellar-valuation) backed by Amazon and Ford, widened its forecast losses for 2022, from $4.75bn to $5.45bn. It warned that many of its vehicles, including some SUVs, would not qualify for tax credits under Joe Biden’s [Inflation Reduction Act](https://te.arielherself.xyz/united-states/2022/08/09/joe-bidens-signature-legislation-passes-the-senate-at-last). The firm stuck to its target of producing 25,000 vehicles this year. Only 7,000 rolled off its lines during the first half.
+
+<strong>Taiwan </strong>will no longer host WorldPrideTaiwan 2025, following a request from the event’s licensing body to drop the word “Taiwan” from the event title. At the behest of China, international organisations often insist that the self-governing island uses names other than “Taiwan”. But the WorldPride organisers said that capitulating to the request on this occasion would “harm the interests of Taiwan”. 
 
 <strong>Fact of the day:</strong> 29%, the increase in violent crimes involving guns in American states where right-to-carry laws were adopted. [Read the full story](https://te.arielherself.xyz/graphic-detail/2022/08/11/a-supreme-court-ruling-could-spell-even-more-gun-crime).
 
@@ -68,7 +68,7 @@ Yet there are differences. The show ditches the film’s all-white cast. Most of
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7726021e0d32040705120404183712141819181a1e04035914181a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4213372b38073132302731312d0227212d2c2d2f2b31366c212d2f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
