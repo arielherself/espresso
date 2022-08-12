@@ -34,7 +34,7 @@ A trip by China’s president, <strong>Xi Jinping,</strong> reportedly being pla
 
 ## The IRA’s journey to the president’s desk
 
-On Friday America’s House of Representatives is expected to pass the Inflation Reduction Act, a large piece of legislation that will increase some taxes, reduce health-care costs and, most importantly, unlock a vast array of investments to fight climate change. Altogether, the IRA is forecast to generate over $700bn of tax revenue and health savings for the government, much of which will be funnelled towards clean energy.
+On Friday America’s House of Representatives passed the Inflation Reduction Act, a large piece of legislation that will increase some taxes, reduce health-care costs and, most importantly, unlock a vast array of investments to fight climate change. Altogether, the IRA is forecast to generate over $700bn of tax revenue and health savings for the government, much of which will be funnelled towards clean energy.
 
 An earlier iteration of the law, the $3.5trn [Build Back Better](https://www.economist.com/united-states/2021/12/19/joe-manchin-kills-the-build-back-better-act-joe-bidens-ambitious-legislative-package) bill, was stymied by Joe Manchin, a conservative Democrat senator from West Virginia. But a last-minute surprise deal between Mr Manchin and his party’s bigwigs revived a slimline version of the package. To get through a[ Senate](https://www.economist.com/united-states/2022/08/09/joe-bidens-signature-legislation-passes-the-senate-at-last) divided on party lines, yet more provisions had to be scaled down.
 
@@ -68,7 +68,7 @@ Yet there are differences. The show ditches the film’s all-white cast. Most of
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d081a5b9aa95a3a0a2b5a3a3bf90b5b3bfbebfbdb9a3a4feb3bfbd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
 
