@@ -32,17 +32,17 @@ The two road bridges into <strong>Kherson</strong>, a city in southern <strong>U
 
 ----------
 
+## Run, Ron? The appeal of Ron DeSantis
+
+On Sunday Ron DeSantis, Florida’s Republican governor, will speak at a rally for his party’s gubernatorial candidate in New Mexico, Mark Ronchetti. It is just one stop on a national tour that Mr DeSantis is embarking on to support other candidates, including those backed by Donald Trump, rather than focusing on his own campaign.
+
+It is a show of party unity that Mr DeSantis is spending his time stumping for other candidates, but it also raises questions about his own ambitions. Should Mr Trump not make a presidential bid in 2024, Mr DeSantis would be the likely Republican frontrunner. In a straw poll of attendees at the Conservative Political Action Conference in Dallas, released last week, 69% of people said they preferred Mr Trump as the candidate in 2024; Mr DeSantis came second, with 24%. Mr DeSantis may be calculating that for now it is better to shore up his popularity with Trump supporters. After all, at only 43 he is easily young enough to wait until 2028.
+
 ## Rushdie in hospital after attack
 
 Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because of his work. Some Muslims judged “The Satanic Verses”, the author’s fourth novel, published in 1988, as blasphemous. Iran called for his death, forcing him into hiding. In recent years the threat had seemed to ease, and he spent much of his time in America. On Friday, in upstate New York, he was stabbed multiple times on stage.  
   
  Sir Salman is on a ventilator, and may lose an eye, according to his agent. The attacker, a 24-year-old man from New Jersey, has been arrested; his motive is unknown. Hardline Iranian newspapers have praised his actions. Security at the Chautauqua Institution, the arts education centre where the attack took place, was light, according to witnesses. Sir Salman had been due to speak on the topic of America as a home for freedom of expression. In 2017 he told <em>The Economist</em> that “It’s only when somebody tries to gag you that you really begin to believe in free speech.”
-
-## Warranted action: dissecting the FBI raid
-
-Four days after the FBI searched Donald Trump’s home at Mar-a-Lago, in Florida, more details are emerging. It was ostensibly part of an investigation into the ex-president’s alleged removal of classified documents from the White House when he left it. An inventory list from the search warrant, unsealed on Friday and leaked to several newspapers, showed that FBI agents seized 11 sets of documents, some marked “top secret”, meaning they may not leave secure government-approved facilities. 
-
-The most explosive detail is not what was in the boxes—which included Mr Trump’s pardon of Roger Stone, one of his fixers, and “info re: the President of France”. Rather it is the three statutes under which the warrant was granted. One was against “gathering, transmitting or losing defence information”. That law is part of the Espionage Act. Why Mr Trump may have taken the documents, and whether charges will follow, is unknown. But could he be indicted on laws against spying?
 
 ## The Aloha State votes
 
@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="4d2e3f223e3e3a223f290d282e22232220243e39632e2220">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#5a39283529292d35283e1a3f393534353733292e74393537), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="c3a0b1acb0b0b4acb1a783a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#90f3e2ffe3e3e7ffe2f4d0f5f3fffefffdf9e3e4bef3fffd), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
