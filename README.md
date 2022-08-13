@@ -38,17 +38,17 @@ More Hawaiians than usual may vote in the state’s primary elections on Saturda
 
 The surge of new voters is unlikely to help the Republican Party in a state that is deep blue. David Ige, the governor, and all four members of Congress are Democrats. Mr Ige has reached his term limit but his replacement will probably be Joshua Green, his current deputy. Brian Schatz, one of the Senate’s loudest voices for climate-change legislation, should also glide to victory in his primary. Should they win their general-election races in November, they will have much to do. The pandemic battered the state’s tourism-dependent economy, the Ukraine war strained its[ energy supplies](https://te.arielherself.xyz/united-states/hawaiis-oil-dependent-economy-is-being-battered-by-russias-war/21808955)—petrol is costlier in Hawaii than in any other state—and a perennial shortage of affordable housing has worsened. The Aloha State is blue in more ways than one.
 
+## Rushdie in hospital after attack
+
+Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because of his work. Some Muslims judged “The Satanic Verses”, the author’s fourth novel, published in 1988, as blasphemous. Iran called for his death, forcing him into hiding. In recent years the threat had seemed to ease, and he spent much of his time in America. On Friday, in upstate New York, he was stabbed multiple times on stage.  
+  
+ Sir Salman is on a ventilator, and may lose an eye, according to his agent. The attacker, a 24-year-old man from New Jersey, has been arrested; his motive is unknown. Hardline Iranian newspapers have praised his actions. Security at the Chautauqua Institution, the arts education centre where the attack took place, was light, according to witnesses. Sir Salman had been due to speak on the topic of America as a home for freedom of expression. In 2017 he told <em>The Economist</em> that “It’s only when somebody tries to gag you that you really begin to believe in free speech.”
+
 ## Warranted action: dissecting the FBI raid
 
 Four days after the FBI searched Donald Trump’s home at Mar-a-Lago, in Florida, more details are emerging. It was ostensibly part of an investigation into the ex-president’s alleged removal of classified documents from the White House when he left it. An inventory list from the search warrant, unsealed on Friday and leaked to several newspapers, showed that FBI agents seized 11 sets of documents, some marked “top secret”, meaning they may not leave secure government-approved facilities. 
 
 The most explosive detail is not what was in the boxes—which included Mr Trump’s pardon of Roger Stone, one of his fixers, and “info re: the President of France”. Rather it is the three statutes under which the warrant was granted. One was against “gathering, transmitting or losing defence information”. That law is part of the Espionage Act. Why Mr Trump may have taken the documents, and whether charges will follow, is unknown. But could he be indicted on laws against spying?
-
-## Dark days for the All Blacks
-
-The All Blacks, New Zealand’s men’s rugby union team, has a compelling claim to be the best sports team ever. Since their first game in 1903, they have won more than 75% of the matches they have played, and three World Cups. By those high standards, recent results have been disastrous. In July they lost a series at home to Ireland. Last week they lost in South Africa. The second (and final) match in that series is played on Saturday. Ian Foster, the coach, needs a win to keep his job.
-
-But there are also structural weaknesses hurting the team. Changes to the domestic club-level competition have cut off exposure to sides from outside the Pacific. Participation rates are falling as kids turn to other sports. The team’s financial future may be secure, thanks to a private-equity injection of $129m earlier this year. But a return to all-conquering form, especially before the World Cup in 2023, looks far less certain. 
 
 ## A film musician goes solo
 
@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="2043524f5353574f52446045434f4e4f4d4953540e434f4d">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#f7948598848480988593b792949899989a9e8483d994989a), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="6201100d1111150d10062207010d0c0d0f0b11164c010d0f">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#9dfeeff2eeeeeaf2eff9ddf8fef2f3f2f0f4eee9b3fef2f0), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
