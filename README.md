@@ -14,7 +14,7 @@
 
 The warrant used by the FBI to search <strong>Donald Trump’s</strong> home was issued because America’s Department of Justice said it believed that Mr Trump violated <strong>the Espionage Act</strong>, which prohibits the possession or transmission of national security information. Mr Trump did not object to a request by Merrick Garland, the attorney-general, that a Florida court unseal the warrant. The agents who [searched Mar-a-Lago](https://te.arielherself.xyz/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) reportedly removed 11 sets of classified documents, including material marked “top secret” and information on France’s president, Emmanuel Macron.
 
-Sir Salman Rushdie, the Booker-prizewinning [novelist](https://te.arielherself.xyz/books-and-arts/2019/09/05/salman-rushdies-new-novel-is-a-metafictional-romp), was stabbed several times when he was about to deliver a lecture in Chautauqua, in upstate New York. Sir Salman was airlifted to hospital; his agent said he was put on a ventilator and may lose an eye. The attacker has been taken into police custody. “The Satanic Verses”, the author’s fourth novel, inspired condemnation upon its release in 1988. Some Muslims judged it blasphemous, and Iran called for his death. 
+<strong>Sir Salman Rushdie</strong>, the Booker-prizewinning [novelist](https://te.arielherself.xyz/books-and-arts/2019/09/05/salman-rushdies-new-novel-is-a-metafictional-romp), was stabbed several times when he was about to deliver a lecture in Chautauqua, in upstate New York. Sir Salman was airlifted to hospital; his agent said he was put on a ventilator and may lose an eye. The attacker has been taken into police custody. “The Satanic Verses”, the author’s fourth novel, inspired condemnation upon its release in 1988. Some Muslims judged it blasphemous, and Iran called for his death. 
 
 America’s <strong>House of Representatives</strong> approved a $430bn climate, tax and health-care bill, delivering a boost for President Joe Biden ahead of November’s mid-term elections. The <strong>Inflation Reduction Act</strong> is the largest package of climate spending in American history, providing $369bn of support for renewable energy and other green infrastructure. It also aims to lower prescription drug prices and raise taxes on some big firms.
 
@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="f89b8a978b8b8f978a9cb89d9b97969795918b8cd69b9795">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#ceadbca1bdbdb9a1bcaa8eabada1a0a1a3a7bdbae0ada1a3), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="0b68796478787c64796f4b6e686465646662787f25686466">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#5d3e2f322e2e2a322f391d383e32333230342e29733e3230), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
