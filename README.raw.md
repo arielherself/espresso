@@ -32,12 +32,6 @@ Five <strong>Chinese state-owned firms</strong> will apply to <strong>delist </s
 
 ----------
 
-## The Aloha State votes
-
-More Hawaiians than usual may vote in the state’s primary elections on Saturday. Hawaii began mailing ballots to voters in 2020 to boost its turnout, the lowest in America. By August 9th, 25% of ballots had already been returned.
-
-The surge of new voters is unlikely to help the Republican Party in a state that is deep blue. David Ige, the governor, and all four members of Congress are Democrats. Mr Ige has reached his term limit but his replacement will probably be Joshua Green, his current deputy. Brian Schatz, one of the Senate’s loudest voices for climate-change legislation, should also glide to victory in his primary. Should they win their general-election races in November, they will have much to do. The pandemic battered the state’s tourism-dependent economy, the Ukraine war strained its[ energy supplies](https://www.economist.com/united-states/hawaiis-oil-dependent-economy-is-being-battered-by-russias-war/21808955)—petrol is costlier in Hawaii than in any other state—and a perennial shortage of affordable housing has worsened. The Aloha State is blue in more ways than one.
-
 ## Rushdie in hospital after attack
 
 Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because of his work. Some Muslims judged “The Satanic Verses”, the author’s fourth novel, published in 1988, as blasphemous. Iran called for his death, forcing him into hiding. In recent years the threat had seemed to ease, and he spent much of his time in America. On Friday, in upstate New York, he was stabbed multiple times on stage.  
@@ -49,6 +43,12 @@ Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because 
 Four days after the FBI searched Donald Trump’s home at Mar-a-Lago, in Florida, more details are emerging. It was ostensibly part of an investigation into the ex-president’s alleged removal of classified documents from the White House when he left it. An inventory list from the search warrant, unsealed on Friday and leaked to several newspapers, showed that FBI agents seized 11 sets of documents, some marked “top secret”, meaning they may not leave secure government-approved facilities. 
 
 The most explosive detail is not what was in the boxes—which included Mr Trump’s pardon of Roger Stone, one of his fixers, and “info re: the President of France”. Rather it is the three statutes under which the warrant was granted. One was against “gathering, transmitting or losing defence information”. That law is part of the Espionage Act. Why Mr Trump may have taken the documents, and whether charges will follow, is unknown. But could he be indicted on laws against spying?
+
+## The Aloha State votes
+
+More Hawaiians than usual may vote in the state’s primary elections on Saturday. Hawaii began mailing ballots to voters in 2020 to boost its turnout, the lowest in America. By August 9th, 25% of ballots had already been returned.
+
+The surge of new voters is unlikely to help the Republican Party in a state that is deep blue. David Ige, the governor, and all four members of Congress are Democrats. Mr Ige has reached his term limit but his replacement will probably be Joshua Green, his current deputy. Brian Schatz, one of the Senate’s loudest voices for climate-change legislation, should also glide to victory in his primary. Should they win their general-election races in November, they will have much to do. The pandemic battered the state’s tourism-dependent economy, the Ukraine war strained its energy supplies—petrol is costlier in Hawaii than in any other state—and a perennial shortage of affordable housing has worsened. The Aloha State is blue in more ways than one.
 
 ## A film musician goes solo
 
@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="6201100d1111150d10062207010d0c0d0f0b11164c010d0f">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#9dfeeff2eeeeeaf2eff9ddf8fef2f3f2f0f4eee9b3fef2f0), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="9cffeef3efefebf3eef8dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#b1d2c3dec2c2c6dec3d5f1d4d2dedfdedcd8c2c59fd2dedc), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
