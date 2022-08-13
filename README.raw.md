@@ -18,7 +18,7 @@ The warrant used by the FBI to search <strong>Donald Trump’s</strong> home was
 
 America’s <strong>House of Representatives</strong> approved a $430bn climate, tax and health-care bill, delivering a boost for President Joe Biden ahead of November’s mid-term elections. The <strong>Inflation Reduction Act</strong> is the largest package of climate spending in American history, providing $369bn of support for renewable energy and other green infrastructure. It also aims to lower prescription drug prices and raise taxes on some big firms.
 
-America will unveil a new trade plan with <strong>Taiwan </strong>in the coming days, the White House said, intended to deepen ties with the island. Tensions between America, China and Taiwan have been high since Nancy Pelosi, an American politician, visited Taiwan earlier this month. A trip by China’s president, Xi Jinping, reportedly being planned for November, may include a first face-to-face meeting with his American counterpart Joe Biden since the latter became president.
+<strong>Taiwan’s</strong> defence ministry said that 13 Chinese air-force planes crossed the Taiwan Strait’s median line. Tensions between America, China and Taiwan [have been high](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) since Nancy Pelosi, an American politician, visited Taiwan earlier this month. America will unveil a new trade plan with Taiwan in the coming days, the White House said, intended to deepen ties with the self-governing island.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 The two road bridges into <strong>Kherson</strong>, a city in southern <strong>Ukraine </strong>occupied by Russian forces, are out of use for military supplies, according to British intelligence. Ukraine has for weeks hinted that a counter-attack is imminent, but it faces steep odds to retake the city. Russia has been reinforcing defensive positions throughout the south of the country.
 
-Five <strong>Chinese state-owned firms</strong> will apply to <strong>delist </strong>from the New York Stock Exchange, including China Life Insurance and two energy giants, PetroChina and Sinopec. All five failed to meet American auditing standards earlier this year. The price of other Chinese stocks listed in America tumbled in response to the news. Sino-American tensions are [running high](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) following the visit of Nancy Pelosi, an American politician, [to Taiwan](https://www.economist.com/leaders/2022/08/11/how-to-prevent-a-war-between-america-and-china-over-taiwan).
+Five <strong>Chinese state-owned firms</strong> will apply to <strong>delist </strong>from the New York Stock Exchange, including China Life Insurance and two energy giants, PetroChina and Sinopec. All five failed to meet American auditing standards earlier this year. The price of other Chinese stocks listed in America tumbled in response to the news.
 
 <strong><em>Correction:</em></strong><em> our “Fact of the day” on Friday incorrectly attributed an increase in violent crimes involving guns to states in America where right-to-carry laws were struck down. The increase was actually in states where the laws were adopted. Sorry</em>
 
@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="b5d6c7dac6c6c2dac7d1f5d0d6dadbdad8dcc6c19bd6dad8">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#bad9c8d5c9c9cdd5c8defadfd9d5d4d5d7d3c9ce94d9d5d7), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="98fbeaf7ebebeff7eafcd8fdfbf7f6f7f5f1ebecb6fbf7f5">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#563524392525213924321633353938393b3f25227835393b), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
