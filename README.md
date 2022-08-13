@@ -30,7 +30,7 @@ The two road bridges into <strong>Kherson</strong>, a city in southern <strong>U
 
 ----------
 
-## Rushdie in hospital after attack
+## Salman Rushdie in hospital after attack
 
 Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because of his work. Some Muslims judged “The Satanic Verses”, the author’s fourth novel, published in 1988, as blasphemous. Iran called for his death, forcing him into hiding. In recent years the threat had seemed to ease, and he spent much of his time in America. On Friday, in upstate New York, he was stabbed multiple times on stage.  
   
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="a2c1d0cdd1d1d5cdd0c6e2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#5a39283529292d35283e1a3f393534353733292e74393537), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="84e7f6ebf7f7f3ebf6e0c4e1e7ebeaebe9edf7f0aae7ebe9">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#bbd8c9d4c8c8ccd4c9dffbded8d4d5d4d6d2c8cf95d8d4d6), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
