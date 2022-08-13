@@ -12,80 +12,103 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The warrant used by the <strong>FBI </strong>to search <strong>Donald Trump</strong>’s home was issued because the Justice Department said it believed that Mr Trump violated the Espionage Act, which prohibits the possession or transmission of national security information. Mr Trump did not object to a request by Merrick Garland, the attorney-general, that a Florida court unseal the warrant. The agents who [searched Mar-a-Lago](https://www.economist.com/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) reportedly removed 11 sets of classified documents, including material marked “top secret” and information on French president Emmanuel Macron. 
+The warrant used by the FBI to search <strong>Donald Trump’s</strong> home was issued because America’s Department of Justice said it believed that Mr Trump violated <strong>the Espionage Act</strong>, which prohibits the possession or transmission of national security information. Mr Trump did not object to a request by Merrick Garland, the attorney-general, that a Florida court unseal the warrant. The agents who [searched Mar-a-Lago](https://www.economist.com/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) reportedly removed 11 sets of classified documents, including material marked “top secret” and information on France’s president, Emmanuel Macron.
 
-Five <strong>Chinese state-owned firms</strong> will apply to <strong>delist </strong>from the New York Stock Exchange, including China Life Insurance and energy giants PetroChina and Sinopec. All five failed to meet American auditing standards earlier this year. The price of other Chinese stocks listed in America tumbled in response to the news. Sino-American tensions are [running high](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) following the visit of Nancy Pelosi, an American politician, [to Taiwan](https://www.economist.com/leaders/2022/08/11/how-to-prevent-a-war-between-america-and-china-over-taiwan).
+Sir Salman Rushdie, the Booker-prizewinning [novelist](https://www.economist.com/books-and-arts/2019/09/05/salman-rushdies-new-novel-is-a-metafictional-romp), was stabbed several times when he was about to deliver a lecture in Chautauqua, in upstate New York. Sir Salman was airlifted to hospital; his agent said he was put on a ventilator and may lose an eye. The attacker has been taken into police custody. “The Satanic Verses”, the author’s fourth novel, inspired condemnation upon its release in 1988. Some Muslims judged it blasphemous, and Iran called for his death. 
 
-<strong>Salman Rushdie</strong>, the author of “The Satanic Verses”, was <strong>stabbed </strong>several times when he was about to deliver a lecture in Chautauqua, New York. Mr Rushdie was airlifted to the hospital; New York’s governor, Kathy Hochul, said he was alive and getting the care he needs. His attacker has been taken into police custody. “The Satanic Verses” inspired controversy upon its release in 1988. Some Muslims said it was blasphemous, and Iran called for Mr Rushdie’s death.
+America’s <strong>House of Representatives</strong> approved a $430bn climate, tax and health-care bill, delivering a boost for President Joe Biden ahead of November’s mid-term elections. The <strong>Inflation Reduction Act</strong> is the largest package of climate spending in American history, providing $369bn of support for renewable energy and other green infrastructure. It also aims to lower prescription drug prices and raise taxes on some big firms.
 
-<strong>Britain </strong>declared a <strong>drought </strong>in parts of the country for the first time since 2018. The announcement came amid a [heatwave](https://www.economist.com/leaders/2022/07/20/todays-heatwaves-are-a-warning-of-worse-to-come) and on the heels of Britain’s driest July in almost 90 years. Several water companies have imposed restrictions on water usage, prohibiting customers from using hoses on their cars or gardens.
+America will unveil a new trade plan with <strong>Taiwan </strong>in the coming days, the White House said, intended to deepen ties with the island. Tensions between America, China and Taiwan have been high since Nancy Pelosi, an American politician, visited Taiwan earlier this month. A trip by China’s president, Xi Jinping, reportedly being planned for November, may include a first face-to-face meeting with his American counterpart Joe Biden since the latter became president.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Taiwan </strong>will no longer host WorldPrideTaiwan 2025, following a request from the event’s licensing body to drop the word “Taiwan” from the event title. At the behest of China, international organisations often insist that the self-governing island uses names other than “Taiwan”. But the WorldPride organisers said that capitulating to the request on this occasion would “harm the interests of Taiwan”. 
+<strong>Idaho</strong>’s Supreme Court refused a bid to halt a Republican-backed state law that brings in a near-total ban on <strong>abortion</strong>. Around half of states have or are expected to ban or limit abortion rights following the decision by America’s Supreme Court to overturn <em>[Roe v Wade](https://www.economist.com/leaders/2022/06/24/the-supreme-courts-rejection-of-roe-will-hurt-the-poorest-most)</em>. Idaho’s measure, which takes effect on August 25th, will allow abortions only in cases of rape, incest or to prevent a pregnant woman’s death. 
 
-A trip by China’s president, <strong>Xi Jinping,</strong> reportedly being planned for November, may include a first face-to-face meeting with his American counterpart <strong>Joe Biden</strong> since Mr Biden became president. They may get together on the margins of multilateral summits in Indonesia or Thailand. Reports also suggest that Mr Xi, who has not left China for nearly three years, may visit Saudi Arabia this month. The Chinese foreign ministry refused to comment. 
+The two road bridges into <strong>Kherson</strong>, a city in southern <strong>Ukraine </strong>occupied by Russian forces, are out of use for military supplies, according to British intelligence. Ukraine has for weeks hinted that a counter-attack is imminent, but it faces steep odds to retake the city. Russia has been reinforcing defensive positions throughout the south of the country.
 
-<strong>Britain’s</strong> GDP contracted by 0.1% in the three months to June, compared with the previous quarter. The Office for National Statistics attributed most of the decline in services output to a fall in health and social work activities related to covid-19. Household consumption fell by 0.2%. The new GDP numbers signal another blow to [Britain’s faltering economy](https://www.economist.com/britain/2022/08/11/britains-economy-is-taking-a-drubbing).
+Five <strong>Chinese state-owned firms</strong> will apply to <strong>delist </strong>from the New York Stock Exchange, including China Life Insurance and two energy giants, PetroChina and Sinopec. All five failed to meet American auditing standards earlier this year. The price of other Chinese stocks listed in America tumbled in response to the news. Sino-American tensions are [running high](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) following the visit of Nancy Pelosi, an American politician, [to Taiwan](https://www.economist.com/leaders/2022/08/11/how-to-prevent-a-war-between-america-and-china-over-taiwan).
 
-<strong>Fact of the day:</strong> 29%, the increase in violent crimes involving guns in American states where right-to-carry laws were adopted. [Read the full story](https://www.economist.com/graphic-detail/2022/08/11/a-supreme-court-ruling-could-spell-even-more-gun-crime).
+<strong><em>Correction:</em></strong><em> our “Fact of the day” on Friday incorrectly attributed an increase in violent crimes involving guns to states in America where right-to-carry laws were struck down. The increase was actually in states where the laws were adopted. Sorry</em>
 
 ----------
 
-## The IRA’s journey to the president’s desk
+## The Aloha State votes
 
-On Friday America’s House of Representatives passed the Inflation Reduction Act, a large piece of legislation that will increase some taxes, reduce health-care costs and, most importantly, unlock a vast array of investments to fight climate change. Altogether, the IRA is forecast to generate over $700bn of tax revenue and health savings for the government, much of which will be funnelled towards clean energy.
+More Hawaiians than usual may vote in the state’s primary elections on Saturday. Hawaii began mailing ballots to voters in 2020 to boost its turnout, the lowest in America. By August 9th, 25% of ballots had already been returned.
 
-An earlier iteration of the law, the $3.5trn [Build Back Better](https://www.economist.com/united-states/2021/12/19/joe-manchin-kills-the-build-back-better-act-joe-bidens-ambitious-legislative-package) bill, was stymied by Joe Manchin, a conservative Democrat senator from West Virginia. But a last-minute surprise deal between Mr Manchin and his party’s bigwigs revived a slimline version of the package. To get through a[ Senate](https://www.economist.com/united-states/2022/08/09/joe-bidens-signature-legislation-passes-the-senate-at-last) divided on party lines, yet more provisions had to be scaled down.
+The surge of new voters is unlikely to help the Republican Party in a state that is deep blue. David Ige, the governor, and all four members of Congress are Democrats. Mr Ige has reached his term limit but his replacement will probably be Joshua Green, his current deputy. Brian Schatz, one of the Senate’s loudest voices for climate-change legislation, should also glide to victory in his primary. Should they win their general-election races in November, they will have much to do. The pandemic battered the state’s tourism-dependent economy, the Ukraine war strained its[ energy supplies](https://www.economist.com/united-states/hawaiis-oil-dependent-economy-is-being-battered-by-russias-war/21808955)—petrol is costlier in Hawaii than in any other state—and a perennial shortage of affordable housing has worsened. The Aloha State is blue in more ways than one.
 
-The final bill was renamed to assuage Americans’ fears about inflation, although it will do next to nothing to reduce it.[ It is imperfect—and essential](https://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential). For years America has sounded the alarm over climate change while doing little to put out fires. Build Back Better was more ambitious. But the IRA is much better than nothing.
+## Warranted action: dissecting the FBI raid
 
-## Russia’s economy battles sanctions
+Four days after the FBI searched Donald Trump’s home at Mar-a-Lago, in Florida, more details are emerging. It was ostensibly part of an investigation into the ex-president’s alleged removal of classified documents from the White House when he left it. An inventory list from the search warrant, unsealed on Friday and leaked to several newspapers, showed that FBI agents seized 11 sets of documents, some marked “top secret”, meaning they may not leave secure government-approved facilities. 
 
-The sanctions the West has imposed on Russia for its invasion of Ukraine have hurt, but not severely enough to prompt a rethink in the Kremlin. New Russian GDP figures, released on Friday, will indicate the scale of the damage.  
-  
- The official data are unlikely to deviate much from an estimate by the VEB Institute, a Russian state-owned development bank, that the economy continued to shrink in June. It expects a 5.7% fall of GDP in the second quarter of 2022, compared with the first quarter, when the Russian economy had already stagnated.  
-  
- The hit is not as bad as the covid shock, but is almost certain to last longer. It is comparable in size to the financial crisis of 2008-09. But some sectors may have bottomed out. Industrial output grew slightly in June, and resource extraction rebounded strongly; thus far Western sanctions on Russian fuel exports have been limited. The West may have to add more punitive measures to keep Vladimir Putin’s economy down.
+The most explosive detail is not what was in the boxes—which included Mr Trump’s pardon of Roger Stone, one of his fixers, and “info re: the President of France”. Rather it is the three statutes under which the warrant was granted. One was against “gathering, transmitting or losing defence information”. That law is part of the Espionage Act. Why Mr Trump may have taken the documents, and whether charges will follow, is unknown. But could he be indicted on laws against spying?
 
-## Easing quarantine for travellers to Hong Kong
+## Dark days for the All Blacks
 
-Hong Kong has been isolated from the outside world for so long that residents joke they have Stockholm syndrome: token concessions from their captors bring outpourings of gratitude. So it was on Monday, when the government announced that from Friday anyone entering the territory must spend only three days in quarantine, down from a week previously—and [three weeks](https://www.economist.com/china/2020/05/02/a-view-from-the-covid-19th-floor) before that. That is a relief to those sealed inside tiny hotel rooms (including this correspondent), but will do little to persuade tourists and business travellers to return. With the wider world open, why endure even three days’ captivity? 
+The All Blacks, New Zealand’s men’s rugby union team, has a compelling claim to be the best sports team ever. Since their first game in 1903, they have won more than 75% of the matches they have played, and three World Cups. By those high standards, recent results have been disastrous. In July they lost a series at home to Ireland. Last week they lost in South Africa. The second (and final) match in that series is played on Saturday. Ian Foster, the coach, needs a win to keep his job.
 
-Maintaining punitive entry requirements is increasingly baffling since Hong Kong went through a [covid-19 wave](https://www.economist.com/graphic-detail/2022/03/18/hong-kong-is-now-the-centre-of-the-pandemic) this year that infected perhaps half its 7.3m inhabitants. It tolerates around 4,000 new cases a day, with few restrictions on locals’ movement—hardly the zero-covid it once aspired to, or that mainland China still does. The consequences of isolation? On Friday Hong Kong confirmed consecutive quarters of shrinking year-on-year GDP.
+But there are also structural weaknesses hurting the team. Changes to the domestic club-level competition have cut off exposure to sides from outside the Pacific. Participation rates are falling as kids turn to other sports. The team’s financial future may be secure, thanks to a private-equity injection of $129m earlier this year. But a return to all-conquering form, especially before the World Cup in 2023, looks far less certain. 
 
-## Britain’s economy wilts in the heat
+## A film musician goes solo
 
-The only news competing with [record temperatures](https://www.economist.com/graphic-detail/2022/08/09/julys-heatwave-may-have-killed-thousands-of-britons) in Britain at the moment is the country’s dysfunctional economy. [Strikes](https://www.economist.com/britain/2022/08/09/almost-nothing-seems-to-be-working-in-britain-it-could-get-worse) are back in fashion, but the most salient problem is the spiralling cost of living. Last week the [Bank of England](https://www.economist.com/britain/2022/07/28/the-bank-of-england-must-weather-high-inflation-and-meddling-politicians) predicted that annual inflation would rise to just over 13% in October. At least half of this is driven by pricier electricity, gas and petrol. The annual bill paid by an average household is expected to more than double from around £2,000 ($2,400) now to £4,400 next April. On Friday the release of GDP figures for the second quarter confirmed the gloomy mood: the economy contracted by 0.1% compared with the previous quarter.
+Danny Elfman, legendary composer of nearly 100 Hollywood film scores, including the soundtracks of “Good Will Hunting” and “Spider-Man”, this week releases a solo album. “Bigger. Messier.” comprises reworked versions of songs from “Big Mess”, an industrial art-rock LP released last year, and features stars such as Iggy Pop and Trent Reznor. 
 
-Some comfort may be found in the growing expectation that Britain’s looming recession will be shallower than those in either the global financial crisis or the pandemic. And yet none of this bodes well for Britain’s ability to break out of its [longer-term economic rut](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain).
+This is not the radical sideways step it may seem. Mr Elfman was leader of a new-wave band called Oingo Boingo when two Hollywood fans, Tim Burton and Paul Reubens, invited him to score “Pee-wee’s Big Adventure”, a breakout hit in 1985.
 
-## Three strikes for a new baseball film
+Back then Mr Elfman wanted “to embrace film scoring from a classical approach”. That meant putting his rock instincts aside—until now. In this album, he says he is free to express himself. And that expression is 90 minutes of heavy-duty avant-garde electronica as epic and dramatic as any blockbuster movie.
 
-“There’s no crying in baseball!” This line, from “A League of Their Own”, a classic film about America’s short-lived [women’s professional baseball league](https://www.economist.com/culture/2022/08/11/a-league-of-their-own-examines-race-and-gender-in-baseballs-past), makes a reappearance in a television series of the same name. Like the movie, the show, released on Friday on Prime Video, tells the story of the (real-life) Rockford Peaches on their (fictional) journey to the 1943 World Series. Much else will be familiar to fans of the film. Players wear the same uniform, sing the same song—and overcome the same despicable sexism. 
+## Weekend profile: Robert Habeck, Germany’s energy hero
 
-Yet there are differences. The show ditches the film’s all-white cast. Most of its main characters are queer; several are black and Hispanic. It is also much raunchier. But diversity and debauchery do not make a satisfying show. “A League of Their Own” is caught uncomfortably between honouring the film and breaking its mould. The series taps into a surge of [interest](https://www.economist.com/international/2022/07/21/the-womens-euros-are-selling-out-stadiums) in women’s sport, but fewer feel-good quotes and more plot development would have helped it match its predecessor.
+Olaf Scholz may be Germany’s chancellor, but to many the man of the hour in Berlin is Robert Habeck, his vice-chancellor and minister for economy and climate change. This is not just because the senior-most Green in the three-party ruling coalition pips his boss in the polls: since this government took office in December Mr Habeck has consistently been named the country’s most popular politician. It is also because his job as energy supremo puts the chatty, studiedly casual 52-year-old on the front lines of the [biggest crisis](https://www.economist.com/briefing/2022/08/11/germany-is-facing-dramatic-change-in-many-dimensions-all-at-once) Germany has faced in a generation.
 
-## Daily quiz
+By most accounts Mr Habeck has done well. Russia’s invasion of Ukraine in February placed Germany in a dilemma. Decades of misguided policy had hooked Europe’s biggest economy on Russian fossil fuels. Pipelines from Siberia supplied 55% of its natural gas. But with a mix of charm, money and dealmaking, Mr Habeck has helped shield Germany from potential blackmail by trimming gas use and finding new suppliers. Enhancing his reputation for pragmatism (some would say lack of principle), the vice-chancellor muted his Green beliefs to reignite mothballed coal-fired power stations. A similar nose-holding green light may also keep Germany’s last three nuclear power plants open. They were to close in December as part of a longstanding plan to scrap nuclear power. Polls show even a majority of Green voters realise that, right now, that would be stupid.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="82d3f7ebf8c7f1f2f0e7f1f1edc2e7e1edecedefebf1f6ace1edef">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Mr Habeck, who hails from Germany’s northernmost state, Schleswig-Holstein, earned a PhD in literature before entering politics. But it is his trademark three-day stubble, preference for open-necked shirts and penchant for blunt honesty that seem to please voters. He has also won points for working smoothly with Annalena Baerbock, the foreign minister, whose choice as the Greens’ candidate for chancellor in last year’s election was tough on Mr Habeck, by his own admission. But the easygoing manner disguises a sharp statesman. Visiting Ukraine last summer, Mr Habeck suggested supplying the country with defensive weapons. Rivals from left, right and centre called him irresponsible. Who looks silly now?
 
-<strong>Thursday:</strong> Which Australian conservationist and television personality was killed by a stingray in 2006?
+## Weekly crossword
 
-<strong>Friday:</strong> Which American cyclist was stripped of his seven Tour de France titles after doping allegations?
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-## The winners of last week’s crossword
+<strong>Cryptic clues</strong>
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+<em>1 down:</em> Confused, I ask for a bun in a Francophone country (7,4)
 
-<strong>Jane Gose</strong>, Kihei, USA  
-<strong>Jaime Jean</strong>, Mexico City, Mexico   
-<strong>Kevin Conley</strong>, Espoo, Finland   
-<strong>Paul Leigh</strong>, Pretoria, South Africa   
-<strong>Guillermo Garrido, </strong>Orlando, USA  
-<strong>Anton Grui</strong>, Kyiv, Ukraine
+<em>1 across:</em> A hot dish cold is very cold (6)
 
-They all gave the correct answers of the [metaverse](https://www.economist.com/culture/2022/07/27/in-the-metaverse-matthew-ball-explains-where-the-idea-came-from), [Taipei](https://www.economist.com/by-invitation/2022/08/03/xi-jinping-may-attack-taiwan-to-secure-his-legacy-warn-admiral-lee-hsi-min-and-eric-lee), [tiger](https://www.economist.com/1843/2022/07/28/look-whos-stalking-the-black-leopards-of-gloucestershire) and [energy](https://www.economist.com/europe/2022/07/28/the-eu-agrees-on-an-energy-diet-to-fight-russian-gas-cuts). Check back tomorrow for this week’s crossword.
+<em>2 across:</em> Dangerous weapons found in three directions around Britain? (5)
+
+<em>3 across:</em> Look within for a clear source of wisdom (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down:</em> About 2,100 people have been killed there in the first half of the year (7,4)
+
+<em>1 across:</em> States with high literacy rates (6) 
+
+<em>2 across:</em> Viewed as “political instruments” by China, India and Pakistan (5)
+
+<em>3 across</em>: One of several moving closer to the battlefield? (6)
+
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="5d3e2f322e2e2a322f391d383e32333230342e29733e3230">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#5437263b2727233b26301431373b3a3b393d27207a373b39), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia:<strong> Marilou Cristobal</strong>, Muntinlupa City, Philippines
+
+North America: <strong>Ron Toogood</strong>, Moncton, Canada
+
+Central and South America: <strong>Celso Covre</strong>, Brasília, Brazil
+
+Europe: <strong>Bernt Arne Ødegaard</strong>, Fitjar, Norway
+
+Africa: <strong>Christine Reiter</strong>, Tunis, Tunisia
+
+Oceania: <strong>Andrew McMenamin</strong>, Lincoln, New Zealand
+
+They all gave the correct answers of John Mitchell, LL Bean, Joseph Conrad, Steve Irwin and Lance Armstrong. The theme is astronauts who walked on the moon: Edgar Mitchell, Alan Bean, Pete Conrad, James Irwin and Neil Armstrong.
 
 ----------
 
