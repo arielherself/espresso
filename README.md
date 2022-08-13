@@ -22,13 +22,11 @@ America’s <strong>House of Representatives</strong> approved a $430bn climate,
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Idaho</strong>’s Supreme Court refused a bid to halt a Republican-backed state law that brings in a near-total ban on <strong>abortion</strong>. Around half of states have or are expected to ban or limit abortion rights following the decision by America’s Supreme Court to overturn <em>[Roe v Wade](https://te.arielherself.xyz/leaders/2022/06/24/the-supreme-courts-rejection-of-roe-will-hurt-the-poorest-most)</em>. Idaho’s measure, which takes effect on August 25th, will allow abortions only in cases of rape, incest or to prevent a pregnant woman’s death. 
+<strong>Idaho’s</strong> Supreme Court refused a bid to halt a Republican-backed state law that brings in a near-total ban on <strong>abortion</strong>. Around half of states have or are expected to ban or limit abortion rights following the decision by America’s Supreme Court to overturn <em>[Roe v Wade](https://te.arielherself.xyz/leaders/2022/06/24/the-supreme-courts-rejection-of-roe-will-hurt-the-poorest-most)</em>. Idaho’s measure, which takes effect on August 25th, will allow abortions only in cases of rape, incest or to prevent a pregnant woman’s death. 
 
 The two road bridges into <strong>Kherson</strong>, a city in southern <strong>Ukraine </strong>occupied by Russian forces, are out of use for military supplies, according to British intelligence. Ukraine has for weeks hinted that a counter-attack is imminent, but it faces steep odds to retake the city. Russia has been reinforcing defensive positions throughout the south of the country.
 
 <strong>Taliban</strong> fighters violently dispersed a rare rally in Afghanistan’s capital, <strong>Kabul</strong>, and beat female protesters. Around 40 women marched on the education ministry to protest against the country’s [dire economic situation](https://te.arielherself.xyz/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago) and the hardline Islamist group’s restrictions on women’s rights, before fighters fired guns into the air to scatter the crowd. The protest comes before the first anniversary of the Taliban’s return to power on August 15th.
-
-<strong><em>Correction:</em></strong><em> our “Fact of the day” on Friday incorrectly attributed an increase in violent crimes involving guns to states in America where right-to-carry laws were struck down. The increase was actually in states where the laws were adopted. Sorry</em>
 
 ----------
 
@@ -88,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="dab9a8b5a9a9adb5a8be9abfb9b5b4b5b7b3a9aef4b9b5b7">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#99faebf6eaeaeef6ebfdd9fcfaf6f7f6f4f0eaedb7faf6f4), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="0162736e7272766e73654164626e6f6e6c6872752f626e6c">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#cba8b9a4b8b8bca4b9af8baea8a4a5a4a6a2b8bfe5a8a4a6), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
