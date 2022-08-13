@@ -44,19 +44,17 @@ Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because 
   
  Sir Salman is on a ventilator, and may lose an eye, according to his agent. The attacker, a 24-year-old man from New Jersey, has been arrested; his motive is unknown. Hardline Iranian newspapers have praised his actions. Security at the Chautauqua Institution, the arts education centre where the attack took place, was light, according to witnesses. Sir Salman had been due to speak on the topic of America as a home for freedom of expression. In 2017 he told <em>The Economist</em> that “It’s only when somebody tries to gag you that you really begin to believe in free speech.”
 
-## The Aloha State votes
+## The European Championships find strength in numbers
 
-More Hawaiians than usual may vote in the state’s primary elections on Saturday. Hawaii began mailing ballots to voters in 2020 to boost its turnout, the lowest in America. By August 9th, 25% of ballots had already been returned.
+Sports fans waking up in Munich on Sunday are spoiled for choice. Fancy breakfast in the Olympiapark while watching a triathlon? Or how about track cycling at the Neue Messe München? Or table tennis at the Audi Dome? Until August 21st Munich is hosting an experiment. The associations of nine sports—including athletics, beach volleyball, canoeing, cycling, gymnastics, rowing, sport climbing, triathlon and table tennis—have decided to run their European tournaments in tandem in a single city. 
 
-The surge of new voters is unlikely to help the Republican Party in a state that is deep blue. David Ige, the governor, and all four members of Congress are Democrats. Mr Ige has reached his term limit but his replacement will probably be Joshua Green, his current deputy. Brian Schatz, one of the Senate’s loudest voices for climate-change legislation, should also glide to victory in his primary. Should they win their general-election races in November, they will have much to do. The pandemic battered the state’s tourism-dependent economy, the Ukraine war strained its energy supplies—petrol is costlier in Hawaii than in any other state—and a perennial shortage of affordable housing has worsened. The Aloha State is blue in more ways than one.
+The idea is that these smaller sports have a better chance of commanding bigger audiences if they work together. That makes sense: after all, the Olympics is more than the sum of its parts. But the European Championships also wants to avoid some Olympic-sized pitfalls. It chose Munich because no new tourist facilities or venues needed to be constructed. Consequently, its budget is around 1% of Tokyo’s 2020 Olympics. It is a lean, efficient approach that could catch on.
 
-## A film musician goes solo
+## Why thinking hard exhausts your brain
 
-Danny Elfman, legendary composer of nearly 100 Hollywood film scores, including the soundtracks of “Good Will Hunting” and “Spider-Man”, this week releases a solo album. “Bigger. Messier.” comprises reworked versions of songs from “Big Mess”, an industrial art-rock LP released last year, and features stars such as Iggy Pop and Trent Reznor. 
+Mental exhaustion is a strange sensation; not quite drowsiness, but an inability to think straight. The body may feel fine, yet the brain wants to do little more than watch television. Researchers writing in <em>Current Biology</em>, a journal, went in search of a physiological basis for this frazzled feeling—and may have found one.
 
-This is not the radical sideways step it may seem. Mr Elfman was leader of a new-wave band called Oingo Boingo when two Hollywood fans, Tim Burton and Paul Reubens, invited him to score “Pee-wee’s Big Adventure”, a breakout hit in 1985.
-
-Back then Mr Elfman wanted “to embrace film scoring from a classical approach”. That meant putting his rock instincts aside—until now. In this album, he says he is free to express himself. And that expression is 90 minutes of heavy-duty avant-garde electronica as epic and dramatic as any blockbuster movie.
+For over six hours, 24 volunteers performed difficult mental problems that required intense cognition—another group was given easier versions. Their brains were scanned throughout the mock workday, which suggested that mental graft induced the build-up of a neurotransmitter called glutamate in the forebrain. As glutamate can be toxic, it seems the brain has to limit cognition to avoid an overload. The industrious volunteers’ decision-making also changed—they began to favour instant rewards over delayed gratification. Your brain on energy-saver mode should be spared important decisions. After a stressful day in the office, some mindless channel-surfing may be just what it needs.
 
 ## Weekend profile: Robert Habeck, Germany’s energy hero
 
@@ -90,7 +88,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="c3a0b1acb0b0b4acb1a783a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#90f3e2ffe3e3e7ffe2f4d0f5f3fffefffdf9e3e4bef3fffd), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="dab9a8b5a9a9adb5a8be9abfb9b5b4b5b7b3a9aef4b9b5b7">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#a3c0d1ccd0d0d4ccd1c7e3c6c0cccdcccecad0d78dc0ccce), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
