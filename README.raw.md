@@ -22,11 +22,11 @@ At least seven people were injured, some seriously, after gunmen opened fire nea
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Taiwan’s</strong> defence ministry said that 13 Chinese air-force planes crossed the Taiwan Strait’s median line. Tensions between America, China and Taiwan [have been high](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) since Nancy Pelosi, an American politician, visited Taiwan earlier this month. America will unveil a new trade plan with Taiwan in the coming days, the White House said, intended to deepen ties with the self-governing island.
+<strong>Saudi Aramco</strong>, one of the world’s biggest oil producers, posted record profits for the second quarter running. High oil prices pushed net income to $48.4bn in the second quarter, up 90% year-on-year. Saudi Arabia and other members of OPEC, a cartel of oil producers, have been slow to increase production, despite requests from the West in an effort to lower [soaring energy costs](https://www.economist.com/leaders/2022/08/10/how-to-help-with-energy-bills).
+
+<strong>Germany’s</strong> energy-network regulator said the country must <strong>cut gas use</strong> by 20% to avoid shortages this winter. The government, meanwhile, said public buildings will turn down thermostats in winter to 19°C (66°F). The [looming crisis](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) stems from curtailed flows of Russian gas to Germany, seemingly in retaliation for European sanctions on Russia.
 
 With around 30% of votes counted in <strong>Kenya’s presidential election</strong>, Raila Odinga has a six-point lead over William Ruto, according to the country’s election commission. Mr Odinga is on his fifth presidential bid, having probably been [cheated](https://www.economist.com/leaders/2022/08/07/why-kenyas-election-matters) out of a win at least once. Counting of the vote, which took place on Tuesday, has been painfully slow.
-
-<strong>Taliban</strong> fighters violently dispersed a rare rally in Afghanistan’s capital, <strong>Kabul</strong>, and beat female protesters. Around 40 women marched on the education ministry to protest against the country’s [dire economic situation](https://www.economist.com/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago) and the hardline Islamist group’s restrictions on women’s rights, before fighters fired guns into the air to scatter the crowd. The protest comes before the first anniversary of the Taliban’s return to power on August 15th.
 
 ----------
 
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="ee8d9c819d9d99819c8aae8b8d81808183879d9ac08d8183">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#b9dacbd6cacaced6cbddf9dcdad6d7d6d4d0cacd97dad6d4), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="2d4e5f425e5e5a425f496d484e42434240445e59034e4240">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#adcedfc2dededac2dfc9edc8cec2c3c2c0c4ded983cec2c0), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
