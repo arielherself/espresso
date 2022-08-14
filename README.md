@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Taiwan’s</strong> defence ministry said that 13 Chinese air-force planes crossed the Taiwan Strait’s median line. Tensions between America, China and Taiwan [have been high](https://te.arielherself.xyz/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) since Nancy Pelosi, an American politician, visited Taiwan earlier this month. America will unveil a new trade plan with Taiwan in the coming days, the White House said, intended to deepen ties with the self-governing island.
 
-<strong>Idaho’s</strong> Supreme Court refused a bid to halt a Republican-backed state law that brings in a near-total ban on <strong>abortion</strong>. Around half of states have or are expected to ban or limit abortion rights following the decision by America’s Supreme Court to overturn <em>[Roe v Wade](https://te.arielherself.xyz/leaders/2022/06/24/the-supreme-courts-rejection-of-roe-will-hurt-the-poorest-most)</em>. Idaho’s measure, which takes effect on August 25th, will allow abortions only in cases of rape, incest or to prevent a pregnant woman’s death. 
+With around 30% of votes counted in <strong>Kenya’s presidential election</strong>, Raila Odinga has pulled out a six-point lead over William Ruto, according to the country’s election commission. Mr Odinga is on his fifth presidential bid, having probably been [cheated](https://te.arielherself.xyz/leaders/2022/08/07/why-kenyas-election-matters) out of a win at least once. Counting of the vote, which took place on Tuesday, has been painfully slow.
 
 <strong>Taliban</strong> fighters violently dispersed a rare rally in Afghanistan’s capital, <strong>Kabul</strong>, and beat female protesters. Around 40 women marched on the education ministry to protest against the country’s [dire economic situation](https://te.arielherself.xyz/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago) and the hardline Islamist group’s restrictions on women’s rights, before fighters fired guns into the air to scatter the crowd. The protest comes before the first anniversary of the Taliban’s return to power on August 15th.
 
@@ -32,9 +32,9 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## Salman Rushdie in hospital after attack
 
-Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because of his work. Some Muslims judged “The Satanic Verses”, the author’s fourth novel, published in 1988, as blasphemous. Iran called for his death, forcing him into hiding. In recent years the threat had seemed to ease, and he spent much of his time in America. On Friday, in upstate New York, he was stabbed multiple times on stage.  
-  
- Sir Salman is on a ventilator, and may lose an eye, according to his agent. The suspected attacker, a 24-year-old man from New Jersey, has been charged with attempted murder; his motive is unknown. Hardline Iranian newspapers have praised his actions. Security at the Chautauqua Institution, the arts education centre where the attack took place, was light, according to witnesses. Sir Salman had been due to speak on the topic of America as a home for freedom of expression. In 2017 he told <em>The Economist</em> that “It’s only when somebody tries to gag you that you really begin to believe in free speech.”
+Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because of his work. Some Muslims judged “The Satanic Verses”, the author’s fourth novel, published in 1988, as blasphemous. Iran called for his death, forcing him into hiding. In recent years the threat had seemed to ease, and he spent much of his time in America. On Friday, in upstate New York, he was stabbed multiple times on stage.
+
+Sir Salman’s condition appears to be improving. He has been removed from a ventilator and is now talking, according to his agent. He may still lose an eye. The attacker, a 24-year-old man from New Jersey, has been arrested; his motive is unknown. Hardline Iranian newspapers have praised his actions. Security at the Chautauqua Institution, the arts education centre where the attack took place, was light, according to witnesses. Sir Salman had been due to speak on the topic of America as a home for freedom of expression. In 2017 he told <em>The Economist</em> that “It’s only when somebody tries to gag you that you really begin to believe in free speech.”
 
 ## Run, Ron? The appeal of Ron DeSantis
 
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="0467766b7777736b76604461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#c7a4b5a8b4b4b0a8b5a387a2a4a8a9a8aaaeb4b3e9a4a8aa), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="1073627f6363677f62745075737f7e7f7d7963643e737f7d">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#fd9e8f928e8e8a928f99bd989e92939290948e89d39e9290), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
