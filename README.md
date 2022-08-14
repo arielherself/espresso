@@ -16,15 +16,15 @@ A lawyer for<strong> Donald Trump</strong> signed a statement in June declaring 
 
 <strong>Sir Salman Rushdie</strong>, a Booker-prizewinning [novelist](https://te.arielherself.xyz/books-and-arts/2019/09/05/salman-rushdies-new-novel-is-a-metafictional-romp) who was stabbed as he was about to deliver a lecture in upstate New York, has been taken off a ventilator and is able to talk, according to his agent. A 24-year-old man from New Jersey has been charged with attempted murder. Sir Salman has lived under the threat of violence since his fourth novel, “The Satanic Verses”, was published in 1988. Some Muslims thought it blasphemous. Iran’s then leader, Ayatollah Ruhollah Khomeini, called for his death.
 
-At least seven people were injured, some seriously, after gunmen opened fire near the Western Wall in <strong>Jerusalem</strong>. Israeli police are treating the incident as terrrorism. Last week a ceasefire was agreed between Israel and Palestinian Islamic Jihad, a militant group, after several PiJ leaders [were killed](https://te.arielherself.xyz/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) by Israeli drones. It is unclear whether the events are linked, but tensions have been high.
-
 Volodymyr Zelensky, Ukraine’s president, said that Russian troops who fire at the <strong>Zaporizhzhia</strong> nuclear plant will become “special targets”. Russia [seized](https://te.arielherself.xyz/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) the facility, Europe’s largest, in March. Mr Zelensky claimed that Russian soldiers were hitting Zaporizhzhia as an act of provocation, and were also firing missiles at Ukrainian forces from within its compound.
+
+At least seven people were injured, some seriously, after gunmen opened fire near the Western Wall in <strong>Jerusalem</strong>. Israeli police are treating the incident as terrrorism. Last week a ceasefire was agreed between Israel and Palestinian Islamic Jihad, a militant group, after several PiJ leaders [were killed](https://te.arielherself.xyz/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) by Israeli drones. It is unclear whether the events are linked, but tensions have been high.
 
 Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Taiwan’s</strong> defence ministry said that 13 Chinese air-force planes crossed the Taiwan Strait’s median line. Tensions between America, China and Taiwan [have been high](https://te.arielherself.xyz/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) since Nancy Pelosi, an American politician, visited Taiwan earlier this month. America will unveil a new trade plan with Taiwan in the coming days, the White House said, intended to deepen ties with the self-governing island.
 
-With around 30% of votes counted in <strong>Kenya’s presidential election</strong>, Raila Odinga has pulled out a six-point lead over William Ruto, according to the country’s election commission. Mr Odinga is on his fifth presidential bid, having probably been [cheated](https://te.arielherself.xyz/leaders/2022/08/07/why-kenyas-election-matters) out of a win at least once. Counting of the vote, which took place on Tuesday, has been painfully slow.
+With around 30% of votes counted in <strong>Kenya’s presidential election</strong>, Raila Odinga has a six-point lead over William Ruto, according to the country’s election commission. Mr Odinga is on his fifth presidential bid, having probably been [cheated](https://te.arielherself.xyz/leaders/2022/08/07/why-kenyas-election-matters) out of a win at least once. Counting of the vote, which took place on Tuesday, has been painfully slow.
 
 <strong>Taliban</strong> fighters violently dispersed a rare rally in Afghanistan’s capital, <strong>Kabul</strong>, and beat female protesters. Around 40 women marched on the education ministry to protest against the country’s [dire economic situation](https://te.arielherself.xyz/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago) and the hardline Islamist group’s restrictions on women’s rights, before fighters fired guns into the air to scatter the crowd. The protest comes before the first anniversary of the Taliban’s return to power on August 15th.
 
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="e7849588949490889583a782848889888a8e9493c984888a">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#6a09180519191d05180e2a0f090504050703191e44090507), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="5437263b2727233b26301431373b3a3b393d27207a373b39">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#d7b4a5b8a4a4a0b8a5b397b2b4b8b9b8babea4a3f9b4b8ba), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
