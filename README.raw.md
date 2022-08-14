@@ -18,15 +18,15 @@ A lawyer for<strong> Donald Trump</strong> signed a statement in June declaring 
 
 Volodymyr Zelensky, Ukraine’s president, said that Russian troops who fire at the <strong>Zaporizhzhia</strong> nuclear plant will become “special targets”. Russia [seized](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) the facility, Europe’s largest, in March. Mr Zelensky claimed that Russian soldiers were hitting Zaporizhzhia as an act of provocation, and were also firing missiles at Ukrainian forces from within its compound.
 
-At least seven people were injured, some seriously, after gunmen opened fire near the Western Wall in <strong>Jerusalem</strong>. Israeli police are treating the incident as terrrorism. Last week a ceasefire was agreed between Israel and Palestinian Islamic Jihad, a militant group, after several PiJ leaders [were killed](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) by Israeli drones. It is unclear whether the events are linked, but tensions have been high.
+William Ruto, Kenya’s deputy president, appeared to pull ahead in the country’s <strong>presidential election</strong>, according to preliminary results reported by Kenyan media. Earlier, it had seemed that Raila Odinga, the opposition candidate who has been endorsed by outgoing president Uhuru Kenyatta, was in the lead. Vote counting has been slow, and some officials have physically fought amid the tension.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+At least seven people were injured, some seriously, after gunmen opened fire near the Western Wall in <strong>Jerusalem</strong>. Israeli police are treating the incident as terrrorism. Last week a ceasefire was agreed between Israel and Palestinian Islamic Jihad, a militant group, after several PiJ leaders [were killed](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) by Israeli drones. It is unclear whether the events are linked, but tensions have been high.
 
 <strong>Saudi Aramco</strong>, one of the world’s biggest oil producers, posted record profits for the second quarter running. High oil prices pushed net income to $48.4bn in the second quarter, up 90% year-on-year. Saudi Arabia and other members of OPEC, a cartel of oil producers, have been slow to increase production, despite requests from the West in an effort to lower [soaring energy costs](https://www.economist.com/leaders/2022/08/10/how-to-help-with-energy-bills).
 
 <strong>Germany’s</strong> energy-network regulator said the country must <strong>cut gas use</strong> by 20% to avoid shortages this winter. The government, meanwhile, said public buildings will turn down thermostats in winter to 19°C (66°F). The [looming crisis](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) stems from curtailed flows of Russian gas to Germany, seemingly in retaliation for European sanctions on Russia.
-
-With around 30% of votes counted in <strong>Kenya’s presidential election</strong>, Raila Odinga has a six-point lead over William Ruto, according to the country’s election commission. Mr Odinga is on his fifth presidential bid, having probably been [cheated](https://www.economist.com/leaders/2022/08/07/why-kenyas-election-matters) out of a win at least once. Counting of the vote, which took place on Tuesday, has been painfully slow.
 
 ----------
 
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="c2a1b0adb1b1b5adb0a682a7a1adacadafabb1b6eca1adaf">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#ef8c9d809c9c98809d8baf8a8c80818082869c9bc18c8082), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="9cffeef3efefebf3eef8dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#99faebf6eaeaeef6ebfdd9fcfaf6f7f6f4f0eaedb7faf6f4), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
