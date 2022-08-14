@@ -12,17 +12,17 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-A lawyer for<strong> Donald Trump</strong> signed a statement in June declaring that all classified material held at Mr Trump’s home in Florida had been returned to the government, according to the <em>New York Times</em>. But on August 8th [federal agents reportedly removed](https://www.economist.com/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) 11 sets of classified documents, including material marked “top secret”. The warrant to search Mr Trump’s home was issued because America’s Department of Justice said it believed that the former president violated <strong>the Espionage Act</strong>, which prohibits the possession or transmission of national security information.
+Eight people were injured, some seriously, after a gunman opened fire near the Western Wall in <strong>Jerusalem</strong>. Israeli police are treating the incident, which wounded a pregnant woman, as terrrorism. Last week a ceasefire was agreed between Israel and Palestinian Islamic Jihad, a militant group, after several PiJ leaders [were killed](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) by Israeli drones. It is unclear whether the events are linked, but tensions have been high.
 
 <strong>Sir Salman Rushdie</strong>, a Booker-prizewinning [novelist](https://www.economist.com/books-and-arts/2019/09/05/salman-rushdies-new-novel-is-a-metafictional-romp) who was stabbed as he was about to deliver a lecture in upstate New York, has been taken off a ventilator and is able to talk, according to his agent. A 24-year-old man from New Jersey has been charged with attempted murder. Sir Salman has lived under the threat of violence since his fourth novel, “The Satanic Verses”, was published in 1988. Some Muslims thought it blasphemous. Iran’s then leader, Ayatollah Ruhollah Khomeini, called for his death.
 
 Volodymyr Zelensky, Ukraine’s president, said that Russian troops who fire at the <strong>Zaporizhzhia</strong> nuclear plant will become “special targets”. Russia [seized](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) the facility, Europe’s largest, in March. Mr Zelensky claimed that Russian soldiers were hitting Zaporizhzhia as an act of provocation, and were also firing missiles at Ukrainian forces from within its compound.
 
-William Ruto, Kenya’s deputy president, appeared to pull ahead in the country’s <strong>presidential election</strong>, according to preliminary results reported by Kenyan media. Earlier, it had seemed that Raila Odinga, the opposition candidate who has been endorsed by outgoing president Uhuru Kenyatta, was in the lead. Vote counting has been slow, and some officials have physically fought amid the tension.
+Authorities in <strong>Shanghai</strong> said that all schools in the city would reopen on September 1st, following months of closures due to covid-19 fears. The government initially closed all schools in March, though some high-school and middle-school students have been allowed back since then. Upon the full reopening, teachers and students will have to do daily coronavirus tests.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-At least seven people were injured, some seriously, after gunmen opened fire near the Western Wall in <strong>Jerusalem</strong>. Israeli police are treating the incident as terrrorism. Last week a ceasefire was agreed between Israel and Palestinian Islamic Jihad, a militant group, after several PiJ leaders [were killed](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) by Israeli drones. It is unclear whether the events are linked, but tensions have been high.
+William Ruto, Kenya’s deputy president, appeared to pull ahead in the country’s <strong>presidential election</strong>, according to preliminary results reported by Kenyan media. Earlier, it had seemed that Raila Odinga, the opposition candidate who has been endorsed by outgoing president Uhuru Kenyatta, was in the lead. Vote counting has been slow, and some officials have physically fought amid the tension.
 
 <strong>Saudi Aramco</strong>, one of the world’s biggest oil producers, posted record profits for the second quarter running. High oil prices pushed net income to $48.4bn in the second quarter, up 90% year-on-year. Saudi Arabia and other members of OPEC, a cartel of oil producers, have been slow to increase production, despite requests from the West in an effort to lower [soaring energy costs](https://www.economist.com/leaders/2022/08/10/how-to-help-with-energy-bills).
 
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="9cffeef3efefebf3eef8dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#99faebf6eaeaeef6ebfdd9fcfaf6f7f6f4f0eaedb7faf6f4), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="89eafbe6fafafee6fbedc9eceae6e7e6e4e0fafda7eae6e4">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#e98a9b869a9a9e869b8da98c8a86878684809a9dc78a8684), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
