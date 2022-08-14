@@ -30,17 +30,17 @@ With around 30% of votes counted in <strong>Kenya’s presidential election</str
 
 ----------
 
-## Salman Rushdie in hospital after attack
-
-Sir Salman Rushdie, an Indian-born British novelist, has faced hardship because of his work. Some Muslims judged “The Satanic Verses”, the author’s fourth novel, published in 1988, as blasphemous. Iran called for his death, forcing him into hiding. In recent years the threat had seemed to ease, and he spent much of his time in America. On Friday, in upstate New York, he was stabbed multiple times on stage.
-
-Sir Salman’s condition appears to be improving. He has been removed from a ventilator and is now talking, according to his agent. He may still lose an eye. The attacker, a 24-year-old man from New Jersey, has been arrested; his motive is unknown. Hardline Iranian newspapers have praised his actions. Security at the Chautauqua Institution, the arts education centre where the attack took place, was light, according to witnesses. Sir Salman had been due to speak on the topic of America as a home for freedom of expression. In 2017 he told <em>The Economist</em> that “It’s only when somebody tries to gag you that you really begin to believe in free speech.”
-
 ## Run, Ron? The appeal of Ron DeSantis
 
 On Sunday Ron DeSantis, Florida’s Republican governor, will speak at a rally for his party’s gubernatorial candidate in New Mexico, Mark Ronchetti. It is just one stop on a national tour that Mr DeSantis is embarking on to support other candidates, including those backed by Donald Trump, rather than focusing on his own campaign.
 
 It is a show of party unity that Mr DeSantis is spending his time stumping for other candidates, but it also raises questions about his own ambitions. Should Mr Trump not make a presidential bid in 2024, Mr DeSantis would be the likely Republican frontrunner. In a straw poll of attendees at the Conservative Political Action Conference in Dallas, released last week, 69% of people said they preferred Mr Trump as the candidate in 2024; Mr DeSantis came second, with 24%. Mr DeSantis may be calculating that for now it is better to shore up his popularity with Trump supporters. After all, at only 43 he is easily young enough to wait until 2028.
+
+## America and Canada challenge Mexico’s energy policies
+
+On Sunday America and Canada will start negotiations with Mexico over its energy policies. Mexico is accused of breaching USMCA, the North American free-trade deal, by favouring state-owned energy companies. Among the policies being challenged is the way a law has been changed so that electricity produced by CFE, Mexico’s state power company, enters the grid first (and often in preference to the cheapest or cleanest power, which is usually made by private, often American or Canadian, companies).   
+  
+ It is unlikely that the discussions will lead to agreement. Andrés Manuel López Obrador, Mexico’s president, is determined to boost CFE and Pemex, the national oil giant, even if that makes Mexico’s power [dirtier and more expensive](https://www.economist.com/leaders/2022/01/08/andres-manuel-lopez-obradors-energy-policy-will-hurt-mexico). By undercutting the liberalisation of the energy sector carried out in 2013 he is also hurting Mexican private companies. If talks fail, a panel of experts will decide if Mexico has violated USMCA. A ruling against Mexico could lead to sanctions from America and Canada.
 
 ## The European Championships find strength in numbers
 
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="f89b8a978b8b8f978a9cb89d9b97969795918b8cd69b9795">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#7a19081509090d15081e3a1f191514151713090e54191517), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="294a5b465a5a5e465b4d694c4a46474644405a5d074a4644">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#3556475a4646425a47517550565a5b5a585c46411b565a58), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
