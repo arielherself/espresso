@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="0e6d7c617d7d79617c6a4e6b6d61606163677d7a206d6163">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#c0a3b2afb3b3b7afb2a480a5a3afaeafada9b3b4eea3afad), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="bad9c8d5c9c9cdd5c8defadfd9d5d4d5d7d3c9ce94d9d5d7">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#d2b1a0bda1a1a5bda0b692b7b1bdbcbdbfbba1a6fcb1bdbf), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
