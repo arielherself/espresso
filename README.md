@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-08-14</p>
+# <p align="center">The world in brief 2022-08-15</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -86,7 +86,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across</em>: One of several moving closer to the battlefield? (6)
 
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="d5b6a7baa6a6a2baa7b195b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#4526372a3636322a37210520262a2b2a282c36316b262a28), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="99faebf6eaeaeef6ebfdd9fcfaf6f7f6f4f0eaedb7faf6f4">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#4320312c3030342c31270326202c2d2c2e2a30376d202c2e), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
