@@ -12,99 +12,63 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Eight people were injured, some seriously, after a gunman opened fire near the Western Wall in <strong>Jerusalem</strong>. Israeli police are treating the incident, which wounded a pregnant woman, as terrrorism. Last week a ceasefire was agreed between Israel and Palestinian Islamic Jihad, a militant group, after several PiJ leaders [were killed](https://www.economist.com/middle-east-and-africa/2022/08/07/the-attack-on-gaza-may-bolster-israels-prime-minister) by Israeli drones. It is unclear whether the events are linked, but tensions have been high.
+<strong>China</strong> unexpectedly reduced two signal interest rates, as policymakers try to inject oomph into an economy [weighted down](https://www.economist.com/leaders/2022/05/26/how-xi-jinping-is-damaging-chinas-economy) by the country’s strict zero-covid policy. The medium-term lending rate was lowered by a tenth of a percentage point, to 2.75%—its first cut since January. At the same time China’s statistics bureau disclosed disappointing new data: the rates of retail-sales growth and industrial production both slowed in July, year-on-year. Meanwhile, <strong>Japan </strong>grew by an annualised 2.2% in the past quarter, as it slightly relaxed its covid restrictions.
 
-Volodymyr Zelensky, Ukraine’s president, said that Russian troops who fire at the <strong>Zaporizhzhia</strong> nuclear plant will become “special targets”. Russia [seized](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) the facility, Europe’s largest, in March. Mr Zelensky claimed that Russian soldiers were hitting Zaporizhzhia as an act of provocation, and were also firing missiles at Ukrainian forces from within its compound.
+<strong>Ukraine</strong> said that <strong>Russia</strong> was unsuccessfully trying to advance on several towns in the Donetsk region of eastern Ukraine. It reported heavy shelling and “fierce fighting” in the region, which has been a key focus of Russia’s invasion. Shelling was also reported in the Kherson region, where Ukraine is attempting a [counter-offensive](https://www.economist.com/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds).
 
-Authorities in <strong>Shanghai</strong> said that all schools in the city would reopen on September 1st, following months of closures due to covid-19 fears. The government initially closed all schools in March, though some high-school and middle-school students have been allowed back since then. Upon the full reopening, teachers and students will have to do daily coronavirus tests.
+<strong>China’s </strong>army said it had organised military drills in the sea and airspace around <strong>Taiwan</strong>, in response to a group of American politicians visiting the island. The members of Congress are visiting Taiwan two weeks after a trip by Nancy Pelosi, the speaker of their House of Representatives, caused a [diplomatic rumpus](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) between America, China and Taiwan. Ed Markey, the Democrat leading the five-person delegation, said he wanted to encourage “peace across the Taiwan Strait”.
 
-William Ruto, Kenya’s deputy president, appeared to pull ahead in the country’s <strong>presidential election</strong>, according to preliminary results reported by Kenyan media. Earlier, it had seemed that Raila Odinga, the opposition candidate who has been endorsed by outgoing president Uhuru Kenyatta, was in the lead. Vote counting has been slow, and some officials have physically fought amid the tension.
+<strong>Iran’s </strong>foreign ministry said that <strong>Salman Rushdie</strong> and his supporters were solely to blame for the attack on Mr Rushdie in New York on Friday. A spokesman said that “no one has the right to accuse Iran” of responsibility. In 1989 Iran issued a fatwa calling on Muslims to kill the novelist. Hadi Matar, the 24-year-old accused of attempted murder, pled not guilty on Saturday.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Over 40 people were killed in a <strong>fire </strong>in a Coptic church in Giza, <strong>Egypt</strong>. The blaze was caused by an electrical fault, and a stampede broke out as people tried to escape. Children are believed to be among the dead. The country’s chief prosecutor has ordered an investigation into the fire.
+<strong>Russia</strong> pledged to foster closer ties with <strong>North Korea</strong>. In a letter to his counterpart in Pyongyang, President Vladimir Putin told Kim Jong Un that the two countries would “expand the comprehensive and constructive bilateral relations with common efforts”. The leaders’ relationship bloomed after meeting at a summit in Vladivostok in 2019.
 
-<strong>Saudi Aramco</strong>, one of the world’s biggest oil producers, posted record profits for the second quarter running. High oil prices pushed net income to $48.4bn in the second quarter, up 90% year-on-year. Saudi Arabia and other members of OPEC, a cartel of oil producers, have been slow to increase production, despite requests from the West in an effort to lower [soaring energy costs](https://www.economist.com/leaders/2022/08/10/how-to-help-with-energy-bills).
+William Ruto, <strong>Kenya’s </strong>deputy president, appeared to pull ahead in the country’s [presidential election](https://www.economist.com/middle-east-and-africa/2022/08/11/why-kenyas-election-is-going-down-to-the-wire), according to preliminary results reported by Kenyan media. Earlier, it had seemed that Raila Odinga, the opposition candidate endorsed by Uhuru Kenyatta, the outgoing president, was in the lead. The counting has been slow, and some officials have scuffled amid high nerves.
 
 <strong>Germany’s</strong> energy-network regulator said the country must <strong>cut gas use</strong> by 20% to avoid shortages this winter. The government, meanwhile, said public buildings will turn down thermostats in winter to 19°C (66°F). The [looming crisis](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) stems from curtailed flows of Russian gas to Germany, seemingly in retaliation for European sanctions on Russia.
 
+<strong>Fact of the day:</strong> 507, the number of guns found in passengers’ hand luggage by America’s Transportation Security Administration in 2021. [Read the full story](https://www.economist.com/united-states/2022/08/11/more-americans-are-trying-to-take-their-weapons-on-planes).
+
 ----------
 
-## Run, Ron? The appeal of Ron DeSantis
+## India marks 75 years of independence
 
-On Sunday Ron DeSantis, Florida’s Republican governor, will speak at a rally for his party’s gubernatorial candidate in New Mexico, Mark Ronchetti. It is just one stop on a national tour that Mr DeSantis is embarking on to support other candidates, including those backed by Donald Trump, rather than focusing on his own campaign.
+Atop the Red Fort in Delhi on Monday, Narendra Modi inaugurated the 75th anniversary of India’s independence with time-worn theatrics, declaring that with another 25 years it shall become “a developed country”. Yet, for such a big birthday, this year’s celebration will be relatively muted. Not because there is nothing to celebrate: the rupee’s power may be at a low, but Mr Modi’s is [consolidated](https://www.economist.com/asia/2022/07/07/indias-ruling-party-wins-control-of-its-richest-state) as never before and [some economic indicators](https://www.economist.com/leaders/2022/05/13/the-indian-economy-is-being-rewired-the-opportunity-is-immense) are perking up. But for Mr Modi, looking back is awkward. He has a long record of disparaging the republic’s early decades, suggesting that its previous leaders accepted both European and Islamic influence too readily. Only his own “New India” is to command applause.
 
-It is a show of party unity that Mr DeSantis is spending his time stumping for other candidates, but it also raises questions about his own ambitions. Should Mr Trump not make a presidential bid in 2024, Mr DeSantis would be the likely Republican frontrunner. In a straw poll of attendees at the Conservative Political Action Conference in Dallas, released last week, 69% of people said they preferred Mr Trump as the candidate in 2024; Mr DeSantis came second, with 24%. Mr DeSantis may be calculating that for now it is better to shore up his popularity with Trump supporters. After all, at only 43 he is easily young enough to wait until 2028.
+One new thing for this anniversary is a government-organised campaign called <em>har ghar tiranga</em>, or “a flag in every home”. The Hindu-nationalist organisation where Mr Modi started his career once loathed the national tricolour (which nods to Islam as well as to Hinduism). But while the flag is now fully in vogue, India’s founding principle of pluralism is [under attack](https://www.economist.com/asia/2022/05/14/how-narendra-modi-is-remaking-india-into-a-hindu-state): under Mr Modi’s leadership, Islamophobia has proliferated.
 
-## America and Canada challenge Mexico’s energy policies
+## A year of the Taliban
 
-On Sunday America and Canada will start negotiations with Mexico over its energy policies. Mexico is accused of breaching USMCA, the North American free-trade deal, by favouring state-owned energy companies. Among the policies being challenged is the way a law has been changed so that electricity produced by CFE, Mexico’s state power company, enters the grid first (and often in preference to the cheapest or cleanest power, which is usually made by private, often American or Canadian, companies).   
-  
- It is unlikely that the discussions will lead to agreement. Andrés Manuel López Obrador, Mexico’s president, is determined to boost CFE and Pemex, the national oil giant, even if that makes Mexico’s power [dirtier and more expensive](https://www.economist.com/leaders/2022/01/08/andres-manuel-lopez-obradors-energy-policy-will-hurt-mexico). By undercutting the liberalisation of the energy sector carried out in 2013 he is also hurting Mexican private companies. If talks fail, a panel of experts will decide if Mexico has violated USMCA. A ruling against Mexico could lead to sanctions from America and Canada.
+Monday marks [one year](https://www.economist.com/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago) since the Taliban seized control of Afghanistan. In that time, the economy has collapsed as foreign powers have restricted aid and cut Afghanistan off from the global banking system. And the Taliban are back to ruling with theocratic tyranny. Men are harassed for trimming their beards. Girls are barred from secondary school. New rules dictate that women should only leave home when “necessary”.
 
-## The European Championships find strength in numbers
+Yet there is a group of Afghans who are in one sense better off than they were a year ago. Villagers who lived on the frontlines of the conflict, in provinces such as Helmand and Kandahar, are safer than they have been in years. A new report by Crisis Group, a think-tank, suggests violent incidents in the ten months to mid-July were down 87% compared with the same period a year earlier. As winners and losers emerge, though, the question is whether that stability will last.
 
-Sports fans waking up in Munich on Sunday are spoiled for choice. Fancy breakfast in the Olympiapark while watching a triathlon? Or how about track cycling at the Neue Messe München? Or table tennis at the Audi Dome? Until August 21st Munich is hosting an experiment. The associations of nine sports—including athletics, beach volleyball, canoeing, cycling, gymnastics, rowing, sport climbing, triathlon and table tennis—have decided to run their European tournaments in tandem in a single city. 
+## Russia’s war Olympics
 
-The idea is that these smaller sports have a better chance of commanding bigger audiences if they work together. That makes sense: after all, the Olympics is more than the sum of its parts. But the European Championships also wants to avoid some Olympic-sized pitfalls. It chose Munich because no new tourist facilities or venues needed to be constructed. Consequently, its budget is around 1% of Tokyo’s 2020 Olympics. It is a lean, efficient approach that could catch on.
+Few Western countries will attend this year’s Moscow Conference on International Security, which begins on Monday. Instead, Russia has invited representatives from China, India and a host of other countries from across Africa, Asia and Latin America to hear its vision of a “multilateral” world, free from America’s yoke. The audience may be receptive: globally, 28 countries lean towards [supporting Russia’s invasion of Ukraine](https://www.economist.com/graphic-detail/2022/04/04/who-are-russias-supporters), while a further 32 have remained neutral.
 
-## Why thinking hard exhausts your brain
+For the first time the annual event also coincides with two military extravaganzas. The Army 2022 forum is a chance to sell Russian weapons; 45 defence contracts worth $6.8bn were signed at the last exhibition, according to Russian state media. The Russian-founded International Army Games are a more sporting affair. Military personnel from countries such as China and Iran compete in combat exercises, including a “tank biathlon”. Russia’s army might do better to focus on the actual fighting in Ukraine, where it faces the possibility of a [counter-offensive](https://www.economist.com/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds) in the occupied city of Kherson.
 
-Mental exhaustion is a strange sensation; not quite drowsiness, but an inability to think straight. The body may feel fine, yet the brain wants to do little more than watch television. Researchers writing in <em>Current Biology</em>, a journal, went in search of a physiological basis for this frazzled feeling—and may have found one.
+## Britain’s never-ending crises
 
-For over six hours, 24 volunteers performed difficult mental problems that required intense cognition—another group was given easier versions. Their brains were scanned throughout the mock workday, which suggested that mental graft induced the build-up of a neurotransmitter called glutamate in the forebrain. As glutamate can be toxic, it seems the brain has to limit cognition to avoid an overload. The industrious volunteers’ decision-making also changed—they began to favour instant rewards over delayed gratification. Your brain on energy-saver mode should be spared important decisions. After a stressful day in the office, some mindless channel-surfing may be just what it needs.
+Britons have spent yet another weekend sweltering in a [heatwave](https://www.economist.com/graphic-detail/2022/08/09/julys-heatwave-may-have-killed-thousands-of-britons). A [drought](https://www.economist.com/britain/2022/08/12/british-farmers-face-up-to-the-prospect-of-drought) is afflicting large parts of the country. But the thought of what is coming this winter is grabbing even more attention. Life is increasingly [unaffordable](https://www.economist.com/britain/2022/08/11/britains-economy-is-taking-a-drubbing), and energy prices help explain why.
 
-## Weekend profile: Robert Habeck, Germany’s energy hero
+The Bank of England predicts that annual inflation will rise to around 13% this October. At least half of this increase will be driven by soaring energy prices. Estimates from Cornwall Insight, a consultancy, suggest that households’ average annual energy bills could grow from £1,971 ($2,380) now to £4,427 in April.
 
-Olaf Scholz may be Germany’s chancellor, but to many the man of the hour in Berlin is Robert Habeck, his vice-chancellor and minister for economy and climate change. This is not just because the senior-most Green in the three-party ruling coalition pips his boss in the polls: since this government took office in December Mr Habeck has consistently been named the country’s most popular politician. It is also because his job as energy supremo puts the chatty, studiedly casual 52-year-old on the front lines of the [biggest crisis](https://www.economist.com/briefing/2022/08/11/germany-is-facing-dramatic-change-in-many-dimensions-all-at-once) Germany has faced in a generation.
+Talk of how to tackle the crisis has [dominated the race](https://www.economist.com/britain/2022/07/21/the-choice-between-rishi-sunak-and-liz-truss) to lead the Conservative Party—and to be the next prime minister. On Monday Sir Keir Starmer, leader of the opposition Labour party, laid out his own proposals for alleviating the pain, including a ban on raising energy prices. No politician has yet got ahead of the problem of surging bills. Despite the current heat, the prospect of winter is chilling.
 
-By most accounts Mr Habeck has done well. Russia’s invasion of Ukraine in February placed Germany in a dilemma. Decades of misguided policy had hooked Europe’s biggest economy on Russian fossil fuels. Pipelines from Siberia supplied 55% of its natural gas. But with a mix of charm, money and dealmaking, Mr Habeck has helped shield Germany from potential blackmail by trimming gas use and finding new suppliers. Enhancing his reputation for pragmatism (some would say lack of principle), the vice-chancellor muted his Green beliefs to reignite mothballed coal-fired power stations. A similar nose-holding green light may also keep Germany’s last three nuclear power plants open. They were to close in December as part of a longstanding plan to scrap nuclear power. Polls show even a majority of Green voters realise that, right now, that would be stupid.
+## Edward Gardner and the Bergen Philharmonic
 
-Mr Habeck, who hails from Germany’s northernmost state, Schleswig-Holstein, earned a PhD in literature before entering politics. But it is his trademark three-day stubble, preference for open-necked shirts and penchant for blunt honesty that seem to please voters. He has also won points for working smoothly with Annalena Baerbock, the foreign minister, whose choice as the Greens’ candidate for chancellor in last year’s election was tough on Mr Habeck, by his own admission. But the easygoing manner disguises a sharp statesman. Visiting Ukraine last summer, Mr Habeck suggested supplying the country with defensive weapons. Rivals from left, right and centre called him irresponsible. Who looks silly now?
+Big bands can thrive in small towns. The Norwegian port of Bergen, despite its population of just 280,000, outplays much grander cities in the musical arena. The Bergen Philharmonic Orchestra had a solid reputation when Edward Gardner, an English conductor, arrived in 2015. Since then, its global renown has soared. On Monday Mr Gardner and his ensemble will appear at the Edinburgh International Festival. After performing Richard Strauss’s decadent musical drama “Salome” (the BPO regularly dazzle in modern opera), [Vikingur Olafsson](https://www.economist.com/prospero/2020/06/16/vikingur-olafsson-is-revitalising-classical-music), an Icelandic pianist, will join them as soloist.
 
-## Weekly crossword
+The orchestra has burnished Mr Gardner’s career. In 2019 the London Philharmonic Orchestra appointed him as its principal conductor. And when his time in Bergen ends in 2024, he will not abandon Norway: in February he was named as the next music director of the Norwegian National Opera and Ballet. Mr Gardner has made plain his love of his adopted musical home. In Norway, he has said, he learned “to love the importance of an artistic institution being embedded within a community”. 
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+## Daily quiz
 
-<strong>Cryptic clues</strong>
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3263475b48774142405741415d7257515d5c5d5f5b41461c515d5f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-<em>1 down:</em> Confused, I ask for a bun in a Francophone country (7,4)
-
-<em>1 across:</em> A hot dish cold is very cold (6)
-
-<em>2 across:</em> Dangerous weapons found in three directions around Britain? (5)
-
-<em>3 across:</em> Look within for a clear source of wisdom (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down:</em> About 2,100 people have been killed there in the first half of the year (7,4)
-
-<em>1 across:</em> States with high literacy rates (6) 
-
-<em>2 across:</em> Viewed as “political instruments” by China, India and Pakistan (5)
-
-<em>3 across</em>: One of several moving closer to the battlefield? (6)
-
-Email all four answers by 9am BST on Monday to [<span class="__cf_email__" data-cfemail="e083928f9393978f9284a085838f8e8f8d899394ce838f8d">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#6201100d1111150d10062207010d0c0d0f0b11164c010d0f), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia:<strong> Marilou Cristobal</strong>, Muntinlupa City, Philippines
-
-North America: <strong>Ron Toogood</strong>, Moncton, Canada
-
-Central and South America: <strong>Celso Covre</strong>, Brasília, Brazil
-
-Europe: <strong>Bernt Arne Ødegaard</strong>, Fitjar, Norway
-
-Africa: <strong>Christine Reiter</strong>, Tunis, Tunisia
-
-Oceania: <strong>Andrew McMenamin</strong>, Lincoln, New Zealand
-
-They all gave the correct answers of John Mitchell, LL Bean, Joseph Conrad, Steve Irwin and Lance Armstrong. The theme is astronauts who walked on the moon: Edgar Mitchell, Alan Bean, Pete Conrad, James Irwin and Neil Armstrong.
+<strong>Monday:</strong> Which American sitcom concluded in 1983 with the most-watched TV finale ever?
 
 ----------
 
