@@ -14,19 +14,19 @@
 
 <strong>Ukraine</strong> said that <strong>Russia</strong> was unsuccessfully trying to advance on several towns in the Donetsk region of eastern Ukraine. It reported heavy shelling and “fierce fighting” in the region, which has been a key focus of Russia’s invasion. Shelling was also reported in the Kherson region, where Ukraine is attempting a [counter-offensive](https://te.arielherself.xyz/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds).
 
+<strong>Kenya’s </strong>election commission said that <strong>William Ruto</strong>, Kenya’s deputy president, won the country’s [presidential election](https://te.arielherself.xyz/middle-east-and-africa/2022/08/11/why-kenyas-election-is-going-down-to-the-wire), but four of the country’s electoral commissioners said they could not endorse the result. The team of <strong>Raila Odinga</strong>, the opposition candidate endorsed by Uhuru Kenyatta, the outgoing president, also cast doubts on the results, which they said could not be verified.
+
 <strong>China</strong> unexpectedly reduced two signal interest rates, as policymakers try to inject oomph into an economy [weighted down](https://te.arielherself.xyz/leaders/2022/05/26/how-xi-jinping-is-damaging-chinas-economy) by the country’s strict zero-covid policy. The medium-term lending rate was lowered by a tenth of a percentage point, to 2.75%—its first cut since January. At the same time China’s statistics bureau disclosed disappointing new data: the rates of retail-sales growth and industrial production both slowed in July, year-on-year. Meanwhile, <strong>Japan </strong>grew by an annualised 2.2% in the past quarter, as it slightly relaxed its covid restrictions.
 
 The <strong>French army</strong> [left](https://te.arielherself.xyz/middle-east-and-africa/2022/02/19/france-withdraws-its-forces-from-mali) <strong>Mali</strong>, ending a nine-year mission to support the African government against insurgents. France’s relationship with Mali has been strained since August 2020, when a junta took power. Jihadist violence in the Sahel has surged in recent years. Around 2,500 French personnel will remain in the region, mainly to provide air support.
 
-<strong>China’s </strong>army said it had organised military drills in the sea and airspace around <strong>Taiwan</strong>, in response to a group of American politicians visiting the island. The members of Congress are visiting Taiwan two weeks after a trip by Nancy Pelosi, the speaker of their House of Representatives, caused a [diplomatic rumpus](https://te.arielherself.xyz/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) between America, China and Taiwan. Ed Markey, the Democrat leading the five-person delegation, said he wanted to encourage “peace across the Taiwan Strait”.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>China’s </strong>army said it had organised military drills in the sea and airspace around <strong>Taiwan</strong>, in response to a group of American politicians visiting the island. The members of Congress are visiting Taiwan two weeks after a trip by Nancy Pelosi, the speaker of their House of Representatives, caused a [diplomatic rumpus](https://te.arielherself.xyz/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations) between America, China and Taiwan. Ed Markey, the Democrat leading the five-person delegation, said he wanted to encourage “peace across the Taiwan Strait”.
 
 <strong>Iran’s </strong>foreign ministry said that <strong>Salman Rushdie</strong> and his supporters were solely to blame for the attack on Mr Rushdie in New York on Friday. A spokesman said that “no one has the right to accuse Iran” of responsibility. In 1989 Iran issued a fatwa calling on Muslims to kill the novelist. Hadi Matar, the 24-year-old accused of attempted murder, pled not guilty on Saturday.
 
 <strong>Britain </strong>approved a covid-19 vaccine designed to target the <strong>Omicron</strong> variant, becoming the first country to do so. The “Spikevax bivalent Original/Omicron” vaccine, made by Moderna, will likely be used in booster campaigns this autumn.
-
-<strong>Russia</strong> pledged to foster closer ties with <strong>North Korea</strong>. In a letter to his counterpart in Pyongyang, President Vladimir Putin told Kim Jong Un that the two countries would “expand the comprehensive and constructive bilateral relations with common efforts”. The leaders’ relationship bloomed after meeting at a summit in Vladivostok in 2019.
 
 <strong>Fact of the day:</strong> 507, the number of guns found in passengers’ hand luggage by America’s Transportation Security Administration in 2021. [Read the full story](https://te.arielherself.xyz/united-states/2022/08/11/more-americans-are-trying-to-take-their-weapons-on-planes).
 
@@ -66,7 +66,7 @@ The orchestra has burnished Mr Gardner’s career. In 2019 the London Philharmon
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a4f5d1cddee1d7d4d6c1d7d7cbe4c1c7cbcacbc9cdd7d08ac7cbc9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e2b3978b98a79192908791918da287818d8c8d8f8b9196cc818d8f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which American sitcom concluded in 1983 with the most-watched TV finale ever?
 
