@@ -22,11 +22,11 @@
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Britain </strong>approved a covid-19 vaccine designed to target the <strong>Omicron</strong> variant, becoming the first country to do so. The “Spikevax bivalent Original/Omicron” vaccine, made by Moderna, will likely be used in booster campaigns this autumn.
+
 <strong>Russia</strong> pledged to foster closer ties with <strong>North Korea</strong>. In a letter to his counterpart in Pyongyang, President Vladimir Putin told Kim Jong Un that the two countries would “expand the comprehensive and constructive bilateral relations with common efforts”. The leaders’ relationship bloomed after meeting at a summit in Vladivostok in 2019.
 
 William Ruto, <strong>Kenya’s </strong>deputy president, appeared to pull ahead in the country’s [presidential election](https://te.arielherself.xyz/middle-east-and-africa/2022/08/11/why-kenyas-election-is-going-down-to-the-wire), according to preliminary results reported by Kenyan media. Earlier, it had seemed that Raila Odinga, the opposition candidate endorsed by Uhuru Kenyatta, the outgoing president, was in the lead. The counting has been slow, and some officials have scuffled amid high nerves.
-
-<strong>Germany’s</strong> energy-network regulator said the country must <strong>cut gas use</strong> by 20% to avoid shortages this winter. The government, meanwhile, said public buildings will turn down thermostats in winter to 19°C (66°F). The [looming crisis](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) stems from curtailed flows of Russian gas to Germany, seemingly in retaliation for European sanctions on Russia.
 
 <strong>Fact of the day:</strong> 507, the number of guns found in passengers’ hand luggage by America’s Transportation Security Administration in 2021. [Read the full story](https://te.arielherself.xyz/united-states/2022/08/11/more-americans-are-trying-to-take-their-weapons-on-planes).
 
@@ -66,7 +66,7 @@ The orchestra has burnished Mr Gardner’s career. In 2019 the London Philharmon
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f7a6829e8db284878592848498b792949899989a9e8483d994989a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a6f7d3cfdce3d5d6d4c3d5d5c9e6c3c5c9c8c9cbcfd5d288c5c9cb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which American sitcom concluded in 1983 with the most-watched TV finale ever?
 
