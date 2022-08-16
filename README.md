@@ -18,7 +18,7 @@
 
 <strong>Tencent</strong>, China’s [biggest tech firm](https://te.arielherself.xyz/business/2022/08/11/tencent-is-a-success-story-bedevilled-by-the-splinternet), will reportedly sell all or much of its $24bn stake in <strong>Meituan</strong>, a food delivery platform, partly in an attempt to mollify the Chinese government. Shares of Meituan dropped by over 10% following the report from Reuters, while Tencent’s fell by more than 2%. Since late 2020 Chinese regulators have cracked down on tech giants such as Tencent.
 
-The <strong>Biden administration</strong> announced further cuts to water usage from the <strong>Colorado River</strong> for Arizona, Nevada and Mexico starting next year. Arizona’s annual apportionment will shrink the most, by about a fifth. This summer the water level in Lake Mead, America’s largest reservoir, sank to a historic low amid a [megadrought in the south-west](https://te.arielherself.xyz/united-states/the-american-west-is-drying-up/21803608).
+The <strong>Biden administration</strong> announced [further cuts](https://te.arielherself.xyz/graphic-detail/2022/08/16/the-most-important-river-in-the-american-west-is-drying-up) to water usage from the <strong>Colorado River</strong> for Arizona, Nevada and Mexico starting next year. Arizona’s annual apportionment will shrink the most, by about a fifth. This summer the water level in Lake Mead, America’s largest reservoir, sank to a historic low amid a [megadrought in the south-west](https://te.arielherself.xyz/united-states/the-american-west-is-drying-up/21803608).
 
 Listen to an abridged version of the subscriber-only briefing.
 
