@@ -46,7 +46,7 @@ In Alaska, meanwhile, Sarah Palin will attempt a comeback. The Trump-endorsed fo
 
 The pandemic wrought havoc on American retailers’ schedules. Supply-chain logjams caused shortages and delays; demand, and prices, soared. Now shops have the opposite problem. Many stockpiled more inventory than consumers—cautious of spending as inflation eats into their wages—want. So retailers are posting heavy discounts in order to flog their goods.
 
-Walmart will reveal how badly the trend has affected its bottom line when it reports second-quarter earnings on Tuesday. Customers have had little choice but to put up with rising food prices, which will have boosted Walmart’s huge grocery business. But sales of less essential higher-margin products, such as clothing, have slowed. The company has already warned investors to expect an 8-9% drop in earnings. Nor is it the only retailer investors are eyeing. Target, which has experienced many of the same problems, reports earnings on Wednesday.
+Yet on Tuesday, Walmart revealed that things weren’t as bad as investors feared. It reported quarterly revenue up 8% year-on-year, ahead of expectations. Customers have had little choice but to put up with rising food prices, which has boosted Walmart’s huge grocery business. But sales of less essential higher-margin products, such as clothing and electronics, have slowed. But the company warned investors that things might get worse: it said full-year earnings will decline 9-11%.
 
 ## Brazil’s presidential campaign kicks off
 
