@@ -46,7 +46,7 @@ That remains to be seen. Iran wants the International Atomic Energy Agency, a UN
 
 ## Tencent fails to escape China’s techlash
 
-Tencent, the world’s largest gaming firm, is still in the firing line at home. On Wednesday the “League of Legends” owner reported its first ever quarterly sales decline, partly as a result of Chinese regulators’ refusal to grant it new gaming licences. Its woes mainly stemmed from the Chinese government’s crackdown on tech, which caused an unprecedented slump in video-gaming revenues in China in the first half of the year. Tencent’s other businesses struggled, too: a slowing economy and lockdowns hurt advertising on WeChat, its social-media platform.
+Tencent, the world’s largest gaming firm, is still in the line of fire at home. On Wednesday the “League of Legends” owner reported its first ever quarterly sales decline, partly as a result of Chinese regulators’ refusal to grant it new gaming licences. Its woes mainly stemmed from the Chinese government’s crackdown on tech, which caused an unprecedented slump in video-gaming revenues in China in the first half of the year. Tencent’s other businesses struggled, too: a slowing economy and lockdowns hurt advertising on WeChat, its social-media platform.
 
 Tencent’s response has been to slim down in China. Having shed a stake in JD.com, an e-commerce giant, it reportedly may sell its $24bn stake in Meituan, a food-delivery firm. To compensate it intends to expand abroad, perhaps by investing in firms such as Ubisoft, a French video-game maker, to add to its array of foreign gaming interests. But Tencent must tread carefully. Western governments are [increasingly cautious](https://te.arielherself.xyz/business/2022/08/11/tencent-is-a-success-story-bedevilled-by-the-splinternet) about Chinese firms making foreign acquisitions.
 
@@ -66,7 +66,7 @@ But unlike many minorities, the Karaims have been welcomed in their adopted home
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4a1b3f23300f393a382f3939250a2f292524252723393e64292527">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which musician left Buffalo Springfield to join up with David Crosby and Graham Nash?
 
