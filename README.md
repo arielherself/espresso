@@ -16,7 +16,7 @@
 
 <strong>Ukraine</strong> hinted that its forces were responsible for Tuesday’s [explosions at a military base](https://te.arielherself.xyz/europe/2022/08/11/wrecked-planes-smoulder-at-russias-saky-airbase-in-crimea) in <strong>Russian-occupied Crimea</strong>, located far from the war’s frontlines. A presidential adviser, Mykhailo Podolyak, predicted more such attacks. Separately, the self-proclaimed leader of the breakaway Donetsk region in eastern Ukraine pledged to develop “equally beneficial bilateral co-operation” in a letter to<strong> North Korea</strong>, which in July became the third country in the world to recognise the separatist-controlled region’s independence.
 
-The <strong>Indian government </strong>said it would provide flats and police [protection](https://te.arielherself.xyz/asia/2021/12/09/can-facebook-be-blamed-for-pogroms-against-rohingyas-in-myanmar) to <strong>Rohingya </strong>refugees living in New Delhi, India’s capital. The announcement from Hardeep Singh Puri, the minister for housing and urban affairs, was vague on what was meant by “round-the-clock” police protection but suggests that the government’s stance towards the Muslim group could be softening.
+The <strong>Indian government </strong>said it would provide flats and police [protection](https://te.arielherself.xyz/asia/2021/12/09/can-facebook-be-blamed-for-pogroms-against-rohingyas-in-myanmar) to <strong>Rohingya </strong>refugees living in New Delhi. The announcement from Hardeep Singh Puri, the minister for housing and urban affairs, was vague on what was meant by “round-the-clock” police protection. However, the Ministry of Home Affairs contradicted Mr Puri’s statement, writing on Twitter that it has not given any directions to house the “illegal foreigners”.
 
 <strong>Britain’s annual inflation rate </strong>hit 10.1% in July, setting a new [40-year record](https://te.arielherself.xyz/britain/2022/08/09/almost-nothing-seems-to-be-working-in-britain-it-could-get-worse). Living costs are shooting [past incomes](https://te.arielherself.xyz/britain/2022/04/21/a-guide-to-britains-cost-of-living-crunch), largely because of soaring energy prices, but the government does not intend to provide further help with paying bills until the Conservative Party’s leadership contest ends on September 5th. The Bank of England has forecast that inflation may reach 13% by autumn.
 
@@ -63,6 +63,14 @@ One of Europe’s smallest minority populations, the Karaims, are being celebrat
 Who are the Karaims? At some point around the 14th century—1397, according to the Lithuanian parliament, who thought the 625th anniversary was as good a reason as any to celebrate—Vytautas, the grand duke of Lithuania, invited them from Crimea, to serve as bodyguards and traders. Some also went to Poland. Today there are only a few hundred Karaims left in each country.
 
 But unlike many minorities, the Karaims have been welcomed in their adopted homes. Launching the year of celebrations in May Ingrida Simonyte, Lithuania’s prime minister, said that the Karaims were a “unique treasure” who enriched the country’s present and future.
+
+## Daily quiz
+
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+
+<strong>Wednesday: </strong>Which musician left Buffalo Springfield to join up with David Crosby and Graham Nash?
+
+<strong>Tuesday: </strong>Which Edgar Allen Poe story involves the murder of the unfortunate Fortunato?
 
 ----------
 
