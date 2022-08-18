@@ -42,9 +42,9 @@ As for Mr Zelensky, he will want to probe his guests about expanding the [grain 
 
 ## A new look for Estée Lauder
 
-The past year has been hard for beauty firms, including Estée Lauder, which reports results on Thursday. The American company has been hammered by [lockdown-induced slowdowns](https://te.arielherself.xyz/business/2021/06/19/hit-by-covid-19-italian-makeup-makers-are-looking-pretty-again) in China, which by last year accounted for 36% of its revenues. Estée Lauder’s stock has shed a quarter of its value since the start of the year, and further decline is expected.
+The past year has been hard for beauty firms, including Estée Lauder, which reported results on Thursday. The American company has been hammered by [lockdown-induced slowdowns](https://te.arielherself.xyz/business/2021/06/19/hit-by-covid-19-italian-makeup-makers-are-looking-pretty-again) in China, which by last year accounted for 36% of its revenues. Estée Lauder’s stock has shed a quarter of its value since the start of the year, although in the second quarter it posted revenues of $3.56bn, beating expectations.
 
-It may be time for a bolder look. Estée Lauder’s past strategy has been to acquire minority stakes in smaller beauty companies. But its eyes are now set on Tom Ford, a fashion brand worth $3bn. Should it succeed, the acquisition would be Estée Lauder’s largest yet. It would also be its first foray into luxury fashion, following in the footsteps of L’Oréal, a rival cosmetics giant, which bought Mugler, a perfume seller, in 2019. Tom Ford’s luxury cosmetics range could help Estée Lauder strengthen its position in the fast-growing prestige beauty sector. It would also boost its top line, and brush off some of its upsets in China.
+Still, the company is looking for a bolder look. Estée Lauder’s past strategy has been to acquire minority stakes in smaller beauty companies. But its eyes are now set on Tom Ford, a fashion brand worth $3bn. Should it succeed, the acquisition would be Estée Lauder’s largest yet. It would also be its first foray into luxury fashion, following in the footsteps of L’Oréal, a rival cosmetics giant, which bought Mugler, a perfume seller, in 2019. Tom Ford’s luxury cosmetics range could help Estée Lauder strengthen its position in the fast-growing prestige beauty sector. It would also boost its top line, and brush off some of its upsets in China.
 
 ## Serbia and Kosovo try, again, to find harmony
 
@@ -70,7 +70,7 @@ But human activity is rendering the method useless. The end of above-ground atom
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3d6c485447784e4d4f584e4e527d585e52535250544e49135e5250">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which musician left Buffalo Springfield to join up with David Crosby and Graham Nash?
 
