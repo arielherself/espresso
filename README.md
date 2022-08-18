@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Allen Weisselberg</strong>, the longtime chief financial officer of <strong>Donald Trump’s</strong> real-estate business, pled guilty to 15 tax-related [felony charges](https://te.arielherself.xyz/the-economist-explains/2021/05/19/what-are-the-legal-troubles-facing-donald-trump) filed by New York’s attorney-general, and agreed to testify if called at a separate trial against the Trump Organisation. The plea deal means he could serve five months in prison, rather than up to 15 years. Prosecutors alleged that Mr Weisselberg evaded paying tax on perks, such as a rent-free apartment and school tuition for his grandchildren.
+<strong>Allen Weisselberg</strong>, the longtime chief financial officer of <strong>Donald Trump’s</strong> real-estate business, pled guilty to 15 tax-related [felony charges](https://te.arielherself.xyz/the-economist-explains/2021/05/19/what-are-the-legal-troubles-facing-donald-trump) filed by New York’s attorney-general. He agreed to testify if called at a separate trial against the Trump Organisation. The plea deal means he could serve five months in prison, rather than up to 15 years. Prosecutors alleged that Mr Weisselberg evaded paying tax on perks, such as a rent-free apartment and school tuition for his grandchildren.
 
 <strong>Russia </strong>warned of a human-made disaster at Ukraine’s <strong>Zaporizhzhia </strong>nuclear plant, which it captured in March, and threatened to shut it down if shelling continued. That would risk “a radiation disaster at the largest nuclear power plant in Europe”, said Energoatom, a Ukrainian nuclear company. On Thursday Russia’s foreign ministry rejected international calls to demilitarise the surrounding area, following an appeal by António Guterres, the UN’s secretary general.
 
@@ -70,7 +70,7 @@ But human activity is rendering the method useless. The end of above-ground atom
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3263475b48774142405741415d7257515d5c5d5f5b41461c515d5f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4d1c382437083e3d3f283e3e220d282e22232220243e39632e2220">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which musician left Buffalo Springfield to join up with David Crosby and Graham Nash?
 
