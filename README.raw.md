@@ -12,21 +12,21 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
+<strong>Allen Weisselberg</strong>, the longtime chief financial officer of <strong>Donald Trump’s</strong> real-estate business, pled guilty to 15 tax-related [felony charges](https://www.economist.com/the-economist-explains/2021/05/19/what-are-the-legal-troubles-facing-donald-trump) filed by New York’s attorney-general, and agreed to testify if called at a separate trial against the Trump Organisation. The plea deal means he could serve five months in prison, rather than up to 15 years. Prosecutors alleged that Mr Weisselberg evaded paying tax on perks, such as a rent-free apartment and school tuition for his grandchildren.
+
 <strong>Russia </strong>warned of a human-made disaster at Ukraine’s <strong>Zaporizhzhia </strong>nuclear plant, which it captured in March, and threatened to shut it down if shelling continued. That would risk “a radiation disaster at the largest nuclear power plant in Europe”, said Energoatom, a Ukrainian nuclear company. On Thursday Russia’s foreign ministry rejected international calls to demilitarise the surrounding area, following an appeal by António Guterres, the UN’s secretary general.
 
 <strong>America</strong> and <strong>Taiwan</strong> said they would begin <strong>trade talks</strong>, under an initiative established jointly in June. The first round of negotiations will take place in early autumn, said Sarah Bianchi, America’s deputy trade representative. China said it opposes the talks, and warned America to “stop making misjudgements”. The announcement comes as tensions between America and China over the status of the self-governing island—which China regards as a breakaway territory—are at their [highest in decades](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations).
 
 <strong>Germany</strong> announced it would temporarily slash <strong>sales tax </strong>on gas, as the country prepares for [shortages](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) this winter. The reduction, from a 19% tax to 7%, will come into effect on October 1st and expire in March 2024. Olaf Scholz, the chancellor, said that the benefit of the tax cut will be greater than the burden of a simultaneous gas levy put on consumers.
 
-<strong>Turkey’s</strong> central bank cut interest rates by one percentage point, despite [inflation](https://www.economist.com/europe/2022/07/14/turkey-grapples-with-triple-digit-inflation) running at 80%. The move surprised investors, who expected the interest rate to remain at 14%. Recep Tayyip Erdogan, Turkey’s president, thinks that high interest rates [cause inflation](https://www.economist.com/the-economist-explains/2022/01/27/is-recep-tayyip-erdogans-monetary-policy-as-mad-as-it-seems) and has fired central bankers who disagree.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Turkey’s</strong> central bank cut interest rates by one percentage point, despite [inflation](https://www.economist.com/europe/2022/07/14/turkey-grapples-with-triple-digit-inflation) running at 80%. The move surprised investors, who expected the interest rate to remain at 14%. Recep Tayyip Erdogan, Turkey’s president, thinks that high interest rates [cause inflation](https://www.economist.com/the-economist-explains/2022/01/27/is-recep-tayyip-erdogans-monetary-policy-as-mad-as-it-seems) and has fired central bankers who disagree.
 
 Minutes from the latest meeting of policymakers at America’s <strong>Federal Reserve</strong>, [held on July 26-27th](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) but revealed on Wednesday, showed they regard <strong>inflation </strong>as far from tamed. They paid heed to the danger of a slowdown too, but reckon that the bulk of their rate-raising work is yet to come—which was enough to make markets tremble.
 
 21 people died following a large explosion inside a mosque in <strong>Kabul</strong>, the capital of Afghanistan, during evening prayers on Wednesday. Police reported another 33 had been injured. No one has yet claimed responsibility. Last week [Islamic State](https://www.economist.com/the-economist-explains/2021/08/27/what-is-the-islamic-state-khorasan-province) said it carried out a bombing in Kabul that succeeded in killing a prominent pro-Taliban cleric.
-
-Rochelle Walensky, the director of America’s <strong>Centres for Disease Control and Prevention</strong>, called for a reorganisation of the public-health agency on the basis of its [clumsy response](https://www.economist.com/united-states/2022/03/12/taking-stock-as-america-moves-into-a-new-phase-of-the-pandemic) to the covid-19 pandemic. An external report found that its messages to the public were often confusing, and recommended that lab data and scientific studies be published faster.
 
 <strong>Fact of the day:</strong> 400,000, a conservative estimate of how many hectares of Britain’s land are taken up by private gardens. [Read the full story](https://www.economist.com/1843/2022/08/16/the-going-gets-turf-do-lawns-have-a-future-in-the-age-of-drought).
 
@@ -70,7 +70,7 @@ But human activity is rendering the method useless. The end of above-ground atom
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="39684c50437c4a494b5c4a4a56795c5a56575654504a4d175a5654">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3263475b48774142405741415d7257515d5c5d5f5b41461c515d5f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which musician left Buffalo Springfield to join up with David Crosby and Graham Nash?
 
