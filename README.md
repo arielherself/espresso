@@ -12,23 +12,23 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-A federal judge in Florida said he would probably unseal part of the <strong>affidavit </strong>detailing the FBI’s justification for searching <strong>Mar-a-Lago</strong>, Donald Trump’s estate. He gave the agency a week to decide which parts to redact. The FBI has argued that releasing the affidavit would undermine its [investigation](https://te.arielherself.xyz/united-states/2022/08/17/merrick-garland-is-not-naive-about-political-violence) into whether the former president mishandled classified documents, by dissuading witnesses from co-operating.
-
 <strong>Russia </strong>warned of a man-made disaster at <strong>Zaporizhzhia nuclear plant </strong>in Ukraine, which it captured in March, and threatened to shut it down if shelling continued. That would risk “a radiation disaster at [the largest nuclear power plant](https://te.arielherself.xyz/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) in Europe”, said Energoatom, a Ukrainian nuclear company. António Guterres, the UN’s secretary-general, likened it to “suicide”. On Thursday Russia’s foreign ministry rejected international calls to demilitarise the surrounding area.
 
 The office of [Indonesia’s president](https://te.arielherself.xyz/asia/2022/07/21/why-indonesia-punches-below-its-weight-in-global-affairs) said that <strong>Xi Jinping </strong>and <strong>Vladimir Putin </strong>are to attend a summit of the <strong>G20</strong> in Bali in November. The <em>Wall Street Journal </em>had reported that <strong>Joe Biden </strong>might meet China’s president in South-East Asia at about the same time—though it is hard to picture Mr Biden going anywhere near his Russian counterpart. Mr Xi has not left China since the earliest days of the pandemic.
+
+Britons’ <strong>consumer confidence</strong> plunged to historic lows on Friday, according to research by data provider GfK. Respondents were gloomy about all five component parts of the consumer confidence index, reflecting “a sense of exasperation about the [UK&#x27;s economy](https://te.arielherself.xyz/britain/2022/08/11/britains-economy-is-taking-a-drubbing)”, according to a GfK director. Separately, Britain reported a fall of 1.2% in retail sales in the three months to July.
 
 <strong>Xiao Jianhua</strong>, a Chinese-Canadian billionaire financier, was sentenced to 13 years in prison by a <strong>Chinese court</strong>, on charges of bribing officials to evade financial scrutiny as well as illegally obtaining public deposits and breaching trust. His company, believed to have links to high-ranking politicians, was fined a record sum of 55bn yuan ($8.1bn). Mr Xiao, seized from a Hong Kong hotel room in 2017, was [tried behind closed doors](https://te.arielherself.xyz/finance-and-economics/2022/07/07/what-a-tycoons-trial-says-about-the-rot-in-chinas-financial-system) in July.
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Olaf Scholz</strong>, Germany’s chancellor, denied allegations of impropriety in his management of a multibillion-euro<strong> tax fraud case</strong> while acting as mayor of Hamburg in 2017. Mr Scholz stands accused of deliberately failing to collect €47m ($47m) in tax payments from Warburg, a local bank. The investigation comes at a difficult time for Mr Scholz as he grapples with Germany’s [energy crunch](https://te.arielherself.xyz/europe/2022/07/21/germans-have-been-living-in-a-dream) alongside his own dipping popularity.
+
+<strong>Xiaomi</strong>, a Chinese tech company, reported a 20% <strong>revenue drop</strong> to 70.2bn yuan ($10.3bn) for the second quarter, a worse performance than analysts predicted. Net income dropped by 83% to 1.39bn. The company cited the [pandemic](https://te.arielherself.xyz/china/2022/08/18/chinas-economy-is-beset-by-problems), increased fuel prices, input costs and inflation as reasons for the downturn. Formerly China’s biggest smartphone brand, Xiaomi has struggled against domestic competition.
+
 The man accused of stabbing <strong>Salman Rushdie</strong>, a decorated novelist, pled not guilty to second-degree attempted murder. Hadi Matar was detained without bail at a court hearing in Chautauqua, upstate New York. Sir Salman, who has long been an assassination target for certain Muslims who believe [his work](https://te.arielherself.xyz/culture/2022/08/15/salman-rushdie-is-a-champion-of-imagination-ambiguity-and-liberty) to be blasphemous, was attacked before giving a lecture last week.
 
-Having sprung 360% this month, the share price of <strong>Bed Bath &amp; Beyond</strong>, a home-supply chain, went spinning down the plughole on Thursday, shedding 45% of its value in after-hours trading. Its stonking ascent had been propelled by r/wallstreetbets, the message-board that wreaked joyful havoc with “[memestocks](https://te.arielherself.xyz/graphic-detail/2021/02/06/what-the-favourite-stocks-of-r/wallstreetbets-have-in-common)” like GameStop and AMC in early 2021. The lone investor who started the run on BBBY still holds the largest stake in GameStop.
-
-The longtime chief financial officer of <strong>Donald Trump’s</strong> <strong>real-estate business</strong>, Allen Weisselberg, pled guilty to 15 tax-related [felony charges](https://te.arielherself.xyz/the-economist-explains/2021/05/19/what-are-the-legal-troubles-facing-donald-trump) filed by New York’s attorney-general. He agreed to testify if called at a separate trial against the Trump Organisation. The plea deal means he could serve five months in prison, rather than up to 15 years. Prosecutors alleged that Mr Weisselberg evaded paying tax on perks, such as a rent-free apartment and school tuition for his grandchildren.
-
-<strong>Fact of the day:</strong> 51%, Visa’s net margin in 2021, making it one of the most profitable companies in the world. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken).
+<strong>Word of the week: </strong><em>Umaibo</em>, meaning “delicious stick” in Japanese, and the name of a beloved puffed-corn treat that made national news this year, when its price increased for the first time since 1979. [Read the full story.](https://te.arielherself.xyz/asia/2022/08/18/prices-are-rising-in-japan-but-not-wages)
 
 ----------
 
@@ -66,7 +66,7 @@ South Sudan remains the most dangerous place in the world for aid workers. Afgha
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b1e0c4d8cbf4c2c1c3d4c2c2def1d4d2dedfdedcd8c2c59fd2dedc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="603115091a251310120513130f2005030f0e0f0d0913144e030f0d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What is the currency of Armenia?
 
