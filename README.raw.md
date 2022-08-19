@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Russia </strong>warned of a man-made disaster at <strong>Zaporizhzhia nuclear plant </strong>in Ukraine, which it captured in March, and threatened to shut it down if shelling continued. That would risk “a radiation disaster at [the largest nuclear power plant](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) in Europe”, said Energoatom, a Ukrainian nuclear company. António Guterres, the UN’s secretary-general, likened it to “suicide”. On Thursday Russia’s foreign ministry rejected international calls to demilitarise the surrounding area.
+<strong>Russia </strong>warned of a man-made disaster at <strong>Zaporizhia nuclear plant </strong>in Ukraine, which it captured in March, and threatened to shut it down if shelling continued. That would risk “a radiation disaster at [the largest nuclear power plant](https://www.economist.com/europe/2022/03/04/europes-largest-nuclear-plant-shuts-down-after-a-russian-attack) in Europe”, said Energoatom, a Ukrainian nuclear company. António Guterres, the UN’s secretary-general, likened it to “suicide”. On Thursday Russia’s foreign ministry rejected international calls to demilitarise the surrounding area.
 
 The office of [Indonesia’s president](https://www.economist.com/asia/2022/07/21/why-indonesia-punches-below-its-weight-in-global-affairs) said that <strong>Xi Jinping </strong>and <strong>Vladimir Putin </strong>are to attend a summit of the <strong>G20</strong> in Bali in November. The <em>Wall Street Journal </em>had reported that <strong>Joe Biden </strong>might meet China’s president in South-East Asia at about the same time—though it is hard to picture Mr Biden going anywhere near his Russian counterpart. Mr Xi has not left China since the earliest days of the pandemic.
 
@@ -66,7 +66,7 @@ South Sudan remains the most dangerous place in the world for aid workers. Afgha
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="603115091a251310120513130f2005030f0e0f0d0913144e030f0d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What is the currency of Armenia?
 
