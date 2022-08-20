@@ -12,83 +12,115 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-France said Vladimir Putin, Russia’s president, had told his French counterpart that UN inspectors could access the <strong>Zaporizhia nuclear plant</strong> in south-eastern Ukraine. An international mission would require a temporary ceasefire around the Russian-controlled power station, which has been the [target of shelling](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) for weeks, said French officials. Meanwhile António Guterres, the UN secretary-general, affirmed that Zaporizhia’s electricity belongs to Ukraine, amid fears that power could be diverted to the Russian grid. Ukraine and Russia have accused each other of planning further attacks at the plant.
+France said <strong>Vladimir Putin</strong>, Russia’s president, had told his French counterpart that UN inspectors could access the <strong>Zaporizhia nuclear plant</strong> in south-eastern Ukraine. An international mission would require a temporary ceasefire around the Russian-controlled power station, which has been the [target of shelling](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) for weeks, said French officials. Meanwhile António Guterres, the UN secretary-general, affirmed that Zaporizhia’s electricity belongs to Ukraine, amid fears that power could be diverted to the Russian grid. Ukraine and Russia have accused each other of planning further attacks at the plant.
 
 Gazprom, <strong>Russia’s </strong>state-owned energy firm, said it would halt <strong>natural-gas</strong> deliveries to Europe via its main pipeline for three days at the end of August. It said the reason was unscheduled maintenance to <strong>Nord Stream 1</strong>, which links [Russia to Germany](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter) via the Baltic sea and is already running at just a fifth of its capacity.
 
-<strong>Xiao Jianhua</strong>, a Chinese-Canadian billionaire financier, was sentenced to 13 years in prison by a <strong>Chinese court</strong>, on charges of bribing officials to evade financial scrutiny as well as illegally obtaining public deposits and breaching trust. His company, believed to have links to high-ranking politicians, was fined a record sum of 55bn yuan ($8.1bn). Mr Xiao, seized from a Hong Kong hotel room in 2017, was [tried behind closed doors](https://www.economist.com/finance-and-economics/2022/07/07/what-a-tycoons-trial-says-about-the-rot-in-chinas-financial-system) in July.
+<strong>Mexico</strong> arrested the prosecutor who had led the investigation of [a notorious disappearance ](https://www.economist.com/the-americas/2016/04/30/the-great-mystery)of 43 student-teachers in 2014. With former attorney-general Jesús Murillo in custody, another 83 warrants were ordered for the arrest of other officials, police and gang members. According to Mr Murillo’s investigation, the students were murdered and dismembered by drug traffickers in a case of mistaken identity. The current government suspects the Mexican state itself played a sinister role.
 
-<strong>Finland’s</strong> prime minister took a drug test to quell a brouhaha over video footage of her partying and dancing with friends. Sanna Marin, aged 36, said the results would put to rest the “grave public accusations” that she had used drugs, though she called demands for her to take a test “unjust”. The results will be available in a week.
+<strong>Finland’s</strong> prime minister took a drug test to quell a brouhaha over video footage of her partying and dancing with friends. [Sanna Marin](https://www.economist.com/graphic-detail/2019/12/11/finlands-new-prime-minister-is-the-worlds-youngest), aged 36, said the results would put to rest the “grave public accusations” that she had used drugs, though she called demands for her to take a test “unjust”. The results will be available in a week.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Britons’ <strong>consumer confidence</strong> plunged to historic lows on Friday, according to research by data provider GfK. Respondents were gloomy about all five component parts of the consumer confidence index, reflecting “a sense of exasperation about the [UK&#x27;s economy](https://www.economist.com/britain/2022/08/11/britains-economy-is-taking-a-drubbing)”, according to a GfK director. Separately, Britain reported a fall of 1.2% in retail sales in the three months to July.
+At least 12 people are believed dead after an attack on a hotel in <strong>Mogadishu</strong>, the capital of Somalia. <strong>Al-Shabab</strong>, a jihadist group with links to al-Qaeda, has claimed responsibility for the ongoing siege. It began with car bombs on Friday night. This is the first major attack by al-Shabab since [Hassan Sheikh Mohamud](https://www.economist.com/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups) was elected president in May. The group already controls much of the Somali countryside.
 
-<strong>Olaf Scholz</strong>, Germany’s chancellor, denied allegations of impropriety in his management of a multibillion-euro<strong> tax fraud case</strong> while acting as mayor of Hamburg in 2017. Mr Scholz stands accused of deliberately failing to collect €47m ($47m) in tax payments from Warburg, a local bank. The investigation comes at a difficult time for Mr Scholz as he grapples with Germany’s [energy crunch](https://www.economist.com/europe/2022/07/21/germans-have-been-living-in-a-dream) alongside his own dipping popularity.
+Britons’ <strong>consumer confidence</strong> plunged to historic lows on Friday, according to research by data provider GfK. Respondents were gloomy about all five component parts of the consumer confidence index, reflecting “a sense of exasperation about the [UK’s economy](https://www.economist.com/britain/2022/08/11/britains-economy-is-taking-a-drubbing)”, according to a GfK director. Separately, Britain reported a fall of 1.2% in retail sales in the three months to July.
 
-<strong>Xiaomi</strong>, a Chinese tech company, reported a 20% <strong>revenue drop</strong> to 70.2bn yuan ($10.3bn) for the second quarter, a worse performance than analysts predicted. Net income dropped by 83% to 1.39bn. The company cited the [pandemic](https://www.economist.com/china/2022/08/18/chinas-economy-is-beset-by-problems), increased fuel prices, input costs and inflation as reasons for the downturn. Formerly China’s biggest smartphone brand, Xiaomi has struggled against domestic competition.
+<strong>Olaf Scholz</strong>, Germany’s chancellor, denied allegations of impropriety in his management of a multibillion-euro<strong> tax-fraud case</strong> while acting as mayor of Hamburg in 2017. Mr Scholz stands accused of deliberately failing to collect €47m ($47m) in [tax payments from Warburg](https://www.economist.com/finance-and-economics/2020/11/19/a-tax-evasion-scandal-draws-in-hamburgs-elites), a local bank. The investigation comes at a difficult time for Mr Scholz as he grapples with Germany’s energy crunch alongside his own dipping popularity.
 
-<strong>Word of the week: </strong><em>Umaibo</em>, meaning “delicious stick” in Japanese, and the name of a beloved puffed-corn treat that made national news this year, when its price increased for the first time since 1979. [Read the full story.](https://www.economist.com/asia/2022/08/18/prices-are-rising-in-japan-but-not-wages)
+<strong>Word of the week: </strong><em>Umaibo</em>, meaning “delicious stick” in Japanese, and the name of a beloved puffed-corn treat that made national news this year, when its price increased for the first time since 1979. [Read the full story](https://www.economist.com/asia/2022/08/18/prices-are-rising-in-japan-but-not-wages).
 
 ----------
 
-## Mike Pence’s barnstorming
+## Navalny riles the Kremlin from jail
 
-The Iowa state fair is a rite of passage for presidential hopefuls. In campaign years candidates and the hacks covering them flock to the event. Once there they consume calorific inventions served on sticks and glad-handle voters ahead of Iowa’s nominating contest, which comes first in the presidential-election cycle. The next presidential election is not until 2024, yet on Friday Mike Pence, Donald Trump’s former vice-president, will make an appearance in Des Moines. 
+Exactly two years ago the Kremlin tried to assassinate [Alexei Navalny](https://www.economist.com/europe/2020/10/17/an-interview-with-alexei-navalny-assassination-survivor), its most prominent domestic critic. He fell ill on a flight over Siberia. After being evacuated to Germany it was confirmed that he had been poisoned with Novichok, a military nerve agent. Mr Navalny returned to Russia five months later and was duly [imprisoned](https://www.economist.com/europe/2022/07/04/alexei-navalnys-jailers-are-tightening-the-screws), but he has not been cowed.
 
-He comes to Iowa’s capital straight from New Hampshire, another early-voting state, where he told attendees at an event that Republicans should stop attacking the FBI over its [raid of his former boss’s estate](https://www.economist.com/united-states/2022/08/17/merrick-garland-is-not-naive-about-political-violence). He also said he would consider testifying before congressional investigators probing the Capitol riot on January 6th 2021. Mr Pence appears to have completely fallen out with Mr Trump; his itinerary suggests he may well covet the presidency for himself. Does presidential-campaign season now start before the mid-terms have even finished?
+The Kremlin is using the war in Ukraine to silence other critics. Prominent opposition politicians have been imprisoned on sham pretexts. Prohibitions on “discrediting” the army have in effect outlawed dissent. Independent-minded Russians have [emigrated](https://www.economist.com/international/2022/08/09/much-of-russias-intellectual-elite-has-fled-the-country). And all the while, Mr Navalny has continued riling the authorities from behind bars. His latest ruse was to register a trade union for prisoners. Authorities then put him in solitary confinement. Mr Navalny says he was told the move was punishment for failing to fasten the top button of his prison uniform. 
 
-## Russian-Israeli relations in the dock
+## A rematch for boxing heavyweights
 
-Lawyers for the Jewish Agency for Israel, an international organisation which acts on behalf of the Israeli government, are fighting to continue its presence in Russia. At their own request, their appearance before a Russian court on Friday was postponed at the last minute. The Kremlin accuses the JA, which helps Jews move to Israel, of illegally collecting the personal information of Russian citizens.
+Last September an underdog Ukrainian fighter, Oleksandr Usyk, defeated Anthony Joshua, a Briton who held three world heavyweight belts. Mr Usyk had built a successful career as a cruiserweight, but was widely expected to struggle after going up a division. Instead his superior technical skills humbled his opponent, who looked tactically naive and slow-footed. 
 
-The accusation seems to be a warning to Israel to[ remain neutral](https://www.economist.com/middle-east-and-africa/2022/07/28/israels-russian-conundrum) on the war in Ukraine—a position partly owing to its own large Russian-speaking population. But the country’s prime minister, Yair Lapid, condemned Russia’s invasion before he took office in July. The scale of emigration since the start of the war suggests that many Jews agree with Mr Lapid. The JA reckons that around 20,500 Russian Jews have moved to Israel since March, over 12% of Russia’s estimated Jewish population. The Kremlin may succeed in shutting down the JA. But that will not convince other Jews to stay in Russia.
+On Saturday, in the Saudi Arabian city of Jeddah, Mr Joshua has his rematch. If he wins, his career will be back on track and negotiations for a lucrative title-unification fight with another British heavyweight, [Tyson Fury](https://www.economist.com/culture/2022/04/22/scandal-overshadows-boxings-world-heavyweight-title-bout), will resume. If he loses again, his career at the top of boxing will probably be over. Yet Mr Usyk has had the more difficult year. He enlisted in the Ukrainian army and his family home was temporarily seized by Russian fighters. He has ensured that the fight will be free for all Ukrainians to watch. This time, he will not be underestimated. 
 
-## South Korea and Japan court disaster
+## Australia wears its mullets with pride
 
-Yoon Suk-yeol has historic ambitions for his country’s relationship with neighbouring Japan. On August 17th South Korea’s president said that [the two countries’ enmity](https://www.economist.com/the-economist-explains/2019/09/03/why-japan-and-south-korea-bicker), stemming from Japan’s colonial rule over Korea from 1910 to 1945, could be swept aside “amicably and promptly”. His enthusiasm is understandable—a bit of bonhomie could make both countries [richer and more secure](https://www.economist.com/asia/2022/07/07/south-korea-and-japan-have-a-rare-chance-to-make-friends), especially in the face of rising tensions in the region.
+Native Americans once sported mullets. So did the ancient Greeks. But Australia sees the hairstyle as a badge of its national identity. On Saturday fans of the much-derided cut gather in Dubbo, a city in New South Wales, for an annual competition to find the finest mullets Down Under. The controversial look is eternally popular in outback Australia, but its recent proliferation has ignited a national debate.
 
-His optimism makes less sense. The path to rapprochement is long and treacherous, and the journey could end almost before it has begun. In 2018 South Korea’s courts approved the seizure of assets from certain Japanese companies, on the basis that Koreans had been forced to toil on their behalf during the second world war. The liquidated assets would be given to the victims. The companies refused to pay, but the court’s final [decision](https://www.economist.com/asia/2018/12/22/japanese-firms-resist-compensating-forced-wartime-labourers-from-korea) may come as early as Friday. Forcing the firms to pay up will enrage Japan, and will probably put paid to Mr Yoon’s aspirations.
+Mullets have returned to fashion in the country’s professional sports leagues. They are trendy in schools and surfing communities. But not everyone is sold on the do: several private schools have banned the hairstyle and some pubs turn away mulleted men for falling short of dress codes. The issue has even percolated up to the top heads. The mullet is “a unique Australian invention—one which we’ve been selling to the world”, Western Australia’s “pro-mullet” premier, Mark McGowan, claimed last year. He advised the haircut’s fans to “rise up and rebel against these extreme rules”. 
 
-## Stasi assassins, synths and a suitcase
+## What to read to understand the history of Western capitalism
 
-“Kleo” is intense—and brutal—from the off. Set after the fall of the Berlin Wall, the series, released on Netflix on Friday, follows Kleo Straub, a fictional former Stasi assassin. She embarks on a mission to settle scores, deploying disguises, dark humour and outlandish fashion choices that will remind many viewers of the BBC’s “Killing Eve”. 
+It is easy to be swept up in news about the economy, which can make it hard to step back and think about the bigger questions. Yet [economic history](https://www.economist.com/the-economist-reads/2022/07/04/what-to-read-to-understand-the-history-of-western-capitalism) can improve your understanding of the news. Here are five helpful resources.
 
-Feminist revenge dramas are in vogue. They can seem repetitive, but “Kleo” attempts to differentiate itself with a historical twist. The show explores the contrasts between east and west Germany in the post-Soviet era and is infused with real events and people, such as Erich Mielke, the Stasi chief. There is also a suitcase full of clues, for the spy-drama addicts. It is a novel way into a subgenre that every streaming company wants a slice of. And Netflix could do with a boost: it lost nearly 1m subscribers in the three months to July, the biggest drop in the company’s history.
+<strong>“The Worldly Philosophers”</strong> by Robert Heilbroner is an excellent introduction to the history of economic ideas. It covers everyone from Adam Smith to Thomas Malthus to Karl Marx, explaining what they thought and why.
 
-## A deadly toll for aid workers
+Also try <strong>“A Culture of Growth”</strong>, by Joel Mokyr, which deals squarely with the question of why Europe was the first region to industrialise—focusing on institutions.
 
-Wherever there is conflict, there are people who run to help. Being an aid worker in unstable or violent regions always carries risks, but 2021 was the deadliest year in nearly a decade for humanitarian staff. According to data from Humanitarian Outcomes, a consultancy in London, 141 were killed. 
+And for much more European history, Jonathan Sumption’s 3,320-page <strong>“The Hundred Years’ War”</strong> shows just how different governance and politics were before capitalism.
 
-On Friday the UN will mark World Humanitarian Day with a campaign to raise awareness about the rising toll on aid workers. Despite there being fewer violent incidents in 2021 compared with the previous two years, the 268 reported attacks, mostly shootings and airstrikes, resulted in more deaths, and 117 people were kidnapped.
+Two of the best resources, though, are not books but journal articles. <strong>“War as an Economic Activity in the ‘Long’ Eighteenth Century”</strong>, by N.A.M. Rodger, emphasises the role of technology in economic success. In <strong>“Enclosures, Common Rights, and Women”</strong> Jane Humphries looks at the impact of that success by examining how lifestyles changed as capitalism came about.
 
-South Sudan remains the most dangerous place in the world for aid workers. Afghanistan comes second, despite a [dip in overall violence](https://www.economist.com/graphic-detail/2022/08/15/violence-in-afghanistan-has-dropped-under-the-taliban) since the Taliban returned to power. With war now raging in Ukraine, this year could be even worse for humanitarians. 
+<em>For reading recommendations on many more topics, visit </em>[<em>The Economist reads</em>](https://www.economist.com/the-economist-reads/)<em>.</em>
 
-## Daily quiz
+## Weekend profile: Fani Willis, the local prosecutor taking on Trumpworld
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2677534f5c63555654435555496643454948494b4f55520845494b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+“It does not matter what your notoriety is, what your fame is, if you come to Fulton County, Georgia, and you commit crimes…we are going to prosecute you to the fullest extent of the law.” So said Fani Willis, the local district attorney, in May, unveiling gang-related charges against Young Thug, a Grammy-winning rapper, and 27 others. (Young Thug denies the charges.) But they could equally be seen as a warning to Donald Trump—another celebrity in Ms Willis’s sights.
 
-<strong>Friday: </strong>What is the currency of Armenia?
+For months Ms Willis has been investigating attempts by Mr Trump and his allies to overturn his 2020 election loss in Georgia. (Mr Trump has denied wrongdoing.) Her probe—[one of several](https://www.economist.com/united-states/2022/08/17/merrick-garland-is-not-naive-about-political-violence) he faces—is sprawling. Among its targets are Rudy Giuliani, Mr Trump’s former lawyer, and the Republican “fake electors” who falsely tried to certify the vote for the former president. 
 
-<strong>Thursday: </strong>Under the imperial system of measures, what unit was equal to 1/7000th of an avoirdupois pound? 
+Charges, if and when they come, might allege a co-ordinated, criminal scheme to commit election fraud. Ms Willis has a history of using racketeering laws, which target criminal “enterprises” like the Mafia. In 2013 she used these laws to secure an indictment against teachers and administrators for inflating pupils’ exam scores, in a case that made national headlines; 11 of the 12 defendants were convicted. Her charges against Young Thug’s cohort also allege racketeering.
 
-## The winners of last week’s crossword
+Ms Willis is a formidable opponent. Described as a “street-fighter” in the courtroom, she has spent most of her career in the office she now leads. In 2020 she handily beat her former boss to win the top job. On her first day as district attorney, news broke of Mr Trump’s demand that Brad Raffensperger, Georgia’s elections chief, “find 11,780 votes”. That notorious call launched a career-defining probe.
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of The World in Brief. The winners, chosen at random from each continent, were: 
+Ms Willis maintains that she takes “no pleasure” in going after a former president. Opponents say she is on a politically motivated crusade. Last month a judge scolded her for hosting a fundraiser for the Democratic rival of a Republican whom she was investigating, and disqualified her from pursuing him.
 
-Asia: <strong>Chanakya Arora</strong>, New Delhi, India 
+Her inquiry is likely to last for months yet. As it gathers pace, Trumpworld may heed the words of 50 Cent, another rapper, on racketeering charges: “Those laws were designed for you not to escape them.” 
 
-North America:<strong> Evan McLain</strong>, Seattle, USA
+## Weekly crossword
 
-Central and South America: <strong>Sebastian Agudelo-Restrepo</strong>, Santo Domingo, Dominican Republic
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-Europe: <strong>Sriram Chari</strong>, Bath, UK 
+<strong>Cryptic clues</strong>
 
-Africa:<strong> Hasit Raja</strong>, Nairobi, Kenya
+<em>1 down: </em>Twisted aria about freeloading, disgruntled loser (5,6)
 
-Oceania: <strong>Rob Hugall</strong>, Brisbane, Australia 
+<em>1 across:</em> Country built up from ideas? Sure—without freedom (6) 
 
-They all gave the correct answers of [Burkina Faso](https://www.economist.com/middle-east-and-africa/2022/08/11/how-al-qaeda-and-islamic-state-are-digging-into-africa), [Baltic](https://www.economist.com/international/2022/08/09/much-of-russias-intellectual-elite-has-fled-the-country), [nukes](https://www.economist.com/asia/2022/08/11/the-nuclear-arsenals-of-china-india-and-pakistan-are-growing) and [Oracle](https://www.economist.com/business/2022/08/08/can-tech-reshape-the-pentagon). Check back tomorrow for this week’s crossword.
+<em>2 across:</em> President lost in a dream about reversing (5)
+
+<em>3 across: </em>Oh no! First kids arrive in a state (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down: </em>Son of Kenya’s first vice-president (5,6)
+
+<em>1 across: </em>One of three “potash powers” (with Belarus and Canada) (6) 
+
+<em>2 across: </em>Democrat who carried Maine’s second district twice (5)
+
+<em>3 across: </em>Where salmon migration is a political issue (6)
+
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday’s edition. 
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Jin-Hong Park</strong>, Suwon, South Korea
+
+North America: <strong>Heather Burnett Gold</strong>, Leesburg, USA 
+
+Central and South America: <strong>Alvaro Tomas</strong>, Panama City, Panama
+
+Europe: <strong>Finnbogi Óskarsson</strong>, Reykjavík, Iceland
+
+Africa:<strong> Richard Small</strong>, Johannesburg, South Africa
+
+Oceania: <strong>John Wright</strong>, Auckland, New Zealand
+
+They all submitted the correct answers of “MASH”, “The Cask of Amontillado”, Stephen Stills, grain and dram. The theme is whisky, which is mashed, matured in a cask, distilled in stills, made from grain and a drink of which is often referred to as a “dram”. 
 
 ----------
 
