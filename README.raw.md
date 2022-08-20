@@ -32,37 +32,33 @@ Britons’ <strong>consumer confidence</strong> plunged to historic lows on Frid
 
 ----------
 
-## Navalny riles the Kremlin from jail
+## Raila Odinga’s last gamble?
 
-Exactly two years ago the Kremlin tried to assassinate [Alexei Navalny](https://www.economist.com/europe/2020/10/17/an-interview-with-alexei-navalny-assassination-survivor), its most prominent domestic critic. He fell ill on a flight over Siberia. After being evacuated to Germany it was confirmed that he had been poisoned with Novichok, a military nerve agent. Mr Navalny returned to Russia five months later and was duly [imprisoned](https://www.economist.com/europe/2022/07/04/alexei-navalnys-jailers-are-tightening-the-screws), but he has not been cowed.
+Raila Odinga is the nearly man of Kenyan politics. He has stood in five presidential elections, come second in four and would probably have won at least one, were it not rigged. Now 77 years old, his seemingly final shot at redemption comes on Monday, when he is expected to challenge his [latest defeat](https://www.economist.com/middle-east-and-africa/2022/08/18/william-ruto-is-declared-kenyas-next-president) in the supreme court.
 
-The Kremlin is using the war in Ukraine to silence other critics. Prominent opposition politicians have been imprisoned on sham pretexts. Prohibitions on “discrediting” the army have in effect outlawed dissent. Independent-minded Russians have [emigrated](https://www.economist.com/international/2022/08/09/much-of-russias-intellectual-elite-has-fled-the-country). And all the while, Mr Navalny has continued riling the authorities from behind bars. His latest ruse was to register a trade union for prisoners. Authorities then put him in solitary confinement. Mr Navalny says he was told the move was punishment for failing to fasten the top button of his prison uniform. 
+Mr Odinga lost Kenya’s election of August 9th to [William Ruto](https://www.economist.com/the-economist-explains/2022/08/16/who-is-william-ruto), the outgoing deputy president, by just 1.6% of the vote. Given that Mr Odinga was the favoured candidate of the departing president, Uhuru Kenyatta, proving fraud might be tricky; sitting governments tend to cheat their opponents, rather than candidates they are backing. Mr Odinga may instead emphasise a split in the [electoral commission](https://www.economist.com/middle-east-and-africa/2022/08/11/why-kenyas-election-is-going-down-to-the-wire). Four of its seven commissioners questioned the result, suggesting that 142,000 votes had been miscounted, potentially enough to force a run-off. But that later turned out to be a basic mathematical error, undermining their credibility. Mr Odinga might have to settle for silver again.
 
-## A rematch for boxing heavyweights
+## The EU’s Russian holiday dilemma
 
-Last September an underdog Ukrainian fighter, Oleksandr Usyk, defeated Anthony Joshua, a Briton who held three world heavyweight belts. Mr Usyk had built a successful career as a cruiserweight, but was widely expected to struggle after going up a division. Instead his superior technical skills humbled his opponent, who looked tactically naive and slow-footed. 
+European summer holidays are reaching their apogee. But a question looms over the continent’s beaches: should Russians be allowed to join them? There are currently no air links between Russia and the West, but some sun-seekers are travelling overland to places like Helsinki, or flying to a non-EU country, before transiting onwards as they please.
 
-On Saturday, in the Saudi Arabian city of Jeddah, Mr Joshua has his rematch. If he wins, his career will be back on track and negotiations for a lucrative title-unification fight with another British heavyweight, [Tyson Fury](https://www.economist.com/culture/2022/04/22/scandal-overshadows-boxings-world-heavyweight-title-bout), will resume. If he loses again, his career at the top of boxing will probably be over. Yet Mr Usyk has had the more difficult year. He enlisted in the Ukrainian army and his family home was temporarily seized by Russian fighters. He has ensured that the fight will be free for all Ukrainians to watch. This time, he will not be underestimated. 
+Yet a push to stop issuing visas to Russians is gaining steam. The Estonian government has banned those with Estonian-issued visas from entering the country, while this week Finland said it would curtail the number of visas issued to Russians. Fearing a bloc-wide ban, Russians are now scrambling to grab EU visas while they can.
 
-## Australia wears its mullets with pride
+Hawks think it unfair that Russians can live as if their country hadn’t started a war on the continent. Others, including Olaf Scholz, the German chancellor, say sanctions should punish Russia’s politicians, not its people. If only because Ukrainian authorities are lobbying for a Russian visa ban, the issue will have to be hashed out by EU grandees—after the holidays, that is.
 
-Native Americans once sported mullets. So did the ancient Greeks. But Australia sees the hairstyle as a badge of its national identity. On Saturday fans of the much-derided cut gather in Dubbo, a city in New South Wales, for an annual competition to find the finest mullets Down Under. The controversial look is eternally popular in outback Australia, but its recent proliferation has ignited a national debate.
+## The studio saving cinema
 
-Mullets have returned to fashion in the country’s professional sports leagues. They are trendy in schools and surfing communities. But not everyone is sold on the do: several private schools have banned the hairstyle and some pubs turn away mulleted men for falling short of dress codes. The issue has even percolated up to the top heads. The mullet is “a unique Australian invention—one which we’ve been selling to the world”, Western Australia’s “pro-mullet” premier, Mark McGowan, claimed last year. He advised the haircut’s fans to “rise up and rebel against these extreme rules”. 
+Four of the ten highest-grossing films of the 21st century belong to the Marvel franchise. Talk to a cinephile, and they will bemoan the state of an industry dominated by superhero action-fests and uninspired reboots. Studios no longer make mid-budget movies, or so the argument goes: it’s either blockbusters or niche arthouse fare.
 
-## What to read to understand the history of Western capitalism
+But one studio has bucked the trend. A24, an American firm which celebrates its tenth birthday this weekend, has had striking success championing high-quality, auteur-led projects. The formula has garnered both acclaim and fans: “Moonlight”, a coming-of-age drama, and “Minari”, about Korean immigrants in America, won Oscars, while the TV show “Euphoria” drew over 16m viewers an episode.
 
-It is easy to be swept up in news about the economy, which can make it hard to step back and think about the bigger questions. Yet [economic history](https://www.economist.com/the-economist-reads/2022/07/04/what-to-read-to-understand-the-history-of-western-capitalism) can improve your understanding of the news. Here are five helpful resources.
+It is a financially savvy model, too. A24’s success in creating popular entertainment with low budgets has attracted backers: a $225m investment this year valued the company at $2.5bn. That is a long way behind established industry players such as Disney, Paramount, or Warner Bros. But it is the young company that is making cinema interesting again.
 
-<strong>“The Worldly Philosophers”</strong> by Robert Heilbroner is an excellent introduction to the history of economic ideas. It covers everyone from Adam Smith to Thomas Malthus to Karl Marx, explaining what they thought and why.
+## Return to Westeros
 
-Also try <strong>“A Culture of Growth”</strong>, by Joel Mokyr, which deals squarely with the question of why Europe was the first region to industrialise—focusing on institutions.
+“Game of Thrones”, which aired from 2011 to 2019, was an era-defining hit. It won more Emmy Awards than any other drama series in history, and made “swords-and-sandals” epics a priority for every network. But its rushed and somewhat illogical ending disappointed. Although the whole saga is still ranked as the 13th best series of all time on IMDb, a review site, with a 9.2 average rating, its finale scores just 4.1. Even George R.R. Martin, the author of the “Game of Thrones” books, has distanced himself from the series’ ending.
 
-And for much more European history, Jonathan Sumption’s 3,320-page <strong>“The Hundred Years’ War”</strong> shows just how different governance and politics were before capitalism.
-
-Two of the best resources, though, are not books but journal articles. <strong>“War as an Economic Activity in the ‘Long’ Eighteenth Century”</strong>, by N.A.M. Rodger, emphasises the role of technology in economic success. In <strong>“Enclosures, Common Rights, and Women”</strong> Jane Humphries looks at the impact of that success by examining how lifestyles changed as capitalism came about.
-
-<em>For reading recommendations on many more topics, visit </em>[<em>The Economist reads</em>](https://www.economist.com/the-economist-reads/)<em>.</em>
+On Sunday HBO will expand its franchise with the premiere of “[House of the Dragon](https://www.economist.com/culture/2022/08/19/house-of-the-dragon-is-a-slick-follow-up-to-game-of-thrones)”, the first of many planned spin-offs. Its stakes are low: watchers of “Game of Thrones” will know how the prequel unravels. But it is an expertly produced return to form, with many welcome changes—such as less emphasis on sexual violence and a more diverse cast. At least in its first season, HBO is likely to have another series adored by fans and envied by its competitors.
 
 ## Weekend profile: Fani Willis, the local prosecutor taking on Trumpworld
 
