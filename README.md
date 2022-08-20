@@ -16,17 +16,17 @@ France said <strong>Vladimir Putin</strong>, Russia’s president, had told his 
 
 A drone reportedly struck the headquarters of <strong>Russia’s Black Sea Fleet</strong> in Sevastopol, Crimea, with another shot down nearby. As with [other recent strikes on Crimea](https://te.arielherself.xyz/europe/2022/08/11/wrecked-planes-smoulder-at-russias-saky-airbase-in-crimea), much remains unexplained about the perpetrators and origins of the latest attacks. But they provide further evidence of Russian vulnerability far from the front line of the war. 
 
+At least 12 people are believed dead after an attack on a hotel in <strong>Mogadishu</strong>, the capital of Somalia. <strong>Al-Shabab</strong>, a jihadist group with links to al-Qaeda, has claimed responsibility for the ongoing siege. It began with car bombs on Friday night. This is the first major attack by al-Shabab since [Hassan Sheikh Mohamud](https://te.arielherself.xyz/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups) was elected president in May. The group already controls much of the Somali countryside.
+
+<strong>Greece </strong>reached the end of a period of “enhanced surveillance” by the European Union. It will now have greater freedom to implement economic policy and should become a more attractive investment proposition. Public-debt woes forced the country to turn to the euro zone and the IMF for a first bailout in 2010. The surveillance lasted for four years after it exited the third such programme in 2018.
+
+Listen to an abridged version of the subscriber-only briefing.
+
 <strong>Mexico</strong> arrested the prosecutor who had led the investigation of [a notorious disappearance ](https://te.arielherself.xyz/the-americas/2016/04/30/the-great-mystery)of 43 student-teachers in 2014. With former attorney-general Jesús Murillo in custody, another 83 warrants were ordered for the arrest of other officials, police and gang members. According to Mr Murillo’s investigation, the students were murdered and dismembered by drug traffickers in a case of mistaken identity. The current government suspects the Mexican state itself played a sinister role.
 
 <strong>Finland’s</strong> prime minister took a drug test to quell a brouhaha over video footage of her partying and dancing with friends. [Sanna Marin](https://te.arielherself.xyz/graphic-detail/2019/12/11/finlands-new-prime-minister-is-the-worlds-youngest), aged 36, said the results would put to rest the “grave public accusations” that she had used drugs, though she called demands for her to take a test “unjust”. The results will be available in a week.
 
-Listen to an abridged version of the subscriber-only briefing.
-
-At least 12 people are believed dead after an attack on a hotel in <strong>Mogadishu</strong>, the capital of Somalia. <strong>Al-Shabab</strong>, a jihadist group with links to al-Qaeda, has claimed responsibility for the ongoing siege. It began with car bombs on Friday night. This is the first major attack by al-Shabab since [Hassan Sheikh Mohamud](https://te.arielherself.xyz/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups) was elected president in May. The group already controls much of the Somali countryside.
-
-Britons’ <strong>consumer confidence</strong> plunged to historic lows on Friday, according to research by data provider GfK. Respondents were gloomy about all five component parts of the consumer confidence index, reflecting “a sense of exasperation about the [UK’s economy](https://te.arielherself.xyz/britain/2022/08/11/britains-economy-is-taking-a-drubbing)”, according to a GfK director. Separately, Britain reported a fall of 1.2% in retail sales in the three months to July.
-
-<strong>Olaf Scholz</strong>, Germany’s chancellor, denied allegations of impropriety in his management of a multibillion-euro<strong> tax-fraud case</strong> while acting as mayor of Hamburg in 2017. Mr Scholz stands accused of deliberately failing to collect €47m ($47m) in [tax payments from Warburg](https://te.arielherself.xyz/finance-and-economics/2020/11/19/a-tax-evasion-scandal-draws-in-hamburgs-elites), a local bank. The investigation comes at a difficult time for Mr Scholz as he grapples with Germany’s energy crunch alongside his own dipping popularity.
+At least sixteen people died in southern <strong>Turkey</strong> after a bus collided with emergency teams working at the scene of an earlier accident. The dead include bus passengers and two journalists who had stopped to help at the site, where a car had left the highway. More than 20 people were injured.
 
 <strong>Word of the week: </strong><em>Umaibo</em>, meaning “delicious stick” in Japanese, and the name of a beloved puffed-corn treat that made national news this year, when its price increased for the first time since 1979. [Read the full story](https://te.arielherself.xyz/asia/2022/08/18/prices-are-rising-in-japan-but-not-wages).
 
