@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Finland’s</strong> prime minister took a drug test to quell a brouhaha over video footage of her partying and dancing with friends. [Sanna Marin](https://te.arielherself.xyz/graphic-detail/2019/12/11/finlands-new-prime-minister-is-the-worlds-youngest), aged 36, said the results would put to rest the “grave public accusations” that she had used drugs, though she called demands for her to take a test “unjust”. The results will be available in a week.
 
-At least sixteen people died in southern <strong>Turkey</strong> after a bus collided with emergency teams working at the scene of an earlier accident. The dead include bus passengers and two journalists who had stopped to help at the site, where a car had left the highway. More than 20 people were injured.
+At least 16 people died in southern <strong>Turkey</strong> after a bus collided with emergency teams working at the scene of an earlier accident. The dead include bus passengers and two journalists who had stopped to help at the site, where a car had left the highway. More than 20 people were injured.
 
 <strong>Word of the week: </strong><em>Umaibo</em>, meaning “delicious stick” in Japanese, and the name of a beloved puffed-corn treat that made national news this year, when its price increased for the first time since 1979. [Read the full story](https://te.arielherself.xyz/asia/2022/08/18/prices-are-rising-in-japan-but-not-wages).
 
