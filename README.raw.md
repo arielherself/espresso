@@ -12,11 +12,11 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Somali forces said they had overrun and killed the <strong>al-Shabab </strong>fighters laying siege to a hotel in Mogadishu. At least 20 people died when the jihadist group, which has links to al-Qaeda, attacked the Hayat hotel in the Somali capital on Friday. It was the first significant attack by al-Shabab since [Hassan Sheikh Mohamud](https://www.economist.com/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups) was elected president in May. The group already controls much of the Somali countryside.
-
 The daughter of <strong>Alexander Dugin</strong>, a nationalist ideologue who has been described as “[Vladimir] Putin’s brain”, was killed outside Moscow by a car bomb. Since Darya Dugina was killed while driving her father’s car, it is believed that he was probably the intended target. Both father and daughter have asserted Russia’s authority over Ukraine and both of them have been sanctioned by Britain and America.
 
 Lee Hsien Loong, the prime minister of <strong>Singapore</strong>, said that his city-state would decriminalise sex between men. He told a rally that his government would repeal Section 377A of the Penal Code. The colonial-era law, which punishes acts of “gross indecency” between men with up to two years in jail, is not “proactively enforced”—as Mr Lee once put it—at present.
+
+Somali forces said they had overrun and killed the <strong>al-Shabab </strong>fighters laying siege to a hotel in Mogadishu. At least 20 people died when the jihadist group, which has links to al-Qaeda, attacked the Hayat hotel in the Somali capital on Friday. It was the first significant attack by al-Shabab since [Hassan Sheikh Mohamud](https://www.economist.com/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups) was elected president in May. The group already controls much of the Somali countryside.
 
 <strong>Volodymyr Zelensky</strong>, Ukraine’s president, warned that the Kremlin might be preparing an “ugly” attack in the lead up to independence day celebrations. Ukraine [broke away](https://www.economist.com/christmas-specials/2021/12/18/why-russia-has-never-accepted-ukrainian-independence) from the Soviet Union on August 24th 1991. Meanwhile a drone reportedly struck the headquarters of <strong>Russia’s Black Sea Fleet</strong> in Sevastopol, Crimea, [again](https://www.economist.com/europe/2022/08/11/wrecked-planes-smoulder-at-russias-saky-airbase-in-crimea) pointing towards Russia’s vulnerability far from the front line of its war. The perpetrators remain unknown.
 
