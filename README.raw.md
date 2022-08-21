@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-At least 12 people are believed dead after an attack on a hotel in <strong>Mogadishu</strong>, the capital of Somalia. <strong>Al-Shabab</strong>, a jihadist group with links to al-Qaeda, has claimed responsibility for the ongoing siege. It began with car bombs on Friday night. This is the first major attack by al-Shabab since [Hassan Sheikh Mohamud](https://www.economist.com/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups) was elected president in May. The group already controls much of the Somali countryside.
+Somali forces said they had overrun and killed the <strong>Al-Shabab </strong>fighters who had laid siege to a hotel in Mogadishu. At least 12 people died when the jihdist group, which has links to al-Qaeda, attacked the Hayat hotel in the Somali capital on Friday. It was the first significant attack by al-Shabab since [Hassan Sheikh Mohamud](https://www.economist.com/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups) was elected president in May. The group already controls much of the Somali countryside.
 
 A drone reportedly struck the headquarters of <strong>Russia’s Black Sea Fleet</strong> in Sevastopol, Crimea, with another shot down nearby. As with [other recent strikes on Crimea](https://www.economist.com/europe/2022/08/11/wrecked-planes-smoulder-at-russias-saky-airbase-in-crimea), much remains unexplained about the perpetrators and origins of the latest attacks. But they provide further evidence of Russian vulnerability far from the front line of the war. 
 
@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Mexico</strong> arrested the prosecutor who had led the investigation of [a notorious disappearance ](https://www.economist.com/the-americas/2016/04/30/the-great-mystery)of 43 student-teachers in 2014. With former attorney-general Jesús Murillo in custody, another 83 warrants were ordered for the arrest of other officials, police and gang members. According to Mr Murillo’s investigation, the students were murdered and dismembered by drug traffickers in a case of mistaken identity. The current government suspects the Mexican state itself played a sinister role.
 
-<strong>Finland’s</strong> prime minister took a drug test to quell a brouhaha over video footage of her partying and dancing with friends. [Sanna Marin](https://www.economist.com/graphic-detail/2019/12/11/finlands-new-prime-minister-is-the-worlds-youngest), aged 36, said the results would put to rest the “grave public accusations” that she had used drugs, though she called demands for her to take a test “unjust”. The results will be available in a week.
+<strong>Albania’s </strong>defence ministry said that two Russians and one Ukrainian had been arrested for attempting to spy on an arms plant in the centre of the country. Two Albanian soldiers were injured trying to stop their entry.
 
 At least 16 people died in southern <strong>Turkey</strong> after a bus collided with emergency teams working at the scene of an earlier accident. The dead include bus passengers and two journalists who had stopped to help at the site, where a car had left the highway. More than 20 people were injured.
 
