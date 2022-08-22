@@ -66,7 +66,7 @@ For now, SAF is about three times as costly as ordinary jet fuel. Even so, airli
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a7f6d2cedde2d4d7d5c2d4d4c8e7c2c4c8c9c8caced4d389c4c8ca">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [QuizEspr<span class="__cf_email__" data-cfemail="a1c4d2d2cee1c4c2cecfceccc8d2d58fc2cecc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>What is the traditional title for an adult male Mormon who has taken the lowest office in the Melchizedek priesthood?
 
