@@ -66,7 +66,7 @@ Naturally, the pair brought along a camera crew to chart the ups and downs of th
 
 ## Daily quiz
 
-<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6c3d190516291f1c1e091f1f032c090f03020301051f18420f0301">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d485a1bdae91a7a4a6b1a7a7bb94b1b7bbbabbb9bda7a0fab7bbb9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Who was the British foreign secretary during the invasion of Iraq in 2003?
 
