@@ -48,7 +48,7 @@ Angolans are frustrated that their oil-dependent state serves only a small elite
 
 ## Chipping at Nvidia’s bottom line
 
-Nvidia, one of the [world’s leading chip companies](https://te.arielherself.xyz/business/2021/08/01/will-nvidias-huge-bet-on-artificial-intelligence-chips-pay-off), reports its financial results on Wednesday. They will be dire. So bad, in fact, that the firm offered a preview earlier this month, hoping to dampen the shock to the markets. The Californian company said it expected to book revenues of $6.7bn in the second financial quarter ended in July, down by 19% from the same period last year and 17% lower than the $8.1bn it had forecast in May. 
+Nvidia, one of the world’s [leading chip companies](https://te.arielherself.xyz/business/2021/08/01/will-nvidias-huge-bet-on-artificial-intelligence-chips-pay-off), released its financial results on Wednesday. As expected, they are grim (the firm even offered a preview earlier this month, hoping to dampen the shock to the markets). The Californian company reported revenues of $6.7bn in the second financial quarter ended in July, up just 3% from a year ago and down by 19% from the previous quarter. The figure is 17% lower than the $8.1bn Nvidia had forecast in May.
 
 The culprit is weaker post-pandemic demand for electronics, especially high-end gaming systems, for which Nvidia supplies powerful graphics chips. Many of those cards had also been used to mine cryptocurrencies, and the [crypto meltdown](https://te.arielherself.xyz/finance-and-economics/2022/05/12/the-crypto-infrastructure-cracks) has sapped demand here, too. Nvidia’s rivals—[Intel](https://te.arielherself.xyz/business/intels-turnaround-and-the-future-of-chipmaking/21804288), Qualcomm and AMD—have also missed revenue forecasts. On his earnings call Jensen Huang, Nvidia’s CEO, will be trying hard to show investors a path back to growth.
 
@@ -66,7 +66,7 @@ Naturally, the pair brought along a camera crew to chart the ups and downs of th
 
 ## Daily quiz
 
-<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="93c2e6fae9d6e0e3e1f6e0e0fcd3f6f0fcfdfcfefae0e7bdf0fcfe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Who was the British foreign secretary during the invasion of Iraq in 2003?
 
