@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine</strong>’s president, warned of “hideous Russian provocations and brutal strikes” ahead of his country’s independence day on Wednesday. The day also marks the six-month anniversary of [Russia’s invasion](https://www.economist.com/ukraine-crisis). America is expected to announce a fresh package of military aid worth $3bn. Separately, the UN’s nuclear watchdog said it would assess security at [Zaporizhia, the site of Europe’s largest nuclear plant](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant)—and intense shelling—over the next few days.
+<strong>Joe Biden</strong> announced nearly <strong>$3bn of military assistance</strong> to Ukraine as he congratulated the country on its independence day, which coincides with the [six-month](https://www.economist.com/interactive/europe/2022/08/24/six-months-of-war-in-ukraine) anniversary of [Russia’s invasion](https://www.economist.com/ukraine-crisis). Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said the country had been “reborn” through its resistance to Russia’s aggression. He also vowed to regain Russian-occupied regions, including Crimea which Russia annexed in 2014. Earlier Mr Zelensky warned of “hideous Russian provocations” ahead of the Ukrainian national holiday.
 
 <strong>Japan’s </strong>prime minister, Kishida Fumio, said on Wednesday that his country will consider building a new generation of <strong>nuclear-power reactors</strong> as it prepares to restart plants left idle since the Fukushima disaster of 2011. The global surge in energy prices helped prompt an about-face. There remains work to be done, Mr Kishida implied, in convincing the public that this counts towards Japan’s “green transformation”.
 
@@ -66,7 +66,7 @@ Naturally, the pair brought along a camera crew to chart the ups and downs of th
 
 ## Daily quiz
 
-<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1445617d6e516764667167677b5471777b7a7b797d67603a777b79">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="39684c50437c4a494b5c4a4a56795c5a56575654504a4d175a5654">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Who was the British foreign secretary during the invasion of Iraq in 2003?
 
