@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-08-23</p>
+# <p align="center">The world in brief 2022-08-24</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -66,7 +66,7 @@ The restart is a calculated risk to help small clubs struggling for revenue. But
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3f6e4a56457a4c4f4d5a4c4c507f5a5c50515052564c4b115c5052">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c998bca0b38cbab9bbacbabaa689acaaa6a7a6a4a0babde7aaa6a4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Tuesday:</strong> What was the traditional nickname for IBM, based on its logo?
 
