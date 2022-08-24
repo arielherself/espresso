@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-America’s president, Joe Biden, announced nearly <strong>$3bn of military assistance</strong> to Ukraine on its independence day, which coincides with the [six-month anniversary](https://www.economist.com/interactive/europe/2022/08/24/six-months-of-war-in-ukraine) of Russia’s [invasion](https://www.economist.com/ukraine-crisis). The muted celebrations were marred by a Russian rocket strike on a railway station that killed at least 22 people and injured dozens more. Earlier, Volodymyr Zelensky, <strong>Ukraine</strong>’s president, had warned of “hideous Russian provocations” ahead of the national holiday. 
+America’s president, Joe Biden, announced nearly <strong>$3bn of military assistance</strong> to Ukraine on its independence day, which coincides with the [six-month anniversary](https://www.economist.com/interactive/europe/2022/08/24/six-months-of-war-in-ukraine) of Russia’s [invasion](https://www.economist.com/ukraine-crisis). The muted celebrations were marred by a <strong>Russian rocket strike</strong> on a railway station that killed at least 22 people and injured dozens more. Earlier, Volodymyr Zelensky, <strong>Ukraine</strong>’s president, had warned of “hideous Russian provocations” ahead of the national holiday. 
 
 Mr Biden also announced significant <strong>student debt relief</strong>. The plan will see up to $10,000 of [student loan debt](https://www.economist.com/leaders/2020/02/20/how-the-next-president-should-fix-americas-student-loan-problem) cancelled for those who earn less than $125,000 a year, and even greater help for those who received federal student aid during their education. The announcement follows months of [political wrangling](https://www.economist.com/united-states/2022/04/16/why-america-keeps-delaying-student-loan-repayments); Senate Republicans accused Mr Biden of “passing the buck to working-class Americans”. 
 
@@ -52,6 +52,8 @@ Nvidia, one of the world’s [leading chip companies](https://www.economist.com/
 
 The culprit is weaker post-pandemic demand for electronics, especially high-end gaming systems, for which Nvidia supplies powerful graphics chips. Many of those cards had also been used to mine cryptocurrencies, and the [crypto meltdown](https://www.economist.com/finance-and-economics/2022/05/12/the-crypto-infrastructure-cracks) has sapped demand here, too. Nvidia’s rivals—[Intel](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288), Qualcomm and AMD—have also missed revenue forecasts. On his earnings call Jensen Huang, Nvidia’s CEO, will be trying hard to show investors a path back to growth.
 
+<em><strong>Correction</strong>: an earlier edition of Espresso said Nvidia&#x27;s revenue was down 19% from a year ago. Sorry.</em>
+
 ## Britain reins in the hosepipes
 
 Britain, like much of the world, is parched. July this year was the driest since 1935. On Wednesday Thames Water, London’s main water utility, imposed a hosepipe ban on its 15m customers, to curtail the cleaning of cars, filling of pools and watering of gardens. Other water companies across southern England and Wales have already taken similar steps.
@@ -66,7 +68,7 @@ Naturally, the pair brought along a camera crew to chart the ups and downs of th
 
 ## Daily quiz
 
-<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c697b3afbc83b5b6b4a3b5b5a986a3a5a9a8a9abafb5b2e8a5a9ab">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="28795d41526d5b585a4d5b5b47684d4b47464745415b5c064b4745">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Who was the British foreign secretary during the invasion of Iraq in 2003?
 
