@@ -52,7 +52,7 @@ After [softer inflation data](https://www.economist.com/finance-and-economics/20
 
 ## France seeks to befriend Algeria
 
-Sixty years ago Algeria won independence from France after a bloody eight-year war. This painful history renders the link between the two countries complicated even today. So a three-day visit of [Emmanuel Macron](https://www.economist.com/middle-east-and-africa/2021/06/03/france-tries-to-reset-policy-in-africa) to the north African country, which begins on Thursday, has been optimistically billed as one of “friendship”. France’s president hopes to use his first foray to Algeria in five years to forge closer links between businesses, startups and artists.
+Sixty years ago Algeria won independence from France after a bloody eight-year war. This painful history renders the link between the two countries complicated even today. So a three-day visit of [Emmanuel Macron](https://www.economist.com/middle-east-and-africa/2021/06/03/france-tries-to-reset-policy-in-africa) to the north African country, which began on Thursday, has been optimistically billed as one of “friendship”. France’s president wants to use his first foray to Algeria in five years to forge closer links between businesses, startups and artists.
 
 But first Mr Macron hopes to “soothe memories”, after decades marked by mutual suspicion and accusations. Relations soured last year when Mr Macron reportedly questioned Algeria’s pre-colonial existence as a nation. But he has taken steps to acknowledge [France’s role in certain historical atrocities](https://www.economist.com/international/2021/05/13/france-is-confronting-its-history-in-algeria), and set up a “memories and truth” commission on his country’s historical role in Algeria. Now there are new questions, including how to source more natural gas from resource-rich Algeria, and how to ease recently tightened rules for Algerians to obtain French visas. 
 
@@ -64,7 +64,7 @@ On trial is not only Mr Duong but the new laws themselves. Mr Duong is accused o
 
 ## Daily quiz
 
-<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ce9fbba7b48bbdbebcabbdbda18eabada1a0a1a3a7bdbae0ada1a3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which 1877 novel by Anna Sewell is considered a classic of children’s literature?
 
