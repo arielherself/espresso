@@ -64,7 +64,7 @@ On trial is not only Mr Duong but the new laws themselves. Mr Duong is accused o
 
 ## Daily quiz
 
-<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3b6a4e52417e484b495e4848547b5e585455545652484f15585456">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+<strong>Quiz: </strong>Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="baebcfd3c0ffc9cac8dfc9c9d5fadfd9d5d4d5d7d3c9ce94d9d5d7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which 1877 novel by Anna Sewell is considered a classic of children’s literature?
 
