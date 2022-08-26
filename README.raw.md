@@ -22,7 +22,7 @@ The Russian-occupied [Zaporizhia nuclear plant](https://www.economist.com/the-ec
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Ofgem, Britain’s energy watchdog, increased the country’s <strong>energy</strong> price cap by 80%, pushing up the typical household’s [energy bill](https://www.economist.com/leaders/2022/08/10/how-to-help-with-energy-bills) to £3,549 ($4,186) a year. The new prices will kick in from October 1st. Jonathan Brearley, the regulator’s chief executive, said there was “no choice” but to increase the cap to reflect the soaring price of energy. The new prices will kick in from October 1st.
+Ofgem, Britain’s energy watchdog, increased the country’s <strong>energy</strong> price cap by 80%, pushing up the typical household’s [energy bill](https://www.economist.com/britain/2022/08/26/energy-bills-in-britain-are-soaring) to £3,549 ($4,186) a year. The new prices will kick in from October 1st. Jonathan Brearley, the regulator’s chief executive, said there was “no choice” but to increase the cap to reflect the soaring price of energy. The new prices will kick in from October 1st.
 
 A federal judge ruled that <strong>America’s Department of Justice</strong> must release a redacted copy of the affidavit that authorised the raid on <strong>Donald Trump</strong>’s Florida home earlier this month. The DoJ has until midday on Friday to publish the document, which explains why investigators believed a crime may have been committed. The FBI [seized hundreds](https://www.economist.com/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations) of classified records from the former president’s Mar-a-Lago estate during the search.
 
@@ -64,7 +64,7 @@ But some bans are being fiercely contested. On Wednesday a judge ruled that Idah
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7e2f0b17043b0d0e0c1b0d0d113e1b1d11101113170d0a501d1113">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="db8aaeb2a19ea8aba9bea8a8b49bbeb8b4b5b4b6b2a8aff5b8b4b6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Friday:</strong> What was the nickname of Tom Cruise’s unfortunate crewmate in the original Top Gun movie?
 
