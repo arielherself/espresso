@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Jay Powell</strong>, chair of the Federal Reserve, set out a hawkish tone on tackling [inflation](https://www.economist.com/finance-and-economics/2022/08/05/for-a-change-american-inflation-is-lower-than-expected) in America, speaking at an annual gathering of central bankers at Jackson Hole, Wyoming. He admitted that curbs could result in “a sustained period of below-trend growth” but that America’s central bank “must keep at it until the job is done”. In July [the Fed](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) announced its second consecutive 0.75 percentage point rate rise.
+<strong>Jerome Powell</strong>, chair of the Federal Reserve, set out a hawkish tone on tackling [inflation](https://www.economist.com/finance-and-economics/2022/08/05/for-a-change-american-inflation-is-lower-than-expected) in America, speaking at an annual gathering of central bankers at Jackson Hole, Wyoming. He admitted that curbs could result in “a sustained period of below-trend growth” but that America’s central bank “must keep at it until the job is done”. In July [the Fed](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) announced its second consecutive 0.75 percentage point rate rise.
 
 <strong>Moderna</strong>, an American pharmaceutical company, sued its rival, Pfizer, and its German collaborator [BioNTech](https://www.economist.com/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) over alleged patent infringement while developing their covid-19 vaccine, the first in the world. Moderna said that the companies infringed on patents filed between 2010 and 2016 covering innovative <strong>mRNA technology</strong>; it clarified that it was not seeking to block the Pfizer-BioNTech vaccine from the market.
 
@@ -64,7 +64,7 @@ But some bans are being fiercely contested. On Wednesday a judge ruled that Idah
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0455716d7e417774766177776b4461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Friday:</strong> What was the nickname of Tom Cruise’s unfortunate crewmate in the original Top Gun movie?
 
