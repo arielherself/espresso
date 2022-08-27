@@ -18,7 +18,7 @@ Gita Gopinath, the <strong>International Monetary Fund’s</strong> deputy chief
 
 <strong>Moderna</strong>, an American pharmaceutical company, sued its rival, Pfizer, and its German collaborator [BioNTech](https://te.arielherself.xyz/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) over alleged patent infringement while developing their covid-19 vaccine, the first in the world. Moderna said that the companies infringed on patents filed between 2010 and 2016 covering innovative <strong>mRNA technology</strong>; it clarified that it was not seeking to block the Pfizer-BioNTech vaccine from the market.
 
-<strong>Russia </strong>refused to approve a revision to the UN’s <strong>Non-Proliferation Treaty</strong> because it would commit signatories to expressing “grave concern” over the Zaporizhia nuclear plant in Ukraine. The Russian-occupied plant was hooked back up to the grid, according to Ukraine’s atomic energy agency, after it had been disconnected in a fire triggered by artillery shelling. Volodymyr Zelensky, Ukraine’s president, said Europe narrowly avoided a “radiation disaster”.
+<strong>Russia</strong> refused to approve a revision to the UN’s<strong> Non-Proliferation Treaty</strong> because it would commit signatories to expressing “grave concern” over the Zaporizhia nuclear plant in Ukraine. The Russian-occupied plant was hooked back up to the grid, according to Ukraine’s atomic energy agency, after it had been disconnected in a fire triggered by artillery shelling. Volodymyr Zelensky, Ukraine’s president, said Europe narrowly avoided a “radiation disaster”.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ But some bans are being fiercely contested. On Wednesday a judge ruled that Idah
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c796b2aebd82b4b7b5a2b4b4a887a2a4a8a9a8aaaeb4b3e9a4a8aa">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Friday:</strong> What was the nickname of Tom Cruise’s unfortunate crewmate in the original Top Gun movie?
 
