@@ -28,7 +28,7 @@ America’s Department of Justice unsealed the <strong>affidavit </strong>that a
 
 Morocco rowed with <strong>Tunisia</strong> over Western Sahara, a disputed territory over which Morocco claims sovereignty. Tunisia’s president, Kais Saied, had offended the monarchy by welcoming Brahim Ghali, president of Polisario, the movement that has long fought for the territory&#x27;s independence, to a Japanese-led conference in Tunis on African development. The two countries recalled ambassadors to each other’s capitals.
 
-<strong>Word of the week: </strong><em>Eskuara</em>, the Basque language, which, against all odds, has seen an increase in speakers of 350,000 since the 1980s. [Read the full story](https://te.arielherself.xyz/culture/2022/08/25/the-struggle-to-preserve-regional-languages).
+<strong>Word of the week: </strong><em>Euskara</em>, the Basque language, which, against all odds, has seen an increase in speakers of 350,000 since the 1980s. [Read the full story](https://te.arielherself.xyz/culture/2022/08/25/the-struggle-to-preserve-regional-languages).
 
 ----------
 
