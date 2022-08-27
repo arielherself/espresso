@@ -18,7 +18,7 @@ America’s S&amp;P 500 <strong>stockmarket</strong> index fell by 3.4% on Frida
 
 Gita Gopinath, the deputy head of the <strong>International Monetary Fund</strong>, warned that a consequence of the Fed’s tighter monetary policy—the strong dollar—will make it harder for poor countries to repay their debts. In an interview with Bloomberg TV she suggested that rich countries ought to improve programmes to help them, saying “A lot more speedy action is needed”.
 
-<strong>Moderna</strong>, an American pharmaceutical company, sued its rival, Pfizer, and its German collaborator [BioNTech](https://www.economist.com/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) over alleged patent infringement while developing their covid-19 vaccine, the first in the world. Moderna said that the companies infringed on patents filed between 2010 and 2016 covering innovative <strong>mRNA technology</strong>; it clarified that it was not seeking to block the Pfizer-BioNTech vaccine from the market.
+Officials in <strong>Pakistan</strong> said that the death toll from <strong>floods</strong> after heavy monsoon rains that have afflicted the country since mid-June had risen to nearly 1,000. In appealing for international help on Friday, the prime minister, [Shehbaz Sharif](https://www.economist.com/by-invitation/2022/08/13/pakistans-prime-minister-on-his-drive-to-modernise-the-country), said that 33m of Pakistan’s 230m people had been affected by the floods.
 
 Listen to an abridged version of the subscriber-only briefing.
 
