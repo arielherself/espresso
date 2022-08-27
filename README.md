@@ -14,7 +14,7 @@
 
 <strong>Jerome Powell</strong>, chair of the Federal Reserve, took a hawkish tone on tackling [inflation](https://te.arielherself.xyz/finance-and-economics/2022/08/05/for-a-change-american-inflation-is-lower-than-expected) in America, speaking at an annual gathering of central bankers at Jackson Hole, Wyoming. He admitted that curbs could result in “a sustained period of below-trend growth” but said that America’s central bank “must keep at it until the job is done”. In July [the Fed](https://te.arielherself.xyz/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) announced its second consecutive 0.75 percentage point rate rise.
 
-Gita Gopinath, the <strong>International Monetary Fund’s</strong> deputy chief, warned that a consequence of the Fed’s tighter monetary policy–the strong dollar–will make it harder for poor countries to repay their debts. She suggested that rich countries ought to improve programmes to help them, saying “A lot more speedy action is needed”. 
+Gita Gopinath, the <strong>International Monetary Fund’s</strong> deputy chief, warned that a consequence of the Fed’s tighter monetary policy–the strong dollar–will make it harder for poor countries to repay their debts. She suggested that rich countries ought to improve programmes to help them, saying “a lot more speedy action is needed”. 
 
 <strong>Moderna</strong>, an American pharmaceutical company, sued its rival, Pfizer, and its German collaborator [BioNTech](https://te.arielherself.xyz/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) over alleged patent infringement while developing their covid-19 vaccine, the first in the world. Moderna said that the companies infringed on patents filed between 2010 and 2016 covering innovative <strong>mRNA technology</strong>; it clarified that it was not seeking to block the Pfizer-BioNTech vaccine from the market.
 
@@ -64,7 +64,7 @@ But some bans are being fiercely contested. On Wednesday a judge ruled that Idah
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5203273b28172122203721213d1237313d3c3d3f3b21267c313d3f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f5a4809c8fb08685879086869ab590969a9b9a989c8681db969a98">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Friday:</strong> What was the nickname of Tom Cruise’s unfortunate crewmate in the original Top Gun movie?
 
