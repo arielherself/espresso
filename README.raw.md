@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Jerome Powell</strong>, chair of the Federal Reserve, took a hawkish tone on tackling [inflation](https://www.economist.com/finance-and-economics/2022/08/05/for-a-change-american-inflation-is-lower-than-expected) in America, speaking at an annual gathering of central bankers at Jackson Hole, Wyoming. He admitted that curbs could result in “a sustained period of below-trend growth” but said that America’s central bank “must keep at it until the job is done”. In July [the Fed](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) announced its second consecutive 0.75-percentage-point rate rise.
+America’s S&amp;P 500 <strong>stockmarket</strong> index fell by 3.4% on Friday after hawkish remarks by Jerome Powell, chair of the Federal Reserve, at an annual gathering of central bankers in Jackson Hole, Wyoming. Tackling inflation, Mr Powell said, was “likely to require a sustained period of below-trend growth” but the Fed “must keep at it until the job is done”. In July [the Fed](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) announced its second consecutive 0.75-percentage-point rate rise.
 
-Gita Gopinath, the <strong>International Monetary Fund’s</strong> deputy chief, warned that a consequence of the Fed’s tighter monetary policy—the strong dollar—will make it harder for poor countries to repay their debts. She suggested that rich countries ought to improve programmes to help them, saying “a lot more speedy action is needed”. 
+Gita Gopinath, the deputy head of the <strong>International Monetary Fund</strong>, warned that a consequence of the Fed’s tighter monetary policy—the strong dollar—will make it harder for poor countries to repay their debts. She suggested that rich countries ought to improve programmes to help them, saying “A lot more speedy action is needed”.
 
 <strong>Moderna</strong>, an American pharmaceutical company, sued its rival, Pfizer, and its German collaborator [BioNTech](https://www.economist.com/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) over alleged patent infringement while developing their covid-19 vaccine, the first in the world. Moderna said that the companies infringed on patents filed between 2010 and 2016 covering innovative <strong>mRNA technology</strong>; it clarified that it was not seeking to block the Pfizer-BioNTech vaccine from the market.
 
@@ -22,7 +22,7 @@ Gita Gopinath, the <strong>International Monetary Fund’s</strong> deputy chief
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>America </strong>and <strong>China </strong>reached a landmark deal to enable American regulators to inspect audits of Chinese companies listed on its exchanges. The agreement, which comes after more than a decade of stalled talks, could prevent hundreds of US-listed [Chinese stocks](https://www.economist.com/graphic-detail/2020/07/22/chinas-newest-technology-stock-exchange-is-thriving-despite-the-pandemic) from being delisted for not making their books available for audit for three consecutive years. In August five Chinese state-owned companies said they would opt to delist.
+<strong>America </strong>and <strong>China </strong>reached a deal to enable American regulators to inspect the audits of Chinese companies listed on American exchanges. The agreement, which comes after more than a decade of stalled talks, could prevent hundreds of US-listed [Chinese stocks](https://www.economist.com/graphic-detail/2020/07/22/chinas-newest-technology-stock-exchange-is-thriving-despite-the-pandemic) from being delisted for not making their books available for audit for three consecutive years. In August five Chinese state-owned companies said they would opt to delist.
 
 America’s Department of Justice unsealed the <strong>affidavit </strong>that authorised the search of <strong>Donald Trump’s</strong> Mar-a-Lago estate earlier this month. The heavily redacted version, written by an FBI special agent, claimed there was “probable cause” to believe that the former president had not returned [additional classified documents](https://www.economist.com/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations), and that “evidence of obstruction” would be found at his home.
 
@@ -64,7 +64,7 @@ But some bans are being fiercely contested. On Wednesday a judge ruled that Idah
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="efbe9a8695aa9c9f9d8a9c9c80af8a8c80818082869c9bc18c8082">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ecfebf7e4dbedeeecfbededf1defbfdf1f0f1f3f7edeab0fdf1f3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Friday:</strong> What was the nickname of Tom Cruise’s unfortunate crewmate in the original Top Gun movie?
 
