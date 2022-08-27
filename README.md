@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 America’s Department of Justice unsealed the <strong>affidavit </strong>that authorised the search of <strong>Donald Trump’s</strong> Mar-a-Lago estate earlier this month. The heavily redacted version, written by an FBI special agent, claimed there was “probable cause” to believe that the former president had not returned [additional classified documents](https://te.arielherself.xyz/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations), and that “evidence of obstruction” would be found at his home.
 
-<strong>Morocco </strong>recalled its ambassador to <strong>Tunisia</strong> “for consultations” after the Tunisian president, Kais Saied, welcomed Brahim Ghali, the head of a local separatist movement, at Tunis airport. Morocco’s foreign ministry denounced Tunisia’s “hostile and detrimental attitude” and pulled out of TICAD, a regional summit on African development. Last year it temporarily withdrew its ambassadors to Germany and Spain over the same issue.
+Morocco rowed with <strong>Tunisia</strong> over Western Sahara, a disputed territory over which Morocco claims sovereignty. Tunisia’s president, Kais Saied, had offended the monarchy by welcoming Brahim Ghali, president of Polisario, the movement that has long fought for the territory&#x27;s independence, to a Japanese-led conference in Tunis on African development. The two countries recalled ambassadors to each other’s capitals.
 
 <strong>Word of the week: </strong><em>Eskuara</em>, the Basque language, which, against all odds, has seen an increase in speakers of 350,000 since the 1980s. [Read the full story](https://te.arielherself.xyz/culture/2022/08/25/the-struggle-to-preserve-regional-languages).
 
@@ -55,6 +55,18 @@ Minh Bui Jones, the Australian founder, has found it increasingly difficult to p
 Few musicians left a [legacy like Elvis](https://te.arielherself.xyz/culture/2022/06/24/the-strange-case-of-elvis-presleys-musical-posterity). America’s King of Rock ’n’ Roll sold some 500m records in his lifetime, with fan clubs as far off as South Africa and the Philippines. On Saturday his admirers will get a chance to take part of his legacy home when close to 200 of the King’s jewellery pieces, including cufflinks, rings and chains, will be auctioned off. The collection, given by Elvis to his manager Tom Parker, had been long considered lost. This will be the first chance for Elvis aficionados to see, and bid on, the assembled trinkets.
 
 Decades after his death, Elvis continues to rake in millions. The Presley estate is valued at $1bn; a recent biopic directed by Baz Luhrman brought in over $270m at the box office. A single ring in this collection comes with a minimum bid of $130,000. “Your kiss to me is worth a fortune,” the crooner once sang. For deep-pocketed fans, so is his bling.
+
+## Weekend profile: Michael Heizer, the artist behind “City”
+
+Richard Nixon was still America’s president when Michael Heizer, one of the country’s foremost land artists, began his [mysterious sculpture project](https://te.arielherself.xyz/culture/2022/08/20/a-vast-sculpture-in-the-nevada-desert-is-finished-at-last) in 1972, in the high Nevada desert north of Las Vegas. Few people were allowed to see the work in progress; many thought it would never get done. As the years passed, it took on a mythical quality in the art world.
+
+Naysayers notwithstanding, half a century on, Mr Heizer’s “City” is complete. On September 2nd, it will open to the public—even if, to maintain its atmosphere of splendid isolation, at first only six people a day will be allowed to visit.
+
+As an artist, Mr Heizer is almost completely self-taught. Fascinated by drawing from an early age, as a teenager in the late 1950s he helped his father, a famous anthropological archaeologist, who was excavating an ancient Olmec site on the Yucatán peninsula. Then he spent a year in Paris, mostly in its museums. “I saw it all first-hand,” he says. “You can’t go to school and learn about art by looking at a bunch of slides projected on a wall.”
+
+The artist started work on “City”, with a huge piece at one end called “Section One”, a rectangular slope surrounded by concrete struts. “I worked entirely intuitively,” he says, “with no ongoing thought or consecutive way of planning.” The finished work is more than a mile and a half long and half a mile wide (2.4km x 800 metres), making it one of the biggest contemporary sculptures ever made. Walking through it feels as much like being in a garden—albeit one with no flowers—as in a city. There are mounds and walkways, as well as discrete spaces that could be neighbourhoods. It is both intimate and epic, forbidding and yet inviting; a work that is utterly itself. 
+
+At 77, Mr Heizer has made his last visit to the site. He lives far away, at sea level, for the sake of his damaged lungs. But his stubbornness is undimmed; he refuses to explain the significance of the work. “It’s the visitor who does the interpretation,” he says. “I don’t give a damn.”
 
 ## Weekend profile: Michael Heizer, the artist behind “City”
 
