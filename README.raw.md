@@ -14,79 +14,101 @@
 
 America’s S&amp;P 500 <strong>stockmarket</strong> index fell by 3.4% on Friday after hawkish remarks by Jerome Powell, chair of the Federal Reserve, at an annual gathering of central bankers in Jackson Hole, Wyoming. Tackling inflation, Mr Powell said, was “likely to require a sustained period of below-trend growth” but the Fed “must keep at it until the job is done”. In July [the Fed](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) announced its second consecutive 0.75-percentage-point rate rise.
 
-Gita Gopinath, the deputy head of the <strong>International Monetary Fund</strong>, warned that a consequence of the Fed’s tighter monetary policy—the strong dollar—will make it harder for poor countries to repay their debts. She suggested that rich countries ought to improve programmes to help them, saying “A lot more speedy action is needed”.
+Gita Gopinath, the deputy head of the <strong>International Monetary Fund</strong>, warned that a consequence of the Fed’s tighter monetary policy—the strong dollar—will make it harder for poor countries to repay their debts. In an interview with Bloomberg TV she suggested that rich countries ought to improve programmes to help them, saying “A lot more speedy action is needed”.
+
+The <em>New York Times</em> reported that the International Atomic Energy Agency had assembled a team of experts to visit the [<strong>Zaporizhia nuclear power station</strong>](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) in south-eastern Ukraine, possibly in the next few days. The Russian-occupied plant was hooked back up to Ukraine’s electricity grid on Friday, according to the national atomic-energy company, having been disconnected in a fire triggered by artillery shelling. Volodymyr Zelensky, Ukraine’s president, said Europe narrowly avoided a “radiation disaster”.
 
 <strong>Moderna</strong>, an American pharmaceutical company, sued its rival, Pfizer, and its German collaborator [BioNTech](https://www.economist.com/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) over alleged patent infringement while developing their covid-19 vaccine, the first in the world. Moderna said that the companies infringed on patents filed between 2010 and 2016 covering innovative <strong>mRNA technology</strong>; it clarified that it was not seeking to block the Pfizer-BioNTech vaccine from the market.
 
-<strong>Russia</strong> refused to approve a revision to the UN’s<strong> Non-Proliferation Treaty</strong> because it would commit signatories to expressing “grave concern” over the Zaporizhia nuclear plant in Ukraine. The Russian-occupied plant was hooked back up to the grid, according to Ukraine’s atomic energy agency, after it had been disconnected in a fire triggered by artillery shelling. Volodymyr Zelensky, Ukraine’s president, said Europe narrowly avoided a “radiation disaster”.
-
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>America </strong>and <strong>China </strong>reached a deal to enable American regulators to inspect the audits of Chinese companies listed on American exchanges. The agreement, which comes after more than a decade of stalled talks, could prevent hundreds of US-listed [Chinese stocks](https://www.economist.com/graphic-detail/2020/07/22/chinas-newest-technology-stock-exchange-is-thriving-despite-the-pandemic) from being delisted for not making their books available for audit for three consecutive years. In August five Chinese state-owned companies said they would opt to delist.
+<strong>America</strong> and <strong>China</strong> reached an agreement that could avert the delisting of hundreds of Chinese companies from American <strong>stock exchanges</strong>. The deal will enable American regulators to examine audit documents, which Chinese authorities have resisted. Companies face delisting if they fail to show regulators their books for three years. In August five Chinese state-owned companies said they would delist.
 
 America’s Department of Justice unsealed the <strong>affidavit </strong>that authorised the search of <strong>Donald Trump’s</strong> Mar-a-Lago estate earlier this month. The heavily redacted version, written by an FBI special agent, claimed there was “probable cause” to believe that the former president had not returned [additional classified documents](https://www.economist.com/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations), and that “evidence of obstruction” would be found at his home.
 
 <strong>Morocco </strong>recalled its ambassador to <strong>Tunisia</strong> “for consultations” after the Tunisian president, Kais Saied, welcomed Brahim Ghali, the head of a local separatist movement, at Tunis airport. Morocco’s foreign ministry denounced Tunisia’s “hostile and detrimental attitude” and pulled out of TICAD, a regional summit on African development. Last year it temporarily withdrew its ambassadors to Germany and Spain over the same issue.
 
-<strong>Fact of the day: </strong>$217.1bn, the amount that American state governments saved in 2021, exceeding the 2019 record by nearly $100bn. [Read the full story](https://www.economist.com/united-states/2022/08/25/states-have-historic-amounts-of-leftover-cash).
+<strong>Word of the week: </strong><em>Eskuara</em>, the Basque language, which, against all odds, has seen an increase in speakers of 350,000 since the 1980s. [Read the full story](https://www.economist.com/culture/2022/08/25/the-struggle-to-preserve-regional-languages).
 
 ----------
 
-## Joe Biden’s long game in Ukraine
+## Heat and drought in China
 
-America marked [Ukraine’s](https://www.economist.com/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds) independence day by announcing its largest package of military aid yet, worth about $3bn, to buy everything from artillery shells to air-defence systems. Unusually, the arms will not come from existing arsenals, but will instead be bought from industry. Some might not arrive for three years. The aid will do nothing to break the current stalemate after [half a year of fighting](https://www.economist.com/interactive/europe/2022/08/24/six-months-of-war-in-ukraine). Instead, America is signalling a years-long commitment to Ukraine, thereby seeking to frustrate Russia’s hope of prevailing in a drawn-out conflict.
+The end of summer cannot come soon enough for tens of millions of residents in the megacities of Chengdu and Chongqing. For weeks Sichuan province in south-west China has experienced record-breaking heat. Temperatures are supposed to cool at the end of August—but much of the damage is already done.
 
-[Fear of escalation](https://www.economist.com/europe/2022/08/02/what-would-push-the-west-and-russia-to-nuclear-war) explains America’s caution in not sending more potent weapons to Ukraine more quickly. But a long game carries other risks. European allies might break ranks when energy shortages begin to hurt this winter. America’s will to bankroll Ukraine may weaken, particularly if America-first devotees control Congress after the midterms in November. And a [long war](https://www.economist.com/briefing/2022/06/30/does-a-protracted-conflict-favour-russia-or-ukraine) will prolong the agony of Ukraine. 
+The energy system has been strained by greater demand and weaker supply. A [drought reduced](https://www.economist.com/business/2022/08/25/a-drought-in-china-hits-industry) hydroelectric output by about 50% year on year in the province. Industry has been hit hard. Provincial officials have been forced to tell thousands of manufacturers to cease production. That includes important multinationals such as Toyota, a Japanese carmaker, and Foxconn, the Taiwanese electronics group that supplies Apple. The load-shedding ended on August 25th. But the power crunch, the second in as many years, has raised serious questions about China’s ability to cope with the effects of climate change.
 
-## Italy papers the town with posters
+## The Church hands out its red hats
 
-Friday brings the beginning of Italy’s [general election campaign](https://www.economist.com/europe/2022/07/28/italys-next-government-may-be-more-nationalist-than-europe-likes): the day it becomes legal to smother towns and cities with election posters. Notwithstanding television and social media, fly-posting is an important part of Italian elections, as are mass rallies. Polls point to a dramatic outcome: the election, for the first time in post-war western Europe, of a government led by a party rooted in the traditions of a pre-war dictatorship. 
+On Saturday the [cardinals of the Roman Catholic Church](https://www.economist.com/the-economist-explains/2022/08/26/how-new-cardinals-are-changing-the-roman-catholic-church) gather in the Vatican to welcome 20 new “princes of the church” selected by Pope Francis. As the first pontiff from Latin America, he has tilted the college of cardinals towards parts of the world long marginalised by the church—particularly Asia. Timor-Leste, a country of just 1.3m people which is almost 98% Catholic, will get its first cardinal. So will Mongolia, where there are only around 1,300 faithful. The share of European cardinals has fallen from 52% to 40% on Francis’s watch. But Africa, the engine of Catholicism’s growth, remains badly underrepresented.
 
-The latest surveys give the [Brothers of Italy](https://www.economist.com/europe/2022/08/11/can-anything-stop-italys-radical-right), heirs to the neo-fascist Italian Social Movement, around 25% of the vote. Their allies in the hard-right Northern League and Silvio Berlusconi’s Forza Italia party could together get a further 25%, enough for a commanding parliamentary majority. On Thursday the outgoing prime minister, [Mario Draghi](https://www.economist.com/europe/2022/07/21/mario-draghi-italys-reformist-prime-minister-resigns), warned his successors that distancing Italy from the EU would weaken its economy and international standing. But Italian voters seem ready to dismiss such fears.
+Of the new cardinals, 16 are part of the smaller group which will pick Francis’s successor. Now aged 85, he has signalled that he may one day retire. He presides over a church finely balanced between [reformers and conservatives](https://www.economist.com/international/2022/07/14/catholic-reformers-want-big-changes-to-a-church-marred-by-sex-abuse). But he will at least influence who follows him: 83 of the 132 cardinal-electors are his choices.
 
-## A pushback against impunity in Malaysia
+## Farewell to the Mekong Review
 
-Najib Razak has begun his [12-year sentence in prison for graft](https://www.economist.com/leaders/2022/08/25/a-brazen-kleptocrat-has-gone-to-jail-in-malaysia-he-must-stay-there), but not everyone wants justice to take its course. The former prime minister’s loyalists within the ruling United Malays National Organisation seem unperturbed by his role in a [mega-scandal](https://www.economist.com/asia/2022/08/23/malaysias-disgraced-former-prime-minister-is-going-to-prison) in which $4.5bn was swiped from Malaysian state coffers—and are furious that the prime minister, Ismail Sabri Yaakob, stood idly by as Mr Najib was jailed. They are calling for a royal pardon, which would allow Mr Najib back into parliament. And they are telling Mr Ismail Sabri to call an early election or face a party mutiny.
+At a glance the <em>Mekong Review</em>, an English-language magazine, can be compared to many Western literary journals; its simple white cover might be easily mistaken for the <em>Times Literary Supplement</em>. But in its content, including reviews, reportage, poetry and fiction, all concerned with [South-East Asia](https://www.economist.com/the-economist-reads/2022/07/11/what-to-read-to-understand-singapore), it is unique. Despite only publishing a few thousand copies of each issue, it has attracted a devoted following. But this week, after seven years, the journal’s editors said they were putting down their pens.
 
-It seems Mr Ismail Sabri has listened. On Friday he tabled an early budget for October 7th, a necessary measure to pave the way for a November election. That gives the faction behind Mr Najib the chance to wrest control of the party and the government. It would also give Malaysians their say on all the squabbling and sleaze.
+Minh Bui Jones, the Australian founder, has found it increasingly difficult to publish in a region dominated by authoritarian governments. In 2020 authorities in Hong Kong forbade the printing of an issue featuring a profile of Joshua Wong, a pro-democracy activist. The following issue, which covered protests in Thailand, was rejected by printers in Bangkok. Logistical difficulties caused by covid-19 lockdowns only made matters worse. That the <em>Mekong Review </em>survived for as long as it did is a triumph.
 
-## Britain anticipates the chill of winter bills
+## The wonders of Elvis up for auction
 
-Britons face a bleak winter of [steeper energy bills](https://www.economist.com/britain/2022/08/26/energy-bills-in-britain-are-soaring). On Friday they found out just how pricey energy will be, when Ofgem, the regulator, updated its cap on how much energy companies can charge most households for electricity and gas. The war in Ukraine has pushed wholesale gas prices to dizzying heights again ([prices dropped](https://www.economist.com/britain/2022/05/19/wholesale-gas-prices-in-britain-have-collapsed) earlier in the summer). The average household’s annual bill will rise to £3,549 ($4,180) from October, more than three times the level a year ago.
+Few musicians left a [legacy like Elvis](https://www.economist.com/culture/2022/06/24/the-strange-case-of-elvis-presleys-musical-posterity). America’s King of Rock ’n’ Roll sold some 500m records in his lifetime, with fan clubs as far off as South Africa and the Philippines. On Saturday his admirers will get a chance to take part of his legacy home when close to 200 of the King’s jewellery pieces, including cufflinks, rings and chains, will be auctioned off. The collection, given by Elvis to his manager Tom Parker, had been long considered lost. This will be the first chance for Elvis aficionados to see, and bid on, the assembled trinkets.
 
-Labour, the main opposition party, says it would freeze annual bills for six months at £1,971 for the typical household, with the government paying the excess. The idea is popular, but [expensive](https://www.economist.com/britain/2022/08/18/why-labours-silly-energy-policy-is-smart-politics)—the state would pay around £6bn towards the bills of the top 20% of earners. A better solution is giving rebates or cash bonuses to the poorest (though targeting help effectively is tricky). If done well, that would encourage people to conserve energy, but still insulate those most in need.
+Decades after his death, Elvis continues to rake in millions. The Presley estate is valued at $1bn; a recent biopic directed by Baz Luhrman brought in over $270m at the box office. A single ring in this collection comes with a minimum bid of $130,000. “Your kiss to me is worth a fortune,” the crooner once sang. For deep-pocketed fans, so is his bling.
 
-## America’s abortions bans proliferate
+## Weekend profile: Michael Heizer, the artist behind “City”
 
-Two months after America’s Supreme Court ditched the right to abortion, more states are banning the procedure. Thirteen had so-called trigger laws automatically outlawing abortion after [<em>Roe v Wade</em>](https://www.economist.com/leaders/2022/06/24/the-supreme-courts-rejection-of-roe-will-hurt-the-poorest-most) was overturned. On Thursday Tennessee banned abortion without exceptions for rape or incest. Texas also stiffened enforcement of a similar law: doctors now face minimum fines of $100,000 per termination and risk spending life in prison.
+Richard Nixon was still America’s president when Michael Heizer, one of the country’s foremost land artists, began his [mysterious sculpture project](https://www.economist.com/culture/2022/08/20/a-vast-sculpture-in-the-nevada-desert-is-finished-at-last) in 1972, in the high Nevada desert north of Las Vegas. Few people were allowed to see the work in progress; many thought it would never get done. As the years passed, it took on a mythical quality in the art world.
 
-But some bans are being fiercely contested. On Wednesday a judge ruled that Idaho’s near-total prohibition, set to take effect this week, violated a federal law requiring hospitals to provide emergency medical care. Court battles have paused abortion bans in Utah, Wyoming and North Dakota, where one such law had been scheduled to take effect on Friday. Still, the list of states with existing or pending bans continues to lengthen: one in three [American women of childbearing age](https://www.economist.com/united-states/2022/07/19/americas-already-dreadful-maternal-mortality-rate-looks-set-to-rise) now lives in such a place. 
+Naysayers notwithstanding, half a century on, Mr Heizer’s “City” is complete. On September 2nd, it will open to the public—even if, to maintain its atmosphere of splendid isolation, at first only six people a day will be allowed to visit.
 
-## Daily quiz
+As an artist, Mr Heizer is almost completely self-taught. Fascinated by drawing from an early age, as a teenager in the late 1950s he helped his father, a famous anthropological archaeologist, who was excavating an ancient Olmec site on the Yucatán peninsula. Then he spent a year in Paris, mostly in its museums. “I saw it all first-hand,” he says. “You can’t go to school and learn about art by looking at a bunch of slides projected on a wall.”
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f1a084988bb48281839482829eb194929e9f9e9c988285df929e9c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+The artist started work on “City”, with a huge piece at one end called “Section One”, a rectangular slope surrounded by concrete struts. “I worked entirely intuitively,” he says, “with no ongoing thought or consecutive way of planning.” The finished work is more than a mile and a half long and half a mile wide (2.4km x 800 metres), making it one of the biggest contemporary sculptures ever made. Walking through it feels as much like being in a garden—albeit one with no flowers—as in a city. There are mounds and walkways, as well as discrete spaces that could be neighbourhoods. It is both intimate and epic, forbidding and yet inviting; a work that is utterly itself. 
 
-<strong>Friday:</strong> What was the nickname of Tom Cruise’s unfortunate crewmate in the original Top Gun movie?
+At 77, Mr Heizer has made his last visit to the site. He lives far away, at sea level, for the sake of his damaged lungs. But his stubbornness is undimmed; he refuses to explain the significance of the work. “It’s the visitor who does the interpretation,” he says. “I don’t give a damn.”
 
-<strong>Thursday:</strong> Which 1877 novel by Anna Sewell is considered a classic of children’s literature?
+## The winners of this week’s quiz
 
-## ​​​​​​​The winners of last week’s crossword
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+Asia: <strong>Gyu-young Ju</strong>, Wonju, South Korea
 
-Asia: <strong>Xiaochen Su</strong>, Chiba, Japan
+North America: <strong>Michael Slater</strong>, Naperville, United States
 
-North America:<strong> Besty Geist</strong>, Seattle, United States
+Central and South America: <strong>Martin Whittle</strong>, São Paulo, Brazil
 
-Central and South America: <strong>Jorge Ferrando</strong>, Santiago, Chile 
+Europe: <strong>Glenn W. Most</strong>, Florence, Italy
 
-Europe: <strong>Martha Baker</strong>, Überlingen, Germany 
+Africa:<strong> Paul Leigh</strong>, Pretoria, South Africa
 
-Africa: <strong>Hasit Raja</strong>, Nairobi, Kenya 
+Oceania: <strong>Jennifer Bladon-Clark</strong>, Melbourne, Australia
 
-Oceania: <strong>Kevin Fernandez</strong>, Melbourne, Australia
+They all submitted the correct answers of Elder, Big Blue, Jack Straw, Black Beauty, Goose. The theme is berries: elderberry, blueberry, strawberry, blackberry and gooseberry.
 
-They all gave the correct answers of [Raila Odinga](https://www.economist.com/middle-east-and-africa/2022/08/18/william-ruto-is-declared-kenyas-next-president), [Russia](https://www.economist.com/the-americas/2022/08/18/a-remote-canadian-province-luxuriates-in-the-global-supply-crunch), [Obama](https://www.economist.com/united-states/2022/08/18/democrats-are-wrong-to-give-up-on-rural-america) and [Alaska](https://www.economist.com/united-states/2022/08/18/a-new-ranked-choice-voting-system-hampers-sarah-palins-hopes). Check back tomorrow for this week’s crossword.
+## Weekly crossword
+
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Green hype at uncertain new treatments (4,7)
+
+<em>1 across </em>A great writer? The ego! (6)
+
+<em>2 across </em>At first, horrors aren’t very easily noticed: it’s a safe place (5)
+
+<em>3 across </em>Scream “That hurts”, cowardy custard! (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down</em> Its first trial got under way in 1990 (4,7)
+
+<em>1 across </em>Who, aged 75, took up archery (6) 
+
+<em>2 across </em>The Cayman Islands or Jersey, for example (5)
+
+<em>3 across </em>The colour of sulphur (6)
 
 ----------
 
