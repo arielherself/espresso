@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 America’s Department of Justice unsealed the <strong>affidavit </strong>that authorised the search of <strong>Donald Trump’s</strong> Mar-a-Lago estate earlier this month. The heavily redacted version, written by an FBI special agent, claimed there was “probable cause” to believe that the former president had not returned [additional classified documents](https://www.economist.com/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations), and that “evidence of obstruction” would be found at his home.
 
-<strong>Morocco</strong> recalled its ambassador to <strong>Tunisia</strong> “for consultations” after Tunisian president Kais Saied welcomed Brahim Ghali, the head of a local separatist movement, at Tunis airport. Morocco’s foreign ministry denounced Tunisia’s “hostile and detrimental attitude” and pulled out of TICAD, a regional summit for Africa’s development. Last year it temporarily withdrew its ambassadors to Germany and Spain over the same issue. 
+<strong>Morocco </strong>recalled its ambassador to <strong>Tunisia</strong> “for consultations” after the Tunisian president, Kais Saied, welcomed Brahim Ghali, the head of a local separatist movement, at Tunis airport. Morocco’s foreign ministry denounced Tunisia’s “hostile and detrimental attitude” and pulled out of TICAD, a regional summit on African development. Last year it temporarily withdrew its ambassadors to Germany and Spain over the same issue.
 
 <strong>Fact of the day: </strong>$217.1bn, the amount that American state governments saved in 2021, exceeding the 2019 record by nearly $100bn. [Read the full story](https://www.economist.com/united-states/2022/08/25/states-have-historic-amounts-of-leftover-cash).
 
@@ -64,7 +64,7 @@ But some bans are being fiercely contested. On Wednesday a judge ruled that Idah
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="eebf9b8794ab9d9e9c8b9d9d81ae8b8d81808183879d9ac08d8183">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="efbe9a8695aa9c9f9d8a9c9c80af8a8c80818082869c9bc18c8082">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Friday:</strong> What was the nickname of Tom Cruise’s unfortunate crewmate in the original Top Gun movie?
 
