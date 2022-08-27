@@ -68,18 +68,6 @@ The artist started work on “City”, with a huge piece at one end called “Se
 
 At 77, Mr Heizer has made his last visit to the site. He lives far away, at sea level, for the sake of his damaged lungs. But his stubbornness is undimmed; he refuses to explain the significance of the work. “It’s the visitor who does the interpretation,” he says. “I don’t give a damn.”
 
-## Weekend profile: Michael Heizer, the artist behind “City”
-
-Richard Nixon was still America’s president when Michael Heizer, one of the country’s foremost land artists, began his [mysterious sculpture project](https://www.economist.com/culture/2022/08/20/a-vast-sculpture-in-the-nevada-desert-is-finished-at-last) in 1972, in the high Nevada desert north of Las Vegas. Few people were allowed to see the work in progress; many thought it would never get done. As the years passed, it took on a mythical quality in the art world.
-
-Naysayers notwithstanding, half a century on, Mr Heizer’s “City” is complete. On September 2nd, it will open to the public—even if, to maintain its atmosphere of splendid isolation, at first only six people a day will be allowed to visit.
-
-As an artist, Mr Heizer is almost completely self-taught. Fascinated by drawing from an early age, as a teenager in the late 1950s he helped his father, a famous anthropological archaeologist, who was excavating an ancient Olmec site on the Yucatán peninsula. Then he spent a year in Paris, mostly in its museums. “I saw it all first-hand,” he says. “You can’t go to school and learn about art by looking at a bunch of slides projected on a wall.”
-
-The artist started work on “City”, with a huge piece at one end called “Section One”, a rectangular slope surrounded by concrete struts. “I worked entirely intuitively,” he says, “with no ongoing thought or consecutive way of planning.” The finished work is more than a mile and a half long and half a mile wide (2.4km x 800 metres), making it one of the biggest contemporary sculptures ever made. Walking through it feels as much like being in a garden—albeit one with no flowers—as in a city. There are mounds and walkways, as well as discrete spaces that could be neighbourhoods. It is both intimate and epic, forbidding and yet inviting; a work that is utterly itself. 
-
-At 77, Mr Heizer has made his last visit to the site. He lives far away, at sea level, for the sake of his damaged lungs. But his stubbornness is undimmed; he refuses to explain the significance of the work. “It’s the visitor who does the interpretation,” he says. “I don’t give a damn.”
-
 ## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
