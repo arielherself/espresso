@@ -14,19 +14,19 @@
 
 <strong>Ukraine’s</strong> national atomic-energy company said that Russian shelling had damaged the “infrastructure” of the [<strong>Zaporizhia nuclear power station</strong>](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) in the south-east of the country, risking a leak of radioactive substances. Russia has accused Ukraine of shelling the Russian-occupied plant. Russia refused to approve a revision to the UN’s Non-Proliferation Treaty because it would commit signatories to expressing “grave concern” about Zaporizhia.
 
+The <strong>US Navy</strong> said two American warships were sailing through the <strong>Taiwan Strait</strong>, the first to do so since Nancy Pelosi, speaker of the House of Representatives, [visited Taiwan](https://te.arielherself.xyz/leaders/2022/08/02/nancy-pelosis-trip-to-taiwan-highlights-americas-incoherent-strategy) this month. The navy said it was demonstrating America’s “commitment to a free and open Indo-Pacific”. China—which claims Taiwan as its own and carried out large [military exercises](https://te.arielherself.xyz/china/2022/08/04/china-sends-missiles-flying-over-taiwan) in response to Ms Pelosi’s trip—said it was monitoring the ships and maintaining a high alert.
+
+Officials in <strong>Pakistan</strong> said that the death toll from <strong>floods</strong> after heavy monsoon rains that have afflicted the country since mid-June had risen to nearly 1,000. In appealing for international help on Friday, the prime minister, [Shehbaz Sharif](https://te.arielherself.xyz/by-invitation/2022/08/13/pakistans-prime-minister-on-his-drive-to-modernise-the-country), said that 33m of Pakistan’s 230m people had been affected by the floods.
+
+Protesters skirmished with police outside the house of Cristina Fernández de Kirchner, <strong>Argentina’s</strong> vice-president, on Saturday night. Five officers were injured and four people arrested. The demonstrators were showing support for Ms Fernández, who on August 22nd was [accused of corruption](https://te.arielherself.xyz/the-americas/2022/08/25/argentinas-vice-president-could-face-12-years-in-prison) by a federal prosecutor. If convicted she could face 12 years’ imprisonment and be barred from public office. She denies the charges. 
+
+Listen to an abridged version of the subscriber-only briefing.
+
 America’s S&amp;P 500 <strong>stockmarket</strong> index fell by 3.4% on Friday after hawkish remarks by Jerome Powell, chair of the Federal Reserve, at an annual gathering of central bankers in Jackson Hole, Wyoming. Tackling inflation, Mr Powell said, was “likely to require a sustained period of below-trend growth” but the Fed “must keep at it until the job is done”. In July [the Fed](https://te.arielherself.xyz/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) announced its second consecutive 0.75-percentage-point rate rise.
 
 Gita Gopinath, the deputy head of the <strong>International Monetary Fund</strong>, warned that a consequence of the Fed’s tighter monetary policy—the strong dollar—will make it harder for poor countries to repay their debts. In an interview with Bloomberg TV she suggested that rich countries ought to improve programmes to help them, saying “a lot more speedy action is needed”.
 
 The UN called for a ceasefire after clashes between the <strong>Libyan</strong> government and a rebel militia on Saturday. According to the health ministry 23 people were killed. A UN-brokered peace deal in 2020 ended the political violence that consumed the country for nearly a decade after the fall of Muammar Qaddafi in 2011, but Saturday’s fighting suggests that sectarian conflict may be returning
-
-Listen to an abridged version of the subscriber-only briefing.
-
-Officials in <strong>Pakistan</strong> said that the death toll from <strong>floods</strong> after heavy monsoon rains that have afflicted the country since mid-June had risen to nearly 1,000. In appealing for international help on Friday, the prime minister, [Shehbaz Sharif](https://te.arielherself.xyz/by-invitation/2022/08/13/pakistans-prime-minister-on-his-drive-to-modernise-the-country), said that 33m of Pakistan’s 230m people had been affected by the floods.
-
-<strong>America</strong> and <strong>China</strong> reached an agreement that could avert the delisting of hundreds of Chinese companies from American <strong>stock exchanges</strong>. The deal will enable American regulators to examine audit documents, which Chinese authorities have resisted. Companies face delisting if they fail to show regulators their books for three years. In August five Chinese state-owned companies said they would delist.
-
-America’s Department of Justice unsealed the <strong>affidavit </strong>that authorised the search of <strong>Donald Trump’s</strong> Mar-a-Lago estate earlier this month. The heavily redacted version, written by an FBI special agent, claimed there was “probable cause” to believe that the former president had not returned [additional classified documents](https://te.arielherself.xyz/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations), and that “evidence of obstruction” would be found at his home.
 
 <strong>Word of the week: </strong><em>Euskara</em>, the Basque language, which, against all odds, has seen an increase in speakers of 350,000 since the 1980s. [Read the full story](https://te.arielherself.xyz/culture/2022/08/25/the-struggle-to-preserve-regional-languages).
 
