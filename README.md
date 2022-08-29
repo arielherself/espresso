@@ -12,103 +12,69 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Russian</strong> forces fired at towns around the [<strong>Zaporizhia nuclear power station</strong>](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) in the south-east of <strong>Ukraine</strong>. The plant was captured by Russian troops in March but is still run by Ukrainian staff, and, according to Russia, is being shelled by Ukrainian forces. The fighting has increased fears of a radioactive leak from the plant. Residents in Zaporizhia are being taught how to treat themselves with iodine in the event of radiation exposure.
+<strong>Pakistan’s </strong>minister for climate change called unprecedented extra cycles of monsoon rain currently <strong>flooding </strong>the country a “climate-induced humanitarian disaster of epic proportions”. The death toll along its waterways surpassed 1,000, including hundreds of children. In appealing for international help, the prime minister, [Shehbaz Sharif](https://te.arielherself.xyz/by-invitation/2022/08/13/pakistans-prime-minister-on-his-drive-to-modernise-the-country), said that 33m of Pakistan’s 230m people had been affected. The foreign minister added a plea to the IMF: with so many farmers’ crops ruined, just as the country sits at the brink of financial catastrophe, the fund’s sustained assistance is desperately needed.
 
-Four associations of European judges challenged the <strong>European Council’s</strong> decision to grant <strong>Poland</strong> access to €23.9bn ($23.8bn) in grants and €11.5bn in loans. The cash had been blocked because of a dispute over the independence of Polish judges, which the European Commission said was being undermined. The judges said that Poland’s reform plans “fall short of what is required” to protect judicial independence.
+The UN’s nuclear agency, <strong>the IAEA</strong>, sent inspectors to the [Zaporizhia nuclear power station](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) in the south-east of <strong>Ukraine</strong>, even as <strong>Russian</strong> forces bombarded towns around the plant. Russian troops captured the facility in March but the reactors are still run by Ukrainian staff, and, according to Russia, being shelled by Ukrainian forces. Residents in Zaporizhia are being taught how to treat themselves with iodine in the event of radiation exposure.
 
-The <strong>US Navy</strong> said two American warships were sailing through the <strong>Taiwan Strait</strong>, the first to do so since Nancy Pelosi, speaker of the House of Representatives, [visited Taiwan](https://te.arielherself.xyz/leaders/2022/08/02/nancy-pelosis-trip-to-taiwan-highlights-americas-incoherent-strategy) this month. The navy said it was demonstrating America’s “commitment to a free and open Indo-Pacific”. China—which claims Taiwan as its own and carried out large [military exercises](https://te.arielherself.xyz/china/2022/08/04/china-sends-missiles-flying-over-taiwan) in response to Ms Pelosi’s trip—said it was monitoring the ships and maintaining a high alert.
+Meanwhile, Magdalena Andersson, <strong>Sweden’s</strong> prime minister, said that her country would give <strong>Ukraine</strong> an additional civilian and military aid package worth Skr1bn ($93.4m). Dmytro Kuleba, Ukraine’s foreign minister, said that his country needs weapons from Sweden, as well as cash, to fight off the Russian invasion.
 
-<strong>Liz Truss</strong>, the favourite to become leader of the Conservative Party and hence Britain’s prime minister, reportedly “ruled out” further direct support for those struggling with surging [energy bills](https://te.arielherself.xyz/britain/2022/08/26/energy-bills-in-britain-are-soaring). <strong>Rishi Sunak</strong>, her rival for the job, said the government “must provide some direct support”. Boris Johnson, the departing leader, insisted that whoever wins on September 5th, “the government will announce another huge package of financial support”.
+<strong>Asian stockmarkets </strong>slid as traders made sense of the smoke signals sent up from a meeting of the world’s central bankers, who gathered in Wyoming over the weekend. The [Federal Reserve’s chairman](https://te.arielherself.xyz/finance-and-economics/2022/07/21/the-fed-put-morphs-into-a-fed-call), Jerome Powell, implied the fight against inflation will entail further “pain”. Japan’s Nikkei index shed 2.7% on Monday. The yields on two-year Treasuries hit their highest level since the financial crisis of 2007-09.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Lee Jae-myung, who was narrowly defeated in this year’s <strong>South Korean</strong> presidential election, was elected to lead the main opposition party. Mr Lee won nearly 78% of the vote among members of the Democratic Party. In his victory speech he criticised the administration of [Yoon Suk-yeol](https://te.arielherself.xyz/asia/2022/08/25/south-koreas-president-needs-to-learn-the-basics), the conservative who won the presidential contest in March.
+<strong>Singapore</strong> loosened its visa rules in the hope of wooing foreign workers into its tight labour market. From January expats earning at least S$30,000 ($21,500) a month will be eligible for a five-year work pass. The financial centre’s manpower minister, Tan See Leng, said the move aimed to “cement [Singapore’s position as a global hub](https://te.arielherself.xyz/finance-and-economics/2022/06/29/the-battle-between-asias-financial-centres-is-heating-up) for talent”.
 
-<strong>Angola</strong> held a funeral for its late dictator, <strong>José Eduardo dos Santos</strong>, days after [an election](https://te.arielherself.xyz/middle-east-and-africa/2022/08/18/a-dictators-ghost-haunts-angolas-upcoming-elections) which has been disputed by the opposition. In the general election on August 24th Mr dos Santos’s ruling party won a slim majority. But Adalaberto Costa Júnior, the opposition leader, rejected the results. The state funeral gives the authorities an excuse to clamp down on post-election protests.
+<strong>Colombia </strong>and <strong>Venezuela</strong> restored diplomatic relations after a three-year hiatus. Colombia’s new left-wing president, Gustavo Petro, had campaigned for [closer ties](https://te.arielherself.xyz/the-americas/2022/08/18/venezuelas-dictator-is-less-isolated-than-he-once-was) with Nicolás Maduro, the tyrant next door. Detente may enable the reopening of the 2,200km border between the two countries. It has been largely closed since 2015. Some 1.7m Venezuelans have fled to Colombia to escape Mr Maduro’s ruinous regime.
 
-Officials in <strong>Pakistan</strong> said on Sunday that the death toll from <strong>floods</strong> after heavy monsoon rains that have afflicted the country since mid-June had risen to more than 1,000. In appealing for international help on Friday, the prime minister, [Shehbaz Sharif](https://te.arielherself.xyz/by-invitation/2022/08/13/pakistans-prime-minister-on-his-drive-to-modernise-the-country), said that 33m of Pakistan’s 230m people had been affected by the floods.
+<strong>Dell</strong>, an American computer-maker, confirmed it had pulled out of Russia, after closing its offices there in mid-August. It joins [a long line of Western firms](https://te.arielherself.xyz/business/western-firms-thorny-russian-dilemmas/21808196) to abandon the country because of its war against Ukraine. The Texas-based company was one of the most important suppliers of servers in Russia.
 
-<strong>Word of the week: </strong><em>Euskara</em>, the Basque language, which, against all odds, has seen an increase in speakers of 350,000 since the 1980s. [Read the full story](https://te.arielherself.xyz/culture/2022/08/25/the-struggle-to-preserve-regional-languages).
+<strong>Fact of the day: </strong>145,000, the number of words in India’s constitution, the longest in the world. [Read the full story](https://te.arielherself.xyz/international/2022/08/25/dictators-and-utopians-are-fond-of-fiddling-with-constitutions).
 
 ----------
 
-## Brazil’s presidential hopefuls face off
+## No more dollars at the Moscow Exchange
 
-On Sunday Jair Bolsonaro, Brazil’s right-wing president, and Luiz Inácio Lula da Silva, his main rival in the presidential election on October 2nd, are expected to face each other in a televised debate. Lula, as the left-wing former president is known, leads polls by double digits, but Mr Bolsonaro has been gaining ground thanks to recent [hefty government spending](https://te.arielherself.xyz/the-americas/2022/08/25/brazils-president-lagging-in-the-polls-turns-to-god-and-cash). The incumbent, who likes to remind voters of Lula’s time in prison after a corruption conviction that was later annulled by the Supreme Court, has warned of a choice between “good versus evil”. Lula, who slams Mr Bolsonaro for high inflation and for mismanaging the pandemic, has said his rival is “possessed by the devil”.
+An international pariah, Russia is trying to reorient [its economy](https://te.arielherself.xyz/finance-and-economics/2022/03/05/vladimir-putins-fortress-russia-is-crumbling) away from the West. So from Monday the Moscow Exchange, Russia’s largest financial marketplace, will no longer accept American dollars as collateral for underwriting transactions. This is part of a long strategy of reducing dependence on the American financial system: in the years before the war in Ukraine the central bank shifted its foreign-exchange holdings away from dollars. The country also built up a parallel payments infrastructure that did not rely on [Visa and MasterCard](https://te.arielherself.xyz/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken).
 
-The debate, which will include four other hopefuls, is sure to feature more mud-slinging. That is, if the candidates don’t drop out at the last moment. The president has wavered on whether to attend, and Lula says his appearance is conditional on that of Mr Bolsonaro.
+The question is whether isolation from the West is a good economic strategy. The Russian economy has held up far better under Western sanctions than almost anyone expected. It has sold more oil to India and China, and bought more stuff from Turkey. But over time depriving itself of Western tech and ideas—not to mention money—will start to bite.
 
-## The joy and pain of London’s carnival
+## Syria’s forgotten war
 
-More than a million people will gyrate through Notting Hill Carnival this weekend. Europe’s biggest street party was begun in 1959 by immigrant Trinidadians, but now encompasses other Caribbean, African and South American cultures. Soca, calypso, dancehall, reggae and dub vibrate out of massive sound systems. Children parade on Sunday, while adults in <em>mas</em> (masquerade) and Brazilian samba outfits follow floats on Monday. Barbecues churn out Jamaican jerk chicken and Trinidadian roti.
+For years the world has treated Syria as a frozen conflict. Iran, Russia, Turkey and a smattering of American forces have carved the country into zones of influence, while leaving Syrians—and the regime of President Bashar al-Assad—to labour under crippling sanctions. On Monday the UN Security Council meets to discuss [Syria’s crisis](https://te.arielherself.xyz/middle-east-and-africa/2022/06/16/bashar-al-assad-is-hollowing-out-syrias-ravaged-state).
 
-Carnival celebrates diversity. But its history is of discrimination. It began in the Caribbean as a way for slaves to resist their masters. The first in west London aimed to heal communities after the race riots of 1958. In [1976](https://te.arielherself.xyz/britain/2022/08/09/almost-nothing-seems-to-be-working-in-britain-it-could-get-worse) young, downtrodden black men clashed with police. In 2018 the [Windrush scandal](https://te.arielherself.xyz/britain/2018/04/18/the-national-shame-of-britains-treatment-of-windrush-migrants) saw British citizens from the Caribbean deported as illegal immigrants. The return of carnival, after a two-year hiatus, is another chance to try to heal old wounds.
+External events largely determine the country’s fate. Recep Tayyip Erdogan, Turkey’s president, seemingly wants to bury the hatchet with Mr Assad and forcibly repatriate Syrian refugees before he faces an election next year. Russia has relocated some of its fighting strength, which had been propping up Mr Assad, to its war in Ukraine. And America and Iran are again talking about a nuclear deal, despite American and Iran-backed forces exchanging fire in Syria. The UN looks ever more a bystander. But the Security Council can still serve as a forum for regional and global powers to press their interests while claiming to be helping war-ravaged Syrians. 
 
-## Salt ’n’ mealworm flavour crisps?
+## A folly into space
 
-Mealworms are a beloved snack of bluebirds and hedgehogs. Spiced and fried, the beetle larvae feature at South-East Asian street markets. Last year the golden worms were also approved as a “novel food” for humans in the European Union. South Korean food scientists are now trying to also promote the taste of the protein-packed grubs. They have mapped out the flavour profiles of the meal beetle throughout its lifecycle—with aromas of wet soil, shrimp and sweetcorn—and experimented with cooking methods. 
+On Monday, or soon after, NASA hopes to move closer to returning people to the Moon’s surface, with the flight of its [Space Launch System](https://te.arielherself.xyz/science-and-technology/2022/08/24/nasas-space-launch-system-is-yesterdays-rocket). The SLS will send a capsule carrying three mannequins wired with radiation sensors, to the Moon’s vicinity. Humans are due there in 2024—and a landing is planned for 2025 .
 
-At the meeting of the American Chemical Society this week, the scientists are showing off their best recipes. Heating powdered mealworms with sugar and garlic powder produces a distinctly “meat-like” flavour of the kind used in convenience foods such as snacks and sauces. Perfecting the caramelisation could make them contenders in the [meat-related flavour market](https://te.arielherself.xyz/the-world-ahead/2020/11/17/edible-insects-and-lab-grown-meat-are-on-the-menu), which is forecast to grow to $9bn in 2025. But the bigger crunch will be getting customers to take a bite.
+Unfortunately, the launch is a colossal waste of money. The SLS, which has cost American taxpayers around $23bn in the past decade, will probably soon be outclassed by privately built models. It is a hangover from NASA’s Constellation programme, which was cancelled in 2010 because of ballooning costs. But the contracts for the programme had already been doled out to various aerospace companies. So in what Lori Garver, a former NASA official, calls “the relentless momentum of the status quo”, the SLS programme was created by Congress to ensure that contracts from the defunct Constellation programme kept going. Taxpayers, and space science, are poorer for that self-serving decision.
 
-## Verstappen gets his wings
+## What to read to understand how countries escape poverty
 
-Can anyone stop Max Verstappen? As the [Formula 1](https://te.arielherself.xyz/culture/2022/07/14/from-monaco-to-miami-formula-1-bids-to-crack-america) season returns from its summer hiatus with the Belgian Grand Prix at Spa-Francorchamps on Sunday, the Dutch driver has an 80-point lead with just nine of 22 races remaining. His Red Bull [car is a match for its driver](https://te.arielherself.xyz/graphic-detail/2020/10/17/engineers-not-racers-are-the-true-drivers-of-success-in-motor-sport); the team is leading the constructors’ tally. There is little to suggest that either of his main rivals, Charles Leclerc of Ferrari or Sir Lewis Hamilton of Mercedes, has the consistency to beat him. 
+Three decades ago nearly 2bn people lived in absolute poverty. By 2018 that figure had fallen by more than half. There has perhaps been no greater [human achievement](https://te.arielherself.xyz/the-economist-reads/2022/07/21/what-to-read-to-understand-how-countries-escape-the-worst-poverty). How did this happen? A big part of the answer is found in China, where hundreds of millions have escaped the worst forms of deprivation. But there is no sure-fire path to development. What worked for Singapore may not work for Somalia. Yet, as these four books suggest, some things matter more than others.
 
-Mr Leclerc has a superb car, but made costly errors at the French and Emilia-Romagna races. Sir Lewis, who is 32 points further back, has the opposite problem. He has raced impeccably but his car has proved sluggish and unreliable. Mr Verstappen won the 2021 season by the skin of his teeth, when he overtook Sir Lewis on the final lap amid controversy over the withdrawal of the safety car. This year he is revving up for a clear victory.
+<strong>“Poor Economics”</strong>, by Abhijit Banerjee and Esther Duflo, both Nobel prizewinners in economics, does what much literature on development does not: treats the poor as people, rather than as a faceless collective.
 
-## Weekend profile: Michael Heizer, the artist behind “City”
+Also try <strong>“Development as Freedom”</strong>, by Amartya Sen, in which another Nobel economics laureate lays out his theories about what freedom really means. Freedom from poverty is one measure, but so is access to basic services, such as education and health care.
 
-Richard Nixon was still America’s president when Michael Heizer, one of the country’s foremost land artists, began his [mysterious sculpture project](https://te.arielherself.xyz/culture/2022/08/20/a-vast-sculpture-in-the-nevada-desert-is-finished-at-last) in 1972, in the high Nevada desert north of Las Vegas. Few people were allowed to see the work in progress; many thought it would never get done. As the years passed, it took on a mythical quality in the art world.
+<strong>“How China Escaped the Poverty Trap”</strong>, by Yuen Yuen Ang, explains how China exploited institutional weaknesses, such as corruption and unstable property rights, to build markets. These flourishing markets helped strengthen institutions which in turn developed markets further, and helped to lift millions of people out of poverty.
 
-Naysayers notwithstanding, half a century on, Mr Heizer’s “City” is complete. On September 2nd, it will open to the public—even if, to maintain its atmosphere of splendid isolation, at first only six people a day will be allowed to visit.
+Last, to understand what doesn’t work as well as what does, try <strong>“The White Man’s Burden”</strong>, by William Easterly. The economist argues that the West’s approach, comprising foreign aid and advice, is a costly example of failure. According to Mr Easterly, it accomplished “so much ill” because it imposed top-down plans on countries instead of understanding bureaucratic, cultural and political conditions on the ground.
 
-As an artist, Mr Heizer is almost completely self-taught. Fascinated by drawing from an early age, as a teenager in the late 1950s he helped his father, a famous anthropological archaeologist, who was excavating an ancient Olmec site on the Yucatán peninsula. Then he spent a year in Paris, mostly in its museums. “I saw it all first-hand,” he says. “You can’t go to school and learn about art by looking at a bunch of slides projected on a wall.”
+<em>For reading recommendations on many more topics, visit </em>[<em>The Economist reads</em>](https://te.arielherself.xyz/the-economist-reads/)<em>.</em>
 
-The artist started work on “City”, with a huge piece at one end called “Section One”, a rectangular slope surrounded by concrete struts. “I worked entirely intuitively,” he says, “with no ongoing thought or consecutive way of planning.” The finished work is more than a mile and a half long and half a mile wide (2.4km x 800 metres), making it one of the biggest contemporary sculptures ever made. Walking through it feels as much like being in a garden—albeit one with no flowers—as in a city. There are mounds and walkways, as well as discrete spaces that could be neighbourhoods. It is both intimate and epic, forbidding and yet inviting; a work that is utterly itself. 
+## Serena’s swansong at the US Open
 
-At 77, Mr Heizer has made his last visit to the site. He lives far away, at sea level, for the sake of his damaged lungs. But his stubbornness is undimmed; he refuses to explain the significance of the work. “It’s the visitor who does the interpretation,” he says. “I don’t give a damn.”
+As a child, Serena Williams said her goal in tennis was to win the US Open. That happened quickly enough: in 1999 she won the tournament as a 17-year-old. But then the American tennis star kept on winning. With a power game that changed the sport, she broke records and hoovered up 22 more grand slams, tennis’s most prestigious titles. Only Margaret Court, an Australian, has more, with 24. And even that record would have been broken, claims Ms Williams, were it not for her health issues after the birth of her child in 2017. She hasn’t won a grand slam since.
 
-## The winners of this week’s quiz
+Ms Williams has no regrets, though. Now she wants to focus on her family and Serena Ventures, her venture-capital firm. This year’s US Open, which starts on Monday, will be her last tournament. The bookies have her as a 50-to-1 longshot. But Ms Williams has overcome longer odds before.
 
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+## Daily quiz
 
-Asia: <strong>Gyu-young Ju</strong>, Wonju, South Korea
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3564405c4f704645475046465a7550565a5b5a585c46411b565a58">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-North America: <strong>Michael Slater</strong>, Naperville, United States
-
-Central and South America: <strong>Martin Whittle</strong>, São Paulo, Brazil
-
-Europe: <strong>Glenn W. Most</strong>, Florence, Italy
-
-Africa:<strong> Paul Leigh</strong>, Pretoria, South Africa
-
-Oceania: <strong>Jennifer Bladon-Clark</strong>, Melbourne, Australia
-
-They all submitted the correct answers of Elder, Big Blue, Jack Straw, Black Beauty, Goose. The theme is berries: elderberry, blueberry, strawberry, blackberry and gooseberry.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Green hype at uncertain new treatments (4,7)
-
-<em>1 across </em>A great writer? The ego! (6)
-
-<em>2 across </em>At first, horrors aren’t very easily noticed: it’s a safe place (5)
-
-<em>3 across </em>Scream “That hurts”, cowardy custard! (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> Its first trial got under way in 1990 (4,7)
-
-<em>1 across </em>Who, aged 75, took up archery (6) 
-
-<em>2 across </em>The Cayman Islands or Jersey, for example (5)
-
-<em>3 across </em>The colour of sulphur (6)
+<strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology?
 
 ----------
 
