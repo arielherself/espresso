@@ -32,6 +32,14 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ----------
 
+## A pivotal moment in Ukraine
+
+On Monday, on the eighth anniversary of a massacre of Ukrainian soldiers in Donetsk province, the Ukrainian army launched an offensive against Russian forces in Kherson, a southern province. The historical resonance will have been clear to many of the fighters.
+
+The city of Kherson was the first big one to fall after Russia invaded in February. Ukrainian generals have hinted for months that they were preparing a [counter-offensive](https://te.arielherself.xyz/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds), and in the early afternoon on Monday they launched the attack. The Ukrainians laid the groundwork the night before, by striking key bridges and Russian command points.
+
+Penetrating Russia’s second line of defence will be harder. Fighting on Tuesday will be crucial in determining Kherson’s fate. But Ukraine believes it is seizing the initiative. The frontlines of the war have barely moved since late June. If Ukraine has now found a weak spot in Russia’s armour, it could mark the beginning of a new phase of the conflict.
+
 ## No more dollars at the Moscow Exchange
 
 An international pariah, Russia is trying to reorient [its economy](https://te.arielherself.xyz/finance-and-economics/2022/03/05/vladimir-putins-fortress-russia-is-crumbling) away from the West. So from Monday the Moscow Exchange, Russia’s largest financial marketplace, will no longer accept American dollars as collateral for underwriting transactions. This is part of a long strategy of reducing dependence on the American financial system: in the years before the war in Ukraine the central bank shifted its foreign-exchange holdings away from dollars. The country also built up a parallel payments infrastructure that did not rely on [Visa and MasterCard](https://te.arielherself.xyz/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken).
@@ -50,20 +58,6 @@ On Monday NASA hoped to move closer to returning people to the Moon’s surface,
 
 Unfortunately, the launch, whenever it happens, is a colossal waste of money. The SLS, which has cost American taxpayers around $23bn in the past decade, will probably soon be outclassed by privately built models. It is a hangover from NASA’s Constellation programme, which was cancelled in 2010 because of ballooning costs. But the contracts for the programme had already been doled out to various aerospace companies. So in what Lori Garver, a former NASA official, calls “the relentless momentum of the status quo”, the SLS programme was created by Congress to ensure that contracts from the defunct Constellation programme kept going. Taxpayers, and space science, are poorer for that self-serving decision.
 
-## What to read to understand how countries escape poverty
-
-Three decades ago nearly 2bn people lived in absolute poverty. By 2018 that figure had fallen by more than half. There has perhaps been no greater [human achievement](https://te.arielherself.xyz/the-economist-reads/2022/07/21/what-to-read-to-understand-how-countries-escape-the-worst-poverty). How did this happen? A big part of the answer is found in China, where hundreds of millions have escaped the worst forms of deprivation. But there is no sure-fire path to development. What worked for Singapore may not work for Somalia. Yet, as these four books suggest, some things matter more than others.
-
-<strong>“Poor Economics”</strong>, by Abhijit Banerjee and Esther Duflo, both Nobel prizewinners in economics, does what much literature on development does not: treats the poor as people, rather than as a faceless collective.
-
-Also try <strong>“Development as Freedom”</strong>, by Amartya Sen, in which another Nobel economics laureate lays out his theories about what freedom really means. Freedom from poverty is one measure, but so is access to basic services, such as education and health care.
-
-<strong>“How China Escaped the Poverty Trap”</strong>, by Yuen Yuen Ang, explains how China exploited institutional weaknesses, such as corruption and unstable property rights, to build markets. These flourishing markets helped strengthen institutions which in turn developed markets further, and helped to lift millions of people out of poverty.
-
-Last, to understand what doesn’t work as well as what does, try <strong>“The White Man’s Burden”</strong>, by William Easterly. The economist argues that the West’s approach, comprising foreign aid and advice, is a costly example of failure. According to Mr Easterly, it accomplished “so much ill” because it imposed top-down plans on countries instead of understanding bureaucratic, cultural and political conditions on the ground.
-
-<em>For reading recommendations on many more topics, visit </em>[<em>The Economist reads</em>](https://te.arielherself.xyz/the-economist-reads/)<em>.</em>
-
 ## Serena’s swansong at the US Open
 
 As a child, Serena Williams said her goal in tennis was to win the US Open. That happened quickly enough: in 1999 she won the tournament as a 17-year-old. But then the American tennis star kept on winning. With a power game that changed the sport, she broke records and hoovered up 22 more grand slams, tennis’s most prestigious titles. Only Margaret Court, an Australian, has more, with 24. And even that record would have been broken, claims Ms Williams, were it not for her health issues after the birth of her child in 2017. She hasn’t won a grand slam since.
@@ -72,7 +66,7 @@ Ms Williams has no regrets, though. Now she wants to focus on her family and Ser
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3465415d4e714744465147475b7451575b5a5b595d47401a575b59">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c594b0acbf80b6b5b7a0b6b6aa85a0a6aaabaaa8acb6b1eba6aaa8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology?
 
