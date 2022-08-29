@@ -34,7 +34,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## A pivotal moment in Ukraine
 
-On Monday, on the eighth anniversary of a massacre of Ukrainian soldiers in Donetsk province, the Ukrainian army launched an offensive against Russian forces in Kherson, a southern province. The historical resonance will have been clear to many of the fighters.
+On Monday, on the eighth anniversary of a massacre of Ukrainian soldiers in Donetsk province, the Ukrainian army launched [an offensive](https://www.economist.com/europe/2022/08/29/ukraine-starts-a-push-to-recapture-kherson-a-crucial-russian-occupied-city) against Russian forces in Kherson, a southern province. The historical resonance will have been clear to many of the fighters.
 
 The city of Kherson was the first big one to fall after Russia invaded in February. Ukrainian generals have hinted for months that they were preparing a [counter-offensive](https://www.economist.com/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds), and in the early afternoon on Monday they launched the attack. The Ukrainians laid the groundwork the night before, by striking key bridges and Russian command points.
 
@@ -66,7 +66,7 @@ Ms Williams has no regrets, though. Now she wants to focus on her family and Ser
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c594b0acbf80b6b5b7a0b6b6aa85a0a6aaabaaa8acb6b1eba6aaa8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="99c8ecf0e3dceae9ebfceaeaf6d9fcfaf6f7f6f4f0eaedb7faf6f4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology?
 
