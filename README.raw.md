@@ -38,37 +38,37 @@ On Monday, on the eighth anniversary of a massacre of Ukrainian soldiers in Done
 
 The city of Kherson was the first big one to fall after Russia invaded in February. Ukrainian generals have hinted for months that they were preparing a [counter-offensive](https://www.economist.com/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds), and in the early afternoon on Monday they launched the attack. The Ukrainians laid the groundwork the night before, by striking key bridges and Russian command points.
 
-Penetrating Russia’s second line of defence will be harder. Fighting on Tuesday will be crucial in determining Kherson’s fate. But Ukraine believes it is seizing the initiative. The frontlines of the war have barely moved since late June. If Ukraine has now found a weak spot in Russia’s armour, it could mark the beginning of a new phase of the conflict.
+Penetrating Russia’s second line of defence will be harder. Fighting on Tuesday will be crucial in determining Kherson’s fate. But Ukraine believes it is seizing the initiative. The frontlines of the war have barely moved since late June. If Ukraine has now found a weak spot in Russia’s armour, it could mark the beginning of a new phase of the conflict. 
 
 ## No more dollars at the Moscow Exchange
 
 An international pariah, Russia is trying to reorient [its economy](https://www.economist.com/finance-and-economics/2022/03/05/vladimir-putins-fortress-russia-is-crumbling) away from the West. So from Monday the Moscow Exchange, Russia’s largest financial marketplace, will no longer accept American dollars as collateral for underwriting transactions. This is part of a long strategy of reducing dependence on the American financial system: in the years before the war in Ukraine the central bank shifted its foreign-exchange holdings away from dollars. The country also built up a parallel payments infrastructure that did not rely on [Visa and MasterCard](https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken).
 
-The question is whether isolation from the West is a good economic strategy. The Russian economy has held up far better under Western sanctions than almost anyone expected. It has sold more oil to India and China, and bought more stuff from Turkey. But over time depriving itself of Western tech and ideas—not to mention money—will start to bite.
+The question is whether isolation from the West is a good economic strategy. The Russian economy has held up far better under Western sanctions than almost anyone expected. It has sold more oil to India and China, and bought more stuff from Turkey. But over time depriving itself of Western tech and ideas—not to mention money—will start to bite. 
 
 ## Syria’s forgotten war
 
-For years the world has treated Syria as a frozen conflict. Iran, Russia, Turkey and a smattering of American forces have carved the country into zones of influence, while leaving Syrians—and the regime of President Bashar al-Assad—to labour under crippling sanctions. On Monday the UN Security Council meets to discuss [Syria’s crisis](https://www.economist.com/middle-east-and-africa/2022/06/16/bashar-al-assad-is-hollowing-out-syrias-ravaged-state).
+For years the world has treated Syria as a frozen conflict. Iran, Russia, Turkey and a smattering of American forces have carved the country into zones of influence, while leaving Syrians—and the regime of President Bashar al-Assad—to labour under crippling sanctions. On Monday the UN Security Council meets to discuss [Syria’s crisis](https://www.economist.com/middle-east-and-africa/2022/06/16/bashar-al-assad-is-hollowing-out-syrias-ravaged-state). 
 
 External events largely determine the country’s fate. Recep Tayyip Erdogan, Turkey’s president, seemingly wants to bury the hatchet with Mr Assad and forcibly repatriate Syrian refugees before he faces an election next year. Russia has relocated some of its fighting strength, which had been propping up Mr Assad, to its war in Ukraine. And America and Iran are again talking about a nuclear deal, despite American and Iran-backed forces exchanging fire in Syria. The UN looks ever more a bystander. But the Security Council can still serve as a forum for regional and global powers to press their interests while claiming to be helping war-ravaged Syrians. 
 
 ## A folly into space
 
-On Monday NASA hoped to move closer to returning people to the Moon’s surface, with the flight of its [Space Launch System](https://www.economist.com/science-and-technology/2022/08/24/nasas-space-launch-system-is-yesterdays-rocket). The SLS was supposed to send a capsule carrying three mannequins wired with radiation sensors, to the Moon’s vicinity, although the plan was scuppered at the last minute due to a technical fault. Still, humans are due there in 2024—and a landing is planned for 2025.
+On Monday NASA hoped to move closer to returning people to the Moon’s surface, with the flight of its [Space Launch System](https://www.economist.com/science-and-technology/2022/08/24/nasas-space-launch-system-is-yesterdays-rocket). The SLS was supposed to send a capsule carrying three mannequins wired with radiation sensors, to the Moon’s vicinity, although the plan was scuppered at the last minute due to a technical fault. Still, humans are due there in 2024—and a landing is planned for 2025. 
 
 Unfortunately, the launch, whenever it happens, is a colossal waste of money. The SLS, which has cost American taxpayers around $23bn in the past decade, will probably soon be outclassed by privately built models. It is a hangover from NASA’s Constellation programme, which was cancelled in 2010 because of ballooning costs. But the contracts for the programme had already been doled out to various aerospace companies. So in what Lori Garver, a former NASA official, calls “the relentless momentum of the status quo”, the SLS programme was created by Congress to ensure that contracts from the defunct Constellation programme kept going. Taxpayers, and space science, are poorer for that self-serving decision.
 
 ## Serena’s swansong at the US Open
 
-As a child, Serena Williams said her goal in tennis was to win the US Open. That happened quickly enough: in 1999 she won the tournament as a 17-year-old. But then the American tennis star kept on winning. With a power game that changed the sport, she broke records and hoovered up 22 more grand slams, tennis’s most prestigious titles. Only Margaret Court, an Australian, has more, with 24. And even that record would have been broken, claims Ms Williams, were it not for her health issues after the birth of her child in 2017. She hasn’t won a grand slam since.
+As a child, Serena Williams said her goal in tennis was to win the US Open. That happened quickly enough: in 1999 she won the tournament as a 17-year-old. But then the American tennis star kept on winning. With a power game that changed the sport, she broke records and hoovered up 22 more grand slams, tennis’s most prestigious titles. Only Margaret Court, an Australian, has more, with 24. And even that record would have been broken, claims Ms Williams, were it not for her health issues after the birth of her child in 2017. She hasn’t won a grand slam since. 
 
 Ms Williams has no regrets, though. Now she wants to focus on her family and Serena Ventures, her venture-capital firm. This year’s US Open, which starts on Monday, will be her last tournament. The bookies have her as a 50-to-1 longshot. But Ms Williams has overcome longer odds before.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="411034283b043231332432322e0124222e2f2e2c2832356f222e2c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4213372b38073132302731312d0227212d2c2d2f2b31366c212d2f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-<strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology?
+<strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology? 
 
 ----------
 
