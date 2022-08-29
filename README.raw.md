@@ -18,7 +18,7 @@ Volodymyr Zelensky, <strong>Ukraine’s</strong> president, accused <strong>Russ
 
 <strong>Pakistan’s </strong>minister for climate change called unprecedented extra cycles of monsoon rain currently <strong>flooding </strong>the country a “climate-induced humanitarian disaster of epic proportions”. The death toll along its waterways surpassed 1,000, including hundreds of children. In appealing for international help, the prime minister, [Shehbaz Sharif](https://www.economist.com/by-invitation/2022/08/13/pakistans-prime-minister-on-his-drive-to-modernise-the-country), said that 33m of Pakistan’s 230m people had been affected. The foreign minister added a plea to the IMF: with so many farmers’ crops ruined, just as the country sits at the brink of financial catastrophe, the fund’s sustained assistance is desperately needed.
 
-The UN’s nuclear agency, <strong>the IAEA</strong>, sent inspectors to the [Zaporizhia nuclear power station](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) in the south-east of <strong>Ukraine</strong>, even as <strong>Russian</strong> forces bombarded towns around the plant. Russian troops captured the facility in March but the reactors are still run by Ukrainian staff, and, according to Russia, being shelled by Ukrainian forces. Residents in Zaporizhia are being taught how to treat themselves with iodine in the event of radiation exposure.
+At least 12 people died and over 100 were injured in <strong>Iraq</strong> during a protest after Muqtada al-Sadr, an influential Shia cleric, announced his resignation from politics. Hundreds of Mr al-Sadr’s followers stormed the government palace in Baghdad, the capital, clashing violently with police and rival Shia factions. Iraq has been mired in political deadlock since Mr al-Sadr’s party won the most seats in last October’s election, but not enough to govern with a majority.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Singapore</strong> loosened its visa rules in the hope of wooing foreign workers into its tight labour market. From January expats earning at least S$30,000 ($21,500) a month will be eligible for a five-year work pass. The financial centre’s manpower minister, Tan See Leng, said the move aimed to “cement [Singapore’s position as a global hub](https://www.economist.com/finance-and-economics/2022/06/29/the-battle-between-asias-financial-centres-is-heating-up) for talent”.
 
-<strong>Dell</strong>, an American computer-maker, confirmed it had pulled out of Russia, after closing its offices there in mid-August. It joins [a long line of Western firms](https://www.economist.com/business/western-firms-thorny-russian-dilemmas/21808196) to abandon the country because of its war against Ukraine. The Texas-based company was one of the most important suppliers of servers in Russia.
+The UN’s nuclear agency, <strong>the IAEA</strong>, sent inspectors to the [Zaporizhia nuclear power station](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) in the south-east of <strong>Ukraine</strong>, even as <strong>Russian</strong> forces bombarded towns around the plant. Russian troops captured the facility in March but the reactors are still run by Ukrainian staff, and, according to Russia, being shelled by Ukrainian forces. Residents in Zaporizhia are being taught how to treat themselves with iodine in the event of radiation exposure.
 
 <strong>Fact of the day: </strong>145,000, the number of words in India’s constitution, the longest in the world. [Read the full story](https://www.economist.com/international/2022/08/25/dictators-and-utopians-are-fond-of-fiddling-with-constitutions).
 
@@ -66,7 +66,7 @@ Ms Williams has no regrets, though. Now she wants to focus on her family and Ser
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5203273b28172122203721213d1237313d3c3d3f3b21267c313d3f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2c7d594556695f5c5e495f5f436c494f43424341455f58024f4341">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology?
 
