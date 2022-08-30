@@ -34,7 +34,7 @@ The UN’s nuclear agency, <strong>the IAEA</strong>, sent inspectors to the [Za
 
 ## A pivotal moment in Ukraine
 
-On Monday, on the eighth anniversary of a massacre of Ukrainian soldiers in Donetsk province, the Ukrainian army [launched an offensive](https://te.arielherself.xyz/europe/2022/08/29/ukraine-starts-a-push-to-recapture-kherson-a-crucial-russian-occupied-city) against Russian forces in Kherson, a southern province. The historical resonance will have been clear to many of the fighters.
+On the eighth anniversary of a massacre of Ukrainian soldiers in Donetsk province the Ukrainian army [launched an offensive](https://te.arielherself.xyz/europe/2022/08/29/ukraine-starts-a-push-to-recapture-kherson-a-crucial-russian-occupied-city) against Russian forces in Kherson, a southern province. The historical resonance will have been clear to many of the fighters.
 
 Kherson was the first big city to fall after Russia invaded in February. Ukrainian generals have hinted for months that they were preparing a [counter-offensive](https://te.arielherself.xyz/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds), and in the early afternoon on Monday they launched the attack. The Ukrainians laid the groundwork the night before, by striking key bridges and Russian command points.
 
@@ -66,7 +66,7 @@ Ms Williams has no regrets, though. Now she wants to focus on her family and Ser
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e5b4908c9fa09695978096968aa580868a8b8a888c9691cb868a88">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7425011d0e310704061107071b3411171b1a1b191d07005a171b19">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology? 
 
