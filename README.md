@@ -34,11 +34,11 @@ The UN’s nuclear agency, <strong>the IAEA</strong>, sent inspectors to the [Za
 
 ## A pivotal moment in Ukraine
 
-On Monday, on the eighth anniversary of a massacre of Ukrainian soldiers in Donetsk province, the Ukrainian army launched [an offensive](https://te.arielherself.xyz/europe/2022/08/29/ukraine-starts-a-push-to-recapture-kherson-a-crucial-russian-occupied-city) against Russian forces in Kherson, a southern province. The historical resonance will have been clear to many of the fighters.
+On Monday, on the eighth anniversary of a massacre of Ukrainian soldiers in Donetsk province, the Ukrainian army [launched an offensive](https://te.arielherself.xyz/europe/2022/08/29/ukraine-starts-a-push-to-recapture-kherson-a-crucial-russian-occupied-city) against Russian forces in Kherson, a southern province. The historical resonance will have been clear to many of the fighters.
 
-The city of Kherson was the first big one to fall after Russia invaded in February. Ukrainian generals have hinted for months that they were preparing a [counter-offensive](https://te.arielherself.xyz/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds), and in the early afternoon on Monday they launched the attack. The Ukrainians laid the groundwork the night before, by striking key bridges and Russian command points.
+Kherson was the first big city to fall after Russia invaded in February. Ukrainian generals have hinted for months that they were preparing a [counter-offensive](https://te.arielherself.xyz/europe/2022/08/14/a-ukrainian-counter-offensive-in-kherson-faces-steep-odds), and in the early afternoon on Monday they launched the attack. The Ukrainians laid the groundwork the night before, by striking key bridges and Russian command points.
 
-Penetrating Russia’s second line of defence will be harder. Fighting on Tuesday will be crucial in determining Kherson’s fate. But Ukraine believes it is seizing the initiative. The frontlines of the war have barely moved since late June. If Ukraine has now found a weak spot in Russia’s armour, it could mark the beginning of a new phase of the conflict. 
+Penetrating Russia’s second line of defence will be harder. Fighting on Tuesday will be crucial in determining Kherson’s fate. But Ukraine believes it is seizing the initiative. The frontlines of the war have barely moved since late June. If Ukraine has now found a weak spot in Russia’s armour, it could mark the beginning of a new phase of the conflict.
 
 ## No more dollars at the Moscow Exchange
 
@@ -66,7 +66,7 @@ Ms Williams has no regrets, though. Now she wants to focus on her family and Ser
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2a7b5f43506f595a584f5959456a4f494544454743595e04494547">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the wife of Jupiter in Roman mythology? 
 
