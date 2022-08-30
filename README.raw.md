@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Elon Musk</strong> argued in a court filing that allegations of lax security at <strong>Twitter</strong>, made recently by its former security chief, bolstered his case to withdraw [his bid](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up) for the social-media firm. He also sought to delay the trial that will determine whether or not he must honour the acquisition agreement by about a month, to November.
 
-In a joint statement Germany and France warned against banning <strong>Russian tourists </strong>from [entering the EU](https://www.economist.com/graphic-detail/2022/03/04/russians-are-trying-to-flee-putins-chaos), saying it could estrange future generations. Other European countries, such as the Czech Republic and Denmark, have advocated for such a step. EU ministers will discuss the proposal on Tuesday as they weigh up further [sanctions on Russia](https://www.economist.com/finance-and-economics/2022/08/24/western-sanctions-will-eventually-impair-russias-economy) for its attack on Ukraine.
+In a joint statement Germany and France warned against banning <strong>Russian tourists </strong>from [entering the EU](https://www.economist.com/graphic-detail/2022/03/04/russians-are-trying-to-flee-putins-chaos), saying it could estrange future generations. Other European countries, such as the Czech Republic and Denmark, have advocated for such a step. EU ministers discussed the proposal on Tuesday.
 
 <strong>Mississippi’s</strong> governor declared a state of emergency in the city of Jackson, after floods damaged the water-treatment system and left 180,000 people without potable water. Residents were told to drink bottled water “for an unknown period of time”. Jackson’s <strong>water crisis</strong> is not new: in 2020 America’s Environmental Protection Agency warned of [lead pipes](https://www.economist.com/graphic-detail/2021/12/02/where-are-americas-lead-pipes) and other problems there.
 
@@ -66,7 +66,7 @@ Princess Diana was personally shy of the media. Her most notable interview was i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="87d6f2eefdc2f4f7f5e2f4f4e8c7e2e4e8e9e8eaeef4f3a9e4e8ea">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="91c0e4f8ebd4e2e1e3f4e2e2fed1f4f2fefffefcf8e2e5bff2fefc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which American state contains both Bryce Canyon and Zion national parks?
 
