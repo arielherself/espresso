@@ -22,11 +22,11 @@ The <strong>Chinese Communist Party’s</strong> leadership congress will start 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Muqtada al-Sadr, an influential Shia cleric in<strong> Iraq</strong>, told his supporters to leave Baghdad’s Green Zone after violent clashes with police and rival factions left at least 30 people dead. Mr Sadr’s followers stormed government buildings in the capital following his resignation from politics on Monday. Iraq has been in [political deadlock](https://te.arielherself.xyz/middle-east-and-africa/2022/08/01/iraqs-parliamentary-plague) since Mr Sadr’s party won the most seats in elections last year, but was not able to form a government.
-
 <strong>Elon Musk</strong> argued in a court filing that allegations of lax security at <strong>Twitter</strong>, made recently by its former security chief, bolstered his case to withdraw [his bid](https://te.arielherself.xyz/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up) for the social-media firm. He also sought to delay the trial that will determine whether or not he must honour the acquisition agreement by about a month, to November.
 
 In a joint statement Germany and France warned against banning <strong>Russian tourists </strong>from [entering the EU](https://te.arielherself.xyz/graphic-detail/2022/03/04/russians-are-trying-to-flee-putins-chaos), saying it could estrange future generations. Other European countries, such as the Czech Republic and Denmark, have advocated for such a step. EU ministers will discuss the proposal on Tuesday as they weigh up further [sanctions on Russia](https://te.arielherself.xyz/finance-and-economics/2022/08/24/western-sanctions-will-eventually-impair-russias-economy) for its attack on Ukraine.
+
+<strong>Mississippi’s</strong> governor declared a state of emergency in the city of Jackson, after floods damaged the water-treatment system and left 180,000 people without potable water. Residents were told to drink bottled water “for an unknown period of time”. Jackson’s <strong>water crisis</strong> is not new: in 2020 America’s Environmental Protection Agency warned of [lead pipes](https://te.arielherself.xyz/graphic-detail/2021/12/02/where-are-americas-lead-pipes) and other problems there.
 
 <strong>Fact of the day: </strong>80, the number of captured soldiers from Ukraine’s Azov regiment facing a Russian-controlled trial. [Read the full story](https://te.arielherself.xyz/europe/2022/08/28/russia-prepares-an-international-tribunal-for-the-ukrainian-defenders-of-mariupol).
 
@@ -66,7 +66,7 @@ Princess Diana was personally shy of the media. Her most notable interview was i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7627031f0c33050604130505193613151918191b1f05025815191b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which American state contains both Bryce Canyon and Zion national parks?
 
