@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The <strong>UN</strong> said China’s detention of Uyghurs in <strong>Xinjiang</strong> may “constitute international crimes, in particular crimes against humanity”. The findings came in a long-delayed report by the UN’s outgoing human-rights chief, Michelle Bachelet. Its release, fiercely resisted by China, came minutes before her term ended. China has [detained more than 1m Uyghurs](https://te.arielherself.xyz/the-economist-explains/2021/07/12/what-is-happening-to-the-uyghurs-in-xinjiang), a Muslim minority, in prison camps under the guise of counter-terrorism.
+The <strong>UN</strong> said China’s detention of Uyghurs in <strong>Xinjiang</strong> may “constitute international crimes, in particular crimes against humanity”. The findings came in a [long-delayed report](https://te.arielherself.xyz/china/2022/09/01/a-long-awaited-un-report-condemns-chinas-actions-in-xinjiang) by the UN’s outgoing human-rights chief, Michelle Bachelet. Its release, fiercely resisted by China, came minutes before her term ended. China has [detained more than 1m Uyghurs](https://te.arielherself.xyz/the-economist-explains/2021/07/12/what-is-happening-to-the-uyghurs-in-xinjiang), a Muslim minority, in prison camps under the guise of counter-terrorism.
 
 Officials from the UN’s nuclear watchdog arrived in <strong>Zaporizhia</strong> in southern Ukraine to visit a Russian-occupied [nuclear power plant](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant), which has been the site of intense shelling in recent weeks. The team is seeking to “prevent a nuclear accident”. Ukraine hopes the inspection will lead to the “demilitarising” of the plant but Russia says it will not withdraw its forces. Russian shelling has forced the plant to shut down one of its two operational reactors.
 
@@ -64,7 +64,7 @@ The prime minister, Anthony Albanese, may boost the annual quota for permanent m
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2f7e5a46556a5c5f5d4a5c5c406f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4213372b38073132302731312d0227212d2c2d2f2b31366c212d2f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Thursday: </strong>The annual general meeting of Berkshire Hathaway, Warren Buffett’s company, is held in which US city?
 
