@@ -16,17 +16,17 @@ The <strong>UN</strong> said China’s detention of Uyghurs in <strong>Xinjiang<
 
 Officials from the UN’s nuclear watchdog arrived in <strong>Zaporizhia</strong> in southern Ukraine to visit a Russian-occupied [nuclear power plant](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant), which has been the site of intense shelling in recent weeks. The team is seeking to “prevent a nuclear accident”. Ukraine hopes the inspection will lead to the “demilitarising” of the plant but Russia says it will not withdraw its forces. Russian shelling has forced the plant to shut down one of its two operational reactors.
 
+Poland will demand <strong>reparations</strong> from <strong>Germany</strong> for an estimated $1.32trn of losses caused during world war two, said the leader of the country’s ruling party. The figure published in a long-awaited report tops an earlier estimate of $850bn in 2019. Some 6m Poles, 3m of whom were Jewish, were killed during the war and Warsaw, the capital, was razed. Germany has argued that it has resolved all financial claims related to its invasion.
+
 Russia’s President <strong>Vladimir Putin</strong> will not attend the funeral of <strong>Mikhail Gorbachev</strong>, the Soviet Union’s last leader, who died on Tuesday. A Kremlin spokesman blamed Mr Putin’s work schedule but said the government was involved in organising Saturday’s ceremony. Mr [Gorbachev](https://www.economist.com/leaders/2022/08/31/mikhail-gorbachev-liberated-millions-even-if-he-didnt-set-out-to) presided over the collapse of the Soviet Union in 1991, something Mr Putin has described as the “greatest geopolitical catastrophe of the 20th century”.
 
-Clashes between Shia militants in Basra, <strong>Iraq,</strong> left four people dead, according to local security officials, the latest in a spate of recent violence in the country. Supporters of Muqtada al-Sadr, an influential Shia cleric, have been fighting with rival factions. [Iraq](https://www.economist.com/middle-east-and-africa/2022/08/31/iraqs-political-deadlock-turns-violent) has been in political deadlock since Mr Sadr’s party won the most seats in elections last year, but could not form a government.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+Clashes between Shia militants in Basra, <strong>Iraq,</strong> left four people dead, according to local security officials, the latest in a spate of recent violence in the country. Supporters of Muqtada al-Sadr, an influential Shia cleric, have been fighting with rival factions. [Iraq](https://www.economist.com/middle-east-and-africa/2022/08/31/iraqs-political-deadlock-turns-violent) has been in political deadlock since Mr Sadr’s party won the most seats in elections last year, but could not form a government.
 
 <strong>Chinese</strong> officials support a proposal for people to quarantine in <strong>Hong Kong</strong> before crossing to the mainland, according to John Lee, Hong Kong’s leader. Mr Lee said a task force will work out the details of the “reverse quarantine” system. Travellers moving from Hong Kong into [China](https://www.economist.com/china/2022/08/18/chinas-economy-is-beset-by-problems) must currently isolate for seven days in mainland hotels, but they have run short of rooms. 
 
 <strong>Sri Lanka</strong> reached a preliminary agreement with the <strong>IMF </strong>for a loan of $2.9bn to help alleviate [an economic crisis.](https://www.economist.com/the-economist-explains/2022/07/19/why-is-sri-lanka-in-turmoil) The deal is contingent on Sri Lanka implementing various reforms to increase government revenue and rebuild foreign reserves. The IMF expects the country’s economy to contract by 8.7% this year.
-
-American officials have told <strong>Nvidia </strong>to stop exporting snazzy chips that are used for artificial-intelligence work to <strong>China</strong>, the firm said. The ban is part of [America’s push](https://www.economist.com/united-states/2022/07/29/america-takes-on-china-with-a-giant-microchips-bill) to “keep advanced technologies out of the wrong hands”. Nvidia has earned $400m from sales of the affected chips to China so far this quarter. Its share price fell by 6.6% in response.
 
 <strong>Fact of the day: </strong>$465m, the rumoured price tag of “The Rings of Power”, a new drama based on the “Lord of the Rings” books. [Read the full story](https://www.economist.com/business/2022/08/21/game-of-thrones-v-lord-of-the-rings-a-tale-of-old-v-new-hollywood).
 
@@ -64,7 +64,7 @@ The prime minister, Anthony Albanese, may boost the annual quota for permanent m
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d382a6baa996a0a3a1b6a0a0bc93b6b0bcbdbcbebaa0a7fdb0bcbe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Thursday: </strong>The annual general meeting of Berkshire Hathaway, Warren Buffett’s company, is held in which US city?
 
