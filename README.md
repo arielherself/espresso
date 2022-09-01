@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Clashes between Shia militants in Basra, <strong>Iraq,</strong> left four people dead, according to local security officials, the latest in a spate of recent violence in the country. Supporters of Muqtada al-Sadr, an influential Shia cleric, have been fighting with rival factions. [Iraq](https://te.arielherself.xyz/middle-east-and-africa/2022/08/31/iraqs-political-deadlock-turns-violent) has been in political deadlock since Mr Sadr’s party won the most seats in elections last year, but could not form a government.
 
-<strong>Chinese</strong> officials support a proposal for people to quarantine in <strong>Hong Kong</strong> before crossing to the mainland, according to John Lee, Hong Kong’s leader. Mr Lee said a task force will work out the details of the “reverse quarantine” system. Travellers moving from Hong Kong into [China](https://te.arielherself.xyz/china/2022/08/18/chinas-economy-is-beset-by-problems) must currently isolate for seven days in mainland hotels, but they have run short of rooms. 
+<strong>Chinese</strong> officials support a proposal for people to quarantine in <strong>Hong Kong</strong> before crossing to the mainland, according to John Lee, Hong Kong’s leader. Mr Lee said a task force will work out the details of the “reverse quarantine” system. Meanwhile, some 21m people will be confined to their homes in <strong>Chengdu</strong>, a city in central China, after it imposed a lockdown on Thursday. It is the largest city-wide lockdown in China since Shanghai’s in April. All businesses will shut except for hospitals, pharmacies and supermarkets.
 
 <strong>Sri Lanka</strong> reached a preliminary agreement with the <strong>IMF </strong>for a loan of $2.9bn to help alleviate [an economic crisis.](https://te.arielherself.xyz/the-economist-explains/2022/07/19/why-is-sri-lanka-in-turmoil) The deal is contingent on Sri Lanka implementing various reforms to increase government revenue and rebuild foreign reserves. The IMF expects the country’s economy to contract by 8.7% this year.
 
@@ -64,7 +64,7 @@ The prime minister, Anthony Albanese, may boost the annual quota for permanent m
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1b4a6e72615e686b697e6868745b7e787475747672686f35787476">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday. 
 
 <strong>Thursday: </strong>The annual general meeting of Berkshire Hathaway, Warren Buffett’s company, is held in which US city?
 
