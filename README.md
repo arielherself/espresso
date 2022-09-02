@@ -40,9 +40,9 @@ Labour-market conditions are likely to determine whether the Fed increases rates
 
 ## Iraq’s violent political deadlock
 
-The Internationale Funkausstellung, otherwise known as the IFA, opens its doors in Berlin on Friday. Europe’s biggest annual technology show is being held in person for the first time since the start of the pandemic. It is mainly a platform for manufacturers to show off the latest in consumer electronics.
+Include me in your government, or face an intra-Shia civil war. That seems to be the message of Muqtada al-Sadr, an influential cleric, whose supporters have been [clashing this week with](https://te.arielherself.xyz/middle-east-and-africa/2022/08/31/iraqs-political-deadlock-turns-violent) rival Shia factions in the administrative district of Baghdad, the capital, and beyond. At stake is who heads the government. For now parties allied with Iran and their many militias dominate parliament and hold a veto over the formation of a new administration. The judiciary appears to have their back, too. That is blocking the ambitions of Mr Sadr’s nationalist movement, which emerged as the biggest bloc from last year’s election but which has withdrawn its MPs.
 
-Thus, with the football World Cup looming in November, ever-higher resolution televisions will be much in evidence. LG is due to unveil the largest ever OLED television screen, at a whopping 97 inches (246cm). Other gadgets are likely to include a “smart” toilet developed by Samsung, which neutralises human waste, as well as shoe cases that do the same for the odour of smelly feet. There will be new smartphones too, but not the 14th iteration of the iPhone. Apple shuns such trade shows. It will launch the device at its own event, on September 7th in Silicon Valley.
+Although Baghdad has calmed, fighting continues in Basra, Iraq’s second city and gateway for the country’s oil supply. And Mr Sadr could yet mobilise his forces should he be excluded from the process of forming a government. Millions of angry and dispossessed Iraqis would heed his call to rise up against Baghdad’s oil-rich elite.
 
 ## Gadgets galore, and you can even touch them
 
@@ -66,7 +66,7 @@ Despite Amazon’s seemingly bottomless coffers, the tech company’s streaming 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e3b2968a99a69093918690908ca386808c8d8c8e8a9097cd808c8e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Medieval alchemists tried to turn metals such as lead into which valuable substance?
 
