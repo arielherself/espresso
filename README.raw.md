@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 American employers added 315,000 jobs to <strong>non-farm payrolls</strong> in August, well below July’s figure, in a sign that hiring has started to slow. The unemployment rate rose by 0.2 percentage points from July, to 3.7%. Month-over-month wage growth eased to 0.3% in August, from 0.5% in July. That will come as [welcome relief](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) to the Federal Reserve.
 
-A man pulled a gun on <strong>Cristina Fernández de Kirchner</strong>, Argentina’s former president and current vice-president, in an apparent assassination attempt. She was greeting supporters after attending her ongoing [corruption trial](https://www.economist.com/the-americas/2022/08/25/argentinas-vice-president-could-face-12-years-in-prison) in Buenos Aires. The gun, aimed inches from her face, failed to fire, and Ms Fernández was unhurt. A Brazilian man has reportedly been arrested.
+A list of material [seized by the FBI](https://www.economist.com/united-states/2022/08/17/merrick-garland-is-not-naive-about-political-violence) from <strong>Donald Trump’s</strong> Florida estate showed that he haphazardly mixed classified material with mundane press clippings. Forty-eight of the boxes it retrieved from America’s former president were marked as containing classified information when in fact they were empty—raising the question of whether some documents remain missing. The disclosures came in a court filing.
 
 A judge in <strong>Myanmar </strong>was reported to have convicted <strong>Aung San Suu Kyi</strong> of electoral fraud and sentenced her to three years’ hard labour. Ms Suu Kyi, the long-serving leader of her country’s democracy movement, was arrested when Myanmar’s military junta seized [complete control of the country](https://www.economist.com/asia/2021/02/01/aung-san-suu-kyi-is-arrested-as-myanmars-generals-seize-power) in early 2021. Until then she had been the de facto leader of an elected government.
 
@@ -66,7 +66,7 @@ Despite Amazon’s seemingly bottomless coffers, the tech company’s streaming 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8adbffe3f0cff9faf8eff9f9e5caefe9e5e4e5e7e3f9fea4e9e5e7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Medieval alchemists tried to turn metals such as lead into which valuable substance?
 
