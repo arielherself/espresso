@@ -22,7 +22,7 @@ At least 18 people were killed in an <strong>explosion</strong> at a mosque in H
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Joe Biden </strong>gave a prime-time speech in which he warned that <strong>American democracy </strong>was “under assault” from followers of Donald Trump. And, though speaking vaguely, he seemingly compared the philosophy underpinning the MAGA movement to “semi-fascism”. With the campaign for midterm elections in November gathering pace, the American president said that “MAGA Republicans represent [an extremism](https://te.arielherself.xyz/leaders/2022/09/01/american-states-are-now-petri-dishes-of-polarisation) that threatens the very foundations of our republic”—drawing a distinction between the Make-America-Great-Again crowd and relatively moderate members of the GOP. Senior Republicans retorted that it is Mr Biden who is the divisive force. 
+American employers added 315,000 jobs to <strong>non-farm payrolls</strong> in August, well below July’s figure, in a sign that hiring has started to slow. The unemployment rate rose by 0.2 percentage points from July, to 3.7%. Month-over-month wage growth eased to 0.3% in August, from 0.5% in July. That will come as [welcome relief](https://te.arielherself.xyz/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) to the Federal Reserve.
 
 A man pulled a gun on <strong>Cristina Fernández de Kirchner</strong>, Argentina’s former president and current vice-president, in an apparent assassination attempt. She was greeting supporters after attending her ongoing [corruption trial](https://te.arielherself.xyz/the-americas/2022/08/25/argentinas-vice-president-could-face-12-years-in-prison) in Buenos Aires. The gun, aimed inches from her face, failed to fire, and Ms Fernández was unhurt. A Brazilian man has reportedly been arrested.
 
@@ -66,7 +66,7 @@ Despite Amazon’s seemingly bottomless coffers, the tech company’s streaming 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c190b4a8bb84b2b1b3a4b2b2ae81a4a2aeafaeaca8b2b5efa2aeac">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Medieval alchemists tried to turn metals such as lead into which valuable substance?
 
