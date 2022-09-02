@@ -34,7 +34,7 @@ A judge in <strong>Myanmar </strong>was reported to have convicted <strong>Aung 
 
 ## Hiring in America
 
-America’s labour market is “clearly out of balance”, [groused Jerome Powell](https://te.arielherself.xyz/finance-and-economics/2022/08/30/central-bankers-worry-that-a-new-era-of-high-inflation-is-beginning), chair of the Federal Reserve, last week. Demand for workers has outstripped supply, pushing up private-sector wages by more than 5% year on year. Yet while the Fed’s interest-rate rises have tightened financial conditions elsewhere—share and property prices are [down](https://te.arielherself.xyz/finance-and-economics/2022/08/03/an-anatomy-of-this-years-market-mayhem), the [dollar is stronger](https://te.arielherself.xyz/the-economist-explains/2022/07/20/why-the-dollar-is-so-strong)—the jobs market has remained red-hot. To policymakers’ relief, data released on Friday showed that hiring slowed in August. Employers added 315,000 jobs last month, compared with 528,000 in July. The unemployment rate rose to 3.7%, from 3.5% in July.
+America’s labour market is “clearly out of balance”, [groused Jerome Powell](https://te.arielherself.xyz/finance-and-economics/2022/08/30/central-bankers-worry-that-a-new-era-of-high-inflation-is-beginning), chair of the Federal Reserve, last week. Demand for workers has outstripped supply, pushing up private-sector wages by more than 5% year on year. Yet while the Fed’s interest-rate rises have tightened financial conditions elsewhere—share and property prices are [down](https://te.arielherself.xyz/finance-and-economics/2022/08/03/an-anatomy-of-this-years-market-mayhem), the [dollar is stronger](https://te.arielherself.xyz/the-economist-explains/2022/07/20/why-the-dollar-is-so-strong)—the jobs market has remained red-hot. To policymakers’ relief, data released on Friday showed that hiring slowed in August. Employers added 315,000 jobs last month, compared with 526,000 in July. The unemployment rate rose to 3.7%, from 3.5% in July.
 
 Labour-market conditions are likely to determine whether the Fed increases rates by half or three-quarters of a percentage point in September. Its task is a balancing act: raise rates high and fast enough to temper jobs and wage growth, without triggering mass lay-offs and tipping the economy into recession. A loosening jobs market suggests a softer landing.
 
@@ -52,7 +52,7 @@ Thus, with the football World Cup looming in November, ever-higher resolution te
 
 ## Germany’s trade figures fail to lift the gloom
 
-In May Germany recorded only a small trade surplus of €800m ($795m). Exports recovered in June, thanks to increased demand from America and China, and Germany notched up a (seasonally adjusted) surplus of €6.4bn. But that fell to €5.4bn in July, according to figures published on Friday by Destatis, Germany’s statistics agency. 
+In May Germany recorded only a small trade surplus of €900m ($899m). Exports recovered in June, thanks to increased demand from America and China, and Germany notched up a (seasonally adjusted) surplus of €6.2bn. But that fell to €5.4bn in July, according to figures published on Friday by Destatis, Germany’s statistics agency. 
 
 The decline, however modest, will only add to the gloomy mood amongst exporters. Sky-high energy prices, supply-chain bottlenecks and the rising cost of raw materials are all worries. The Ifo Institute, a German think-tank, produces an index of exporter expectations; it fell for the third consecutive month in August.
 
@@ -66,7 +66,7 @@ Despite Amazon’s seemingly bottomless coffers, the tech company’s streaming 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="68391d01122d1b181a0d1b1b07280d0b07060705011b1c460b0705">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Medieval alchemists tried to turn metals such as lead into which valuable substance?
 
