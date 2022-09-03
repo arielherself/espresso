@@ -12,83 +12,105 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Ministers from the<strong> G7</strong> group of big economies backed a proposal to cap the price of <strong>Russian oil</strong>. Under the plan firms would be barred from financing or insuring shipments of Russian oil if the sale price exceeds the cap. America suggested the idea out of concern that a total insurance ban, which Britain and the European Union [intend to impose](https://www.economist.com/finance-and-economics/2022/08/24/western-sanctions-will-eventually-impair-russias-economy) by the end of the year, would send prices rocketing. The cap for Russian crude shipments will take effect on December 5th, though the level has not yet been set.
+<strong>Gazprom</strong>, a Russian energy firm, said it would keep the <strong>Nord Stream 1</strong> (NS1) undersea gas pipeline shut beyond a three-day closure that was due to end on Saturday. It blamed a leak in a turbine, and gave no indication when it would restart [deliveries](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). European officials cried foul. On Saturday Russian gas flows to Europe via an overland pipeline were slightly higher than a day earlier—but not by enough to make up for the missing NS1 deliveries.
 
-In a seemingly tit-for-tat move, <strong>Gazprom</strong>, a Russian energy firm, said it would keep the <strong>Nord Stream 1</strong> gas pipeline shut beyond a three-day closure that was due to end on Saturday. It blamed a leak at a turbine and gave no indication when it would restart[ deliveries](https://www.economist.com/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). The pipeline to Germany was only running at a fifth of capacity before it was taken offline, supposedly for maintenance, on Wednesday.
+Gazprom’s announcement came shortly after ministers from the <strong>G7</strong> group of big economies backed a proposal to <strong>cap the price</strong> of Russian oil. Under the plan firms would be [barred](https://www.economist.com/finance-and-economics/2022/08/24/western-sanctions-will-eventually-impair-russias-economy) from financing or insuring shipments of Russian oil if the sale price exceeds the cap. The level of the cap has not yet been set, but it will take effect on December 5th.
 
-Pilots at <strong>Lufthansa</strong>, a German airline, went on <strong>strike</strong> on Friday, forcing the firm to cancel about 800 flights. Around 130,000 passengers are affected, some of whom are stranded in Frankfurt and Munich. [Airlines](https://www.economist.com/business/2022/06/09/air-travel-is-taking-flight-again) have scrapped thousands of departures this summer as companies face staff shortages and strikes just as demand has picked up after long lockdowns.
+<strong>America</strong> agreed to sell military equipment worth $1.1bn to <strong>Taiwan</strong>. The package includes anti-ship missiles and a radar warning system. A spokesman for the Chinese embassy in Washington warned that China would “resolutely take legitimate and necessary counter-measures” in response. The sale comes days after[ American warships passed through the Taiwan Strait](https://www.economist.com/china/2022/09/01/american-warships-go-through-the-taiwan-strait) without incident.
 
-At least 18 people were killed in an <strong>explosion</strong> at a mosque in Herat, a city in western <strong>Afghanistan</strong>. The victims included Mujib Rahman Ansari, a prominent pro-Taliban scholar. No one has yet claimed responsibility, though the local affiliate of Islamic State has carried out several similar attacks in recent weeks.
+<strong>American</strong> employers added 315,000 jobs to <strong>non-farm payrolls</strong> in August, well below July’s figure, in a sign that hiring has started to slow. The unemployment rate rose by 0.2 percentage points from July, to 3.7%. Month-over-month wage growth eased to 0.3% in August, from 0.5% in July. That will come as [welcome relief](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) to the Federal Reserve.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-American employers added 315,000 jobs to <strong>non-farm payrolls</strong> in August, well below July’s figure, in a sign that hiring has started to slow. The unemployment rate rose by 0.2 percentage points from July, to 3.7%. Month-over-month wage growth eased to 0.3% in August, from 0.5% in July. That will come as [welcome relief](https://www.economist.com/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) to the Federal Reserve.
+At least 18 people were killed in an <strong>explosion</strong> at a mosque in Herat, a city in western <strong>Afghanistan</strong>. The victims included Mujib Rahman Ansari, a prominent pro-Taliban scholar. No one has yet claimed responsibility, though the local affiliate of Islamic State has carried out several similar attacks in recent weeks.
 
-A list of material [seized by the FBI](https://www.economist.com/united-states/2022/08/17/merrick-garland-is-not-naive-about-political-violence) from <strong>Donald Trump’s</strong> Florida estate showed that he haphazardly mixed classified material with mundane press clippings. Forty-eight of the boxes it retrieved from America’s former president were marked as containing classified information when in fact they were empty—raising the question of whether some documents remain missing. The disclosures came in a court filing.
+<strong>NASA</strong> will try to launch its[ Moon rocket](https://www.economist.com/science-and-technology/2022/08/24/nasas-space-launch-system-is-yesterdays-rocket) for the second time on Saturday, after the first attempt was aborted because of an engine glitch. America’s space agency hopes to send an unmanned capsule on an orbit around the Moon. The Artemis programme, which costs[ billions of dollars](https://www.economist.com/leaders/2022/08/28/nasas-newest-rocket-is-a-colossal-waste-of-money), aims to send humans to the Moon by 2025.
 
-A judge in <strong>Myanmar </strong>was reported to have convicted <strong>Aung San Suu Kyi</strong> of electoral fraud and sentenced her to three years’ hard labour. Ms Suu Kyi, the long-serving leader of her country’s democracy movement, was arrested when Myanmar’s military junta seized [complete control of the country](https://www.economist.com/asia/2021/02/01/aung-san-suu-kyi-is-arrested-as-myanmars-generals-seize-power) in early 2021. Until then she had been the de facto leader of an elected government.
+The 27-year career of <strong>Serena Williams</strong>, widely considered the greatest female tennis player in history, may have come to an end. After losing to Ajla Tomljanovic in the third round of the US Open, Ms Williams received a standing ovation from a crowd of almost 24,000. The tournament is thought to be her last; when asked if she might reconsider leaving tennis, Ms Williams answered, &quot;I don&#x27;t think so, but you never know.&quot;
 
-<strong>Fact of the day: </strong>16m, the amount of hectares of America covered by lawns, enough to carpet both New Hampshire and New York state. [Read the full story](https://www.economist.com/1843/2022/08/16/the-going-gets-turf-do-lawns-have-a-future-in-the-age-of-drought).
+<strong>Word of the week: </strong><em>kwichon</em>, a Korean term for the return to rural life, increasingly popular among young South Koreans. [Read the full story](https://www.economist.com/asia/2022/09/01/young-koreans-are-moving-to-the-countryside-to-farm).
 
 ----------
 
-## Hiring in America
+## Vying for the Keystone State
 
-America’s labour market is “clearly out of balance”, [groused Jerome Powell](https://www.economist.com/finance-and-economics/2022/08/30/central-bankers-worry-that-a-new-era-of-high-inflation-is-beginning), chair of the Federal Reserve, last week. Demand for workers has outstripped supply, pushing up private-sector wages by more than 5% year on year. Yet while the Fed’s interest-rate rises have tightened financial conditions elsewhere—share and property prices are [down](https://www.economist.com/finance-and-economics/2022/08/03/an-anatomy-of-this-years-market-mayhem), the [dollar is stronger](https://www.economist.com/the-economist-explains/2022/07/20/why-the-dollar-is-so-strong)—the jobs market has remained red-hot. To policymakers’ relief, data released on Friday showed that hiring slowed in August. Employers added 315,000 jobs last month, compared with 526,000 in July. The unemployment rate rose to 3.7%, from 3.5% in July.
+Pennsylvania’s midterm elections carry high stakes. Democrats have a rare chance to flip a Senate seat. Republicans are set to restrict abortion if they win the governor’s office. Underlining the state’s importance, President Joe Biden will have travelled there three times in a week come Monday. Not to be outdone, on Saturday Donald Trump will hold a rally near Mr Biden’s hometown of Scranton.
 
-Labour-market conditions are likely to determine whether the Fed increases rates by half or three-quarters of a percentage point in September. Its task is a balancing act: raise rates high and fast enough to temper jobs and wage growth, without triggering mass lay-offs and tipping the economy into recession. A loosening jobs market suggests a softer landing.
+Endorsed by Mr Trump, the Republican candidates look [like liabilities](https://www.economist.com/graphic-detail/2022/08/24/donald-trumps-endorsements-are-reshaping-the-republican-party). Mehmet Oz, a celebrity television doctor running for the Senate, has been roasted for an out-of-touch ad lamenting that inflation had made crudités unaffordable. Doug Mastriano, a hard-right state legislator vying for the governorship, peddles the lie that the 2020 election was stolen. He says he will make voters re-register, to crack down on (non-existent) widespread fraud, a proposition that conflicts with federal law. The two candidates won over Mr Trump. Polls suggest they are struggling to do the same with Pennsylvanians. 
 
-## Iraq’s violent political deadlock
+## The European energy rollercoaster
 
-Include me in your government, or face an intra-Shia civil war. That seems to be the message of Muqtada al-Sadr, an influential cleric, whose supporters have been [clashing this week with](https://www.economist.com/middle-east-and-africa/2022/08/31/iraqs-political-deadlock-turns-violent) rival Shia factions in the administrative district of Baghdad, the capital, and beyond. At stake is who heads the government. For now parties allied with Iran and their many militias dominate parliament and hold a veto over the formation of a new administration. The judiciary appears to have their back, too. That is blocking the ambitions of Mr Sadr’s nationalist movement, which emerged as the biggest bloc from last year’s election but which has withdrawn its MPs.
+Over the past two weeks energy traders have watched in disbelief as European gas and electricity markets [exploded](https://www.economist.com/finance-and-economics/2022/09/01/europe-scrambles-to-protect-consumers-against-dizzying-energy-prices). Gas futures for the fourth quarter of 2022 briefly touched €350 ($350) per megawatt-hour (the typical pre-pandemic price was around €30). French daytime power—particularly expensive because demand is highest during the day—hit more than €2,500. For comparison, the running costs of a nuclear plant, of which France has many although most are [closed for maintenance](https://www.economist.com/europe/2022/07/28/frances-nuclear-plants-are-going-down-for-repairs), are about €30 per MWh. The price bubble deflated, but settled at still-alarming levels, of €250 per MWh for gas and €1,750 for French daytime power. 
 
-Although Baghdad has calmed, fighting continues in Basra, Iraq’s second city and gateway for the country’s oil supply. And Mr Sadr could yet mobilise his forces should he be excluded from the process of forming a government. Millions of angry and dispossessed Iraqis would heed his call to rise up against Baghdad’s oil-rich elite.
+Where next for European energy prices? Germany’s decision on whether to keep its [remaining three nuclear plants](https://www.economist.com/europe/2022/01/08/why-germans-remain-so-jittery-about-nuclear-power) open beyond December is due soon, and France is working on restarting more of its plants. Luckily Russia’s closure of the Nord Stream 1 pipeline to Germany on August 31st, supposedly for maintenance, barely moved markets. The impact of Russia’s attempts at energy blackmail may be weakening. 
 
-## Gadgets galore, and you can even touch them
+## Mikhail Gorbachev’s divided legacy
 
-The Internationale Funkausstellung, otherwise known as the IFA, opens its doors in Berlin on Friday. Europe’s biggest annual technology show is being held in person for the first time since the start of the pandemic. It is mainly a platform for manufacturers to show off the latest in consumer electronics. 
+In the West Mikhail Gorbachev, who [died this week](https://www.economist.com/obituary/2022/08/30/mikhail-gorbachev-did-not-mean-the-soviet-union-to-end-that-way), is heralded as an [idealistic reformer](https://www.economist.com/leaders/2022/08/31/mikhail-gorbachev-liberated-millions-even-if-he-didnt-set-out-to). But elsewhere the Soviet Union’s final leader was less esteemed. Many Russians blame him for the economic and social chaos that followed the Soviet Union’s collapse. Vladimir Putin, Russia’s president, pointedly skipped his funeral on Saturday, which had only “elements” of a state ceremony. 
 
-Thus, with the football World Cup looming in November, ever-higher resolution televisions will be much in evidence. LG is due to unveil the largest ever OLED TV screen, at a whopping 97 inches. Other gadgets are likely to include a “smart” toilet developed by Samsung, which neutralises human waste, as well as shoe cases that do the same for the odour of smelly feet. There will be new smartphones too, but not the 14th iteration of the iPhone. Apple shuns such trade shows. It will launch the device at its own event, on September 7th in Silicon Valley.
+In other ex-Soviet states Mr Gorbachev is a controversial figure. After supporting Russia’s annexation of Crimea in 2014, he was banned from Ukraine for five years. The nuclear disaster in Chernobyl, in northern Ukraine, occurred a year into his tenure as general secretary; its scars still run deep. Under his watch hundreds of pro-independence protesters were killed in crackdowns in Azerbaijan, Georgia, Kazakhstan, Latvia and Lithuania. The latter’s foreign minister says he “will not glorify” the Soviet leader. Mr Gorbachev’s reforms helped lift the Iron Curtain; his death shows how differently eastern and western Europe remember him. 
 
-## Germany’s trade figures fail to lift the gloom
+## Seoul’s art scene fairs well
 
-In May Germany recorded only a small trade surplus of €900m ($899m). Exports recovered in June, thanks to increased demand from America and China, and Germany notched up a (seasonally adjusted) surplus of €6.2bn. But that fell to €5.4bn in July, according to figures published on Friday by Destatis, Germany’s statistics agency. 
+One of the world’s biggest and trendiest art events opened to the public on Saturday in South Korea’s capital. VIPs in Seoul got a special viewing of [Frieze’s first Asian fair](https://www.economist.com/culture/2022/09/01/one-of-the-worlds-most-important-art-fairs-comes-to-south-korea) on Friday night. Talk of new exhibitions and agents’ percentages filled the air as gallerists, critics and collectors chatted and struck deals in Korean, English, Italian and Mandarin. 
 
-The decline, however modest, will only add to the gloomy mood amongst exporters. Sky-high energy prices, supply-chain bottlenecks and the rising cost of raw materials are all worries. The Ifo Institute, a German think-tank, produces an index of exporter expectations; it fell for the third consecutive month in August.
+Frieze’s arrival in South Korea is something of a coming-out party. Seoul’s reputation in the art world has been steadily growing; foreign galleries have arrived and young local enthusiasts have been buying lots of art. The fair will also test Seoul’s ability to rival Hong Kong as an Asian centre of the art world. Over the past 30 years South Korea’s star has risen dramatically. But with only 2% of global sales of post-war art, it still has some way to go. 
 
-For some companies the cost of production has become so burdensome that they are forced to reject or cancel orders, according to a recent survey by FTI-Andersch, a consultancy. Firms are reluctant to pass on increased costs to customers. And with energy prices and other production costs still high, the winter months are likely to be tougher still. 
+## Weekend profile: Liz Truss, Britain’s likely next prime minister
 
-## Lord of the Dollars
+If Rishi Sunak becomes [leader of the Conservative Party](https://www.economist.com/britain/2022/07/21/the-choice-between-rishi-sunak-and-liz-truss) on September 5th, it will be the greatest upset for the political polling industry since Donald Trump beat Hillary Clinton to win the American presidency in 2016. At present Liz Truss appears overwhelmingly likely to win the poll of Conservative members and succeed Boris Johnson as the party’s leader—and with it become [Britain’s prime minister](https://www.economist.com/leaders/2022/08/18/what-kind-of-prime-minister-will-britain-get). Betting markets imply she has a 95% chance of prevailing. Who is she?
 
-Streaming companies deploy several strategies to drum up interest. One is to throw lots of money at new projects. Another is to talk about how much money is being thrown. Enter “The Lord of the Rings: The Rings of Power”, a television series released on Amazon Prime in most countries on Friday. Reportedly the most expensive series ever made, the first season alone has a rumoured price tag of $465m. 
+Ms Truss is one of the most experienced members of the British government. First elected in 2010, she joined the cabinet as agriculture secretary in 2014 under David Cameron. She continued at the top table under Mr Cameron’s successors, holding the posts of justice secretary, chief secretary to the Treasury, trade secretary and most recently foreign secretary.
 
-Despite Amazon’s seemingly bottomless coffers, the tech company’s streaming service has repeatedly disappointed. “The Lord of the Rings” is pure spectacle, featuring an ensemble of elves, humans and hobbits exploring sweeping vistas. But the show also risks losing itself in its expensive theatrics. For the series to achieve Amazon’s dream of winning a “giant, global audience”, it will have to make viewers care about the characters. After all, the idea behind the success of the original is simple: the power of ordinary people to confront evil. 
+She has adopted the mantle of her hero, Margaret Thatcher. Her overriding priority is improving Britain’s low productivity through a combination of [tax cuts and regulatory reform](https://www.economist.com/britain/2022/08/18/parsing-the-policies-of-liz-truss-and-rishi-sunak). She plans to cut payroll taxes and cancel a planned raise in corporation tax. Ms Truss brushes aside warnings that fiscal loosening would be inflationary. 
 
-## Daily quiz
+A large part of her appeal to Tory members is a [relentless optimism](https://www.economist.com/britain/2021/04/08/liz-truss-and-the-power-of-perkiness). And also a loyalty to Mr Johnson who, despite being ousted by his colleagues in July after two scandal-plagued years, retains the affection of rank-and-file party members—not least for delivering Brexit. She is a forceful advocate of a new doctrine of muscular cultural conservatism in the modern Tory party: pro free speech, against revisionist historians and new gender theories.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c091b5a9ba85b3b0b2a5b3b3af80a5a3afaeafada9b3b4eea3afad">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Ms Truss’s critics regard her as an oddity and a lightweight, not least for her invocations of Thatcher’s legacy. She is best known outside of Westminster for a gawky speech delivered as agricultural secretary, pledging to open up “pork markets”. Yet she has been repeatedly underestimated—including by Mr Sunak. 
 
-<strong>Friday: </strong>Medieval alchemists tried to turn metals such as lead into which valuable substance?
+## Weekly crossword
 
-<strong>Thursday: </strong>The annual general meeting of Berkshire Hathaway, Warren Buffett’s company, is held in which American city? 
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-## The winners of last week’s crossword
+<strong>Cryptic clues </strong>
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+<em>1 down </em>Bad taste to snore like an old rock star? (7,5)
 
-Asia: <strong>Anand Mahajan</strong>, Mumbai, India
+<em>1 across </em>Stray picked up by last hitchhiker in country (6)
 
-North America:<strong> Rachel Zweig</strong>, Fayetteville, America 
+<em>2 across</em> Pernicious jerk grabs a hug and a kiss (5) 
 
-Central and South America: <strong>Jaime Jean</strong>, Mexico City, Mexico 
+<em>3 across </em>Eastern power stuck in boggy bit of territory (6) 
 
-Europe: <strong>David Powles</strong>, Paris, France 
+<strong>Factual clues</strong>
 
-Africa:<strong> Hasit Raja</strong>, Nairobi, Kenya
+<em>1 down</em> A tedious edict about tax (7,5)
 
-Oceania: <strong>Wendy Pearce</strong>, Perth, Australia 
+<em>1 across </em>Where five-times as many children should be fed meals in schools
 
-They all gave the correct answers of [gene therapy](https://www.economist.com/briefing/2022/08/25/gene-therapies-must-become-miracles-of-medicine), [Goethe](https://www.economist.com/culture/2022/08/25/revisit-the-musings-of-the-greatest-writer-in-the-german-language), [haven](https://www.economist.com/finance-and-economics/2022/08/24/western-sanctions-will-eventually-impair-russias-economy) and [yellow](https://www.economist.com/science-and-technology/2022/08/24/in-the-world-of-greenery-no-good-deed-goes-unpunished). Check back tomorrow for this week’s crossword. 
+<em>2 across </em>The type of bacteria that crabs’ blood clots around
+
+<em>3 across </em>What is not worth saving if built on lies
+
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Masnoon Bujand</strong>, Kuching, Malaysia 
+
+North America: <strong>Ina Tavena</strong>, Tucson, America
+
+Central and South America: <strong>Alejandro Jara</strong>, Santiago, Chile
+
+Europe: <strong>Steve Rayner</strong>, London, Britain
+
+Africa: <strong>Naren Narismulu,</strong> Durban, South Africa
+
+Oceania: <strong>John Wright</strong>, Auckland, New Zealand
+
+They all gave the correct answers of Juno, Utah, Sword, Omaha, Gold. The theme was the names of the D-Day landing beaches in June 1944. 
 
 ----------
 
