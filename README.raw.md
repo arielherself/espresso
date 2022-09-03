@@ -32,11 +32,11 @@ The 27-year career of <strong>Serena Williams</strong>, widely considered the gr
 
 ----------
 
-## Vying for the Keystone State
+## Chile’s constitutional referendum
 
-Pennsylvania’s midterm elections carry high stakes. Democrats have a rare chance to flip a Senate seat. Republicans are set to restrict abortion if they win the governor’s office. Underlining the state’s importance, President Joe Biden will have travelled there three times in a week come Monday. Not to be outdone, on Saturday Donald Trump will hold a rally near Mr Biden’s hometown of Scranton.
+On Sunday Chileans [vote](https://www.economist.com/the-americas/2022/07/07/chiles-new-draft-constitution-would-shift-the-country-far-to-the-left) on whether to reject or approve a new constitution. It would replace the current charter, which was drafted under a military dictatorship in 1980. The text was written by a convention of 155 representatives, assembled after protests against inequality in 2019. At 388 articles, it would be one of the world’s [longest charters](https://www.economist.com/graphic-detail/2022/07/06/countries-are-writing-ever-longer-constitutions) and include the most extensive rights enshrined in any constitution. In addition to housing, work, health care, education and sports, Chileans would have the right to abortion. Indigneous peoples would be granted autonomous territories. 
 
-Endorsed by Mr Trump, the Republican candidates look [like liabilities](https://www.economist.com/graphic-detail/2022/08/24/donald-trumps-endorsements-are-reshaping-the-republican-party). Mehmet Oz, a celebrity television doctor running for the Senate, has been roasted for an out-of-touch ad lamenting that inflation had made crudités unaffordable. Doug Mastriano, a hard-right state legislator vying for the governorship, peddles the lie that the 2020 election was stolen. He says he will make voters re-register, to crack down on (non-existent) widespread fraud, a proposition that conflicts with federal law. The two candidates won over Mr Trump. Polls suggest they are struggling to do the same with Pennsylvanians. 
+Such sweeping changes have perturbed many Chileans. Polls show that most plan to reject the draft text. Yet one factor could still upend the outcome. For the first time in a decade, voters will be fined if they do not cast a ballot. If young people turn out in droves, analysts say the constitution could yet be approved.
 
 ## The European energy rollercoaster
 
@@ -44,17 +44,19 @@ Over the past two weeks energy traders have watched in disbelief as European gas
 
 Where next for European energy prices? Germany’s decision on whether to keep its [remaining three nuclear plants](https://www.economist.com/europe/2022/01/08/why-germans-remain-so-jittery-about-nuclear-power) open beyond December is due soon, and France is working on restarting more of its plants. Luckily Russia’s closure of the Nord Stream 1 pipeline to Germany on August 31st, supposedly for maintenance, barely moved markets. The impact of Russia’s attempts at energy blackmail may be weakening. 
 
-## Mikhail Gorbachev’s divided legacy
+## A possible link between test-tube babies and higher cancer risk
 
-In the West Mikhail Gorbachev, who [died this week](https://www.economist.com/obituary/2022/08/30/mikhail-gorbachev-did-not-mean-the-soviet-union-to-end-that-way), is heralded as an [idealistic reformer](https://www.economist.com/leaders/2022/08/31/mikhail-gorbachev-liberated-millions-even-if-he-didnt-set-out-to). But elsewhere the Soviet Union’s final leader was less esteemed. Many Russians blame him for the economic and social chaos that followed the Soviet Union’s collapse. Vladimir Putin, Russia’s president, pointedly skipped his funeral on Saturday, which had only “elements” of a state ceremony. 
+In frozen-thawed embryo transfer (FET), an increasingly popular method of in vitro fertilisation, embryos are temporarily iced before being implanted in the uterus. Some evidence suggests this makes conception more likely than transferring them straight in. But children conceived using FET may also be more susceptible to cancer than those born through other means, according to a study in <em>PLOS Medicine</em>, a journal. 
 
-In other ex-Soviet states Mr Gorbachev is a controversial figure. After supporting Russia’s annexation of Crimea in 2014, he was banned from Ukraine for five years. The nuclear disaster in Chernobyl, in northern Ukraine, occurred a year into his tenure as general secretary; its scars still run deep. Under his watch hundreds of pro-independence protesters were killed in crackdowns in Azerbaijan, Georgia, Kazakhstan, Latvia and Lithuania. The latter’s foreign minister says he “will not glorify” the Soviet leader. Mr Gorbachev’s reforms helped lift the Iron Curtain; his death shows how differently eastern and western Europe remember him. 
+Some 8m children were studied across Denmark, Finland, Norway and Sweden. Almost 23,000 of them had been conceived through FET. Of that group, 48 had been diagnosed with cancer, most commonly leukaemia and tumours of the central nervous system.
 
-## Seoul’s art scene fairs well
+The number of cases is too low to prove a definitive link. And when researchers analysed all children born through IVF as one group, they found no increased cancer risk. But as more people use [assisted reproduction](https://www.economist.com/1843/2022/02/14/tinder-drove-me-to-freeze-my-eggs), further investigation of FET is warranted.
 
-One of the world’s biggest and trendiest art events opened to the public on Saturday in South Korea’s capital. VIPs in Seoul got a special viewing of [Frieze’s first Asian fair](https://www.economist.com/culture/2022/09/01/one-of-the-worlds-most-important-art-fairs-comes-to-south-korea) on Friday night. Talk of new exhibitions and agents’ percentages filled the air as gallerists, critics and collectors chatted and struck deals in Korean, English, Italian and Mandarin. 
+## The talented Patricia Highsmith
 
-Frieze’s arrival in South Korea is something of a coming-out party. Seoul’s reputation in the art world has been steadily growing; foreign galleries have arrived and young local enthusiasts have been buying lots of art. The fair will also test Seoul’s ability to rival Hong Kong as an Asian centre of the art world. Over the past 30 years South Korea’s star has risen dramatically. But with only 2% of global sales of post-war art, it still has some way to go. 
+In her final home in Switzerland, Patricia Highsmith cultivated a booze-soaked solitude. Fans still pursued her, eager to meet the author of “Strangers on a Train”, “The Talented Mr Ripley” and dozens of other haunting books, but Highsmith preferred her cats, [snails](https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer) and the people she invented on the page. “The difference between dream and reality is the true hell,” she once wrote.
+
+Yet Highsmith was once young, hopeful and sexually irresistible. “She had a staggering amount of conquests,” recounts one former female lover in “Loving Highsmith”, Eva Vitija’s new documentary about the author’s secret love life, which opens in cinemas this weekend. Drawing from diaries, notebooks and conversations with former paramours, all of them women, the film depicts a fascinating woman at odds with herself. Although Highsmith wrote “The Price of Salt” (1952), the first novel about a lesbian love affair with a happy ending (better known now as “Carol”), her own relationships left her mired in self-loathing. In the end, her most beloved companions were her typewriter and her diaries, in which she once wrote: “Writing, of course, is a substitute for the life I cannot live, am unable to live.”
 
 ## Weekend profile: Liz Truss, Britain’s likely next prime minister
 
