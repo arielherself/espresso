@@ -44,19 +44,19 @@ Over the past two weeks energy traders have watched in disbelief as European gas
 
 Where next for European energy prices? Germany’s decision on whether to keep its [remaining three nuclear plants](https://www.economist.com/europe/2022/01/08/why-germans-remain-so-jittery-about-nuclear-power) open beyond December is due soon, and France is working on restarting more of its plants. Luckily Russia’s closure of the Nord Stream 1 pipeline to Germany on August 31st, supposedly for maintenance, barely moved markets. The impact of Russia’s attempts at energy blackmail may be weakening. 
 
-## A possible link between test-tube babies and higher cancer risk
-
-In frozen-thawed embryo transfer (FET), an increasingly popular method of in vitro fertilisation, embryos are temporarily iced before being implanted in the uterus. Some evidence suggests this makes conception more likely than transferring them straight in. But children conceived using FET may also be more susceptible to cancer than those born through other means, according to a study in <em>PLOS Medicine</em>, a journal. 
-
-Some 8m children were studied across Denmark, Finland, Norway and Sweden. Almost 23,000 of them had been conceived through FET. Of that group, 48 had been diagnosed with cancer, most commonly leukaemia and tumours of the central nervous system.
-
-The number of cases is too low to prove a definitive link. And when researchers analysed all children born through IVF as one group, they found no increased cancer risk. But as more people use [assisted reproduction](https://www.economist.com/1843/2022/02/14/tinder-drove-me-to-freeze-my-eggs), further investigation of FET is warranted.
-
 ## The talented Patricia Highsmith
 
 In her final home in Switzerland, Patricia Highsmith cultivated a booze-soaked solitude. Fans still pursued her, eager to meet the author of “Strangers on a Train”, “The Talented Mr Ripley” and dozens of other haunting books, but Highsmith preferred her cats, [snails](https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer) and the people she invented on the page. “The difference between dream and reality is the true hell,” she once wrote.
 
 Yet Highsmith was once young, hopeful and sexually irresistible. “She had a staggering amount of conquests,” recounts one former female lover in “Loving Highsmith”, Eva Vitija’s new documentary about the author’s secret love life, which opens in cinemas this weekend. Drawing from diaries, notebooks and conversations with former paramours, all of them women, the film depicts a fascinating woman at odds with herself. Although Highsmith wrote “The Price of Salt” (1952), the first novel about a lesbian love affair with a happy ending (better known now as “Carol”), her own relationships left her mired in self-loathing. In the end, her most beloved companions were her typewriter and her diaries, in which she once wrote: “Writing, of course, is a substitute for the life I cannot live, am unable to live.”
+
+## Test-tube babies and cancer risks
+
+In frozen-thawed embryo transfer (FET), an increasingly popular method of in-vitro fertilisation, embryos are temporarily iced before being implanted in the uterus. Some evidence suggests this makes conception more likely than transferring them straight in. But children conceived using FET may also be more susceptible to cancer than those born through other means, according to a study in <em>PLOS Medicine</em>, a journal. 
+
+Some 8m children were studied across Denmark, Finland, Norway and Sweden. Almost 23,000 of them had been conceived through FET. Of that group, 48 had been diagnosed with cancer, most commonly leukaemia and tumours of the central nervous system.
+
+The number of cases is too low to prove a definitive link. And when researchers analysed all children born through IVF as one group, they found no increased cancer risk. But as more people use [assisted reproduction](https://www.economist.com/1843/2022/02/14/tinder-drove-me-to-freeze-my-eggs), further investigation of FET is warranted.
 
 ## Weekend profile: Liz Truss, Britain’s likely next prime minister
 
