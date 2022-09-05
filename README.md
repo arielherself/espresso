@@ -22,11 +22,11 @@ Ivan Safronov, a<strong> Russian</strong> former defence journalist, was sentenc
 
 Listen to an abridged version of the subscriber-only briefing.
 
+A judge acceded to <strong>Donald Trump’s</strong> request to appoint an independent arbiter to review documents seized by the FBI from his Florida estate. America’s former president had claimed that they were protected by [executive privilege](https://te.arielherself.xyz/the-economist-explains/2022/08/31/what-is-executive-privilege) and thus should be withheld from law enforcement. The judge noted that Mr Trump “ultimately may not be entitled to return of much of the seized property”.
+
 Israel admitted that there is a “high possibility” that <strong>Shireen Abu Aqleh</strong>, a Palestinian journalist who [died](https://te.arielherself.xyz/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) in the West Bank in May, was killed “accidently” by its army. But the military said it was impossible to definitively determine how the Al Jazeera correspondent died, arguing that Palestinian fighters were also in the area. The UN’s human rights office had previously concluded that Ms Abu Aqleh was killed by Israeli fire.
 
 A <strong>suicide bombing</strong> outside Russia’s embassy in <strong>Kabul</strong> killed six people, including two embassy staff. Russia is one of the only countries to have maintained a diplomatic mission in Afghanistan since the Taliban’s takeover [one year ago](https://te.arielherself.xyz/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago). Violence including suicide bombings, has decreased since the hardline Islamist group retook power. No organisation has yet claimed responsibility for the explosion.
-
-Voters in <strong>Chile</strong> [rejected](https://te.arielherself.xyz/the-americas/2022/09/05/common-sense-triumphs-as-chileans-reject-a-new-constitution) a <strong>new constitution</strong> intended to replace the one passed in 1980 under the military dictatorship of Augusto Pinochet. The [proposed constitution](https://te.arielherself.xyz/the-americas/2022/07/07/chiles-new-draft-constitution-would-shift-the-country-far-to-the-left) would have enshrined costly new socio-economic rights, such as requiring a universal state-run health system. But Chileans are currently more concerned about inflation and rising crime. With nearly all votes counted, around 62% opposed the change.
 
 <strong>Fact of the day:</strong> $15,000, the possible cost of a litre of horseshoe crab’s blood, a vital liquid for America’s biomedical industry. [Read the full story](https://te.arielherself.xyz/united-states/2022/09/01/in-america-crab-blood-remains-vital-for-drug-and-vaccine-making).
 
@@ -66,7 +66,7 @@ English extravagance has been driven by the Premier League’s growing revenues.
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="eabb9f8390af999a988f999985aa8f898584858783999ec4898587">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="88d9fde1f2cdfbf8faedfbfbe7c8edebe7e6e7e5e1fbfca6ebe7e5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: Which term is used for the set of cards received by a player in poker or bridge?
 
