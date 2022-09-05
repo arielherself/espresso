@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Liz Truss</strong> will replace Boris Johnson as Britain’s <strong>prime minister</strong>, after she was elected as leader of the Conservative Party. Ms Truss, the foreign secretary, beat Rishi Sunak, a former chancellor of the exchequer, in a ballot of about 170,000 [party members](https://te.arielherself.xyz/graphic-detail/2022/07/26/britains-tories-are-overwhelmingly-male-pale-and-stale), winning 57% of 140,000 votes cast. The new prime minister, a self-proclaimed Thatcherite, inherits a perilous economic situation amid record energy prices and a cost-of-living crisis.
+<strong>Liz Truss</strong> will replace Boris Johnson as Britain’s <strong>prime minister</strong>, after she was elected as leader of the Conservative Party. [Ms Truss](https://te.arielherself.xyz/britain/2022/09/05/what-kind-of-prime-minister-will-liz-truss-be), the foreign secretary, beat Rishi Sunak, a former chancellor of the exchequer, in a ballot of about 170,000 [party members](https://te.arielherself.xyz/graphic-detail/2022/07/26/britains-tories-are-overwhelmingly-male-pale-and-stale), winning 57% of 140,000 votes cast. The new prime minister, a self-proclaimed Thatcherite, inherits a perilous economic situation amid record energy prices and a cost-of-living crisis.
 
 European <strong>gas prices</strong> rose by over a third on Monday morning as markets reacted to <strong>Russia’s </strong>indefinite suspension of the Nord Stream 1 pipeline. Dutch TTF gas futures, a key benchmark, surged by 36% to €284 per megawatt hour. Meanwhile, the <strong>euro</strong> slipped below $0.99, its lowest level since 2002. On Friday Gazprom, Russia’s state-owned gas supplier, halted flows through the pipeline for an unspecified period, implausibly citing a technical fault. The announcement came mere hours after G7 countries [announced a plan to cap prices](https://te.arielherself.xyz/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices%5C) on Russian oil exports.
 
@@ -66,7 +66,7 @@ English extravagance has been driven by the Premier League’s growing revenues.
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5706223e2d12242725322424381732343839383a3e24237934383a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0d5c786477487e7d7f687e7e624d686e62636260647e79236e6260">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: Which term is used for the set of cards received by a player in poker or bridge?
 
