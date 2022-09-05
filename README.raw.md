@@ -26,7 +26,7 @@ A judge acceded to <strong>Donald Trump’s</strong> request to appoint an indep
 
 Israel admitted that there is a “high possibility” that <strong>Shireen Abu Aqleh</strong>, a Palestinian journalist who [died](https://www.economist.com/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) in the West Bank in May, was killed “accidently” by its army. But the military said it was impossible to definitively determine how the Al Jazeera correspondent died, arguing that Palestinian fighters were also in the area. The UN’s human rights office had previously concluded that Ms Abu Aqleh was killed by Israeli fire.
 
-A <strong>suicide-bombing</strong> outside Russia’s embassy in <strong>Kabul</strong> killed six people, including two embassy staff. Russia is one of the only countries to have maintained a diplomatic mission in Afghanistan since the Taliban’s takeover [one year ago](https://www.economist.com/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago). Violence including suicide bombings, has decreased since the hardline Islamist group retook power. No organisation has yet claimed responsibility for the explosion.
+<strong>Germany</strong> said it would keep two of its three remaining <strong>nuclear</strong> plants, which were all due to close by year’s end, on standby until April in the event of “crisis situations” in electricity markets. Two of Germany’s governing parties, the Social Democrats and Greens, have been under pressure to reconsider their long-held [opposition to nuclear power](https://www.economist.com/europe/2022/01/08/why-germans-remain-so-jittery-about-nuclear-power) in light of Russia’s war in Ukraine and the resulting energy crunch.
 
 <strong>Fact of the day:</strong> $15,000, the possible cost of a litre of horseshoe crab’s blood, a vital liquid for America’s biomedical industry. [Read the full story](https://www.economist.com/united-states/2022/09/01/in-america-crab-blood-remains-vital-for-drug-and-vaccine-making).
 
@@ -66,7 +66,7 @@ English extravagance has been driven by the Premier League’s growing revenues.
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="98c9edf1e2ddebe8eafdebebf7d8fdfbf7f6f7f5f1ebecb6fbf7f5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="87d6f2eefdc2f4f7f5e2f4f4e8c7e2e4e8e9e8eaeef4f3a9e4e8ea">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: Which term is used for the set of cards received by a player in poker or bridge?
 
