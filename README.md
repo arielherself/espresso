@@ -12,13 +12,13 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Liz Truss</strong> will replace Boris Johnson as Britain’s <strong>prime minister</strong>, after she was elected as leader of the Conservative Party. Ms Truss, the foreign secretary, beat Rishi Sunak, a former chancellor of the exchequer, in a ballot of about [180,000 party members](https://te.arielherself.xyz/graphic-detail/2022/07/26/britains-tories-are-overwhelmingly-male-pale-and-stale), winning 57% of the vote. The new prime minister, a self-proclaimed Thatcherite, inherits a perilous economic situation amid record energy prices and a cost-of-living crisis.
+
 European <strong>gas prices</strong> rose by over a third on Monday morning as markets reacted to <strong>Russia’s </strong>indefinite suspension of the Nord Stream 1 pipeline. Dutch TTF gas futures, a key benchmark, surged by 36% to €284 per megawatt hour. Meanwhile, the <strong>euro</strong> slipped below $0.99, its lowest level since 2002. On Friday Gazprom, Russia’s state-owned gas supplier, halted flows through the pipeline for an unspecified period, implausibly citing a technical fault. The announcement came mere hours after G7 countries [announced a plan to cap prices](https://te.arielherself.xyz/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices%5C) on Russian oil exports.
 
 <strong>Kenya’s</strong> Supreme Court upheld the result of the presidential election of August 9th, won narrowly by <strong>William Ruto</strong>. The court heard several petitions from allies of the defeated candidate, Raila Odinga, contesting the result. But the chief justice, Martha Koome, dismissed all allegations of ballot-stuffing, voter suppression and tampering with the results. Some of the evidence submitted to the court was “hot air”, she argued, sending the court on a “wild goose chase”.
 
 Voters in <strong>Chile</strong> [rejected](https://te.arielherself.xyz/the-americas/2022/09/05/common-sense-triumphs-as-chileans-reject-a-new-constitution) a <strong>new constitution</strong> intended to replace the one passed in 1980 under the military dictatorship of Augusto Pinochet. The [proposed constitution](https://te.arielherself.xyz/the-americas/2022/07/07/chiles-new-draft-constitution-would-shift-the-country-far-to-the-left) would have enshrined costly new socio-economic rights, such as requiring a universal state-run health system. But Chileans are currently more concerned about inflation and rising crime. With nearly all votes counted, around 62% opposed the change.
-
-<strong>Britons</strong> waited expectantly on Monday to discover who will replace Boris Johnson as their <strong>prime minister</strong>. The matter has been decided by a ballot of about [180,000 members](https://te.arielherself.xyz/graphic-detail/2022/07/26/britains-tories-are-overwhelmingly-male-pale-and-stale) of the Conservative Party (whose new leader inherits the running of the country). Liz Truss, the Thatcherite foreign secretary, is the overwhelming favourite to pip Rishi Sunak, a former chancellor of the exchequer, to the post.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ English extravagance has been driven by the Premier League’s growing revenues.
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d889adb1a29daba8aabdababb798bdbbb7b6b7b5b1abacf6bbb7b5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0352766a79467073716670706c4366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: Which term is used for the set of cards received by a player in poker or bridge?
 
