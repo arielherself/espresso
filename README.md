@@ -22,7 +22,7 @@ Voters in <strong>Chile</strong> [rejected](https://te.arielherself.xyz/the-amer
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Ukraine’s</strong> president, Volodymyr Zelensky, said that his country’s troops had made steady progress in their [counter-offensive](https://te.arielherself.xyz/europe/2022/09/04/russia-says-ukraines-counter-offensive-is-a-bloody-failure) against occupying Russian forces in the east and south. But he warned Europe to expect a “difficult winter” of [high fuel prices](https://te.arielherself.xyz/leaders/2022/09/01/how-to-prevent-europes-energy-crunch-spiralling-into-an-economic-crisis). Ukraine’s prime minister, Denys Shmyhal, said he was expecting €5bn ($5bn) in aid from the European Union this week, partly to help Ukrainians through the winter. On a trip to Berlin he also solicited Germany for more heavy weapons and air defence systems. 
+<strong>Ukraine’s</strong> president, Volodymyr Zelensky, said that his country’s troops had made steady progress in their [counter-offensive](https://te.arielherself.xyz/europe/2022/09/04/ukraine-is-losing-fewer-soldiers-in-its-counter-offensive-than-russia-claims) against occupying Russian forces in the east and south. But he warned Europe to expect a “difficult winter” of [high fuel prices](https://te.arielherself.xyz/leaders/2022/09/01/how-to-prevent-europes-energy-crunch-spiralling-into-an-economic-crisis). Ukraine’s prime minister, Denys Shmyhal, said he was expecting €5bn ($5bn) in aid from the European Union this week, partly to help Ukrainians through the winter. On a trip to Berlin he also solicited Germany for more heavy weapons and air defence systems. 
 
 At least ten people were stabbed to death in <strong>Saskatchewan</strong>, a province in central <strong>Canada</strong>. The victims, including 15 injured, were found in several locations in the James Smith Cree Nation, an indigenous community, and the nearby village of Weldon. Two suspects, both men in their thirties with the same surname, are on the run. The motivation for the attacks is unclear.
 
@@ -36,7 +36,7 @@ A bill curtailing the powers of <strong>Sri Lanka’s president</strong> is expe
 
 ## Britain’s new prime minister
 
-The identity of Britain’s next prime minister will be revealed on Monday. Following a ballot of the Conservative Party’s roughly 180,000-odd members, the winner of the party’s leadership contest will be announced. All the polling suggests Liz Truss, the current foreign secretary, will defeat Rishi Sunak, her rival, and thus become prime minister on Tuesday. 
+On Monday Britain’s Conservative Party announced that following a ballot of its 180,000-odd members, its new leader is Liz Truss, the current foreign secretary. Ms Truss won 57% of the vote, a smaller than expected majority, to defeat Rishi Sunak, a former chancellor of the exchequer. She will thus become prime minister on Tuesday.
 
 Ms Truss promises a big pivot in economic policy, with a package of deficit-funded tax cuts and a big hike to defence spending. She is not concerned that her proposals benefit the wealthiest. A focus on distributional effects over growth is to blame for Britain’s low growth, she reasons. It is a political gamble: this winter, Britons will see their energy bills jump as a result of a [Europe-wide energy crunch](https://te.arielherself.xyz/leaders/2022/09/01/how-to-prevent-europes-energy-crunch-spiralling-into-an-economic-crisis). While instinctively averse to what she calls “handouts”, on Sunday Ms Truss nonetheless promised that within a week of taking office she would offer a package of help for people [struggling to pay their bills](https://te.arielherself.xyz/britain/2022/08/26/energy-bills-in-britain-are-soaring). Tories may delight in her small-state instincts, but most Britons expect something big, and fast.
 
@@ -66,7 +66,7 @@ English extravagance has been driven by the Premier League’s growing revenues.
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0352766a79467073716670706c4366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="adfcd8c4d7e8dedddfc8dedec2edc8cec2c3c2c0c4ded983cec2c0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: Which term is used for the set of cards received by a player in poker or bridge?
 
