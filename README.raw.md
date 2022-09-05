@@ -12,107 +12,63 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Ukraine’s</strong> president, Volodymyr Zelensky, said that his country’s troops had made steady progress in their [counter-offensive](https://www.economist.com/europe/2022/09/04/russia-says-ukraines-counter-offensive-is-a-bloody-failure) against occupying Russian forces in the east and south. But he warned Europe to expect a “difficult winter” of [high fuel prices](https://www.economist.com/leaders/2022/09/01/how-to-prevent-europes-energy-crunch-spiralling-into-an-economic-crisis). Ukraine’s prime minister, Denys Shmyhal, said he was expecting €5bn ($5bn) in aid from the European Union this week, partly to help Ukrainians through the winter. On a trip to Berlin he also solicited Germany for more heavy weapons and air defence systems. 
+European <strong>gas prices</strong> rose by over a third on Monday morning as markets reacted to <strong>Russia’s </strong>indefinite suspension of the Nord Stream 1 pipeline. Dutch TTF gas futures, a key benchmark, surged by 36% to €284 per megawatt hour. Meanwhile, the <strong>euro</strong> slipped below $0.99, its lowest level since 2002. On Friday Gazprom, Russia’s state-owned gas supplier, halted flows through the pipeline for an unspecified period, implausibly citing a technical fault. The announcement came mere hours after G7 countries [announced a plan to cap prices](https://www.economist.com/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices%5C) on Russian oil exports.
 
-Voters in <strong>Chile</strong> rejected a <strong>new constitution</strong> intended to replace the one passed in 1980 under the military dictatorship of Augusto Pinochet. The [proposed constitution](https://www.economist.com/the-americas/2022/07/07/chiles-new-draft-constitution-would-shift-the-country-far-to-the-left) would have enshrined costly new socio-economic rights, such as requiring a universal state-run health system. But Chileans are currently more concerned about inflation and rising crime. With nearly all votes counted, around 62% opposed the change.
+<strong>Kenya’s</strong> supreme court upheld the result of the presidential election of August 9th, won narrowly by <strong>William Ruto</strong>. The court heard several petitions from allies of the defeated candidate, Raila Odinga, contesting the result. But the chief justice, Martha Koome, dismissed all allegations of ballot-stuffing, voter suppression and tampering with the results. Some of the evidence submitted to the court was “hot air”, she argued, sending the court on a “wild goose chase”.
 
-At least ten people were stabbed to death in Saskatchewan, a province in central <strong>Canada</strong>. The victims, including 15 injured, were found in several locations in the James Smith Cree Nation, an indigenous community, and the nearby village of Weldon. Two suspects, both men in their thirties with the same surname, are on the run. The motivation for the attacks is unclear.
+Voters in <strong>Chile</strong> [rejected](https://www.economist.com/the-americas/2022/09/05/common-sense-triumphs-as-chileans-reject-a-new-constitution) a <strong>new constitution</strong> intended to replace the one passed in 1980 under the military dictatorship of Augusto Pinochet. The [proposed constitution](https://www.economist.com/the-americas/2022/07/07/chiles-new-draft-constitution-would-shift-the-country-far-to-the-left) would have enshrined costly new socio-economic rights, such as requiring a universal state-run health system. But Chileans are currently more concerned about inflation and rising crime. With nearly all votes counted, around 62% opposed the change.
 
-A man who jumped to his death from a New York high-rise on Friday was confirmed as being <strong>Gustavo Arnal</strong>, the chief financial officer of the troubled <strong>Bed Bath &amp; Beyond</strong> homeware chain. The value of the firm—a favoured “[meme stock](https://www.economist.com/the-economist-explains/2021/07/06/are-meme-stocks-harmless-fun-or-a-threat-to-the-financial-old-guard)”—has fallen precipitously this year. Despite recently securing some refinancing, its future looks precarious. 
+<strong>Britons</strong> waited expectantly on Monday to discover who will replace Boris Johnson as their <strong>prime minister</strong>. The matter has been decided by a ballot of about [180,000 members](https://www.economist.com/graphic-detail/2022/07/26/britains-tories-are-overwhelmingly-male-pale-and-stale) of the Conservative Party (whose new leader inherits the running of the country). Liz Truss, the Thatcherite foreign secretary, is the overwhelming favourite to pip Rishi Sunak, a former chancellor of the exchequer, to the post.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Germany</strong> announced a €65bn ($64.7bn) <strong>relief package</strong> to help households and companies withstand soaring prices. The plan includes discounts on public transport and tax breaks for energy-intensive firms. The chancellor, Olaf Scholz, said his government had made “timely decisions” to avert [energy shortages](https://www.economist.com/europe/2022/07/21/germans-have-been-living-in-a-dream) this winter. German inflation was close to 8% in August, with prices running particularly high for groceries and energy.
+<strong>Ukraine’s</strong> president, Volodymyr Zelensky, said that his country’s troops had made steady progress in their [counter-offensive](https://www.economist.com/europe/2022/09/04/russia-says-ukraines-counter-offensive-is-a-bloody-failure) against occupying Russian forces in the east and south. But he warned Europe to expect a “difficult winter” of [high fuel prices](https://www.economist.com/leaders/2022/09/01/how-to-prevent-europes-energy-crunch-spiralling-into-an-economic-crisis). Ukraine’s prime minister, Denys Shmyhal, said he was expecting €5bn ($5bn) in aid from the European Union this week, partly to help Ukrainians through the winter. On a trip to Berlin he also solicited Germany for more heavy weapons and air defence systems. 
 
-<strong>Hamas</strong>, the militant group that rules the Gaza Strip, executed five Palestinians. Two of them had provided Israel with intelligence that led to strikes on Palestinian targets, Hamas authorities said. (The others had been convicted of murder.) The executions were the first in the Palestinian territories since 2017. Human-rights groups have criticised Hamas’s court proceedings, as well as the retention of the death penalty. 
+At least ten people were stabbed to death in <strong>Saskatchewan</strong>, a province in central <strong>Canada</strong>. The victims, including 15 injured, were found in several locations in the James Smith Cree Nation, an indigenous community, and the nearby village of Weldon. Two suspects, both men in their thirties with the same surname, are on the run. The motivation for the attacks is unclear.
 
-<strong>Donald Trump</strong> called <strong>President Joe Biden</strong> an “enemy of the state” during a rally in Pennsylvania. The former president slammed Mr Biden for the [FBI’s raid](https://www.economist.com/united-states/2022/08/09/an-fbi-raid-on-donald-trumps-home-ignites-a-political-firestorm) of his estate in Florida, calling it “one of the most shocking abuses of power by any administration in American history”. Mr Trump was in Pennsylvania to [promote two Republican candidates](https://www.economist.com/graphic-detail/2022/08/24/donald-trumps-endorsements-are-reshaping-the-republican-party) ahead of midterm elections in November. 
+A bill curtailing the powers of <strong>Sri Lanka’s president</strong> is expected to become law within a couple of weeks, the country’s foreign minister said. The constitutional amendment, which is yet to be voted on by parliament, would transfer some presidential powers, like appointing police and other public officials, to a council. Such limits are a key demand of [protesters](https://www.economist.com/asia/2022/07/09/sri-lankas-president-resigns-in-the-face-of-massive-protests). 
 
-<strong>Word of the week: </strong><em>kwichon</em>, a Korean term for the return to rural life, increasingly popular among young South Koreans. [Read the full story](https://www.economist.com/asia/2022/09/01/young-koreans-are-moving-to-the-countryside-to-farm).
+<strong>Fact of the day:</strong> $15,000, the possible cost of a litre of horseshoe crab’s blood, a vital liquid for America’s biomedical industry. [Read the full story](https://www.economist.com/united-states/2022/09/01/in-america-crab-blood-remains-vital-for-drug-and-vaccine-making).
+
+<strong>Editor&#x27;s note</strong>: <em>The Economist </em>is looking for a journalist to join its digital team in London. Applications close on September 18th. Full details [here](https://www.economist.com/news/2022/08/18/were-hiring-a-journalist-to-work-on-our-news-desk).
 
 ----------
 
-## Chile’s constitutional referendum
+## Britain’s new prime minister
 
-On Sunday Chileans [vote](https://www.economist.com/the-americas/2022/07/07/chiles-new-draft-constitution-would-shift-the-country-far-to-the-left) on whether to reject or approve a new constitution. It would replace the current charter, which was drafted under a military dictatorship in 1980. The text was written by a convention of 155 representatives, assembled after protests against inequality in 2019. At 388 articles, it would be one of the world’s [longest charters](https://www.economist.com/graphic-detail/2022/07/06/countries-are-writing-ever-longer-constitutions) and include the most extensive rights enshrined in any constitution. In addition to housing, work, health care, education and sports, Chileans would have the right to abortion. Indigneous peoples would be granted autonomous territories. 
+The identity of Britain’s next prime minister will be revealed on Monday. Following a ballot of the Conservative Party’s roughly 180,000-odd members, the winner of the party’s leadership contest will be announced. All the polling suggests Liz Truss, the current foreign secretary, will defeat Rishi Sunak, her rival, and thus become prime minister on Tuesday. 
 
-Such sweeping changes have perturbed many Chileans. Polls show that most plan to reject the draft text. Yet one factor could still upend the outcome. For the first time in a decade, voters will be fined if they do not cast a ballot. If young people turn out in droves, analysts say the constitution could yet be approved.
+Ms Truss promises a big pivot in economic policy, with a package of deficit-funded tax cuts and a big hike to defence spending. She is not concerned that her proposals benefit the wealthiest. A focus on distributional effects over growth is to blame for Britain’s low growth, she reasons. It is a political gamble: this winter, Britons will see their energy bills jump as a result of a [Europe-wide energy crunch](https://www.economist.com/leaders/2022/09/01/how-to-prevent-europes-energy-crunch-spiralling-into-an-economic-crisis). While instinctively averse to what she calls “handouts”, on Sunday Ms Truss nonetheless promised that within a week of taking office she would offer a package of help for people [struggling to pay their bills](https://www.economist.com/britain/2022/08/26/energy-bills-in-britain-are-soaring). Tories may delight in her small-state instincts, but most Britons expect something big, and fast.
 
-## The European energy rollercoaster
+## Inflation nation
 
-Over the past two weeks energy traders have watched in disbelief as European gas and electricity markets [exploded](https://www.economist.com/finance-and-economics/2022/09/01/europe-scrambles-to-protect-consumers-against-dizzying-energy-prices). Gas futures for the fourth quarter of 2022 briefly touched €350 ($350) per megawatt-hour (the typical pre-pandemic price was around €30). French daytime power—particularly expensive because demand is highest during the day—hit more than €2,500. For comparison, the running costs of a nuclear plant, of which France has many although most are [closed for maintenance](https://www.economist.com/europe/2022/07/28/frances-nuclear-plants-are-going-down-for-repairs), are about €30 per MWh. The price bubble deflated, but settled at still-alarming levels, of €250 per MWh for gas and €1,750 for French daytime power. 
+[Turkey’s economy](https://www.economist.com/briefing/2022/07/21/how-has-turkeys-economy-kept-growing-despite-raging-inflation) grew by an eye-watering 7.6% in the three months to July, compared with the same period last year. So much for the good news. While many businesses, especially exporters whose revenue comes in the form of foreign currency, have reaped the rewards of absurdly low interest rates, wage-earners are struggling. The lira has lost 27% of its value against the dollar since the start of the year, and nearly 70% since 2020. The annual inflation rate rose to 80.2% in August, according to new data released on Monday.
 
-Where next for European energy prices? Germany’s decision on whether to keep its [remaining three nuclear plants](https://www.economist.com/europe/2022/01/08/why-germans-remain-so-jittery-about-nuclear-power) open beyond December is due soon, and France is working on restarting more of its plants. Luckily Russia’s closure of the Nord Stream 1 pipeline to Germany on August 31st, supposedly for maintenance, barely moved markets. The impact of Russia’s attempts at energy blackmail may be weakening. 
+Galloping prices are one reason for the unusually high growth figures. To [hedge against inflation](https://www.economist.com/briefing/2022/07/21/how-has-turkeys-economy-kept-growing-despite-raging-inflation), middle-class Turks have been spending their earnings and savings on consumer goods, bringing forward purchases they may not be able to afford later. That is hardly a model for sustainable growth. A slowdown is imminent. 
 
-## The talented Patricia Highsmith
+## Kenya’s disputed election
 
-In her final home in Switzerland, Patricia Highsmith cultivated a booze-soaked solitude. Fans still pursued her, eager to meet the author of “Strangers on a Train”, “The Talented Mr Ripley” and dozens of other haunting books, but Highsmith preferred her cats, [snails](https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer) and the people she invented on the page. “The difference between dream and reality is the true hell,” she once wrote.
+Kenya’s presidential election, held on August 9th, looked like one of the most transparent in the country’s history. Not according to Raila Odinga, the loser, who says a convoluted conspiracy deprived him of victory. On Monday Kenya’s supreme court ruled that his allegations did not merit a new election. Judges dismissed Mr Odinga’s claims that the electoral commission’s servers were hacked to alter results in favour of his rival, William Ruto, the outgoing deputy president, who barely [won](https://www.economist.com/middle-east-and-africa/2022/08/18/william-ruto-is-declared-kenyas-next-president) enough votes to avoid a run-off. Chief Justice Martha Koome dismissed key arguments from Odinga’s lawyers as being based on “nothing more than hot air.”
 
-Yet Highsmith was once young, hopeful and sexually irresistible. “She had a staggering amount of conquests,” recounts one former female lover in “Loving Highsmith”, Eva Vitija’s new documentary about the author’s secret love life, which opens in cinemas this weekend. Drawing from diaries, notebooks and conversations with former paramours, all of them women, the film depicts a fascinating woman at odds with herself. Although Highsmith wrote “The Price of Salt” (1952), the first novel about a lesbian love affair with a happy ending (better known now as “Carol”), her own relationships left her mired in self-loathing. In the end, her most beloved companions were her typewriter and her diaries, in which she once wrote: “Writing, of course, is a substitute for the life I cannot live, am unable to live.”
+Kenyan judges are among Africa’s most independent. In 2017, amid claims of vote-rigging, they ordered a rerun of the last presidential election. Another rerun would have tested Kenya. In anticipation of the court’s ruling police were on standby for unrest.
 
-## Test-tube babies and cancer risks
+## Cristina Fernández de Kirchner in the dock
 
-In frozen-thawed embryo transfer (FET), an increasingly popular method of in-vitro fertilisation, embryos are temporarily iced before being implanted in the uterus. Some evidence suggests this makes conception more likely than transferring them straight in. But children conceived using FET may also be more susceptible to cancer than those born through other means, according to a study in <em>PLOS Medicine</em>, a journal. 
+Last Thursday a man [tried to assassinate](https://www.economist.com/the-americas/2022/09/02/cristina-fernandez-argentinas-vice-president-is-attacked) Cristina Fernández de Kirchner as she was heading back to her apartment (the gun failed to fire). He emerged from a mob of supporters who had spent days clustered on the pavement to demonstrate their support for the former president and current vice-president as she faces corruption charges.
 
-Some 8m children were studied across Denmark, Finland, Norway and Sweden. Almost 23,000 of them had been conceived through FET. Of that group, 48 had been diagnosed with cancer, most commonly leukaemia and tumours of the central nervous system.
+On Monday her [court case](https://www.economist.com/the-americas/2022/08/25/argentinas-vice-president-could-face-12-years-in-prison) begins. It will hear the defences of 13 people accused of corruption, including Ms Fernández. She is accused of leading a criminal operation between 2003 and 2015 which involved doling out inflated public works contracts to a friend at the cost of around $1bn to the state. The scheme is alleged to have begun during the presidency of Néstor Kirchner, Ms Fernández’s deceased husband, and carried on under her two terms in office. A prosecutor has requested that Ms Fernández be jailed for 12 years and barred from public office (Ms Fernández denies all allegations). If she loses and appeals, the case could wind on for years.
 
-The number of cases is too low to prove a definitive link. And when researchers analysed all children born through IVF as one group, they found no increased cancer risk. But as more people use [assisted reproduction](https://www.economist.com/1843/2022/02/14/tinder-drove-me-to-freeze-my-eggs), further investigation of FET is warranted.
+## English football clubs look to conquer Europe
 
-## Weekend profile: Liz Truss, Britain’s likely next prime minister
+Europe’s elite football competitions kick off this week. Over the past ten seasons English clubs have won the Champions League, Europe’s most prestigious tournament, only twice. Yet this season Manchester City—bolstered by the signing of Erling Haaland, Norway’s prolific striker—are the bookies’ favourite, and other English clubs are in the running too. For while football in the rest of Europe is still reeling from the pandemic, the English Premier League is in robust health. During the summer transfer window, which shut on September 1st, clubs [spent a record €2.24bn ($2.23bn](https://www.economist.com/graphic-detail/2022/09/02/footballs-transfer-window-shows-the-premier-leagues-growing-clout)) on new signings. That was close to the combined outlay by clubs in France, Germany, Italy and Spain. Despite winning the league last season, Manchester City spent some €139m, targeting the Champions League, the one trophy that has eluded the club
 
-If Rishi Sunak becomes [leader of the Conservative Party](https://www.economist.com/britain/2022/07/21/the-choice-between-rishi-sunak-and-liz-truss) on September 5th, it will be the greatest upset for the political polling industry since Donald Trump beat Hillary Clinton to win the American presidency in 2016. At present Liz Truss appears overwhelmingly likely to win the poll of Conservative members and succeed Boris Johnson as the party’s leader—and with it become [Britain’s prime minister](https://www.economist.com/leaders/2022/08/18/what-kind-of-prime-minister-will-britain-get). Betting markets imply she has a 95% chance of prevailing. Who is she?
+English extravagance has been driven by the Premier League’s growing revenues. Thanks to a new lucrative international broadcast deal, its clubs are expected to rake in more than €7bn this season, nearly twice as much as their counterparts in Spain, the next richest league. Financial clout does not guarantee footballing glory, but it certainly helps. 
 
-Ms Truss is one of the most experienced members of the British government. First elected in 2010, she joined the cabinet as agriculture secretary in 2014 under David Cameron. She continued at the top table under Mr Cameron’s successors, holding the posts of justice secretary, chief secretary to the Treasury, trade secretary and most recently foreign secretary.
+## Daily Quiz
 
-She has adopted the mantle of her hero, Margaret Thatcher. Her overriding priority is improving Britain’s low productivity through a combination of [tax cuts and regulatory reform](https://www.economist.com/britain/2022/08/18/parsing-the-policies-of-liz-truss-and-rishi-sunak). She plans to cut payroll taxes and cancel a planned raise in corporation tax. Ms Truss brushes aside warnings that fiscal loosening would be inflationary. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="86d7f3effcc3f5f6f4e3f5f5e9c6e3e5e9e8e9ebeff5f2a8e5e9eb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-A large part of her appeal to Tory members is a [relentless optimism](https://www.economist.com/britain/2021/04/08/liz-truss-and-the-power-of-perkiness). And also a loyalty to Mr Johnson who, despite being ousted by his colleagues in July after two scandal-plagued years, retains the affection of rank-and-file party members—not least for delivering Brexit. She is a forceful advocate of a new doctrine of muscular cultural conservatism in the modern Tory party: pro free speech, against revisionist historians and new gender theories.
-
-Ms Truss’s critics regard her as an oddity and a lightweight, not least for her invocations of Thatcher’s legacy. She is best known outside of Westminster for a gawky speech delivered as agricultural secretary, pledging to open up “pork markets”. Yet she has been repeatedly underestimated—including by Mr Sunak. 
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-<strong>Cryptic clues </strong>
-
-<em>1 down </em>Bad taste to snore like an old rock star? (7,5)
-
-<em>1 across </em>Stray picked up by last hitchhiker in country (6)
-
-<em>2 across</em> Pernicious jerk grabs a hug and a kiss (5) 
-
-<em>3 across </em>Eastern power stuck in boggy bit of territory (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> A tedious edict about tax (7,5)
-
-<em>1 across </em>Where five-times as many children should be fed meals in schools
-
-<em>2 across </em>The type of bacteria that crabs’ blood clots around
-
-<em>3 across </em>What is not worth saving if built on lies
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Masnoon Bujand</strong>, Kuching, Malaysia 
-
-North America: <strong>Ina Tavena</strong>, Tucson, America
-
-Central and South America: <strong>Alejandro Jara</strong>, Santiago, Chile
-
-Europe: <strong>Steve Rayner</strong>, London, Britain
-
-Africa: <strong>Naren Narismulu,</strong> Durban, South Africa
-
-Oceania: <strong>John Wright</strong>, Auckland, New Zealand
-
-They all gave the correct answers of Juno, Utah, Sword, Omaha, Gold. The theme was the names of the D-Day landing beaches in June 1944. 
+<strong>Monday</strong>: Which term is used for the set of cards received by a player in poker or bridge?
 
 ----------
 
