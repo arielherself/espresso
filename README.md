@@ -50,9 +50,9 @@ Later Mr Herzog will travel to the site of the Bergen-Belsen Nazi concentration 
 
 ## Rainbow stagnation
 
-South Africa ought to be the industrial engine of its continent. Yet its economic performance has been disappointing for a decade and a half. Though incomes grew for most people after the end of white rule in 1994, over the past ten years only the top 5% have gained in real terms. That has exacerbated already grotesque inequality. 
+South Africa ought to be the industrial engine of its continent. Yet its economic performance has been disappointing for a decade and a half. Though incomes grew for most people after the end of white rule in 1994, over the past ten years only the top 5% have gained in real terms. That has exacerbated already grotesque inequality.
 
-So when the country gets its latest GDP figures on Tuesday, for the second quarter of this year, forgive South Africans for greeting them with a shrug. The data are expected to show a continuing slow rebound from an awful two years of the pandemic. But because firms have been hindered by record [blackouts](https://te.arielherself.xyz/the-economist-explains/2022/06/29/why-the-lights-are-going-out-again-in-south-africa), due to the dysfunctional state power company, there will not be a huge surge in activity. That is what would be required to put a dent in an unemployment rate of 34%, the highest known rate in the world.
+So forgive South Africans for greeting its latest GDP figures, for the second quarter of this year, with a shrug. The economy slowed since the previous quarter in large part because firms were hindered by record [blackouts](https://te.arielherself.xyz/the-economist-explains/2022/06/29/why-the-lights-are-going-out-again-in-south-africa), due to the dysfunctional state power company, Eskom. Without reforms to the power monopolist, as well as improvements to the labour market, there will be no huge surge in activity. That is what would be required to put a dent in an unemployment rate of 34%, the highest known rate in the world.
 
 ## The end of Australia’s housing boom
 
@@ -70,7 +70,7 @@ Environmentalists loved the <em>Catalog</em>. But its most enduring impact was i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What term is used to describe a gambling strategy where the stakes are doubled till a win is achieved?
 
