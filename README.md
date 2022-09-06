@@ -18,7 +18,7 @@ America said <strong>Russia</strong> was trying to buy millions of rockets and a
 
 <strong>Juul Labs</strong> agreed in principle to pay $438.5m to 33 American states and Puerto Rico to settle allegations that it marketed its vaping products to teenagers. The e-cigarette startup, the states claimed, actively courted youth consumers although its wares were “both illegal for them to purchase and are [unhealthy…to use](https://te.arielherself.xyz/the-economist-explains/2021/09/09/how-bad-are-e-cigarettes-for-you)”. Lawsuits brought against Juul by nine other states continue, as do thousands from individual plaintiffs.
 
-The <strong>European Commission </strong>inched closer to fixing prices in the [natural-gas markets](https://te.arielherself.xyz/finance-and-economics/2022/09/01/europe-scrambles-to-protect-consumers-against-dizzying-energy-prices). The <em>Financial Times </em>reported that the EC would recommend options for an “emergency wholesale price cap”, to be observed by all member-states, along with ways to reduce demand. Meanwhile <strong>OPEC</strong> and its allies, including Russia, agreed to cut [oil production](https://te.arielherself.xyz/finance-and-economics/three-big-uncertainties-cloud-the-oil-market/21808307) in an effort to boost sagging prices. The reduction of output by 100,000 barrels per day corresponds to just 0.1% of global demand.
+The <strong>UN’s</strong> nuclear watchdog called for the “immediate establishment” of a [safety zone](https://te.arielherself.xyz/by-invitation/2022/09/06/how-to-prevent-a-crisis-at-the-zaporizhia-nuclear-power-plant-according-to-a-fukushima-veteran) around the <strong>Zaporizhia</strong> nuclear station. The [plant](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant), in Russian-held territory in southern Ukraine, has been the site of shelling for months. Last week 14 UN inspectors visited the power station; two have stayed on.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -70,7 +70,7 @@ Environmentalists loved the <em>Catalog</em>. But its most enduring impact was i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ffae8a9685ba8c8f8d9a8c8c90bf9a9c90919092968c8bd19c9092">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d283a7bba897a1a2a0b7a1a1bd92b7b1bdbcbdbfbba1a6fcb1bdbf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What term is used to describe a gambling strategy where the stakes are doubled till a win is achieved?
 
