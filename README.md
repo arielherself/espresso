@@ -18,15 +18,15 @@ The <strong>Biden administration </strong>announced that <strong>tech firms</str
 
 <strong>Ursula von der Leyen</strong>, president of the European Commission, admitted that Europeans faced “tough times” because of [sky-high energy prices](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices) caused by Russia’s manipulation of [natural gas supplies](https://te.arielherself.xyz/europe/2022/07/11/europe-is-preparing-for-russian-gas-to-be-cut-off-this-winter). Ms von der Leyen announced five proposals to ease Europe’s <strong>energy crisis</strong>, including a price cap on Russian gas and a windfall tax on energy companies, which she called a “solidarity contribution”.
 
-<strong>Cineworld Group</strong>, the world’s second-largest cinema chain, filed for <strong>bankruptcy</strong> in Texas. The firm, which is based in London, intends to restructure its $9bn in debt and lease liabilities while maintaining theatre operations. The pandemic turbocharged [at-home streaming](https://te.arielherself.xyz/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) at cinemas’ expense: Cineworld lost $2.7bn in 2020 and another $566m last year.
+Police apprehended the surviving suspect in Sunday’s<strong> stabbing spree</strong> in <strong>Saskatchewan</strong>, Canada, ending a four-day manhunt. Ten people were killed and 18 injured in the attacks in an indigenous community and nearby village. Myles Sanderson had been serving a sentence of four years and four months on assault and robbery charges when he was released on parole in February. His brother Damien was found dead on Monday.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Cineworld Group</strong>, the world’s second-largest cinema chain, filed for <strong>bankruptcy</strong> in Texas. The firm, which is based in London, intends to restructure its $9bn in debt and lease liabilities while maintaining theatre operations. The pandemic turbocharged [at-home streaming](https://te.arielherself.xyz/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) at cinemas’ expense: Cineworld lost $2.7bn in 2020 and another $566m last year.
 
 China’s president, <strong>Xi Jinping</strong>, will meet his Russian counterpart, <strong>Vladimir Putin</strong>, next week on his first foreign trip since the start of the covid-19 pandemic in 2020, according to Russia’s outgoing ambassador to China. The two are expected to meet in Samarkand, Uzbekistan, which hosts a summit of the Shanghai Co-operation Organisation, a Chinese-led talking shop focused on economic and security affairs in Asia.
 
 A judge refused <strong>Elon Musk’s </strong>request to delay the trial over his aborted acquisition of <strong>Twitter</strong>, which is due to start on October 17th. But she allowed him to include in his lawsuit recent allegations of lax data privacy by the social-media firm’s former security chief. Mr Musk claims Twitter misled him about its user numbers and other metrics, and [wants out of the purchase agreement](https://te.arielherself.xyz/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up).
-
-<strong>China’s export</strong> growth slowed as global demand weakened and domestic covid-19 lockdowns and heatwaves [hit production](https://te.arielherself.xyz/the-economist-explains/2022/09/06/will-chinas-economy-ever-overtake-americas). Exports increased by 7.1% year on year in August, compared with 18% in July. Import growth was also sluggish because of tepid domestic demand. Asian stockmarkets slumped in response. The MSCI index of Asia-Pacific shares fell to its lowest level in two years.
 
 <strong>Fact of the day:</strong> €65bn, the minimum cost of Germany’s energy-bill relief package, equivalent to 1.8% of the country’s GDP. [Read the full story](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices).
 
@@ -65,7 +65,7 @@ On Wednesday the unlikely stockmarket star will deliver its quarterly earnings r
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0b5a7e62714e787b796e7878644b6e686465646662787f25686466">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What term is used to describe a gambling strategy where the stakes are doubled till a win is achieved?
 
