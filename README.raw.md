@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Queen Elizabeth II</strong>, who is 96, has been placed under “medical supervision” by doctors concerned about her health. Her eldest son and heir, Charles, Prince of Wales, and other members of the royal family have travelled to Balmoral Castle in Scotland where she is currently residing. On Tuesday the queen received Liz Truss, the 15th prime minister of Britain during her reign, and invited her to form a new government.
+Buckingham Palace announced the death of <strong>Queen Elizabeth II</strong> at the age of 96. The palace said that the queen had died peacefully at Balmoral Castle in Scotland. Elizabeth was Britain’s oldest and longest-reigning monarch. She was crowned on June 2nd 1953 and led Britain, and the Commonwealth, through a period of intense change. Prince Philip, the Queen’s husband of 73 years, died in April 2021. Her eldest son, Charles, the Prince of Wales, has succeeded her.
 
 The <strong>European Central Bank</strong> raised <strong>interest rates</strong> by 0.75 percentage points for the first time on record, in an effort to curb soaring prices. Annual inflation in the euro area reached 9.1% in August, the highest ever, and continues to be driven up by the rising cost of energy and food. The ECB also revised its inflation expectations upwards.
 
@@ -66,7 +66,7 @@ What is behind this marionette mania? Perhaps the rise of AI, since Pinocchio is
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="beefcbd7c4fbcdceccdbcdcdd1fedbddd1d0d1d3d7cdca90ddd1d3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What is the term for the smallest unit of information in a computer?
 
