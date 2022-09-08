@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Buckingham Palace announced the death of <strong>Queen Elizabeth II</strong> at the age of 96. The palace said that the queen [had died](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) peacefully at Balmoral Castle in Scotland. Elizabeth was Britain’s [oldest and longest-reigning monarch](https://te.arielherself.xyz/leaders/2022/09/08/the-death-of-elizabeth-ii-marks-the-end-of-an-era). She was crowned on June 2nd 1953 and led Britain, and the Commonwealth, through a [period of intense change](https://te.arielherself.xyz/briefing/2022/09/08/britains-longest-serving-ruler-strengthened-the-monarchy). Prince Philip, the Queen’s husband of 73 years, died in April 2021.
+Buckingham Palace announced the death of <strong>Queen Elizabeth II</strong> at the age of 96. The palace said that the queen [had died](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) peacefully at Balmoral Castle in Scotland. Elizabeth was Britain’s [oldest and longest-reigning monarch](https://te.arielherself.xyz/leaders/2022/09/08/the-death-of-elizabeth-ii-marks-the-end-of-an-era). She was crowned on June 2nd 1953 and led Britain, and the Commonwealth, through a [period of intense change](https://te.arielherself.xyz/briefing/2022/09/08/britains-longest-serving-ruler-strengthened-the-monarchy). Prince Philip, the Queen’s husband of 73 years, died in April 2021. Her funeral will take place in ten days’ time.
 
 The queen’s eldest son, <strong>Charles</strong>, has succeeded her as monarch. In a statement King Charles III said his mother&#x27;s death was a “moment of the greatest sadness”, and that the royal family would be “comforted and sustained” by its “knowledge of the respect and deep affection” in which the queen was held. Liz Truss, whom the queen appointed as prime minister only two days ago, called Elizabeth “the rock on which modern Britain was built.”
 
@@ -66,7 +66,7 @@ What is behind this marionette mania? Perhaps the rise of AI, since Pinocchio is
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2e7f5b47546b5d5e5c4b5d5d416e4b4d41404143475d5a004d4143">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What is the term for the smallest unit of information in a computer?
 
