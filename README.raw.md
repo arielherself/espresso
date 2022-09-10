@@ -38,19 +38,19 @@ The war took a [dramatic turn](https://www.economist.com/europe/2022/09/08/ukrai
 
 Ukrainian forces took the key rail junction at Kupyansk on Saturday and reports suggest they also liberated Izyum nearby. Russia claims that the collapse of its line represents a “regroup” before launching a new attack further south in Donetsk province. But Russian military bloggers tracking the war describe panic and confusion. On Thursday Volodymyr Zelensky, Ukraine’s president, said that his armies had liberated 1,000 square kilometres in the north-eastern Kharkiv province as well as the southern Kherson province, where progress has been slower.
 
-## Canada’s Conservatives to pick a polite populist
+## Memorialising 9/11
 
-On Saturday it is the turn of Canada’s Conservative Party to choose a new leader. The favourite is [Pierre Poilievre](https://www.economist.com/the-americas/2022/06/09/canadas-trump-is-politer-than-the-real-thing), a boyish member of Parliament. His take-no-prisoners, Trumpian style helped the party quadruple its membership since the end of 2021.
+On Sunday Americans will mark the 21st anniversary of the attacks of September 11th, in which 19 terrorists from al-Qaeda killed nearly 3,000 people. President Joe Biden plans to lay a wreath at the Pentagon, while the first lady, Jill Biden, will speak at the Flight 93 National Memorial in Shanksville, Pennsylvania. Kamala Harris, the vice-president, is to attend a ceremony in lower Manhattan. The sombre occasion may remind many not only of the shock, fear and sorrow of that day but also of the solidarity and patriotism that followed—a poignant contrast to the division today. 
 
-Though his populist combativeness may win him the leadership, it will be a harder sell with Canadians at large. Most feel there is too much nasty partisanship in politics. Yet it is wrong to pigeonhole Mr Poilievre as a hard right-winger. Though he supported the [trucker convoy](https://www.economist.com/the-economist-explains/2022/02/07/will-ottawas-state-of-emergency-quell-protests-against-vaccine-mandates) that paralysed Canada’s capital in February, he doesn’t pander to social conservatives. He says that he will not restrict access to abortion and that life should be made easier for immigrants.
+  
+ Americans’ focus on Islamic extremism has given way to fears of violence from [homegrown political radicals](https://www.economist.com/united-states/2022/08/06/the-insurrection-failed-what-now-for-americas-far-right). Nearly half of Democrats and Republicans regard members of the opposition party as enemies, according to a recent CBS News poll, and close to two-thirds of Americans expect [political violence](https://www.economist.com/podcasts/2022/08/26/is-america-entering-a-new-era-of-political-violence) to increase in coming years. There is much to reflect upon.
 
-His first order of business will be keeping a diffuse caucus intact. Some moderate Conservatives are talking of splintering off to occupy a middle ground that many feel Canada’s Liberals, under Justin Trudeau, the prime minister, has abandoned by allying themselves with the left-leaning New Democrats. A big job awaits.
+## Sweden’s far right reaches for power
 
-## What to expect from Charles III
+Sweden’s biggest crisis this autumn is the one all of Europe faces: [rocketing energy prices](https://www.economist.com/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices). Yet campaigning ahead of the country’s general election on Sunday has been dominated by immigration, segregation and crime. That favours the [far-right Sweden Democrats](https://www.economist.com/europe/2020/11/26/how-long-will-swedens-nationalists-be-excluded-from-power) (SD), a populist party that has spent years shedding its neo-Nazi roots. This could be the year it gets a share of power. Centre-right parties, who long shunned the SD, are now willing to form a government relying on its support (though not including it). 
 
-[King Charles III](https://www.economist.com/britain/2022/09/09/what-will-charles-do-now) has had decades to prepare for accession to the British throne, which will be formally proclaimed by the so-called Accession Council on Saturday morning. Yet despite that run-up, no one really knows what his reign will mean for the royal family, or for Britain. For kings, like stocks, past success is no guide to future performance. [The queen’s reign epitomised stability](https://www.economist.com/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown): everything about her, from her low-heeled loafers to her restrained emotions, showed a striking consistency. 
-
-In some ways Charles will be a [continuation](https://www.economist.com/the-economist-explains/2021/10/22/british-royal-succession-queen-elizabeth) of this. His emotions, however, are more mercurial and, for the monarchy, often far too close to the surface. He has complained in particular about his childhood, earning him the moniker “Prince of Wails”. Charles may also make more political noise than did his [scrupulously neutral mother](https://www.economist.com/briefing/2022/09/08/britains-longest-serving-ruler-strengthened-the-monarchy). He is already notorious for pushing his many opinions, on everything from modern architecture to industrial farming. But as king, he must know that his success will be judged by the yardstick of [hospital visits and school openings](https://www.economist.com/britain/2022/09/08/how-britain-has-changed-since-elizabeth-ii-was-crowned-in-1953). In this, he is likely to excel. Previous heirs to the British throne were wayward or drunken; close aides say Charles works “like a Trojan”.
+  
+ Yet the polls suggest the right will win too few seats to form a government. The mighty Social Democrats, long the party of power, have done well under [Magdalena Andersson](https://www.economist.com/europe/2022/01/22/the-nordic-left-is-back-in-charge), who became Sweden’s first female prime minister when she took over in November. She has a good chance of forming a coalition with the crucial Centre Party. But to keep her job, she might also need to lean on the leftmost party, the aptly named Left.
 
 ## Can Bollywood escape its funk?
 
@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>The “cleanest shirt in the laundry basket” (6)
 
-Email all four answers by 9am BST on Monday to cross[[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
 
 ## The winners of this week’s quiz
 
