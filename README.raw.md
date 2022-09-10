@@ -32,31 +32,29 @@ The <strong>World Bank</strong> put the cost of [rebuilding](https://www.economi
 
 ----------
 
+## Memorialising 9/11
+
+On Sunday Americans will mark the 21st anniversary of the attacks of September 11th, in which 19 terrorists from al-Qaeda killed nearly 3,000 people. President Joe Biden plans to lay a wreath at the Pentagon, while the first lady, Jill Biden, will speak at the Flight 93 National Memorial in Shanksville, Pennsylvania. Kamala Harris, the vice-president, is to attend a ceremony in lower Manhattan. The sombre occasion may remind many not only of the shock, fear and sorrow of that day but also of the solidarity and patriotism that followed—a poignant contrast to the division today. 
+
+Americans’ focus on Islamic extremism has given way to fears of violence from [homegrown political radicals](https://www.economist.com/united-states/2022/08/06/the-insurrection-failed-what-now-for-americas-far-right). Nearly half of Democrats and Republicans regard members of the opposition party as enemies, according to a recent CBS News poll, and close to two-thirds of Americans expect [political violence](https://www.economist.com/podcasts/2022/08/26/is-america-entering-a-new-era-of-political-violence) to increase in coming years. There is much to reflect upon.
+
+## Sweden’s far right reaches for power
+
+Sweden’s biggest crisis this autumn is the one all of Europe faces: [rocketing energy prices](https://www.economist.com/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices). Yet campaigning ahead of the country’s general election on Sunday has been dominated by immigration, segregation and crime. That favours the [far-right Sweden Democrats](https://www.economist.com/europe/2020/11/26/how-long-will-swedens-nationalists-be-excluded-from-power) (SD), a populist party that has spent years shedding its neo-Nazi roots. This could be the year it gets a share of power. Centre-right parties, who long shunned the SD, are now willing to form a government relying on its support (though not including it). 
+
+Yet the polls suggest the right will win too few seats to form a government. The mighty Social Democrats, long the party of power, have done well under [Magdalena Andersson](https://www.economist.com/europe/2022/01/22/the-nordic-left-is-back-in-charge), who became Sweden’s first female prime minister when she took over in November. She has a good chance of forming a coalition with the crucial Centre Party. But to keep her job, she might also need to lean on the leftmost party, the aptly named Left.
+
 ## Ukraine punches back
 
 The war took a [dramatic turn](https://www.economist.com/europe/2022/09/08/ukraines-army-pierces-russian-lines-near-kharkiv) this week when Ukraine launched a fresh assault in the east of the country, on top of its week-old [offensive in the southern province of Kherson](https://www.economist.com/europe/2022/08/29/ukraine-starts-a-push-to-recapture-kherson-a-crucial-russian-occupied-city). On Tuesday Ukrainian tanks and troops sliced through a weak spot in Russian lines east of the city of Kharkiv. In the following days they encircled the town of Balakliya and moved 50km east—marking one of the most rapid advances seen since Russia invaded in February. 
 
 Ukrainian forces took the key rail junction at Kupyansk on Saturday and reports suggest they also liberated Izyum nearby. Russia claims that the collapse of its line represents a “regroup” before launching a new attack further south in Donetsk province. But Russian military bloggers tracking the war describe panic and confusion. On Thursday Volodymyr Zelensky, Ukraine’s president, said that his armies had liberated 1,000 square kilometres in the north-eastern Kharkiv province as well as the southern Kherson province, where progress has been slower.
 
-## Memorialising 9/11
+## The future of the Commonwealth
 
-On Sunday Americans will mark the 21st anniversary of the attacks of September 11th, in which 19 terrorists from al-Qaeda killed nearly 3,000 people. President Joe Biden plans to lay a wreath at the Pentagon, while the first lady, Jill Biden, will speak at the Flight 93 National Memorial in Shanksville, Pennsylvania. Kamala Harris, the vice-president, is to attend a ceremony in lower Manhattan. The sombre occasion may remind many not only of the shock, fear and sorrow of that day but also of the solidarity and patriotism that followed—a poignant contrast to the division today. 
+Of all her foreign duties, [Queen Elizabeth II](https://www.economist.com/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) attached the greatest importance to her role as head of the [Commonwealth](https://www.economist.com/international/2022/09/09/the-commonwealth-will-miss-queen-elizabeth), a voluntary club created in 1949 as a kind of post-imperial alternative under Britain’s patronage. She was widely respected, even revered, in the 56 independent countries it comprises. Since taking the [British throne in 1953](https://www.economist.com/leaders/2022/09/08/the-death-of-elizabeth-ii-marks-the-end-of-an-era), she has provided much of the glue holding together the club.
 
-  
- Americans’ focus on Islamic extremism has given way to fears of violence from [homegrown political radicals](https://www.economist.com/united-states/2022/08/06/the-insurrection-failed-what-now-for-americas-far-right). Nearly half of Democrats and Republicans regard members of the opposition party as enemies, according to a recent CBS News poll, and close to two-thirds of Americans expect [political violence](https://www.economist.com/podcasts/2022/08/26/is-america-entering-a-new-era-of-political-violence) to increase in coming years. There is much to reflect upon.
-
-## Sweden’s far right reaches for power
-
-Sweden’s biggest crisis this autumn is the one all of Europe faces: [rocketing energy prices](https://www.economist.com/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices). Yet campaigning ahead of the country’s general election on Sunday has been dominated by immigration, segregation and crime. That favours the [far-right Sweden Democrats](https://www.economist.com/europe/2020/11/26/how-long-will-swedens-nationalists-be-excluded-from-power) (SD), a populist party that has spent years shedding its neo-Nazi roots. This could be the year it gets a share of power. Centre-right parties, who long shunned the SD, are now willing to form a government relying on its support (though not including it). 
-
-  
- Yet the polls suggest the right will win too few seats to form a government. The mighty Social Democrats, long the party of power, have done well under [Magdalena Andersson](https://www.economist.com/europe/2022/01/22/the-nordic-left-is-back-in-charge), who became Sweden’s first female prime minister when she took over in November. She has a good chance of forming a coalition with the crucial Centre Party. But to keep her job, she might also need to lean on the leftmost party, the aptly named Left.
-
-## Can Bollywood escape its funk?
-
-This is a big weekend for [Bollywood](https://www.economist.com/business/2018/10/20/bollywood-helps-inspire-a-boom-in-indian-domestic-tourism), India’s Hindi-film industry. On Friday “Brahmastra: Part One—Shiva”, a mythological-adventure flick, was released in 5,000 theatres across the country, amid much hype and some trepidation. Excitement was sparked by a budget of more than $50m, making the film one of the most expensive ever produced in India, and the promise of a potentially lucrative franchise (already dubbed the “astraverse”) to follow. 
-
-The nerves come from [Bollywood’s recent struggles](https://www.economist.com/books-and-arts/2021/02/25/the-siege-of-bollywood). According to an industry tracker, of 26 releases this year, 20 have been flops, losing at least half of their investment. Before the pandemic, box-office revenues had been increasing steadily. But lockdowns weaned [Indians away from the cinemas](https://www.economist.com/christmas-specials/2021/12/18/indias-touring-cinemas-are-dying-and-being-reborn) and onto streaming services, where they have largely stayed. Bollywood now hopes to lure back viewers with big hits. “Brahmastra” could be just that, as early data suggests bumper ticket sales, potentially the highest in three years.
+Without her, the draw of the modern Commonwealth will be weaker. The club claims to have two chief aims, to strengthen democracy and to nurture economic development. Yet it has no real mechanism for enforcing the first and no big pot of cash for ensuring the second. The organisation still attracts new members (Gabon and Togo joined this year). But as its titular head [Charles III](https://www.economist.com/britain/2022/09/09/what-will-charles-do-now) could struggle to hold it together, or give it fresh relevance. He will lack the prestige of the queen, who seemed to epitomise the best qualities, of grandeur and fair play, that the British empire claimed to promote.
 
 ## Weekend profile: Shavkat Mirziyoyev, Uzbek leader with a reformist bent
 
