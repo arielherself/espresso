@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-A <strong>Ukrainian</strong> military commander said that 3,000 square kilometres of Ukrainian territory had been [reclaimed](https://www.economist.com/europe/2022/09/09/ukraine-seizes-the-initiative-in-the-east) from Russian control. On Thursday night Ukraine’s president, Volodymyr Zelensky, said that 1,000 square kilometres had been retaken since September 1st. Mr Zelensky has pledged that any prisoners of war would be treated fairly, in line with the rules of the Geneva convention. Russian troops abandoned the city of Izyum and other positions during a hasty, disorganised retreat in the Kharkiv region.
+Ukraine’s military chief, Valery Zaluzhny, announced his forces had retaken more than 3,000 square kilometres of Ukrainian territory in 11 days—vastly more than Russia had captured in several months of grinding combat since April. The recapture of two logistical hubs, Izyum and Kupyansk, has in effect ended Russia’s grand plans to seize control of the entire Donbas, Ukraine’s eastern region.
 
 In a speech after a ceremony to commemorate the 21st anniversary of the <strong>9/11 attacks</strong>, in which ​​19 terrorists from al-Qaeda [killed](https://www.economist.com/briefing/2021/09/11/how-america-wasted-its-unipolar-moment) nearly 3,000 people on American soil, President Joe Biden vowed to “never give up” in the face of terrorist threats. He also called for Americans to remember how they “came together” in the days following the carnage.
 
