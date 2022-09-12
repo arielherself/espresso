@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Sweden’s general election</strong> remained [too close to call](https://te.arielherself.xyz/europe/2022/09/12/swedens-election-remains-too-close-to-call) on Monday morning. The country’s [right-wing](https://te.arielherself.xyz/europe/2020/11/26/how-long-will-swedens-nationalists-be-excluded-from-power) opposition bloc appeared to be taking a very slim lead, reversing the trend indicated by exit polls which suggested that the ruling centre-left coalition was narrowly ahead. Even with 90% of the vote counted, a result is not expected before Wednesday.
 
-<strong>Britain’s economy</strong> grew more slowly than expected in July, preserving the risk of recession. GDP grew by 0.2% in July, a smaller increase than the median forecast of 0.4%. Growth was stagnant over the three months to July compared to the earlier three-month period. Consumer and business activity has been dampened by [soaring inflation](https://te.arielherself.xyz/britain/2022/08/11/britains-economy-is-taking-a-drubbing).
+<strong>Britain’s economy</strong> grew more slowly than expected in July. GDP grew by 0.2% in July, a smaller increase than the median forecast of 0.4%. Growth was stagnant over the three months to July compared to the previous three months. Consumer and business activity has been dampened by [soaring inflation](https://te.arielherself.xyz/britain/2022/08/11/britains-economy-is-taking-a-drubbing).
 
 <strong>New Zealand</strong> announced that it would be lifting the last of its covid-19 restrictions. Jacinda Ardern, the prime minister, said that, from Tuesday onwards, vaccine mandates and mask-wearing requirements will be dropped. Meanwhile, in <strong>Japan </strong>a senior official suggested the government may soon relax restrictions on foreign travellers, as a way to boost the [weakening yen](https://te.arielherself.xyz/finance-and-economics/2022/02/26/the-many-virtues-of-the-yen-the-rich-worlds-cheapest-currency).
 
@@ -70,7 +70,7 @@ The Emmy Awards have become a battleground in the streaming wars. Each year the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8edffbe7f4cbfdfefcebfdfde1ceebede1e0e1e3e7fdfaa0ede1e3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="eabb9f8390af999a988f999985aa8f898584858783999ec4898587">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Monday:</strong> Which series of novels, written by Stephenie Meyer, focused on the tribulations of Bella Swan, a teenager who falls in love with a vampire?
 
