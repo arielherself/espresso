@@ -42,7 +42,7 @@ Our predictions may change. The Republicans have time to catch up. And in the 20
 
 ## Joe Biden’s war on cancer
 
-It is 60 years since President John F. Kennedy gave a speech outlining America’s intention to land a man on the moon. Marking the anniversary, on Monday, [President Joe Biden](https://te.arielherself.xyz/briefing/2020/07/04/joe-biden-has-a-good-chance-of-becoming-a-surprisingly-activist-president) will set out his wish for renewed efforts on a similarly challenging endeavour—fighting cancer.
+It is 60 years since President John F. Kennedy gave a speech outlining America’s intention to land a man on the moon. Marking the anniversary, on Monday, [President Joe Biden](https://te.arielherself.xyz/briefing/2020/07/04/joe-biden-has-a-good-chance-of-becoming-a-surprisingly-activist-president) set out his wish for renewed efforts on a similarly challenging endeavour—fighting cancer.
 
 He first launched the Cancer Moonshot Initiative in 2016, as vice-president, a year after one of his sons, Beau, died of brain cancer. The scheme pledged $1.8bn in public funding over seven years to support a variety of efforts, such as improving therapeutics, detection and patient-driven care. Public funds continued to flow during Donald Trump’s administration.
 
@@ -70,7 +70,7 @@ The Emmy Awards have become a battleground in the streaming wars. Each year the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e0b195899aa59390928593938fa085838f8e8f8d899394ce838f8d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="dd8ca8b4a798aeadafb8aeaeb29db8beb2b3b2b0b4aea9f3beb2b0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Monday:</strong> Which series of novels, written by Stephenie Meyer, focused on the tribulations of Bella Swan, a teenager who falls in love with a vampire?
 
