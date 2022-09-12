@@ -12,101 +12,67 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukraine’s</strong> armed forces have retaken more than 3,000 square kilometres of territory in 11 days, mostly in their country’s north-east, and have advanced to within 50km of the border with <strong>Russia</strong>, according to General Valery Zaluzhny, their commander-in-chief. [These gains](https://te.arielherself.xyz/europe/2022/09/09/ukraine-seizes-the-initiative-in-the-east) have, in effect, ended Russia’s grand plans to seize control of the entire Donbas, Ukraine’s eastern region. Emboldened, the Ukrainians are calling for more weapons from their allies.
+<strong>Ukraine’s </strong>armed forces reportedly recaptured more than 20 towns and villages from Russian control on Sunday. In total they have retaken more than 3,000 square kilometres of territory in 11 days, mostly in their country’s north-east, and have advanced to within 50km of the border with <strong>Russia</strong>, according to General Valery Zaluzhny, their commander-in-chief<em>.</em> [These gains](https://te.arielherself.xyz/europe/2022/09/09/ukraine-seizes-the-initiative-in-the-east) have, in effect, ended Russia’s grand plans to seize control of the entire Donbas, Ukraine’s eastern region. Emboldened, the Ukrainians are calling for more weapons from their allies.
 
-<strong>Russian forces</strong>, meanwhile, have retaliated by attacking <strong>civilian infrastructure</strong> including power stations and water facilities, according to Ukrainian officials. Volodymyr Zelensky, Ukraine’s president, said that attacks against utilities in Kharkiv are meant “to deprive people of light and heat”. The Russian government has denied that, but grudgingly admitted that its troops [have been forced into retreat](https://te.arielherself.xyz/europe/2022/09/11/is-russia-on-the-run). 
+<strong>Russian forces</strong> [retaliated](https://te.arielherself.xyz/europe/2022/09/11/is-russia-on-the-run) by attacking <strong>civilian infrastructure </strong>including power stations and water facilities to deprive people of light and heat, according to Ukrainian officials. Russia denied these motivations. On Monday the mayor of Kharkiv said that power had been restored in Ukraine’s second city after millions of people were said to be disconnected in the Kharkiv and Donetsk regions on Sunday.
 
-<strong>Sweden’s general election</strong> remained too close to call on Monday morning, though the country’s right-wing opposition bloc appeared to be taking a very slim lead, reversing the trend indicated by exit polls. Even with 90% of the vote counted, a result is not expected before Wednesday. Crime and [immigration](https://te.arielherself.xyz/europe/2020/11/26/how-long-will-swedens-nationalists-be-excluded-from-power) have pushed some voters rightwards, but worries about Europe’s energy crisis could help the ruling [centre-left](https://te.arielherself.xyz/europe/2022/01/22/the-nordic-left-is-back-in-charge) coalition. 
+<strong>Sweden’s general election</strong> remained too close to call on Monday morning. The country’s [right-wing](https://te.arielherself.xyz/europe/2020/11/26/how-long-will-swedens-nationalists-be-excluded-from-power) opposition bloc appeared to be taking a very slim lead, reversing the trend indicated by exit polls which suggested that the ruling centre-left coalition was narrowly ahead. Even with 90% of the vote counted, a result is not expected before Wednesday.
 
-The coffin bearing <strong>Queen Elizabeth II</strong> reached Edinburgh, having travelled by road from Balmoral Castle. It will be flown to London on Tuesday, to lie in state at Westminster Hall for four days. The funeral for Britain’s [oldest and longest-reigning monarch](https://te.arielherself.xyz/leaders/2022/09/08/the-death-of-elizabeth-ii-marks-the-end-of-an-era) will take place on September 19th. <strong>King Charles III</strong> is to tour the United Kingdom before then. He was proclaimed as head of state of both Australia and New Zealand on Sunday. 
+<strong>King Charles III</strong> made his first visit as monarch to Parliament to hear [condolences](https://te.arielherself.xyz/leaders/2022/09/08/the-death-of-elizabeth-ii-marks-the-end-of-an-era) on behalf of the House of Commons and the House of Lords. The coffin bearing <strong>Queen Elizabeth II</strong> was taken to Edinburgh. It will be flown to London on Tuesday, to lie in state at Westminster Hall for four days. The funeral will take place on September 19th.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Australia’s</strong> minister for home affairs indicated that her country’s “<strong>significant investor visas</strong>” will be scrapped by the next budget. The SIVs, nicknamed “golden tickets”, succeeded in attracting a wealthy new class of immigrants—more than 2,000, most from China, each bringing at least A$5m ($3.4m) to invest—but also led to complaints that they devalued the nature of Australian citizenship.
+<strong>Britain’s economy</strong> grew more slowly than expected in July, preserving the risk of recession. GDP grew by 0.2% in July, a smaller increase than the median forecast of 0.4%. Growth was stagnant over the three months to July compared to the earlier three-month period. Consumer and business activity has been dampened by [soaring inflation](https://te.arielherself.xyz/britain/2022/08/11/britains-economy-is-taking-a-drubbing).
 
-America promised <strong>Sri Lanka</strong> $60m in aid to be split between fertiliser imports and humanitarian assistance. This year the country was hit by an economic crisis, which caused shortages of food, [fuel](https://te.arielherself.xyz/asia/2022/08/16/what-sri-lankas-economic-crisis-looked-like-from-the-sky) and medicines, and a constitutional crisis which culminated in the ousting of its then president, Gotabaya Rajapaksa, in July. The new president, Ranil Wickremesinghe, has promised [sweeping reforms](https://te.arielherself.xyz/asia/2022/08/16/how-sri-lankas-new-president-plans-to-revive-the-economy).
+The <strong>IMF </strong>is discussing a proposal for emergency lending to countries facing severe [food-price shocks](https://te.arielherself.xyz/leaders/2022/05/19/the-coming-food-catastrophe), according to Reuters. It would allow the IMF to provide rapid assistance to Ukraine as well as to places affected indirectly by its invasion. Some African countries have been worried about food shortages, though recently the prices of [internationally traded staples](https://te.arielherself.xyz/finance-and-economics/2022/08/22/against-expectations-global-food-prices-have-tumbled) have actually fallen.
 
-The prime minister of <strong>Greece</strong>, Kyriakos Mitsotakis, called comments by <strong>Turkey’s</strong> president, Recep Tayyip Erdogan, “unacceptable”. Mr Erdogan had suggested possible military action over disputed territory in the Aegean sea. Tensions have been rising in recent days between the neighbours, which are h[istoric rivals](https://te.arielherself.xyz/the-economist-explains/2017/12/14/why-turkey-and-greece-cannot-reconcile) but also allies in NATO. 
+<strong>New Zealand</strong> announced that it would be lifting the last of its covid-19 restrictions. Jacinda Ardern, the prime minister, said that, from Tuesday onwards, vaccine mandates and mask-wearing requirements will be dropped. Meanwhile, in <strong>Japan </strong>a senior official suggested the government may soon relax restrictions on foreign travellers, as a way to boost the [weakening yen](https://te.arielherself.xyz/finance-and-economics/2022/02/26/the-many-virtues-of-the-yen-the-rich-worlds-cheapest-currency).
 
-<strong>Word of the week:</strong> <em>kunguk</em>, the Iñupiat word for the brightness on the horizon that suggests the presence of sea ice. [Read the full story](https://te.arielherself.xyz/essay/2022/09/08/the-alaskan-wilderness-reveals-the-past-and-the-future).
+<strong>Fact of the day:</strong> 350, the weight in kilograms of a HARM missile being used by Ukraine against Russia in its current counter-offensive. [Read the full story.](https://te.arielherself.xyz/the-economist-explains/2022/09/11/what-are-harm-the-air-to-surface-missiles-destroying-russian-air-defence-radar)
 
 ----------
 
-## Remembering 9/11
+## Our model of the contest for Congress
 
-On Sunday Americans will mark the 21st anniversary of the attacks of September 11th, in which 19 terrorists from al-Qaeda killed nearly 3,000 people. President Joe Biden plans to lay a wreath at the Pentagon, while the first lady, Jill Biden, will speak at the Flight 93 National Memorial in Shanksville, Pennsylvania. Kamala Harris, the vice-president, is to attend a ceremony in lower Manhattan. The sombre occasion may remind many not only of the shock, fear and sorrow of that day but also of the solidarity and patriotism that followed—a poignant contrast to the division today. 
+On November 8th America holds elections for one-third of the Senate and all 435 members in the House. To predict the outcome, each day <em>The Economist</em>’s [election model](https://te.arielherself.xyz/interactive/us-midterms-2022/forecast/senate) runs 10,000 simulated elections based on polling, demographics, fundraising and historical results. It currently gives the Democrats a 76% chance of holding the Senate, and the Republicans a 74% chance of taking the House. 
 
-Americans’ focus on Islamic extremism has given way to fears of violence from [homegrown political radicals](https://te.arielherself.xyz/united-states/2022/08/06/the-insurrection-failed-what-now-for-americas-far-right). Nearly half of Democrats and Republicans regard members of the opposition party as enemies, according to a recent CBS News poll, and close to two-thirds of Americans expect [political violence](https://te.arielherself.xyz/podcasts/2022/08/26/is-america-entering-a-new-era-of-political-violence) to increase in coming years. There is much to reflect upon.
+A few months ago the Democrats seemed poised to lose both. But the unpopular reversal of <em>Roe v Wade</em>, and the Republicans’ selection of unimpressive Senate candidates, have damaged the Republicans’ chances. The Democrats, meanwhile, passed some legislation and may be getting a boost as inflation slows. 
 
-## Sweden’s far right reaches for power
+Our predictions may change. The Republicans have time to catch up. And in the 2020 election pollsters overestimated Democratic votes. But another factor may help the Democrats: fundraising. In nearly every tight Senate race, the Democratic candidates have received more donations than their opponents.
 
-Sweden’s biggest crisis this autumn is the one all of Europe faces: [rocketing energy prices](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices). Yet campaigning ahead of the country’s general election on Sunday has been dominated by immigration, segregation and crime. That favours the [far-right Sweden Democrats](https://te.arielherself.xyz/europe/2020/11/26/how-long-will-swedens-nationalists-be-excluded-from-power) (SD), a populist party that has spent years shedding its neo-Nazi roots. This could be the year it gets a share of power. Centre-right parties, who long shunned the SD, are now willing to form a government relying on its support (though not including it). 
+## Joe Biden’s war on cancer
 
-Yet the polls suggest the right will win too few seats to form a government. The mighty Social Democrats, long the party of power, have done well under [Magdalena Andersson](https://te.arielherself.xyz/europe/2022/01/22/the-nordic-left-is-back-in-charge), who became Sweden’s first female prime minister when she took over in November. She has a good chance of forming a coalition with the crucial Centre Party. But to keep her job, she might also need to lean on the leftmost party, the aptly named Left.
+It is 60 years since President John F. Kennedy gave a speech outlining America’s intention to land a man on the moon. Marking the anniversary, on Monday, [President Joe Biden](https://te.arielherself.xyz/briefing/2020/07/04/joe-biden-has-a-good-chance-of-becoming-a-surprisingly-activist-president) will set out his wish for renewed efforts on a similarly challenging endeavour—fighting cancer.
 
-## Ukraine punches back
+He first launched the Cancer Moonshot Initiative in 2016, as vice-president, a year after one of his sons, Beau, died of brain cancer. The scheme pledged $1.8bn in public funding over seven years to support a variety of efforts, such as improving therapeutics, detection and patient-driven care. Public funds continued to flow during Donald Trump’s administration.
 
-The war took a [dramatic turn](https://te.arielherself.xyz/europe/2022/09/08/ukraines-army-pierces-russian-lines-near-kharkiv) this week when Ukraine launched a fresh assault in the east of the country, on top of its week-old [offensive in the southern province of Kherson](https://te.arielherself.xyz/europe/2022/08/29/ukraine-starts-a-push-to-recapture-kherson-a-crucial-russian-occupied-city). On Tuesday Ukrainian tanks and troops sliced through a weak spot in Russian lines east of the city of Kharkiv. In the following days they encircled the town of Balakliya and moved 50km east—marking one of the most rapid advances seen since Russia invaded in February. 
+In February the president relaunched the initiative, setting a goal of cutting the death rate from cancer in half by 2047. Better screening of potential patients is particularly pressing after an estimated 9.4m tests were missed in 2020 because of the pandemic. The fight against cancer is a rare bipartisan issue, though the public funds committed to this moonshot effort—while large—remain far short of those spent on getting to the actual moon.
 
-Ukrainian forces took the key rail junction at Kupyansk on Saturday and reports suggest they also liberated Izyum nearby. Russia claims that the collapse of its line represents a “regroup” before launching a new attack further south in Donetsk province. But Russian military bloggers tracking the war describe panic and confusion. On Thursday Volodymyr Zelensky, Ukraine’s president, said that his armies had liberated 1,000 square kilometres in the north-eastern Kharkiv province as well as the southern Kherson province, where progress has been slower.
+## Imran Khan in court
 
-## The future of the Commonwealth
+Since he was ousted from office in April Imran Khan has become a fierce critic of Pakistan’s government. The former prime minister has staged [giant rallies](https://te.arielherself.xyz/1843/2022/08/25/on-the-comeback-trail-with-imran-khan), clamoured for fresh elections and served up intemperate speeches. That outspokenness has irritated those now in office, and brought him a barrage of criminal charges. On Monday final arguments in a critical court case resumed.  
+  
+ The former cricket star, who leads the Pakistan Tehreek-e-Insaf party, faces both contempt and [terrorism charges](https://te.arielherself.xyz/asia/2022/08/25/pakistans-government-wields-anti-terror-laws-against-imran-khan) related to a speech he made on August 20th in which he blamed police and a judge for the torture of one of his aides. 
 
-Of all her foreign duties, [Queen Elizabeth II](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) attached the greatest importance to her role as head of the [Commonwealth](https://te.arielherself.xyz/international/2022/09/09/the-commonwealth-will-miss-queen-elizabeth), a voluntary club created in 1949 as a kind of post-imperial alternative under Britain’s patronage. She was widely respected, even revered, in the 56 independent countries it comprises. Since taking the [British throne in 1953](https://te.arielherself.xyz/leaders/2022/09/08/the-death-of-elizabeth-ii-marks-the-end-of-an-era), she provided much of the glue holding together the club.
+Despite [catastrophic floods](https://te.arielherself.xyz/asia/2022/08/30/pakistan-has-been-hit-by-its-worst-floods-in-recent-memory), which have cost more than 1,000 lives and $30bn in losses, many in Pakistan remain engrossed by this political drama. If Mr Khan were convicted on any of the charges, he would be disqualified from standing for office for five years. A technicality may take him down, but his support on the streets will not be diminished.
 
-Without her, the draw of the modern Commonwealth will be weaker. The club claims to have two chief aims, to strengthen democracy and to nurture economic development. Yet it has no real mechanism for enforcing the first and no big pot of cash for ensuring the second. The organisation still attracts new members (Gabon and Togo joined this year). But as its titular head [Charles III](https://te.arielherself.xyz/britain/2022/09/09/what-will-charles-do-now) could struggle to hold it together, or give it fresh relevance. He will lack the prestige of the queen, who seemed to epitomise the best qualities, of grandeur and fair play, that the British empire claimed to promote.
+## Famine at the door in Somalia
 
-## Weekend profile: Shavkat Mirziyoyev, Uzbek leader with a reformist bent
+[Somalia](https://te.arielherself.xyz/middle-east-and-africa/2022/07/25/somalia-is-on-the-brink-of-starvation) is in the midst of a humanitarian crisis. The search for food has driven 1m Somalis from their homes and some children are dying. A technical definition of a famine is where at least 20% of households face an extreme lack of food, 30% of children are suffering from acute malnutrition, and two people for every 10,000 dying each day because of starvation or malnutrition and disease. An independent panel, composed of UN experts, members of NGOs and academics, last week decided that this threshold had not yet been met. But the situation is still dire. 
 
-When Shavkat Mirziyoyev became president of Uzbekistan in 2016, his country was a pariah in much of the democratic world. Previously Central Asia’s most populous nation had been ruled by Islam Karimov, a ruthless despot who clung to power through the Soviet Union’s collapse and his country’s independence in 1991. Although Karimov earned some goodwill among Western governments for helping military operations in neighbouring Afghanistan after 2001, that soon evaporated amid persistent allegations of corruption and rights abuses, including boiling dissidents alive and massacring anti-government protesters in the city Andijan in 2005. He even locked up his own daughter, once considered a successor. 
+Last week the UN’s humanitarian chief said that to avert a famine $1bn in new donations would be needed, on top of $1.5bn it had previously called for. Much of that first appeal has been raised. In July America [committed $476m. ](https://te.arielherself.xyz/leaders/2022/07/28/somalia-needs-urgent-help-to-avert-a-catastrophic-famine)But with an Islamist insurgency complicating relief efforts and rains next month expected yet again to fail, the help, however generous, may not come soon enough.
 
-In the six years since Mr Mirziyoyev’s ascent, Uzbekistan has undergone a [striking transformation](https://te.arielherself.xyz/asia/2021/10/23/uzbekistans-president-abolished-slave-labour-what-next). He has eased state controls on industry, media, religion and civil society, and [abolished a forced-labour system](https://te.arielherself.xyz/asia/2022/03/05/uzbekistan-has-succeeded-in-abolishing-forced-labour) for picking cotton, a major export. He has also overseen a diplomatic shift, improving ties with neighbours, [expanding links with China](https://te.arielherself.xyz/asia/2022/09/06/two-new-railway-lines-could-transform-central-asia) and repairing relations with the West. Since America’s withdrawal from Afghanistan in 2021, he has taken a lead in engaging the Taliban and in lobbying Western countries to follow suit. He will build on that legacy next week by hosting a summit of the Shanghai Co-operation Organisation, a grouping of regional powers, in the Uzbek city of Samarkand. For China’s president, Xi Jinping, it will be the [first foreign foray in two years](https://te.arielherself.xyz/china/2022/09/08/xi-jinping-will-at-last-venture-abroad-again).
+## America’s television gongs
 
-Some question Mr Mirziyoyev’s reformist credentials. He was, after all, Karimov’s prime minister for 13 years and maintains many restrictions on religion, media and civil activism. Election monitors have flagged concerns about his two presidential victories, while acknowledging progress towards fairness. In July Amnesty International called for an investigation into reports that his troops had used “unlawful force” in quelling protests against plans to change the constitutional status of Karakalpakstan, an autonomous region. Eighteen protesters died and Mr Mirziyoyev withdrew the proposal. Yet even critics acknowledge that he has revitalised the economy: it now rivals neighbouring Kazakhstan’s as the region’s most dynamic. Mr Mirziyoyev is no model liberal. But in a region long stifled by Soviet-era strongmen, he is still a breath of fresh air.
+The Emmy Awards have become a battleground in the streaming wars. Each year the combatants—notably Amazon, Apple, Disney, HBO, Hulu and Netflix—hope that by winning an armful of golden statuettes, they might also persuade subscribers that their platform hosts the best content. The prizes are to be dished out on Monday.
 
-## Weekly crossword
+[Last year](https://te.arielherself.xyz/prospero/2020/09/21/despite-a-changed-television-landscape-the-emmys-had-a-familiar-feel) the contest had a clear winner: Netflix scooped up 44 prizes, followed by HBO with 19. Netflix’s triumph was largely down to “The Crown” and [“The Queen’s Gambit”](https://te.arielherself.xyz/graphic-detail/2020/11/13/the-queens-gambit-is-right-young-chess-stars-always-usurp-the-old), which together accounted for half of the streaming service’s haul. This year it is [“Succession”](https://te.arielherself.xyz/culture/2021/10/29/the-success-of-succession-proves-the-virtue-of-hateful-characters), HBO’s flagship show, that should do well. The drama has already won ten Emmys since it first aired in 2018; it is up for 25 awards. (Look out for gongs for Best Drama Series and Best Supporting Actor.) Apple’s “Ted Lasso”, meanwhile, may continue to dominate the comedy categories. Executives and investors (and, who knows, perhaps even regular viewers) will be watching closely.
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+## Daily quiz
 
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Arab princes order seafood and hummus—but no meat or mezze—to start (5,4,2)
-
-<em>1 across </em>British prime minister adopts a little liberalism in constitution (6)
-
-<em>2 across</em> Regular zombies seem to be on the larger side? (5)
-
-<em>3 across </em>Overall, odds partially reflect a strong currency (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> Dynasty from the parched hinterland (5,2,4)
-
-<em>1 across </em>Something that can be divined from sewage (6)
-
-<em>2 across </em>Two-fifths of American adults are this (5)
-
-<em>3 across </em>The “cleanest shirt in the laundry basket” (6)
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown one winner per continent in Friday&#x27;s edition.
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Ryan Chua</strong>, Singapore 
-
-North America: <strong>Ariel Brio</strong>, San Jose, USA
-
-Central and South America: <strong>Alejandro Jara</strong>, Santiago, Chile
-
-Europe: <strong>Nina Lara Bajec, </strong>Maribor, Slovenia 
-
-Africa: <strong>Tanera Bouchet</strong>, Masvingo, Zimbabwe 
-
-Oceania: <strong>Grant Rees</strong>, Queenstown, New Zealand
-
-They all gave the correct answers of hand, martingale, stirrup, bit and Mustang. The theme is horses, which are measured in hands; martingales, stirrups and bits are all pieces of equipment; and a mustang is a feral horse.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+  
+<strong>Monday:</strong> Which series of novels, written by Stephenie Meyer, focused on the tribulations of Bella Swan, a teenager who falls in love with a vampire?
 
 ----------
 
