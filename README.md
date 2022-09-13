@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 John Foley resigned as the chairman of <strong>Peloton</strong>, the fancy exercise-bike maker he co-founded in 2012. The firm thrived during lockdown, but has [struggled since](https://te.arielherself.xyz/leaders/2022/09/01/the-tech-winners-and-losers-of-the-pandemic) people began to venture back to gyms and the outside world. Its newish chief executive, Barry McCarthy, has struggled to soothe Peloton’s woes, which include too much inventory and too little cash.
 
-The coffin of [<strong>Queen Elizabeth II</strong>](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) will be flown from Edinburgh to London on Tuesday. <strong>King Charles III</strong>, the queen’s [successor](https://te.arielherself.xyz/britain/2022/09/09/what-will-charles-do-now), will travel to Northern Ireland to meet with senior politicians and religious leaders. The queen’s funeral will take place on September 19th.
+The coffin of [<strong>Queen Elizabeth II</strong>](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) will be flown from Edinburgh to London on Tuesday. <strong>King Charles III</strong>, the queen’s [successor](https://te.arielherself.xyz/britain/2022/09/09/what-will-charles-do-now), travelled to Northern Ireland to meet with senior politicians and religious leaders. The queen’s funeral will take place on September 19th.
 
 <strong>Fact of the day: </strong>108,000, the number of barrels of oil stolen each day by thieves in Nigeria. [Read the full story](https://te.arielherself.xyz/middle-east-and-africa/2022/09/11/how-oil-rich-nigeria-failed-to-profit-from-an-oil-boom).
 
@@ -66,7 +66,7 @@ Perhat Tursun, a novelist and poet known for challenging Uyghur social norms, fi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b0e1c5d9caf5c3c0c2d5c3c3dff0d5d3dfdedfddd9c3c49ed3dfdd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="abfadec2d1eed8dbd9ced8d8c4ebcec8c4c5c4c6c2d8df85c8c4c6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which rock duo originally released the single “Seven Nation Army”?
 
