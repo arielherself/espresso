@@ -22,11 +22,11 @@ Emmanuel Macron, <strong>France’s</strong> president, said he would launch a s
 
 Listen to an abridged version of the subscriber-only briefing.
 
+American intelligence agencies accused<strong> Russia</strong> of having spent at least $300m trying to <strong>influence</strong> politicians in more than two dozen countries since 2014. If foreign parties and candidates “accept Russian money secretly, we can and we will expose it”, said an intelligence official. The Russian ambassador to one unnamed Asian country, added the official, allegedly gave millions of dollars in cash to a presidential candidate there.
+
 <strong>Canada’s</strong> prime minister, Justin Trudeau, unveiled an <strong>inflation-relief package</strong> worth C$4.5 billion ($3.43 billion) for low-income earners. Qualifying individuals and households will see their quarterly tax credit doubled and receive a C$500 top-up to a rental assistance plan. Canadian inflation was at 7.6% in July, significantly over the central bank’s 2% target.
 
 Troops from <strong>Armenia </strong>and <strong>Azerbaijan </strong>clashed along their international border. Armenian officials said that Azerbaijan had shelled their country’s forward positions and deployed drones, resulting in the deaths of at least 49 Armenian soldiers. Azerbaijan accused Armenia of performing “large-scale subversive acts” and shelling its military positions and civilian infrastructure. The Caucasian foes have fought two bloody wars over the enclave of Nagorno-Karabakh. The most recent, in 2020, ended in a humiliating [defeat](https://te.arielherself.xyz/europe/2020/11/12/a-peace-deal-ends-a-bloody-war-over-nagorno-karabakh) for Armenia.
-
-The coffin of [<strong>Queen Elizabeth II</strong>](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) was flown from Edinburgh to London. <strong>King Charles III</strong>, the queen’s [successor](https://te.arielherself.xyz/britain/2022/09/09/what-will-charles-do-now), travelled to Northern Ireland to meet with senior politicians and religious leaders. The queen’s funeral will take place on September 19th.
 
 <strong>Fact of the day: </strong>108,000, the number of barrels of oil stolen each day by thieves in Nigeria. [Read the full story](https://te.arielherself.xyz/middle-east-and-africa/2022/09/11/how-oil-rich-nigeria-failed-to-profit-from-an-oil-boom).
 
@@ -66,7 +66,7 @@ Perhat Tursun, a novelist and poet known for challenging Uyghur social norms, fi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4213372b38073132302731312d0227212d2c2d2f2b31366c212d2f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cc9db9a5b689bfbcbea9bfbfa38ca9afa3a2a3a1a5bfb8e2afa3a1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which rock duo originally released the single “Seven Nation Army”?
 
