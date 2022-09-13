@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Germany’s</strong> chancellor, Olaf Scholz, urged <strong>Russia’s</strong> president, Vladimir Putin, to withdraw troops from Ukraine and fully implement a UN-backed deal to [export grain](https://www.economist.com/the-economist-explains/2022/07/28/will-the-grain-deal-between-russia-and-ukraine-reduce-global-hunger) from Ukraine and Russia. The pair spoke by telephone for 90 minutes. The direction of the war has turned in recent days. Earlier <strong>Ukraine’s </strong>president, Volodymyr Zelensky, said the country’s troops have now reconquered 6,000 square kilometres of [previously Russian-held territory](https://www.economist.com/europe/2022/09/11/is-russia-on-the-run) in the south and east.
+<strong>Germany’s</strong> chancellor, Olaf Scholz, urged <strong>Russia’s</strong> president, Vladimir Putin, to withdraw troops from Ukraine and fully implement a UN-backed deal to export grain from Ukraine and Russia. The pair spoke by telephone for 90 minutes. The direction of the war has turned in recent days. A Ukrainian lawmaker said that at least 150,000 Ukrainians in more than 300 towns had been [liberated from Russian occupation](https://www.economist.com/europe/2022/09/11/is-russia-on-the-run).
 
 America’s three major <strong>stockmarket</strong> indices suffered their worst day since June 2020 after data showed that annual inflation in August, at 8.3%, [exceeded forecasts](https://www.economist.com/finance-and-economics/2022/09/13/despite-rosier-figures-america-still-has-an-inflation-problem). The S&amp;P 500 dropped by 4.3%, the Dow Jones Industrial Average by 3.9% and the NASDAQ Composite by 5.2%. Core prices, excluding food and energy, increased by 0.6% in August from July—twice the expected rate. That will keep pressure on the Federal Reserve as it weighs an interest-rate increase at its meeting next week.
 
@@ -66,7 +66,7 @@ Perhat Tursun, a novelist and poet known for challenging Uyghur social norms, fi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c796b2aebd82b4b7b5a2b4b4a887a2a4a8a9a8aaaeb4b3e9a4a8aa">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8ddcf8e4f7c8fefdffe8fefee2cde8eee2e3e2e0e4fef9a3eee2e0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which rock duo originally released the single “Seven Nation Army”?
 
