@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine’s </strong>president, said the country’s troops have now reconquered 6,000 square kilometres of [previously Russian-held territory](https://te.arielherself.xyz/europe/2022/09/11/is-russia-on-the-run) in the south and east, equivalent to 1% of its total landmass. On Monday night, Mr Zelensky asked Western allies for more weapons to consolidate Ukrainian gains. A spokesman from the Kremlin insisted that Vladimir Putin, Russia’s president, remains in constant contact with his generals and Russia will persist “until all the goals” of what it still calls a “special military operation” have been achieved.
+Volodymyr Zelensky, <strong>Ukraine’s </strong>president, said the country’s troops have now reconquered 6,000 square kilometres of [previously Russian-held territory](https://te.arielherself.xyz/europe/2022/09/11/is-russia-on-the-run) in the south and east. Russian intelligence officers and military commanders stationed in [Crimea](https://te.arielherself.xyz/europe/2019/06/08/crimea-is-still-in-limbo-five-years-after-russia-seized-it) have begun evacuating their families back to Russia, according to Ukrainian intelligence. A spokesman from the Kremlin insisted that Russia will persist “until all the goals” of what it still calls a “special military operation” have been achieved.
 
 <strong>America’s rate of inflation</strong> in August did not slow as much as had been expected, according to figures released on Tuesday. Year-on-year, prices rose by 8.3%, whereas analysts had forecast 8.1%. Overall prices were 0.1% higher than in July. Lower fuel prices tempered the effect. Core inflation, which excludes food and energy, increased by 0.6% in August: steeper even than the 0.3% predicted by economists. Pressure on the Federal Reserve to [raise interest rates](https://te.arielherself.xyz/graphic-detail/2022/07/27/the-fed-is-no-longer-taking-baby-steps-to-rein-in-inflation) has not gone away.
 
@@ -66,7 +66,7 @@ Perhat Tursun, a novelist and poet known for challenging Uyghur social norms, fi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d081a5b9aa95a3a0a2b5a3a3bf90b5b3bfbebfbdb9a3a4feb3bfbd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which rock duo originally released the single “Seven Nation Army”?
 
