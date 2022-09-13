@@ -22,7 +22,7 @@ Troops from <strong>Armenia </strong>and <strong>Azerbaijan </strong>clashed alo
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Stockmarkets</strong> in Europe and Asia made gains on Tuesday, with investors betting America’s soon-to-be-released inflation figures will show inflation cooling. Europe’s Stoxx 600 Index added 0.2% on Tuesday morning, rising for the fourth consecutive day; MSCI’s index of Asia-Pacific shares rose by 0.7%.
+<strong>Stockmarkets </strong>dipped in response to America’s higher-than-expected inflation figures, which increased the likelihood of another interest-rate rise. European shares slid, pushing the STOXX 600 index down by 1.7%, while Wall Street stocks opened significantly lower. Both European and Asian stockmarkets had initially made gains in the morning in anticipation of American inflation cooling.
 
 John Foley resigned as the chairman of <strong>Peloton</strong>, the fancy exercise-bike maker he co-founded in 2012. The firm thrived during lockdown, but has [struggled since](https://te.arielherself.xyz/leaders/2022/09/01/the-tech-winners-and-losers-of-the-pandemic) people began to venture back to gyms and the outside world. Its newish chief executive, Barry McCarthy, has struggled to soothe Peloton’s woes, which include too much inventory and too little cash.
 
@@ -32,7 +32,7 @@ The coffin of [<strong>Queen Elizabeth II</strong>](https://te.arielherself.xyz/
 
 ----------
 
-## Peak inflation in America?
+## America&#x27;s stubborn inflation
 
 The White House used to dread monthly [inflation](https://te.arielherself.xyz/leaders/2022/07/27/the-silver-linings-of-a-recession) reports. Each was worse than the previous one; each delivered a blow to President Joe Biden’s popularity. But that has [started to change](https://te.arielherself.xyz/finance-and-economics/2022/08/05/for-a-change-american-inflation-is-lower-than-expected). In July consumer prices remained the same as in June—the first absence of month-on-month inflation since early 2020. Figures for August, released on Tuesday, <em>revealed an incremental headline increase: inflation was up by 0.1% from July.</em>
 
@@ -66,7 +66,7 @@ Perhat Tursun, a novelist and poet known for challenging Uyghur social norms, fi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b0e1c5d9caf5c3c0c2d5c3c3dff0d5d3dfdedfddd9c3c49ed3dfdd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which rock duo originally released the single “Seven Nation Army”?
 
