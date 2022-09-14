@@ -12,21 +12,21 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>America’s stockmarkets</strong> stabilised on Wednesday after their worst day since June 2020. The previous day’s slump was prompted by data which showed that annual inflation in August [exceeded forecasts](https://www.economist.com/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem) at 8.3%. Having dropped by 4.4% on Tuesday the S&amp;P 500 was steady at market opening on Wednesday. Rising prices in America will keep pressure on the Federal Reserve as it weighs an interest-rate increase at its meeting next week.
-
 The <strong>European Commission’s</strong> president, Ursula von der Leyen, outlined plans for a windfall tax on energy companies that will aim to raise €140bn ($140bn). The levy would be used by member states to shield consumers and businesses from [sky-high](https://www.economist.com/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices) energy prices resulting from Russia’s invasion of Ukraine. Mrs von der Leyen suggested the EU was “in for the long haul” in Ukraine.
-
-<strong>California </strong>filed an antitrust lawsuit against <strong>Amazon</strong>, claiming that the e-retailer penalises merchants for selling their wares on other sites at cheaper prices. Amazon prevents price competition through “coerced agreements”, the state alleged in its complaint, and demotes merchants who fail to abide by those rules. The state attorney-general wants such contracts banned in California, where Amazon has 25m customers.
 
 <strong>Sweden’s</strong> Social Democratic prime minister, Magdalena Andersson, conceded defeat in [recent elections](https://www.economist.com/europe/2022/09/12/swedens-election-remains-too-close-to-call) and said she would resign on Thursday. According to the most recent tallies right-wing parties scored a three-seat majority. That means Ulf Kristersson of the centre-right Moderate party will lead talks between them to form a government. Once shunned by other parties, the anti-immigrant Sweden Democrats won the second-largest number of votes.
 
-Listen to an abridged version of the subscriber-only briefing.
+<strong>California </strong>filed an antitrust lawsuit against <strong>Amazon</strong>, claiming that the e-retailer penalises merchants for selling their wares on other sites at cheaper prices. Amazon prevents price competition through “coerced agreements”, the state alleged in its complaint, and demotes merchants who fail to abide by those rules. The state attorney-general wants such contracts banned in California, where Amazon has 25m customers.
 
 Volodymyr Zelensky, <strong>Ukraine’s </strong>president, promised to free all Russian-occupied territories including Crimea, the peninsula annexed by Russia in 2014. He made the comments while visiting the city of Izyum, which was liberated during Ukraine’s [recent counter-offensive](https://www.economist.com/europe/2022/09/11/is-russia-on-the-run). Meanwhile Reuters reported that Russian officials told Vladimir Putin earlier in the war that a peace deal had been struck in which Ukraine agreed not to join NATO, but that Russia’s president rejected it.
+
+Listen to an abridged version of the subscriber-only briefing.
 
 A court in <strong>St Petersburg </strong>set in motion the dissolution of a local council, after some of its members called for Mr Putin to be removed from office. One of the councillors claimed they had also been fined 47,000 roubles ($780) for “discrediting” the regime. The Russian president is under pressure at home as the war in Ukraine goes sour.
 
 <strong>Armenia </strong>claimed that <strong>Azerbaijan </strong>had restarted strikes on its territories, just a day after Russia said it had brokered a ceasefire between the [Caucasian countries](https://www.economist.com/the-economist-explains/2022/09/13/why-azerbaijan-and-armenia-are-fighting-again). Both sides claim that the truce has been broken by the other. Around 100 Armenian and 50 Azerbaijani soldiers have been killed in the fighting. The clashes are the deadliest since a [six-week war in 2020](https://www.economist.com/europe/2020/11/12/a-peace-deal-ends-a-bloody-war-over-nagorno-karabakh).
+
+<strong>America’s stockmarkets</strong> stabilised on Wednesday after their worst day since June 2020. The previous day’s slump was prompted by data which showed that annual inflation in August [exceeded forecasts](https://www.economist.com/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem) at 8.3%. Having dropped by 4.4% on Tuesday the S&amp;P 500 was steady at market opening on Wednesday. Rising prices in America will keep pressure on the Federal Reserve as it weighs an interest-rate increase at its meeting next week.
 
 <strong>Fact of the day:</strong> 350, the number of mortgage boycotts estimated to be taking place across China. [Read the full story](https://www.economist.com/finance-and-economics/2022/09/12/chinas-ponzi-like-property-market-is-eroding-faith-in-the-state).
 
@@ -66,7 +66,7 @@ In the early hours of Thursday morning a [major change](https://www.economist.co
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e7b6928e9da294979582949488a782848889888a8e9493c984888a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9acbeff3e0dfe9eae8ffe9e9f5dafff9f5f4f5f7f3e9eeb4f9f5f7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which American basketball team won successive NBA championships in 1994 and 1995?  
   
