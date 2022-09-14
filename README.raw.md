@@ -66,29 +66,11 @@ Perhat Tursun, a novelist and poet known for challenging Uyghur social norms, fi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3465415d4e714744465147475b7451575b5a5b595d47401a575b59">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2574504c5f605655574056564a6540464a4b4a484c56510b464a48">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which rock duo originally released the single “Seven Nation Army”?
 
 <strong>Monday:</strong> Which series of novels, written by Stephenie Meyer, focused on the tribulations of Bella Swan, a teenager who falls in love with a vampire?
-
-## The world in brief, September 14th 2022
-
-<strong>America’s stockmarkets</strong> suffered their worst day since June 2020 after data showed that annual inflation in August [exceeded forecasts](https://www.economist.com/finance-and-economics/2022/09/13/despite-rosier-figures-america-still-has-an-inflation-problem) at 8.3%. (Britain’s inflation came in slightly below expectations, at 9.9%.) The S&amp;P 500 dropped by 4.4% and the Dow by 3.9%. The rout extended to <strong>Asian stockmarkets </strong>on Wednesday as indices in Australia, Hong Kong and Japan all slumped. Rising prices in America will keep pressure on the Federal Reserve as it weighs an interest-rate increase at its meeting next week. <strong>The dollar </strong>strengthened against the yen, almost touching a 24-year peak, as it chased yields on bond markets that expect rates to rise.
-
-<strong>Ukraine’s</strong> ambassador to America described the country’s [recent counter-offensive](https://www.economist.com/europe/2022/09/09/ukraine-seizes-the-initiative-in-the-east) against <strong>Russian</strong> forces as a “major turning-point” in the war. At least 150,000 Ukrainians in more than 300 settlements have been liberated from Russian occupation since September 6th, according to one official. On Tuesday night Olaf Scholz, Germany’s chancellor, urged Vladimir Putin, Russia’s president, to withdraw his troops from Ukraine “as soon as possible”.
-
-Nearly 100 soldiers were killed in [fighting](https://www.economist.com/the-economist-explains/2022/09/13/why-azerbaijan-and-armenia-are-fighting-again) between <strong>Armenian</strong> and <strong>Azerbaijani</strong> forces on Monday night, according to officials from both sides. The Caucasian foes blamed each other for the clashes, believed to be the deadliest since a [six-week war in 2020](https://www.economist.com/europe/2020/11/12/a-peace-deal-ends-a-bloody-war-over-nagorno-karabakh). On Tuesday Russia said it has brokered a ceasefire, with Mr Putin “making every effort” to help de-escalate tensions.
-
-<strong>Twitter</strong> shareholders voted to approve <strong>Elon Musk’s</strong> acquisition of the social-media firm for $44bn. Twitter and Mr Musk are suing each other over the entrepreneur’s attempt to [renege on the purchase agreement](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up). Next month they will test their competing claims in a Delaware court. Shortly before the vote Peiter Zatko, Twitter’s former security chief, testified before Congress about the firm’s lax privacy standards.
-
-American intelligence agencies accused<strong> Russia</strong> of having spent at least $300m trying to <strong>influence</strong> politicians [in more than two dozen countries](https://www.economist.com/briefing/2018/02/22/russian-disinformation-distorts-american-and-european-democracy) since 2014. If foreign parties and candidates “accept Russian money secretly, we can and we will expose it”, said an intelligence official. The Russian ambassador to one unnamed Asian country, added the official, allegedly gave millions of dollars in cash to a presidential candidate there.
-
-Emmanuel Macron, <strong>France’s</strong> president, said he would launch a series of debates across the country and convene a group of citizens to explore whether to legalise <strong>assisted dying</strong>. French law permits doctors to sedate terminally ill patients until death and withhold life-saving treatments, but [euthanasia](https://www.economist.com/international/2021/11/13/in-the-west-assisted-dying-is-rapidly-becoming-legal-and-accepted) is illegal. Poignantly, <strong>Jean-Luc Godard</strong>, a legendary French film director, was assisted to his death on Tuesday, aged 91, in Switzerland, where it is legal under certain circumstances.
-
-<strong>Canada’s</strong> prime minister, Justin Trudeau, unveiled an <strong>inflation-relief package</strong> worth C$4.5bn ($3.43bn) for low-income earners. Qualifying individuals and households will see their quarterly tax credit doubled and receive a C$500 top-up to a rental assistance plan. Canadian inflation was at 7.6% in July, significantly over the central bank’s 2% target. 
-
-<strong>Fact of the day:</strong> 350, the number of mortgage boycotts estimated to be taking place across China. [Read the full story](https://www.economist.com/finance-and-economics/2022/09/12/chinas-ponzi-like-property-market-is-eroding-faith-in-the-state).
 
 ----------
 
