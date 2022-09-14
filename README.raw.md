@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Twitter</strong> shareholders voted to approve <strong>Elon Musk’s</strong> acquisition of the social-media firm for $44bn. Twitter and Mr Musk are suing each other over the entrepreneur’s attempt to [renege on the purchase agreement](https://www.economist.com/business/2022/07/11/with-or-without-elon-musk-twitter-is-overdue-a-shake-up). Next month they will test their competing claims in a Delaware court. Shortly before the vote Peiter Zatko, Twitter’s former security chief, testified before Congress about the firm’s lax privacy standards.
 
-<strong>King Charles III</strong> and other senior members of the royal family will walk behind the coffin of [Queen Elizabeth II](https://www.economist.com/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) on Wednesday afternoon as it is moved from Buckingham Palace to Westminster Hall. The queen’s body will lie in state for four days before a funeral on Monday.
+<strong>King Charles III</strong> and other senior members of the royal family followed the coffin of [Queen Elizabeth II](https://www.economist.com/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) on Wednesday afternoon as it was moved from Buckingham Palace to Westminster Hall. The queen’s body will lie in state for four days before a funeral on Monday.
 
 <strong>Fact of the day:</strong> 350, the number of mortgage boycotts estimated to be taking place across China. [Read the full story](https://www.economist.com/finance-and-economics/2022/09/12/chinas-ponzi-like-property-market-is-eroding-faith-in-the-state).
 
@@ -66,7 +66,7 @@ In the early hours of Thursday morning a [major change](https://www.economist.co
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6a3b1f03102f191a180f1919052a0f090504050703191e44090507">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="114064786b546261637462627e5174727e7f7e7c7862653f727e7c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which American basketball team won successive NBA championships in 1994 and 1995?  
   
