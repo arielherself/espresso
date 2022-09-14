@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>America’s stockmarkets</strong> suffered their worst day since June 2020 after data showed that annual inflation in August [exceeded forecasts](https://te.arielherself.xyz/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem) at 8.3%. (Britain’s inflation came in slightly below expectations, at 9.9%.) The S&amp;P 500 dropped by 4.4% and the Dow by 3.9%. The rout extended to <strong>Asian </strong>and<strong> European </strong>stockmarkets on Wednesday. Rising prices in America will keep pressure on the Federal Reserve as it weighs an interest-rate increase at its meeting next week. <strong>The dollar </strong>strengthened against the yen, almost touching a 24-year peak, as it chased yields on bond markets that expect rates to rise.
+<strong>America’s stockmarkets</strong> stabilised on Wednesday after their worst day since June 2020. The previous day’s slump was prompted by data which showed that annual inflation in August [exceeded forecasts](https://te.arielherself.xyz/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem) at 8.3%. Having dropped by 4.4% on Tuesday the S&amp;P 500 was steady at market opening on Wednesday. Rising prices in America will keep pressure on the Federal Reserve as it weighs an interest-rate increase at its meeting next week.
 
 The <strong>European Commission’s</strong> president, Ursula von der Leyen, outlined plans for a windfall tax on energy companies that will aim to raise €140bn ($140bn). The levy would be used by member states to shield consumers and businesses from [sky-high](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices) energy prices resulting from Russia’s invasion of Ukraine. Mrs von der Leyen suggested the EU was “in for the long haul” in Ukraine.
 
@@ -66,7 +66,7 @@ In the early hours of Thursday morning a [major change](https://te.arielherself.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="38694d51427d4b484a5d4b4b57785d5b57565755514b4c165b5755">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f3a2869a89b68083819680809cb396909c9d9c9e9a8087dd909c9e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which American basketball team won successive NBA championships in 1994 and 1995?  
   
