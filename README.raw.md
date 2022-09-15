@@ -60,13 +60,13 @@ The bloc is also discussing energy price caps and mandatory limits on electricit
 
 ## The great crypto merge
 
-In the early hours of Thursday morning a [major change](https://www.economist.com/finance-and-economics/2022/09/06/the-future-of-crypto-is-at-stake-in-ethereums-switch) in the architecture of crypto will take place. Ethereum, the most important blockchain platform, will change the way it is run. Ethereum currently uses an energy-intensive mechanism called “proof-of-work” to verify transactions. But at around 4am GMT (equivalent to UCT, the benchmark time standard used by developers) it will “merge” with a new chain that uses “proof-of-stake”, a verification method that uses much less energy.  
+In the early hours of Thursday morning a [major change](https://www.economist.com/finance-and-economics/2022/09/06/the-future-of-crypto-is-at-stake-in-ethereums-switch) in the architecture of crypto took place. Ethereum, the most important blockchain platform, changed the way it is run. Ethereum currently uses an energy-intensive mechanism called “proof-of-work” to verify transactions. But at around 4am GMT (equivalent to UCT, the benchmark time standard used by developers) it “merged” with a new chain that uses “proof-of-stake”, a verification method that uses much less energy.  
   
  The environmental advantage is the most obvious reason for even those who take no interest in crypto to care about “the Merge”. But it is not the only one. The event is the first in a series of upgrades that should make Ethereum more efficient and scalable—and potentially more useful. That is assuming all goes smoothly, of course. Implementing the switch is like swapping the engine of a spaceship mid-flight. Time to find out if it can be done.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2677534f5c63555654435555496643454948494b4f55520845494b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4415312d3e013734362137372b0421272b2a2b292d37306a272b29">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which American basketball team won successive NBA championships in 1994 and 1995?  
   
