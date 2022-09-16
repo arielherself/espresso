@@ -46,9 +46,9 @@ Almost half of African countries, including South Africa, have [declined to cond
 
 ## A semblance of normality in Russia’s economy
 
-Immediately after Russia’s invasion of Ukraine, its economy appeared to be collapsing. The rouble tanked; regulators had to close the stockmarket. Economists pencilled in a GDP decline of up to 15% in 2022.
+Immediately after Russia’s invasion of Ukraine, its economy appeared to be collapsing. The rouble tanked; regulators had to close the stockmarket. Economists pencilled in a GDP decline of up to 15% in 2022. 
 
-It has [not quite worked out that way](https://te.arielherself.xyz/finance-and-economics/2022/08/23/why-the-russian-economy-keeps-beating-expectations). In one month since the invasion the rouble made up its losses. Since peaking at 17.8% in April, inflation has steadily fallen. That has allowed the central bank to ease monetary policy, something it is likely to do again on Friday. Already below their pre-war level, interest rates are likely to be cut again. 
+It has [not quite worked out that way](https://te.arielherself.xyz/finance-and-economics/2022/08/23/why-the-russian-economy-keeps-beating-expectations). In one month since the invasion the rouble made up its losses. Since peaking at 17.8% in April, inflation has steadily fallen. That, along with buoyant business activity, has allowed the central bank to ease monetary policy. On Friday it cut interest rates by half a percentage point to 7.5%.
 
 To some degree, Russia has [managed to reorient](https://te.arielherself.xyz/finance-and-economics/2022/08/23/why-the-russian-economy-keeps-beating-expectations) its trading and investment relationships eastwards. The government has also deployed judicious fiscal stimulus, while households and firms have continued to spend and invest. Most importantly, Western sanctions have largely avoided impairing Russia’s exports of oil and gas, the global prices of which have soared. That leaves the central bank free to step on the monetary gas.
 
@@ -68,7 +68,7 @@ Music biopics are having a moment, and Bowie holds obvious appeal for ambitious 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="93c2e6fae9d6e0e3e1f6e0e0fcd3f6f0fcfdfcfefae0e7bdf0fcfe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2d7c584457685e5d5f485e5e426d484e42434240445e59034e4240">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday:</strong> Which science fiction novel, by Aldous Huxley, describes a population kept content by a drug called Soma?
 
