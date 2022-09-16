@@ -14,11 +14,11 @@
 
 <strong>Ukrainian</strong> officials said they had discovered a <strong>mass grave</strong> in Izyum, a north-eastern town [recently recaptured](https://www.economist.com/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) from Russian forces. They claimed that more than 400 bodies had been buried there, including people killed by air strikes. Volodymyr Zelensky, Ukraine’s president, accused Russia of leaving “death everywhere”. He promised to share “clear, verified information” on Friday.
 
+India’s prime minister, <strong>Narendra Modi</strong>, publicly criticised Russia’s invasion of Ukraine, telling President <strong>Vladimir Putin</strong> that “today’s era is not an era of war”. Mr Putin responded that he understood Mr Modi’s concerns. Meanwhile China’s president, <strong>Xi Jinping</strong>, said that Russia and its Central Asian neighbours should take care to avoid foreign interference or “colour revolutions”. All three leaders are attending the [Shanghai Co-operation Organisation](https://www.economist.com/the-economist-explains/2022/09/14/what-is-the-shanghai-co-operation-organisation) summit in Uzbekistan.
+
 <strong>Germany</strong> seized control of three refineries belonging to <strong>Rosneft</strong>, Russia’s [state-owned oil giant](https://www.economist.com/europe/2022/04/28/why-gerhard-schroder-wont-unfriend-vladimir-putin). The economy ministry said that a federal regulator will take over the operation of the units, which account for around 12% of the country’s oil processing. The move will counter the “impending threat to the security of energy supply” from Russia, argued the ministry.
 
 The <strong>Biden administration</strong> said it would send an additional $600m-worth of <strong>arms to Ukraine</strong>, including more High Mobility Artillery Rocket Systems—guided missiles that have [wreaked havoc](https://www.economist.com/europe/2022/07/13/ukraines-new-rockets-are-wreaking-havoc-on-russias-army) on Russia’s army. America has given Ukraine around $15bn in military assistance since the start of the war. Meanwhile, the Kremlin warned that if America supplied Ukraine with longer-range missiles, it would cross a “red line” and become “party to the conflict”.
-
-<strong>Vladimir Putin</strong>, Russia’s president, acknowledged he must address “questions and concerns” that <strong>Xi Jinping</strong>, his Chinese counterpart, has about the invasion. The two chums are attending the [Shanghai Co-operation Organisation](https://www.economist.com/the-economist-explains/2022/09/14/what-is-the-shanghai-co-operation-organisation) summit in Uzbekistan, which will bring more closely watched tête-à-têtes on Friday. Mr Xi will meet <strong>Ebrahim Raisi</strong>, Iran’s president, possibly to discuss [Iran’s stagnant nuclear deal](https://www.economist.com/middle-east-and-africa/2022/09/08/never-ending-nuclear-talks-with-iran-are-bordering-on-the-absurd). <strong>Narendra Modi</strong>, India’s prime minister, has an appointment with Mr Putin. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Music biopics are having a moment, and Bowie holds obvious appeal for ambitious 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d988acb0a39caaa9abbcaaaab699bcbab6b7b6b4b0aaadf7bab6b4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3c6d495546794f4c4e594f4f537c595f53525351554f48125f5351">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday:</strong> Which science fiction novel, by Aldous Huxley, describes a population kept content by a drug called Soma?
 
