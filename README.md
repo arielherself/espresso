@@ -34,7 +34,7 @@ A study found that <strong>climate change</strong> played a significant role in 
 
 ## NATO bolsters its eastern front
 
-Military chiefs from 30 NATO countries will meet in Tallinn, the Estonian capital, on Friday to discuss the new “strategic concept” agreed at the alliance’s most recent [summit](https://te.arielherself.xyz/europe/2022/06/26/nato-holds-its-most-important-summit-for-decades) in June. The aim is to shore up the eastern front and make NATO better able to respond to Russia. The alliance has changed since the invasion of Ukraine. Not only is it [expanding](https://te.arielherself.xyz/europe/2022/06/28/turkey-lifts-its-block-on-letting-sweden-and-finland-join-nato), but military commanders are writing new regional defence plans as to which national forces would defend which geographic areas in the event of a war.
+Military chiefs from 30 NATO countries meet in Tallinn, the Estonian capital, on Friday to discuss the new “strategic concept” agreed at the alliance’s most recent [summit](https://te.arielherself.xyz/europe/2022/06/26/nato-holds-its-most-important-summit-for-decades) in June. The aim is to shore up the eastern front and make NATO better able to respond to Russia. The alliance has changed since the invasion of Ukraine. Not only is it [expanding](https://te.arielherself.xyz/europe/2022/06/28/turkey-lifts-its-block-on-letting-sweden-and-finland-join-nato), but military commanders are writing new regional defence plans as to which national forces would defend which geographic areas in the event of a war.
 
 Last week Jens Stoltenberg, NATO’s secretary-general, said that the alliance was sending a “message to Moscow about our readiness to…defend every inch of Allied territory.” He also called for member states to send more weapons to Ukraine. Those are still needed. But Ukraine’s stunning [counter-offensive](https://te.arielherself.xyz/europe/2022/09/11/is-russia-on-the-run) has left NATO’s number-one adversary looking weakened. A renewed air of confidence may prevail in Tallinn.
 
@@ -68,7 +68,7 @@ Music biopics are having a moment, and Bowie holds obvious appeal for ambitious 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0e5f7b67744b7d7e7c6b7d7d614e6b6d61606163677d7a206d6163">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1f4e6a76655a6c6f6d7a6c6c705f7a7c70717072766c6b317c7072">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday:</strong> Which science fiction novel, by Aldous Huxley, describes a population kept content by a drug called Soma?
 
