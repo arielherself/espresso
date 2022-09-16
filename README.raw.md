@@ -12,11 +12,11 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Ukrainian</strong> officials said they had discovered a <strong>mass grave</strong> in Izyum, a north-eastern town [recently recaptured](https://www.economist.com/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) from Russian forces. They claimed that more than 400 bodies had been buried there, including people killed by air strikes. Volodymyr Zelensky, Ukraine’s president, accused Russia of leaving “death everywhere”. He promised to share “clear, verified information” on Friday.
-
 India’s prime minister, <strong>Narendra Modi</strong>, publicly criticised Russia’s invasion of Ukraine, telling President <strong>Vladimir Putin</strong> that “today’s era is not an era of war”. Mr Putin responded that he understood Mr Modi’s concerns. Meanwhile China’s president, <strong>Xi Jinping</strong>, said that Russia and its Central Asian neighbours should take care to avoid foreign interference or “colour revolutions”.
 
-<strong>Germany</strong> seized control of three refineries belonging to <strong>Rosneft</strong>, Russia’s [state-owned oil giant](https://www.economist.com/europe/2022/04/28/why-gerhard-schroder-wont-unfriend-vladimir-putin). The economy ministry said that a federal regulator will take over the operation of the units, which account for around 12% of the country’s oil processing. The move will counter the “impending threat to the security of energy supply” from Russia, argued the ministry.
+<strong>Ukrainian</strong> officials said they had discovered a <strong>mass grave</strong> in Izyum, a north-eastern town [recently recaptured](https://www.economist.com/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) from Russian forces. They claimed that more than 400 bodies had been buried there, including people killed by air strikes. Volodymyr Zelensky, Ukraine’s president, accused Russia of leaving “death everywhere”.
+
+The<strong> S&amp;P 500</strong> suffered its worst week since June, shedding 4.8%, dragged down by FedEx, whose shares dropped by a fifth. A day earlier the delivery firm announced cost cuts and poor preliminary results, citing weak global demand. With inflation [stubbornly high](https://www.economist.com/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem), investors are bracing for the Federal Reserve to [raise interest rates](https://www.economist.com/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big) by three-quarters of a percentage point next week.
 
 The governor of <strong>West Virginia</strong> signed into law a near-total abortion ban. The measure, with exceptions in some cases of rape and incest, prohibits the procedure after an embryo is implanted in the uterus, usually within days of conception. West Virginia is the second state, after Indiana, to pass restrictive abortion legislation since the Supreme Court [overturned <em>Roe v Wade</em>](https://www.economist.com/united-states/2022/06/25/americas-abortion-providers-face-a-fight-for-survival); in several other states pre-<em>Roe</em> bans have come into force.
 
@@ -68,7 +68,7 @@ Music biopics are having a moment, and Bowie holds obvious appeal for ambitious 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6c3d190516291f1c1e091f1f032c090f03020301051f18420f0301">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="88d9fde1f2cdfbf8faedfbfbe7c8edebe7e6e7e5e1fbfca6ebe7e5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday:</strong> Which science fiction novel, by Aldous Huxley, describes a population kept content by a drug called Soma?
 
