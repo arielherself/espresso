@@ -12,85 +12,103 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-India’s prime minister, <strong>Narendra Modi</strong>, publicly criticised Russia’s invasion of Ukraine, telling President <strong>Vladimir Putin</strong> that “today’s era is not an era of war”. Mr Putin responded that he understood Mr Modi’s concerns. Meanwhile China’s president, <strong>Xi Jinping</strong>, said that Russia and its Central Asian neighbours should take care to avoid foreign interference or “colour revolutions”.
-
-<strong>Ukrainian</strong> officials said they had discovered a <strong>mass grave</strong> in Izyum, a north-eastern town [recently recaptured](https://www.economist.com/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) from Russian forces. They claimed that more than 400 bodies had been buried there, including people killed by air strikes. Volodymyr Zelensky, Ukraine’s president, accused Russia of leaving “death everywhere”.
+India’s prime minister, <strong>Narendra Modi</strong>, publicly criticised Russia’s invasion of Ukraine, telling President <strong>Vladimir Putin</strong> that “today’s era is not an era of war”. Speaking at the [Shanghai Co-operation Organisation](https://www.economist.com/the-economist-explains/2022/09/14/what-is-the-shanghai-co-operation-organisation) summit in Uzbekistan, Mr Putin responded that he understood Mr Modi’s concerns. Later the Russian leader said his goals in Ukraine had not changed—the main one being the “liberation” of the Donbas region. He then appeared to threaten to hit more civilian infrastructure.
 
 The<strong> S&amp;P 500</strong> suffered its worst week since June, shedding 4.8%, dragged down by FedEx, whose shares dropped by a fifth. A day earlier the delivery firm announced cost cuts and poor preliminary results, citing weak global demand. With inflation [stubbornly high](https://www.economist.com/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem), investors are bracing for the Federal Reserve to [raise interest rates](https://www.economist.com/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big) by three-quarters of a percentage point next week.
+
+Twenty-four people were reported to have died after more heavy fighting took place along the border between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong>. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker. 
 
 The governor of <strong>West Virginia</strong> signed into law a near-total abortion ban. The measure, with exceptions in some cases of rape and incest, prohibits the procedure after an embryo is implanted in the uterus, usually within days of conception. West Virginia is the second state, after Indiana, to pass restrictive abortion legislation since the Supreme Court [overturned <em>Roe v Wade</em>](https://www.economist.com/united-states/2022/06/25/americas-abortion-providers-face-a-fight-for-survival); in several other states pre-<em>Roe</em> bans have come into force.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The <strong>European Commission</strong> proposed setting up a <strong>media watchdog</strong> to ensure funding transparency and independence, and prevent consolidation, among news outlets in member states. The measure is obliquely aimed at Hungary and [Poland](https://www.economist.com/europe/2021/08/14/polands-proposed-media-rules-threaten-press-freedom), where governments have exerted control over public broadcasters and undermined independent news organisations. EU lawmakers and member states must approve the rules.
-
 Nayib Bukele, <strong>El Salvador’s </strong>illiberal president, said he would run for re-election when his term ends in 2024. Despite a constitutional ban against presidents serving consecutive terms, judges appointed by Mr Bukele’s party gave him the green light last year. The 41-year-old styles himself as a thoroughly modern leader but [deploys authoritarian tactics](https://www.economist.com/the-americas/2022/04/30/el-salvadors-president-has-locked-up-19000-people-in-a-month) and has repeatedly [undermined the rule of law](https://www.economist.com/leaders/2021/09/11/nayib-bukele-is-wrecking-democracy-in-el-salvador).
+
+The <strong>European Commission</strong> proposed setting up a <strong>media watchdog</strong> to ensure funding transparency and independence, and prevent consolidation, among news outlets in member states. The measure is obliquely aimed at Hungary and [Poland](https://www.economist.com/europe/2021/08/14/polands-proposed-media-rules-threaten-press-freedom), where governments have exerted control over public broadcasters and undermined independent news organisations. EU lawmakers and member states must approve the rules.
 
 The [queue for entry to Westminster Hall](https://www.economist.com/the-economist-explains/2022/09/15/why-britons-love-to-queue) in <strong>London</strong>, where <strong>Queen Elizabeth II</strong> is lying in state, closed for seven hours after it reached full capacity. Despite government warnings of 24-hour waiting times and chilly overnight temperatures, thousands of people joined the miles-long line when it reopened. Around 750,000 people are expected to file past the Queen’s coffin before her funeral on Monday. Mourners include football legend David Beckham, who braved a 13-hour wait.
 
-<strong>Fact of the day:</strong> $30bn, the estimated cost of Pakistan’s floods, equivalent to 9% of GDP. [Read the full story](https://www.economist.com/graphic-detail/2022/09/15/devastating-floods-like-pakistans-will-be-more-common-in-a-warming-world).
+<strong>Word of the week:</strong> <em>boyan, </em>a word meaning “liquorice” in the Karakalpak language, spoken in Karakalpakstan, western Uzbekistan. [Read the full story](https://www.economist.com/asia/2022/09/15/liquorice-flourishes-in-salty-soils-of-the-dried-up-aral-sea).
 
 ----------
 
-## NATO bolsters its eastern front
+## Ukraine’s stunning counter-offensive
 
-Military chiefs from 30 NATO countries meet in Tallinn, the Estonian capital, on Friday to discuss the new “strategic concept” agreed at the alliance’s most recent [summit](https://www.economist.com/europe/2022/06/26/nato-holds-its-most-important-summit-for-decades) in June. The aim is to shore up the eastern front and make NATO better able to respond to Russia. The alliance has changed since the invasion of Ukraine. Not only is it [expanding](https://www.economist.com/europe/2022/06/28/turkey-lifts-its-block-on-letting-sweden-and-finland-join-nato), but military commanders are writing new regional defence plans as to which national forces would defend which geographic areas in the event of a war.
+On Friday Ukrainian officials said they had discovered a mass grave containing more than 400 bodies in Izyum, a recently liberated town in the north-eastern province of [Kharkiv.](https://www.economist.com/leaders/2022/09/15/vladimir-putins-war-is-failing-the-west-should-help-it-fail-faster) As Ukrainian forces recapture Russian-occupied territory, they may make more such gruesome discoveries. The [lightning operation](https://www.economist.com/europe/2022/09/09/ukraine-seizes-the-initiative-in-the-east) in Kharkiv province, launched on September 5th, has overwhelmed Russian forces. The speed of the advance is the result of a superbly executed plan and new Western weaponry that has denied Russia air supremacy. But Russia’s army has also proved brittle. Its command system appears to be in crisis.
 
-Last week Jens Stoltenberg, NATO’s secretary-general, said that the alliance was sending a “message to Moscow about our readiness to…defend every inch of Allied territory.” He also called for member states to send more weapons to Ukraine. Those are still needed. But Ukraine’s stunning [counter-offensive](https://www.economist.com/europe/2022/09/11/is-russia-on-the-run) has left NATO’s number-one adversary looking weakened. A renewed air of confidence may prevail in Tallinn.
+The [Kharkiv offensive](https://www.economist.com/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) is the most important development in the war since Russia abandoned northern Ukraine in late March. It opens up the prospect that Ukraine could recapture part of the Luhansk region, thus denying Russia’s stated objective of occupying the entire Donbas in the east. More importantly, it shows that Ukraine is capable of fast, complex and daring attacks; that Russia can be dislodged; and that Ukraine can therefore win.
 
-## Ramaphosa escapes the ANC to DC
+## An unexpectedly close Senate race in Ohio
 
-When [Cyril Ramaphosa](https://www.economist.com/the-world-ahead/2021/11/08/cyril-ramaphosa-says-the-world-must-end-vaccine-apartheid) visits the White House on Friday he will be glad to put some distance between him and his troubles at home. South Africa’s president, who must win re-election as leader of the ruling African National Congress in December, is under pressure from internal enemies and frustrated voters. In Washington, DC, though, he can expect charm and flattery.
+The campaign in the Midwest is heating up. On Saturday Donald Trump hosts a rally in Youngstown, Ohio, where he will endorse J.D. Vance, the [author-turned-MAGA-intellectual](https://www.economist.com/united-states/2022/09/15/how-the-left-and-jd-vance-learnt-to-despise-each-other) Republican candidate for the Senate in the upcoming [midterms](https://www.economist.com/united-states/2022/09/07/the-democrats-are-likely-to-lose-the-house-but-keep-the-senate). Thanks largely to the former president’s support, Mr Vance won his primary in May easily. But he has struggled since. Recent polls give Tim Ryan, the Democratic candidate, a slight edge. 
 
-Almost half of African countries, including South Africa, have [declined to condemn Russia’s invasion](https://www.economist.com/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east) of Ukraine at the UN. So America has sought to reaffirm its commitment to the continent. Last month Antony Blinken, the secretary of state, set out the Biden administration’s Africa strategy, promising support for development and a more equal, less patronising relationship. This reflects America’s [rivalry with China](https://www.economist.com/special-report/2022-05-28) as much as with Russia. For all its flaws, South Africa remains one of Africa’s most powerful states—and critical to realising America’s policy. Yet White House officials may find that Mr Ramaphosa has no desire to pick sides. Non-alignment suits his country just fine.
+That may be surprising in a state Mr Trump won comfortably in 2020, but Mr Vance’s incendiary side is hurting him. His call, for example, for a total ban on abortions, with no exceptions for rape, has provided plenty of fodder for Mr Ryan. Earlier this year Ohio suffered a storm of negative publicity after a ten-year-old rape victim was forced to travel to Indiana for an abortion. Mr Vance has also struggled with fundraising. A big rally with Mr Trump might help, but that may not be enough to win back voters.
 
-## A semblance of normality in Russia’s economy
+## Poland opens a propaganda-heavy canal
 
-Immediately after Russia’s invasion of Ukraine, its economy appeared to be collapsing. The rouble tanked; regulators had to close the stockmarket. Economists pencilled in a GDP decline of up to 15% in 2022. 
+Where cool Baltic waves once lapped a remote sandbank, Poland’s government has created a [megaproject meant to outwit Russia](https://www.economist.com/europe/2022/09/15/poland-opens-a-propaganda-heavy-canal). With pomp and pageantry, on Saturday a 1.3km artificial waterway linking the Vistula Lagoon in the north-east to the Baltic Sea will be unveiled. It will allow ships to bypass a Russian-controlled strait, which has occasionally been shut off.
 
-It has [not quite worked out that way](https://www.economist.com/finance-and-economics/2022/08/23/why-the-russian-economy-keeps-beating-expectations). In one month since the invasion the rouble made up its losses. Since peaking at 17.8% in April, inflation has steadily fallen. That, along with buoyant business activity, has allowed the central bank to ease monetary policy. On Friday it cut interest rates by half a percentage point to 7.5%.
+The canal cost more than 2bn zlotys ($420m), but the government has shrugged off any economic (and environmental) misgivings by casting it as a matter of national security. Military vessels, however, are unlikely to navigate a shallow lagoon so close to Kaliningrad, a heavily armed Russian exclave on its eastern edge. And there is little civilian traffic using the waterway’s ports, making it something of a white elephant. But the government, hawkish on the Kremlin, has dug its heels in. “We will break Russia’s domination in the region,” boasted Marek Grobarczyk, the official overseeing the project.
 
-To some degree, Russia has [managed to reorient](https://www.economist.com/finance-and-economics/2022/08/23/why-the-russian-economy-keeps-beating-expectations) its trading and investment relationships eastwards. The government has also deployed judicious fiscal stimulus, while households and firms have continued to spend and invest. Most importantly, Western sanctions have largely avoided impairing Russia’s exports of oil and gas, the global prices of which have soared. That leaves the central bank free to step on the monetary gas.
+## A big boxing bout: Canelo vs Golovkin III
 
-## Azerbaijan attacks Armenia, Erdogan meets Putin
+Boxing is defined by epic rivalries. The three fights between Muhammad Ali and Joe Frazier lit up the sport in the 1970s. Today the ticket-selling feud is between Saul “Canelo” Álvarez of Mexico and Gennady Golovkin of Kazakhstan. Both have dominated several weight categories and have been considered the best “pound-for-pound” boxer in the world. On Saturday evening in Las Vegas, they will go at it for a third time. 
 
-The guns have yet to cool in [Armenia and Azerbaijan](https://www.economist.com/the-economist-explains/2022/09/13/why-azerbaijan-and-armenia-are-fighting-again), where a deadly two-day conflict earlier this week was stopped by a truce on Thursday. Across the Caspian Sea, in Uzbekistan, Russia’s president, Vladimir Putin, will take up the issue with his Turkish counterpart, Recep Tayyip Erdogan, on the sidelines of a summit on Friday.
+The pair’s first meeting five years ago was a blockbuster bout that ended in a disputed draw. A year later, in another close contest, judges gave the win to Mr Álvarez. Mr Golovkin feels he has unfinished business, but he is 40 and has hardly fought in recent years. Mr Álvarez is eight years younger and the favourite. If the encounter matches the previous gruelling acts then boxing, which has recently [lost fans](https://www.economist.com/culture/2022/04/22/scandal-overshadows-boxings-world-heavyweight-title-bout) to other combat sports, may be the biggest winner.
 
-Turkey is a firm backer of Azerbaijan. [In 2020](https://www.economist.com/europe/2020/11/12/a-peace-deal-ends-a-bloody-war-over-nagorno-karabakh) Mr Erdogan’s government supplied the country with drones, military advisers and Syrian mercenaries, enabling it to recapture the ethnic-Armenian enclave of Nagorno-Karabakh. Russia, for its part, has a mutual-defence treaty with Armenia, but also has good relations with Azerbaijan. That allowed it to broker a ceasefire between the pair in 2020.
+## Weekend profile: Giorgia Meloni, Italy’s probable new prime minister
 
-Bogged down in Ukraine, Russia wants to avoid fresh fighting. Turkey meanwhile is more likely to demand that Armenia recognise Azerbaijan’s sovereignty over Nagorno-Karabakh in exchange for peace. Mr Putin and Mr Erdogan know how to wage proxy wars while maintaining cordial relations. Expect them to agree to disagree in Uzbekistan. 
+Giorgia Meloni grew up as the daughter of a single parent. Her father left soon after she was born in 1977. Ms Meloni and her sister subsequently compounded their mother’s problems by accidentally setting fire to their apartment in a leafy Rome suburb. Recounting this incident in her autobiography, Ms Meloni is amused rather than ashamed. The loss of her childhood home might have left her with “the courage to set up a political home years later”, she jokes.
 
-## David Bowie on screen
+That home is the [Brothers of Italy (FdI) party](https://www.economist.com/europe/2022/08/11/can-anything-stop-italys-radical-right), which polls suggest will win the most votes in the general election on September 25th. If the conservative alliance of which it is a part wins a comfortable parliamentary majority, as is expected, Ms Meloni could well be Italy’s next prime minister. 
 
-[David Bowie’s](https://www.economist.com/obituary/2016/01/16/starman-jones) music often dealt with his inner world, and yet he sported eye-catching costumes to perform for vast crowds. “Moonage Daydream”, Brett Morgen’s new documentary, released on Friday in America and Britain, captures Bowie in his own words, unencumbered by others’ opinions—while imparting an overwhelming sense of just how crowded his life could be.
+Back in her girlhood, after the fire, Ms Meloni’s family moved to cheaper accommodation in Garbatella, a working-class district in the south of Rome. There she grew up poor but happy, though “a bit irascible”, she writes. At age 15—in reaction to the assassination of Paolo Borsellino, a right-wing anti-Mafia judge—Ms Meloni joined the youth wing of the neo-fascist Italian Social Movement (MSI). She did not go to university, yet by age 29 was a national lawmaker, representing MSI’s successor movement, the National Alliance. When she was 31 Silvio Berlusconi, then prime minister, made her the youngest minister in the history of the republic.
 
-Music biopics are having a moment, and Bowie holds obvious appeal for ambitious filmmakers. Yet “Moonage Daydream” paints a far more intimate portrait of its subject than do recent films about [Elvis](https://www.economist.com/culture/2022/06/24/the-strange-case-of-elvis-presleys-musical-posterity), [Freddie Mercury](https://www.economist.com/prospero/2018/10/26/bohemian-rhapsody-is-more-fantasy-than-real-life) and [Elton John](https://www.economist.com/prospero/2019/05/20/rocketman-is-a-suitably-ostentatious-biopic-of-elton-john). Mr Morgen has carefully selected archive footage to create a razor-sharp portrait of Bowie. On occasion he overreaches: the film is more interested in Bowie&#x27;s philosophy and art than his relationships and the people around him. At one point Bowie reflects that, “I put myself through everything” to grow into the artist he became. This extraordinary, almost extreme film puts the viewer through a comparable experience.
+Ms Meloni’s career has not been hindered by the fact that in 2016 she had a child out of wedlock, despite her party’s vigorous advocacy for traditional values. In recent years, she has worked hard to soften her image, toning down her rhetoric. But her periodic lapses into strident euroscepticism—most recently during a campaign rally in Milan on September 11th —suggest that little has really changed. Someone who knows her calls her views “Trumpite”. Ms Meloni and FdI’s rapid journey from the fringes of Italian politics to centre stage has taken many observers by surprise. But she still has to make her position clear—and prove she can govern a country.
 
-## Daily quiz
+## Weekly crossword
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a4f5d1cddee1d7d4d6c1d7d7cbe4c1c7cbcacbc9cdd7d08ac7cbc9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-<strong>Friday:</strong> Which science fiction novel, by Aldous Huxley, describes a population kept content by a drug called Soma?
+<strong>Cryptic clues</strong>
 
-<strong>Thursday:</strong> What is the real name of the Hulk, a Marvel superhero?
+<em>1 down </em>Good? A little crude and rude? Nothing in between in talent competition! (11)
 
-## The winners of last week’s crossword
+<em>1 across </em>Revolutionary communist spirit leads to assassination (6)
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+<em>2 across</em> Chose to demolish depot? (5)
 
-Asia: <strong>Yumi Arima</strong>, Tokyo, Japan
+<em>3 across </em>Custard-coloured flower (6)
 
-North America:<strong> Amy Weston</strong>, Seattle, United States
+<strong>Factual clues</strong>
 
-Central and South America: <strong>Diego Escobar</strong>, São Paulo, Brazil
+<em>1 down</em> The opposite of monarchy? (11)
 
-Europe: <strong>Christian Jacobson</strong>, Århus, Denmark
+<em>1 across </em>St Louis’s unwanted claim to fame (6)
 
-Africa:<strong> Nils Pearce</strong>, Kwadukuza, South Africa
+<em>2 across </em>What Elon Musk did out of due diligence (5)
 
-Oceania: <strong>Alex Gill</strong>, Perth, Australia
+<em>3 across </em>Northernmost great river connected to China’s Grand Canal (6)
 
-They all gave the correct answers of [House of Saud](https://www.economist.com/middle-east-and-africa/2022/09/08/the-ancient-city-of-jeddah-is-being-bulldozed), [health](https://www.economist.com/international/2022/09/07/how-covid-19-spurred-governments-to-snoop-on-sewage), [obese](https://www.economist.com/united-states/2022/09/08/american-hospital-food-is-fast-improving) and [dollar](https://www.economist.com/finance-and-economics/2022/09/08/why-the-dollar-is-strong-and-why-that-is-a-problem). Check back tomorrow for this week’s crossword.
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Shin Inagaki</strong>, Tokyo, Japan
+
+North America: <strong>Lauren Fragomeni</strong>, Ottawa, Canada
+
+Central and South America: <strong>Ramon Azpurua</strong>, Caracas, Venezuela 
+
+Europe: <strong>Rachel Loryman</strong>, London, United Kingdom
+
+Africa: <strong>Gary Ganz,</strong> Johannesburg, South Africa
+
+Oceania: <strong>Paula Johnson</strong>, Perth, Australia 
+
+They all gave the correct answers of Twilight, White Stripes, Houston Rockets, Bruce Banner and Brave New World. The theme is that these are all words in the first verse of America’s national anthem. 
 
 ----------
 
