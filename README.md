@@ -26,7 +26,7 @@ Twenty-four people were reported to have died after more heavy fighting took pla
 
 The governor of <strong>West Virginia</strong> signed into law a near-total abortion ban. The measure, with exceptions for some victims of rape and incest, prohibits the procedure after an embryo is implanted in the uterus, usually within days of conception. West Virginia is the second state, after Indiana, to pass restrictive abortion legislation since the Supreme Court [overturned <em>Roe v Wade</em>](https://te.arielherself.xyz/united-states/2022/06/25/americas-abortion-providers-face-a-fight-for-survival); in several other states pre-<em>Roe</em> bans have come into force.
 
-The <strong>European Commission</strong> proposed setting up a <strong>media watchdog</strong> to ensure funding transparency and independence, and prevent consolidation, among news outlets in member states. The measure is obliquely aimed at Hungary and [Poland](https://te.arielherself.xyz/europe/2021/08/14/polands-proposed-media-rules-threaten-press-freedom), where governments have exerted control over public broadcasters and undermined independent news organisations. EU lawmakers and member states must approve the rules.
+Thousands of people on the southern Japanese island of Kyushu have been urged to leave their homes, before the expected arrival of <strong>Typhoon Nanmadol</strong> on Sunday. Bringing with it up to 500mm of rainfall and winds of 270kph, the storm is expected to turn north-east towards Tokyo after making landfall. It could be one of the most damaging to hit Japan in recent years.
 
 <strong>Word of the week:</strong> <em>boyan, </em>a word meaning “liquorice” in the Karakalpak language, spoken in Karakalpakstan, western Uzbekistan. [Read the full story](https://te.arielherself.xyz/asia/2022/09/15/liquorice-flourishes-in-salty-soils-of-the-dried-up-aral-sea).
 
@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Northernmost great river connected to China’s Grand Canal (6)
 
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection)om, along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
 
 ## The winners of this week’s quiz
 
