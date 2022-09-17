@@ -22,7 +22,7 @@ Some 20m Shia Muslim pilgrims gathered in the holy city of Karbala, in Iraq, for
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Twenty-four people were reported to have died after more heavy fighting took place along the border between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong>. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker. 
+Despite reports of sporadic shelling by both sides, a ceasefire deal between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong> held a day after intense fighting along the border. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker.
 
 The governor of <strong>West Virginia</strong> signed into law a near-total abortion ban. The measure, with exceptions for some victims of rape and incest, prohibits the procedure after an embryo is implanted in the uterus, usually within days of conception. West Virginia is the second state, after Indiana, to pass restrictive abortion legislation since the Supreme Court [overturned <em>Roe v Wade</em>](https://te.arielherself.xyz/united-states/2022/06/25/americas-abortion-providers-face-a-fight-for-survival); in several other states pre-<em>Roe</em> bans have come into force.
 
