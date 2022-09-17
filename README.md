@@ -90,7 +90,7 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 
 <em>3 across </em>Northernmost great river connected to China’s Grand Canal (6)
 
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection)om, along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
 
 ## The winners of this week’s quiz
 
