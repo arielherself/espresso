@@ -18,13 +18,13 @@ Some 20m Shia Muslim pilgrims gathered in the holy city of Karbala, in Iraq, for
 
 <strong>Ayatollah Ali Khamene</strong><strong>i</strong>, Iran’s supreme leader, offered a response of sorts to rumours that he is gravely ill by appearing in public for the first time in two weeks. The 83-year-old cleric spoke at an Arbaeen ceremony in Iran. A report yesterday in the <em>New York Times</em> suggested that he had been in a critical condition and had undergone bowel surgery.
 
-The<strong> S&amp;P 500</strong> suffered its worst week since June, shedding 4.8%, dragged down by FedEx, whose shares dropped by a fifth. A day earlier the delivery firm announced cost cuts and poor preliminary results, citing weak global demand. With inflation [stubbornly high](https://te.arielherself.xyz/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem), investors are bracing for the Federal Reserve to [raise interest rates](https://te.arielherself.xyz/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big) by three-quarters of a percentage point next week.
+Despite reports of sporadic shelling by both sides, a ceasefire deal between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong> held a day after intense fighting along the border. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Despite reports of sporadic shelling by both sides, a ceasefire deal between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong> held a day after intense fighting along the border. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker.
-
 Thousands of people on the southern Japanese island of Kyushu have been urged to leave their homes, before the expected arrival of <strong>Typhoon Nanmadol</strong> on Sunday. Bringing with it up to 500mm of rainfall and winds of 270kph, the storm is expected to turn north-east towards Tokyo after making landfall. It could be one of the most damaging to hit Japan in recent years.
+
+Meanwhile, Puerto Rico declared a state of emergency, as it prepared for the arrival of <strong>Tropical Storm Fiona</strong>. The storm, which is already battering parts of the Caribbean, could work itself up into a hurricane.
 
 Police in <strong>Serbia</strong> arrested 64 people as right-wing and religious protesters turned out to demonstrate against an LGBT pride march that was taking place in the capital, Belgrade. The march itself had initially been banned over fears that it would stoke violence.
 
