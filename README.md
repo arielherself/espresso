@@ -22,9 +22,9 @@ Thousands of people on the southern Japanese island of Kyushu were urged to leav
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Some 20m Shia Muslim pilgrims gathered in the holy city of Karbala, in Iraq, for the annual <strong>Arbaeen</strong> festival. It is one of the largest gatherings of people anywhere on Earth. The event is the culmination of 40 days of mourning in memory of Imam Hussein, a descendant of the Prophet Muhammad, who was killed in the city in the year 680.
+Recep Tayyip Erdogan, <strong>Turkey’s</strong> president, said his country would apply for full membership of the <strong>Shanghai Co-operation Organisation</strong>, a [regional talking shop](https://te.arielherself.xyz/the-economist-explains/2022/09/14/what-is-the-shanghai-co-operation-organisation) that includes China, Russia, India and much of Central Asia. Turkey is currently a “dialogue member”, and would be the club’s first NATO signatory. The SCO, which met in Uzbekistan this week, was formed to promote closer security and economic links.
 
-Despite reports of sporadic shelling by both sides, a ceasefire deal between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong> held a day after intense fighting along the border. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker.
+Some 20m Shia Muslim pilgrims gathered in the holy city of Karbala, in Iraq, for the annual <strong>Arbaeen</strong> festival. It is one of the largest gatherings of people anywhere on Earth. The event is the culmination of 40 days of mourning in memory of Imam Hussein, a descendant of the Prophet Muhammad, who was killed in the city in the year 680.
 
 Police in <strong>Serbia</strong> arrested 64 people as right-wing and religious protesters turned out to demonstrate against an LGBT pride march that was taking place in the capital, Belgrade. The march itself had initially been banned over fears that it would stoke violence.
 
