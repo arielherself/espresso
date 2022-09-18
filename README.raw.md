@@ -14,17 +14,17 @@
 
 The Czech Republic, which currently holds the presidency of the EU, called for the establishment of a “special international tribunal” to investigate possible <strong>war crimes</strong> at <strong>Izyum</strong>, in Ukraine. The move follows the discovery of around 450 graves at a site near the city, which was [recently retaken](https://www.economist.com/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) from the Russians. Some bodies had their hands tied behind their backs or showed signs of torture.
 
+<strong>Joe Biden</strong> arrived in London, ahead of the funeral of <strong>Queen Elizabeth II</strong> on Monday. Around 500 dignitaries will attend the ceremony in ​​Westminster Abbey. <strong>China</strong> confirmed it will send Wang Qishan, the vice-president, despite the country’s frosty relationship with Britain. Chinese officials were reportedly barred from viewing the [queen’s](https://www.economist.com/queen-elizabeth) lying-in-state because China has sanctioned British MPs critical of its human-rights record.
+
 Some 20m Shia Muslim pilgrims gathered in the holy city of Karbala, in Iraq, for the annual <strong>Arbaeen</strong> festival. It is one of the largest gatherings of people anywhere on Earth. The event is the culmination of 40 days of mourning in memory of Imam Hussein, a descendant of the Prophet Muhammad, who was killed in the city in the year 680.
 
 <strong>Ayatollah Ali Khamene</strong><strong>i</strong>, Iran’s supreme leader, offered a response of sorts to rumours that he is gravely ill by appearing in public for the first time in two weeks. The 83-year-old cleric spoke at an Arbaeen ceremony in Iran. A report yesterday in the <em>New York Times</em> suggested that he had been in a critical condition and had undergone bowel surgery.
 
-Despite reports of sporadic shelling by both sides, a ceasefire deal between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong> held a day after intense fighting along the border. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker.
-
 Listen to an abridged version of the subscriber-only briefing.
 
-Thousands of people on the southern Japanese island of Kyushu have been urged to leave their homes, before the expected arrival of <strong>Typhoon Nanmadol</strong> on Sunday. Bringing with it up to 500mm of rainfall and winds of 270kph, the storm is expected to turn north-east towards Tokyo after making landfall. It could be one of the most damaging to hit Japan in recent years.
+Despite reports of sporadic shelling by both sides, a ceasefire deal between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong> held a day after intense fighting along the border. The latest flare-up between the central Asian neighbours began on Wednesday, although skirmishes have been common for years. Hundreds of thousands of people have been evacuated from the area. Russia offered to act as peacemaker.
 
-Meanwhile, Puerto Rico declared a state of emergency, as it prepared for the arrival of <strong>Tropical Storm Fiona</strong>. The storm, which is already battering parts of the Caribbean, could work itself up into a hurricane.
+Thousands of people on the southern Japanese island of Kyushu were urged to leave their homes, before the expected arrival of <strong>Typhoon Nanmadol</strong> on Sunday. The storm, which threatens 500mm of rainfall and winds of 270kph, is then expected to turn towards Tokyo. Meanwhile, Puerto Rico declared a state of emergency, as it prepared for the arrival of <strong>Tropical Storm Fiona</strong>.
 
 Police in <strong>Serbia</strong> arrested 64 people as right-wing and religious protesters turned out to demonstrate against an LGBT pride march that was taking place in the capital, Belgrade. The march itself had initially been banned over fears that it would stoke violence.
 
