@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The Czech Republic, which currently holds the presidency of the EU, has called for the establishment of a “special international tribunal” to investigate possible <strong>war crimes</strong> at <strong>Izyum</strong>, in Ukraine. The move follows the discovery of around 450 graves at a site near the city, which was [recently retaken](https://te.arielherself.xyz/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) from the Russians. Some bodies had their hands tied behind their backs or showed signs of torture.
+The Czech Republic, which currently holds the presidency of the EU, called for the establishment of a “special international tribunal” to investigate possible <strong>war crimes</strong> at <strong>Izyum</strong>, in Ukraine. The move follows the discovery of around 450 graves at a site near the city, which was [recently retaken](https://te.arielherself.xyz/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) from the Russians. Some bodies had their hands tied behind their backs or showed signs of torture.
 
-Some 20m Shia Muslim pilgrims gathered in the holy city of Karbala, in Iraq, for the annual <strong>Arbaeen</strong> festival. It is one of the largest mass gatherings of people anywhere on Earth. The event is the culmination of 40 days of mourning in memory of Imam Hussein, a descendant of the Prophet Muhammad, who was killed in the city in the year 680.
+Some 20m Shia Muslim pilgrims gathered in the holy city of Karbala, in Iraq, for the annual <strong>Arbaeen</strong> festival. It is one of the largest gatherings of people anywhere on Earth. The event is the culmination of 40 days of mourning in memory of Imam Hussein, a descendant of the Prophet Muhammad, who was killed in the city in the year 680.
 
 <strong>Ayatollah Ali Khamene</strong><strong>i</strong>, Iran’s supreme leader, offered a response of sorts to rumours that he is gravely ill by appearing in public for the first time in two weeks. The 83-year-old cleric spoke at an Arbaeen ceremony in Iran. A report yesterday in the <em>New York Times</em> suggested that he had been in a critical condition and had undergone bowel surgery.
 
@@ -26,7 +26,7 @@ Despite reports of sporadic shelling by both sides, a ceasefire deal between <st
 
 Thousands of people on the southern Japanese island of Kyushu have been urged to leave their homes, before the expected arrival of <strong>Typhoon Nanmadol</strong> on Sunday. Bringing with it up to 500mm of rainfall and winds of 270kph, the storm is expected to turn north-east towards Tokyo after making landfall. It could be one of the most damaging to hit Japan in recent years.
 
-The governor of <strong>West Virginia</strong> signed into law a near-total abortion ban. The measure, with exceptions for some victims of rape and incest, prohibits the procedure after an embryo is implanted in the uterus, usually within days of conception. West Virginia is the second state, after Indiana, to pass restrictive abortion legislation since the Supreme Court [overturned <em>Roe v Wade</em>](https://te.arielherself.xyz/united-states/2022/06/25/americas-abortion-providers-face-a-fight-for-survival); in several other states pre-<em>Roe</em> bans have come into force.
+Police in <strong>Serbia</strong> arrested 64 people as right-wing and religious protesters turned out to demonstrate against an LGBT pride march that was taking place in the capital, Belgrade. The march itself had initially been banned over fears that it would stoke violence.
 
 <strong>Word of the week:</strong> <em>boyan, </em>a word meaning “liquorice” in the Karakalpak language, spoken in Karakalpakstan, western Uzbekistan. [Read the full story](https://te.arielherself.xyz/asia/2022/09/15/liquorice-flourishes-in-salty-soils-of-the-dried-up-aral-sea).
 
