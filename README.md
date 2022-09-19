@@ -12,105 +12,63 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Russia’s president, Vladimir Putin, is “[failing](https://te.arielherself.xyz/europe/2022/09/18/where-next-for-ukraines-army) on all of his military strategic objectives”, said Britain’s chief of the defence staff, Admiral Sir Tony Radakin. Over the weekend Ukraine’s forces struck several Russian military strongholds in southern Ukraine. After their [lightning advance](https://te.arielherself.xyz/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) in the north-east, troops are eager to capitalise on their momentum. “This is preparation for the next sequence,” said Ukraine’s president, Volodymyr Zelensky, in his latest nightly address.
+World leaders gathered at Westminster Abbey for the funeral of <strong>Elizabeth II</strong>. Around 500 foreign dignitaries, including <strong>Joe Biden</strong> and <strong>Emmanuel Macron</strong>, attended the service in London, which draws to a close ten days of [national mourning](https://te.arielherself.xyz/queen-elizabeth). Elizabeth II’s official “[lying-in-state](https://te.arielherself.xyz/the-economist-explains/2022/09/14/what-does-it-mean-to-lie-in-state)”, which saw some 750,000 people shuffle past the late monarch’s coffin, concluded early on Monday morning.
 
-<strong>Charles III </strong>met Britain’s prime minister, <strong>Liz Truss</strong>, at Buckingham Palace ahead of the funeral of <strong>Elizabeth II</strong> on Monday. Over the weekend the king also met the prime ministers of other countries where he is head of state, including Australia, Canada and New Zealand. World leaders, including America’s president, <strong>Joe Biden</strong>, and 500 dignitaries will attend the ceremony in ​​Westminster Abbey, which will conclude 11 days of [national mourning](https://te.arielherself.xyz/queen-elizabeth).
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, vowed there would be no “lull” after his country’s [recent success](https://te.arielherself.xyz/europe/2022/09/18/where-next-for-ukraines-army) in regaining territory lost to <strong>Russia</strong>. He said Ukrainian forces are preparing for the “next sequence”. Over the weekend they struck several Russian military strongholds in southern Ukraine. Britain’s defence ministry estimated that Russia has lost four jet-fighters in the past ten days; Admiral Sir Tony Radakin, the chief of the defence staff, judged Vladimir Putin, Russia’s president, to be “failing on all of his military strategic objectives”.
 
-The<strong> European Commission</strong> proposed to suspend billions of euros in funds for <strong>Hungary</strong> over corruption concerns. The EU’s executive arm said the sanctions, which must be approved by a qualified majority of member states, would protect its budget against breaches of the rule of law. It is the [first use of a mechanism](https://te.arielherself.xyz/europe/2020/12/16/the-eu-gives-itself-a-weapon-to-battle-against-rule-of-law-violations) introduced two years ago in response to concerns that [Hungary](https://te.arielherself.xyz/europe/2020/04/02/how-hungarys-leader-viktor-orban-gets-away-with-it) and [Poland](https://te.arielherself.xyz/europe/2020/01/23/europe-confronts-poland-over-its-trampling-on-the-rule-of-law) are nobbling judges, journalists and activists.
+<strong>Volkswagen</strong>, a German carmaker, said it hopes to raise €9.4bn ($9.4bn) when it [floats](https://te.arielherself.xyz/business/2022/02/26/porsche-and-volkswagen-are-set-to-uncouple-at-last) <strong>Porsche</strong>, the sports-car company it owns, on September 29th. The valuation, at €75bn, is lower than its initial estimates but would still make it Germany’s second-largest IPO (after Deutsche Telekom’s in 1996). Volkswagen said it will use the proceeds to finance its electric-vehicle transition.
 
-The entire island of <strong>Puerto Rico</strong> lost power after being hit by <strong>Hurricane Fiona</strong>, according to a tweet from its governor, Pedro Pierluisi. President Joe Biden approved an emergency declaration for the territory, which allows the release of federal resources for relief efforts. Meanwhile, thousands of people on the southern Japanese island of Kyushu have been urged to leave their homes, as <strong>Typhoon Nanmadol</strong> made landfall. The storm threatens 500mm of rainfall.
+<strong>Joe Biden </strong>told a television interviewer once again that America would defend <strong>Taiwan </strong>if it were attacked by <strong>China</strong>. Later the White House “clarified” that [its official policy](https://te.arielherself.xyz/the-economist-explains/2022/05/23/what-is-americas-policy-of-strategic-ambiguity-over-taiwan) on Taiwan remains one of “strategic ambiguity”. China’s foreign ministry said it “deplores and firmly opposes” the comments. Mr Biden has annoyed China this way at least three times already. If the first was a flub, the fourth cannot be.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Alla Pugacheva</strong>, one of Russia’s best-known singers, spoke out against her country’s actions in Ukraine and bemoaned its “illusory aims”. She asked to be declared a “foreign agent”, in solidarity with her singer husband, Maxim Galkin. Russia’s justice ministry accused Mr Galkin of conducting political activities on behalf of Ukraine after he too criticised Russia’s invasion. At home [discontent with the war](https://te.arielherself.xyz/europe/2022/09/15/russian-discontent-with-the-war-and-vladimir-putin-is-growing) has been growing.
+Greenpeace and other <strong>environmental groups</strong> said they will sue the <strong>European Commission</strong> unless it revokes the “fake green” status it has awarded to gas-fired and nuclear power stations. The [EU’s rules allow investments](https://te.arielherself.xyz/leaders/2022/01/08/the-eus-green-rules-will-do-too-little-to-tackle-climate-change) in such plants to be categorised as climate-friendly. Last week the European Parliament had angered climate activists by preserving wood’s designation as a source of renewable energy.
 
-Recep Tayyip Erdogan, <strong>Turkey’s</strong> president, said his country would apply for full membership of the <strong>Shanghai Co-operation Organisation</strong>, a [regional talking shop](https://te.arielherself.xyz/the-economist-explains/2022/09/14/what-is-the-shanghai-co-operation-organisation) that includes China, Russia, India and much of Central Asia. Turkey is currently a “dialogue member”, and would be the club’s first NATO signatory. The SCO, which met in Uzbekistan this week, was formed to promote closer security and economic links.
+At least 94 people were killed in last week’s clashes along the [contested border](https://te.arielherself.xyz/asia/2019/10/31/convoluted-borders-are-hampering-central-asian-integration) between <strong>Kyrgyzstan</strong> and <strong>Tajikistan</strong>, according to officials from both countries. A ceasefire between the former Soviet republics was brokered on Friday, but there have been claims of shelling since. Vladimir Putin, Russia’s president, spoke to leaders from both countries on Sunday and called for a peaceful solution.
 
-Police in <strong>Serbia</strong> arrested 64 people as right-wing and religious protesters turned out to demonstrate against an LGBT pride march that was taking place in the capital, Belgrade. The march itself had initially been banned over fears that it would stoke violence.
+The entire island of <strong>Puerto Rico </strong>lost power after being hit by<strong> Hurricane Fiona</strong>, according to its governor, Pedro Pierluisi. Joe Biden allowed the immediate release of federal resources for relief efforts (which were [botched after Hurricane Maria in 2017](https://te.arielherself.xyz/briefing/2018/04/14/america-has-let-down-its-puerto-rican-citizens)). Meanwhile in Japan, thousands of people on Kyushu were urged to leave their homes as Typhoon Nanmadol made landfall. The storm threatens 500mm of rainfall.
 
-<strong>Word of the week:</strong> <em>boyan, </em>a word meaning “liquorice” in the Karakalpak language, spoken in Karakalpakstan, western Uzbekistan. [Read the full story](https://te.arielherself.xyz/asia/2022/09/15/liquorice-flourishes-in-salty-soils-of-the-dried-up-aral-sea).
+<strong>Fact of the day: </strong>99%, the share of Kenyan migrant workers abused in the Gulf, according to a poll. [Read the full story](https://te.arielherself.xyz/middle-east-and-africa/2022/09/15/in-the-gulf-99-of-kenyan-migrant-workers-are-abused-a-poll-finds).
 
 ----------
 
-## China’s mortgage boycotts
+## Republicans struggle to self-define
 
-This year Zhengzhou, a megacity in central China, has been swept with protests over the loss of billions of dollars of deposits in banks. More recently, it has become the centre of a mortgage-boycott movement. Up to 90% of homes in China are pre-sold. But the crisis shaking [China’s property market](https://te.arielherself.xyz/finance-and-economics/2022/09/12/chinas-ponzi-like-property-market-is-eroding-faith-in-the-government) over the past year has meant that developers often run out of cash before completing new projects. Understandably, homebuyers do not want to pay for undelivered homes.
+On Monday [Kevin McCarthy](https://te.arielherself.xyz/united-states/kevin-mccarthys-accidental-truthfulness/21808964), the Republican leader in the House of Representatives, is set to unveil his party’s “Commitment to America”. Consciously modelled after the “Contract with America”—a prospectus of what Republicans would do if they won the House in 1994, which helped them win back control of Congress in midterm election—Mr McCarthy’s similarly aims to pinpoint [what Republicans stand for](https://te.arielherself.xyz/business/2022/08/15/republicans-are-falling-out-of-love-with-america-inc).
 
-Now, for the first time, data collected by online activists reveals the extent of the fury. The number of organised boycott campaigns across China is approaching 350, up from 235 in July. With 45 cases, Zhengzhou is the unhappy centre of these disturbances. China’s government is now faced with the huge task of making sure troubled property companies keep building homes. If it fails, the protests could spread even further.
+But the party has shown little interest in sketching a policy agenda. Mitch McConnell, the Republican leader in the Senate, believes such documents are counterproductive, and will not weigh in. Rick Scott, a senator from Florida, has pitched a plan under which all federal legislation would expire after five years unless explicitly reauthorised. Lindsey Graham of South Carolina befuddled many last week when he pitched a nationwide abortion limit at 15 weeks—which would be stricter than in many blue states. Expect more policy incoherence.
 
-## The return of Oktoberfest
+## Queen Elizabeth II is laid to rest
 
-Resilient to everything bar bouts of cholera and hyperinflation, world wars and, most recently, the covid pandemic, the world’s biggest <em>Volksfest </em>is back. After a two-year hiatus, 6m visitors are expected to visit Munich’s Oktoberfest, which starts this weekend. The spectacle runs until October 3rd, the day that Germans celebrate reunification. Between spins on amusement rides and aural assaults by oompah bands, the lederhosen- and dirndl-sporting revellers will knock back the equivalent of nearly three Olympic swimming pools of beer. Oktoberfest will pump more than €1bn ($999m) into Munich’s economy. 
+On Monday, just before 11am, the coffin of [Queen Elizabeth II](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) was carried to Westminster Abbey, where she was crowned almost [70 years ago](https://te.arielherself.xyz/films/2022/09/08/queen-elizabeth-iis-reign-in-numbers). Back then, a lady-in-waiting suggested to her, just before she went into her coronation, that she must be nervous. Yes, Elizabeth replied. And added—referring to a horse that she had running in a race four days later—“I really do think Aureole will win.”
 
-Politicians from Bavaria’s ruling Christian Social Union, who often make conspicuous visits to Oktoberfest, will hope that boozed-up visitors tired of covid restrictions will remember the munificence of their leaders, ahead of next year’s Bavarian state elections. But the fair won’t release attendees from all their worries: as [inflation soars](https://te.arielherself.xyz/leaders/2021/05/27/germany-must-learn-to-live-with-a-little-inflation), a <em>maß</em>, or one litre of beer, will cost between €12.60 and €13.80, 16% more than in 2019. Europe’s economic problems, made liquid.
+In the [intervening decades](https://te.arielherself.xyz/briefing/2022/09/08/britains-longest-serving-ruler-strengthened-the-monarchy), it was less for her humour than her solemn devotion to duty that she would become known: she crossed the world, smiling, waving and working. She swore in her final prime minister, her fifteenth, just two days before she died. Now, people are coming to her: [thousands queued](https://te.arielherself.xyz/the-economist-explains/2022/09/15/why-britons-love-to-queue) to see her coffin and world leaders, including Joe Biden, converged on London to see her funeral—and the close of an Elizabethan era.
 
-## The queen and “The Crown”
+## The Global Fund replenishes its coffers
 
-For much of Elizabeth II’s 70-year reign, [depictions of the queen ](https://te.arielherself.xyz/britain/2022/09/09/queen-elizabeth-iis-life-and-reign-in-pictures)on film and television did not delve far below the surface. Think regal waves, clipped intonation and corgis. But “[The Crown](https://te.arielherself.xyz/culture/2022/09/15/the-crown-will-help-shape-the-memory-of-queen-elizabeth-ii)”, a drama about Elizabeth’s reign that has been broadcast on Netflix since 2016, has tried to understand the queen as a person as well as a figurehead. [Since her death](https://te.arielherself.xyz/1843/2022/09/12/the-queens-confused-mourners) “The Crown” has shot up Netflix’s viewing charts again.
+The [Global Fund](https://te.arielherself.xyz/science-and-technology/2019/10/10/how-to-defeat-aids-malaria-and-tuberculosis), founded in 2002 by governments and businesses with the purpose of fighting [AIDS](https://te.arielherself.xyz/leaders/2022/08/03/do-not-let-hiv-and-aids-slide-down-the-priority-list), [malaria](https://te.arielherself.xyz/science-and-technology/2022/09/08/a-new-malaria-vaccine-shows-promising-results) and [tuberculosis](https://te.arielherself.xyz/science-and-technology/most-resistance-causing-mutations-in-tb-have-now-been-identified/21805727), holds its so-called replenishment meeting in New York on Monday. It wants to raise $18bn to spend over the next three years in order to save 20m lives. The fund’s track record suggests it would use that money wisely. Its officials claim to have prevented 50m deaths between 2002 and 2021. Last year the fund helped put 23.3m people on antiretroviral HIV drugs, treat 5.3m people for tuberculosis and distribute 133.2m mosquito nets.
 
-The show’s recurring theme is Elizabeth’s unwavering sense of duty. But “The Crown” suggests that her famed stoicism could be both strength and flaw. For instance, in 1966 the fictional queen struggles to find the right words after the Aberfan disaster in Wales, which killed almost 150 people, and resorts to faking tears.
+But covid has proved a [setback](https://te.arielherself.xyz/science-and-technology/2022/08/02/despite-setbacks-hiv-can-be-beaten). Key metrics for all three diseases worsened in 2020, including the percentage of people treated for TB, which fell from 69% to 57%. Deaths from the infection rose for the first time in a decade. The successful alliance of governments and the private sector will need to continue rising to the challenge.
 
-A new season of “The Crown”, with Imelda Staunton in the role of the queen following stints by Claire Foy and Olivia Colman, is due in November. For the show’s fans it will be another chance to consider the human behind the symbol.
+## Japan’s knotty celebration of longevity
 
-## Art confronts the authorities in Turkey
+On Monday Japan celebrates its <em>Keiro no Hi</em> or “Respect for the Aged Day”, a public holiday. While covid has halted annual events and gatherings for a third consecutive year, Japanese still mark it by sending gifts to grandparents, a boon for e-commerce firms.
 
-A decade ago Istanbul was the latest darling of the European arts scene. But the hype started to fade in 2013, when Turkish authorities brutally smothered mass protests, and vanished entirely after 2016, when the government responded to a coup with a brutal crackdown. [Free expression has never recovered](https://te.arielherself.xyz/books-and-arts/2018/08/18/recep-tayyip-erdogan-wants-to-bring-turkeys-artists-to-heel). Art, however, is trickling back.
+But the celebration of [Japan’s longevity](https://te.arielherself.xyz/asia/2022/02/05/japan-is-searching-for-the-secrets-to-healthy-old-age) is also a reminder of the country’s deepening demographic woes. Recently published statistics show the number of people aged 65 and over in Tokyo, the capital, reached a record level this year. Across the whole of Japan their share is around 30%. In April the country [dropped its legal age for adulthood](https://te.arielherself.xyz/the-world-ahead/2021/11/08/creating-new-adults-will-not-slow-japans-ageing) from 20 to 18, creating roughly 2m “new” adults overnight.
 
-The Istanbul Biennial, which kicked off this weekend, seems to have a twofold mission. One is to showcase some of the city’s lesser-known or abandoned attractions. The other is to explore what is possible within today’s limits of artistic freedom in Turkey. Inside a metro tunnel dug under Gezi Park, the site of the [2013 protests](https://te.arielherself.xyz/europe/2020/02/20/turkey-acquits-the-gezi-park-protesters-then-rearrests-one), visitors are exposed to cascading waves of noise, part of an audio installation that explores the relationship between trauma and sound. Computer tablets in a shuttered 19th-century Greek school display footage of interviews with leaders of resistance movements. Subversive art in today’s Turkey is rare. But this is a start.
+[Japanese seniors](https://te.arielherself.xyz/asia/2022/06/16/elderly-japanese-are-discovering-the-benefits-of-cannabis-products) appear increasingly ambivalent about the holiday. Many who are active and working distance themselves from the event. Some take offence to being called “old”. As much as filial piety matters in Japan, <em>Keiro no Hi</em> may need a rejuvenation.
 
-## Weekend profile: Giorgia Meloni, Italy’s probable new prime minister
+## Stop the sun, refreeze the poles
 
-Giorgia Meloni grew up as the daughter of a single parent. Her father left soon after she was born in 1977. Ms Meloni and her sister subsequently compounded their mother’s problems by accidentally setting fire to their apartment in a leafy Rome suburb. Recounting this incident in her autobiography, Ms Meloni is amused rather than ashamed. The loss of her childhood home might have left her with “the courage to set up a political home years later”, she jokes.
+[Stratospheric aerosol injections](https://te.arielherself.xyz/science-and-technology/2021/02/27/dusting-the-upper-atmosphere-could-help-counter-climate-change) may sound like a wacky way to wind back climate change. A fleet of aircraft pump fine dust into the upper atmosphere until it sheaths the entire planet, reflecting sunlight and cooling the Earth. But when limited to polar regions, which are [warming at a faster pace](https://te.arielherself.xyz/graphic-detail/2022/03/24/parts-of-antarctica-have-been-40degc-warmer-than-their-march-average) than the rest of the world, SAI begins to look less far-fetched.
 
-That home is the [Brothers of Italy (FdI) party](https://te.arielherself.xyz/europe/2022/08/11/can-anything-stop-italys-radical-right), which polls suggest will win the most votes in the general election on September 25th. If the conservative alliance of which it is a part wins a comfortable parliamentary majority, as is expected, Ms Meloni could well be Italy’s next prime minister. 
+A new study published in <em>Environmental Research Communications</em>, a journal, finds that SAI could be deployed to refreeze the poles. Microscopic aerosol particles would be released at latitudes of 60 degrees north and south, and drift poleward to shade the ice. This, say the modellers, would cool the Arctic and Antarctica by 2°C per year, which would slow the pace of sea-level rise. But the method also has its drawbacks: considerable extra carbon emitted by roughly 125 tanker aircraft and an estimated cost of $11bn a year.
 
-Back in her girlhood, after the fire, Ms Meloni’s family moved to cheaper accommodation in Garbatella, a working-class district in the south of Rome. There she grew up poor but happy, though “a bit irascible”, she writes. At age 15—in reaction to the assassination of Paolo Borsellino, a right-wing anti-Mafia judge—Ms Meloni joined the youth wing of the neo-fascist Italian Social Movement (MSI). She did not go to university, yet by age 29 was a national lawmaker, representing MSI’s successor movement, the National Alliance. When she was 31 Silvio Berlusconi, then prime minister, made her the youngest minister in the history of the republic.
+## Daily quiz
 
-Ms Meloni’s career has not been hindered by the fact that in 2016 she had a child out of wedlock, despite her party’s vigorous advocacy for traditional values. In recent years, she has worked hard to soften her image, toning down her rhetoric. But her periodic lapses into strident euroscepticism—most recently during a campaign rally in Milan on September 11th —suggest that little has really changed. Someone who knows her calls her views “Trumpite”. Ms Meloni and FdI’s rapid journey from the fringes of Italian politics to centre stage has taken many observers by surprise. But she still has to make her position clear—and prove she can govern a country.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Good? A little crude and rude? Nothing in between in talent competition! (11)
-
-<em>1 across </em>Revolutionary communist spirit leads to assassination (6)
-
-<em>2 across</em> Chose to demolish depot? (5)
-
-<em>3 across </em>Custard-coloured flower (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> The opposite of monarchy? (11)
-
-<em>1 across </em>St Louis’s unwanted claim to fame (6)
-
-<em>2 across </em>What Elon Musk did out of due diligence (5)
-
-<em>3 across </em>Northernmost great river connected to China’s Grand Canal (6)
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Shin Inagaki</strong>, Tokyo, Japan
-
-North America: <strong>Lauren Fragomeni</strong>, Ottawa, Canada
-
-Central and South America: <strong>Ramon Azpurua</strong>, Caracas, Venezuela 
-
-Europe: <strong>Rachel Loryman</strong>, London, United Kingdom
-
-Africa: <strong>Gary Ganz,</strong> Johannesburg, South Africa
-
-Oceania: <strong>Paula Johnson</strong>, Perth, Australia 
-
-They all gave the correct answers of Twilight, White Stripes, Houston Rockets, Bruce Banner and Brave New World. The theme is that these are all words in the first verse of America’s national anthem. 
+<strong>Monday: </strong>Atlas, Luna and Madagascan sunset are all types of what creature?
 
 ----------
 
