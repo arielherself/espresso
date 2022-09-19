@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Public funeral events for<strong> Elizabeth II </strong>concluded with a service at Windsor Castle, where [the queen](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) will later be buried in a private ceremony. A state funeral took place on Monday morning at Westminster Abbey, attended by Joe Biden, Emmanuel Macron and around 500 other foreign dignitaries. The ceremonies, which drew large crowds of mourners, mark the end of ten days of [national mourning](https://te.arielherself.xyz/queen-elizabeth).
+Public funeral events for<strong> Elizabeth II </strong>concluded with a service at Windsor Castle, where [the queen](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) was buried in a private ceremony. A state funeral took place on Monday morning at Westminster Abbey, attended by Joe Biden, Emmanuel Macron and around 500 other foreign dignitaries. The ceremonies, which drew large crowds of mourners, mark the end of ten days of [national mourning](https://te.arielherself.xyz/queen-elizabeth).
 
 A <strong>Russian missile </strong>struck a Ukrainian nuclear plant on Monday, landing around 300m away from the reactors, according to Ukrainian authorities. The head of Energoatom, the national nuclear energy firm, described the attack on Pivdennoukrainsk station in the country’s southern Mykolaiv region as “[nuclear terrorism](https://te.arielherself.xyz/the-economist-explains/2022/09/14/do-russias-military-setbacks-increase-the-risk-of-nuclear-conflict)”. Separately, the Kremlin <strong>denied </strong>having committed war crimes in the eastern Kharkiv region, where a [Ukrainian counter-offensive](https://te.arielherself.xyz/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) has uncovered mass graves with bodies carrying evidence of torture.
 
@@ -66,7 +66,7 @@ A new study published in <em>Environmental Research Communications</em>, a journ
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0554706c7f407675776076766a4560666a6b6a686c76712b666a68">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="91c0e4f8ebd4e2e1e3f4e2e2fed1f4f2fefffefcf8e2e5bff2fefc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Atlas, Luna and Madagascan sunset are all types of what creature?
 
