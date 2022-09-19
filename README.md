@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-World leaders gathered at Westminster Abbey for the funeral of <strong>Elizabeth II</strong>. Around 500 foreign dignitaries, including <strong>Joe Biden</strong> and <strong>Emmanuel Macron</strong>, attended the service in London, which draws to a close ten days of [national mourning](https://te.arielherself.xyz/queen-elizabeth). Elizabeth II’s official “[lying-in-state](https://te.arielherself.xyz/the-economist-explains/2022/09/14/what-does-it-mean-to-lie-in-state)”, which saw some 750,000 people shuffle past the late monarch’s coffin, concluded early on Monday morning.
+A state funeral for <strong>Elizabeth II</strong> and procession led by <strong>Charles III</strong> marked the end of ten days of [national mourning](https://te.arielherself.xyz/queen-elizabeth). Around 500 foreign dignitaries, including <strong>Joe Biden</strong> and <strong>Emmanuel Macron</strong>, attended the service in Westminster Abbey. Next the coffin will be taken to Windsor Castle, where a second service will be held on Monday afternoon, before the queen is buried in a private ceremony.
 
 Volodymyr Zelensky, <strong>Ukraine’s</strong> president, vowed there would be no “lull” after his country’s [recent success](https://te.arielherself.xyz/europe/2022/09/18/where-next-for-ukraines-army) in regaining territory lost to <strong>Russia</strong>. He said Ukrainian forces are preparing for the “next sequence”. Over the weekend they struck several Russian military strongholds in southern Ukraine. Britain’s defence ministry estimated that Russia has lost four jet-fighters in the past ten days; Admiral Sir Tony Radakin, the chief of the defence staff, judged Vladimir Putin, Russia’s president, to be “failing on all of his military strategic objectives”.
 
@@ -66,7 +66,7 @@ A new study published in <em>Environmental Research Communications</em>, a journ
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6736120e1d22141715021414082702040809080a0e14134904080a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f9a88c9083bc8a898b9c8a8a96b99c9a96979694908a8dd79a9694">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Atlas, Luna and Madagascan sunset are all types of what creature?
 
