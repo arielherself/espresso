@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-A state funeral for <strong>Elizabeth II</strong> and procession led by <strong>Charles III</strong> marked the end of ten days of [national mourning](https://te.arielherself.xyz/queen-elizabeth). Around 500 foreign dignitaries, including <strong>Joe Biden</strong> and <strong>Emmanuel Macron</strong>, attended the service in Westminster Abbey. The queen’s coffin was transported to Windsor Castle, where a second funeral service will be held on Monday afternoon. This evening the queen will be buried in a private ceremony.
+Public funeral events for<strong> Elizabeth II </strong>concluded with a service at Windsor Castle, where [the queen](https://te.arielherself.xyz/obituary/2022/09/08/elizabeth-ii-never-laid-down-the-heavy-weight-of-the-crown) will later be buried in a private ceremony. A state funeral took place on Monday morning at Westminster Abbey, attended by Joe Biden, Emmanuel Macron and around 500 other foreign dignitaries. The ceremonies, which drew large crowds of mourners, mark the end of ten days of [national mourning](https://te.arielherself.xyz/queen-elizabeth).
 
 A <strong>Russian missile </strong>struck a Ukrainian nuclear plant on Monday, landing around 300m away from the reactors, according to Ukrainian authorities. The head of Energoatom, the national nuclear energy firm, described the attack on Pivdennoukrainsk station in the country’s southern Mykolaiv region as “[nuclear terrorism](https://te.arielherself.xyz/the-economist-explains/2022/09/14/do-russias-military-setbacks-increase-the-risk-of-nuclear-conflict)”. Separately, the Kremlin <strong>denied </strong>having committed war crimes in the eastern Kharkiv region, where a [Ukrainian counter-offensive](https://te.arielherself.xyz/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) has uncovered mass graves with bodies carrying evidence of torture.
 
@@ -22,9 +22,9 @@ Estonia, Latvia, Lithuania and Poland have <strong>banned Russian travellers</st
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Volkswagen</strong>, a German carmaker, said it hopes to raise €9.4bn ($9.4bn) when it [floats](https://te.arielherself.xyz/business/2022/02/26/porsche-and-volkswagen-are-set-to-uncouple-at-last) <strong>Porsche</strong>, the sports-car company it owns, on September 29th. The valuation, at €75bn, is lower than its initial estimates but would still make it Germany’s second-largest IPO (after Deutsche Telekom’s in 1996). Volkswagen said it will use the proceeds to finance its electric-vehicle transition.
-
 The <strong>Taliban </strong>exchanged Mark Frerichs, an American engineer, for Bashir Noorzai, an Afghan tribal leader with connections to the [terrorist group](https://te.arielherself.xyz/leaders/the-taliban-are-shackling-half-the-afghan-population/21808483). Mr Noorzai helped finance the Taliban in the 1990s and was arrested in 2005 for running one of the world’s largest drug-smuggling operations. Mr Frerichs, who had been working in Afghanistan as a contractor, was abducted by the Taliban in February 2020.
+
+<strong>Volkswagen</strong>, a German carmaker, said it hopes to raise €9.4bn ($9.4bn) when it [floats](https://te.arielherself.xyz/business/2022/02/26/porsche-and-volkswagen-are-set-to-uncouple-at-last) <strong>Porsche</strong>, the sports-car company it owns, on September 29th. The valuation, at €75bn, is lower than its initial estimates but would still make it Germany’s second-largest IPO (after Deutsche Telekom’s in 1996). Volkswagen said it will use the proceeds to finance its electric-vehicle transition.
 
 Greenpeace and other <strong>environmental groups</strong> said they will sue the <strong>European Commission</strong> unless it revokes the “fake green” status it has awarded to gas-fired and nuclear power stations. The [EU’s rules allow investments](https://te.arielherself.xyz/leaders/2022/01/08/the-eus-green-rules-will-do-too-little-to-tackle-climate-change) in such plants to be categorised as climate-friendly. Last week the European Parliament had angered climate activists by preserving wood’s designation as a source of renewable energy.
 
@@ -66,7 +66,7 @@ A new study published in <em>Environmental Research Communications</em>, a journ
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3465415d4e714744465147475b7451575b5a5b595d47401a575b59">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="58092d31221d2b282a3d2b2b37183d3b37363735312b2c763b3735">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Atlas, Luna and Madagascan sunset are all types of what creature?
 
