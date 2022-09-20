@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-09-19</p>
+# <p align="center">The world in brief 2022-09-20</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -66,7 +66,7 @@ A new study published in <em>Environmental Research Communications</em>, a journ
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3e6f4b57447b4d4e4c5b4d4d517e5b5d51505153574d4a105d5153">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="80d1f5e9fac5f3f0f2e5f3f3efc0e5e3efeeefede9f3f4aee3efed">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Atlas, Luna and Madagascan sunset are all types of what creature?
 
