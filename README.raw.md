@@ -18,7 +18,7 @@ The lower house of <strong>Russia’s</strong> parliament passed a bill mandatin
 
 Protests erupted across <strong>Iran </strong>over the death of a young Kurdish woman, <strong>Mahsa Amini</strong>, who died in police custody last week after being arrested for wearing her hijab incorrectly. In Iran’s Kurdistan province security forces opened fire on demonstrators. At least four were killed, according to a rights group, while another 85 were injured and 200 arrested. During the protests some women have been burning their [headscarves](https://www.economist.com/the-economist-explains/2018/03/08/why-iranian-women-are-taking-off-their-veils).
 
-Violence broke out in the <strong>West Bank</strong> towns of Nablus and Jenin between security forces of the [Palestine Authority](https://www.economist.com/middle-east-and-africa/2022/08/23/the-ageing-ailing-palestinian-leader-does-not-do-much-governing) and supporters of the Islamist group Hamas. On Monday troops of the Palestinian Authority, which is controlled by Hamas’s rival, Fatah, entered Nablus and arrested Musab Shtayyeh, a Hamas commander wanted by Israel, which insists the PA must do more to crack down on militants.
+Violence broke out in the <strong>West Bank</strong> towns of Nablus and Jenin between security forces of the [Palestinian Authority](https://www.economist.com/middle-east-and-africa/2022/08/23/the-ageing-ailing-palestinian-leader-does-not-do-much-governing) and supporters of the Islamist group Hamas. On Monday troops of the Palestinian Authority, which is controlled by Hamas’s rival, Fatah, entered Nablus and arrested Musab Shtayyeh, a Hamas commander wanted by Israel, which insists the PA must do more to crack down on militants.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -34,7 +34,7 @@ Making her way to the UN General Assembly in New York—and a first meeting with
 
 ## World leaders assemble at the UN
 
-A day after one gathering of world leaders in London, at [Elizabeth II’s funeral](https://www.economist.com/1843/2022/09/16/for-a-last-moment-the-queen-is-everywhere), another gets under way in New York on Tuesday, at the UN General Assembly. The leaders’ annual debate will resume fully in person, after two years of covid-related disruption. But the war in Ukraine, the energy crisis and climate-related disasters mean this will hardly be a happy reunion.
+A day after one gathering of world leaders in London, at [Elizabeth II’s funeral](https://www.economist.com/1843/2022/09/16/for-a-last-moment-the-queen-is-everywhere), another is under way in New York on Tuesday, at the UN General Assembly. The leaders’ annual debate has resumed fully in person, after two years of covid-related disruption. But the war in Ukraine, the energy crisis and climate-related disasters mean this will hardly be a happy reunion.
 
 Joe Biden will address the assembly on Wednesday. In 2019 Donald Trump told the UN that “the future does not belong to globalists”. Last year Mr Biden reassured fellow leaders that America was “back at the table in international forums”. But since then divisions between the great powers have deepened; last week Mr Biden felt compelled to warn Vladimir Putin against using [chemical](https://www.economist.com/news/2022/03/11/could-russia-use-chemical-weapons-in-ukraine) or [nuclear weapons](https://www.economist.com/the-economist-explains/2022/09/14/do-russias-military-setbacks-increase-the-risk-of-nuclear-conflict) in Ukraine. And the ravages of the pandemic have held back progress in health, education and standards of living for two consecutive years, playing havoc with the UN’s agenda—not least its sustainable-development goals.
 
@@ -64,7 +64,7 @@ Though groundbreaking for its time, parts of the book may now seem nauseating. �
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f6a7839f8cb385868493858599b693959998999b9f8582d895999b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="94c5e1fdeed1e7e4e6f1e7e7fbd4f1f7fbfafbf9fde7e0baf7fbf9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What in maths is defined as “the number of different digits that a system of counting uses to represent numbers”?
 
