@@ -48,7 +48,7 @@ If so, that will leave the BoJ even further [out of step](https://te.arielhersel
 
 Canada legalised recreational marijuana in 2018 in the hope that a [thriving cannabis industry](https://te.arielherself.xyz/business/2018/07/05/canadas-cannabis-firms-plot-world-domination) would replace drug-smuggling gangs. Better quality-control and labelling of doses were to make for safer highs. Prices of regulated and unregulated marijuana in Canada are slowly converging. But black-market suppliers, who neither pay taxes nor abide by stringent regulations, have retained their edge: cost remains the single most important factor in choosing a source for most buyers.
 
-That is an issue for Aurora Cannabis, one of Canada’s largest pot producers, which is expected to report more losses on Tuesday. Since March 2019 the company’s share price has tumbled from more than C$150 (US$113) to below C$2. Investors will be inspecting the company’s decision last month to buy Bevo Farms, a producer of vegetables and houseplants. And sentiment around legal cannabis will largely depend on regulators: as America’s senate backtracks on a bill to decriminalise cannabis, Germany—with a potential market estimated at $16.6bn—is mulling legalisation.
+That is an issue for Aurora Cannabis, one of Canada’s largest pot producers, which announced another quarterly loss on Tuesday. Since March 2019 the company’s share price has tumbled from more than C$150 (US$113) to below C$2. Investors will be inspecting the company’s decision last month to buy Bevo Farms, a producer of vegetables and houseplants. And sentiment around legal cannabis will largely depend on regulators: as America’s senate backtracks on a bill to decriminalise cannabis, Germany—with a potential market estimated at $16.6bn—is mulling legalisation.
 
 ## Argentina’s economy grows amid woes
 
@@ -64,7 +64,7 @@ Though groundbreaking for its time, parts of the book may now seem nauseating. �
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6534100c1f201615170016160a2500060a0b0a080c16114b060a08">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4a1b3f23300f393a382f3939250a2f292524252723393e64292527">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What in maths is defined as “the number of different digits that a system of counting uses to represent numbers”?
 
