@@ -14,19 +14,19 @@
 
 <strong>Ukrainian</strong> forces said they had retaken the village of Bilohorivka, on the outskirts of Lysychansk in the Russian-controlled province of <strong>Luhansk</strong>. The gain is significant because President Vladimir Putin’s stated [war aim](https://www.economist.com/europe/2022/09/11/is-russia-on-the-run) is to annex all of the eastern region of Donbas, of which Luhansk forms half. Ukraine’s president, Volodymyr Zelensky, said that occupiers in the region were “in a panic”. As if to confirm that, the Kremlin-backed leader of Donetsk, the other constituent part of Donbas, called for a swift [referendum](https://www.economist.com/leaders/2022/09/15/vladimir-putins-war-is-failing-the-west-should-help-it-fail-faster) on handing the region to Russia.
 
-The lower house of <strong>Russia’s</strong> parliament unanimously passed a bill introducing “mobilisation” and “martial law” into the criminal code, potentially heralding a new effort to increase [military manpower](https://www.economist.com/europe/2022/08/25/ukraine-and-russia-both-need-more-soldiers) for its [flagging campaign](https://www.economist.com/leaders/2022/09/15/vladimir-putins-war-is-failing-the-west-should-help-it-fail-faster) in Ukraine. The bill could be approved by the Duma’s upper house as early as Wednesday, after which Mr Putin would sign it into law.
-
 Protests erupted across <strong>Iran </strong>over the death of a young Kurdish woman, <strong>Mahsa Amini</strong>, who died in police custody last week after being arrested for wearing her hijab incorrectly. In Iran’s Kurdistan province security forces opened fire on demonstrators. At least four were killed, according to a rights group, while another 85 were injured and 200 arrested. During the protests some women have been burning their [headscarves](https://www.economist.com/the-economist-explains/2018/03/08/why-iranian-women-are-taking-off-their-veils).
 
 Violence broke out in the <strong>West Bank</strong> towns of Nablus and Jenin between security forces of the [Palestine Authority](https://www.economist.com/middle-east-and-africa/2022/08/23/the-ageing-ailing-palestinian-leader-does-not-do-much-governing) and supporters of the Islamist group Hamas. On Monday troops of the Palestinian Authority, which is controlled by Hamas’s rival, Fatah, entered Nablus and arrested Musab Shtayyeh, a Hamas commander wanted by Israel, which insists the PA must do more to crack down on militants.
 
-Listen to an abridged version of the subscriber-only briefing.
-
 <strong>Hurricane Fiona</strong> made landfall in the <strong>Dominican Republic</strong>. Torrential rain and winds of 90mph (145kph) forced roads and businesses to close in the east of the Caribbean country. The hurricane is forecast to strengthen as it travels towards the Turks and Caicos Islands. Over the weekend the storm battered neighbouring <strong>Puerto Rico</strong>, killing several people, cutting off power to 1.3m of [the territory’s](https://www.economist.com/united-states/2021/11/20/puerto-rico-success-story) residents and leaving 70% without potable water.
+
+Listen to an abridged version of the subscriber-only briefing.
 
 <strong>China</strong> kept its benchmark <strong>lending rates </strong>unchanged—despite the yuan’s weakening in recent weeks and central banks’ tightening monetary policy elsewhere. Officials decided not to increase one- and five-year loan prime rates as they try to find a balance between supporting an [economic recovery](https://www.economist.com/china/2022/08/18/chinas-economy-is-beset-by-problems) and bolstering the yuan.
 
 Making her way to the UN General Assembly in New York—and a first meeting with Joe Biden—<strong>Liz Truss</strong>, Britain’s new [prime minister](https://www.economist.com/leaders/2022/09/07/can-liz-truss-fix-britain), admitted that she has no expectation of striking any <strong>free-trade deal with America</strong> in “the short- to medium-term”. Transatlantic benefits of exactly that sort had been held out as [a great hope](https://www.economist.com/britain/2022/02/26/britains-post-brexit-trade-policy-is-slowly-maturing) by those who propounded Brexit.
+
+<strong>Russia </strong>and <strong>China </strong>agreed to carry out further joint military exercises and strengthen their defence co-operation after a meeting between diplomats in Fujian province on Monday. Despite recent disagreements between the two countries over Russia’s botched [invasion of Ukraine](https://www.economist.com/europe/2022/09/18/where-next-for-ukraines-army), the Chinese foreign ministry reaffirmed that they “always firmly support each other on issues concerning each other’s core interests”. China spent $8.3bn on Russian energy products last month, a new record.
 
 <strong>Fact of the day: </strong>94%, Egypt’s ratio of debt-to-GDP. [Read the full story](https://www.economist.com/middle-east-and-africa/2022/09/15/from-tea-to-cars-egypt-and-tunisia-struggle-to-pay-for-imports).
 
@@ -64,7 +64,7 @@ Though groundbreaking for its time, parts of the book may now seem nauseating. �
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8ddcf8e4f7c8fefdffe8fefee2cde8eee2e3e2e0e4fef9a3eee2e0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="96c7e3ffecd3e5e6e4f3e5e5f9d6f3f5f9f8f9fbffe5e2b8f5f9fb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What in maths is defined as “the number of different digits that a system of counting uses to represent numbers”?
 
