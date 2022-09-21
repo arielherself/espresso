@@ -16,7 +16,7 @@
 
 Mr Putin also promised full support to four <strong>referendums</strong> in [Russian-controlled parts](https://www.economist.com/europe/2022/09/20/vladimir-putins-situation-looks-ever-more-desperate) of <strong>Ukraine</strong>, scheduled to begin on Friday. On Tuesday officials in the regions of Donetsk, Luhansk, Kherson and Zaporizhia, which together make up 15% of Ukraine’s sovereign territory, said residents would vote on whether to formally join Russia. Russian-ruled parts of the Mykolaiv region will take part in Kherson’s referendum. Western governments expect the Kremlin to manipulate the results, and plan not to recognise them. 
 
-The second day of the <strong>UN General Assembly</strong> opened in New York. The summit’s proceedings have been dominated by Russia’s invasion of Ukraine. President Joe Biden will speak on Wednesday morning; he is expected to focus on the war and to promise new American aid. Volodymyr Zelensky, Ukraine’s president, is slated to speak in the afternoon. Vladimir Putin, Russia’s leader, will not attend, but his foreign minister, Sergey Lavrov, will deliver a speech on Saturday.
+In an address to the <strong>UN General Assembly</strong> in New York President <strong>Joe Biden</strong> condemned Russia&#x27;s invasion of Ukraine. The war must end on “just terms”, he said, and Russia was “the only country standing in the way”. Volodymyr Zelensky, Ukraine’s president, is slated to speak in the afternoon. Vladimir Putin, Russia’s leader, will not attend, but his foreign minister, Sergey Lavrov, will deliver a speech on Saturday.
 
 The death toll from <strong>Iran’s</strong> protests rose to at least seven. Authorities blamed protesters for the death of a member of the police force, while human-rights groups said that protesters had been killed by security forces. Rallies have been taking place since the funeral of Mahsa Amini, a young Kurdish woman, who died while in the custody of morality police. An internet blackout has been reported in Iran’s Kurdish region.
 
@@ -64,7 +64,7 @@ The report includes a survey suggesting that, of those diagnosed with dementia, 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="80d1f5e9fac5f3f0f2e5f3f3efc0e5e3efeeefede9f3f4aee3efed">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bbeaced2c1fec8cbc9dec8c8d4fbded8d4d5d4d6d2c8cf95d8d4d6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which politicians led the Labour party to disastrous defeat in the 1983 British general election?  
   
