@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 The <strong>Bank of England </strong>raised interest rates by 0.5 percentage points to 2.25%. The bank also predicted a second consecutive quarter of contraction, officially a recession, but warned that further increases might be needed to tackle rising prices. [Inflation in Britain](https://te.arielherself.xyz/britain/2022/07/28/the-bank-of-england-must-weather-high-inflation-and-meddling-politicians) remained stubbornly high in August, at 9.9%.
 
-In a recorded address to the UN General Assembly in New York <strong>Volodymyr Zelensky</strong>, Ukraine’s president, demanded “just punishment” for Russia, including stripping it of its veto power in the Security Council. Earlier <strong>Joe Biden</strong> had condemned Russia’s invasion and [urged other world leaders](https://te.arielherself.xyz/united-states/2022/09/21/joe-biden-warns-of-global-disorder-if-russia-is-not-stopped) to rally around Ukraine. Russia’s foreign minister, Sergei Lavrov, is to deliver a speech on Saturday.
+<strong>Ugandan </strong>authorities confirmed at least seven cases of the <strong>Ebola </strong>disease. They are infected with the Sudan strain of the virus, for which no vaccine has yet been tested. The cases were identified in the central region of Mubende. The World Health Organisation dispatched a team to assist the Ugandan authorities.
 
 Ukraine announced that Russia had released 215 Ukrainians in an unexpected <strong>prisoner swap</strong>, including commanders of its [Azov battalion](https://te.arielherself.xyz/europe/2022/05/17/mariupols-last-ukrainian-defenders-begin-to-surrender). The Ukrainian side released 55 Russian fighters and Viktor Medvedchuk, an oligarch close to Mr Putin. Russia also released ten third-country prisoners of war, including five British nationals, after negotiations mediated by Saudi Arabia’s crown prince, [Muhammad bin Salman](https://te.arielherself.xyz/1843/2022/07/28/mbs-despot-in-the-desert). 
 
@@ -68,7 +68,7 @@ The saga combines an audience-winning formula of high stakes, heroics and a [hap
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f0a185998ab58380829583839fb095939f9e9f9d998384de939f9d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d584a0bcaf90a6a5a7b0a6a6ba95b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which carry-cot for babies is named after a Biblical figure?  
   
