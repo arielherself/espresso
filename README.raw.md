@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Police in <strong>Russia</strong> arrested more than 1,300 people for participating in protests in response to President Vladimir Putin’s announcement of “<strong>partial mobilisation</strong>”, according to OVD-Info, a Russian human-rights group. Around 300,000 [reservists](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) will be conscripted under the plan, said Sergei Shoigu, the defence minister. On Wednesday seats on flights departing Russia sold rapidly and internet searches for “how to leave Russia” rocketed.
+<strong>Russia</strong> began its <strong>conscription </strong>campaign to [boost its manpower](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) in Ukraine. Protests broke out in response to the [announcement](https://www.economist.com/leaders/2022/09/21/vladimir-putin-vows-to-send-more-invaders-the-west-should-arm-ukraine-faster), leading to more than 1,300 arrests. Some detainees were told to report to enlistment offices, according to independent news outlets. Prices for flights out of Russia have skyrocketed, with many selling out. Dmitry Peskov, a Kremlin spokesman, called reports of an exodus exaggerated. As for allegations that arrested protesters were being served draft papers, Mr Peskov said that was not against the law. 
 
 America’s <strong>Federal Reserve</strong> raised its benchmark <strong>interest rate </strong>by 0.75 percentage points for the third time in a row. In an effort to tame [stubbornly high inflation](https://www.economist.com/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big) the central bank has raised short-term interest rates from 0% in early March to 3% today, the sharpest tightening of monetary policy in four decades. Asian stockmarkets sank in response on Thursday. 
 
@@ -68,7 +68,7 @@ The saga combines an audience-winning formula of high stakes, heroics and a [hap
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e4b5918d9ea19794968197978ba481878b8a8b898d9790ca878b89">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4e1f3b27340b3d3e3c2b3d3d210e2b2d21202123273d3a602d2123">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which carry-cot for babies is named after a Biblical figure?  
   
