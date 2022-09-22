@@ -22,11 +22,11 @@ A UN-backed [war crimes tribunal](https://te.arielherself.xyz/asia/2013/11/02/ju
 
 Listen to an abridged version of the subscriber-only briefing.
 
+Josep Borrell, the EU’s foreign policy chief, said that <strong>new sanctions</strong> would be [levied on Russia](https://te.arielherself.xyz/leaders/2022/08/25/are-sanctions-working) following its escalation of the war in Ukraine. Mr Borrell spoke from the sidelines of the UN General Assembly in New York. Also at the summit, Mohamed Bazoum, <strong>Niger’s president</strong>, warned that climate change was fuelling [extremism in the Sahel](https://te.arielherself.xyz/middle-east-and-africa/2022/03/05/the-worlds-centre-of-terrorism-has-shifted-to-the-sahel).
+
 The <strong>Bank of England </strong>raised interest rates by 0.5 percentage points to 2.25%. The bank also predicted a second consecutive quarter of contraction, officially a recession, but warned that further increases might be needed to tackle rising prices. [Inflation in Britain](https://te.arielherself.xyz/britain/2022/07/28/the-bank-of-england-must-weather-high-inflation-and-meddling-politicians) remained stubbornly high in August, at 9.9%.
 
 <strong>Ugandan </strong>authorities confirmed at least seven cases of the <strong>Ebola </strong>disease. They are infected with the Sudan strain of the virus, for which no vaccine has yet been tested. The cases were identified in the central region of Mubende. The World Health Organisation dispatched a team to assist the Ugandan authorities.
-
-Ukraine announced that Russia had released 215 Ukrainians in an unexpected <strong>prisoner swap</strong>, including commanders of its [Azov battalion](https://te.arielherself.xyz/europe/2022/05/17/mariupols-last-ukrainian-defenders-begin-to-surrender). The Ukrainian side released 55 Russian fighters and Viktor Medvedchuk, an oligarch close to Mr Putin. Russia also released ten third-country prisoners of war, including five British nationals, after negotiations mediated by Saudi Arabia’s crown prince, [Muhammad bin Salman](https://te.arielherself.xyz/1843/2022/07/28/mbs-despot-in-the-desert). 
 
 <strong>Fact of the day: </strong>66,000 yuan ($9,500), the amount that a grocer in China was fined for selling subpar celery. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/09/20/chinas-rulers-seem-resigned-to-a-slowing-economy).
 
@@ -68,7 +68,7 @@ The saga combines an audience-winning formula of high stakes, heroics and a [hap
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d584a0bcaf90a6a5a7b0a6a6ba95b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a8f9ddc1d2eddbd8dacddbdbc7e8cdcbc7c6c7c5c1dbdc86cbc7c5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which carry-cot for babies is named after a Biblical figure?  
   
