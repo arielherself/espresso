@@ -18,7 +18,7 @@ America’s <strong>Federal Reserve</strong> raised its benchmark <strong>intere
 
 <strong>Protesters in Iran</strong> set fire to police stations and vehicles amid ongoing demonstrations over the death of <strong>Mahsa Amini</strong>, a young Kurdish woman, in [police custody](https://te.arielherself.xyz/the-economist-explains/2018/03/08/why-iranian-women-are-taking-off-their-veils). Though fiercest in Iran’s Kurdish region, the protests have also spread to Tehran, the capital, and to some 50 cities and towns across the country. At least seven deaths have been reported.
 
-<strong>Britain</strong> lifted a moratorium on <strong>fracking </strong>for shale gas. The controversial practice, banned in 2019 for fear of causing earth tremors in the process, was allowed to resume in an attempt to expand domestic [energy production](https://te.arielherself.xyz/britain/britains-energy-strategy-is-both-timid-and-unrealistic/21808702). Jacob Rees-Mogg, Britain’s business and energy secretary, said that the country needed to “explore all avenues available to us” amid [spiralling energy prices](https://te.arielherself.xyz/britain/2022/08/26/energy-bills-in-britain-are-soaring).
+The <strong>Bank of England </strong>raised interest rates by 0.5 percentage points to 2.25%. The bank also predicted a second consecutive quarter of contraction, officially a recession, but warned that further increases might be needed to tackle rising prices. [Inflation in Britain](https://te.arielherself.xyz/britain/2022/07/28/the-bank-of-england-must-weather-high-inflation-and-meddling-politicians) remained stubbornly high in August, at 9.9%.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ The saga combines an audience-winning formula of high stakes, heroics and a [hap
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5a0b2f33201f292a283f2929351a3f393534353733292e74393537">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f6a7839f8cb385868493858599b693959998999b9f8582d895999b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which carry-cot for babies is named after a Biblical figure?  
   
