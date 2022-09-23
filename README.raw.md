@@ -18,7 +18,7 @@ In an extraordinary fiscal intervention, <strong>Kwasi Kwarteng</strong>, Britai
 
 <strong>Armenia </strong>and <strong>Azerbaijan </strong>accused each other of violating a ceasefire that had been agreed [last week.](https://www.economist.com/the-economist-explains/2022/09/13/why-azerbaijan-and-armenia-are-fighting-again) On Friday morning Armenia’s defence ministry announced that Azerbaijani armed forces had fired on Armenian combat positions. In response, Azerbaijan’s defence ministry said that Armenia had attacked first. Fighting between the two countries earlier in the month left nearly 200 soldiers dead.
 
-Polling stations opened in four Russian-controlled parts of <strong>Ukraine</strong>, with residents given until Tuesday to vote on whether they want to officially join Russia. Both the Ukrainian government and Western leaders have declared that the <strong>referendums</strong> are illegitimate and an excuse for annexation—they plan to ignore the results. Meanwhile in <strong>Russia</strong>, men attempted to leave the country as the Kremlin began its [mobilisation campaign](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation). 
+As <strong>sham referendums</strong> on joining Russia unfolded in [occupied areas](https://www.economist.com/europe/2022/09/22/fresh-evidence-shows-how-grim-life-is-under-russian-occupation-in-ukraine) of <strong>Ukraine</strong>, Ukrainian authorities stated that some residents were being forced to cast ballots by armed groups. Some employees were reportedly told they would be fired unless they voted. Both the Ukrainian government and Western leaders have declared the [referendums](https://www.economist.com/europe/2022/09/20/vladimir-putins-situation-looks-ever-more-desperate) illegitimate. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ Some have spent a fortune to watch his final appearance, a doubles match on Frid
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e4b5918d9ea19794968197978ba481878b8a8b898d9790ca878b89">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0f5e7a66754a7c7f7d6a7c7c604f6a6c60616062667c7b216c6062">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>In which novel by Charles Dickens does Thomas Gradgrind declare “teach these boys and girls nothing but facts”?  
   
