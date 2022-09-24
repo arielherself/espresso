@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>​​Ursula von der Leyen</strong>, the president of the European Commission, said the EU had “tools” to deal with undemocratic governments—a thinly veiled warning to <strong>Italy</strong> ahead of its election on Sunday. A hard-right alliance led by Giorgia Meloni is [expected to win](https://www.economist.com/leaders/2022/09/22/how-afraid-should-europe-be-of-giorgia-meloni). Matteo Salvini, the head of one of the parties in Ms Meloni&#x27;s bloc, called the comments “shameful arrogance”.
 
-At least 36 people were killed during storms in 24 hours in Uttar Pradesh, a state in northern <strong>India</strong>, including 12 who were struck by <strong>lightning</strong>. In the past year, across India, there has been a 34% rise in the number of lightning strikes, which are made more likely by climate change increasing the temperature and the amount of moisture in the air. 
+At least 36 people were killed during storms in 24 hours in northern <strong>India</strong>, including 12 who were struck by <strong>lightning</strong>. In the past year, across India, there has been a 34% rise in the number of lightning strikes, which are made more likely by climate change increasing the temperature and the amount of moisture in the air. 
 
 <strong>Word of the week: </strong><em>Nannaria swiftae</em>, the scientific name for a millipede given to honour Taylor Swift, the American pop star. [Read the full story.](https://www.economist.com/science-and-technology/2022/09/21/on-the-troubles-of-naming-species)
 
