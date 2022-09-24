@@ -18,15 +18,15 @@ Meanwhile<strong> Russia</strong> dismissed its top general in charge of logisti
 
 TotalEnergies, a French energy company, signed a $1.5bn deal with Qatar to increase <strong>natural-gas</strong> production in the Persian Gulf. Europe is searching for alternatives to Russian energy. Qatar plans to expand gas production in its share of the North Field, the world’s largest natural-gas reserve, by 60% by 2027, capitalising on increased demand.
 
-President Joe Biden’s press secretary called a ruling in <strong>Arizona banning abortions </strong>“catastrophic, dangerous and unacceptable”. On Friday a judge lifted an injunction on a law from 1864 that outlawed the procedure in all cases except to save the mother’s life. Earlier this year America’s Supreme Court overturned <em>Roe v Wade</em>, the ruling that established the constitutional right to an abortion.
+Sergei Lavrov, Russia’s foreign minister, said that <strong>America</strong> was trying to “subjugate” parts of Asia, in a speech to the UN. His comments came after China accused America of sending “very wrong, dangerous signals” on <strong>Taiwan</strong>, which China claims as its own, following a meeting between China’s foreign minister and America’s secretary of state.
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Storm Fiona</strong> made landfall on <strong>Canada’s </strong>east coast, destroying several homes and power lines with hurricane-force winds. There were no immediate reports of casualties. The storm, then classed as a hurricane, has already wreaked havoc in Puerto Rico (where it caused an island-wide blackout), the Dominican Republic and Turks and Caicos.
+
+President Joe Biden’s press secretary called a ruling in <strong>Arizona banning abortions </strong>“catastrophic, dangerous and unacceptable”. On Friday a judge lifted an injunction on a law from 1864 that outlawed the procedure in all cases except to save the mother’s life. Earlier this year America’s Supreme Court overturned <em>Roe v Wade</em>, the ruling that established the constitutional right to an abortion.
+
 <strong>Iran’s</strong> president, Ebrahim Raisi, said that the country must “deal decisively” with [protests](https://www.economist.com/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) against restrictions on women’s rights. State media said 35 people had died in the days since demonstrators took to the streets following the death of a woman beaten by morality police. America said it would allow tech firms to operate more freely in <strong>Iran</strong>, to help citizens there bypass internet restrictions.
-
-<strong>China’s</strong> foreign ministry said that <strong>America</strong> was sending “very wrong, dangerous signals” on <strong>Taiwan</strong>, after Antony Blinken, the American secretary of state, met with Wang Yi, the Chinese foreign minister, on the sidelines of the UN General Assembly in New York. Mr Blinken is said to have stressed the importance of [maintaining peace over the island](https://www.economist.com/china/2022/08/11/how-the-crisis-over-taiwan-will-change-us-china-relations), which China claims as its own. 
-
-At least 36 people were killed during storms in 24 hours in northern <strong>India</strong>, including 12 who were struck by <strong>lightning</strong>. In the past year, across India, there has been a 34% rise in the number of lightning strikes, which are made more likely by climate change increasing the temperature and the amount of moisture in the air. 
 
 <strong>Word of the week: </strong><em>Nannaria swiftae</em>, the scientific name for a millipede given to honour Taylor Swift, the American pop star. [Read the full story.](https://www.economist.com/science-and-technology/2022/09/21/on-the-troubles-of-naming-species)
 
