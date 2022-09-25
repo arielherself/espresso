@@ -18,7 +18,7 @@ Meanwhile more than 700 people were arrested on Saturday for participating in pr
 
 <strong>North Korea</strong> fired a short-range ballistic missile off its east coast, according to South Korea’s army. The launch—the latest in a [flurry of missile tests ](https://te.arielherself.xyz/asia/2022/02/03/what-is-behind-north-koreas-flurry-of-missile-tests)this year—came just after an American aircraft carrier arrived in South Korea to participate in military drills. South Korea called it an “act of grave provocation”. 
 
-Authorities in <strong>the Philippines</strong> began evacuating people from coastal areas as a major typhoon approached. Forecasters said Typhoon Noru is heading towards Luzon, the archipelago’s main island, at speeds of 120mph. In Canada, <strong>Storm Fiona</strong> made landfall on the country’s east coast, destroying several homes and power lines with hurricane-force winds. There were no immediate reports of casualties.
+Authorities in <strong>the Philippines</strong> began evacuating people from coastal areas as a major typhoon approached. Forecasters said Typhoon Noru is heading towards Luzon, the archipelago’s main island, at speeds of 120mph. In Canada, <strong>Storm Fiona</strong> made landfall on the country’s east coast, destroying several homes and power lines. And in the Caribbean tropical storm Ian is forecast on Sunday to strengthen to become a hurricane.
 
 Listen to an abridged version of the subscriber-only briefing.
 
