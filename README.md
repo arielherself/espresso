@@ -22,7 +22,7 @@ Eliud Kipchoge, a Kenyan runner, broke his own world record for the <strong>fast
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Authorities in <strong>the Philippines</strong> began evacuating people from coastal areas as a major typhoon approached. Forecasters said Typhoon Noru is heading towards Luzon, the archipelago’s main island, at speeds of 120mph. In Canada, <strong>Storm Fiona</strong> made landfall on the country’s east coast, destroying several homes and power lines. And in the Caribbean tropical storm Ian is forecast on Sunday to strengthen to become a hurricane.
+Thousands of people in <strong>the Philippines</strong> were evacuated from coastal areas as a major typhoon approached. Typhoon Noru made landfall west of Luzon, the archipelago’s main island, with winds of nearly 150mph. In Canada, Storm Fiona hit the country’s east coast, destroying several homes and power lines. And in the Caribbean tropical Storm Ian is forecast on Sunday to strengthen to become a hurricane.
 
 Banks in Lebanon will reopen on Monday, after armed raids by customers demanding access to their savings forced branches to close. The country’s banking association said that banks could reopen despite “the absence of adequate protection by the state”. [Withdrawals have been limited](https://te.arielherself.xyz/finance-and-economics/2022/05/07/desperate-lebanese-depositors-are-taking-their-banks-to-court) and deposits frozen for nearly three years amid an economic crisis.
 
