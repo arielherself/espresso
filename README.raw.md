@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-In <strong>Italy </strong>a general election is underway to fill seats in both houses of the country’s parliament, the Chamber of Deputies and the Senate. The vote is expected to return a victory for a right-wing coalition led by the far-right [Brothers of Italy](https://www.economist.com/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election) party. The party’s leader, Giorgia Meloni, is thus likely to become the country’s first female prime minister.
+Exit polls from <strong>Italy’s election</strong> suggest that a right-wing coalition led by the far-right [Brothers of Italy](https://www.economist.com/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election) party is set to win a majority in both houses of parliament. The party has its roots in neo-fascism. Its leader, Giorgia Meloni, is likely to become the country’s first female prime minister.
 
 Some <strong>Russian</strong> men of fighting age are being banned from leaving the country according to the Telegraph channel of Pavel Chikov, a Russian lawyer. Queues of people attempting to <strong>avoid the draft</strong> have been reported at the country’s borders with Georgia, Kazakhstan and Mongolia. As many as 2,000 people have been arrested for participating in protests against the measures, according to OVD-Info, a human-rights group. Over the weekend Russia launched new strikes on Ukrainian cities while residents in four Russian-controlled parts of Ukraine were coerced into voting in favour of joining Russia.
 
