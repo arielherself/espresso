@@ -16,13 +16,13 @@ Russia launched new strikes on Ukrainian cities while residents in four Russian-
 
 Meanwhile more than 700 people were arrested on Saturday for participating in protests against Russia’s “<strong>partial mobilisation</strong>”, according to OVD-Info, a human-rights group. On Friday the Kremlin announced some exemptions from its civilian draft, amid [attempts by large numbers](https://te.arielherself.xyz/the-economist-explains/2022/09/24/how-russia-is-conscripting-men-to-fight-in-ukraine) of men to leave the country. President Vladimir Putin also dismissed the general in charge of logistics, an apparent punishment for the woeful progress of the invasion.
 
-TotalEnergies, a French energy company, signed a $1.5bn deal with Qatar to increase <strong>natural-gas</strong> production in the Persian Gulf. Europe is searching for alternatives to Russian energy. Qatar plans to expand gas production in its share of the North Field, the world’s largest natural-gas reserve, by 60% by 2027, capitalising on increased demand.
-
 <strong>North Korea</strong> fired a short-range ballistic missile off its east coast, according to South Korea’s army. The launch—the latest in a [flurry of missile tests ](https://te.arielherself.xyz/asia/2022/02/03/what-is-behind-north-koreas-flurry-of-missile-tests)this year—came just after an American aircraft carrier arrived in South Korea to participate in military drills. South Korea called it an “act of grave provocation”. 
+
+Authorities in <strong>the Philippines</strong> began evacuating people from coastal areas as a major typhoon approached. Forecasters said Typhoon Noru is heading towards Luzon, the archipelago’s main island, at speeds of 120mph. In Canada, <strong>Storm Fiona</strong> made landfall on the country’s east coast, destroying several homes and power lines with hurricane-force winds. There were no immediate reports of casualties.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Storm Fiona</strong> made landfall on <strong>Canada’s </strong>east coast, destroying several homes and power lines with hurricane-force winds. There were no immediate reports of casualties. The storm, then classed as a hurricane, has already wreaked havoc in Puerto Rico (where it caused an island-wide blackout), the Dominican Republic and Turks and Caicos.
+TotalEnergies, a French energy company, signed a $1.5bn deal with Qatar to increase <strong>natural-gas</strong> production in the Persian Gulf. Europe is searching for alternatives to Russian energy. Qatar plans to expand gas production in its share of the North Field, the world’s largest natural-gas reserve, by 60% by 2027, capitalising on increased demand.
 
 President Joe Biden’s press secretary called a ruling in <strong>Arizona banning abortions </strong>“catastrophic, dangerous and unacceptable”. On Friday a judge lifted an injunction on a law from 1864 that outlawed the procedure in all cases except to save the mother’s life. Earlier this year America’s Supreme Court overturned <em>Roe v Wade</em>, the ruling that established the constitutional right to an abortion.
 
