@@ -32,30 +32,6 @@ As Britain’s <strong>opposition</strong> Labour Party began its annual party c
 
 ----------
 
-## Scholz of Arabia
-
-Olaf Scholz, Germany’s chancellor, is visiting three Gulf states this weekend in a bid to shore up energy supplies and dampen prices. With imports of oil and gas from Russia cut off, and power-hungry firms and households facing steep winter bills, Europe’s biggest economy is sliding towards a [recession](https://te.arielherself.xyz/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be). 
-
-Mr Scholz will turn on the charm in Saudi Arabia, Qatar and the United Arab Emirates, all big energy exporters, arguing that it is in their own long-term interest to calm markets and keep customers happy. Germany is particularly keen to secure liquefied natural gas deliveries from Qatar, which vies with America and Australia as the top exporter of the fuel. But the toughest meeting on Mr Scholz’s first visit to the region as chancellor may be with [Muhammad bin Salman](https://te.arielherself.xyz/1843/2022/07/28/mbs-despot-in-the-desert), the Saudi crown prince. The kingdom’s record on human rights and its messy entanglement in Yemen’s civil war have not endeared the Saudi leader to German public opinion. 
-
-## Political protests in Angola
-
-When supporters of Angola’s main opposition party take to the streets on Saturday they will know that their cause is just—and their chances of success slim. The National Union for the Total Independence of Angola (UNITA) says [last month’s election](https://te.arielherself.xyz/middle-east-and-africa/2022/09/08/an-unofficial-tally-exposes-angolas-dodgy-election) was rigged by the ruling party—and its former enemy in the country’s civil war—the People’s Movement for the Liberation of Angola (MPLA). 
-
-UNITA has a case. Tallies collected by NGOs suggest the result was a near-tie. Yet the electoral commission announced that the MPLA won 51% of the vote. Without a majority, the party’s grip on power would have been at risk. Alas, the courts, the commission and, most importantly, Angola’s security apparatus, are all under its thumb. So UNITA’s protests will probably be defeated, peacefully or otherwise. The only comfort it can take is that, given President João Lourenço’s [disappointing record](https://te.arielherself.xyz/middle-east-and-africa/2022/08/18/a-dictators-ghost-haunts-angolas-upcoming-elections), the opposition will only grow in strength in Africa’s largest oil producer. 
-
-## “Sidney”, a new look at a Hollywood trailblazer
-
-The rags-to-riches life story of [Sidney Poitier](https://te.arielherself.xyz/books-and-arts/it-was-hard-for-any-viewer-to-look-away-from-sidney-poitier/21807122), as recounted in a new documentary about the trailblazing actor, just released, is as compelling a narrative as any in his films. Sir Sidney’s parents were poor Bahamian tomato farmers. As a teenager, he was taught to read by a Jewish waiter in New York. He went on to become one of Hollywood’s first black leading men (starring in hits like “The Defiant Ones” and “Guess Who’s Coming To Dinner”), the first black winner of an Academy Award for acting (for “Lilies of the Field”), and a director of raucous comedies (such as “Stir Crazy”).
-
-Oprah Winfrey, the documentary’s producer, and other friends speak of him with love and respect. But the highlights of “Sidney” are the archive interviews with the actor himself, who died in January at the age of 94. The towering dignity and authority that made him a superstar can be seen in every clip.
-
-## Juanes, a Colombian rock star, plays in America
-
-Juanes returns to the American stage in San Diego on Saturday to promote his album, “Origen”. The Colombian singer, a winner of three Grammy awards and 26 Latin Grammys, will also release a new album in the coming months.
-
-His songs unite traditional Colombian rhythms with rock instrumentation, giving him rockstar status in his homeland. Born in 1972 and growing up in 1980s Medellín, a city terrorised by Pablo Escobar’s [drug cartel](https://te.arielherself.xyz/the-economist-explains/2022/02/08/how-drug-trafficking-is-and-isnt-to-blame-for-violence-in-latin-america) and guerrilla fighters, music provided an emotional escape: “We clung to it as if our lives depended on it,” he recalled. His breakthrough hit was “Fijate Bien”, a song about Colombia’s ubiquitous land mines. In 2008 his “Peace Without Borders” concerts attempted to create cross-border civilian unity amid the diplomatic crisis unfolding between Colombia, Ecuador and Venezuela. His career spans a turbulent period of Colombian history—but also a time of change. Last month Colombia’s first ever [left-wing president](https://te.arielherself.xyz/the-americas/2022/06/20/how-gustavo-petro-a-former-guerrilla-might-govern-colombia) took office.
-
 ## Weekend profile: William Kentridge, South African artist
 
 Using just a stick of charcoal and crisp sheet of white paper, [William Kentridge](https://te.arielherself.xyz/books-and-arts/2020/12/09/william-kentridge-contemplates-history-and-creation) tries to make sense of a messy world. Over and over, he traces a line, smudges it a little, rubs it out and traces it anew. His mediums are many, his subjects wide ranging: the Russian revolution; the great colonial wars of the 20th century; the inequities of his native South Africa, first under apartheid and then democratic rule. Doubt, migration and the slipperiness of history are recurring themes.
@@ -109,6 +85,32 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 <em>3 across </em>One of the languages in which Russia is churning out propaganda (6) 
 
 Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+
+## Italians go to the polls
+
+Italians vote on Sunday in an election whose outcome is as widely expected as it would be dramatic. Polling carried out before a ban took effect on September 10th gave a right-wing alliance almost 46% of the vote. Some 17 points more than the next-biggest coalition, led by a centre-left former prime minister, Enrico Letta, would be enough to give the right a comfortable parliamentary majority. Within that group the [Brothers of Italy](https://te.arielherself.xyz/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election), a party that sports the symbol of neo-fascism, is far ahead of its allies. That makes the Brothers’ leader, [Giorgia Meloni](https://te.arielherself.xyz/leaders/2022/09/22/how-afraid-should-europe-be-of-giorgia-meloni), Italy’s probable next prime minister.
+
+A pressing doubt about the Italian right is its stance on Russia. Ms Meloni’s allies include Silvio Berlusconi, a former prime minister and long-standing friend of Vladimir Putin. On September 22nd, having previously criticised Russia, he said that in invading Ukraine Mr Putin just wanted to replace Volodymyr Zelensky’s government with “decent people”. That is not what NATO and Washington wanted to hear.
+
+## The scandal rocking the chess world
+
+Hans Niemann, a 19-year-old American chess player, is at the centre of a cheating scandal at the heart of the chess world. At the start of September Mr Niemann defeated the world champion, Magnus Carlsen, playing well above his usual level. Then, on Monday, in another match-up between the pair, Mr Carlsen resigned after a single move. Pundits speculated that Mr Carlsen was signalling that he thought that Mr Niemann had cheated in victory.
+
+It is hard to police over-the-board chess matches. In recent years players have been rumbled receiving coded messages from allies in the audience, and using phones in toilets. Mr Niemann has admitted to using computer assistance in online tournaments in his youth, but denied cheating in over-the-board games as an adult. In a chess world that runs on trust, that has damaged his credibility. 
+
+Yet for all that, Mr Carlsen has produced no evidence of wrongdoing. And experts who have parsed Mr Niemann’s performance over the past two years have found little cause for suspicion.
+
+## The CIA launches its first-ever podcast
+
+“I love spy movies,” says [William Burns](https://te.arielherself.xyz/united-states/2021/01/11/for-the-first-time-a-career-diplomat-is-to-lead-the-cia), the director of the CIA. But reality is a comedown. “For me, at least, the height of technological daring is when I can finally get the Roku remote to work at home,” he admits on the first episode of “The Langley Files”—a podcast launched this week to commemorate the intelligence agency’s 75th anniversary. It is the latest sign that the spooks are coming out of the shadows. In 2019, the CIA made its Instagram debut; in 2020, the agency began advertising on video-streaming services.
+
+The main reason for this is recruitment. Like many white-collar workplaces, spy agencies have realised that their needs have become more specialised: they seek Mandarin speakers and cryptographers (and ideally both). For that, traditional shoulder-tap routines fall short. The CIA hopes that forays like podcasts will entice prospective recruits. Listeners, though, may discover, like the director, that [modern spycraft](https://te.arielherself.xyz/business/2020/02/22/spies-often-use-businesses-as-cover) is a lot more humdrum than movies tend to suggest.
+
+## Cuba votes on a new family code
+
+On Sunday Cubans will vote on whether to update the family laws of a country where social freedoms have long outpaced political ones. The government’s proposed code is progressive: it would legalise marriage and civil unions for same-sex couples, and allow them to adopt children. Surrogacy and prenuptial agreements would be legalised. The new code also suggests extending parental rights beyond biological parents.
+
+But some religious Cubans are likely to oppose the changes. Others see the referendum, the country’s fourth since its revolution in 1959, as a distraction from more pressing issues. The island of 11m is in a severe economic crisis, suffering [shortages of food](https://te.arielherself.xyz/the-americas/2021/07/01/cuba-is-facing-its-worst-shortage-of-food-since-the-1990s) and medicine. Cubans are emigrating in record numbers. The government’s response has been a mixture of inadequate—giving the private sector a tiny bit more freedom—and repressive, as it clamps down on dissent that has simmered since [large protests](https://te.arielherself.xyz/the-americas/2021/07/15/the-cuban-government-cracks-down-on-protesters) erupted in July last year. Cubans can surely think of many other laws that need changing.
 
 ----------
 
