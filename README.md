@@ -18,7 +18,7 @@ The <strong>pound</strong> slumped further against the dollar, briefly dropping 
 
 Demonstrations against <strong>Vladimir Putin</strong>’s [military mobilisation](https://te.arielherself.xyz/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) continued in the Russian republic of <strong>Dagestan,</strong> which has already provided a disproportionately high number of soldiers to the war in Ukraine. A man was detained for shooting at a draft office in Irkutsk, a region in southeastern Siberia, the latest in a series of similar attacks. Across the country more than 2,000 people have been arrested for participating in protests against the measures, according to OVD-Info, a human-rights group. 
 
-<strong>Iran</strong>’s foreign ministry said America and some European countries are attempting to violate its sovereignty by supporting [ongoing protests](https://te.arielherself.xyz/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) in the country. At least 41 people have died during ten days of demonstrations sparked by the death in police custody of Mahsa Amini, a young woman detained apparently for wearing a loose hijab. Protests have spread around the world, including to Britain, Canada, Chile and Iraq. 
+<strong>Iran’s</strong> foreign ministry said America and some European countries are attempting to violate its sovereignty by supporting [protests](https://te.arielherself.xyz/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) in the country. At least 41 people have died during ten days of demonstrations sparked by the death in police custody of Mahsa Amini, a young woman detained apparently for wearing a loose hijab. Protests have spread around the world, including to Britain, Canada, Chile and Iraq. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ If something the size of Didymos (780 metres in diameter) hit Earth it could tak
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6233170b18271112100711110d2207010d0c0d0f0b11164c010d0f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2f7e5a46556a5c5f5d4a5c5c406f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor won the Oscar for best director for his 1981 film “Reds”?
 
