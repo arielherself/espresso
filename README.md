@@ -48,9 +48,9 @@ The opening should help both economies. Exports from Colombia to Venezuela, such
 
 ## France’s budget
 
-On Monday the French finance minister, Bruno Le Maire, will unveil the government’s budget for 2023. He faces a difficult balancing act. France has promised to bring the government’s budget deficit down to 3% of GDP by 2027. But next year’s figure is expected to be 5%. France will have to spend heavily to[ subsidise energy bills](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices), as promised. To protect consumers from inflation the government plans to cap price rises for electricity and gas bills to 15%. 
+On Monday the French finance minister, Bruno Le Maire, unveiled the government’s budget for 2023. He faced a difficult balancing act. France has promised to bring the government’s budget deficit down to 3% of GDP by 2027. But Mr Le Maire confirmed that next year’s figure will be 5%. France will have to spend heavily to[ subsidise energy bills](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices), as promised. To protect consumers from inflation the government will cap price rises for electricity and gas bills to 15%. 
 
-France also needs to demonstrate its fiscal responsibility. The European Commission has suspended the enforcement of its fiscal rules, which require deficits under 3%, until 2024. But the French deficit is closer to that of Spain and Portugal than Germany. So President [Emmanuel Macron](https://te.arielherself.xyz/europe/2022/09/15/frances-president-emmanuel-macron-gets-back-to-work) is also keen to press ahead with his promise to raise the retirement age from 62 years old to 64 or 65. Adding this to the budget would demonstrate reformist zeal, but could also prompt demonstrations and [strikes](https://te.arielherself.xyz/europe/2019/09/12/another-french-president-tries-pension-reform).
+France also needs to demonstrate its fiscal responsibility. The European Commission has suspended the enforcement of its fiscal rules, which require deficits under 3%, until 2024. But the French deficit is closer to that of Spain and Portugal than Germany. So President[ Emmanuel Macron](https://te.arielherself.xyz/europe/2022/09/15/frances-president-emmanuel-macron-gets-back-to-work) is also keen to press ahead with his promise to raise the retirement age from 62 years old to 64 or 65. Adding this to the budget as an amendment, which remains an option, would demonstrate reformist zeal, but could also prompt demonstrations and[ strikes](https://te.arielherself.xyz/europe/2019/09/12/another-french-president-tries-pension-reform).
 
 ## The forgotten war in Myanmar
 
@@ -66,7 +66,7 @@ If something the size of Didymos (780 metres in diameter) hit Earth it could tak
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f5a4809c8fb08685879086869ab590969a9b9a989c8681db969a98">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6d3c180417281e1d1f081e1e022d080e02030200041e19430e0200">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor won the Oscar for best director for his 1981 film “Reds”?
 
