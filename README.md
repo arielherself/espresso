@@ -12,105 +12,63 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Exit polls from <strong>Italy’s election</strong> suggest that a right-wing coalition led by the far-right [Brothers of Italy](https://te.arielherself.xyz/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election) party is set to win a majority in both houses of parliament. The party has its roots in neo-fascism. Its leader, Giorgia Meloni, is likely to become the country’s first female prime minister.
+<strong>Giorgia Meloni</strong>, the leader of the nationalist [Brothers of Italy](https://te.arielherself.xyz/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election) party, which has its roots in neo-fascism, [declared victory](https://te.arielherself.xyz/europe/2022/09/25/a-crushing-victory-for-italys-nationalist-right) in <strong>Italy’s</strong> general election. Ms Meloni, who would be the country’s first female prime minister, is set to lead a right-wing coalition that includes Matteo Salvini’s Northern League and Silvio Berlusconi’s Forza Italia. The election was called following the collapse in late July of Mario Draghi’s broad-based administration.
 
-Some <strong>Russian</strong> men of fighting age are being banned from leaving the country according to the Telegraph channel of Pavel Chikov, a Russian lawyer. Queues of people attempting to <strong>avoid the draft</strong> have been reported at the country’s borders with Georgia, Kazakhstan and Mongolia. As many as 2,000 people have been arrested for participating in protests against the measures, according to OVD-Info, a human-rights group. Over the weekend Russia launched new strikes on Ukrainian cities while residents in four Russian-controlled parts of Ukraine were coerced into voting in favour of joining Russia.
+The <strong>pound</strong> slumped further against the dollar, briefly dropping more than 4% to under $1.04. The drop followed a similar sell-off on Friday, after Kwasi Kwarteng, the new chancellor, announced the largest package of tax cuts in 50 years. Many think his plans [fiscally reckless](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically).
 
-Thousands of people in <strong>the Philippines</strong> were evacuated from coastal areas as a major typhoon approached. Typhoon Noru made landfall west of Luzon, the archipelago’s main island, with winds of nearly 150mph. In Canada, Storm Fiona hit the country’s east coast, destroying several homes and power lines. And in the Caribbean tropical Storm Ian is forecast on Sunday to strengthen to become a hurricane.
+Demonstrations against <strong>Vladimir Putin</strong>’s [military mobilisation](https://te.arielherself.xyz/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) continued in the Russian republic of <strong>Dagestan,</strong> which has already provided a disproportionately high number of soldiers to the war in Ukraine. A man was detained for shooting at a draft office in Irkutsk, a region in southeastern Siberia, the latest in a series of similar attacks. Across the country more than 2,000 people have been arrested for participating in protests against the measures, according to OVD-Info, a human-rights group. 
 
-Eliud Kipchoge, a Kenyan runner, broke his own world record for the <strong>fastest marathon</strong>. He finished the 26.2-mile (42.2km) race in Berlin in two hours, one minute and nine seconds, some 30 seconds faster than his previous best. Mr Kipchoge has run the [distance](https://te.arielherself.xyz/game-theory/2019/04/05/the-marathon-has-vanquished-other-long-distance-running-events) in less than two hours before, in 2019, but as it did not take place in an official competition the time was not a world record.
+After a five-month suspension, freight-train operations between <strong>China</strong> and <strong>North Korea</strong> appeared to have resumed, according to South Korean officials. China, which accounts for more than 90% of North Korea’s trade, had halted crossings because of [covid-19 infections](https://te.arielherself.xyz/asia/2022/05/17/covid-19-is-spreading-like-wildfire-in-north-korea) in the border city of [Dandong](https://te.arielherself.xyz/christmas-specials/2016/12/24/politics-and-pity-on-the-border-of-china-and-north-korea). Aid workers say that North Korea’s isolation has caused widespread malnutrition.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>North Korea</strong> fired a short-range ballistic missile off its east coast, according to South Korea’s army. The launch—the latest in a [flurry of missile tests ](https://te.arielherself.xyz/asia/2022/02/03/what-is-behind-north-koreas-flurry-of-missile-tests)this year—came just after an American aircraft carrier arrived in South Korea to participate in military drills. South Korea called it an “act of grave provocation”. 
+At least five people were killed after Typhoon Noru hit Luzon, the main island of <strong>the Philippines</strong>. More than 74,000 people were evacuated from coastal areas on Sunday, which helped reduce the death toll, according to Ferdinand “Bongbong” Marcos, the country’s [new president](https://te.arielherself.xyz/asia/2022/08/04/is-bongbong-marcoss-early-pragmatism-a-paradox-or-an-illusion). The storm is expected to pass the country by Monday evening.
 
-Banks in Lebanon will reopen on Monday, after armed raids by customers demanding access to their savings forced branches to close. The country’s banking association said that banks could reopen despite “the absence of adequate protection by the state”. [Withdrawals have been limited](https://te.arielherself.xyz/finance-and-economics/2022/05/07/desperate-lebanese-depositors-are-taking-their-banks-to-court) and deposits frozen for nearly three years amid an economic crisis.
+Miftah Ismail, <strong>Pakistan’s </strong>fifth finance minister in four years, announced he would resign. Two days earlier he had been reassuring commercial investors that Pakistan would honour its bonds, as it seeks relief from bilateral creditors. [Catastrophic flooding](https://te.arielherself.xyz/asia/2022/08/30/pakistan-has-been-hit-by-its-worst-floods-in-recent-memory) has made the country’s already [dicey position](https://te.arielherself.xyz/asia/2022/07/28/pakistan-may-be-able-to-avoid-a-full-blown-economic-crisis) even more dire. The World Bank has offered $2bn in aid, against estimated damages of $30bn.
 
-As Britain’s <strong>opposition</strong> Labour Party began its annual party conference Keir Starmer, the party’s leader, told the BBC he would reverse [tax cuts](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) to the highest earners announced by the Conservative government on Friday. In a different interview, also with the BBC, the new Tory chancellor, Kwasi Kwarteng, defended the cuts which he says will help Britons at all levels of income.
+<strong>Cardinal Joseph Zen</strong>, a nonagenarian priest, went on trial in <strong>Hong Kong</strong>. He and four other defendants are accused of setting up a fund to pay for the legal and medical costs of Hong Kongers arrested during pro-democracy protests in 2019. Cardinal Zen is one of Asia’s [most senior Catholic clergymen](https://te.arielherself.xyz/china/2022/05/19/hong-kong-arrests-a-catholic-priest-for-siding-with-democrats). He was detained earlier this year for running foul of Hong Kong’s national-security law, but has yet to be charged for that offence.
 
-<strong>Word of the week: </strong><em>Nannaria swiftae</em>, the scientific name for a millipede given to honour Taylor Swift, the American pop star. [Read the full story.](https://te.arielherself.xyz/science-and-technology/2022/09/21/on-the-troubles-of-naming-species)
+<strong>Fact of the day:</strong> $45bn, the amount spent by institutional investors snapping up single-family rental homes in America last year, up from $3bn in 2020. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/09/22/why-wall-street-is-snapping-up-family-homes).
 
 ----------
 
-## Weekend profile: William Kentridge, South African artist
+## A bleak warning about the global economy
 
-Using just a stick of charcoal and crisp sheet of white paper, [William Kentridge](https://te.arielherself.xyz/books-and-arts/2020/12/09/william-kentridge-contemplates-history-and-creation) tries to make sense of a messy world. Over and over, he traces a line, smudges it a little, rubs it out and traces it anew. His mediums are many, his subjects wide ranging: the Russian revolution; the great colonial wars of the 20th century; the inequities of his native South Africa, first under apartheid and then democratic rule. Doubt, migration and the slipperiness of history are recurring themes.
+According to the OECD’s latest economic outlook, the global economy is slowing faster than it had previously anticipated. The club of rich countries expects growth to “remain subdued” for the rest of this year, before “slowing further” in 2023 to just 2.2%. It blames Russia’s invasion of Ukraine, monetary tightening around the world and the lockdowns associated with China’s covid-19 policy for the downbeat forecast.
 
-Aged 67, Mr Kentridge is in the flush of his career—and having a moment. This month “Self-Portrait as a Coffee Pot”, a documentary series chronicling his studio practice, had its premiere at the Toronto International Film Festival. In London he is involved in three shows. A retrospective at the Royal Academy of Arts, opening on Saturday, is packed to the gunwales with his drawings, sculptures and sets for theatre and opera. Starting on October 6th the Barbican will stage performances, involving music and dance, by South African artists developed at Mr Kentridge’s incubator in Johannesburg. Also next month Goodman Gallery will screen “Oh to Believe in Another World”, a stop-motion film set to Dmitri Shostakovich’s Tenth Symphony.
+Adding to the gloom, a growing number of economists are sure that [Europe’s economy](https://te.arielherself.xyz/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be) will soon be shrinking, as higher energy prices bite into household consumption. For now, however, America looks surprisingly robust. The world’s largest economy is still creating jobs; recent surveys of manufacturing have looked fine, if not great; and consumer confidence seems to be rising as the [price of petrol](https://te.arielherself.xyz/graphic-detail/2022/09/16/the-falling-cost-of-petrol-is-good-news-for-joe-biden) falls. But with the outlook for [inflation](https://te.arielherself.xyz/finance-and-economics/2022/08/05/for-a-change-american-inflation-is-lower-than-expected) so unclear, and the Federal Reserve rapidly [raising interest rates](https://te.arielherself.xyz/finance-and-economics/2022/09/21/as-america-raises-rates-the-rest-of-the-world-bears-the-pain), you would be brave to bet that pain can be entirely avoided this winter.
 
-Shostakovich composed the symphony around the time of Joseph Stalin’s death; its explosive second movement is said to evoke state terror. Mr Kentridge uses marionettes to explore the composer’s attitudes towards Stalin and the Soviet Union. The film resembles a collage. Like much of Mr Kentridge’s work, it implies that history itself is a process of eliding, distorting and stitching things back together.
+## Relations between Colombia and Venezuela
 
-For the impatient viewer these works may be noisy and confusing. But it’s worth persisting. “One of the hard things to realise”, says Mr Kentridge, “is the edge of who one is, of what your imagination can produce.”
+An important South American border crossing will fully reopen on Monday. Amid a thawing of relations between Colombia and Venezuela, vehicles carrying passengers and goods will be able to cross between the two countries for the first time since 2019. 
 
-## The winners of this week’s quiz
+The border was shut when Colombia’s then-president, [Iván Duque](https://te.arielherself.xyz/the-americas/2019/06/20/can-colombias-president-ivan-duque-find-his-feet), refused to recognise [Nicol](https://te.arielherself.xyz/the-americas/2022/08/18/venezuelas-dictator-is-less-isolated-than-he-once-was)[á](https://te.arielherself.xyz/the-americas/2019/06/20/can-colombias-president-ivan-duque-find-his-feet)[s Maduro](https://te.arielherself.xyz/the-americas/2022/08/18/venezuelas-dictator-is-less-isolated-than-he-once-was) as Venezuela’s leader after disputed elections in 2018. The election in June of [Gustavo Petro](https://te.arielherself.xyz/the-economist-explains/2022/08/06/who-is-gustavo-petro), a leftist, as Colombia’s president has improved relations. New ambassadors have been appointed. Flights will also resume.
 
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+The opening should help both economies. Exports from Colombia to Venezuela, such as palm oil, were only worth $331m last year. Colombia’s trade minister reckons the figure could reach $1.2bn this year—double previous estimates. But that relies on Venezuela’s fragile economic [recovery](https://te.arielherself.xyz/briefing/2019/01/31/how-venezuelas-economy-can-recover-from-the-maduro-regime) continuing. Colombia’s exports to Venezuela had already fallen after Venezuela’s [economic collapse](https://te.arielherself.xyz/the-americas/2015/01/22/empty-shelves-and-rhetoric) in 2014. And the neighbours will also have to tackle gang activity and rampant smuggling across the border.
 
-Asia: <strong>Vyas Prasad</strong>, Singapore
+## France’s budget
 
-North America: <strong>Katia Butrimova</strong>, Toronto, Canada
+On Monday the French finance minister, Bruno Le Maire, will unveil the government’s budget for 2023. He faces a difficult balancing act. France has promised to bring the government’s budget deficit down to 3% of GDP by 2027. But next year’s figure is expected to be 5%. France will have to spend heavily to[ subsidise energy bills](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices), as promised. To protect consumers from inflation the government plans to cap price rises for electricity and gas bills to 15%. 
 
-Central and South America: <strong>Martin Whittle</strong>, São Paulo, Brazil
+France also needs to demonstrate its fiscal responsibility. The European Commission has suspended the enforcement of its fiscal rules, which require deficits under 3%, until 2024. But the French deficit is closer to that of Spain and Portugal than Germany. So President [Emmanuel Macron](https://te.arielherself.xyz/europe/2022/09/15/frances-president-emmanuel-macron-gets-back-to-work) is also keen to press ahead with his promise to raise the retirement age from 62 years old to 64 or 65. Adding this to the budget would demonstrate reformist zeal, but could also prompt demonstrations and [strikes](https://te.arielherself.xyz/europe/2019/09/12/another-french-president-tries-pension-reform).
 
-Europe: <strong>Arvid Skaugen</strong>, Hamburg, Germany
+## The forgotten war in Myanmar
 
-Africa: <strong>Ailsa Green</strong>, Choma, Zambia
+The ongoing bloodshed in [Myanmar](https://te.arielherself.xyz/the-economist-reads/2022/06/23/the-seven-books-to-read-about-myanmar) might draw more attention were it not for the war in Ukraine. The latest outrage occurred on September 16th when the army attacked the village of Let Yet Kone, in the north-west of the country. A school was fired on by helicopter gunships, killing at least 11 children and two adults. The incident will doubtless feature in a report to the UN Human Rights Council on Monday when it devotes a session to the country. 
 
-Oceania: <strong>Christopher and Annie Jones</strong>, Sydney, Australia
+Since the army seized power in a coup last year the situation in Myanmar has deteriorated rapidly. The UN says that over 13m people are short of food. Over 1m have been displaced as the army battles against an increasingly well-organised [opposition](https://te.arielherself.xyz/leaders/2022/08/18/myanmars-shadow-government-deserves-more-help). Many countries have reimposed sanctions on Myanmar, but arguments will be made at the UN that there is more to be done to cut off the junta’s access to revenues and arms. Whatever has been tried so far to deter Myanmar’s [murderous generals](https://te.arielherself.xyz/asia/2022/07/28/myanmars-brutal-junta-has-brought-back-the-death-penalty) clearly has not worked.
 
-They all gave the correct answers of moths, base, Michael Foot, Moses basket and Hard Times. The theme is that these are all words that can be used as prefixes for ball: mothball, baseball, football, basketball and hardball.
+## NASA’s crash with an asteroid
 
-## Weekly crossword
+The Earth’s defences, and the plots of science-fiction films, will be tested on Monday when DART, a space probe weighing 600kg will be crashed into Dimorphos, a small rock in orbit around a larger one, Didymos. The intention of the [Double Asteroid Redirection Test](https://te.arielherself.xyz/science-and-technology/an-exploration-of-earths-defences-will-launch-next-month/21805517) is to shorten Dimorphos’s orbital period, now 11.9 hours, by about ten minutes. That will test the feasibility of deflecting such an asteroid, should one be discovered which threatens to collide with Earth. 
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+If something the size of Didymos (780 metres in diameter) hit Earth it could take out half a continent. But even the explosion of an object as small as Dimorphos, at 160 metres across, would be equivalent to 400-600 megatonnes of TNT. By comparison, the blast from an asteroid which detonated over Siberia in 1908, flattening 2,000 square kilometres of forest, released something like 20 megatonnes. The hope is that if such an incoming object were to be discovered, a gentle nudge would cause it to miss.
 
-<strong>Cryptic clues</strong>
+## Daily quiz
 
-<em>1 down</em> Maniac (and liar, etc) ruined part of the world (5,7) 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f5a4809c8fb08685879086869ab590969a9b9a989c8681db969a98">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-<em>1 across </em>Drink made of sweet, but not frozen, water (6) 
-
-<em>2 across </em>Tree very quietly planted in middle of far, hilly field (5) 
-
-<em>3 across </em>A religious leader disheartened about language (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> A source of anti-imperialist and anti-American sentiment (5,7) 
-
-<em>1 across </em>Something tricky to track down in Delhi (6) 
-
-<em>2 across </em>One of the biggest corporate victors of the past few decades (5) 
-
-<em>3 across </em>One of the languages in which Russia is churning out propaganda (6) 
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-## Italians go to the polls
-
-Italians vote on Sunday in an election whose outcome is as widely expected as it would be dramatic. Polling carried out before a ban took effect on September 10th gave a right-wing alliance almost 46% of the vote. Some 17 points more than the next-biggest coalition, led by a centre-left former prime minister, Enrico Letta, would be enough to give the right a comfortable parliamentary majority. Within that group the [Brothers of Italy](https://te.arielherself.xyz/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election), a party that sports the symbol of neo-fascism, is far ahead of its allies. That makes the Brothers’ leader, [Giorgia Meloni](https://te.arielherself.xyz/leaders/2022/09/22/how-afraid-should-europe-be-of-giorgia-meloni), Italy’s probable next prime minister.
-
-A pressing doubt about the Italian right is its stance on Russia. Ms Meloni’s allies include Silvio Berlusconi, a former prime minister and long-standing friend of Vladimir Putin. On September 22nd, having previously criticised Russia, he said that in invading Ukraine Mr Putin just wanted to replace Volodymyr Zelensky’s government with “decent people”. That is not what NATO and Washington wanted to hear.
-
-## The scandal rocking the chess world
-
-Hans Niemann, a 19-year-old American chess player, is at the centre of a cheating scandal at the heart of the chess world. At the start of September Mr Niemann defeated the world champion, Magnus Carlsen, playing well above his usual level. Then, on Monday, in another match-up between the pair, Mr Carlsen resigned after a single move. Pundits speculated that Mr Carlsen was signalling that he thought that Mr Niemann had cheated in victory.
-
-It is hard to police over-the-board chess matches. In recent years players have been rumbled receiving coded messages from allies in the audience, and using phones in toilets. Mr Niemann has admitted to using computer assistance in online tournaments in his youth, but denied cheating in over-the-board games as an adult. In a chess world that runs on trust, that has damaged his credibility. 
-
-Yet for all that, Mr Carlsen has produced no evidence of wrongdoing. And experts who have parsed Mr Niemann’s performance over the past two years have found little cause for suspicion.
-
-## The CIA launches its first-ever podcast
-
-“I love spy movies,” says [William Burns](https://te.arielherself.xyz/united-states/2021/01/11/for-the-first-time-a-career-diplomat-is-to-lead-the-cia), the director of the CIA. But reality is a comedown. “For me, at least, the height of technological daring is when I can finally get the Roku remote to work at home,” he admits on the first episode of “The Langley Files”—a podcast launched this week to commemorate the intelligence agency’s 75th anniversary. It is the latest sign that the spooks are coming out of the shadows. In 2019, the CIA made its Instagram debut; in 2020, the agency began advertising on video-streaming services.
-
-The main reason for this is recruitment. Like many white-collar workplaces, spy agencies have realised that their needs have become more specialised: they seek Mandarin speakers and cryptographers (and ideally both). For that, traditional shoulder-tap routines fall short. The CIA hopes that forays like podcasts will entice prospective recruits. Listeners, though, may discover, like the director, that [modern spycraft](https://te.arielherself.xyz/business/2020/02/22/spies-often-use-businesses-as-cover) is a lot more humdrum than movies tend to suggest.
-
-## Cuba votes on a new family code
-
-On Sunday Cubans will vote on whether to update the family laws of a country where social freedoms have long outpaced political ones. The government’s proposed code is progressive: it would legalise marriage and civil unions for same-sex couples, and allow them to adopt children. Surrogacy and prenuptial agreements would be legalised. The new code also suggests extending parental rights beyond biological parents.
-
-But some religious Cubans are likely to oppose the changes. Others see the referendum, the country’s fourth since its revolution in 1959, as a distraction from more pressing issues. The island of 11m is in a severe economic crisis, suffering [shortages of food](https://te.arielherself.xyz/the-americas/2021/07/01/cuba-is-facing-its-worst-shortage-of-food-since-the-1990s) and medicine. Cubans are emigrating in record numbers. The government’s response has been a mixture of inadequate—giving the private sector a tiny bit more freedom—and repressive, as it clamps down on dissent that has simmered since [large protests](https://te.arielherself.xyz/the-americas/2021/07/15/the-cuban-government-cracks-down-on-protesters) erupted in July last year. Cubans can surely think of many other laws that need changing.
+<strong>Monday: </strong>Which actor won the Oscar for best director for his 1981 film “Reds”?
 
 ----------
 
