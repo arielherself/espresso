@@ -14,7 +14,7 @@
 
 <strong>Giorgia Meloni</strong>, the leader of the nationalist [Brothers of Italy](https://www.economist.com/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election) party, which has its roots in neo-fascism, [declared victory](https://www.economist.com/europe/2022/09/25/a-crushing-victory-for-italys-nationalist-right) in <strong>Italy’s</strong> general election. Ms Meloni, who would be the country’s first female prime minister, is set to lead a right-wing coalition that includes Matteo Salvini’s Northern League and Silvio Berlusconi’s Forza Italia. The election was called following the collapse in late July of Mario Draghi’s broad-based administration.
 
-The <strong>pound</strong> slumped further against the dollar, briefly dropping more than 4% to under $1.04. The drop followed a similar sell-off on Friday, after Kwasi Kwarteng, the new chancellor, announced the largest package of tax cuts in 50 years. Many think his plans [fiscally reckless](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically).
+The <strong>pound</strong> recovered from a steep decline against the dollar, reaching $1.09, up from under $1.04, close to its historical low, earlier on Monday. The earlier slump followed a similar sell-off on Friday, after Kwasi Kwarteng, the new chancellor, announced the largest package of tax cuts in 50 years. Many think his plans [fiscally reckless](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically).
 
 Demonstrations against <strong>Vladimir Putin</strong>’s [military mobilisation](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) continued in the Russian republic of <strong>Dagestan,</strong> which has already provided a disproportionately high number of soldiers to the war in Ukraine. A man was detained for shooting at a draft office in Irkutsk, a region in southeastern Siberia, the latest in a series of similar attacks. Across the country more than 2,000 people have been arrested for participating in protests against the measures, according to OVD-Info, a human-rights group. 
 
@@ -63,12 +63,6 @@ Since the army seized power in a coup last year the situation in Myanmar has det
 The Earth’s defences, and the plots of science-fiction films, will be tested on Monday when DART, a space probe weighing 600kg will be crashed into Dimorphos, a small rock in orbit around a larger one, Didymos. The intention of the [Double Asteroid Redirection Test](https://www.economist.com/science-and-technology/an-exploration-of-earths-defences-will-launch-next-month/21805517) is to shorten Dimorphos’s orbital period, now 11.9 hours, by about ten minutes. That will test the feasibility of deflecting such an asteroid, should one be discovered which threatens to collide with Earth. 
 
 If something the size of Didymos (780 metres in diameter) hit Earth it could take out half a continent. But even the explosion of an object as small as Dimorphos, at 160 metres across, would be equivalent to 400-600 megatonnes of TNT. By comparison, the blast from an asteroid which detonated over Siberia in 1908, flattening 2,000 square kilometres of forest, released something like 20 megatonnes. The hope is that if such an incoming object were to be discovered, a gentle nudge would cause it to miss.
-
-## Daily quiz
-
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="39684c50437c4a494b5c4a4a56795c5a56575654504a4d175a5654">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
-
-<strong>Monday: </strong>Which actor won the Oscar for best director for his 1981 film “Reds”?
 
 ----------
 
