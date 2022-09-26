@@ -16,9 +16,9 @@
 
 The <strong>pound</strong> recovered from a steep decline against the dollar, reaching $1.09, up from under $1.04, close to its historical low, earlier on Monday. The earlier slump followed a similar sell-off on Friday, after Kwasi Kwarteng, the new chancellor, announced the largest package of tax cuts in 50 years. Many think his plans [fiscally reckless](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically).
 
-Demonstrations against <strong>Vladimir Putin</strong>’s [military mobilisation](https://te.arielherself.xyz/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) continued in the Russian republic of <strong>Dagestan,</strong> which has already provided a disproportionately high number of soldiers to the war in Ukraine. A man was detained for shooting at a draft office in Irkutsk, a region in southeastern Siberia, the latest in a series of similar attacks. Across the country more than 2,000 people have been arrested for participating in protests against the measures, according to OVD-Info, a human-rights group. 
+Demonstrations against <strong>Vladimir Putin</strong>’s [military mobilisation](https://te.arielherself.xyz/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) continued in the Russian republic of <strong>Dagestan,</strong> which has already provided a disproportionately high number of soldiers to the war in Ukraine. A man was detained for shooting and seriously wounding a recruitment officer at a draft office in Irkutsk, a region in southeastern Siberia, the latest in a series of similar attacks. More than 2,000 people have been arrested for participating in protests against the measures, according to OVD-Info, a human-rights group. 
 
-<strong>Iran’s</strong> foreign ministry said America and some European countries are attempting to violate its sovereignty by supporting [protests](https://te.arielherself.xyz/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) in the country. At least 41 people have died during ten days of demonstrations sparked by the death in police custody of Mahsa Amini, a young woman detained apparently for wearing a loose hijab. Protests have spread around the world, including to Britain, Canada, Chile and Iraq. 
+As<strong> Iran</strong>’s [protests](https://te.arielherself.xyz/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) continue to spread around the country the foreign ministry accused America and some European countries of attempting to violate its sovereignty by supporting them. At least 41 people have died during ten days of demonstrations sparked by the death in police custody of Mahsa Amini, a young woman detained apparently for wearing a loose hijab. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -63,6 +63,12 @@ Since the army seized power in a coup last year the situation in Myanmar has det
 The Earth’s defences, and the plots of science-fiction films, will be tested on Monday when DART, a space probe weighing 600kg will be crashed into Dimorphos, a small rock in orbit around a larger one, Didymos. The intention of the [Double Asteroid Redirection Test](https://te.arielherself.xyz/science-and-technology/an-exploration-of-earths-defences-will-launch-next-month/21805517) is to shorten Dimorphos’s orbital period, now 11.9 hours, by about ten minutes. That will test the feasibility of deflecting such an asteroid, should one be discovered which threatens to collide with Earth. 
 
 If something the size of Didymos (780 metres in diameter) hit Earth it could take out half a continent. But even the explosion of an object as small as Dimorphos, at 160 metres across, would be equivalent to 400-600 megatonnes of TNT. By comparison, the blast from an asteroid which detonated over Siberia in 1908, flattening 2,000 square kilometres of forest, released something like 20 megatonnes. The hope is that if such an incoming object were to be discovered, a gentle nudge would cause it to miss.
+
+## Daily quiz
+
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bfeecad6c5facccfcddaccccd0ffdadcd0d1d0d2d6cccb91dcd0d2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+
+<strong>Monday: </strong>Which actor won the Oscar for best director for his 1981 film “Reds”?
 
 ----------
 
