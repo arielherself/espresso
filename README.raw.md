@@ -18,7 +18,7 @@ Demonstrations against <strong>Vladimir Putin’s</strong> [military mobilisatio
 
 <strong>Cubans </strong>voted in a national referendum to allow same-sex couples to marry and adopt children. The electoral commission said 67% voted in favour of the new “family code”, which also legalises surrogate pregnancies and expands grandparents’ rights over their grandchildren. Cuba’s [communist president](https://www.economist.com/the-americas/2022/03/26/cubas-dictatorship-has-a-cultural-opposition-that-it-cant-tolerate), Miguel Diaz-Canel, said the new law would “pay off a debt to several generations”.
 
-As<strong> Iran’s</strong> [protests](https://www.economist.com/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) continue to spread around the country the foreign ministry accused America and some European countries of attempting to violate its sovereignty by supporting them. At least 41 people have died during ten days of demonstrations sparked by the death in police custody of Mahsa Amini, a young woman detained apparently for wearing a loose hijab. 
+As [protests](https://www.economist.com/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) in<strong> Iran</strong> continued to spread, the country’s foreign ministry accused America and some European countries of attempting to violate its sovereignty by supporting them. At least 41 people have died during ten days of demonstrations sparked by the death in police custody of Mahsa Amini, a young woman detained apparently for wearing a loose hijab.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ If something the size of Didymos (780 metres in diameter) hit Earth it could tak
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4c1d392536093f3c3e293f3f230c292f23222321253f38622f2321">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which actor won the Oscar for best director for his 1981 film “Reds”?
 
