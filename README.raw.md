@@ -12,11 +12,11 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>American share prices </strong>tumbled amid mounting economic anxiety and the prospect of steeper interest-rate rises. The S&amp;P 500 index closed at its lowest level this year. The Dow Jones Industrial Average entered “bear-market” territory, 20% below its January high. Meanwhile the <strong>pound</strong> rebounded against the dollar during Asian trading, rising 5% above the nadir of below $1.04 that it reached on Monday. The Bank of England said it would “not hesitate to change interest rates”—but would not raise them yet.
-
 Gas from both <strong>Nord Stream</strong> 1 and 2, pipelines connecting Russia and Germany, leaked into the Baltic Sea following an unexplained drop in pressure. Nord Stream 2, which is owned by Gazprom, a state-run Russian energy giant, is [defunct](https://www.economist.com/europe/2022/02/22/the-west-imposes-swift-sanctions-on-russia-can-they-stop-a-war) but still filled with gas. Nord Stream 1 has also been inactive because Russia is withholding gas from Europe in response to economic sanctions. Denmark and Germany are investigating the cause of the leaks.
 
 <strong>Ukrainians</strong> who helped organise <strong>referendums</strong> in [four Russian-controlled areas](https://www.economist.com/europe/2022/09/23/voting-begins-in-four-sham-referendums-in-ukraine) will face treason charges and years in jail, according to an adviser to Ukraine’s president. This does not include Ukrainians coerced into voting to join <strong>Russia</strong>. The polls will close on Tuesday. Vladimir Putin, Russia’s president, is expected to announce the results (inevitably in his favour) on September 30th.
+
+<strong>American share prices </strong>tumbled amid mounting economic anxiety and the prospect of steeper interest-rate rises. The S&amp;P 500 index closed at its lowest level this year. The Dow Jones Industrial Average entered “bear-market” territory, 20% below its January high. Meanwhile the <strong>pound</strong> rebounded against the dollar during Asian trading, rising 5% above the nadir of below $1.04 that it reached on Monday. The Bank of England said it would “not hesitate to change interest rates”—but would not raise them yet.
 
 <strong>Dmitry Medvedev</strong>, a former president of Russia, said that the country has the right to use [nuclear](https://www.economist.com/the-economist-explains/2022/09/14/do-russias-military-setbacks-increase-the-risk-of-nuclear-conflict) <strong>weapons</strong> in the war in Ukraine. Mr Medvedev, an ally of Vladimir Putin, also stated his belief that NATO would stay out of the conflict for fear of “a nuclear apocalypse”. Meanwhile, heavy fighting was reported along the front separating Ukrainian and Russian troops. 
 
@@ -68,7 +68,7 @@ Influential figures from Al Gore, a former American vice-president, to Rex Weyle
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f8a98d9182bd8b888a9d8b8b97b89d9b97969795918b8cd69b9795">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5504203c2f102625273026263a1530363a3b3a383c26217b363a38">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What was the name of the American aid plan to Europe after the second world war?
 
