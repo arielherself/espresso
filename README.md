@@ -12,11 +12,11 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Hurricane Ian</strong> made landfall near Fort Myers, Florida. With wind speeds near 150mph (240kph), Ian is just shy of the category-five designation, the most severe; it is set to become one of the [strongest storms](https://te.arielherself.xyz/the-economist-explains/2022/06/01/why-this-atlantic-hurricane-season-is-predicted-to-be-unusually-stormy) on record to wallop America’s mainland. More than 800,000 people are already without power. Storm surges up to 18ft (5m) are expected along the coast of south-western Florida. Earlier Cuba experienced a blackout.
+
 The <strong>Bank of England</strong> said it would start buying long-dated government bonds in a bid to calm markets and protect pension funds. The bank warned of a “material risk to UK financial stability” if chaos in the bond market continued. Trouble began after [Kwasi Kwarteng](https://te.arielherself.xyz/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues), the chancellor, announced a [new fiscal policy](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) on Friday which triggered a collapse in the value of sterling, now around $1.06. Earlier, the IMF urged Britain’s leaders to “re-evaluate” the measures, which include £45bn ($48bn) of debt-funded tax cuts.
 
 The <strong>[dollar](https://te.arielherself.xyz/leaders/2022/09/08/the-dollar-is-as-strong-as-ever-isnt-it)</strong> continued to run riot around the world, hitting 20-year highs against a group of major currencies on Wednesday. The euro sank further beneath parity, to 96 cents. And China’s <strong>offshore yuan </strong>plumbed an all-time low, at less than 7.2 per buck or 12% cheaper than it started the year. The yuan’s decline caused slumps in other Asian countries’ currencies, such as the South Korean won.
-
-<strong>Hurricane Ian</strong> intensified and its winds reached 155mph, just 2mph away from category five strength, the most powerful for a storm, as it swept towards <strong>America’s</strong> <strong>mainland</strong>. Just four category five hurricanes have hit mainland America in records dating back to 1851<em>.</em> Earlier, Cuba’s entire population of 11m was plunged into a blackout after Hurricane Ian swept through, devastating its power grid and forcing 50,000 people to flee their homes. 
 
 The EU said leaks from <strong>Nord Stream 1 and 2</strong>, [major gas pipelines](https://te.arielherself.xyz/europe/2022/02/22/the-west-imposes-swift-sanctions-on-russia-can-they-stop-a-war) under the Baltic sea, were caused by sabotage, but stopped short of blaming Russia. Ursula Von Der Leyen, head of the European Commission, said deliberate disruption would receive the “strongest possible response”. Ms von der Leyen also proposed a new set of sanctions on Russia, including an oil price cap.
 
@@ -64,7 +64,7 @@ Ana de Armas is uncannily convincing in the lead role, but all “Blonde” has 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="401135293a053330322533332f0025232f2e2f2d2933346e232f2d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="613014081b241211130412120e2104020e0f0e0c0812154f020e0c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which American comedian replaced Johnny Carson as host of “The Tonight Show” in 1992?
 
