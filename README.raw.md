@@ -18,7 +18,7 @@ Russia said that it will formally annex four regions of <strong>Ukraine</strong>
 
 <strong>Olaf Scholz</strong>, Germany’s chancellor, announced aid measures worth <strong>€200bn</strong> ($194bn) to [protect](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis) consumers and companies from soaring energy prices. The package, which he referred to as a “double ka-boom”, includes a gas price cap to run to spring 2024 and scrapping a gas tax. “[Prices](https://www.economist.com/europe/2022/09/29/europes-next-energy-crunch) must go down,” said Mr Scholz.
 
-Britain’s prime minister <strong>Liz Truss</strong> said she would not roll back her government’s [“mini-budget”](https://www.economist.com/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues) that has roiled markets and was prepared to take “controversial” steps to boost growth. Her [economic plan](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) triggered a collapse in the value of sterling, though it has now recovered to the level it was at the time of the announcement. On Wednesday the Bank of England shocked analysts by committing itself to buy long-dated government bonds worth £65bn ($70bn) in a bid to calm markets.
+Britain’s prime minister <strong>Liz Truss</strong> said she would not roll back her government’s [“mini-budget”](https://www.economist.com/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues) that has roiled markets and was prepared to take “controversial” steps to boost growth. Her [economic plan](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) triggered a collapse in the value of sterling, though it has now recovered to the level it was at the time of the fiscal announcement. On Wednesday the Bank of England shocked analysts by committing itself to buy long-dated government bonds worth £65bn ($70bn) in a bid to calm markets.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ FIFA earns an estimated $150m every year for lending its name to the series. It 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6332160a19261013110610100c2306000c0d0c0e0a10174d000c0e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which town in Maryland shares its name with an American comedian?
 
