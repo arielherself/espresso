@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Hurricane Ian</strong> made [landfall](https://te.arielherself.xyz/united-states/2022/09/29/hurricane-ian-pummels-florida) near Fort Myers, <strong>Florida</strong>, and weakened as it ploughed across the peninsula. More than 2m people are without power. With wind speeds near 150mph (240kph) when it struck, Ian had been just shy of the category-five designation, the most severe; it counts anyway as one of the [strongest storms](https://te.arielherself.xyz/the-economist-explains/2022/06/01/why-this-atlantic-hurricane-season-is-predicted-to-be-unusually-stormy) on record to wallop America’s mainland. Storm surges as high as 12ft (3.7 metres) were seen along the coast of south-western Florida as the interior was doused by an unrelenting downpour. <strong>Cuba </strong>began restoring power after suffering a complete blackout.
+President Joe Biden said <strong>Hurricane Ian</strong> may have resulted in a “substantial loss of life”, possibly making it the “[deadliest hurricane](https://te.arielherself.xyz/united-states/2022/09/29/hurricane-ian-pummels-florida) in Florida’s history”. Mr Biden declared it a major disaster, unleashing federal aid for several counties. Ian left more than 2m people in Florida without power. The storm is expected to hit South Carolina on Friday.
 
 Russia said that it will formally annex four regions of <strong>Ukraine</strong> under its control on Friday. This follows sham [referendums](https://te.arielherself.xyz/europe/2022/09/27/vladimir-putin-stages-four-fake-referendums-in-occupied-ukraine) on joining Russia; President Vladimir Putin’s regime controlled the count and voters were held at gunpoint. Many countries, including Serbia, which has close ties with Russia, said they would not recognise the referendums’ results.
 
@@ -66,7 +66,7 @@ FIFA earns an estimated $150m every year for lending its name to the series. It 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1647637f6c53656664736565795673757978797b7f65623875797b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="114064786b546261637462627e5174727e7f7e7c7862653f727e7c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which town in Maryland shares its name with an American comedian?
 
