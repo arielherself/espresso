@@ -18,7 +18,7 @@ Russia said that it will formally annex four regions of <strong>Ukraine</strong>
 
 Britain’s prime minister <strong>Liz Truss</strong> said she would not roll back her government’s [“mini-budget”](https://www.economist.com/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues) that has roiled markets and was prepared to take “controversial” steps to boost growth. Her [economic plan](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) triggered a collapse in the value of sterling, now at just about $1.08. On Wednesday the Bank of England shocked analysts by committing itself to buy long-dated government bonds worth £65bn ($70bn) in a bid to calm markets.
 
-The EU determined that leaks from <strong>Nord Stream 1 and 2</strong>, [major gas pipelines](https://www.economist.com/europe/2022/02/22/the-west-imposes-swift-sanctions-on-russia-can-they-stop-a-war) under the Baltic sea, were caused by sabotage, but stopped short of blaming Russia. On Thursday Sweden’s coastguards reported a fourth leak. Ursula von der Leyen, head of the European Commission, said deliberate disruption would receive the “strongest possible response”. Ms von der Leyen also proposed new sanctions on Russia, including an oil price cap.
+The <strong>EU</strong> and <strong>NATO</strong> determined that leaks from <strong>Nord Stream 1 and 2</strong>, [major gas pipelines](https://www.economist.com/europe/2022/02/22/the-west-imposes-swift-sanctions-on-russia-can-they-stop-a-war) under the Baltic sea, were caused by sabotage, but stopped short of blaming Russia. On Thursday Sweden’s coastguards reported a fourth leak. Ursula von der Leyen, head of the European Commission, said deliberate disruption would receive the “strongest possible response”. Ms von der Leyen also proposed new sanctions on Russia, including an oil price cap.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ FIFA earns an estimated $150m every year for lending its name to the series. It 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8fdefae6f5cafcfffdeafcfce0cfeaece0e1e0e2e6fcfba1ece0e2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which town in Maryland shares its name with an American comedian?
 
