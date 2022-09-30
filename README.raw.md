@@ -14,7 +14,7 @@
 
 <strong>Vladimir</strong><strong> Putin</strong>, Russia’s president, declared the illegal <strong>annexation</strong> of four regions of Ukraine during an address at the Kremlin. The announcement followed [sham referendums](https://www.economist.com/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine) in the areas. Mr Putin warned Ukraine and the West that the sovereignty of these areas would not be open to future negotiation as those living within them had become Russian citizens “forever”. <strong>America</strong> announced another round of sanctions on Russia, targeting the country’s defence and technology sectors.
 
-<strong>Hurricane Ian</strong> killed at least 21 in Florida, according to state officials, with more casualties expected. Earlier, President Joe Biden said the storm may have caused a “substantial loss of life”, possibly making it the “[deadliest hurricane](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida) in Florida’s history”. The hurricane is on track to hit South Carolina on Friday.
+<strong>Hurricane</strong> Ian made landfall in South Carolina as a category-one storm, having left at least 21 people [dead in Florida](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida). Ian is forecast to move towards North Carolina before dissipating by Saturday evening near the border with Virginia. More than one million Floridians had their power restored, about half the number affected. More casualties are expected.
 
 <strong>Liz Truss</strong>, Britain’s new prime minister, met with the country’s independent economic watchdog on Friday, as she struggles to contain the [fallout](https://www.economist.com/leaders/2022/09/28/how-not-to-run-a-country) from last week’s [disastrous mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically). The meeting failed to calm jitters as the pound weakened again and British pension schemes continued to raise funds by shedding assets. 
 
@@ -22,7 +22,7 @@ A <strong>suicide bombing</strong> at a private college in Afghanistan’s capit
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Factory activity in <strong>China</strong> unexpectedly grew in September, helped by covid measures easing in parts of the country. [Activity](https://www.economist.com/finance-and-economics/2022/09/20/chinas-rulers-seem-resigned-to-a-slowing-economy) in the services sector contracted sharply, however. Meanwhile the <strong>Reserve Bank of India</strong> raised interest rates as inflation remains above the central bank’s target range. It is the fourth consecutive increase since central bankers began tightening monetary policy in May. 
+<strong>European</strong> energy ministers approved a [windfall tax](https://www.economist.com/the-economist-explains/2022/09/15/how-the-eu-intends-to-collect-windfall-profits-from-energy-firms) on most non-gas electricity producers and cuts to electricity consumption during peak hours, to temper soaring <strong>energy bills</strong>. They could not agree on a plan to [cap natural-gas prices](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis), which Germany opposes but France and others support. The tax is projected to raise €140bn ($137bn), to be redistributed to consumers. The measures will take effect in December.
 
 <strong>America </strong>struck a trade and security agreement with 14 <strong>Pacific-island</strong> countries. The deal includes $810m in financial assistance and measures to tackle climate change. It comes amid American concerns over China’s [growing influence in the region](https://www.economist.com/china/2022/06/02/chinas-interest-in-the-pacific-islands-is-growing). Mr Biden said the security of America and the world depends on “the security of the Pacific Islands”.
 
@@ -66,7 +66,7 @@ Through a combination of multi-spectral video, ultra-violet timelapses of the fo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9bcaeef2e1dee8ebe9fee8e8f4dbfef8f4f5f4f6f2e8efb5f8f4f6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2a7b5f43506f595a584f5959456a4f494544454743595e04494547">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What was the maiden name of Margaret Thatcher?
 
