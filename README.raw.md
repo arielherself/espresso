@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Vladimir</strong><strong> Putin</strong>, Russia’s president, declared the illegal <strong>annexation</strong> of four regions of Ukraine during an address at the Kremlin. The announcement followed [sham referendums](https://www.economist.com/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine) in the areas. Mr Putin warned Ukraine and the West that the sovereignty of these areas would not be open to future negotiation as those living within them had become Russian citizens “forever”.
+<strong>Vladimir</strong><strong> Putin</strong>, Russia’s president, declared the illegal <strong>annexation</strong> of four regions of Ukraine during an address at the Kremlin. The announcement followed [sham referendums](https://www.economist.com/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine) in the areas. Mr Putin warned Ukraine and the West that the sovereignty of these areas would not be open to future negotiation as those living within them had become Russian citizens “forever”. <strong>America</strong> announced another round of sanctions on Russia, targeting the country’s defence and technology sectors.
 
-President Joe Biden said <strong>Hurricane Ian</strong> may have caused a “substantial loss of life”, possibly making it the “[deadliest hurricane](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida) in Florida’s history”. The president declared it a major disaster, unleashing federal aid for several counties. Ian left more than 2m people in Florida without power. The hurricane is expected to hit South Carolina on Friday.
+<strong>Hurricane Ian</strong> killed at least 21 in Florida, according to state officials, with more casualties expected. Earlier, President Joe Biden said the storm may have caused a “substantial loss of life”, possibly making it the “[deadliest hurricane](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida) in Florida’s history”. The hurricane is on track to hit South Carolina on Friday.
 
 <strong>Liz Truss</strong>, Britain’s new prime minister, met with the country’s independent economic watchdog on Friday, as she struggles to contain the [fallout](https://www.economist.com/leaders/2022/09/28/how-not-to-run-a-country) from last week’s [disastrous mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically). The meeting failed to calm jitters as the pound weakened again and British pension schemes continued to raise funds by shedding assets. 
 
@@ -66,7 +66,7 @@ Through a combination of multi-spectral video, ultra-violet timelapses of the fo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6a3b1f03102f191a180f1919052a0f090504050703191e44090507">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What was the maiden name of Margaret Thatcher?
 
