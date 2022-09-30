@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-President Joe Biden said <strong>Hurricane Ian</strong> may have caused a “substantial loss of life”, possibly making it the “[deadliest hurricane](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida) in Florida’s history”. The president declared it a major disaster, unleashing federal aid for several counties. Ian left more than 2m people in Florida without power. The hurricane is expected to hit South Carolina on Friday.
+<strong>Vladimir</strong><strong> Putin</strong>, Russia’s president, declared the illegal <strong>annexation</strong> of four regions of Ukraine during an address at the Kremlin. The announcement followed [sham referendums](https://www.economist.com/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine) in the areas. Mr Putin warned Ukraine and the West that the sovereignty of these areas would not be open to future negotiation as those living within them had become Russian citizens “forever”.
 
-<strong>America</strong> will “never, never, never recognise Russia’s claims on Ukraine sovereign territory”, according to Mr Biden. His comments came before Russia’s formal announcement, expected on Friday, of its annexation of four Ukrainian regions where it held [sham referendums](https://www.economist.com/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine) in the past week. Meanwhile Ukrainian officials said that 23 civilians were killed by a <strong>Russian missile attack</strong> in Zaporizhia, a Ukrainian-held city within one of these regions.
+President Joe Biden said <strong>Hurricane Ian</strong> may have caused a “substantial loss of life”, possibly making it the “[deadliest hurricane](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida) in Florida’s history”. The president declared it a major disaster, unleashing federal aid for several counties. Ian left more than 2m people in Florida without power. The hurricane is expected to hit South Carolina on Friday.
 
 <strong>Liz Truss</strong>, Britain’s new prime minister, met with the government’s independent economic advisers on Friday, as she struggles to contain the [fallout](https://www.economist.com/leaders/2022/09/28/how-not-to-run-a-country) from last week’s [disastrous mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically). A <em>Times </em>newspaper poll put her Conservatives 33 points behind Labour following the unveiling of huge unfunded tax cuts that caused the pound to crash, the Bank of England to intervene over rising gilt yields and the IMF to criticise the plan.
 
@@ -32,19 +32,19 @@ The death toll from protests in <strong>Iran </strong>rose to 83, according to a
 
 ----------
 
-## Russia sets the stage for annexation
-
-Russia’s president, Vladimir Putin, is preparing to annex swathes of Ukrainian territory. In farcical referendums overseen by soldiers, residents in occupied parts of Kherson, Zaporizhia, Donetsk and Luhansk provinces supposedly “voted overwhelmingly” to join Russia. On Friday Mr Putin is expected to hold a ceremony in the Kremlin during which he may lay claim to all four provinces, despite not controlling any in its entirety. 
-
-The [sham referendums](https://www.economist.com/europe/2022/09/23/voting-begins-in-four-sham-referendums-in-ukraine) were hastily announced in mid-September after Russia’s battlefield losses. Alongside [partial mobilisation](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) and a new [nuclear threat](https://www.economist.com/the-economist-explains/2022/09/14/do-russias-military-setbacks-increase-the-risk-of-nuclear-conflict), they dramatically increase the risks of uncontrolled escalation. The West is scrambling to respond. More sanctions may be announced. Diplomats are pushing India, and even China, to isolate the Kremlin. A test will be how they vote on an American-sponsored UN Security Council resolution denouncing the annexation on Friday.
-
-Volodymyr Zelensky, Ukraine’s president, said he will not change his approach to the war. Russia’s land-grab would, however, slam the door on any future negotiations.
-
 ## The wrath of Ian
 
 South Carolinians will wake up on Friday after an uneasy night’s sleep. Hurricane Ian is forecast to [hit the state](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida) later in the day, having moved out into the Atlantic from the east coast of Florida on Thursday. “Life-threatening” floods, storm surges and winds are expected.
 
 Those Ian left behind must start to grapple with its destruction. By the time it slammed into Florida on Wednesday, with winds approaching 150mph (240kph), it was one of the most powerful storms ever to make landfall in the contiguous United States. It had already knocked out Cuba’s electricity grid. In Florida homes and roads were submerged and destroyed; millions lost access to power and drinking water. Ron DeSantis, the state’s governor, said that he was expecting casualties, though the death toll is not yet clear. Ian is also expected to be among the costliest hurricanes on record. But that record is accelerating too, as [climate change](https://www.economist.com/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse) makes hurricanes stronger, wetter and slower—and thus more damaging.
+
+## Russia sets the stage for annexation
+
+Russia’s president, Vladimir Putin, announced the annexation of swathes of Ukrainian territory during a speech at the Kremlin, illegally claiming sovereignty over four Ukrainian provinces, despite not controlling any in its entirety. In farcical referendums overseen by soldiers, residents in occupied parts of Kherson, Zaporizhia, Donetsk and Luhansk provinces supposedly “voted overwhelmingly” to join Russia.
+
+The [sham referendums](https://www.economist.com/europe/2022/09/23/voting-begins-in-four-sham-referendums-in-ukraine) were hastily announced in mid-September after Russia’s battlefield losses. Alongside [partial mobilisation](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) and a new [nuclear threat](https://www.economist.com/the-economist-explains/2022/09/14/do-russias-military-setbacks-increase-the-risk-of-nuclear-conflict), they dramatically increase the risks of uncontrolled escalation. The West is scrambling to respond. More sanctions may be announced. Diplomats are pushing India, and even China, to isolate the Kremlin. A test will be how they vote on an American-sponsored UN Security Council resolution denouncing the annexation on Friday.
+
+Volodymyr Zelensky, Ukraine’s president, said he will not change his approach to the war. Russia’s land-grab would, however, slam the door on any future negotiations.
 
 ## Europe’s big decisions on energy
 
@@ -66,7 +66,7 @@ Through a combination of multi-spectral video, ultra-violet timelapses of the fo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3766425e4d72444745524444587752545859585a5e44431954585a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What was the maiden name of Margaret Thatcher?
 
