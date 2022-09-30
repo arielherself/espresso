@@ -46,11 +46,11 @@ South Carolinians will wake up on Friday after an uneasy night’s sleep. Hurric
 
 Those Ian left behind must start to grapple with its destruction. By the time it slammed into Florida on Wednesday, with winds approaching 150mph (240kph), it was one of the most powerful storms ever to make landfall in the contiguous United States. It had already knocked out Cuba’s electricity grid. In Florida homes and roads were submerged and destroyed; millions lost access to power and drinking water. Ron DeSantis, the state’s governor, said that he was expecting casualties, though the death toll is not yet clear. Ian is also expected to be among the costliest hurricanes on record. But that record is accelerating too, as [climate change](https://www.economist.com/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse) makes hurricanes stronger, wetter and slower—and thus more damaging.
 
-## Europe faces big decisions on energy
+## Europe’s big decisions on energy
 
-The agenda for the meeting of Europe’s energy ministers on Friday was already looking bulky. Then someone blew up [Nord Stream 1 and 2](https://www.economist.com/europe/2022/02/22/the-west-imposes-swift-sanctions-on-russia-can-they-stop-a-war), the gas pipelines connecting Russia and Germany. The European Commission’s president, Ursula von der Leyen, has promised the “strongest possible response”. The possible act of sabotage has brought into sharp relief the vulnerability of Europe’s energy supply, and made policymaking harder.
+The agenda for the meeting of Europe’s energy ministers on Friday was already looking bulky. Then someone blew up [Nord Stream 1 and 2](https://www.economist.com/europe/2022/02/22/the-west-imposes-swift-sanctions-on-russia-can-they-stop-a-war), the gas pipelines connecting Russia and Germany. The European Commission’s president, Ursula von der Leyen, has promised the “strongest possible response”. The possible act of sabotage has brought into sharp relief the vulnerability of Europe’s energy supply.
 
-The rest of the agenda will focus on [restraining rising gas and electricity bills](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis). Ministers will haggle over how to pay for this, perhaps through a windfall tax on energy companies. They will also discuss reducing electricity demand, especially during peak hours. The most contentious idea is a cap on gas prices: either across the board or limited to Russian imports. But the attacks on the Nord Stream pipelines—a reminder of Russia’s willingness to wage crippling energy warfare on Europe—make Russian gas flows ever less likely to resume.
+Getting off to a quick start, ministers approved emergency windfall taxes on energy companies to help tackle [rising gas and electricity bills](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis). They also agreed to a 5% mandatory cut in electricity use during peak hours. For the remainder of the day they will hammer away at the more divisive idea of a cap on gas prices: either across the board or limited to Russian imports. But the attacks on the Nord Stream pipelines—a reminder of Russia’s willingness to wage crippling energy warfare on Europe—make Russian gas flows ever less likely to resume.
 
 ## What do Texans care about most?
 
@@ -66,7 +66,7 @@ Through a combination of multi-spectral video, ultra-violet timelapses of the fo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ccde9f5e6d9efeceef9efeff3dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1a4b6f73605f696a687f6969755a7f797574757773696e34797577">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What was the maiden name of Margaret Thatcher?
 
