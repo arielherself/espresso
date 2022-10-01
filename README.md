@@ -22,11 +22,11 @@ Ibrahim Traoré, an army captain who [staged a coup](https://te.arielherself.xyz
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Poland </strong>began to receive gas from Baltic Pipe, a new pipeline from Norway via Denmark and the Baltic Sea. The pipeline will help diversify Poland’s gas supplies away from Russia. Meanwhile, <strong>Bulgaria </strong>and <strong>Greece </strong>began operating their long-delayed gas pipeline. Ursula von der Leyen, president of the European Commission, called it a “game changer” and “freedom from dependency on Russian gas”. 
+
 The director-general of the <strong>Zaporizhia</strong> nuclear power plant in Ukraine was detained by Russian troops, jeopardising “the safety of operation”, said the company running the plant. Russia has occupied Zaporizhia since early March and in recent weeks Ukraine and Russia have accused each other of [shelling](https://te.arielherself.xyz/by-invitation/2022/09/06/how-to-prevent-a-crisis-at-the-zaporizhia-nuclear-power-plant-according-to-a-fukushima-veteran) the site.
 
-<strong>North Korea </strong>fired two ballistic missiles off its east coast, according to South Korean officials. The launches follow tests earlier this week and come a day after America, Japan and South Korea staged joint-military exercises. Yoon Suk-yeol, South Korea’s president, warned North Korea that any [attempted use of nuclear arms](https://te.arielherself.xyz/asia/2022/04/07/north-korea-is-testing-icbms-again-nuclear-weapons-may-be-next) would result in a “resolute and overwhelming response”. 
-
-Standard &amp; Poor’s downgraded its outlook for <strong>Britain’s</strong> credit rating to “negative” from “stable”. The ratings agency said there were “additional risks” in lending to Britain following the government’s [mini-budget](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) announced last week. Meanwhile Kwasi Kwarteng, the chancellor, defended the government’s decisions. Writing in <em>The Telegraph</em>, he insisted his government’s economic plan is “sound, credible and will work to drive growth”.
+Exit polls from <strong>Latvia’s </strong>general election showed that New Unity, a party led by Prime Minister Krisjanis Karins, a staunch critic of Vladimir Putin, was set to win by a sizeable margin. Meanwhile the Harmony party, which draws most of its support from Latvia&#x27;s Russians, is projected to have failed to win enough votes to enter parliament.
 
 <strong>Word of the week: </strong><em>dedovshchina, </em>the name for the tradition of hazing conscripts in Russia. [Read the full story](https://te.arielherself.xyz/the-economist-explains/2022/09/24/how-russia-is-conscripting-men-to-fight-in-ukraine).
 
