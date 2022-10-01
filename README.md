@@ -12,83 +12,103 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Vladimir</strong><strong> Putin</strong>, Russia’s president, declared the illegal <strong>annexation</strong> of four regions of Ukraine during an address at the Kremlin. The announcement followed [sham referendums](https://te.arielherself.xyz/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine) in the areas. Mr Putin warned Ukraine and the West that the sovereignty of these areas would not be open to future negotiation as those living within them had become Russian citizens “forever”. <strong>America</strong> announced another round of sanctions on Russia, targeting the country’s defence and technology sectors.
-
-<strong>China</strong> and <strong>India</strong> [abstained](https://te.arielherself.xyz/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) from condemning Russia’s annexation at the <strong>UN Security Council</strong>. America, which sponsored the draft resolution, had hoped that India would [take a more forceful line](https://te.arielherself.xyz/asia/why-wont-indias-government-condemn-vladimir-putin/21808074) towards Russia. Ten countries in the 15-member body voted for the measure, which Russia vetoed.
+<strong>Vladimir</strong><strong> Putin</strong>, Russia’s president, declared the illegal <strong>annexation</strong> of four regions of Ukraine during an address at the Kremlin. The announcement followed [sham referendums](https://te.arielherself.xyz/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine) in the areas. Mr Putin warned Ukraine and the West that the sovereignty of these areas would not be open to future negotiation. <strong>America</strong> responded by announcing another round of sanctions on Russia. It also sponsored a draft resolution condemning the annexation at the UN Security Council. China and India abstained but ten countries in the 15-member body voted for the measure, which Russia vetoed.
 
 <strong>American shares</strong> continued their poor run. The S&amp;P 500 index shed 1.5% on Friday and 5.3% over the past quarter, notching up a [third straight quarter of losses](https://te.arielherself.xyz/graphic-detail/2022/09/30/wall-street-extends-its-worst-run-since-the-financial-crisis) for the first time since 2008-09. Meanwhile, new figures showed that in August the Federal Reserve’s preferred measure of annual inflation, the personal-consumption-expenditures price index, rose higher than expected, to 4.9%, excluding food and energy.
 
 <strong>Hurricane</strong> Ian made landfall in South Carolina as a category-one storm, having left at least 21 people [dead in Florida](https://te.arielherself.xyz/united-states/2022/09/29/hurricane-ian-pummels-florida). Ian is forecast to move towards North Carolina before dissipating by Saturday evening near the border with Virginia. More than one million Floridians had their power restored, about half the number affected. More casualties are expected.
 
+<strong>North Korea </strong>fired two ballistic missiles off its east coast, according to South Korean officials. The launches follow tests earlier this week and come a day after America, Japan and South Korea staged joint-military exercises. Yoon Suk-yeol, South Korea’s president, warned North Korea that any [attempted use of nuclear arms](https://te.arielherself.xyz/asia/2022/04/07/north-korea-is-testing-icbms-again-nuclear-weapons-may-be-next) would result in a “resolute and overwhelming response”. 
+
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>European</strong> energy ministers approved a [windfall tax](https://te.arielherself.xyz/the-economist-explains/2022/09/15/how-the-eu-intends-to-collect-windfall-profits-from-energy-firms) on most non-gas electricity producers and cuts to electricity consumption during peak hours, to temper soaring <strong>energy bills</strong>. They could not agree on a plan to [cap natural-gas prices](https://te.arielherself.xyz/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis), which Germany opposes but France and others support. The tax is projected to raise €140bn ($137bn), to be redistributed to consumers. The measures will take effect in December.
+Standard &amp; Poor’s downgraded its outlook for <strong>Britain’s</strong> credit rating to “negative” from “stable”. The ratings agency said there were “additional risks” in lending to Britain following the government’s [mini-budget](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) announced last week. Meanwhile Kwasi Kwarteng, the chancellor, defended the government’s decisions. Writing in <em>The Telegraph</em>, he insisted his government’s economic plan is “sound, credible and will work to drive growth”.
 
-<strong>Liz Truss</strong>, Britain’s new prime minister, met with the country’s independent economic watchdog on Friday, as she struggles to contain the [fallout](https://te.arielherself.xyz/leaders/2022/09/28/how-not-to-run-a-country) from last week’s [disastrous mini-budget](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically). The meeting failed to calm jitters as the pound weakened again and British pension schemes continued to raise funds by shedding assets. 
+The director-general of the <strong>Zaporizhia</strong> nuclear power plant in Ukraine was detained by Russian troops, jeopardising “the safety of operation”, said the company running the plant. Russia has occupied Zaporizhia since early March and in recent weeks Ukraine and Russia have accused each other of [shelling](https://te.arielherself.xyz/by-invitation/2022/09/06/how-to-prevent-a-crisis-at-the-zaporizhia-nuclear-power-plant-according-to-a-fukushima-veteran) the site.
 
-A <strong>suicide bombing</strong> at a private college in Afghanistan’s capital, <strong>Kabul</strong>, killed at least 19 people and wounded 27 others, according to police. The victims were students taking a mock university exam; most were women. While there was [a lull in such attacks](https://te.arielherself.xyz/asia/2022/08/11/afghanistan-is-poorer-and-hungrier-than-a-year-ago) after the Taliban’s takeover of the country in August 2021, their frequency has recently increased. Many are claimed by Islamic State, a militant group.
+An army captain in <strong>Burkina Faso</strong> confirmed the ouster of Lieutenant-Colonel Paul-Henri Damiba, the country’s leader. Ibrahim Traore made the announcement on state television accompanied by a group of masked soldiers. He blamed the military government&#x27;s inability to deal with an Islamist insurgency for the coup, the second this year. Colonel Damiba had [overthrown an elected government](https://te.arielherself.xyz/middle-east-and-africa/2022/01/29/a-coup-in-burkina-faso-will-help-the-sahels-jihadists) in January.
 
-<strong>Fact of the day: </strong>$50,000, the highest daily fee charged by Vishal Punjabi, a video-producer for Indian weddings, a booming business. [Read the full story](https://te.arielherself.xyz/business/2022/09/29/matrimony-is-one-of-indias-biggest-businesses).
+<strong>Word of the week: </strong><em>dedovshchina, </em>the name for the tradition of hazing conscripts in Russia. [Read the full story](https://te.arielherself.xyz/the-economist-explains/2022/09/24/how-russia-is-conscripting-men-to-fight-in-ukraine).
 
 ----------
 
-## The wrath of Ian
+## Seeking investment, Ukraine hosts a business shindig
 
-South Carolinians will wake up on Friday after an uneasy night’s sleep. Hurricane Ian is forecast to [hit the state](https://te.arielherself.xyz/united-states/2022/09/29/hurricane-ian-pummels-florida) later in the day, having moved out into the Atlantic from the east coast of Florida on Thursday. “Life-threatening” floods, storm surges and winds are expected.
+The backdrop for IT Arena 2022, a business conference that ends on Saturday in Lviv, in western Ukraine, looks grim. On Friday Russia forcibly annexed a sizable chunk of the country, annual inflation is around 20%, wages have been cut and Ukraine’s economy is on track to shrink this year by nearly a third. But conditions could be worse. Earlier in the war it looked as though GDP would fall by half. Unemployment is falling, albeit from frightful heights. Hiring is [strongest in western areas](https://te.arielherself.xyz/graphic-detail/2022/06/30/tracking-changes-to-ukraines-economy) such as Lviv, where IT Arena 2022 attendees have gathered at secret venues. One is underground; the other has bomb shelters.
 
-Those Ian left behind must start to grapple with its destruction. By the time it slammed into Florida on Wednesday, with winds approaching 150mph (240kph), it was one of the most powerful storms ever to make landfall in the contiguous United States. It had already knocked out Cuba’s electricity grid. In Florida homes and roads were submerged and destroyed; millions lost access to power and drinking water. Ron DeSantis, the state’s governor, said that he was expecting casualties, though the death toll is not yet clear. Ian is also expected to be among the costliest hurricanes on record. But that record is accelerating too, as [climate change](https://te.arielherself.xyz/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse) makes hurricanes stronger, wetter and slower—and thus more damaging.
+Aiming to make the most of Ukraine’s reputation for resourceful resistance and plucky entrepreneurialism, the government has launched Advantage Ukraine, a programme to boost foreign investment. Red tape is being cut. Hundreds of permit requirements have been scrapped. Ukraine, its economy minister says, seeks not humanitarian aid, but investment, which “we understand…as blood for the Ukrainian economy”.
 
-## Russia sets the stage for annexation
+## China’s National Day holidays
 
-Russia’s president, Vladimir Putin, announced the annexation of swathes of Ukrainian territory during a speech at the Kremlin, illegally claiming sovereignty over four Ukrainian provinces, despite not controlling any in its entirety. In farcical referendums overseen by soldiers, residents in occupied parts of Kherson, Zaporizhia, Donetsk and Luhansk provinces supposedly “voted overwhelmingly” to join Russia.
+In normal times, China’s “Golden Week” vacation, which begins on Saturday, calls forth a glut of holiday spending. But wallets are lighter this year. Sporadic lockdowns to stamp out covid-19 have worsened an [economic slump](https://te.arielherself.xyz/china/2022/08/18/chinas-economy-is-beset-by-problems). Would-be travellers also fear getting trapped—150,000 got stuck at the beach resorts of Hainan, a southern island province, during a covid outbreak this summer. Tourist spending during last year’s holidays was just 60% of that in pre-covid times. This year could be worse.
 
-The [sham referendums](https://te.arielherself.xyz/europe/2022/09/23/voting-begins-in-four-sham-referendums-in-ukraine) were hastily announced in mid-September after Russia’s battlefield losses. Alongside [partial mobilisation](https://te.arielherself.xyz/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation) and a new [nuclear threat](https://te.arielherself.xyz/the-economist-explains/2022/09/14/do-russias-military-setbacks-increase-the-risk-of-nuclear-conflict), they dramatically increase the risks of uncontrolled escalation. The West is scrambling to respond. More sanctions may be announced. Diplomats are pushing India, and even China, to isolate the Kremlin. A test will be how they vote on an American-sponsored UN Security Council resolution denouncing the annexation on Friday.
+The Communist Party will try to cheer up gloomy staycationers. State media call for patriotic “positive energy” in time for a party congress later in October, at which [Xi Jinping](https://te.arielherself.xyz/theprincepod) is likely to be awarded a third term as leader. A film about heroic diplomats rescuing overseas Chinese from a war zone will hit cinemas, to lift spirits. “The motherland will never leave behind any citizen,” intones one character in the film’s trailer. Officials will hope a lockdown does not close cinemas and stop people getting the patriotic message.
 
-Volodymyr Zelensky, Ukraine’s president, said he will not change his approach to the war. Russia’s land-grab would, however, slam the door on any future negotiations.
+## A documentary about sisterhood in Myanmar
 
-## Europe’s big decisions on energy
+When the Burmese army [drove 700,000 Rohingyas](https://te.arielherself.xyz/asia/2017/09/09/a-state-led-massacre-triggers-an-exodus-of-rohingyas-from-myanmar), a mainly Muslim ethnic minoritiy, out of Myanmar in 2017, the news that reached the rest of the country was mostly state propaganda demonising those forced into exile. Filmed between 2016 and 2021 in a Rakhine village, Snow Hnin Ei Hlaing’s documentary tells a different tale. “Midwives”, which won a prize at this year’s Sundance Film Festival and was released in Britain on Friday, follows Hla, a tough-talking Buddhist Rakhine midwife and Nyo Nyo, her ambitious Muslim Rohingya apprentice.
 
-The agenda for the meeting of Europe’s energy ministers on Friday was already looking bulky. Then someone blew up [Nord Stream 1 and 2](https://te.arielherself.xyz/europe/2022/02/22/the-west-imposes-swift-sanctions-on-russia-can-they-stop-a-war), the gas pipelines connecting Russia and Germany. The European Commission’s president, Ursula von der Leyen, has promised the “strongest possible response”. The possible act of sabotage has brought into sharp relief the vulnerability of Europe’s energy supply.
+Their friendship is tested by personal quarrels, as well as by escalating conflict and racial hatred. The babies they deliver, born into the world’s largest stateless minority, face an uncertain future. But the women are united in their mission to help Rohingya mothers and other patients. The country’s Bamar ethnic majority, says Ms Snow Hlaing, found a new solidarity with persecuted minorities after a [bloody coup last February](https://te.arielherself.xyz/briefing/2021/02/06/myanmars-coup-turns-the-clock-back-a-decade). “The whole country became like the Rohingya.”
 
-Getting off to a quick start, ministers approved emergency windfall taxes on energy companies to help tackle [rising gas and electricity bills](https://te.arielherself.xyz/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis). They also agreed to a 5% mandatory cut in electricity use during peak hours. For the remainder of the day they will hammer away at the more divisive idea of a cap on gas prices: either across the board or limited to Russian imports. But the attacks on the Nord Stream pipelines—a reminder of Russia’s willingness to wage crippling energy warfare on Europe—make Russian gas flows ever less likely to resume.
+## Black rhinos may be better off hornless
 
-## What do Texans care about most?
+It is a sorry state of affairs when protecting a species from annihilation requires hacking off its most prominent feature. Nevertheless, that is what many African rhinoceros reserves have resorted to, to protect their charges from poachers. Dehorning rhinos is seen as the ultimate poacher-deterrent—it is the value of the horn that they are willing to kill for. And although dehorning is painless, its critics have suggested it may harm rhinos’ well-being or reproduction.
 
-Texas’s Republican governor, [Greg Abbott](https://te.arielherself.xyz/united-states/2022/09/15/a-grassroots-group-is-channelling-public-frustration-in-texas), will face his Democratic rival, Beto O’Rourke, on Friday night. The debate in Edinburg, a border town in the south of Texas, is the only one in the Lone Star State before elections in November. The location, selected by Mr Abbott’s team, will allow him to highlight border security and [illegal immigration](https://te.arielherself.xyz/special-report/2019/06/20/immigration-shapes-the-politics-of-california-and-texas), which he has made central to his campaign.
+A study in the <em>European Journal of Wildlife Research</em> allays some of those fears. It looked at four subpopulations of black rhinos in Namibia, three of which had undergone dehorning. Reassuringly, in all markers of population growth (lifespan, birth rates and offspring survival) dehorned rhinos were doing just as well as horned ones. And while a hornless rhino may look somewhat diminished, it is certainly preferable to one slain by poachers.
 
-Mr O’Rourke is trying to harness voters’ anger over Texas’s rightward shift on abortion and guns. Mr Abbott is betting that voters will care more about inflation and illegal immigration. He may be right: recent polls show him leading Mr O’Rourke by seven to eight points. The perception that the White House is not doing enough to [crack down on illegal immigration](https://te.arielherself.xyz/united-states/2022/05/22/the-title-42-furore-highlights-americas-broken-immigration-system) has pushed more Hispanic voters into the arms of the Republicans. Democratic hopes of demographic change turning Texas blue for now appear miscalculated.
+## Weekend profile: Yevgeny Prigozhin, Putin’s private-army supremo
 
-## A portrait of environmental destruction
+This week [Yevgeny Prigozhin](https://te.arielherself.xyz/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group) stepped out of the shadows. The close ally of Russia’s president, Vladimir Putin, admitted for the first time that he founded the [Wagner Group](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a network of guns-for-hire that does much of Russia’s dirty work. “I cleaned the old weapons myself, sorted out the bulletproof vests myself,” said Mr Prigozhin of Wagner’s early days.
 
-Over the past 20 years the Brazilian Amazon has lost 350,000 square kilometres to deforestation. This tragedy is the subject of “Broken Spectre”, a piece of video art by Richard Mosse, an Irish photographer. It opens at the National Gallery of Victoria in Australia on Friday, and at 180 The Strand, an exhibition space in London, on October 12th.
+The mercenaries emerged in Ukraine in 2014 to aid Russia’s annexation of Crimea and back up pro-Russian separatists in the eastern Donbas region. The group then expanded wherever Russia had an interest, including [Syria](https://te.arielherself.xyz/europe/2017/11/02/how-wagner-came-to-syria), [Libya](https://te.arielherself.xyz/middle-east-and-africa/2019/12/12/foreign-powers-are-piling-into-libya), the Central African Republic and Mali.
 
-Through a combination of multi-spectral video, ultra-violet timelapses of the forest at night and black-and-white film, Mr Mosse reveals the war that ranchers, farmers, loggers and [<em>garimpeiros</em>](https://te.arielherself.xyz/the-americas/2022/06/23/brazils-amazon-rainforest-has-become-more-dangerous) (wildcat miners) are waging on the rainforest. Over 74 minutes—the result of five years of work—the film shows trees felled and jungles set ablaze. The film’s visual effect is both dystopian and dreamlike; the scenes of destruction are also hauntingly beautiful. The intention is to “make people look again”, the artist explains. His work comes at a critical moment: in the run-up to the first round of Brazil’s [general election](https://te.arielherself.xyz/briefing/2022/09/08/jair-bolsonaro-is-poised-to-lose-the-brazilian-election) on Sunday, more fires, all man-made, were recorded in September than in any month in the past 12 years.
+As for Mr Prigozhin, little is known about his childhood. He spent most of his 20s in prison, serving nine years for robbery and fraud. After his release, he set up a hot-dog stand in St Petersburg in the 1990s. He soon opened chic eateries: his New Island floating restaurant was a favourite of Mr Putin, at the time deputy mayor of St Petersburg. His associations with Russia’s elite brought lucrative catering gigs for schools, hospitals and the army—and earned him the nickname “Putin’s Chef”. But it was his work outside the kitchen that earned him a reputation in the West. In 2018 American prosecutors indicted Mr Prigozhin, alleging that he financed a Russian “troll farm” to [spread online misinformation](https://te.arielherself.xyz/europe/2018/02/17/putins-chef-cooks-up-a-storm) during the presidential election in 2016.
 
-## Daily quiz
+Mr Prigozhin long denied involvement in Wagner’s bloody operation, and sued journalists who suggested as much. Since the outbreak of war in Ukraine the group may have helped capture several eastern cities. Mr Prigozhin is putting his name to that. He may think that Russia’s tattered relationship with the West means there is no more point in maintaining the open secret. He may also be reminding Mr Putin, amid [battlefield losses](https://te.arielherself.xyz/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) and a backlash against mobilisation at home, of his loyalty and value.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d889adb1a29daba8aabdababb798bdbbb7b6b7b5b1abacf6bbb7b5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+## The winners of this week’s quiz
 
-<strong>Friday: </strong>What was the maiden name of Margaret Thatcher?
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
 
-<strong>Thursday: </strong>Which town in Maryland shares its name with an American comedian?
+Asia: <strong>Arun Gurjale</strong>, Hosur, India 
 
-## The winners of last week’s crossword
+North America: <strong>Patti Drago</strong>, Lewes, United States
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were:
+Central and South America: <strong>Peter Noack</strong>, Lima, Peru
 
-<strong>Asia:</strong> Cheng Eng Aun, Singapore
+Europe: <strong>Henry Haley</strong>, Lille, France
 
-<strong>North America:</strong> Guillermo Garrido, Orlando, Florida, America
+Africa: <strong>Rob Blair</strong>, Harare, Zimbabwe
 
-<strong>Central and South America:</strong> Jaime Jean, Mexico City, Mexico
+Oceania: <strong>Paula Johnson</strong>, Perth, Australia
 
-<strong>Europe:</strong> Robert Sivers, Edinburgh, Scotland
+They all gave the correct answers of Warren Beatty, Marshall plan, Jay Leno, Chevy Chase and Roberts. The theme is US Supreme Court chief justices: Earl Warren, John Marshall, John Jay, Salmon Chase and John Roberts
 
-<strong>Africa: </strong>Ewan Hickling, Pretoria, South Africa 
+## Weekly crossword
 
-<strong>Oceania:</strong> Roberta MacDonald, Runaway Bay, Australia
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-They all gave the correct answers of [Latin America](https://te.arielherself.xyz/the-americas/2022/09/22/nayib-bukele-wants-to-abolish-term-limits-in-el-salvador), [liquor](https://te.arielherself.xyz/asia/2022/09/22/indias-capital-has-run-out-of-booze), [Apple](https://te.arielherself.xyz/finance-and-economics/2022/09/22/how-to-rebrand-stockmarket-indices) and [Arabic](https://te.arielherself.xyz/international/2022/09/22/how-russia-is-trying-to-win-over-the-global-south). Check back tomorrow for this week’s crossword.
+<strong>Cryptic clues</strong>
+
+<em>1 down</em> Lively market-riser? The opposite of Liz Truss! (4,7)
+
+<em>1 across </em>Asian riddle about religious education (6)
+
+<em>2 across </em>Retreating behind, burdened by unknown duties (5)
+
+<em>3 across </em>Government rules, at first, like leaders of imaginary magical establishment (6)  
+  
+<strong>Factual clues</strong>
+
+<em>1 down</em> Default man (4,7) 
+
+<em>1 across </em>One group not best pleased with Biden’s Inflation Reduction Act (6)
+
+<em>2 across </em>Recently cut in Britain, to disastrous effect (5)
+
+<em>3 across </em>What is more rotten than ever in Iran? (6)
+
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
 
 ----------
 
