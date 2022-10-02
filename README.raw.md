@@ -18,43 +18,19 @@ At least 174 people were killed in a stampede after a football match in <strong>
 
 The death toll from <strong>Hurricane Ian</strong> continued to rise as it moved into Virginia. At least 54 people have died so far—almost all of them in [Florida](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida). Hundreds of thousands of Americans are without power. President Joe Biden will visit Florida on Wednesday to survey the damage there. Ian is expected to dissipate by Sunday morning.
 
-<strong>America</strong> and <strong>Venezuela</strong> conducted a prisoner swap, with seven Americans exchanged for two relatives of [Nicolás Maduro](https://www.economist.com/the-americas/2022/08/18/venezuelas-dictator-is-less-isolated-than-he-once-was), Venezuela’s president. The freed Americans included five executives from Citgo, an oil company. The transfer, a result of months of secretive talks between both governments, does not change [America’s policy](https://www.economist.com/the-americas/2019/08/08/america-heaps-more-sanctions-on-venezuela) towards Venezuela, according to an American offical.
+<strong>Liz Truss</strong> acknowledged that her government should have laid “the ground better” for her [mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) on September 23rd; the extensive tax cuts provoked a panic on the money markets and a run on the pound. Britain’s prime minister was answering questions in an interview on the eve of her Conservative Party’s annual conference. She nonetheless stood by the cuts and her general economic policy.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>America</strong> and <strong>Venezuela</strong> conducted a prisoner swap, with seven Americans exchanged for two relatives of [Nicolás Maduro](https://www.economist.com/the-americas/2022/08/18/venezuelas-dictator-is-less-isolated-than-he-once-was), Venezuela’s president. The freed Americans included five executives from Citgo, an oil company. The transfer, a result of months of secretive talks between both governments, does not change [America’s policy](https://www.economist.com/the-americas/2019/08/08/america-heaps-more-sanctions-on-venezuela) towards Venezuela, according to an American offical.
 
 Exit polls from <strong>Latvia </strong>showed that New Unity, a party led by Prime Minister Krisjanis Karins, a staunch critic of Vladimir Putin, was set to win the general election by a sizeable margin. Its political rival, the Harmony party, which draws most of its support from [Latvia&#x27;s ethnic Russian population](https://www.economist.com/europe/2018/10/11/why-russian-latvians-vote-for-their-own), is projected to have not won enough votes to enter parliament.
 
 <strong>Poland </strong>began to receive gas from Norway through a new pipeline running from the Baltic Sea to Poland via Denmark. The Baltic Pipe will help [diversify](https://www.economist.com/finance-and-economics/russia-cuts-off-gas-to-two-european-countries/21808988) Poland’s gas supplies away from Russia. Meanwhile, <strong>Bulgaria </strong>and <strong>Greece </strong>began operating their long-delayed gas pipeline. Ursula von der Leyen, president of the European Commission, called it a “game changer” and said it would deliver “freedom from dependency on Russian gas”.
 
-Ibrahim Traoré, an army captain who [staged a coup](https://www.economist.com/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) in <strong>Burkina Faso</strong>, said that the ousted leader, Paul-Henri Sandaogo Damiba, is plotting a counter-attack. Gunfire echoed across the capital on Saturday and protesters started a fire outside the French embassy. Colonel Traoré has accused the French army of sheltering Colonel Damiba—France has denied the claims.
-
 <strong>Word of the week: </strong><em>dedovshchina, </em>the name for the tradition of hazing conscripts in Russia. [Read the full story](https://www.economist.com/the-economist-explains/2022/09/24/how-russia-is-conscripting-men-to-fight-in-ukraine).
 
 ----------
-
-## Seeking investment, Ukraine hosts a business shindig
-
-The backdrop for IT Arena 2022, a business conference that ends on Saturday in Lviv, in western Ukraine, looks grim. On Friday Russia forcibly annexed a sizable chunk of the country, annual inflation is around 20%, wages have been cut and Ukraine’s economy is on track to shrink this year by nearly a third. But conditions could be worse. Earlier in the war it looked as though GDP would fall by half. Unemployment is falling, albeit from frightful heights. Hiring is [strongest in western areas](https://www.economist.com/graphic-detail/2022/06/30/tracking-changes-to-ukraines-economy) such as Lviv, where IT Arena 2022 attendees have gathered at secret venues. One is underground; the other has bomb shelters.
-
-Aiming to make the most of Ukraine’s reputation for resourceful resistance and plucky entrepreneurialism, the government has launched Advantage Ukraine, a programme to boost foreign investment. Red tape is being cut. Hundreds of permit requirements have been scrapped. Ukraine, its economy minister says, seeks not humanitarian aid, but investment, which “we understand…as blood for the Ukrainian economy”.
-
-## China’s National Day holidays
-
-In normal times, China’s “Golden Week” vacation, which begins on Saturday, calls forth a glut of holiday spending. But wallets are lighter this year. Sporadic lockdowns to stamp out covid-19 have worsened an [economic slump](https://www.economist.com/china/2022/08/18/chinas-economy-is-beset-by-problems). Would-be travellers also fear getting trapped—150,000 got stuck at the beach resorts of Hainan, a southern island province, during a covid outbreak this summer. Tourist spending during last year’s holidays was just 60% of that in pre-covid times. This year could be worse.
-
-The Communist Party will try to cheer up gloomy staycationers. State media call for patriotic “positive energy” in time for a party congress later in October, at which [Xi Jinping](https://www.economist.com/theprincepod) is likely to be awarded a third term as leader. A film about heroic diplomats rescuing overseas Chinese from a war zone will hit cinemas, to lift spirits. “The motherland will never leave behind any citizen,” intones one character in the film’s trailer. Officials will hope a lockdown does not close cinemas and stop people getting the patriotic message.
-
-## A documentary about sisterhood in Myanmar
-
-When the Burmese army [drove 700,000 Rohingyas](https://www.economist.com/asia/2017/09/09/a-state-led-massacre-triggers-an-exodus-of-rohingyas-from-myanmar), a mainly Muslim ethnic minoritiy, out of Myanmar in 2017, the news that reached the rest of the country was mostly state propaganda demonising those forced into exile. Filmed between 2016 and 2021 in a Rakhine village, Snow Hnin Ei Hlaing’s documentary tells a different tale. “Midwives”, which won a prize at this year’s Sundance Film Festival and was released in Britain on Friday, follows Hla, a tough-talking Buddhist Rakhine midwife and Nyo Nyo, her ambitious Muslim Rohingya apprentice.
-
-Their friendship is tested by personal quarrels, as well as by escalating conflict and racial hatred. The babies they deliver, born into the world’s largest stateless minority, face an uncertain future. But the women are united in their mission to help Rohingya mothers and other patients. The country’s Bamar ethnic majority, says Ms Snow Hlaing, found a new solidarity with persecuted minorities after a [bloody coup last February](https://www.economist.com/briefing/2021/02/06/myanmars-coup-turns-the-clock-back-a-decade). “The whole country became like the Rohingya.”
-
-## Black rhinos may be better off hornless
-
-It is a sorry state of affairs when protecting a species from annihilation requires hacking off its most prominent feature. Nevertheless, that is what many African rhinoceros reserves have resorted to, to protect their charges from poachers. Dehorning rhinos is seen as the ultimate poacher-deterrent—it is the value of the horn that they are willing to kill for. And although dehorning is painless, its critics have suggested it may harm rhinos’ well-being or reproduction.
-
-A study in the <em>European Journal of Wildlife Research</em> allays some of those fears. It looked at four subpopulations of black rhinos in Namibia, three of which had undergone dehorning. Reassuringly, in all markers of population growth (lifespan, birth rates and offspring survival) dehorned rhinos were doing just as well as horned ones. And while a hornless rhino may look somewhat diminished, it is certainly preferable to one slain by poachers.
 
 ## Weekend profile: Yevgeny Prigozhin, Putin’s private-army supremo
 
@@ -109,6 +85,30 @@ Our crossword is designed for experienced cruciverbalists and newcomers alike. B
 <em>3 across </em>What is more rotten than ever in Iran? (6)
 
 Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+
+## Leopoldstadt comes to New York
+
+Often hailed as Britain’s greatest living playwright, [Tom Stoppard](https://www.economist.com/1843/2015/01/15/tom-stoppard) has long used his erudite, linguistically dazzling plays to probe philosophical ideas. But his latest work, “[Leopoldstadt](https://www.economist.com/books-and-arts/2020/02/13/tom-stoppards-haunting-new-play-about-the-holocaust)”, gets more personal. Set in Vienna between 1899 and 1955, it traces the fate of a large and very well-off Jewish family that had assumed that success and assimilation made them more Viennese than Jewish. As the decades pass, they learn that their finery and oil portraits won’t keep them out of Auschwitz. 
+
+At 85, Sir Tom seems to be finally reckoning with his own inheritance, having lost his four Jewish grandparents and much of his Czech family to the horrors of the Holocaust. With this play, he elegantly conveys the guilt that comes with survival, and the duty to remember what was lost. The show, now at the Longacre Theatre on Broadway after an acclaimed run in London, also reminds the audience that this all happened not so long ago.
+
+## One nation, one fertiliser in India
+
+No government in India wishes to upset [farmers](https://www.economist.com/the-economist-explains/2021/11/19/why-has-narendra-modi-abandoned-cherished-plans-to-overhaul-indian-farming), a votebank of more than 100m. So when the war in Ukraine sent fertiliser prices soaring, the ruling Bharatiya Janata Party was quick to act. Within two months it announced new subsidies worth $8bn, on top of bulky existing ones. As a result, the expected cost of subsidising fertilisers this fiscal year will reach 2.5trn rupees ($31bn), around 1% of the country’s GDP.
+
+Naturally, the government also wants to get credit for this largesse. From Sunday all bags of fertiliser sold in the country must be emblazoned with government insignia. Private fertiliser firms complain this will hurt their brands, but the government insists that uniformity will streamline distribution. The opposition has called the move a [marketing](https://www.economist.com/asia/2022/05/19/indias-politicians-have-figured-out-how-to-turn-welfare-into-votes) gimmick by Narendra Modi, the prime minister, and the BJP. There is a clue in the project’s official name: <em>Pradhan Mantri Bhartiya Jan Urvarak Pariyojna</em>, meaning Prime Minister’s all-India fertiliser scheme, which shortens handily to “PMBJP”.
+
+## Will Brazil get rid of Bolsonaro?
+
+Brazilians cast their ballots on Sunday in the first round of a [presidential election](https://www.economist.com/briefing/2022/09/08/jair-bolsonaro-is-poised-to-lose-the-brazilian-election) that pits the right-wing populist president, Jair Bolsonaro, against leftist former president Luiz Inácio Lula da Silva. The campaign has been marked by polarisation and violence. [Polls](https://www.economist.com/the-americas/2022/09/29/are-brazils-pollsters-right-about-the-presidential-election) suggest that Lula will beat Mr Bolsonaro by anywhere from six to 17 percentage points.
+
+But can Lula win the election outright? If no candidate gets more than 50% of votes in the first round, a run-off will be held on October 30th. Some polls suggest that Lula could pull it off. A “switch the vote” campaign seeks to convince backers of Ciro Gomes and Simone Tebet, candidates with around 5% apiece, to vote instead for Lula. Many fear that Mr Bolsonaro will [reject the result if he loses](https://www.economist.com/leaders/2022/09/08/win-or-lose-jair-bolsonaro-poses-a-threat-to-brazilian-democracy). Should Lula manage a first-round win, Mr Bolsonaro will have a tough time upholding his bogus claims of fraud. But like his hero, Donald Trump, that won’t stop him from trying.
+
+## The hidden meaning of horror
+
+Blumhouse Productions, a film and television company, is responsible for some of the most popular horror movies of the past couple of decades. “Paranormal Activity”, a film presented as if it was made up of found video recordings, was released in 2007 and earned almost $200m from a paltry production budget of $15,000. “The Purge” franchise has made more than $450m at the box office. 
+
+The company has now lent its name to “Blumhouse’s Compendium of Horror”, a documentary series which airs on Sunday in America. The show makes a simple—and somewhat repetitive—argument: that the horror genre, far from purveying cheap, gory thrills, has always [held a mirror up to society](https://www.economist.com/culture/2022/01/04/film-makers-are-finding-horror-not-comfort-in-the-natural-world). “Dracula”, the talking heads say, encapsulated feelings about the wealthy during the Great Depression. “Godzilla” drew on Japanese viewers’ grim memories of atomic bombs. Blumhouse, it seems, considers itself part of a venerable tradition of collective catharsis. 
 
 ----------
 
