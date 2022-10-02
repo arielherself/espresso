@@ -22,11 +22,11 @@ The death toll from <strong>Hurricane Ian</strong> continued to rise as it moved
 
 Listen to an abridged version of the subscriber-only briefing.
 
+A [landmark ](https://te.arielherself.xyz/china/2020/12/16/though-muffled-chinas-metoo-movement-still-has-support)<strong>Chinese #MeToo </strong>case was settled on the eve of a highly anticipated court hearing in the American state of Minnesota. A Chinese student, Liu Jingyao, had accused Liu Qiangdong (no relation), the billionaire founder of JD.com, China’s biggest online retailer, of sexually assaulting her in 2018 when she was a student at the University of Minnesota. The two parties’ lawyers said that the incident that took place had “resulted in a misunderstanding”. 
+
 <strong>America</strong> and <strong>Venezuela</strong> conducted a prisoner swap, with seven Americans exchanged for two relatives of [Nicolás Maduro](https://te.arielherself.xyz/the-americas/2022/08/18/venezuelas-dictator-is-less-isolated-than-he-once-was), Venezuela’s president. The freed Americans included five executives from Citgo, an oil company. The transfer, a result of months of secretive talks between both governments, does not change [America’s policy](https://te.arielherself.xyz/the-americas/2019/08/08/america-heaps-more-sanctions-on-venezuela) towards Venezuela, according to an American offical.
 
 Exit polls from <strong>Latvia </strong>showed that New Unity, a party led by Prime Minister Krisjanis Karins, a staunch critic of Vladimir Putin, was set to win the general election by a sizeable margin. Its political rival, the Harmony party, which draws most of its support from [Latvia&#x27;s ethnic Russian population](https://te.arielherself.xyz/europe/2018/10/11/why-russian-latvians-vote-for-their-own), is projected to have not won enough votes to enter parliament.
-
-<strong>Poland </strong>began to receive gas from Norway through a new pipeline running from the Baltic Sea to Poland via Denmark. The Baltic Pipe will help [diversify](https://te.arielherself.xyz/finance-and-economics/russia-cuts-off-gas-to-two-european-countries/21808988) Poland’s gas supplies away from Russia. Meanwhile, <strong>Bulgaria </strong>and <strong>Greece </strong>began operating their long-delayed gas pipeline. Ursula von der Leyen, president of the European Commission, called it a “game changer” and said it would deliver “freedom from dependency on Russian gas”.
 
 <strong>Word of the week: </strong><em>dedovshchina, </em>the name for the tradition of hazing conscripts in Russia. [Read the full story](https://te.arielherself.xyz/the-economist-explains/2022/09/24/how-russia-is-conscripting-men-to-fight-in-ukraine).
 
