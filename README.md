@@ -16,7 +16,7 @@
 
 The death toll from <strong>Hurricane Ian</strong> continued to rise as it moved into Virginia. At least 54 people have died so far—almost all of them in [Florida](https://te.arielherself.xyz/united-states/2022/09/29/hurricane-ian-pummels-florida). Hundreds of thousands of Americans are without power. President Joe Biden will visit Florida on Wednesday to survey the damage there. Ian is expected to dissipate by Sunday morning.
 
-At least 129 people were killed in a stampede after a football match in <strong>Indonesia</strong>. Supporters of Arema FC, a club from Malang, East Java, rushed onto the pitch after their team lost to regional rivals, Persebaya Surabaya. Local police retaliated with tear gas which triggered a stampede, according to the region’s police chief. Fixtures in the league have been suspended for a week.
+At least 174 people were killed in a stampede after a football match in <strong>Indonesia</strong>. Supporters of Arema FC, a club from Malang, East Java, rushed onto the pitch after their team lost to regional rivals, Persebaya Surabaya. Local police retaliated with tear gas which triggered a stampede, according to the region’s police chief. Fixtures in the league have been suspended for a week.
 
 Ibrahim Traoré, an army captain who [staged a coup](https://te.arielherself.xyz/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) in <strong>Burkina Faso</strong>, said that the ousted leader, Paul-Henri Damiba, is plotting a counter-attack. Gunfire echoed across the capital on Saturday and protesters started a fire outside the French embassy. Colonel Traoré has accused the French army of sheltering Colonel Damiba—France has denied the claims.
 
