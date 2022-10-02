@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-10-01</p>
+# <p align="center">The world in brief 2022-10-02</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -16,15 +16,15 @@
 
 <strong>President</strong> <strong>Joe</strong> <strong>Biden</strong> said the scale of the devastation from storm <strong>Ian</strong>, currently battering the Carolinas, will probably rank among the worst in America’s history. [Ian](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida) has left at least 30 people dead—almost all of them in Florida—and around 1.5m Americans are without power. More casualties are expected. Ian is forecast to move further through North Carolina before dissipating by Saturday evening near the border with Virginia. 
 
-Demonstrators clashed with <strong>Iraqi</strong> security forces near Baghdad’s Tahrir Square on Saturday, the anniversary of anti-government protests in 2019. <strong>Protesters</strong> chanted “we want to overthrow the regime” and threw stones; security forces fired tear gas and stun grenades. At least 86 people were wounded. [Iraq](https://www.economist.com/middle-east-and-africa/2022/08/31/iraqs-political-deadlock-turns-violent) is currently in political deadlock after Moqtada al-Sadr, a Shia cleric, won the most seats in elections last year, but not enough to form a government.
+At least 127 people were killed in a stampede after a football match in <strong>Indonesia</strong>. Arema FC, a club from Malang, East Java, had lost 3-2 against Persebaya Surabaya, their regional rivals. Local police said that supporters from the losing team rushed onto the pitch; police retaliated with tear gas. Remaining fixtures in the league have been suspended for a week.
 
-Ibrahim Traoré, an army captain who [staged a coup](https://www.economist.com/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) in <strong>Burkina Faso</strong>, said that the ousted leader, Paul-Henri Damiba, is plotting a counter-attack. Gunfire echoed across the capital on Saturday and protesters started a fire outside the French embassy. Colonel Traoré has accused the French army of sheltering Colonel Damiba—France has denied the claims.
+Demonstrators clashed with <strong>Iraqi</strong> security forces near Baghdad’s Tahrir Square on Saturday, the anniversary of anti-government protests in 2019. <strong>Protesters</strong> chanted “we want to overthrow the regime” and threw stones; security forces fired tear gas and stun grenades. At least 86 people were wounded. [Iraq](https://www.economist.com/middle-east-and-africa/2022/08/31/iraqs-political-deadlock-turns-violent) is currently in political deadlock after Moqtada al-Sadr, a Shia cleric, won the most seats in elections last year, but not enough to form a government.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Poland </strong>began to receive gas from Baltic Pipe, a new pipeline from Norway via Denmark and the Baltic Sea. The pipeline will help diversify Poland’s gas supplies away from Russia. Meanwhile, <strong>Bulgaria </strong>and <strong>Greece </strong>began operating their long-delayed gas pipeline. Ursula von der Leyen, president of the European Commission, called it a “game changer” and “freedom from dependency on Russian gas”. 
+Ibrahim Traoré, an army captain who [staged a coup](https://www.economist.com/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) in <strong>Burkina Faso</strong>, said that the ousted leader, Paul-Henri Damiba, is plotting a counter-attack. Gunfire echoed across the capital on Saturday and protesters started a fire outside the French embassy. Colonel Traoré has accused the French army of sheltering Colonel Damiba—France has denied the claims.
 
-The director-general of the <strong>Zaporizhia</strong> nuclear power plant in Ukraine was detained by Russian troops, jeopardising “the safety of operation”, said the company running the plant. Russia has occupied Zaporizhia since early March and in recent weeks Ukraine and Russia have accused each other of [shelling](https://www.economist.com/by-invitation/2022/09/06/how-to-prevent-a-crisis-at-the-zaporizhia-nuclear-power-plant-according-to-a-fukushima-veteran) the site.
+<strong>Poland </strong>began to receive gas from Baltic Pipe, a new pipeline from Norway via Denmark and the Baltic Sea. The pipeline will help diversify Poland’s gas supplies away from Russia. Meanwhile, <strong>Bulgaria </strong>and <strong>Greece </strong>began operating their long-delayed gas pipeline. Ursula von der Leyen, president of the European Commission, called it a “game changer” and “freedom from dependency on Russian gas”. 
 
 Exit polls from <strong>Latvia’s </strong>general election showed that New Unity, a party led by Prime Minister Krisjanis Karins, a staunch critic of Vladimir Putin, was set to win by a sizeable margin. Meanwhile the Harmony party, which draws most of its support from Latvia&#x27;s Russians, is projected to have failed to win enough votes to enter parliament.
 
