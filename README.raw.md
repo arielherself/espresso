@@ -22,11 +22,11 @@
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Ayatollah Ali Khamenei</strong>, Iran’s supreme leader, expressed support for the country’s police, amid a harsh crackdown on [protests](https://www.economist.com/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) in which more than 130 people have been killed. While Mr Khamenei said that the plight of Mahsa Amini, a 22-year old woman whose death in custody sparked the [female-led rebellion](https://www.economist.com/middle-east-and-africa/2022/09/29/irans-ruling-ayatollahs-are-hanging-on), “deeply broke” his heart, he blamed the unrest on foreign enemies.
+
 The <strong>OPEC+</strong> cartel of oil-producing nations is planning to announce huge cuts in production in order to [push up oil prices](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets), according to several reports. The group will reportedly agree to pump 1m fewer barrels a day when it meets on Wednesday. The price of Brent crude, a benchmark, has fallen markedly in recent months, from over $120 per barrel in June to under $90 today. 
 
 The death toll from <strong>Hurricane Ian</strong> continues to rise. Nearly 80 people died in [Florida](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida), while four deaths have been reported in North Carolina. Thousands of Americans remain without power. Rescue operations in some coastal communities are ongoing. President Joe Biden will visit Puerto Rico and Florida this week to survey the damage there.
-
-<strong>Asia’s</strong> <strong>manufacturing activity</strong> waned as China’s [slowdown](https://www.economist.com/china/2022/08/18/chinas-economy-is-beset-by-problems) and soaring raw material costs put economies under pressure. Factory outputs declined in Taiwan and Malaysia last month, according to survey data, while other countries recorded slow growth. Japan’s purchasing managers’ index recorded its lowest growth rate since January 2021, falling to 50.8 in September, compared with 51.5 in August.
 
 <strong>Fact of the day:</strong> 100, the number of anti-mobilisation protests in Russia between September 21st and 26th. [Read the full story](https://www.economist.com/graphic-detail/2022/09/29/protests-erupt-across-russia).
 
@@ -64,7 +64,7 @@ To better understand this pathology, researchers have developed the “placenta-
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5b0a2e32211e282b293e2828341b3e383435343632282f75383436">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f8a98d9182bd8b888a9d8b8b97b89d9b97969795918b8cd69b9795">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which device for protecting buildings is generally held to have been invented by Benjamin Franklin?
 
