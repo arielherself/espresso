@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-10-02</p>
+# <p align="center">The world in brief 2022-10-03</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
