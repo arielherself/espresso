@@ -12,103 +12,61 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Brazil’s presidential election</strong> will go to a run-off after [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/09/29/are-brazils-pollsters-right-about-the-presidential-election), a leftist former president, won the first round on Sunday but failed to secure the majority he needed for an outright victory. [Jair Bolsonaro](https://www.economist.com/briefing/2022/09/08/jair-bolsonaro-is-poised-to-lose-the-brazilian-election), the populist right-wing incumbent, outperformed [pollsters’ expectations](https://www.economist.com/the-americas/2022/09/29/are-brazils-pollsters-right-about-the-presidential-election), taking 43% of the vote to Lula’s 48%. The next round will take place on October 30th.
+<strong>Brazil’s presidential election</strong> will go [to a run-off](https://www.economist.com/the-americas/2022/10/03/brazils-presidential-election-will-go-to-a-run-off) after [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/09/29/are-brazils-pollsters-right-about-the-presidential-election), a leftist former president, won the first round on Sunday but failed to secure the majority he needed for an outright victory. [Jair Bolsonaro](https://www.economist.com/briefing/2022/09/08/jair-bolsonaro-is-poised-to-lose-the-brazilian-election), the populist right-wing incumbent, outperformed [pollsters’ expectations](https://www.economist.com/the-americas/2022/09/29/are-brazils-pollsters-right-about-the-presidential-election), taking 43% of the vote to Lula’s 48%. The next round will take place on October 30th.
 
-The <strong>OPEC+</strong> cartel of oil-producing nations is planning to announce huge cuts in production in order to [push up oil prices](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets), according to several reports. The group will reportedly agree to pump 1m fewer barrels a day when it meets on Wednesday. The price of Brent crude, a benchmark, has fallen markedly in recent months, from over $120 per barrel in June to under $90 today.
+<strong>Kwasi Kwarteng</strong>, Britain’s chancellor, dropped his government’s [plan](https://www.economist.com/leaders/2022/09/28/how-not-to-run-a-country) to abolish the 45% bracket for highest-earning taxpayers. Both he and the new prime minister, Liz Truss, had spent the weekend insisting they would not buckle under the fierce protestations of senior Conservatives and the markets—and would ride out gory opinion polls. The <strong>pound </strong>bounced a bit, to around $1.13.
 
-Volodymyr Zelensky, <strong>Ukraine’s</strong> president, confirmed that his country’s troops had taken full control of <strong>Lyman</strong>, a key logistics hub in Donetsk. Ukrainian officials say its recapture will allow the army to advance further into the Luhansk region. Meanwhile, in an address in St Peter’s square, Pope Francis called on [Vladimir Putin](https://www.economist.com/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) to end the “spiral of violence and death” that might ultimately lead to nuclear escalation. 
+The <strong>OPEC+</strong> cartel of oil-producing nations is planning to announce huge cuts in production in order to [push up oil prices](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets), according to several reports. The group will reportedly agree to pump 1m fewer barrels a day when it meets on Wednesday. The price of Brent crude, a benchmark, has fallen markedly in recent months, from over $120 per barrel in June to under $90 today. 
 
-The death toll from <strong>Hurricane Ian</strong> continues to rise. Nearly 80 people have died in [Florida](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida), while four deaths have been reported in North Carolina. Thousands of Americans remain without power. Rescue operations in some coastal communities are ongoing. President Joe Biden will visit Puerto Rico and Florida this week to survey the damage there.
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, confirmed that his country’s troops had retaken two small settlements in the southern region of Kherson as well as full control of <strong>Lyman</strong>, a key logistics hub in Donetsk. Ukrainian officials say its recapture will allow the army to advance further into the Luhansk region. Meanwhile Pope Francis called on [Vladimir Putin](https://www.economist.com/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) to end the “spiral of violence and death” that might ultimately lead to nuclear escalation.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Protests in <strong>Iran</strong> continued across the country on Sunday. Security forces clashed with students at a university in Tehran, the capital. The demonstrations were prompted a fortnight ago by the [murder of a young woman](https://www.economist.com/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) arrested for not covering all her hair. They have since spiralled into the biggest threat to the ayatollahs’ dictatorial rule for many years.
+<strong>Svante Paabo</strong>, a Swedish geneticist, won the <strong>Nobel prize in physiology or medicine</strong>, the Royal Swedish Academy of Sciences announced. The Nobel committee said that Mr Paabo won the prize, worth 10m Swedish kroner ($895,000), “for his discoveries concerning the [genomes](https://www.economist.com/science-and-technology/2021/02/24/dna-from-neanderthals-affects-vulnerability-to-covid-19) of extinct hominins and human evolution”.
 
-There was mounting criticism of <strong>Indonesia’s</strong> police, as authorities said that at least 125 people were killed and 320 injured in a stampede after a football match. Supporters of Arema FC, a club from Malang, East Java, rushed onto the pitch after their team lost to regional rivals Persebaya Surabaya. Local police retaliated with tear gas which triggered mass panic.
+The death toll from <strong>Hurricane Ian</strong> continues to rise. Nearly 80 people died in [Florida](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida), while four deaths have been reported in North Carolina. Thousands of Americans remain without power. Rescue operations in some coastal communities are ongoing. President Joe Biden will visit Puerto Rico and Florida this week to survey the damage there.
 
-<strong>Tesla</strong> delivered almost 344,000 vehicles globally in the third quarter, a record for the American electric-car maker. The total came in under the 358,000 deliveries that analysts had expected, according to Bloomberg. Tesla said in a statement that [logistical challenges](https://www.economist.com/business/2022/06/12/how-supply-chain-turmoil-is-remaking-the-car-industry) were to blame. 
+<strong>Asia’s</strong> <strong>manufacturing activity</strong> waned as China’s [slowdown](https://www.economist.com/china/2022/08/18/chinas-economy-is-beset-by-problems) and soaring raw material costs put economies under pressure. Factory outputs declined in Taiwan and Malaysia last month, according to survey data, while other countries recorded slow growth. Japan’s purchasing managers’ index recorded its lowest growth rate since January 2021, falling to 50.8 in September, compared with 51.5 in August.
 
-<strong>Word of the week: </strong><em>dedovshchina, </em>the name for the tradition of hazing conscripts in Russia. [Read the full story](https://www.economist.com/the-economist-explains/2022/09/24/how-russia-is-conscripting-men-to-fight-in-ukraine).
+<strong>Fact of the day:</strong> 100, the number of anti-mobilisation protests in Russia between September 21st and 26th. [Read the full story](https://www.economist.com/graphic-detail/2022/09/29/protests-erupt-across-russia).
 
 ----------
 
-## Will Brazil get rid of Bolsonaro?
+## The Ukrainian answer to annexation
 
-Reports of Jair Bolsonaro’s downfall were, it seems, exaggerated. In the run-up to the first round of Brazil’s contentious [presidential election](https://www.economist.com/briefing/2022/09/08/jair-bolsonaro-is-poised-to-lose-the-brazilian-election), polls suggested that Luiz Inácio Lula da Silva, a leftist former president, could beat the right-wing populist incumbent by anywhere from six to 17 percentage points. But a few hours after voting closed on Sunday, and with almost all the ballots counted, it emerged that—while Lula had beaten Mr Bolsonaro with 48% of the vote to 43%—he had not secured enough of a majority to win outright.
+“The people of Donetsk…are becoming our citizens forever”, boasted Vladimir Putin, Russia’s president, as he [annexed](https://www.economist.com/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) large chunks of Ukraine on Friday. A day later Ukraine’s army exposed the hollowness of that claim by recapturing a key city in the province. Lyman was “fully cleared” of Russian troops shortly after midday on Sunday, said Volodymyr Zelensky, Ukraine’s president, in a video message. 
 
-The election will now go to a second round on October 30th. The result is far from certain. [Pollsters](https://www.economist.com/the-americas/2022/09/29/are-brazils-pollsters-right-about-the-presidential-election) appear to have quite dramatically underestimated the amount of support for Mr Bolsonaro, possibly because polls tend to overrepresent poorer Brazillians, who favour Lula. Plus, many fear that Mr Bolsonaro will [reject the result](https://www.economist.com/leaders/2022/09/08/win-or-lose-jair-bolsonaro-poses-a-threat-to-brazilian-democracy) if he loses anyway. Like his hero Donald Trump, he has already whipped up concern that voting machines (which Brazil has used nationwide for two decades) lead to fraud. 
+Russia, naturally, refused to acknowledge the retreat, describing it euphemistically as a move to “more advantageous positions”. Its troops are thought to be establishing a new defensive line in the east, running from Troitske in the north to Svatove in the south. Despite Mr Putin’s threats to use nuclear weapons to protect Russian territory—including the newly annexed provinces—Ukraine’s army shows no sign of stopping its advance. Its next target may be Kreminna, a town which lies 30km east of Lyman. “There were more Ukrainian flags in the Donbas this week,” noted Mr Zelensky. “There will be even more next week.”
 
-## One nation, one fertiliser in India
+## Liz Truss’s party conference from hell
 
-No government in India wishes to upset [farmers](https://www.economist.com/the-economist-explains/2021/11/19/why-has-narendra-modi-abandoned-cherished-plans-to-overhaul-indian-farming), a votebank of more than 100m. So when the war in Ukraine sent fertiliser prices soaring, the ruling Bharatiya Janata Party was quick to act. Within two months it announced new subsidies worth $8bn, on top of bulky existing ones. As a result, the expected cost of subsidising fertilisers this fiscal year will reach 2.5trn rupees ($31bn), around 1% of the country’s GDP.
+The Conservative Party’s annual conference ought to have been a victory lap for Liz Truss, who was elected the [new leader](https://www.economist.com/leaders/2022/09/28/how-not-to-run-a-country) barely a month ago. Instead, Britain’s prime minister is engulfed in recriminations after a bungled mini-budget [spooked investors](https://www.economist.com/britain/2022/09/26/the-pound-is-plumbing-near-historical-depths-why). Dismay over Ms Truss’s mini-budget surfaced again on Sunday, as the conference took off. Michael Gove, a veteran former minister, declared her [tax cuts for high-earners](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically) risky and “a display of the wrong values”; on Monday morning the government reversed the proposed cut to the top rate of income tax. [Kwasi Kwarteng](https://www.economist.com/britain/2022/09/07/kwasi-kwarteng-is-bold-brainy-and-weird), the chancellor, will have to account for the hobbling U-turn in his speech in the afternoon.
 
-Naturally, the government also wants to get credit for this largesse. From Sunday all bags of fertiliser sold in the country must be emblazoned with government insignia. Private fertiliser firms complain this will hurt their brands, but the government insists that uniformity will streamline distribution. The opposition has called the move a [marketing](https://www.economist.com/asia/2022/05/19/indias-politicians-have-figured-out-how-to-turn-welfare-into-votes) gimmick by Narendra Modi, the prime minister, and the BJP. There is a clue in the project’s official name: <em>Pradhan Mantri Bhartiya Jan Urvarak Pariyojna</em>, meaning Prime Minister’s all-India fertiliser scheme, which shortens handily to “PMBJP”.
+The party’s popularity has consequently imploded: a succession of polls show that the opposition Labour Party has opened leads in excess of 20 points over the Tories. Ms Truss’s disapproval rating is already worse even than her predecessor Boris Johnson at his lowest, according to Opinium, a pollster. Far from a dynamic fresh start, Ms Truss’s premiership looks like a continuation of the gridlock and infighting that has characterised all Tory governments in Britain since the Brexit vote of 2016. 
 
-## The hidden meaning of horror
+## The Supreme Court back in action
 
-Blumhouse Productions, a film and television company, is responsible for some of the most popular horror movies of the past couple of decades. “Paranormal Activity”, a film presented as if it was made up of found video recordings, was released in 2007 and earned almost $200m from a paltry production budget of $15,000. “The Purge” franchise has made more than $450m at the box office. 
+On Monday America’s justices—including a new jurist, Ketanji Brown Jackson—return to the bench. The term ahead could be as seismic as the last, when the Supreme Court revolutionised the law on guns, religion, environmental regulation and, most notoriously, [abortion](https://www.economist.com/leaders/2022/06/24/the-supreme-courts-rejection-of-roe-will-hurt-the-poorest-most). 
 
-The company has now lent its name to “Blumhouse’s Compendium of Horror”, a documentary series which airs on Sunday in America. The show makes a simple—and somewhat repetitive—argument: that the horror genre, far from purveying cheap, gory thrills, has always [held a mirror up to society](https://www.economist.com/culture/2022/01/04/film-makers-are-finding-horror-not-comfort-in-the-natural-world). “Dracula”, the talking heads say, encapsulated feelings about the wealthy during the Great Depression. “Godzilla” drew on Japanese viewers’ grim memories of atomic bombs. Blumhouse, it seems, considers itself part of a venerable tradition of collective catharsis. 
+The first oral argument, a dispute over the reach of the Clean Water Act, pits a couple wanting to build a home near a lake in Idaho against the Environmental Protection Agency. Other cases will touch on flashpoints in American politics. On Tuesday, the court asks whether Alabama’s congressional map, which two lower courts found to be racially discriminatory, violates section two of the Voting Rights Act. On October 31st the court reconsiders its 44-year-old precedent permitting the consideration of race in university admissions. And later in the autumn state constitutional limits on partisan gerrymandering will be on the chopping block, and a website designer will argue she has a free-speech right (Colorado’s anti-discrimination law notwithstanding) to make websites for straight, but not gay, weddings. Nothing too controversial, then.
 
-## Leopoldstadt comes to New York
+## Japanese politics and the ghost of Abe Shinzo
 
-Often hailed as Britain’s greatest living playwright, [Tom Stoppard](https://www.economist.com/1843/2015/01/15/tom-stoppard) has long used his erudite, linguistically dazzling plays to probe philosophical ideas. But his latest work, “[Leopoldstadt](https://www.economist.com/books-and-arts/2020/02/13/tom-stoppards-haunting-new-play-about-the-holocaust)”, gets more personal. Set in Vienna between 1899 and 1955, it traces the fate of a large and very well-off Jewish family that had assumed that success and assimilation made them more Viennese than Jewish. As the decades pass, they learn that their finery and oil portraits won’t keep them out of Auschwitz. 
+The ghost of Abe Shinzo continues to haunt his successor’s government. Last week’s state funeral for the slain former prime minister was [unpopular](https://www.economist.com/asia/2022/09/26/the-fallout-from-abe-shinzos-murder-could-unseat-his-successor) owing to Abe’s controversial legacy, including his attempts to revise the pacifist constitution. Kishida Fumio’s approval ratings sagged the longer he defended it. On Monday Mr Kishida faced another ruckus; the opening of an extraordinary parliamentary session during which the opposition will probe the ruling Liberal Democratic Party’s links with the Unification Church, a cult-like religious group. 
 
-At 85, Sir Tom seems to be finally reckoning with his own inheritance, having lost his four Jewish grandparents and much of his Czech family to the horrors of the Holocaust. With this play, he elegantly conveys the guilt that comes with survival, and the duty to remember what was lost. The show, now at the Longacre Theatre on Broadway after an acclaimed run in London, also reminds the audience that this all happened not so long ago.
+Abe’s assassination uncovered links between the LDP and the church, to which Abe himself was connected. The killer’s mother had joined the church, donating large sums of money until his family went bankrupt. An internal survey conducted by the LDP in late August revealed that nearly half of its 379 lawmakers had links to the church, from receiving campaign support to attending its events. For Mr Kishida’s part, he will try to use the session to refocus attention on his signature “New Capitalism” [agenda](https://www.economist.com/asia/2022/02/12/kishida-fumios-new-capitalism-is-many-things-but-it-is-not-new).
 
-## Weekend profile: Yevgeny Prigozhin, Putin’s private-army supremo
+## Building the human placenta on a microchip
 
-This week [Yevgeny Prigozhin](https://www.economist.com/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group) stepped out of the shadows. The close ally of Russia’s president, Vladimir Putin, admitted for the first time that he founded the [Wagner Group](https://www.economist.com/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a network of guns-for-hire that does much of Russia’s dirty work. “I cleaned the old weapons myself, sorted out the bulletproof vests myself,” said Mr Prigozhin of Wagner’s early days.
+The placenta bonds mother and baby, and exists only in gestation. The temporary organ gives the fetus nutrition and oxygen, while shielding it from infection. But it can also play a role in infants’ deaths. Placental malaria, for instance, kills 200,000 newborns and 10,000 mothers annually by clogging up placental blood vessels.
 
-The mercenaries emerged in Ukraine in 2014 to aid Russia’s annexation of Crimea and back up pro-Russian separatists in the eastern Donbas region. The group then expanded wherever Russia had an interest, including [Syria](https://www.economist.com/europe/2017/11/02/how-wagner-came-to-syria), [Libya](https://www.economist.com/middle-east-and-africa/2019/12/12/foreign-powers-are-piling-into-libya), the Central African Republic and Mali.
+To better understand this pathology, researchers have developed the “placenta-on-a-chip”, described in the mid-September issue of the journal <em>Scientific Reports</em>. They cultured placental cells and umbilical cord cells on opposite ends of a microchip, to resemble the placental interface. They then incubated the chip, rocking it gently to push malaria-infected blood through it in both directions. Tests revealed that the flow of glucose was inhibited in the same way that would be expected in a real placenta. While not a perfect substitute, chips like this one could finally reveal the mysteries of the placenta and protect it from diseases and harmful drugs, just as it protected each of us.
 
-As for Mr Prigozhin, little is known about his childhood. He spent most of his 20s in prison, serving nine years for robbery and fraud. After his release, he set up a hot-dog stand in St Petersburg in the 1990s. He soon opened chic eateries: his New Island floating restaurant was a favourite of Mr Putin, at the time deputy mayor of St Petersburg. His associations with Russia’s elite brought lucrative catering gigs for schools, hospitals and the army—and earned him the nickname “Putin’s Chef”. But it was his work outside the kitchen that earned him a reputation in the West. In 2018 American prosecutors indicted Mr Prigozhin, alleging that he financed a Russian “troll farm” to [spread online misinformation](https://www.economist.com/europe/2018/02/17/putins-chef-cooks-up-a-storm) during the presidential election in 2016.
+## Daily quiz
 
-Mr Prigozhin long denied involvement in Wagner’s bloody operation, and sued journalists who suggested as much. Since the outbreak of war in Ukraine the group may have helped capture several eastern cities. Mr Prigozhin is putting his name to that. He may think that Russia’s tattered relationship with the West means there is no more point in maintaining the open secret. He may also be reminding Mr Putin, amid [battlefield losses](https://www.economist.com/europe/2022/09/15/a-stunning-counter-offensive-by-ukraines-armed-forces) and a backlash against mobilisation at home, of his loyalty and value.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f4a5819d8eb18784869187879bb491979b9a9b999d8780da979b99">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-<strong>Cryptic clues</strong>
-
-<em>1 down</em> Lively market-riser? The opposite of Liz Truss! (4,7)
-
-<em>1 across </em>Asian riddle about religious education (6)
-
-<em>2 across </em>Retreating behind, burdened by unknown duties (5)
-
-<em>3 across </em>Government rules, at first, like leaders of imaginary magical establishment (6)  
-  
-<strong>Factual clues</strong>
-
-<em>1 down</em> Default man (4,7) 
-
-<em>1 across </em>One group not best pleased with Biden’s Inflation Reduction Act (6)
-
-<em>2 across </em>Recently cut in Britain, to disastrous effect (5)
-
-<em>3 across </em>What is more rotten than ever in Iran? (6)
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Arun Gurjale</strong>, Hosur, India 
-
-North America: <strong>Patti Drago</strong>, Lewes, United States
-
-Central and South America: <strong>Peter Noack</strong>, Lima, Peru
-
-Europe: <strong>Henry Haley</strong>, Lille, France
-
-Africa: <strong>Rob Blair</strong>, Harare, Zimbabwe
-
-Oceania: <strong>Paula Johnson</strong>, Perth, Australia
-
-They all gave the correct answers of Warren Beatty, Marshall plan, Jay Leno, Chevy Chase and Roberts. The theme is US Supreme Court chief justices: Earl Warren, John Marshall, John Jay, Salmon Chase and John Roberts
+<strong>Monday:</strong> Which device for protecting buildings is generally held to have been invented by Benjamin Franklin?
 
 ----------
 
