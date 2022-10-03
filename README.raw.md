@@ -18,7 +18,7 @@ Addressing the Conservative Party conference, Britain’s chancellor, <strong>Kw
 
 [Svante Paabo](https://www.economist.com/science-and-technology/2022/10/03/this-years-first-nobel-laureate-sequenced-the-dna-of-neanderthals), a Swedish geneticist, won the <strong>Nobel prize in physiology or medicine</strong>, the Royal Swedish Academy of Sciences announced. The Nobel committee said that Mr Paabo won the prize, worth 10m Swedish kroner ($895,000), “for his discoveries concerning the genomes of extinct hominins and human evolution”.
 
-The cost of credit default swaps in <strong>Credit Suisse</strong> soared as the Swiss bank failed to restore [market confidence](https://www.economist.com/finance-and-economics/2022/09/28/investment-banks-are-sharpening-the-axe) in its liquidity. Reports that the bank was trying to raise capital had led to concerns about its financial strength. Investors sold shares and bonds with the bank, while seeking out CDS, which act as insurance against a company defaulting on debt.
+The cost of credit default swaps in <strong>Credit Suisse</strong> soared as the Swiss bank failed to restore [market confidence](https://www.economist.com/finance-and-economics/2022/10/03/the-hunt-for-the-weakest-link-in-global-finance) in its liquidity. Reports that the bank was trying to raise capital had led to concerns about its financial strength. Investors sold shares and bonds with the bank, while seeking out CDS, which act as insurance against a company defaulting on debt.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ To better understand this pathology, researchers have developed the “placenta-
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5c0d293526192f2c2e392f2f331c393f33323331352f28723f3331">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which device for protecting buildings is generally held to have been invented by Benjamin Franklin?
 
