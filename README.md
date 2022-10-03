@@ -34,9 +34,9 @@ The death toll from <strong>Hurricane Ian</strong> continues to rise. Nearly 80 
 
 ## The Ukrainian answer to annexation
 
-“The people of Donetsk…are becoming our citizens forever”, boasted Vladimir Putin, Russia’s president, as he [annexed](https://te.arielherself.xyz/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) large chunks of Ukraine on Friday. A day later Ukraine’s army exposed the hollowness of that claim by recapturing a key city in the province. Lyman was “fully cleared” of Russian troops shortly after midday on Sunday, said Volodymyr Zelensky, Ukraine’s president, in a video message. 
+“The people of Donetsk…are becoming our citizens forever”, boasted Vladimir Putin, Russia’s president, as he [annexed](https://te.arielherself.xyz/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) large chunks of Ukraine on Friday. A day later Ukraine’s army exposed the hollowness of that claim by recapturing a key city in the province. Ukrainian troops have also made significant progress in the southern province of Kherson, moving as much as 15-20km in 24 hours.
 
-Russia, naturally, refused to acknowledge the retreat, describing it euphemistically as a move to “more advantageous positions”. Its troops are thought to be establishing a new defensive line in the east, running from Troitske in the north to Svatove in the south. Despite Mr Putin’s threats to use nuclear weapons to protect Russian territory—including the newly annexed provinces—Ukraine’s army shows no sign of stopping its advance. Its next target may be Kreminna, a town which lies 30km east of Lyman. “There were more Ukrainian flags in the Donbas this week,” noted Mr Zelensky. “There will be even more next week.”
+Russia, naturally, refuses to acknowledge either retreat, describing them euphemistically as moves to more advantageous positions. Its troops are thought to be establishing a new defensive line in the east, running from Troitske in the north to Svatove in the south. Despite Mr Putin’s threats to use nuclear weapons to protect Russian territory—including the newly annexed provinces—Ukraine’s army shows no sign of stopping its advance. Its next target appears to be Kreminna, a town which lies 30km east of Lyman. “There were more Ukrainian flags in the Donbas this week,” noted Mr Zelensky. “There will be even more next week.”
 
 ## Liz Truss’s party conference from hell
 
@@ -64,7 +64,7 @@ To better understand this pathology, researchers have developed the “placenta-
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="18496d71625d6b686a7d6b6b77587d7b77767775716b6c367b7775">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which device for protecting buildings is generally held to have been invented by Benjamin Franklin?
 
