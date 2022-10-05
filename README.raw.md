@@ -34,11 +34,11 @@ Chess.com, the world’s foremost <strong>chess</strong> platform, said Hans Nie
 
 ## Tightening the world’s oil spigots
 
-OPEC, which controls almost a third of [world oil output](https://www.economist.com/business/2022/08/25/could-the-demonised-oil-industry-become-a-force-for-decarbonisation), is shaping up for its biggest monthly cut to production targets since the start of the pandemic in 2020. On Wednesday the cartel’s members and allies, including Russia, will meet in Vienna. Traders expect the group to slash daily production by 1-2m barrels, or roughly 2% of global supplies.
+OPEC, which controls almost a third of [world oil output](https://www.economist.com/business/2022/08/25/could-the-demonised-oil-industry-become-a-force-for-decarbonisation), has agreed to the biggest monthly cut to production targets since the start of the pandemic in 2020. The cartel’s members and allies, including Russia, decided to slash the target by 2m barrels, or roughly 2% of global supplies, at a summit in Vienna on Wednesday.
 
 The group is worried about falling demand. Expensive energy has led to [cuts in consumption](https://www.economist.com/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices). China’s covid and property woes, and rising interest rates around the world, augur global recession. And the [strong dollar](https://www.economist.com/finance-and-economics/2022/09/08/why-the-dollar-is-strong-and-why-that-is-a-problem), in which oil prices are denominated, makes the black stuff harder to afford outside of America.
 
-Whether the actual [supply of oil](https://www.economist.com/finance-and-economics/three-big-uncertainties-cloud-the-oil-market/21808307) declines will depend on who is supposed to reduce their output. Already most OPEC oil producers pump less oil than their targets suggest they should. But markets are betting on OPEC’s resolve: since late September, when rumours of cuts began swirling, the price of oil has jumped by 10%.
+The actual [supply of oil](https://www.economist.com/finance-and-economics/three-big-uncertainties-cloud-the-oil-market/21808307) is likely to decline by much less than the target reduction suggests. This is because most OPEC oil producers already pump less oil than their quotas allow them to. But markets still reckon it will make a difference: since late September, when rumours of cuts began swirling, the price of oil has jumped by 11%.
 
 ## Picking up the bill for Ian
 
@@ -68,7 +68,7 @@ Amazon won the rights to Bond in March with its $8.5bn acquisition of Metro-Gold
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8ddcf8e4f7c8fefdffe8fefee2cde8eee2e3e2e0e4fef9a3eee2e0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="99c8ecf0e3dceae9ebfceaeaf6d9fcfaf6f7f6f4f0eaedb7faf6f4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which hit musical is based on the songs of Abba?
 
