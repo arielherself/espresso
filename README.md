@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Vladimir Putin, <strong>Russia’s</strong> president, ratified the annexation of four Ukrainian regions under Russian law, even as Ukrainian forces continue to retake territory. Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said on Tuesday that dozens of towns have been liberated in both the east and south, where the [Ukrainian army is now advancing](https://te.arielherself.xyz/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame) in a “rapid and powerful manner”. Meanwhile American officials warned that Ukraine must capitalise on its advances before wintery conditions imperil progress.
-
 The <strong>OPEC+</strong>, a group of petroleum-exporting countries and their allies, including Russia, agreed to slash their output quota for oil by 2m barrels per day, equivalent to 2% global supply. It is the biggest cut since 2020. Meanwhile, EU ambassadors agreed to a price cap on <strong>Russian oil</strong> to punish Mr Putin for his [nuclear threats](https://te.arielherself.xyz/international/2022/09/29/could-the-war-in-ukraine-go-nuclear) and the war in Ukraine. The bloc has been trying to reduce its reliance on Russian energy.
+
+Vladimir Putin, <strong>Russia’s</strong> president, ratified the annexation of four Ukrainian regions under Russian law, even as Ukrainian forces continue to retake territory. Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said on Tuesday that dozens of towns have been liberated in both the east and south, where the [Ukrainian army is now advancing](https://te.arielherself.xyz/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame) in a “rapid and powerful manner”. Meanwhile American officials warned that Ukraine must capitalise on its advances before wintery conditions imperil progress.
 
 Shares of <strong>Twitter </strong>surged by more than 20% on the news that <strong>Elon Musk </strong>will go ahead with his takeover of the social-media company. Mr Musk has offered to pay the price he initially agreed, of $54.20 a share. For months he had tried to renege on his purchase agreement, resulting in a [legal dispute](https://te.arielherself.xyz/business/2022/09/15/twitters-shareholders-approve-elon-musks-44bn-offer) with Twitter that was expected to go to trial later this month. 
 
@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Liz Truss</strong>, Britain’s prime minister, defended her tax-cutting [economic agenda](https://te.arielherself.xyz/leaders/2022/09/28/how-not-to-run-a-country) at the Conservative Party conference. While acknowledging her government’s U-turn on its plan to scrap the top rate of income tax, Ms Truss vowed to continue with other parts of the “mini-budget” that [unsettled markets](https://te.arielherself.xyz/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues) in September. The pound had fallen 1% against the dollar by Wednesday afternoon.
 
-Asian <strong>stockmarkets</strong> climbed significantly on Wednesday reflecting a <strong>global rally</strong> based on hopes that central banks might soon become less aggressive about [raising interest rates](https://te.arielherself.xyz/finance-and-economics/2022/09/29/global-rate-rises-are-happening-on-an-unprecedented-scale). Hong Kong’s Hang Seng Index rose by more than 5%, having been closed for a public holiday the day before. New Zealand’s central bank, however, bumped rates to a seven-year high. 
+<strong>Virgin Atlantic</strong> said it was pulling out of <strong>Hong Kong </strong>permanently, after almost 30 years of operating in the city. The British airline, which has not operated any passenger flights to the Asian business hub for nearly a year, cited the closure of Russian airspace, which [increases the journey time](https://te.arielherself.xyz/the-economist-explains/2022/04/02/why-russias-war-could-lead-to-the-worlds-longest-passenger-flight) to and from the city, as one of the reasons for the departure.
 
 Chess.com, the world’s foremost <strong>chess</strong> platform, said Hans Niemann, a 19-year-old American grandmaster, “likely” cheated in more than 100 games online. Mr Niemann has risen rapidly to the top of the game, but was accused last month of cheating by Magnus Carlsen, the world champion. Mr Niemann has previously denied the allegations. Chess.com said Mr Niemann has privately confessed and would be banned from the platform for some time.
 
@@ -38,7 +38,7 @@ OPEC, which controls almost a third of [world oil output](https://te.arielhersel
 
 The group is worried about falling demand. Expensive energy has led to [cuts in consumption](https://te.arielherself.xyz/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices). China’s covid and property woes, and rising interest rates around the world, augur global recession. And the [strong dollar](https://te.arielherself.xyz/finance-and-economics/2022/09/08/why-the-dollar-is-strong-and-why-that-is-a-problem), in which oil prices are denominated, makes the black stuff harder to afford outside of America.
 
-The actual [supply of oil](https://te.arielherself.xyz/finance-and-economics/three-big-uncertainties-cloud-the-oil-market/21808307) is likely to decline by much less than the target reduction suggests. This is because most OPEC oil producers already pump less oil than their quotas allow them to. But markets still reckon it will make a difference: since late September, when rumours of cuts began swirling, the price of oil has jumped by 11%.
+The actual [supply of oil](https://te.arielherself.xyz/finance-and-economics/three-big-uncertainties-cloud-the-oil-market/21808307) is likely to decline by much less than the target reduction suggests. This is because most OPEC oil producers already pump less oil than their quotas allow them to. But markets still reckon it will make a difference: since late September, when rumours of cuts began swirling, the price of oil jumped by about 10%.
 
 ## Picking up the bill for Ian
 
@@ -68,7 +68,7 @@ Amazon won the rights to Bond in March with its $8.5bn acquisition of Metro-Gold
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ebba9e8291ae989b998e989884ab8e888485848682989fc5888486">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="18496d71625d6b686a7d6b6b77587d7b77767775716b6c367b7775">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which hit musical is based on the songs of Abba?
 
