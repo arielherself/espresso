@@ -32,14 +32,6 @@ Chess.com, the world’s foremost <strong>chess</strong> platform, said Hans Nie
 
 ----------
 
-## Tightening the world’s oil spigots
-
-OPEC, which controls almost a third of [world oil output](https://www.economist.com/business/2022/08/25/could-the-demonised-oil-industry-become-a-force-for-decarbonisation), has agreed to the biggest monthly cut to production targets since the start of the pandemic in 2020. The cartel’s members and allies, including Russia, decided to slash the target by 2m barrels per day, or roughly 2% of global supplies, at a summit in Vienna on Wednesday.
-
-The group is worried about falling demand. Expensive energy has led to [cuts in consumption](https://www.economist.com/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices). China’s covid and property woes, and rising interest rates around the world, augur global recession. And the [strong dollar](https://www.economist.com/finance-and-economics/2022/09/08/why-the-dollar-is-strong-and-why-that-is-a-problem), in which oil prices are denominated, makes the black stuff harder to afford outside of America.
-
-The actual [supply of oil](https://www.economist.com/finance-and-economics/three-big-uncertainties-cloud-the-oil-market/21808307) is likely to decline by much less than the target reduction suggests. This is because most OPEC oil producers already pump less oil than their quotas allow them to. But markets still reckon it will make a difference: since late September, when rumours of cuts began swirling, the price of oil jumped by about 10%.
-
 ## Picking up the bill for Ian
 
 Natural disasters force politicians of all stripes to spend big. Cue the about-face of [Ron DeSantis](https://www.economist.com/united-states/2021/07/24/the-rise-of-ron-desantis), Florida’s Republican governor. In 2013 Mr DeSantis voted against a federal relief package after Hurricane Sandy walloped the Democratic-run states of New Jersey and New York. But now, amid the [wreckage of Hurricane Ian](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida), he needs all the federal aid he can get. Around 100 Floridians have died and insured losses could reach $57bn, making Ian the second-costliest hurricane in American history, after Hurricane Katrina in 2005. So Mr DeSantis will have to play nice with President Joe Biden when he visits Florida on Wednesday.
@@ -51,6 +43,14 @@ Hurricanes are getting more expensive, owing to population growth and [increased
 Ukraine’s army continues to make [stunning progress](https://www.economist.com/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame). In the eastern Donetsk region, last week it retook Lyman, a transport hub on strategic high ground; and in the neighbouring Luhansk region it is bearing down on weak Russian defensive lines near the towns of Kreminna and Svatove. So soon after Russia’s cynical attempt to formalise its [theft](https://www.economist.com/europe/2022/09/27/vladimir-putin-stages-four-fake-referendums-in-occupied-ukraine) of Donetsk and Luhansk and two other provinces, the losses are embarrassing for Vladimir Putin.
 
 Now, in the southern province of [Kherson](https://www.economist.com/the-economist-explains/2022/08/30/why-does-kherson-matter), Ukraine is mounting an offensive of greater significance. Russia’s occupation of the region in the early weeks of the war gave it a land bridge to Crimea, a peninsula it illegally annexed in 2014. Ukrainian forces are moving rapidly along the west bank of the Dnieper river. After Ukrainian troops made a 20km push towards the town of Dudchany, Russian troops, fearing encirclement, fell back to more defensible positions. With morale and supply lines under pressure, it may be only the start of a more general retreat.
+
+## Tightening the world’s oil spigots
+
+OPEC, which controls almost a third of [world oil output](https://www.economist.com/business/2022/08/25/could-the-demonised-oil-industry-become-a-force-for-decarbonisation), has agreed to the biggest monthly cut to production targets since the start of the pandemic in 2020. The cartel’s members and allies, including Russia, decided to slash the target by 2m barrels per day, or roughly 2% of global supplies, at a summit in Vienna on Wednesday.
+
+The group is worried about falling demand. Expensive energy has led to [cuts in consumption](https://www.economist.com/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices). China’s covid and property woes, and rising interest rates around the world, augur global recession. And the [strong dollar](https://www.economist.com/finance-and-economics/2022/09/08/why-the-dollar-is-strong-and-why-that-is-a-problem), in which oil prices are denominated, makes the black stuff harder to afford outside of America.
+
+The actual [supply of oil](https://www.economist.com/finance-and-economics/three-big-uncertainties-cloud-the-oil-market/21808307) is likely to decline by much less than the target reduction suggests. This is because most OPEC oil producers already pump less oil than their quotas allow them to. But markets still reckon it will make a difference: since late September, when rumours of cuts began swirling, the price of oil jumped by about 10%.
 
 ## Voting rights in America
 
@@ -68,7 +68,7 @@ Amazon won the rights to Bond in March with its $8.5bn acquisition of Metro-Gold
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="18496d71625d6b686a7d6b6b77587d7b77767775716b6c367b7775">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="efbe9a8695aa9c9f9d8a9c9c80af8a8c80818082869c9bc18c8082">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which hit musical is based on the songs of Abba?
 
