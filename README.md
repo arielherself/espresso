@@ -16,7 +16,7 @@ Vladimir Putin, <strong>Russia’s</strong> president, ratified the annexation o
 
 Shares of <strong>Twitter </strong>surged by more than 20% on the news that <strong>Elon Musk </strong>will go ahead with his takeover of the social-media company. Mr Musk has offered to pay the price he initially agreed, of $54.20 a share. For months he had tried to renege on his purchase agreement, resulting in a [legal dispute](https://te.arielherself.xyz/business/2022/09/15/twitters-shareholders-approve-elon-musks-44bn-offer) with Twitter that was expected to go to trial later this month. 
 
-The EU agreed to a price cap on <strong>Russian oil</strong> as part of a new sanctions package to punish Mr Putin for his [nuclear threats](https://te.arielherself.xyz/international/2022/09/29/could-the-war-in-ukraine-go-nuclear) and illegal land grab in Ukraine. The bloc has tried to reduce its reliance on Russian energy since the invasion began, but member states with large shipping industries had been anxious about the costs of an oil price cap to their economies.
+A panel of ministers for <strong>OPEC+</strong>, a group of petroleum-exporting countries and their allies, including Russia, reportedly recommended slashing their output quota for oil by 2m barrels per day. That would be the biggest cut since 2020. Meanwhile, EU ambassadors agreed to a price cap on <strong>Russian oil</strong> to punish Mr Putin for his [nuclear threats](https://te.arielherself.xyz/international/2022/09/29/could-the-war-in-ukraine-go-nuclear) and the war in Ukraine. The bloc has been trying to reduce its reliance on Russian energy.
 
 The <strong>Nobel prize for chemistry</strong> was awarded to Carolyn Bertozzi, Morten Meldal and Barry Sharpless for their work on the development of click chemistry, in which molecular building-blocks are snapped together quickly and efficiently. It is often used for pharmaceutical research and [DNA mapping](https://te.arielherself.xyz/science-and-technology/2022/10/03/this-years-first-nobel-laureate-sequenced-the-dna-of-neanderthals).
 
@@ -68,7 +68,7 @@ Amazon won the rights to Bond in March with its $8.5bn acquisition of Metro-Gold
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6332160a19261013110610100c2306000c0d0c0e0a10174d000c0e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which hit musical is based on the songs of Abba?
 
