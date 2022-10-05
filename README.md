@@ -22,7 +22,7 @@ The <strong>Nobel prize for chemistry</strong> was awarded to Carolyn Bertozzi, 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Donald Trump</strong> asked the Supreme Court to intervene in the Justice Department’s investigation into his possible mishandling of<strong> classified documents</strong>. America’s former president is seeking the reversal of a lower-court ruling that gave federal authorities immediate access to classified material seized from his Florida estate. He would like an independent arbiter to review them, since he claims they are covered by [executive privilege](https://te.arielherself.xyz/the-economist-explains/2022/08/31/what-is-executive-privilege).
+<strong>Liz Truss</strong>, Britain’s prime minister, defended her tax-cutting [economic agenda](https://te.arielherself.xyz/leaders/2022/09/28/how-not-to-run-a-country) at the Conservative Party conference. While acknowledging her government’s U-turn on its plan to scrap the top rate of income tax, Ms Truss vowed to continue with other parts of the “mini-budget” that [unsettled markets](https://te.arielherself.xyz/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues) in September. The pound had fallen 1% against the dollar by Wednesday afternoon.
 
 Asian <strong>stockmarkets</strong> climbed significantly on Wednesday reflecting a <strong>global rally</strong> based on hopes that central banks might soon become less aggressive about [raising interest rates](https://te.arielherself.xyz/finance-and-economics/2022/09/29/global-rate-rises-are-happening-on-an-unprecedented-scale). Hong Kong’s Hang Seng Index rose by more than 5%, having been closed for a public holiday the day before. New Zealand’s central bank, however, bumped rates to a seven-year high. 
 
@@ -68,7 +68,7 @@ Amazon won the rights to Bond in March with its $8.5bn acquisition of Metro-Gold
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="104165796a556360627563637f5075737f7e7f7d7963643e737f7d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which hit musical is based on the songs of Abba?
 
