@@ -16,17 +16,17 @@
 
 Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said more villages have been [liberated](https://te.arielherself.xyz/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame) in Kherson, the southern region partially occupied by <strong>Russian</strong> forces. On Wednesday Vladimir Putin, Russia’s president, ratified the annexation of four Ukrainian regions, including Kherson, and vowed to “stabilise” the situation. When asked about Russian forces retreating in these regions, a spokesman for the Kremlin insisted that Russia would recapture any territory it lost.
 
+<strong>Annie Ernaux</strong>, a French author known for her intensely [personal works](https://te.arielherself.xyz/books-and-arts/2021/09/13/a-poignant-abortion-drama-prevails-at-the-venice-film-festival), won the <strong>Nobel prize for literature</strong>. The Swedish Academy cited her “courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory”.
+
 <strong>North Korea</strong> fired two more <strong>ballistic missiles </strong>off its east coast, the sixth such launch in less than a fortnight. On Thursday North Korean officials defended the blitz as “just counter-action measures”, in response to American and South Korean joint military drills. Earlier, during an emergency UN Security Council meeting, America had accused China and Russia of providing North Korea’s [nuclear arsenal](https://te.arielherself.xyz/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal) “blanket protection” from stronger sanctions.
 
-A former police officer killed over 30 people, including at least 22 children, in a gun attack at a day-care centre in north-east <strong>Thailand</strong>, according to police. Reports suggest the gunman killed himself and his family after the attack. Such shootings are rare in Thailand, though gun ownership is more common in the country than in some of its neighbours.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+A former police officer killed over 30 people, including at least 22 children, in a gun attack at a day-care centre in north-east <strong>Thailand</strong>, according to police. Reports suggest the gunman killed himself and his family after the attack. Such shootings are rare in Thailand, though gun ownership is more common in the country than in some of its neighbours.
 
 The third-place finisher in the [first round](https://te.arielherself.xyz/the-americas/2022/10/03/brazils-presidential-election-will-go-to-a-run-off) of <strong>Brazil’s presidential election</strong> endorsed Luiz Inácio Lula da Silva, a leftist former president who took 48% of the vote. Simone Tebet, a centre-right senator, won 4% in Sunday’s poll. She said Jair Bolsonaro, the hard-right incumbent who got 43%, had brought “hate and strife” to Brazil. He will face Lula in a run-off on October 30th.
 
 A jury in San Francisco convicted <strong>Uber’s</strong> former <strong>cyber-security</strong> chief of obstructing justice, for his efforts to hide from federal regulators a cyber-attack at the ride-hailing firm in 2016. Joseph Sullivan’s trial marked a rare criminal prosecution of a cyber-security executive for failing to report a breach. He faces up to eight years in prison on two charges.
-
-In a small town in south-western <strong>Mexico </strong>a heavily armed gang stormed a town hall and [massacred 18 people](https://te.arielherself.xyz/the-americas/2022/09/01/several-violent-episodes-in-mexico-suggest-a-worrying-trend), including the mayor. The gang, Los Tequileros, were announcing their return to Guerrero state, five years after their previous boss was assassinated by a rival. Mexico’s ministry of defence said it was deploying army and navy units to find them. Separately, <strong>Haiti’s</strong> prime minister, Ariel Henry, pleaded for a foreign intervention to break a criminal gang’s blockade of a crucial fuel terminal.
 
 <strong>Fact of the day: </strong>72, the number of ministers Peru’s president, Pedro Castillo, has gone through in just 14 months in office. [Read the full story](https://te.arielherself.xyz/the-americas/2022/09/29/peru-has-an-incompetent-president-and-a-discredited-congress).
 
@@ -64,7 +64,7 @@ Viola Davis, who won an Oscar for “Fences” in 2017, stars as General Nanisca
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1445617d6e516764667167677b5471777b7a7b797d67603a777b79">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2273574b58675152504751514d6247414d4c4d4f4b51560c414d4f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which astronomer was the first to discover Jupiter’s moons?
 
