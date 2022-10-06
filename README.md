@@ -16,7 +16,7 @@
 
 The<strong> EU</strong> and<strong> Norway </strong>agreed to “jointly develop tools” to normalise the [energy market](https://te.arielherself.xyz/finance-and-economics/2022/09/08/europes-energy-market-was-not-built-for-this-crisis) and reduce [prices](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices). Norway is now the EU’s largest external gas supplier as the bloc reduces its reliance on Russian energy following the invasion of Ukraine. Meanwhile Britain’s national grid will ask households to lower their energy use, warning of potential blackouts this winter.
 
-<strong>Annie Ernaux</strong>, a French author known for her intensely [personal works](https://te.arielherself.xyz/books-and-arts/2021/09/13/a-poignant-abortion-drama-prevails-at-the-venice-film-festival), won the <strong>Nobel prize for literature</strong>. The Swedish Academy cited her “courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory”.
+[Annie Ernaux](https://te.arielherself.xyz/culture/2022/10/06/annie-ernaux-wins-the-nobel-prize-in-literature-for-2022), a French author known for her intensely [personal works](https://te.arielherself.xyz/books-and-arts/2021/09/13/a-poignant-abortion-drama-prevails-at-the-venice-film-festival), won the <strong>Nobel prize for literature</strong>. The Swedish Academy cited her “courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory”.
 
 A former police officer killed at least 38 people, including 22 children, in a <strong>gun attack</strong> at a day-care centre in north-east <strong>Thailand</strong>, according to police. Reports suggest the gunman, who was armed with a shotgun, pistol and knife, killed himself and his family after the attack. Thailand’s prime minister, [Prayut Chan-ocha](https://te.arielherself.xyz/asia/2022/06/16/thailands-military-ruler-is-on-the-back-foot), called the attack “horrifying”.
 
@@ -64,7 +64,7 @@ Viola Davis, who won an Oscar for “Fences” in 2017, stars as General Nanisca
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="fcad899586b98f8c8e998f8f93bc999f93929391958f88d29f9391">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which astronomer was the first to discover Jupiter’s moons?
 
