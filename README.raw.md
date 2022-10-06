@@ -18,11 +18,11 @@ Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said more villages h
 
 <strong>Annie Ernaux</strong>, a French author known for her intensely [personal works](https://www.economist.com/books-and-arts/2021/09/13/a-poignant-abortion-drama-prevails-at-the-venice-film-festival), won the <strong>Nobel prize for literature</strong>. The Swedish Academy cited her “courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory”.
 
-<strong>North Korea</strong> fired two more <strong>ballistic missiles </strong>off its east coast, the sixth such launch in less than a fortnight. On Thursday North Korean officials defended the blitz as “just counter-action measures”, in response to American and South Korean joint military drills. Earlier, during an emergency UN Security Council meeting, America had accused China and Russia of providing North Korea’s [nuclear arsenal](https://www.economist.com/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal) “blanket protection” from stronger sanctions.
+A former police officer killed at least 38 people, including 22 children, in a <strong>gun attack</strong> at a day-care centre in north-east <strong>Thailand</strong>, according to police. Reports suggest the gunman, who was armed with a shotgun, pistol and knife, killed himself and his family after the attack. Thailand’s prime minister, [Prayut Chan-ocha](https://www.economist.com/asia/2022/06/16/thailands-military-ruler-is-on-the-back-foot), called the attack “horrifying”.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-A former police officer killed over 30 people, including at least 22 children, in a gun attack at a day-care centre in north-east <strong>Thailand</strong>, according to police. Reports suggest the gunman killed himself and his family after the attack. Such shootings are rare in Thailand, though gun ownership is more common in the country than in some of its neighbours.
+<strong>North Korea </strong>flew 12 war planes near the border with South Korea, possibly as part of “air-to-surface firing drills”, South Korean officials said. Earlier, North Korea fired two more <strong>ballistic missiles </strong>off its east coast, the sixth such launch in less than a fortnight. North Korean officials called the blitz “counter-action measures” in response to American and South Korean joint military drills.
 
 The third-place finisher in the [first round](https://www.economist.com/the-americas/2022/10/03/brazils-presidential-election-will-go-to-a-run-off) of <strong>Brazil’s presidential election</strong> endorsed Luiz Inácio Lula da Silva, a leftist former president who took 48% of the vote. Simone Tebet, a centre-right senator, won 4% in Sunday’s poll. She said Jair Bolsonaro, the hard-right incumbent who got 43%, had brought “hate and strife” to Brazil. He will face Lula in a run-off on October 30th.
 
@@ -64,7 +64,7 @@ Viola Davis, who won an Oscar for “Fences” in 2017, stars as General Nanisca
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f3a2869a89b68083819680809cb396909c9d9c9e9a8087dd909c9e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which astronomer was the first to discover Jupiter’s moons?
 
