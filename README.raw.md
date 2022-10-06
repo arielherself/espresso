@@ -22,11 +22,11 @@ A former police officer killed at least 38 people, including 22 children, in a <
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Porsche</strong> overtook its former parent company, Volkswagen, to become Europe’s most valuable carmaker a week after its [initial public offering](https://www.economist.com/business/2022/09/22/porsche-goes-to-market). Shares in Porsche rose to €93 ($91), giving it a valuation of €85bn compared with Volkswagen’s €78bn, after the banks involved in [the company’s IPO](https://www.economist.com/business/2022/09/22/porsche-goes-to-market) bought nearly 3.8m shares.
+
 <strong>OPEC+</strong>, the group of petroleum-exporting countries including <strong>Saudi Arabia </strong>and <strong>Russia</strong>, agreed to [slash their output quota](https://www.economist.com/finance-and-economics/2022/10/05/opec-defies-joe-biden-with-a-big-output-cut) for oil by 2m barrels per day, equivalent to 2% global supply, to boost prices in anticipation of shrinking demand. It is the biggest cut since 2020. The White House called the decision “shortsighted” and accused the cartel of “aligning with Russia”. Meanwhile, EU ambassadors agreed to a <strong>price cap </strong>on Russian oil to punish Mr Putin for raising [nuclear threats](https://www.economist.com/international/2022/09/29/could-the-war-in-ukraine-go-nuclear) in his war with Ukraine. The bloc has been trying to reduce its reliance on Russian energy.
 
 <strong>North Korea </strong>flew 12 war planes near the border with South Korea, possibly as part of “air-to-surface firing drills”, South Korean officials said. Earlier, North Korea fired two more <strong>ballistic missiles </strong>off its east coast, the sixth such launch in less than a fortnight. North Korean officials called the blitz “counter-action measures” in response to American and South Korean joint military drills.
-
-A jury in San Francisco convicted <strong>Uber’s</strong> former <strong>cyber-security</strong> chief of obstructing justice, for his efforts to hide from federal regulators a cyber-attack at the ride-hailing firm in 2016. Joseph Sullivan’s trial marked a rare criminal prosecution of a cyber-security executive for failing to report a breach. He faces up to eight years in prison on two charges.
 
 <strong>Fact of the day: </strong>72, the number of ministers Peru’s president, Pedro Castillo, has gone through in just 14 months in office. [Read the full story](https://www.economist.com/the-americas/2022/09/29/peru-has-an-incompetent-president-and-a-discredited-congress).
 
@@ -64,7 +64,7 @@ Viola Davis, who won an Oscar for “Fences” in 2017, stars as General Nanisca
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="306145594a754340425543435f7055535f5e5f5d5943441e535f5d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which astronomer was the first to discover Jupiter’s moons?
 
