@@ -22,11 +22,11 @@ An explosion [partially destroyed](https://www.economist.com/europe/2022/10/08/u
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Rivian Automotive</strong> said it would recall nearly all its vehicles out of concern that a manufacturing defect could force drivers to lose steering control. The recall covers about 13,000 vehicles. No injuries connected to the defect have been reported. The electric-vehicle startup has encountered numerous production issues since [going public](https://www.economist.com/graphic-detail/2021/11/10/rivians-giant-listing-comes-amid-huge-losses) last year.
+
 <strong>Britain’s</strong> Labour Party, in opposition for 12 years, maintains a substantial lead over the Conservative Party, according to a new poll conducted by YouGov. It recorded support for Labour at 52%, compared with 22% for the Conservatives, adding to pressure on the prime minister, Liz Truss, whose tax-cutting agenda has [roiled markets](https://www.economist.com/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues) and [fractured](https://www.economist.com/britain/2022/10/05/a-chaotic-conference-fractures-liz-trusss-young-premiership) her party. 
 
 <strong>Herschel Walker</strong>, the Republican candidate for Senate in Georgia, was accused for a second time of urging a woman to have an abortion. The woman had already alleged that Mr Walker paid for her to have an abortion in 2009; she now has told the <em>New York Times</em> that he encouraged her to terminate a second pregnancy in 2011. He has denied the claims. Mr Walker has cast himself as an opponent to abortion in his faltering campaign, one of the more competitive in this year’s [midterm elections](https://www.economist.com/interactive/us-midterms-2022/forecast/senate).
-
-<strong>New York’s </strong>mayor, Eric Adams, declared a state of emergency to grapple with the city’s sudden <strong>international-migration crisis</strong>. With record numbers of asylum-seekers crossing America’s southern border, [Republican governors have been packing them on coaches](https://www.economist.com/united-states/2022/08/25/americas-border-crisis-reaches-new-york-by-bus) with one-way tickets to Democratic-led jurisdictions. Some 17,000 have rocked up in New York since April. Mr Adams said one in five of the city’s homeless are now asylum-seekers.
 
 <strong>Word of the week: </strong><em>masuku bijin, </em>a Japanese phrase to describe someone who looks beautiful in a face mask. [Read the full story](https://www.economist.com/asia/2022/10/06/many-japanese-are-still-reluctant-to-go-unmasked).
 
