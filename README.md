@@ -12,84 +12,109 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Russia </strong>increased attacks on Zaporizhia, a city in southern <strong>Ukraine</strong>, where at least 12 civilians died over the last two days. Ukrainian officials suggest that Russia employed Iranian-supplied drones alongside ongoing missile attacks. Amid [growing criticism](https://te.arielherself.xyz/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame) of Russia’s military leadership, the commander of its eastern military district, Alexander Chaiko, has been fired according to RBC, a Russian news outlet. Ukraine has recently made [significant advances](https://te.arielherself.xyz/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield) on both the eastern and southern fronts.
-
-This year’s <strong>Nobel peace prize</strong> was awarded to one individual and two organisations fighting authoritarianism in the post-Soviet region. The prize was shared between Ales Bialiatski, a Belarusian pro-democracy activist, Memorial, one of Russia’s oldest human rights organisations, [long hounded by the Kremlin](https://te.arielherself.xyz/europe/2022/01/01/memorial-a-seminal-human-rights-group-in-russia), and the Centre for Civil Liberties, a Ukrainian human rights group that has documented war crimes since Russia’s invasion.
-
-A [rout](https://te.arielherself.xyz/graphic-detail/2022/09/30/wall-street-extends-its-worst-run-since-the-financial-crisis) in <strong>American shares</strong> on Friday erased most of the gains of an early-week rally, though markets still ended the week higher. Among the poor performers was Advanced Micro Devices: its share price tumbled by nearly 14% after the chipmaker cut its forecast for third-quarter revenues by more than $1bn. Levi Strauss shed more than 11% in value after the retailer reported lower-than-expected earnings.
-
-<strong>America’s labour market </strong>slowed slightly in September as aggressive rate rises targeting high [inflation](https://te.arielherself.xyz/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem) have cooled the economy. Official data recorded 263,000 new jobs, which was fewer than the 315,000 positions added in August, but better than expected. That resilience may invite further [tightening](https://te.arielherself.xyz/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big) from the Fed at its next meeting on November 2nd.
-
-Listen to an abridged version of the subscriber-only briefing.
-
-A UN agency said its 193 members agreed to eliminate greenhouse-gas <strong>emissions</strong> in the <strong>civil-aviation</strong> sector by 2050. China, which is set to overtake America as the biggest aviation market this decade, expressed doubt over [reaching the goal](https://te.arielherself.xyz/special-report/2021/02/11/how-todays-reviled-airlines-could-become-greener). European countries that had sought a more ambitious target called the non-binding deal a “compromise”.
+An explosion partially destroyed the only bridge linking Russia and <strong>Crimea</strong>, the peninsula the Kremlin annexed in 2014. Russian officials blamed a bomb carried by a vehicle, though others suggested a more sophisticated attack. The damage is a personal blow to Russia’s president, Vladimir Putin, who hailed the symbolic importance of the bridge on its inauguration in 2018. The crossing is also an important supply line for Russian forces in southern <strong>Ukraine</strong>. Meanwhile Ukraine’s president, Voldoymyr Zelensky, said on Friday that [Ukrainian forces recaptured](https://te.arielherself.xyz/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield) nearly 800 square kilometres of territory in the east this week. 
 
 <strong>America’s</strong> commerce department imposed [new limits](https://te.arielherself.xyz/international/2022/01/29/will-china-dominate-the-world-of-semiconductors) on the export of advanced computer <strong>chips</strong> to <strong>China</strong>. Firms will need to acquire a licence to export the chips, which America said China was using to advance its army’s technological prowess and “commit human rights abuses”. China called the move “sci-tech hegemony”.
 
-<strong>Credit</strong><strong> Suisse</strong> said it would buy back up to $3bn of its own debt in a bid to reassure investors [amid persistent concerns](https://te.arielherself.xyz/finance-and-economics/2022/10/03/credit-suisse-and-the-hunt-for-the-weakest-link-in-global-finance) about its liquidity. Before the announcement shares in the Swiss bank had fallen 55% this year, while credit default swaps, an insurance-like derivative, had risen. But the latest move helped calm markets: shares in the bank rose 3% in early trading.
+A [rout](https://te.arielherself.xyz/graphic-detail/2022/09/30/wall-street-extends-its-worst-run-since-the-financial-crisis) in <strong>American shares</strong> on Friday erased most of the gains of an early-week rally, though markets still ended the week higher. Among the poor performers was Advanced Micro Devices: its share price tumbled by nearly 14% after the chipmaker cut its forecast for third-quarter revenues by more than $1bn. Levi Strauss shed more than 11% in value after the retailer reported lower-than-expected earnings.
 
-<strong>Fact of the day: </strong>49.7%, the proportion of German companies that cannot secure enough skilled workers, up from 30% in 2019. [Read the full story](https://te.arielherself.xyz/europe/2022/10/06/there-are-not-enough-germans-to-do-the-jobs-germany-needs).
+<strong>New York’s </strong>mayor, Eric Adams, declared a state of emergency to grapple with the city’s sudden <strong>international-migration crisis</strong>. With record numbers of asylum-seekers crossing America’s southern border, [Republican governors have been packing them on coaches](https://te.arielherself.xyz/united-states/2022/08/25/americas-border-crisis-reaches-new-york-by-bus) with one-way tickets to Democratic-led jurisdictions. Some 17,000 have rocked up in New York since April. Mr Adams said one in five of the city’s homeless are now asylum-seekers.
+
+Listen to an abridged version of the subscriber-only briefing.
+
+<strong>America’s labour market </strong>slowed slightly in September as aggressive rate rises aimed at reining in [inflation](https://te.arielherself.xyz/finance-and-economics/2022/09/13/america-still-has-an-inflation-problem) have cooled the economy. Official data recorded 263,000 new jobs, which was fewer than the 315,000 positions added in August, but better than expected. That resilience may invite further [tightening](https://te.arielherself.xyz/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big) from the Fed at its next meeting on November 2nd.
+
+A UN agency said its 193 member-states agreed to eliminate greenhouse-gas <strong>emissions</strong> in the <strong>civil-aviation</strong> sector by 2050. China, which is set to overtake America as the biggest aviation market before 2030, expressed doubt over [reaching the goal](https://te.arielherself.xyz/special-report/2021/02/11/how-todays-reviled-airlines-could-become-greener). Some of the more ambitious European countries expressed regret that the target is non-binding.
+
+This year’s <strong>Nobel peace prize</strong> was awarded to one individual and two organisations fighting authoritarianism in the post-Soviet region. The prize was shared between Ales Bialiatski, a Belarusian pro-democracy activist; Memorial, one of Russia’s oldest human-rights organisations, [long hounded by the Kremlin](https://te.arielherself.xyz/europe/2022/01/01/memorial-a-seminal-human-rights-group-in-russia); and the Centre for Civil Liberties, a Ukrainian human-rights group that has been documenting war crimes since Russia’s invasion.
+
+<strong>Word of the week: </strong><em>masuku bijin, </em>a Japanese phrase to describe someone who looks beautiful in a face mask. [Read the full story](https://te.arielherself.xyz/asia/2022/10/06/many-japanese-are-still-reluctant-to-go-unmasked).
 
 ----------
 
-## Europe’s property slowdown
+## How long can Ukraine’s winning streak last?
 
-House prices across Britain and the EU have spiralled since the start of the pandemic. But not for much longer, according to two separate indices published on Friday. Halifax, a British lender, said prices edged down by 0.1% in September from a record high in August. The typical price of a house in Britain is now £293,835 ($330,000). Meanwhile, Eurostat, the EU’s statistics agency, reported the first slowdown in two years. House prices in the EU rose by 9.3% between the second quarters of this year and last year, down from the annual rise of 9.8% in the previous quarter.
+Ukraine’s blistering [counter-offensive](https://te.arielherself.xyz/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame) has, in recent weeks, left Russian forces in disarray, particularly in the Kharkiv region in the east and Kherson in the south. But the current [wave of liberation](https://te.arielherself.xyz/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield) will probably soon reach its peak.
 
-Higher mortgage rates and a cost-of-living squeeze are[ dampening buyer enthusiasm](https://te.arielherself.xyz/finance-and-economics/2022/08/01/the-global-housing-boom-is-running-out-of-steam). A meltdown akin to America’s subprime crisis when prices fell by a third looks unlikely: a chronic shortage of homes has seen prices across the EU soar by[](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220708-1)45% since 2010. Tight labour markets, which improve household finances, mean that homes are still being snapped up. But as the market cools, a reversal could be around the corner.
+This month Ukrainian soldiers in Kherson pushed Russian fighters along the Dnieper river, 30km from the previous front line. And they have continued to make substantial gains in the north of the region. Ukraine’s troops are honing in on parts of northern Luhansk, the only one of the four [annexed regions](https://te.arielherself.xyz/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) where Russia enjoys anything close to complete control. They hope to push the Russians back to their positions from before the full-scale invasion.
 
-## Will Ohio’s abortion ban survive?
+But the window of opportunity may prove short. Russian forces will soon be bolstered by thousands of recently mobilised troops. Though poorly trained, they will supplement Mr Putin’s fight. And the onset of wintery conditions may soon chill the advance.
 
-The overturning of [<em>Roe v Wade</em>](https://te.arielherself.xyz/united-states/how-the-end-of-roe-v-wade-will-affect-american-politics/21809130) in June has opened up a battleground in the Buckeye state. The removal of federal protections opened the way for Ohio’s “trigger ban”, introduced in 2019, to come into force. It prohibited almost all abortions after six weeks. But in mid-September a judge in Hamilton County temporarily suspended the law, on the grounds that Ohio’s constitution guarantees a “fundamental right to privacy, procreation, bodily integrity and freedom of choice”. His ruling, which lasts until October 12th, was a victory for pro-choice campaigners.
+## Nevada’s nail-biting Senate race
 
-On Friday the court will hold another hearing on the injunction. And specific abortion cases are percolating through the courts. In June a ten-year-old was forced to travel to Indiana from Ohio for an abortion after being raped. Indiana’s Republican attorney-general threatened to prosecute the doctor who performed the abortion, claiming, incorrectly, that she had not filed the correct paperwork; she is now suing him for defamation. The battles over abortion show no sign of losing steam.
+One indication of a tight election is whether party bigwigs hit the campaign trail. Nevada has become a runway for wannabe Republican presidential candidates. Donald Trump will head to the state on Saturday to stump for Adam Laxalt and Joe Lombardo, the Republican hopefuls for Senate and governor. Ron DeSantis, the governor of Florida, and various members of Mr Trump’s former cabinet, have also visited the Silver State.
 
-## A breakup over independence in Catalonia
+<em>The Economist</em>’s [midterms model](https://te.arielherself.xyz/interactive/us-midterms-2022/forecast/senate/nevada) suggests [Nevada’s Senate race](https://te.arielherself.xyz/united-states/2022/10/06/tight-midterm-races-in-nevada-may-hinge-on-outreach-to-latino-voters) is a toss-up, making it a crucial battleground for control of Congress’s upper chamber. The contest will test whether Catherine Cortez Masto, the Democratic incumbent, can woo Latino voters who [abandoned her party](https://te.arielherself.xyz/united-states/2022/07/07/democrats-have-a-hispanic-problem) between 2016 and 2020. Democrats may also discover whether their political machine can endure despite the death of its architect and former Senate majority leader, Harry Reid. Reid’s machine turned Nevada light blue. Come November it may have a different hue.
 
-On Friday one of Catalonia’s governing parties, Junts per Catalunya, announced that members had voted for the party to leave the regional government. This leaves its former partner, Esquerra Republicana, stranded and looking to redesign a working majority. Both Junts and Esquerra back Catalan independence, and supported the [illegal independence referendum](https://te.arielherself.xyz/the-economist-explains/2017/09/26/why-the-referendum-on-catalan-independence-is-illegal) of October 2017, which prompted the national government in Madrid to suspend the region’s self-rule. After a bare majority of voters chose pro-independence parties in last year’s [regional elections](https://te.arielherself.xyz/europe/2021/02/15/catalonias-separatists-score-another-victory-but-a-hollow-one), many separatist politicians took the result as a mandate to press on.
+## The New York Philharmonic returns to Lincoln Centre
 
-But the partners were divided on how to do so. Esquerra bet on a formal dialogue with the government in Madrid, hoping to win concessions. Junts did not take part, and wound up acting as both a governing party and a kind of opposition. Now, Esquerra will need votes from non-independentist parties to govern; those groups will want to move on from the independence question to the economy.
+In the late 1950s a working-class black and Hispanic neighbourhood in Manhattan was razed to make way for Lincoln Centre for the Performing Arts. This unsavoury legacy will be addressed when David Geffen Hall—the New York Philharmonic’s home at Lincoln Centre—re-opens on Saturday after a two-year, $550m renovation.
 
-## Little Lesotho makes a big decision
+“San Juan Hill: A New York Story”, an orchestral piece by Etienne Charles, a jazz trumpeter, honours the rich culture of the destroyed neighbourhood, whose residents included Thelonious Monk, a jazz pianist. The upcoming season features music by several living composers, including Cuban-born Tania León and Marcos Balter, a Brazilian.
 
-The general election in Lesotho on Friday will be one of the least-watched votes in the world this year. The neglect is understandable: Lesotho is a poor and tiny country of just 2.2m people, entirely encircled by South Africa. Yet a new government could jolt the former British protectorate to turn the page on a tumultuous recent history. 
+The hall—long criticised for its subpar acoustics and dreary décor—has been redesigned with amenities that include a giant screen in the lobby to simulcast concerts. These musical and architectural gestures are an attempt to atone for past transgressions and attract the younger and more diverse audience needed to secure the Philharmonic’s future.
 
-Since independence in 1966 Lesotho has seen coups, attempted coups, prime ministers fleeing the country, assassinations of military bosses, unstable coalition governments and, most recently, a former prime minister [accused of conspiring](https://te.arielherself.xyz/middle-east-and-africa/2020/01/23/one-first-lady-is-dead-in-lesotho-another-has-fled) with his third wife to murder his second. (The charges were dropped in July.) [Corruption](https://te.arielherself.xyz/graphic-detail/2022/01/25/corruption-is-getting-worse-in-many-poor-countries) and crime are rampant. Politics is about access to spoils, not the pursuit of the greater good.
+## The Women’s Rugby World Cup
 
-The next government will probably be another coalition involving ideologically indistinguishable parties. As pressure from donors and civil society mounts, its priority should be to pass constitutional reforms. That is, if it is not too busy at the trough to bother.
+According to bookmakers, there is little doubt which team will win the Women’s Rugby World Cup, which begins on Saturday in Auckland, New Zealand. Betting $100 on England will win you only $50 if they prevail, such is the recent dominance of the Red Roses. England enter the tournament on an unprecedented 25-match winning streak.
 
-## The Beatles and Bond, 60 years on
+The last two times the team played New Zealand, who are five-time World Cup winners and current holders, England won 43-12 and 56-15. Canada and France, who have been knocked out at the semi-final stage on six occasions, are the other teams with some hope of glory. But it would be a big surprise if the final, on November 12th, were anything other than a repeat of the 2017 event. Five years ago, New Zealand staged a storming second-half comeback, to win 41-32. This time around, England are odds-on to exact their revenge.
 
-Sixty years ago this week the Beatles released their debut single, “Love Me Do”, and the first James Bond film, “Dr No”, premiered at the London Pavilion. Neither was an instant hit. Liverpool’s finest failed to make Britain’s top ten, whilst Sean Connery’s Bond was roasted by the critics, one calling him “a great big hairy marshmallow”. Things worked out in the end, of course; the 25 official Bond films have made more than $7bn at the box office, and the Beatles retain most of the world records for shifting pop music.
+## Weekend Profile: Ron DeSantis, the man whom even hurricanes cannot batter
 
-John Higgs explores the seismic, and intertwining, cultural impact of the Beatles and Bond in his new book, “[Love and Let Die](https://te.arielherself.xyz/culture/2022/09/22/sixty-years-ago-james-bond-and-the-beatles-made-debuts)”. Both heralded a vivid, technicolour break with the buttoned-up wartime generation. Yet, as Mr Higgs writes, alongside the jetset modernity, the Bond films cleaved to attitudes on women and class that were already reactionary, and the Beatles won acclaim with the “faux Victoriana” of “Sgt. Pepper”. Little wonder they were so popular in Britain.
+As an undergraduate at Yale, Ron DeSantis captained the baseball team. Now Florida’s Republican governor has his mind on home runs of the political sort. [Hurricane Ian](https://te.arielherself.xyz/united-states/2022/09/29/hurricane-ian-pummels-florida), which hit his state on September 28th, has left more than 115 Floridians dead and caused up to $57bn in [insured losses](https://te.arielherself.xyz/united-states/2022/10/06/floridas-government-subsidises-people-living-in-hurricane-zones). That may make it the second-costliest hurricane to strike America, after Hurricane Katrina in 2005. But for Mr DeSantis the storm’s wreckage has brought political opportunity, and a chance to demonstrate managerial know-how.
 
-## Daily quiz
+On Wednesday he appeared alongside Joe Biden, whom he often criticises, as the president surveyed the damage. This time it was all comity. Mr DeSantis thanked him for providing federal aid; Mr Biden said that they had worked “hand in glove”. 
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4f1e3a26350a3c3f3d2a3c3c200f2a2c20212022263c3b612c2022">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Disaster management has revealed a fresh side to the governor. Until recently he seemed more interested in lobbing bombs in America’s culture wars. In April, after Disney criticised a state [ban on the discussion of sexuality and gender orientation](https://te.arielherself.xyz/the-economist-explains/2022/03/30/why-florida-is-banning-lessons-on-sexual-orientation-and-gender-identity) among young children in public-school classrooms, Mr DeSantis hit back. He hastily signed a law [revoking Disney’s “special-district” status](https://te.arielherself.xyz/united-states/what-ron-desantiss-spat-with-disney-says-about-american-politics/21808962), which for decades had allowed the media giant to operate much like a county government at its complex in central Florida. Hammering Democrats for their [perceived weakness on border security](https://te.arielherself.xyz/united-states/2022/10/04/the-biden-administration-is-quietly-completing-bits-of-donald-trumps-wall) is another preoccupation. In September Mr DeSantis chartered private planes with state funds to send Venezuelan migrants in San Antonio, Texas, to Martha’s Vineyard, in Massachusetts, an enclave for the wealthy liberals Mr DeSantis loves to taunt.
 
-<strong>Friday: </strong>Which demon is also known as the “lord of the flies”?
+Those stunts—along with his aversion to lockdowns during the pandemic—have endeared the governor to conservatives. Mr DeSantis is now viewed as a potential rival to Donald Trump, a fellow Florida resident, for the Republican nomination for the presidential election in 2024. He has fashioned himself in a similar vein, emphasising issues such as election “integrity” and border security, but carries none of the [former president’s baggage](https://te.arielherself.xyz/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in). 
 
-<strong>Thursday: </strong>Which astronomer was the first to discover Jupiter’s moons?
+Ironically it was Mr Trump’s surprise endorsement that helped Mr DeSantis take the governor’s mansion in 2018. That race was close enough to prompt a recount. In November he is expected to breeze to re-election—he commands an 11-point lead over his opponent, Charlie Crist. Now Mr DeSantis is focused on raising his national profile. Hurricane Ian has let him do just that.
 
-## The winners of last week’s crossword
+## Weekly crossword
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-Asia: <strong>Sean Stewart</strong>, Delhi, India
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
 
-North America:<strong> Dave Hill</strong>, Portland, United States
+<strong>Cryptic clues</strong>
 
-Central and South America: <strong>Sebastian Agudelo-Restrepo, </strong>Santo Domingo, Dominican Republic
+<em>1 down</em> City has a luau: topless duo go-go dancing! (11)
 
-Europe: <strong>Leonid Chindelevitch</strong>, Nailsea, United Kingdom
+<em>1 across </em>Some iron linen virtually (6)
 
-Africa:<strong> Hasit Raja</strong>, Nairobi, Kenya
+<em>2 across </em>European coach disheartened after odd doubts (5)
 
-Oceania: <strong>Roseanne </strong> <strong>Hansen</strong>, Brisbane, Australia
+<em>3 across </em>Square, like crosswords nowadays (6)
 
-  
- They all gave the correct answers of [Keir Starmer](https://te.arielherself.xyz/britain/2022/09/29/keir-starmer-the-rise-of-default-man), [Korean](https://te.arielherself.xyz/asia/2022/09/29%C3%B4/south-koreas-makers-of-electric-vehicles-receive-a-nasty-shock), [taxes](https://te.arielherself.xyz/finance-and-economics/2022/09/29/financial-markets-are-in-chaos-what-next-for-the-real-economy) and [regime](https://te.arielherself.xyz/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time). Check back tomorrow for this week’s crossword.
+<strong>Factual clues</strong>
+
+<em>1 down</em> Troops are on the streets here for the second time this year (11)
+
+<em>1 across </em>Where Cambodian syndicates carry out fraud worth $12bn a year? (6)
+
+<em>2 across </em>Brother Andrew’s nationality (5)
+
+<em>3 across </em>What an Iranian protest song declares clerical rule to be? (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Yumi Arima, </strong>Tokyo, Japan
+
+North America: <strong>Katie King</strong>, Vancouver, Canada
+
+Central and South America: <strong>Alvaro Tomas</strong>, Panama City, Panama
+
+Europe: <strong>Roar Medici</strong>, Koege, Denmark
+
+Africa: <strong>Wael Abdel Wahab</strong>, Cairo, Egypt
+
+Oceania: <strong>Jennifer Bladon-Clark</strong>, Melbourne, Australia
+
+They all gave the correct answers of lightning rod, The Marriage of Figaro, Mamma Mia, Galileo and Beezlebub. The theme is that these terms all appear in the lyrics of Bohemian Rhapsody, the Queen song.
 
 ----------
 
