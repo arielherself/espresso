@@ -18,7 +18,7 @@ Russia’s foreign ministry claimed traffic had resumed on the only bridge linki
 
 <strong>North Korea </strong>fired two short-range ballistic missiles early on Sunday, the latest in a spate of similar provocations in recent days, according to Japanese authorities. Both travelled about 350km and fell outside Japan’s exclusive economic zone. On Tuesday [North Korea](https://te.arielherself.xyz/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal) fired a missile over Japan, which it had not done since 2017.
 
-[Young women](https://te.arielherself.xyz/middle-east-and-africa/2022/10/06/irans-repressive-regime-is-being-rocked-by-a-song) protesters chanted in opposition to <strong>Iran</strong>’s president, <strong>Ebrahim Raisi</strong>, and told him to “get lost” when he visited a university in Tehran, the country’s capital, on Saturday. Mr Raisi criticised protesters [who have rallied](https://te.arielherself.xyz/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) across the country following the death of a 22-year old woman, Mahsa Amini, in police custody, in September.
+<strong>Iran’s</strong> state-run broadcaster appeared to be hacked on Saturday when a news bulletin was interrupted by a protest against the country’s Supreme Leader. The live broadcast was replaced with an image of Ayatollah Ali Khamenei surrounded in flames and captions urging Iranians to “rise up”. Despite a violent crackdown, protesters[ continue to rally](https://te.arielherself.xyz/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) across the country over the death of a 22-year-old woman, Mahsa Amini, in police custody, in September.
 
 Listen to an abridged version of the subscriber-only briefing.
 
