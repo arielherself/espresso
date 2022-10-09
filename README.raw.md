@@ -32,33 +32,31 @@ Ten people, including two teenagers, were killed in an explosion at a petrol sta
 
 ----------
 
-## How long can Ukraine’s winning streak last?
+## Uganda’s fickle father-and-son act
 
-Ukraine’s blistering [counter-offensive](https://www.economist.com/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame) has, in recent weeks, left Russian forces in disarray, particularly in the Kharkiv region in the east and Kherson in the south. But the current [wave of liberation](https://www.economist.com/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield) will probably soon reach its peak.
+Expect some awkwardness in Kampala on Sunday as Uganda’s president, Yoweri Museveni, hosts his Kenyan counterpart, [William Ruto](https://www.economist.com/the-economist-explains/2022/08/16/who-is-william-ruto), for the 60th anniversary of Ugandan independence. Just days ago Mr Museveni issued a public apology after his son, Muhoozi Kainerugaba, joked on Twitter about invading Kenya. In other tweets General Kainerugaba reiterated his support for Russia’s warmongering president, Vladimir Putin, and offered a hundred cows to woo [Italy’s new prime minister](https://www.economist.com/europe/2022/09/25/italy-chooses-a-party-with-a-neo-fascist-legacy).
 
-This month Ukrainian soldiers in Kherson pushed Russian fighters along the Dnieper river, 30km from the previous front line. And they have continued to make substantial gains in the north of the region. Ukraine’s troops are honing in on parts of northern Luhansk, the only one of the four [annexed regions](https://www.economist.com/europe/2022/09/30/vladimir-putin-illegally-annexes-four-ukrainian-oblasts) where Russia enjoys anything close to complete control. They hope to push the Russians back to their positions from before the full-scale invasion.
+His outbursts hint at deeper frustration. Mr Museveni, [in power since 1986](https://www.economist.com/middle-east-and-africa/2021/01/16/yoweri-museveni-wins-ugandas-flawed-presidential-election), is preparing to run again in 2026. But General Kainerugaba apparently wants the top job himself. He has complained that the next election will mark “40 years of the old people in charge”. On Tuesday Mr Museveni stripped him of his army command, cushioning the blow by promoting him to a higher titular rank. The relationship between overbearing father and stroppy son could one day do even greater damage to Uganda’s politics.
 
-But the window of opportunity may prove short. Russian forces will soon be bolstered by thousands of recently mobilised troops. Though poorly trained, they will supplement Mr Putin’s fight. And the onset of wintery conditions may soon chill the advance.
+## Scandal splits the chess world
 
-## Nevada’s nail-biting Senate race
+The chess world champion, Magnus Carlsen, [refuses to play](https://www.economist.com/culture/2022/10/07/hans-moke-niemann-is-known-to-have-cheated-at-chess-does-he-still) another (ostensibly) top player, Hans Moke Niemann. Though Mr Carlsen won’t say so directly, perhaps for legal reasons, the suspicion is that Mr Niemann uses hidden computers to help him win. Does he?
 
-One indication of a tight election is whether party bigwigs hit the campaign trail. Nevada has become a runway for wannabe Republican presidential candidates. Donald Trump will head to the state on Saturday to stump for Adam Laxalt and Joe Lombardo, the Republican hopefuls for Senate and governor. Ron DeSantis, the governor of Florida, and various members of Mr Trump’s former cabinet, have also visited the Silver State.
+Mr Niemann has said that he once cheated as a 12-year-old in an online tournament and then in some “random games” when aged 16. But he has denied ever doing so in tournament games or in front of an audience. On October 4th Chess.com, a website where most of the world’s top players play, published allegations that, in its view, he had cheated much more than he had let on. 
 
-<em>The Economist</em>’s [midterms model](https://www.economist.com/interactive/us-midterms-2022/forecast/senate/nevada) suggests [Nevada’s Senate race](https://www.economist.com/united-states/2022/10/06/tight-midterm-races-in-nevada-may-hinge-on-outreach-to-latino-voters) is a toss-up, making it a crucial battleground for control of Congress’s upper chamber. The contest will test whether Catherine Cortez Masto, the Democratic incumbent, can woo Latino voters who [abandoned her party](https://www.economist.com/united-states/2022/07/07/democrats-have-a-hispanic-problem) between 2016 and 2020. Democrats may also discover whether their political machine can endure despite the death of its architect and former Senate majority leader, Harry Reid. Reid’s machine turned Nevada light blue. Come November it may have a different hue.
+Chess.com has disinvited him from a $1m tournament. Yet in offline games, in which Mr Niemann continues to deny all claims of cheating, he plays on. After his recent victory in the first round of the US Chess Championships, he said: “chess speaks for itself.”
 
-## The New York Philharmonic returns to Lincoln Centre
+## Cate Blanchett’s riveting performance in “Tár”
 
-In the late 1950s a working-class black and Hispanic neighbourhood in Manhattan was razed to make way for Lincoln Centre for the Performing Arts. This unsavoury legacy will be addressed when David Geffen Hall—the New York Philharmonic’s home at Lincoln Centre—re-opens on Saturday after a two-year, $550m renovation.
+Cate Blanchett shines bright as Lydia Tár, the magnetic leader of a classical orchestra, in Todd Field’s film, released this week. Ms Tár’s ascent as the first female conductor of a prominent German orchestra sets the stage for a dramatic tumble, as she is consumed by behind-the-curtain politics. “Tár” dwells on the conductor’s habit of self-sabotage: humiliating a black student at the Juilliard School performing-arts academy in New York; lusting after a young cellist in her orchestra; and alienating her devoted wife and her assistant.
 
-“San Juan Hill: A New York Story”, an orchestral piece by Etienne Charles, a jazz trumpeter, honours the rich culture of the destroyed neighbourhood, whose residents included Thelonious Monk, a jazz pianist. The upcoming season features music by several living composers, including Cuban-born Tania León and Marcos Balter, a Brazilian.
+The film portrays the classical-music milieu with refreshing detail, even if the story of powerful figures whose abuses catch up with them has become a newspaper staple. Yet for all the echoes of celebrity falls from grace, the film is at heart a familiar tale of hubris, portrayed with Ms Blanchett’s flair for grandeur.
 
-The hall—long criticised for its subpar acoustics and dreary décor—has been redesigned with amenities that include a giant screen in the lobby to simulcast concerts. These musical and architectural gestures are an attempt to atone for past transgressions and attract the younger and more diverse audience needed to secure the Philharmonic’s future.
+## Gene editing for a better beer
 
-## The Women’s Rugby World Cup
+Beer brewing typifies the transformative effect of the Industrial Revolution. What had existed for millennia as an artisanal pursuit is today dominated by giant conglomerates and towering steel cylinders. But mass production doesn’t mean a better taste: carbon dioxide build-up in the deep vats inhibits yeast from producing fruity flavours, especially the banana-like isoamyl acetate. 
 
-According to bookmakers, there is little doubt which team will win the Women’s Rugby World Cup, which begins on Saturday in Auckland, New Zealand. Betting $100 on England will win you only $50 if they prevail, such is the recent dominance of the Red Roses. England enter the tournament on an unprecedented 25-match winning streak.
-
-The last two times the team played New Zealand, who are five-time World Cup winners and current holders, England won 43-12 and 56-15. Canada and France, who have been knocked out at the semi-final stage on six occasions, are the other teams with some hope of glory. But it would be a big surprise if the final, on November 12th, were anything other than a repeat of the 2017 event. Five years ago, New Zealand staged a storming second-half comeback, to win 41-32. This time around, England are odds-on to exact their revenge.
+But Belgian microbiologists have genetically modified yeast to make more delectable beer, according to a new paper published in <em>Applied and Environmental Microbiology</em>, a journal. The scientists screened DNA of a strain of yeast particularly good at retaining its flavour to find the genetic mutation of one gene that makes isoamyl acetate. They then used the revolutionary gene-editing tool [CRISPR-Cas9](https://www.economist.com/science-and-technology/2020/10/07/a-tool-for-editing-genomes-wins-the-nobel-prize-for-chemistry) to insert this mutation into another commercial yeast to make a superior strain, producing more banana flavour. Leave it to the Belgians to go an extra mile for a better pint.
 
 ## Weekend Profile: Ron DeSantis, the man whom even hurricanes cannot batter
 
