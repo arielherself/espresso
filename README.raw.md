@@ -16,17 +16,17 @@ At least 17 people were killed, and dozens hospitalised, as a result of a shelli
 
 Russia’s foreign ministry claimed traffic had resumed on the only bridge linking the occupied <strong>Crimean</strong> peninsula to <strong>Russia</strong>, hours after it was [hit by an explosion](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia). The bridge is a crucial supply line for Russian forces in southern <strong>Ukraine</strong>. Meanwhile Russia appointed Sergei Surovikin, a general with a reputation for ruthlessness, as its battlefield commander in Ukraine.
 
+<strong>The Kremlin </strong>praised <strong>OPEC+</strong>, a group of petroleum-exporting countries and their allies, which includes Russia, for agreeing to [oil production cuts](https://www.economist.com/finance-and-economics/2022/10/05/opec-defies-joe-biden-with-a-big-output-cut). Joe Biden, <strong>America’s</strong> president, had pushed to prevent the cuts as he faces rising fuel prices ahead of America’s [midterm elections](https://www.economist.com/interactive/us-midterms-2022/forecast/senate). Dmitry Peskov, the Kremlin’s spokesman, described the decision as “balanced” while Janet Yellen, America’s Treasury secretary, called it “unhelpful”.
+
 Alexander Van der Bellen, <strong>Austria’s</strong> president, won a second term, defeating the populist opposition by a wider margin than in 2016. With 65% of the votes counted, Mr Van der Bellen had 55.4% of ballots, while Walter Rosenkranz of the Freedom Party, a far-right group, had 18.4%.
 
-<strong>Deutsche Bahn</strong>, Germany’s state rail company, said that sabotage had caused disruption of the rail network in the north of the country. The company declined to speculate about who was behind the attack. German authorities are investigating. In September [saboteurs](https://www.economist.com/the-economist-explains/2022/09/29/how-does-underwater-sabotage-work)–suspected by many to have been Russian–struck underwater in the Baltic Sea, damaging the Nord Stream gas pipelines. 
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Deutsche Bahn</strong>, Germany’s state rail company, said that sabotage had caused disruption of the rail network in the north of the country. The company declined to speculate about who was behind the attack. German authorities are investigating. In September [saboteurs](https://www.economist.com/the-economist-explains/2022/09/29/how-does-underwater-sabotage-work)–suspected by many to have been Russian–struck underwater in the Baltic Sea, damaging the Nord Stream gas pipelines. 
 
 Nicola Sturgeon, <strong>Scotland’s</strong> first minister, said she was “confident” that a Scottish independence referendum could be held next year, despite the British government’s refusal to approve such a vote. On Tuesday Britain’s top court will hear a case about whether or not a plebiscite can go ahead. Scots rejected independence by a narrow margin in 2014.
 
 <strong>Iran’s</strong> state-run broadcaster appeared to be hacked when a news bulletin was interrupted by a protest against the country’s Supreme Leader. The broadcast was replaced with an image of Ayatollah Ali Khamenei surrounded in flames. Despite a violent crackdown, protesters [continue to rally](https://www.economist.com/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) across the country over the death of a 22-year old woman, Mahsa Amini, in police custody, in September.
-
-Early results from <strong>Lesotho’s </strong>election suggested that the Revolution for Prosperity party, which was [founded this year](https://www.economist.com/middle-east-and-africa/2022/10/06/why-political-parties-are-a-growth-industry-in-lesotho) by Sam Matekane, a diamond mining billionaire, secured enough votes to win a simple majority. The ruling All Basotho Convention party has so far failed to win any seats in the tally from Friday’s vote.
 
 <strong>Word of the week: </strong><em>masuku bijin, </em>a Japanese phrase to describe someone who looks beautiful in a face mask. [Read the full story](https://www.economist.com/asia/2022/10/06/many-japanese-are-still-reluctant-to-go-unmasked).
 
