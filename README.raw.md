@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-At least 17 people were killed, and dozens hospitalised, as a result of a shelling attack in <strong>Zaporizhia</strong>, according to Ukrainian officials. The city in south-east Ukraine, which is around 52km from a Russian-held [nuclear power plant](https://www.economist.com/by-invitation/2022/09/06/how-to-prevent-a-crisis-at-the-zaporizhia-nuclear-power-plant-according-to-a-fukushima-veteran), was hit by 12 Russian missiles overnight, said Oleksandr Starukh, the governor of the region.
+At least 12 people were killed, and dozens hospitalised, as a result of a shelling attack in <strong>Zaporizhia</strong>, according to Ukrainian officials. The city in south-east Ukraine, which is around 52km from a Russian-held [nuclear power plant](https://www.economist.com/by-invitation/2022/09/06/how-to-prevent-a-crisis-at-the-zaporizhia-nuclear-power-plant-according-to-a-fukushima-veteran), was hit by 12 Russian missiles overnight, said Oleksandr Starukh, the governor of the region.
 
 Russia’s foreign ministry claimed traffic had resumed on the only bridge linking the occupied <strong>Crimean</strong> peninsula to <strong>Russia</strong>, hours after it was [hit by an explosion](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia). The bridge is a crucial supply line for Russian forces in southern <strong>Ukraine</strong>. Meanwhile Russia appointed Sergei Surovikin, a general with a reputation for ruthlessness, as its battlefield commander in Ukraine.
 
