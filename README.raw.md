@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-President <strong>Vladimir Putin</strong> declared that Russia’s [largest airstrike](https://www.economist.com/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine) on Ukraine since the early weeks of the war was in retaliation for the [bombing of Kerch bridge](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia) that links the Crimean peninsula to Russia. Ukraine has not claimed responsibility. Mr Putin threatened a further “harsh response” to continued such attacks. On Monday morning Russian missiles struck the centre of <strong>Kyiv</strong>; explosions were also reported in the cities of Dnipro, Lviv and Ternopil. At least 10 people have been killed and 60 wounded.
+President Vladimir Putin declared that Russia’s largest airstrike on Ukraine since the early weeks of the war was in retaliation for the [bombing of the Kerch bridge](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia), which links the occupied Crimean peninsula to Russia. Ukraine has not claimed responsibility. Mr Putin threatened a further “harsh response” to such attacks. On Monday Russian missiles struck the centre of Kyiv; explosions were also reported in the cities of Dnipro, Lviv and Ternopil. At least 11 people have been killed and 64 wounded. 
 
 The president of <strong>Belarus</strong>, Alexander Lukashenko, ordered the deployment of troops alongside Russian forces on his country’s border with Ukraine. The dictator, who is a close ally of Russia’s president, Vladimir Putin, claimed—without evidence—that Ukraine was planning missile strikes on Belarus. He began assembling forces after an [attack on Russia&#x27;s bridge](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia) to occupied Crimea on Saturday.
 
@@ -22,7 +22,7 @@ The president of <strong>Belarus</strong>, Alexander Lukashenko, ordered the dep
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Malaysia’s prime minister</strong>, Ismail Sabri Yaakob, called for an early election in an effort to bolster the mandate of his fractious ruling coalition. An election was due in September 2023 but now must be held within 60 days of parliament being dissolved on Monday. That the election could coincide with the monsoon season, dampening turnout, sparked protests from the opposition.
+<strong>Malaysia’s prime minister</strong>, Ismail Sabri Yaakob, called an early election in an effort to bolster the mandate of his fractious ruling coalition. An election was due in September 2023 but now must be held within 60 days of parliament being dissolved on Monday. That the election could coincide with the monsoon season, dampening turnout, sparked protests from the opposition.
 
 The Nobel committee awarded the <strong>Sveriges Riksbank prize</strong> in economic sciences to three economists for research into the role of banks in the economy, and how their collapse can exacerbate financial crises. The winners were [Ben Bernanke](https://www.economist.com/culture/2022/08/11/ben-bernanke-and-edward-chancellor-square-off-on-monetary-policy), a former head of America’s Federal Reserve who is now at the Brookings Institution, Douglas Diamond, of the University of Chicago, and Philip Dybvig, of Washington University.
 
@@ -68,7 +68,7 @@ Whether that’s enough depends on the weather and on Germans’ willingness to 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="aafbdfc3d0efd9dad8cfd9d9c5eacfc9c5c4c5c7c3d9de84c9c5c7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the successor to Moses as leader of the Israelites?
 
