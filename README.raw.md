@@ -12,107 +12,65 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>President Vladimir Putin</strong> said the explosion that [crippled](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia) the <strong>Kerch bridge</strong>, linking the Crimean peninsula to Russia, was “an act of terrorism” carried out by Ukrainian special forces. Ukraine has not claimed responsibility for the attack. Mr Putin will hold a meeting of his national security council on Monday amid calls within Russia for retributive attacks. The bridge is a crucial supply line for Russia’s invading forces in southern Ukraine. 
-
-<strong>The Kremlin</strong> praised <strong>OPEC+</strong>, a group of petroleum-exporting countries and their allies, which includes Russia, for agreeing to [oil production cuts](https://www.economist.com/finance-and-economics/2022/10/05/opec-defies-joe-biden-with-a-big-output-cut). Joe Biden, America’s president, had opposed the cuts as he faces rising fuel prices ahead of [midterm elections](https://www.economist.com/interactive/us-midterms-2022/forecast/senate). Dmitry Peskov, the Kremlin’s spokesman, described the decision as “balanced” while Janet Yellen, America’s Treasury secretary, called it “unhelpful”.
+Russian missiles struck the centre of <strong>Kyiv</strong> during rush hour on Monday morning—the first rocket attacks on the Ukrainian capital in months. Explosions were also reported in the cities of Dnipro, Lviv and Ternopil. Volodymyr Zelensky, Ukraine’s president, said “there are dead and wounded”. The bombardment is probably retaliation for the attack that crippled the Kerch bridge, which links the Crimean peninsula to Russia, on Saturday. President Vladimir Putin declared that incident an “act of terrorism” by <strong>Ukraine</strong>, which has not claimed responsibility for it. The bridge is a crucial supply line for Russia’s invading forces in southern Ukraine, as well as being [symbolic for Mr Putin personally](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia). 
 
 <strong>North Korea’s</strong> state news agency said that the country’s <strong>testing of 12 ballistic missiles</strong> over the past week, including one which flew over Japan, was intended to simulate a nuclear attack to “wipe out” targets in South Korea. The launches were a response to recent [American and South Korean naval drills](https://www.economist.com/asia/2022/08/18/america-and-south-korea-restart-their-big-military-drills) around the Korean peninsula.
 
-The Social Democrats—the party of Germany’s chancellor—came first in <strong>regional elections</strong> in the north-western state of <strong>Lower Saxony</strong>. It won a third of the votes, according to early results. But the liberal Free Democrats, the SPD’s [federal coalition partner](https://www.economist.com/europe/2021/11/27/olaf-scholzs-coalition-prepares-to-take-office-in-germany), failed to reach the 5% threshold needed to enter the state parliament. The hard-right Alternative for Germany took nearly 11%, double its previous share. 
+<strong>Malaysia’s prime minister</strong>, Ismail Sabri Yaakob, called for an early election in an effort to bolster the mandate of his fractious ruling coalition. An election was due in September 2023 but now must be held within 60 days of parliament being dissolved on Monday. That the election could coincide with the monsoon season, dampening turnout, sparked protests from the opposition.
+
+The Nobel committee awarded the <strong>Sveriges Riksbank prize</strong> in economic sciences to three economists for research into the role of banks in the economy, and how their collapse can exacerbate financial crises. The winners were [Ben Bernanke](https://www.economist.com/culture/2022/08/11/ben-bernanke-and-edward-chancellor-square-off-on-monetary-policy), a former head of America’s Federal Reserve who is now at the Brookings Institution, Douglas Diamond, of the University of Chicago, and Philip Dybvig, of Washington University.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+The Social Democrats—the party of Germany’s chancellor—came first in<strong> regional elections</strong> in the north-western state of <strong>Lower Saxony</strong>. It won a third of the votes, according to early results. But the liberal Free Democrats, the SPD’s [federal coalition partner](https://www.economist.com/europe/2021/11/27/olaf-scholzs-coalition-prepares-to-take-office-in-germany), failed to reach the 5% threshold needed to enter the state parliament. The hard-right Alternative for Germany took nearly 11%, double its previous share. 
 
 Alexander Van der Bellen, <strong>Austria’s</strong> president, won a second term, defeating the populist opposition by a wider margin than in 2016. With most of the votes counted, Mr Van der Bellen had 55.4% of ballots, while Walter Rosenkranz of the Freedom Party, a far-right group, had 18.4%.
 
 Landslides in <strong>Venezuela</strong> killed at least 22 people, after rivers broke their banks in the Santos Michelena municipality, around 70km south of Caracas, the capital. The disaster came after [days of heavy rain](https://www.economist.com/graphic-detail/2019/01/29/deadly-landslides-with-man-made-causes-are-becoming-more-common). Around 50 people are also reported to be missing.
 
-Nicola Sturgeon, <strong>Scotland’s</strong> first minister, said she was “confident” that a [Scottish independence referendum](https://www.economist.com/britain/2022/06/29/nicola-sturgeon-sets-a-date-for-another-referendum-on-scottish-independence) could be held next year, despite the British government’s refusal to approve such a vote. On Tuesday Britain’s top court will hear a case about whether or not a plebiscite can go ahead. Scots rejected independence in 2014.
-
-<strong>Word of the week: </strong><em>masuku bijin, </em>a Japanese phrase to describe someone who looks beautiful in a face mask. [Read the full story](https://www.economist.com/asia/2022/10/06/many-japanese-are-still-reluctant-to-go-unmasked).
+<strong>Fact of the day: </strong>400, the number of suspected Russian intelligence officers expelled by Western countries since the spring. [Read the full story](https://www.economist.com/europe/2022/10/09/the-war-in-ukraine-has-battered-the-reputation-of-russian-spies).
 
 ----------
 
-## Uganda’s fickle father-and-son act
+## Making Russia a pariah
 
-Expect some awkwardness in Kampala on Sunday as Uganda’s president, Yoweri Museveni, hosts his Kenyan counterpart, [William Ruto](https://www.economist.com/the-economist-explains/2022/08/16/who-is-william-ruto), for the 60th anniversary of Ugandan independence. Just days ago Mr Museveni issued a public apology after his son, Muhoozi Kainerugaba, joked on Twitter about invading Kenya. In other tweets General Kainerugaba reiterated his support for Russia’s warmongering president, Vladimir Putin, and offered a hundred cows to woo [Italy’s new prime minister](https://www.economist.com/europe/2022/09/25/italy-chooses-a-party-with-a-neo-fascist-legacy).
+On Monday morning Russian missiles rained down on Kyiv, Ukraine’s capital, for the first time in months. The strikes, which also hit other Ukrainian cities, are retaliation for an explosion which destroyed the bridge that links the Crimean peninsula with Russia. Later on Monday the diplomatic battle will move to the UN General Assembly. Delegates will debate a Western resolution condemning [Russia’s annexation](https://www.economist.com/europe/2022/10/05/russias-annexations-in-ukraine-are-a-legal-and-strategic-mess) of four Ukrainian provinces and demanding its full withdrawal. Russia vetoed a similar move in the Security Council last month. It cannot do so in the General Assembly, but the body’s resolutions are not binding. Instead the vote—which may take place on Wednesday—is intended to isolate the Kremlin.
 
-His outbursts hint at deeper frustration. Mr Museveni, [in power since 1986](https://www.economist.com/middle-east-and-africa/2021/01/16/yoweri-museveni-wins-ugandas-flawed-presidential-election), is preparing to run again in 2026. But General Kainerugaba apparently wants the top job himself. He has complained that the next election will mark “40 years of the old people in charge”. On Tuesday Mr Museveni stripped him of his army command, cushioning the blow by promoting him to a higher titular rank. The relationship between overbearing father and stroppy son could one day do even greater damage to Uganda’s politics.
+Russia wants a secret vote. But the West is nervous, too. It secured a 141-5 vote against Russia in March but many countries, at least before Russia’s renewed attacks on civilians, were growing weary of the war. Most attention will be on the fence-sitters, among them the likes of Brazil, China, Gabon and India, which abstained in the Security Council. Getting fewer than 100 yes votes—the number that condemned Russia’s annexation of Crimea in 2014—would be another blow to Ukraine.
 
-## Scandal splits the chess world
+## Will J.D. Vance advance?
 
-The chess world champion, Magnus Carlsen, [refuses to play](https://www.economist.com/culture/2022/10/07/hans-moke-niemann-is-known-to-have-cheated-at-chess-does-he-still) another (ostensibly) top player, Hans Moke Niemann. Though Mr Carlsen won’t say so directly, perhaps for legal reasons, the suspicion is that Mr Niemann uses hidden computers to help him win. Does he?
+On Monday Ohio hosts its first debate between two candidates for [the Senate](https://www.economist.com/interactive/us-midterms-2022/forecast/senate), the Republican J.D. Vance and his Democratic opponent, Tim Ryan. The Buckeye State is a fairly safe Republican stronghold. But Mr Vance, a venture capitalist who came to prominence after writing “Hillbilly Elegy”, a best-selling book about the culture of Appalachians, has struggled. He and Mr Ryan are in a dead heat; the Democratic candidate has raised enormous sums from small donors.
 
-Mr Niemann has said that he once cheated as a 12-year-old in an online tournament and then in some “random games” when aged 16. But he has denied ever doing so in tournament games or in front of an audience. On October 4th Chess.com, a website where most of the world’s top players play, published allegations that, in its view, he had cheated much more than he had let on. 
+Mr Vance’s [campaign](https://www.economist.com/united-states/fear-of-illegal-immigrants-helps-jd-vance-triumph-in-ohios-primaries/21809098) has sounded almost apocalyptic at times, focusing on the threats supposedly posed to Ohio from illegal-immigrant drug pushers and their Democrat enablers. Donald Trump has stumped with him, as has Mr Trump’s son, Don Junior. Many Republican candidates across the country are chasing the former president’s supporters. The reaction to Monday’s debate will indicate whether the double Trump endorsement can push Mr Vance over the line.
 
-Chess.com has disinvited him from a $1m tournament. Yet in offline games, in which Mr Niemann continues to deny all claims of cheating, he plays on. After his recent victory in the first round of the US Chess Championships, he said: “chess speaks for itself.”
+## Overflowing in-trays at the IMF and the World Bank
 
-## Cate Blanchett’s riveting performance in “Tár”
+Policymakers from around the world gather in Washington on Monday for a week of annual meetings of the International Monetary Fund and the World Bank, amid sharply deteriorating conditions for the [global economy](https://www.economist.com/leaders/2022/10/06/a-new-macroeconomic-era-is-emerging-what-will-it-look-like).
 
-Cate Blanchett shines bright as Lydia Tár, the magnetic leader of a classical orchestra, in Todd Field’s film, released this week. Ms Tár’s ascent as the first female conductor of a prominent German orchestra sets the stage for a dramatic tumble, as she is consumed by behind-the-curtain politics. “Tár” dwells on the conductor’s habit of self-sabotage: humiliating a black student at the Juilliard School performing-arts academy in New York; lusting after a young cellist in her orchestra; and alienating her devoted wife and her assistant.
+Russia’s war in Ukraine has dashed the cautious optimism expressed last year. The energy crisis and [soaring inflation](https://www.economist.com/special-report/2022/10/05/policymakers-are-likely-to-jettison-their-2-inflation-targets) will occupy participants. New IMF forecasts are likely to project that economies accounting for at least one-third of global output will soon be in recession. Kristalina Georgieva, the IMF’s managing director, has warned that geopolitical and financial-sector risks mean that conditions are more likely to worsen than improve. 
 
-The film portrays the classical-music milieu with refreshing detail, even if the story of powerful figures whose abuses catch up with them has become a newspaper staple. Yet for all the echoes of celebrity falls from grace, the film is at heart a familiar tale of hubris, portrayed with Ms Blanchett’s flair for grandeur.
+Officials will look for opportunities to co-operate on inflation-fighting and debt relief, in hopes of reducing the pain felt by the most vulnerable. Given the harsh reality of war, there is only so much they can do.
 
-## Gene editing for a better beer
+## Taiwan’s National Day
 
-Beer brewing typifies the transformative effect of the Industrial Revolution. What had existed for millennia as an artisanal pursuit is today dominated by giant conglomerates and towering steel cylinders. But mass production doesn’t mean a better taste: carbon dioxide build-up in the deep vats inhibits yeast from producing fruity flavours, especially the banana-like isoamyl acetate. 
+In a speech on Monday to celebrate Taiwan’s National Day, Tsai Ing-wen, the country’s president, insisted that there is “no room for compromise” over the self-governing island’s sovereignty and democratic way of life. China’s government should respect that as a precondition to working together for cross-straits peace, she said.  
+  
+ Tensions in the Taiwan Strait are high. In August Nancy Pelosi, the speaker of America’s House of Representatives, visited the island and called her country’s [support for Taiwan](https://www.economist.com/by-invitation/2022/09/01/now-china-has-changed-its-policy-towards-taiwan-america-should-too-senator-chris-murphy) “ironclad”. China responded with military exercises to show its ability to blockade the island, which China regards as part of its territory.
 
-But Belgian microbiologists have genetically modified yeast to make more delectable beer, according to a new paper published in <em>Applied and Environmental Microbiology</em>, a journal. The scientists screened DNA of a strain of yeast particularly good at retaining its flavour to find the genetic mutation of one gene that makes isoamyl acetate. They then used the revolutionary gene-editing tool [CRISPR-Cas9](https://www.economist.com/science-and-technology/2020/10/07/a-tool-for-editing-genomes-wins-the-nobel-prize-for-chemistry) to insert this mutation into another commercial yeast to make a superior strain, producing more banana flavour. Leave it to the Belgians to go an extra mile for a better pint.
+Ms Tsai’s government welcomes delegations from friendly countries. It has also increased defence spending and is mulling extensions to conscription. But opinion polls indicate low confidence in Taiwan’s ability to fend off a Chinese invasion. In her speech the president recognised the need for better civil defence. National Day is a chance to bolster public resolve.
 
-## Weekend Profile: Ron DeSantis, the man whom even hurricanes cannot batter
+## A new pipeline to help Germany this winter
 
-As an undergraduate at Yale, Ron DeSantis captained the baseball team. Now Florida’s Republican governor has his mind on home runs of the political sort. [Hurricane Ian](https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida), which hit his state on September 28th, has left more than 115 Floridians dead and caused up to $57bn in [insured losses](https://www.economist.com/united-states/2022/10/06/floridas-government-subsidises-people-living-in-hurricane-zones). That may make it the second-costliest hurricane to strike America, after Hurricane Katrina in 2005. But for Mr DeSantis the storm’s wreckage has brought political opportunity, and a chance to demonstrate managerial know-how.
+As winter approaches, all eyes in Europe are on [the continent’s](https://www.economist.com/europe/2022/09/29/europes-next-energy-crunch) gas supplies and whether anything can be done to ease dependence on Russia. Storage facilities are almost full. But Germany lacks enough import capacity to [meet demand](https://www.economist.com/the-economist-explains/2022/10/04/why-fracking-cannot-solve-europes-energy-crisis) through shipped liquified natural gas. On Monday a retrofitted pipeline from France will open, providing relief of around 4000 GWh per month—around 3% of Germany’s demand in a typical winter month. 
 
-On Wednesday he appeared alongside Joe Biden, whom he often criticises, as the president surveyed the damage. This time it was all comity. Mr DeSantis thanked him for providing federal aid; Mr Biden said that they had worked “hand in glove”. 
+Whether that’s enough depends on the weather and on Germans’ willingness to put on an extra jumper. The country’s gas network regulator has called once more on households to cut back in order to avoid gas rationing. Germany’s eastern and southern neighbours, including Ukraine, will depend on supplies from the West, too. A new floating terminal in the Netherlands has started receiving deliveries to fill pipelines going east. But gas will remain scarce in central and eastern Europe. Hope for a mild and rainy Christmas.
 
-Disaster management has revealed a fresh side to the governor. Until recently he seemed more interested in lobbing bombs in America’s culture wars. In April, after Disney criticised a state [ban on the discussion of sexuality and gender orientation](https://www.economist.com/the-economist-explains/2022/03/30/why-florida-is-banning-lessons-on-sexual-orientation-and-gender-identity) among young children in public-school classrooms, Mr DeSantis hit back. He hastily signed a law [revoking Disney’s “special-district” status](https://www.economist.com/united-states/what-ron-desantiss-spat-with-disney-says-about-american-politics/21808962), which for decades had allowed the media giant to operate much like a county government at its complex in central Florida. Hammering Democrats for their [perceived weakness on border security](https://www.economist.com/united-states/2022/10/04/the-biden-administration-is-quietly-completing-bits-of-donald-trumps-wall) is another preoccupation. In September Mr DeSantis chartered private planes with state funds to send Venezuelan migrants in San Antonio, Texas, to Martha’s Vineyard, in Massachusetts, an enclave for the wealthy liberals Mr DeSantis loves to taunt.
+## Daily quiz
 
-Those stunts—along with his aversion to lockdowns during the pandemic—have endeared the governor to conservatives. Mr DeSantis is now viewed as a potential rival to Donald Trump, a fellow Florida resident, for the Republican nomination for the presidential election in 2024. He has fashioned himself in a similar vein, emphasising issues such as election “integrity” and border security, but carries none of the [former president’s baggage](https://www.economist.com/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [Q<span class="__cf_email__" data-cfemail="9ce9f5e6d9efeceef9efeff3dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-Ironically it was Mr Trump’s surprise endorsement that helped Mr DeSantis take the governor’s mansion in 2018. That race was close enough to prompt a recount. In November he is expected to breeze to re-election—he commands an 11-point lead over his opponent, Charlie Crist. Now Mr DeSantis is focused on raising his national profile. Hurricane Ian has let him do just that.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down</em> City has a luau: topless duo go-go dancing! (11)
-
-<em>1 across </em>Some iron linen virtually (6)
-
-<em>2 across </em>European coach disheartened after odd doubts (5)
-
-<em>3 across </em>Square, like crosswords nowadays (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> Troops are on the streets here for the second time this year (11)
-
-<em>1 across </em>Where Cambodian syndicates carry out fraud worth $12bn a year? (6)
-
-<em>2 across </em>Brother Andrew’s nationality (5)
-
-<em>3 across </em>What an Iranian protest song declares clerical rule to be? (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Yumi Arima, </strong>Tokyo, Japan
-
-North America: <strong>Katie King</strong>, Vancouver, Canada
-
-Central and South America: <strong>Alvaro Tomas</strong>, Panama City, Panama
-
-Europe: <strong>Roar Medici</strong>, Koege, Denmark
-
-Africa: <strong>Wael Abdel Wahab</strong>, Cairo, Egypt
-
-Oceania: <strong>Jennifer Bladon-Clark</strong>, Melbourne, Australia
-
-They all gave the correct answers of lightning rod, The Marriage of Figaro, Mamma Mia, Galileo and Beezlebub. The theme is that these terms all appear in the lyrics of Bohemian Rhapsody, the Queen song.
+<strong>Monday: </strong>Who was the successor to Moses as leader of the Israelites?
 
 ----------
 
