@@ -16,13 +16,13 @@ President <strong>Vladimir Putin</strong> declared that Russia’s [largest airs
 
 <strong>North Korea’s</strong> state news agency said that the country’s <strong>testing of 12 ballistic missiles</strong> over the past week, including one which flew over Japan, was intended to simulate a nuclear attack to “wipe out” targets in South Korea. The launches were a response to recent [American and South Korean naval drills](https://te.arielherself.xyz/asia/2022/08/18/america-and-south-korea-restart-their-big-military-drills) around the Korean peninsula.
 
-<strong>Malaysia’s prime minister</strong>, Ismail Sabri Yaakob, called for an early election in an effort to bolster the mandate of his fractious ruling coalition. An election was due in September 2023 but now must be held within 60 days of parliament being dissolved on Monday. That the election could coincide with the monsoon season, dampening turnout, sparked protests from the opposition.
+<strong>Iran’s </strong>security forces stepped up their violent suppression of [anti-government protests](https://te.arielherself.xyz/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) that have swept the country following the death of Mahsa Amini in the custody of the [morality police](https://te.arielherself.xyz/the-economist-explains/2022/09/26/who-are-irans-hated-morality-police). At least 185 people have been killed in clashes since mid-September. Fierce fighting between protesters and riot police was reported in Kurdish cities on Monday.
 
 The Nobel committee awarded the <strong>Sveriges Riksbank prize</strong> in economic sciences to three economists for research into the role of banks in the economy, and how their collapse can exacerbate financial crises. The winners were [Ben Bernanke](https://te.arielherself.xyz/culture/2022/08/11/ben-bernanke-and-edward-chancellor-square-off-on-monetary-policy), a former head of America’s Federal Reserve who is now at the Brookings Institution, Douglas Diamond, of the University of Chicago, and Philip Dybvig, of Washington University.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The Social Democrats—the party of Germany’s chancellor—came first in<strong> regional elections</strong> in the north-western state of <strong>Lower Saxony</strong>. It won a third of the votes, according to early results. But the liberal Free Democrats, the SPD’s [federal coalition partner](https://te.arielherself.xyz/europe/2021/11/27/olaf-scholzs-coalition-prepares-to-take-office-in-germany), failed to reach the 5% threshold needed to enter the state parliament. The hard-right Alternative for Germany took nearly 11%, double its previous share. 
+<strong>Malaysia’s prime minister</strong>, Ismail Sabri Yaakob, called for an early election in an effort to bolster the mandate of his fractious ruling coalition. An election was due in September 2023 but now must be held within 60 days of parliament being dissolved on Monday. That the election could coincide with the monsoon season, dampening turnout, sparked protests from the opposition.
 
 Alexander Van der Bellen, <strong>Austria’s</strong> president, won a second term, defeating the populist opposition by a wider margin than in 2016. With most of the votes counted, Mr Van der Bellen had 55.4% of ballots, while Walter Rosenkranz of the Freedom Party, a far-right group, had 18.4%.
 
@@ -68,7 +68,7 @@ Whether that’s enough depends on the weather and on Germans’ willingness to 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0f5e7a66754a7c7f7d6a7c7c604f6a6c60616062667c7b216c6062">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the successor to Moses as leader of the Israelites?
 
