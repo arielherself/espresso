@@ -14,7 +14,7 @@
 
 President <strong>Vladimir Putin</strong> declared that Russia’s [largest airstrike](https://te.arielherself.xyz/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine) on Ukraine since the early weeks of the war was in retaliation for the [bombing of Kerch bridge](https://te.arielherself.xyz/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia) that links the Crimean peninsula to Russia. Ukraine has not claimed responsibility. Mr Putin threatened a further “harsh response” to continued such attacks. On Monday morning Russian missiles struck the centre of <strong>Kyiv</strong>; explosions were also reported in the cities of Dnipro, Lviv and Ternopil. At least 10 people have been killed and 60 wounded.
 
-<strong>North Korea’s</strong> state news agency said that the country’s <strong>testing of 12 ballistic missiles</strong> over the past week, including one which flew over Japan, was intended to simulate a nuclear attack to “wipe out” targets in South Korea. The launches were a response to recent [American and South Korean naval drills](https://te.arielherself.xyz/asia/2022/08/18/america-and-south-korea-restart-their-big-military-drills) around the Korean peninsula.
+The president of <strong>Belarus</strong>, Alexander Lukashenko, ordered the deployment of troops alongside Russian forces on his country’s border with Ukraine. The dictator, who is a close ally of Russia’s president, Vladimir Putin, claimed—without evidence—that Ukraine was planning missile strikes on Belarus. He began assembling forces after an [attack on Russia&#x27;s bridge](https://te.arielherself.xyz/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia) to occupied Crimea on Saturday.
 
 <strong>Iran’s </strong>security forces stepped up their violent suppression of [anti-government protests](https://te.arielherself.xyz/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) that have swept the country following the death of Mahsa Amini in the custody of the [morality police](https://te.arielherself.xyz/the-economist-explains/2022/09/26/who-are-irans-hated-morality-police). At least 185 people have been killed in clashes since mid-September. Fierce fighting between protesters and riot police was reported in Kurdish cities on Monday.
 
@@ -24,9 +24,9 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Malaysia’s prime minister</strong>, Ismail Sabri Yaakob, called for an early election in an effort to bolster the mandate of his fractious ruling coalition. An election was due in September 2023 but now must be held within 60 days of parliament being dissolved on Monday. That the election could coincide with the monsoon season, dampening turnout, sparked protests from the opposition.
 
-Alexander Van der Bellen, <strong>Austria’s</strong> president, won a second term, defeating the populist opposition by a wider margin than in 2016. With most of the votes counted, Mr Van der Bellen had 55.4% of ballots, while Walter Rosenkranz of the Freedom Party, a far-right group, had 18.4%.
-
 The Nobel committee awarded the <strong>Sveriges Riksbank prize</strong> in economic sciences to three economists for research into the role of banks in the economy, and how their collapse can exacerbate financial crises. The winners were [Ben Bernanke](https://te.arielherself.xyz/culture/2022/08/11/ben-bernanke-and-edward-chancellor-square-off-on-monetary-policy), a former head of America’s Federal Reserve who is now at the Brookings Institution, Douglas Diamond, of the University of Chicago, and Philip Dybvig, of Washington University.
+
+<strong>North Korea’s</strong> state news agency said that the country’s <strong>testing of 12 ballistic missiles</strong> over the past week, including one which flew over Japan, was intended to simulate a nuclear attack to “wipe out” targets in South Korea. The launches were a response to recent [American and South Korean naval drills](https://te.arielherself.xyz/asia/2022/08/18/america-and-south-korea-restart-their-big-military-drills) around the Korean peninsula.
 
 <strong>Fact of the day: </strong>400, the number of suspected Russian intelligence officers expelled by Western countries since the spring. [Read the full story](https://te.arielherself.xyz/europe/2022/10/09/the-war-in-ukraine-has-battered-the-reputation-of-russian-spies).
 
@@ -68,7 +68,7 @@ Whether that’s enough depends on the weather and on Germans’ willingness to 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="85d4f0ecffc0f6f5f7e0f6f6eac5e0e6eaebeae8ecf6f1abe6eae8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4a1b3f23300f393a382f3939250a2f292524252723393e64292527">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the successor to Moses as leader of the Israelites?
 
