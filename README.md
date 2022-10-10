@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-President <strong>Vladimir Putin</strong> declared that Russia’s largest airstrike on Ukraine since the early weeks of the war was in retaliation for the [bombing of Kerch bridge](https://te.arielherself.xyz/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia) that links the Crimean peninsula to Russia. Ukraine has not claimed responsibility. Mr Putin threatened a further “harsh response” to continued such attacks. On Monday morning Russian missiles struck the centre of <strong>Kyiv</strong>; explosions were also reported in the cities of Dnipro, Lviv and Ternopil. At least 10 people have been killed and 60 wounded.
+President <strong>Vladimir Putin</strong> declared that Russia’s [largest airstrike](https://te.arielherself.xyz/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine) on Ukraine since the early weeks of the war was in retaliation for the [bombing of Kerch bridge](https://te.arielherself.xyz/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia) that links the Crimean peninsula to Russia. Ukraine has not claimed responsibility. Mr Putin threatened a further “harsh response” to continued such attacks. On Monday morning Russian missiles struck the centre of <strong>Kyiv</strong>; explosions were also reported in the cities of Dnipro, Lviv and Ternopil. At least 10 people have been killed and 60 wounded.
 
 <strong>North Korea’s</strong> state news agency said that the country’s <strong>testing of 12 ballistic missiles</strong> over the past week, including one which flew over Japan, was intended to simulate a nuclear attack to “wipe out” targets in South Korea. The launches were a response to recent [American and South Korean naval drills](https://te.arielherself.xyz/asia/2022/08/18/america-and-south-korea-restart-their-big-military-drills) around the Korean peninsula.
 
@@ -68,7 +68,7 @@ Whether that’s enough depends on the weather and on Germans’ willingness to 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c293b7abb887b1b2b0a7b1b1ad82a7a1adacadafabb1b6eca1adaf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e2b3978b98a79192908791918da287818d8c8d8f8b9196cc818d8f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the successor to Moses as leader of the Israelites?
 
