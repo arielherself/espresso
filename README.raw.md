@@ -18,7 +18,7 @@ President <strong>Vladimir Putin</strong> declared that Russia’s [largest airs
 
 <strong>Iran’s </strong>security forces stepped up their violent suppression of [anti-government protests](https://www.economist.com/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) that have swept the country following the death of Mahsa Amini in the custody of the [morality police](https://www.economist.com/the-economist-explains/2022/09/26/who-are-irans-hated-morality-police). At least 185 people have been killed in clashes since mid-September. Fierce fighting between protesters and riot police was reported in Kurdish cities on Monday.
 
-The Nobel committee awarded the <strong>Sveriges Riksbank prize</strong> in economic sciences to three economists for research into the role of banks in the economy, and how their collapse can exacerbate financial crises. The winners were [Ben Bernanke](https://www.economist.com/culture/2022/08/11/ben-bernanke-and-edward-chancellor-square-off-on-monetary-policy), a former head of America’s Federal Reserve who is now at the Brookings Institution, Douglas Diamond, of the University of Chicago, and Philip Dybvig, of Washington University.
+<strong>Rivian</strong>, a maker of electric trucks, saw its shares slide by about 9% after it recalled almost all of the 13,000 of its vehicles on the road over a potential fault. The startup had the [biggest IPO of 2021](https://www.economist.com/business/2021/09/02/an-electric-vehicle-startup-aims-for-a-stellar-valuation) and nearly 100,000 people have placed orders. But supply-chain woes have slowed production; the new glitch will not help.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Alexander Van der Bellen, <strong>Austria’s</strong> president, won a second term, defeating the populist opposition by a wider margin than in 2016. With most of the votes counted, Mr Van der Bellen had 55.4% of ballots, while Walter Rosenkranz of the Freedom Party, a far-right group, had 18.4%.
 
-Landslides in <strong>Venezuela</strong> killed at least 22 people, after rivers broke their banks in the Santos Michelena municipality, around 70km south of Caracas, the capital. The disaster came after [days of heavy rain](https://www.economist.com/graphic-detail/2019/01/29/deadly-landslides-with-man-made-causes-are-becoming-more-common). Around 50 people are also reported to be missing.
+The Nobel committee awarded the <strong>Sveriges Riksbank prize</strong> in economic sciences to three economists for research into the role of banks in the economy, and how their collapse can exacerbate financial crises. The winners were [Ben Bernanke](https://www.economist.com/culture/2022/08/11/ben-bernanke-and-edward-chancellor-square-off-on-monetary-policy), a former head of America’s Federal Reserve who is now at the Brookings Institution, Douglas Diamond, of the University of Chicago, and Philip Dybvig, of Washington University.
 
 <strong>Fact of the day: </strong>400, the number of suspected Russian intelligence officers expelled by Western countries since the spring. [Read the full story](https://www.economist.com/europe/2022/10/09/the-war-in-ukraine-has-battered-the-reputation-of-russian-spies).
 
@@ -68,7 +68,7 @@ Whether that’s enough depends on the weather and on Germans’ willingness to 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7322061a09360003011600001c3316101c1d1c1e1a00075d101c1e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Who was the successor to Moses as leader of the Israelites?
 
