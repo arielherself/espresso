@@ -18,7 +18,7 @@
 
 <strong>Britain’s</strong> unemployment rate fell to 3.5% in the quarter ending in August, its lowest level in nearly 50 years. Wages increased by 5.4% year on year, but continue to lag behind inflation. Separately the Bank of England widened its emergency bond-purchase intervention to counter “dysfunction” in the debt market. The scheme was introduced in response to the government’s [reckless mini-budget](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically).
 
-<strong>Iran’s </strong>security forces stepped up their violent suppression of [anti-government protests](https://te.arielherself.xyz/leaders/2022/09/29/irans-tired-regime-is-living-on-borrowed-time) that have swept the country following the death of Mahsa Amini, a 22-year-old Kurdish woman, in the custody of the [morality police](https://te.arielherself.xyz/the-economist-explains/2022/09/26/who-are-irans-hated-morality-police). At least 185 people have been killed in clashes since mid-September. Fierce fighting between protesters and riot police was reported in Kurdish cities on Monday.
+<strong>Israel </strong>and <strong>Lebanon</strong> struck an agreement to settle a [maritime border dispute](https://te.arielherself.xyz/middle-east-and-africa/2022/08/21/mediterranean-gas-sends-sparks-flying-between-lebanon-and-israel). While limited in scope, the US-brokered deal paves the way for offshore gas exploration in the eastern Mediterranean. Yair Lapid, the Israeli Prime Minister, called the deal “historic”. Hizbullah, an Iranian-backed Lebanese militia which threatened military escalation if the dispute was not resolved in Lebanon’s favour, reportedly backed the government’s position.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Last year 10,000 of Mr Hirst’s paintings featuring colourful enamel spots, mad
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d382a6baa996a0a3a1b6a0a0bc93b6b0bcbdbcbebaa0a7fdb0bcbe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e2b3978b98a79192908791918da287818d8c8d8f8b9196cc818d8f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which character is coach to Adonis Creed, in the boxing films “Creed” and “Creed II”?  
   
