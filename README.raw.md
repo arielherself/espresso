@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Volodymyr Zelensky</strong>, Ukraine’s president, is expected to ask the <strong>G7</strong>, a group of rich democracies, to supply it with more weapons at an emergency meeting called in response to a barrage of Russian missiles targeting [Ukrainian cities](https://www.economist.com/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine). President Joe Biden has already promised more support for Ukraine, including air-defence systems. Meanwhile <strong>Belarus</strong> ordered the deployment of troops alongside Russian forces on its border with Ukraine.
+<strong>The leaders of the G7</strong>, a group of rich democracies, pledged their “undeterred and steadfast” financial and military support for <strong>Ukraine</strong> at an emergency meeting a day after a barrage of [Russian missiles](https://www.economist.com/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine) rained down on Ukrainian cities. In a joint statement the group warned of “severe consequences” if Russia were to deploy chemical, biological or nuclear weapons. Meanwhile NATO’s secretary-general, Jens Stoltenberg, said his organisation was “not seeing any changes” in Russia’s nuclear posture.
 
 The <strong>IMF</strong> downgraded its forecast for <strong>global economic growth </strong>next year by 0.2 percentage points, to 2.7%. Blaming efforts to manage [soaring inflation](https://www.economist.com/leaders/2022/09/29/markets-are-reeling-from-higher-rates-the-world-economy-is-next), [Russia’s war in Ukraine](https://www.economist.com/graphic-detail/2022/08/04/by-how-much-will-the-war-in-ukraine-reduce-global-growth) and [China’s slowdown](https://www.economist.com/finance-and-economics/2022/09/20/chinas-rulers-seem-resigned-to-a-slowing-economy), a report warned that a third of the global economy may tip into recession by next year. The forecast for 3.2% growth in 2022 remained unchanged.
 
@@ -68,7 +68,7 @@ Last year 10,000 of Mr Hirst’s paintings featuring colourful enamel spots, mad
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="beefcbd7c4fbcdceccdbcdcdd1fedbddd1d0d1d3d7cdca90ddd1d3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7a2b0f13003f090a081f0909153a1f191514151713090e54191517">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which character is coach to Adonis Creed, in the boxing films “Creed” and “Creed II”?  
   
