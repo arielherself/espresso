@@ -16,17 +16,17 @@ Defence ministers from more than 50 countries are meeting at a <strong>NATO</str
 
 The <strong>Bank of England</strong> confirmed that its emergency bond-buying scheme, aimed at helping troubled pension funds following the [British government’s](https://www.economist.com/leaders/2022/10/11/liz-truss-has-made-britain-a-riskier-bet-for-bond-investors) chaotic [mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically), would end on Friday, as planned. The bank’s assurance came after a report in the <em>Financial Times</em> had indicated a possible extension, contradicting comments made by Andrew Bailey, the bank’s governor. The pound once again tumbled against the dollar, and yields on British 30-year bonds surged.
 
+President <strong>Joe Biden</strong> named <strong>China </strong>as America’s “most consequential geopolitical challenge” in his first National Security Strategy. The document, a high-level plan for keeping America safe that is required of each new administration, was due last year but delayed as [Russia amassed troops on its border with Ukraine](https://www.economist.com/europe/2022/10/11/how-the-west-is-helping-ukraine-beat-russias-missiles). Mr Biden also highlighted the importance of “restraining” Russia while strengthening America’s alliances and democratic institutions.
+
+A jury in Connecticut ordered <strong>Alex Jones</strong>, a right-wing conspiracy theorist, to pay $965m in damages for claiming that the <strong>Sandy Hook school massacre</strong> was a [hoax](https://www.economist.com/culture/2022/03/19/sandy-hook-was-a-turning-point-in-americas-battle-over-truth). Family members of eight victims and an FBI agent who responded to the shooting had sued Mr Jones for defamation. It was the second of three such trials—at an [earlier one](https://www.economist.com/united-states/2022/08/05/the-alex-jones-defamation-case-was-less-about-the-money-than-the-truth) Mr Jones was ordered to pay nearly $50m.
+
+Listen to an abridged version of the subscriber-only briefing.
+
 <strong>Germany</strong> said it expected its economy to slip into recession next year, slashing forecasts from 2.5% growth to a 0.4% contraction. Robert Habeck, the economy minister, said the reversal was caused by inflation, supply chain woes and a worsening energy crunch, to which Europe’s largest economy is among those [most exposed](https://www.economist.com/graphic-detail/2022/10/11/the-countries-most-at-risk-from-europes-energy-crunch).
 
 <strong>French refinery workers</strong> voted to continue their strike for pay rises despite the [government](https://www.economist.com/europe/2022/09/29/france-unveils-a-stable-budget-for-2023) threatening to step in if unions and oil companies cannot reach agreement. Stoppages and blockades, now in their third week, have paralysed six of France’s seven refineries and led to <strong>fuel shortages</strong> at nearly a third of the country’s petrol stations.
 
-Listen to an abridged version of the subscriber-only briefing.
-
 <strong>Russia’s</strong> security service said it had detained eight people in connection with an explosion on Saturday on [Kerch bridge](https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia), which connects occupied Crimea to Russia. Russia says the attack was organised by Ukrainian military intelligence; the arrests were of five Russians and three others from Ukraine and Armenia. Ukraine, which has not taken credit for the strike, dismissed the investigation as “nonsense”.
-
-Vladimir Putin, Russia’s president, said the damaged <strong>Nord Stream pipelines</strong> could be repaired in order to supply gas to Europe, but only if their operation was “economically viable”. In late September the two Baltic pipelines were damaged in [suspected acts of sabotage](https://www.economist.com/the-economist-explains/2022/09/29/how-does-underwater-sabotage-work), probably by Russia. On Wednesday the Polish operator of the <strong>Druzhba</strong> pipeline, which carries oil from Russia to Europe, reported a new leak but said it was likely to have been caused by an accident.
-
-<strong>America’s </strong>Supreme Court declined to assess whether fetuses count as legal “persons” by turning away an appeal to a ruling made in Rhode Island in May. In that case, two pregnant women tried to bring claims on behalf of their unborn children against the law that codified abortion rights in the state. Such [fetal “personhood” cases](https://www.economist.com/united-states/2022/07/07/a-push-to-recognise-the-rights-of-the-unborn-is-growing-in-america) are expected to increase.
 
 <strong>Fact of the day: </strong>49.7%, the estimated share of German companies that cannot secure enough skilled workers, up from 30% in 2019. [Read the full story](https://www.economist.com/europe/2022/10/06/there-are-not-enough-germans-to-do-the-jobs-germany-needs).
 
@@ -70,7 +70,7 @@ Allowing such appropriation, Ms Goldsmith says, amounts to “all copying, no ri
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4e1f3b27340b3d3e3c2b3d3d210e2b2d21202123273d3a602d2123">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which Motown singer was backed by the Miracles?
 
