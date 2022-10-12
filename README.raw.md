@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The <strong>Bank of England</strong> confirmed that its emergency bond-buying scheme, aimed at helping troubled pension funds following the [British government’s](https://www.economist.com/leaders/2022/10/11/liz-truss-has-made-britain-a-riskier-bet-for-bond-investors) chaotic [mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically), would end on Friday, as planned. The bank’s assurance came after a report in the <em>Financial Times</em> had indicated a possible extension, contradicting comments made by Andrew Bailey, the bank’s governor. The pound once again tumbled against the dollar, and yields on British 30-year bonds surged.
-
 Defence ministers from more than 50 countries are meeting at a <strong>NATO</strong> summit in Brussels to discuss providing more military aid to Ukraine after a [brutal Russian bombardment](https://www.economist.com/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine) on Monday. On Tuesday the G7, a group of rich democracies, pledged their “financial, humanitarian, military, diplomatic and legal support” to Ukraine “for as long as it takes”.
+
+The <strong>Bank of England</strong> confirmed that its emergency bond-buying scheme, aimed at helping troubled pension funds following the [British government’s](https://www.economist.com/leaders/2022/10/11/liz-truss-has-made-britain-a-riskier-bet-for-bond-investors) chaotic [mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically), would end on Friday, as planned. The bank’s assurance came after a report in the <em>Financial Times</em> had indicated a possible extension, contradicting comments made by Andrew Bailey, the bank’s governor. The pound once again tumbled against the dollar, and yields on British 30-year bonds surged.
 
 <strong>Germany</strong> said it expected its economy to slip into recession next year, slashing forecasts from 2.5% growth to a 0.4% contraction. Robert Habeck, the economy minister, said the reversal was caused by inflation, supply chain woes and a worsening energy crunch, to which Europe’s largest economy is among those [most exposed](https://www.economist.com/graphic-detail/2022/10/11/the-countries-most-at-risk-from-europes-energy-crunch).
 
@@ -70,7 +70,7 @@ Allowing such appropriation, Ms Goldsmith says, amounts to “all copying, no ri
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="207155495a655350524553534f6045434f4e4f4d4953540e434f4d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6c3d190516291f1c1e091f1f032c090f03020301051f18420f0301">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which Motown singer was backed by the Miracles?
 
