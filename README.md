@@ -26,7 +26,7 @@ A jury in New York convicted the founder and former boss of <strong>Nikola</stro
 
 Worries about the direction of <strong>Italy’s</strong> new hard-right [coalition government](https://te.arielherself.xyz/europe/2022/09/15/italys-probable-next-government-contains-many-tensions) deepened after Lorenzo Fontana was elected the new speaker of the lower house of Italy’s parliament. The MP from the Northern League is known for his eurosceptic views and admiration for Russia’s president, Vladimir Putin. On Wednesday a politician who collects fasicst memorabilia was elected president of the senate.
 
-Amid rising tensions on the <strong>Korean peninsula</strong> the north fired a short-range ballistic missile off its east coast, the latest in a series of [such launches](https://te.arielherself.xyz/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal). The country also buzzed the heavily militarised border with the south with fighter jets and fired 170 artillery rounds into the “sea buffer” zones off the coast. South Korean president Yoon Suk-yeol denounced the “provocations”.
+Amid rising tensions on the <strong>Korean peninsula</strong> the north fired a short-range ballistic missile off its east coast, the latest in a series of [such launches](https://te.arielherself.xyz/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal). The country also buzzed the heavily militarised border with the south with fighter jets and fired 170 artillery rounds into the “sea buffer” zones off the coast. South Korea’s president, Yoon Suk-yeol, denounced the “provocations”.
 
 <strong>Fact of the day:</strong> 1,982 tonnes, an estimate for the record-breaking quantity of cocaine produced in 2020. [Read the full story](https://te.arielherself.xyz/leaders/2022/10/12/joe-biden-is-too-timid-it-is-time-to-legalise-cocaine).
 
@@ -70,7 +70,7 @@ A Himalayan race to raise awareness of climate change is under way in Bhutan. Fo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c392b6aab986b0b3b1a6b0b0ac83a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which actress, star of the Jurassic World franchise, is the daughter of a famous film director?  
   
