@@ -22,11 +22,11 @@ Worries about the direction of <strong>Italy’s</strong> new hard-right [coalit
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Kroger</strong>, America’s largest grocery chain by market share, said it would buy <strong>Albertsons</strong>, the second-largest, for $24.6bn. Together the two would account for 13% of [grocery sales](https://te.arielherself.xyz/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores); only Walmart commands a bigger market slice, at 22%. But that is assuming the deal goes through: trustbusters at the Federal Trade Commission may try to block the deal.
+
 All nine members of the House committee [investigating the attack](https://te.arielherself.xyz/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump) of <strong>January 6th 2021</strong> on America’s Capitol voted to subpoena<strong> Donald Trump</strong>. The former president is “required to answer for his actions”, said Bennie Thompson, the chairman. But Mr Trump will probably not comply. Separately, the Supreme Court denied Mr Trump’s request to secure access to classified documents seized from his estate in Florida.
 
 Amid rising tensions on the <strong>Korean peninsula</strong> the north fired a short-range ballistic missile off its east coast, the latest in a series of [such launches](https://te.arielherself.xyz/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal). The country also buzzed the heavily militarised border with the south with fighter jets and fired 170 artillery rounds into the “sea buffer” zones off the coast. South Korean president Yoon Suk-yeol denounced the “provocations”.
-
-A jury in Florida sentenced the culprit in the <strong>Parkland shooting</strong> of 2018 to life in prison without the chance of parole. Nikolas Cruz pled guilty last October to the premeditated murder of 14 students and three teachers in Florida. It was the [deadliest school shooting](https://te.arielherself.xyz/democracy-in-america/2019/02/13/a-year-after-the-massacre-of-14-high-school-students-what-has-changed) in America to go to trial. On the day of the sentencing an unrelated mass shooting in Raleigh, North Carolina took at least five lives.
 
 <strong>Fact of the day:</strong> 1,982 tonnes, an estimate for the record-breaking quantity of cocaine produced in 2020. [Read the full story](https://te.arielherself.xyz/leaders/2022/10/12/joe-biden-is-too-timid-it-is-time-to-legalise-cocaine).
 
@@ -70,7 +70,7 @@ A Himalayan race to raise awareness of climate change is under way in Bhutan. Fo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f2a3879b88b78182809781819db297919d9c9d9f9b8186dc919d9f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b7e6c2decdf2c4c7c5d2c4c4d8f7d2d4d8d9d8dadec4c399d4d8da">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which actress, star of the Jurassic World franchise, is the daughter of a famous film director?  
   
