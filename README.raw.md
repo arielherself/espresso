@@ -12,81 +12,107 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Jeremy Hunt</strong>, a former foreign minister, has been appointed Britain’s fourth chancellor of the exchequer this year. He replaces <strong>Kwasi Kwarteng</strong>, the [second shortest-serving finance minister](https://www.economist.com/the-economist-explains/2022/10/14/kwasi-kwartengs-tenure-as-britains-chancellor-wasnt-the-shortest) on record, who was sacked after his chaotic [mini-budget](https://www.economist.com/britain/2022/09/27/the-fallout-from-kwasi-kwartengs-mini-budget-continues) unleashed financial and political turmoil in late September. <strong>Liz Truss</strong>, the prime minister, announced another humiliating U-turn, abandoning plans to scrap a proposed increase in corporation tax. It remains to be seen whether the latest measure will appease markets concerned about the rest of Ms Truss’s unfunded tax cuts.
+Jeremy Hunt, Britain’s new chancellor of the exchequer, said taxes would have to rise and public spending would be cut. Mr Hunt was appointed on Friday to reassure investors after Liz Truss, the [hapless prime minister](https://www.economist.com/britain/2022/10/14/liz-truss-has-lost-her-chancellor-signature-tax-cut-and-authority), had sacked his predecessor [Kwasi Kwarteng](https://www.economist.com/the-economist-explains/2022/10/14/kwasi-kwartengs-tenure-as-britains-chancellor-wasnt-the-shortest). It remains to be seen whether Mr Hunt’s intervention—which amounts to a repudiation of his boss’s political programme—will calm the jittery gilt markets. On Friday Ms Truss abandoned plans to scrap a corporation-tax rise. But yields rose over concerns she had not gone far enough. Conservative MPs are now deciding whether to defenestrate yet another prime minister—one who was only appointed in September.
 
-<strong>Elon Musk</strong>, the world’s richest man, said his satellite-internet company, <strong>Starlink</strong>, could not “indefinitely” fund the service in <strong>Ukraine</strong>. Most of its [20,000 terminals](https://www.economist.com/briefing/2022/10/06/elon-musks-foray-into-geopolitics-has-ukraine-worried) in the country have been paid for by Western governments, but Mr Musk has contributed by waiving monthly fees. But the capricious billionaire’s relations with Ukraine have soured after his recent tweet appeared to mirror the Kremlin’s talking points.
+<strong>Vladimir Putin </strong>said a drive to mobilise troops for his war in Ukraine would probably end within two weeks. Russia’s president said around 220,000 people have been drafted—fewer than the number who have [fled the country](https://www.economist.com/leaders/2022/09/30/europeans-should-welcome-russian-draft-dodgers) to dodge the draft. Meanwhile the <strong>Pentagon </strong>approved a further $725m in military aid for Ukraine. Among other things, the new package will replenish ammunition supplies for the HIMARS rocket systems that have helped Ukrainian forces [wreak havoc](https://www.economist.com/europe/2022/07/13/ukraines-new-rockets-are-wreaking-havoc-on-russias-army) on Russian troops.
 
-A <strong>Maltese</strong> court sentenced two brothers to 40 years’ imprisonment each for the murder of <strong>Daphne Caruana Galizia</strong>, an investigative journalist [killed by a car bomb](https://www.economist.com/1843/2019/12/11/the-prime-minister-and-the-murdered-journalist-inside-malta-a-nation-on-the-brink) in 2017. Alfred and George Degiorgio had pled not guilty, but later admitted involvement in exchange for a more lenient punishment. Four men have confessed to partaking in the murder. The alleged plotter is still awaiting trial.
+An <strong>explosion</strong> at a coal mine in northern <strong>Turkey</strong> killed at least 28 people. Rescuers have so far evacuated 11 miners, but dozens remain trapped underground. Turkey’s energy minister, Fatih Donmez, said the blast may have been triggered by firedamp, a flammable gas found in some coal mines. President Recep Tayyip Erdogan announced plans to visit the site.
 
-<strong>Kroger</strong>, America’s largest grocery chain by market share, said it would buy <strong>Albertsons</strong>, the second-largest, for $24.6bn. Together the two would account for 13% of [grocery sales](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores); only Walmart commands a bigger market slice, at 22%. But that is assuming the deal goes through: trustbusters at the Federal Trade Commission may try to block the deal.
+<strong>Elon Musk</strong> warned that his satellite-internet company, <strong>Starlink</strong>, could not “indefinitely” fund the service in <strong>Ukraine</strong>. The Pentagon hinted that it was considering stepping in to help. Most of the [20,000 Starlink terminals](https://www.economist.com/briefing/2022/10/06/elon-musks-foray-into-geopolitics-has-ukraine-worried) in the country have been paid for by Western governments; Mr Musk has contributed by waiving monthly fees. But the capricious billionaire’s relations with Ukraine have soured after suggestions he has cosied up to the Kremlin.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-A jury in New York convicted the founder and former boss of <strong>Nikola</strong>, an American [electric-vehicle startup](https://www.economist.com/business/2020/09/17/can-nikola-become-the-next-tesla), of <strong>defrauding investors</strong>. Prosecutors alleged that Trevor Milton made false statements about Nikola’s technology by claiming, for example, that an inoperable prototype was fully functional. Mr Milton, they said, took advantage of the fact that Nikola went public through a special-purpose acquisition company. Traditional IPOs have stricter disclosure rules.
+The UN warned that around half of <strong>Haiti’s </strong>population of 9.9m are at risk of <strong>acute hunger</strong>. Almost 20,000 people face famine. Many live in slums controlled by violent criminals. The crisis in Haiti has reached boiling point in the past month; last week the government asked the UN for armed help to tackle the gangs.
 
-Worries about the direction of <strong>Italy’s</strong> new hard-right [coalition government](https://www.economist.com/europe/2022/09/15/italys-probable-next-government-contains-many-tensions) deepened after Lorenzo Fontana was elected the new speaker of the lower house of Italy’s parliament. The MP from the Northern League is known for his eurosceptic views and admiration for Russia’s president, Vladimir Putin. On Wednesday a politician who collects fasicst memorabilia was elected president of the senate.
+A jury in New York convicted the founder and former boss of <strong>Nikola</strong>, an American [electric-vehicle start-up](https://www.economist.com/business/2020/09/17/can-nikola-become-the-next-tesla), of <strong>defrauding investors</strong>. Prosecutors alleged that Trevor Milton made false statements about Nikola’s technology by claiming, for example, that an inoperable prototype was fully functional. Mr Milton, they said, took advantage of the fact that Nikola went public through a special-purpose acquisition company. Traditional IPOs have stricter disclosure rules.
 
-Amid rising tensions on the <strong>Korean peninsula</strong> the north fired a short-range ballistic missile off its east coast, the latest in a series of [such launches](https://www.economist.com/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal). The country also buzzed the heavily militarised border with the south with fighter jets and fired 170 artillery rounds into the “sea buffer” zones off the coast. South Korea’s president, Yoon Suk-yeol, denounced the “provocations”.
+<strong>Rupert Murdoch</strong> is investigating whether to re-unite the two arms of his media empire. Fox Corp, which houses most of the 91-year-old magnate’s broadcast channels, and News Corp, home to newspapers including the <em>Times</em> and <em>Wall Street Journal</em>, were spun into separate companies a decade or so ago. The <em>WSJ</em> reports that committees have been formed in both boardrooms to discuss a recoupling.
 
-<strong>Fact of the day:</strong> 1,982 tonnes, an estimate for the record-breaking quantity of cocaine produced in 2020. [Read the full story](https://www.economist.com/leaders/2022/10/12/joe-biden-is-too-timid-it-is-time-to-legalise-cocaine).
+<strong>Word of the week</strong><strong>: </strong><em>siloviki</em>, Russia’s privileged securocrats. [Read the full story](https://www.economist.com/europe/2022/10/09/the-war-in-ukraine-has-battered-the-reputation-of-russian-spies).
 
 ----------
 
-## Wall Street banks report
+## Russia on the back foot in Ukraine
 
-Banks are unusual companies.[ Rising interest rates](https://www.economist.com/finance-and-economics/2022/09/29/global-rate-rises-are-happening-on-an-unprecedented-scale) and slowing growth are a double-whammy for other firms, driving up costs and hurting revenues. But higher rates are a boon for banks, who make money on the spread they can charge between the cost of borrowing funds and lending them out (called net interest income, or NII). This swells with higher interest rates.
+Ukrainian cities are still reeling from the [barrage of Russian missiles](https://www.economist.com/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine) that destroyed civilian infrastructure across the country at the start of the week. But for the soldiers on the ground, there is no rest. Russian mercenaries from the [Wagner group](https://www.economist.com/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group) have continued their slow, grinding advance on the city of Bakhmut in Donetsk province, in Ukraine’s east. 
 
-But there are also costs to higher rates. They will eventually hurt borrowers and slow growth. That will also cause loan losses to rise, which banks must account for by setting aside buffers. JPM set aside $808m this quarter.[ Investment banking](https://www.economist.com/finance-and-economics/2022/09/28/investment-banks-are-sharpening-the-axe) activity—like mergers and acquisitions or IPOs—is still dormant as higher rates undermine valuations. Investment banking revenues dropped 55% on the year at Morgan Stanley. Still, for the big banks, like JP Morgan Chase and Wells Fargo, higher NII appears to have more than offset sluggishness elsewhere in the banking business. Revenues climbed 10% on the year at JPM, for example, helping it beat expectations and earn $3.12 a share, around 15% higher than in the first two quarters of the year.
+But Russia is on the back foot everywhere else. In Luhansk province, also in eastern Ukraine, Russian troops are digging in, anticipating a Ukrainian attack towards Svatove, part of Russia’s new defensive line. Russia’s position is even shakier in the south. [Ukraine continues to advance](https://www.economist.com/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield) towards a reported 20,000 Russian soldiers on the west bank of the Dnieper river near Kherson city. Their position looks extremely fragile. Vladimir Saldo, the head of Russia’s puppet regime in Kherson, has asked for Russia’s help in evacuating residents from the area. “We know that Russia doesn’t abandon its own,” he said earlier this week, plaintively.
 
-## Georgia’s Senate candidates debate
+## China’s largest trade expo opens—online
 
-A highly anticipated debate between the two candidates for a [Senate seat in Georgia](https://www.economist.com/united-states/2022/10/13/georgias-races-suggest-good-candidates-can-beat-partisan-reflexes) will take place on Friday. Raphael Warnock, the Democratic incumbent and a reverend, has long been keen to contrast his oratorical skills with Herschel Walker, a Republican former American footballer who is a singularly untalented communicator. Mr Walker, who tried for months to shirk the debate, is mired in several scandals. The latest, in which he reportedly paid for an ex-girlfriend’s abortion despite his avowedly pro-life stance, has rocked the campaign.  
-  
- The race for governor of Georgia, though, looks good for the Republicans, with Brian Kemp leading [Stacey Abrams](https://www.economist.com/by-invitation/2022/10/10/a-conversation-with-stacey-abrams) in the polls. That the [Senate race favours Mr Warnock](https://www.economist.com/interactive/us-midterms-2022/forecast/senate/georgia) is a reflection of his abilities as a politician but also of his exceptionally weak opponent. Overall control of the Senate after the November 8th midterms may be decided by the good people of Georgia—and thus the poor nomination decisions of its state Republican Party. 
+The twice-yearly Canton Fair, China’s [largest trade show](https://www.economist.com/finance-and-economics/2018/11/03/china-hopes-a-big-new-expo-will-fix-its-reputation-for-protectionism), began in the 1950s. It was held during China’s Great Famine and its Cultural Revolution. (Mao badges were then a hot commodity.) Even when the SARS epidemic struck in 2003, the show went on. But since the arrival of covid-19, the fair has moved online. 
 
-<em>For more about the midterms and the race to control Congress</em><em>, explore </em>[<em>our model</em>](https://www.economist.com/interactive/us-midterms-2022/forecast/senate)<em>.</em>
+Over 34,000 Chinese firms are expected to show off their wares virtually in the 132nd edition, which begins on Saturday. Many suppliers will host live-stream video demonstrations of their products. Buyers may miss the “touch and feel” that were an important part of deal-making in the past. 
 
-## Haiti’s criminal chaos
+As the world economy slows, China’s trade is also [entering a difficult period](https://www.economist.com/finance-and-economics/2022/09/21/a-global-manufacturing-slowdown-suggests-worse-is-to-come). The growth of exports, which provided crucial support to China’s economy last year, has slowed sharply in recent months. Visitors to the Canton Fair will not be able to touch the products. But they will [smell the apprehension](https://www.economist.com/finance-and-economics/2022/09/20/chinas-rulers-seem-resigned-to-a-slowing-economy).
 
-The UN is considering whether to send troops to Haiti following a request last week by the government. Ariel Henry, the prime minister, has asked for a “specialised armed force” to help crack down on criminal gangs. America has sent a coastguard vessel to patrol Haitian waters, and promised more aid. But it has stopped short of committing manpower.  
-  
- Never stable, since the assassination of [Jovenel Moïse](https://www.economist.com/the-americas/2021/07/07/the-murder-of-haitis-president-will-worsen-the-countrys-chaos), the president, in July 2021, Haiti has descended into chaos. The gangs blockade fuel distribution and murder people with impunity. The new school term has been postponed. Hospitals lack supplies. Cholera has broken out. 
+## Parisians rally against rising prices
 
-Yet Mr Henry’s request is controversial. The prime minister, [installed](https://www.economist.com/the-americas/2022/02/05/foreign-aid-has-done-little-to-help-haiti) as acting president after Mr Moïse’s death, has little legitimacy and Haitians have taken to the streets calling for his resignation. And Haitians were bruised by the experience of 2004 to 2017, when soldiers participating in a UN peacekeeping mission [introduced cholera and sexually abused Haitian girls](https://www.economist.com/the-americas/2012/04/28/first-do-no-harm). For all that, Haiti’s situation is so dire that such a record may have to be overlooked.
+The French are on edge. Days of strikes at oil refineries, by workers demanding pay increases, have led to petrol shortages and long queues. Unions have called a general strike for October 18th. On Sunday demonstrators will take to the streets of Paris to protest against the rising cost of living. The march is organised by [Jean-Luc Mélenchon’s left-wing alliance](https://www.economist.com/europe/2022/05/14/a-new-alliance-boosts-the-left-ahead-of-frances-parliamentary-elections), NUPES. Some unionists have promised to join in. [Annie Ernaux](https://www.economist.com/culture/2022/10/06/annie-ernaux-wins-the-nobel-prize-in-literature-for-2022), a French novelist and winner of this year’s Nobel prize for literature, is also backing the demonstrators. Never shy of a provocative allusion, Mr Mélenchon has called on participants to “do better” than the women’s march in 1789, an early event in the French Revolution.
 
-## Burkina Faso’s putschists make a plan
+The planned show of force comes at an awkward time for President Emmanuel Macron. He is spending heavily to [tamp down energy bills](https://www.economist.com/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices). But he is also planning to raise the retirement age, an unpopular measure, after having lost his parliamentary majority. France looks set for a difficult autumn, on and off the streets.
 
-On September 30th [Burkina Faso](https://www.economist.com/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) suffered its second coup this year. Captain Ibrahim Traoré declared he was forced to take action because the strongmen who [overthrew the elected government in January](https://www.economist.com/middle-east-and-africa/2022/01/29/a-coup-in-burkina-faso-will-help-the-sahels-jihadists) were failing to stop the region’s jihadists, loosely affiliated to al-Qaeda and Islamic State, from wreaking havoc. The earlier putschists had made the same claim of the regime they usurped. 
+## The T20 World Cup
 
-As their coup-mongering predecessors did, the soldiers have convened a conference with political parties and some NGOs, which begins on Friday. In theory, its participants will draw up a transitional charter and select a transitional president. In practice, the men with guns will decide who is in charge: perhaps Captain Traoré himself will simply carry on. 
+The West Indies are the only team to win cricket’s [Twenty20 World Cup](https://www.economist.com/culture/2022/10/13/india-ought-to-win-crickets-twenty20-world-cup-but-probably-wont) twice, triumphing in 2012 in Sri Lanka and again four years later in India. That second win was particularly memorable. Needing a daunting 19 runs from their final six balls, Carlos Brathwaite hit England’s Ben Stokes into the stands for four consecutive sixes. But if the Windies are to prevail in this year’s tournament, which begins in Australia on Sunday, they will have to do it the hard way. 
 
-The last putschists promised to hand back power to civilians by July 2024. Captain Traoré has suggested he will stick to that deadline. In any case, with the army divided and jihadists poised to take advantage, events could overtake even the best laid plans.
+Their dismal showing in the previous World Cup in 2021, where they lost four of their five matches, consigned them to qualifying for this edition. To reach the main stage, they will have to finish in the top two of a group also containing Ireland, Scotland and Zimbabwe. They will be favourites, but their task has been made more difficult by the absence of star batsman Shimron Hetmyer, who was dropped from the squad after missing his flight to Australia.
 
-## A mountain race against climate change
+## Weekend Profile: Mohammed Rostami Gachi, Iran’s brutal enforcer
 
-A Himalayan race to raise awareness of climate change is under way in Bhutan. For five days until Monday, 29 elite runners will follow 206km (126 miles) of the “snowman track,” a path forged by yak herders. With an average elevation of 4,270 metres, the inaugural Snowman Race will be one of the hardest ultramarathons in the world.  
-  
- Conditions in Bhutan are also challenging. On the plus side, it is one of the world’s only carbon-negative countries: its forests absorb three times as much carbon dioxide as the mountain kingdom emits. But rising temperatures are causing havoc. Himalayan glaciers are melting fast; two-thirds may be gone by 2100. That could have devastating consequences, of the sort suffered by Pakistan when melting glaciers recently contributed to [terrible floods](https://www.economist.com/graphic-detail/2022/09/15/devastating-floods-like-pakistans-will-be-more-common-in-a-warming-world). Bhutan’s “dragon king”, Jigme Khesar Namgyel Wangchuck, is a keen conservationist. In backing the Snowman Race he hopes that others—including China and India, Bhutan’s giant, polluting neighbours—will be spurred into action.
+It was his rapid promotion that surprised many. Just a few months into his post as the police chief of Talesh, an Iranian provincial backwater, Mohammed Rostami Gachi was promoted to head the Islamic Republic’s [morality police](https://www.economist.com/the-economist-explains/2022/09/26/who-are-irans-hated-morality-police) 400km away in the capital, Tehran. Previous Iranian governments had never thought much of him. But the incoming administration of Ibraham Raisi in 2021 admired Mr Gachi’s hardline beliefs. Shortly after taking the job he declared his intention to enforce the mandatory veil for women, which had fallen loose under the pragmatist presidency of Hassan Rouhani. “Those who stubbornly remove the <em>hijab </em>are criminals,” Mr Gachi told Iran’s press.
 
-## Daily quiz
+Over the following months, he reactivated the morality police. Their men in dark green uniforms and women in black <em>chadors</em> scoured the streets hunting for infringements of [sharia](https://www.economist.com/the-economist-explains/2021/09/08/what-is-sharia-law). They broke up bands jamming in cafes. They hauled girls caught for “bad” <em>hijabs</em> away in their windowless vans and took them to facilities for “re-education”. Sometimes they [gave them a beating](https://www.economist.com/1843/2022/09/28/im-the-same-as-mahsa-and-i-want-my-freedom-anger-at-irans-regime-spills-onto-the-streets). And then, on September 13th, Mr Gachi’s men carted away 22-year-old Mahsa Amini to her [death](https://www.economist.com/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) three days later for improperly wearing the veil.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d786a2bead92a4a7a5b2a4a4b897b2b4b8b9b8babea4a3f9b4b8ba">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+The [popular ](https://www.economist.com/1843/2022/10/12/are-they-watching-our-homes-are-they-in-our-phones-a-diary-of-fear-in-tehran)protests that this sparked had, in truth, been [some time in the making](https://www.economist.com/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue). Under Mr Rouhani, Iran breathed more easily with an unwritten contract: leave the clerics to wield power and let society live as it wants. The Islamic republic shrank into an Islamic government. Mr Raisi’s determination to turn the clock back and apply sharia to an ever-more secular population tipped resentment into civil disobedience. Even before Ms Amini was killed, female students were spilling out of their segregated campus canteens into male ones. Women on buses and the metro disregarded even their token nod to a head covering. 
 
-<strong>Friday: </strong>Which actress, star of the Jurassic World franchise, is the daughter of a famous film director?  
-  
-<strong>Thursday: </strong>In the Rastafarian religion, which site is a place of peace and freedom, as opposed to Babylon, its evil alternative?
+The mullahs’ crackdown might have been easier to digest had they practised the moral strictures they preached. But while people’s incomes declined, mullahs’ sons ostentatiously combed Tehran’s highways in their Ferraris. And some questioned Mr Gachi’s standards of enforcement when it came to his own. His brother accumulated businesses in their hometown of Kermanshah. 
 
-## The winners of last week’s crossword
+As protests against Ms Amini’s death spread—costing, so far, more than 200 lives—Mr Gachi’s patrols disappeared from the streets. Western governments have imposed sanctions against him and his morality police for “spreading a culture of violence and excessive force”. For Mr Gachi, they were just spreading Islam.
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+## Weekly crossword
 
-Asia: <strong>Swar Sood</strong>, Shimla, India  
- North America:<strong> Ivan Grabowski</strong>, Westwood, United States   
- Central and South America: <strong>Sebastian Agudelo-Restrepo</strong>, Santo Domingo, Dominican Republic  
- Europe: <strong>Rasmus Jonlund</strong>, Stockholm, Sweden  
- Africa:<strong> Christine Reiter</strong>, Tunis, Tunisia
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-They all gave the correct answers of [Ouagadougou](https://www.economist.com/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso), [online](https://www.economist.com/asia/2022/10/06/the-gangs-that-kidnap-asians-and-force-them-to-commit-cyberfraud), [Dutch](https://www.economist.com/obituary/2022/10/06/brother-andrew-secretly-carried-bibles-behind-the-iron-curtain) and [uncool](https://www.economist.com/middle-east-and-africa/2022/10/06/irans-repressive-regime-is-being-rocked-by-a-song). Check back tomorrow for this week’s crossword.
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Unpopular leader ruins a menial hike (3,8)
+
+<em>1 across</em> In every other saloon unfinished puzzle is big business (6)
+
+<em>2 across</em> Mountains finally crumble into sand, top-to-bottom (5)
+
+<em>3 across </em>Without workers, we’re told, value must come from elsewhere (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>Someone being urged to heed the voices of the people (3,8)
+
+<em>1 across</em> An American giant (6)
+
+<em>2 across</em> One place where coca leaves grow (5)
+
+<em>3 across </em>Its illegal to do this with some firewood in New York State (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Masnoon Bujang</strong>, Kuching, Malaysia
+
+North America: <strong>Wendy King</strong>, Sherbrooke, Canada
+
+Central and South America: <strong>Caio Priszculnik</strong>, São Paulo, Brazil
+
+Europe: <strong>Sven Nilsson</strong>, Copenhagen, Denmark
+
+Africa: <strong>Ailsa Green</strong>, Choma, Zambia
+
+Oceania: <strong>Andrew McMenamin</strong>, Lincoln, New Zealand
+
+They all gave the correct answers of Joshua, Rocky Balboa, Smokey Robinson, Zion and Bryce Dallas Howard. The theme is US national parks: Joshua Tree, Rocky Mountain, Great Smokey Mountains, Zion and Bryce Canyon.
 
 ----------
 
