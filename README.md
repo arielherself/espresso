@@ -12,51 +12,25 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The 20th <strong>Communist Party Congress </strong>opened in Beijing with Xi Jinping pledging to “reunify” China by bringing Taiwan under the mainland’s control. He said China would “take all necessary measures” to quell “separatist movements”, by force if necessary. The Chinese president also defended his increasingly painful zero-covid policy, calling measures to contain the virus an “all out people’s war”. Despite a convention that Communist Party leaders serve a maximum of two five-year terms, [the congress](https://te.arielherself.xyz/china/2022/10/13/the-communist-party-congress-will-highlight-xi-jinpings-power) is expected to bestow Mr Xi a third.
+The 20th <strong>Communist Party congress </strong>opened in Beijing, with Xi Jinping pledging to “reunify” China by bringing Taiwan under the mainland’s control. He said China would “take all necessary measures” to quell “separatist movements”, by force if necessary. Mr Xi also defended his increasingly painful zero-covid policy, calling measures to contain the virus an “all-out people’s war”. Despite a convention that Communist Party leaders serve a maximum of two five-year terms, [the congress](https://te.arielherself.xyz/china/2022/10/13/the-communist-party-congress-will-highlight-xi-jinpings-power) is expected to bestow Mr Xi a third.
 
-Andrew Bailey, the governor of the <strong>Bank of England</strong>, said that interest rates would have to rise further than expected in light of high inflation. Investors reckon the bank could lift the base rate by as much one percentage point, from 2.25%, at its meeting in early November. Mr Bailey’s intervention followed 24 hours of market-inspired chaos in British politics. On Friday <strong>Liz Truss</strong>, the [prime minister](https://te.arielherself.xyz/britain/2022/10/14/liz-truss-has-lost-her-chancellor-signature-tax-cut-and-authority), fired [Kwasi Kwarteng](https://te.arielherself.xyz/the-economist-explains/2022/10/14/kwasi-kwartengs-tenure-as-britains-chancellor-wasnt-the-shortest), the chancellor of the exchequer, and scrapped a planned cut to corporation tax. In a further attempt to calm jittery bond markets Jeremy Hunt, Mr Kwarteng’s replacement, told British broadcasters that he would raise taxes and cut public spending.
+Britain’s new chancellor of the exchequer, <strong>Jeremy Hunt</strong>, said that the government’s growth push had gone “too far, too fast”. In a further attempt to calm jittery bond markets, [Kwasi Kwarteng](https://te.arielherself.xyz/the-economist-explains/2022/10/14/kwasi-kwartengs-tenure-as-britains-chancellor-wasnt-the-shortest)’s replacement said that he would raise taxes and cut public spending. Andrew Bailey, the governor of the <strong>Bank of England</strong>, said that interest rates would have to rise further than expected in light of high inflation.
 
-<strong>Elon Musk </strong>promised that his satellite-internet company, Starlink, would continue providing Ukraine its services for free, reversing his earlier threat that [the arrangement](https://te.arielherself.xyz/briefing/2022/10/06/elon-musks-foray-into-geopolitics-has-ukraine-worried) could not continue “indefinitely”. The billionaire tweeted that he would keep the terminals running “even though Starlink is still losing money”. Earlier the Pentagon hinted that it was considering stepping in to help.
+Evin prison, a facility used to lock away many of <strong>Iran’s</strong> dissidents, was set ablaze. The fire followed a clash between inmates—including some arrested during [ongoing anti-government protests](https://te.arielherself.xyz/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue)—and security forces. Gunshots were also heard. Iran has been gripped by almost a month of demonstrations, which erupted after the death of a 22-year-old woman detained by the morality police for showing too much hair.
 
-A pair of gunmen opened fire at a military training ground in south-western <strong>Russia</strong>, killing at least 11 people. Fifteen others were wounded. Officials called it a “terrorist attack”. The perpetrators, who were both shot dead, were nationals of an unnamed former Soviet nation. The incident highlights growing anger at Vladimir Putin’s mobilisation of Russians for his Ukraine war.
+A pair of gunmen killed at least 11 people at a military training ground in south-western <strong>Russia</strong>. Fifteen others were wounded. Officials called it a “terrorist attack”. The perpetrators, who were both shot dead, were nationals of an unnamed former Soviet nation. The incident highlights growing anger at Vladimir Putin’s mobilisation of Russians for his [war in Ukraine](https://te.arielherself.xyz/europe/2022/10/13/russias-terror-strikes-fail-to-do-much-damage-to-ukraine).
 
 Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Ukraine’s</strong> energy operator, Ukrenergo, warned of possible <strong>blackouts</strong> in Kyiv, the capital, and urged residents to use less power after Russian missiles hit energy infrastructure near the city. Meanwhile the <strong>Pentagon </strong>approved a further $725m in military aid for Ukraine. Among other things, the new package will replenish ammunition supplies for the HIMARS rocket systems that have helped Ukrainian forces [wreak havoc](https://te.arielherself.xyz/europe/2022/07/13/ukraines-new-rockets-are-wreaking-havoc-on-russias-army) on Russian troops.
 
-Evin prison, a facility used to lock away many of <strong>Iran’s</strong> political prisoners, was set ablaze. The fire followed a clash between inmates—who include those arrested during [ongoing anti-government protests](https://te.arielherself.xyz/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue)—and security forces. Gunshots were also heard. Iran has been gripped by almost a month of demonstrations, which erupted after the death of a 22-year-old woman detained by the morality police for showing too much hair. 
+<strong>Uganda</strong> imposed a three-week lockdown in two districts of its central region to contain breakouts of <strong>Ebola</strong>. Movement in and out of Mubende and Kassanda will be restricted, and dusk-till-dawn curfews have been imposed. Since Uganda’s first [recorded death](https://te.arielherself.xyz/graphic-detail/2020/05/01/covid-19-has-become-one-of-the-biggest-killers-of-2020) almost a month ago, the hemorrhagic fever, for which there is no cure, has infected 58 people and killed 19.
 
-The UN warned that around half of <strong>Haiti’s </strong>population of 9.9m are at risk of <strong>acute hunger</strong>. Almost 20,000 people face famine. Many live in slums controlled by violent criminals. The crisis in Haiti has reached boiling point in the past month; last week the government asked the UN for armed help to tackle the gangs. 
+<strong>Elon Musk </strong>promised that his satellite-internet company, Starlink, would continue providing Ukraine its services for free, reversing his earlier threat that [the arrangement](https://te.arielherself.xyz/briefing/2022/10/06/elon-musks-foray-into-geopolitics-has-ukraine-worried) could not continue “indefinitely”. The billionaire tweeted that he would keep the terminals running “even though Starlink is still losing money”. Earlier the Pentagon hinted that it was considering stepping in to help.
 
 <strong>Word of the week</strong><strong>: </strong><em>siloviki</em>, Russia’s privileged securocrats. [Read the full story](https://te.arielherself.xyz/europe/2022/10/09/the-war-in-ukraine-has-battered-the-reputation-of-russian-spies).
 
 ----------
-
-## Russia on the back foot in Ukraine
-
-Ukrainian cities are still reeling from the [barrage of Russian missiles](https://te.arielherself.xyz/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine) that destroyed civilian infrastructure across the country at the start of the week. But for the soldiers on the ground, there is no rest. Russian mercenaries from the [Wagner group](https://te.arielherself.xyz/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group) have continued their slow, grinding advance on the city of Bakhmut in Donetsk province, in Ukraine’s east. 
-
-But Russia is on the back foot everywhere else. In Luhansk province, also in eastern Ukraine, Russian troops are digging in, anticipating a Ukrainian attack towards Svatove, part of Russia’s new defensive line. Russia’s position is even shakier in the south. [Ukraine continues to advance](https://te.arielherself.xyz/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield) towards a reported 20,000 Russian soldiers on the west bank of the Dnieper river near Kherson city. Their position looks extremely fragile. Vladimir Saldo, the head of Russia’s puppet regime in Kherson, has asked for Russia’s help in evacuating residents from the area. “We know that Russia doesn’t abandon its own,” he said earlier this week, plaintively.
-
-## China’s largest trade expo opens—online
-
-The twice-yearly Canton Fair, China’s [largest trade show](https://te.arielherself.xyz/finance-and-economics/2018/11/03/china-hopes-a-big-new-expo-will-fix-its-reputation-for-protectionism), began in the 1950s. It was held during China’s Great Famine and its Cultural Revolution. (Mao badges were then a hot commodity.) Even when the SARS epidemic struck in 2003, the show went on. But since the arrival of covid-19, the fair has moved online. 
-
-Over 34,000 Chinese firms are expected to show off their wares virtually in the 132nd edition, which begins on Saturday. Many suppliers will host live-stream video demonstrations of their products. Buyers may miss the “touch and feel” that were an important part of deal-making in the past. 
-
-As the world economy slows, China’s trade is also [entering a difficult period](https://te.arielherself.xyz/finance-and-economics/2022/09/21/a-global-manufacturing-slowdown-suggests-worse-is-to-come). The growth of exports, which provided crucial support to China’s economy last year, has slowed sharply in recent months. Visitors to the Canton Fair will not be able to touch the products. But they will [smell the apprehension](https://te.arielherself.xyz/finance-and-economics/2022/09/20/chinas-rulers-seem-resigned-to-a-slowing-economy).
-
-## Parisians rally against rising prices
-
-The French are on edge. Days of strikes at oil refineries, by workers demanding pay increases, have led to petrol shortages and long queues. Unions have called a general strike for October 18th. On Sunday demonstrators will take to the streets of Paris to protest against the rising cost of living. The march is organised by [Jean-Luc Mélenchon’s left-wing alliance](https://te.arielherself.xyz/europe/2022/05/14/a-new-alliance-boosts-the-left-ahead-of-frances-parliamentary-elections), NUPES. Some unionists have promised to join in. [Annie Ernaux](https://te.arielherself.xyz/culture/2022/10/06/annie-ernaux-wins-the-nobel-prize-in-literature-for-2022), a French novelist and winner of this year’s Nobel prize for literature, is also backing the demonstrators. Never shy of a provocative allusion, Mr Mélenchon has called on participants to “do better” than the women’s march in 1789, an early event in the French Revolution.
-
-The planned show of force comes at an awkward time for President Emmanuel Macron. He is spending heavily to [tamp down energy bills](https://te.arielherself.xyz/europe/2022/09/05/europe-scrambles-to-protect-citizens-from-sky-high-energy-prices). But he is also planning to raise the retirement age, an unpopular measure, after having lost his parliamentary majority. France looks set for a difficult autumn, on and off the streets.
-
-## The T20 World Cup
-
-The West Indies are the only team to win cricket’s [Twenty20 World Cup](https://te.arielherself.xyz/culture/2022/10/13/india-ought-to-win-crickets-twenty20-world-cup-but-probably-wont) twice, triumphing in 2012 in Sri Lanka and again four years later in India. That second win was particularly memorable. Needing a daunting 19 runs from their final six balls, Carlos Brathwaite hit England’s Ben Stokes into the stands for four consecutive sixes. But if the Windies are to prevail in this year’s tournament, which begins in Australia on Sunday, they will have to do it the hard way. 
-
-Their dismal showing in the previous World Cup in 2021, where they lost four of their five matches, consigned them to qualifying for this edition. To reach the main stage, they will have to finish in the top two of a group also containing Ireland, Scotland and Zimbabwe. They will be favourites, but their task has been made more difficult by the absence of star batsman Shimron Hetmyer, who was dropped from the squad after missing his flight to Australia.
 
 ## Weekend Profile: Mohammed Rostami Gachi, Iran’s brutal enforcer
 
@@ -96,6 +70,12 @@ Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://
 
 <em>3 across </em>Its illegal to do this with some firewood in New York State (6)
 
+## Global hunger on the rise
+
+On Sunday millions of people around the world gather at marches, marathons and concerts to observe the UN’s World Food Day. But the mood is sour. [Global grain prices](https://te.arielherself.xyz/leaders/2022/05/19/the-coming-food-catastrophe), which fell over the summer, have climbed back to where they were soon after Russia invaded Ukraine. A stronger dollar, and weak economic growth, have squeezed household and government budgets. The World Food Programme reckons a record 345m people are facing acute [food insecurity](https://te.arielherself.xyz/graphic-detail/2022/03/09/progress-to-eradicate-global-hunger-is-stalling), up from 193m in 2021.
+
+A longer-term difficulty is that food supply may fall far short of demand. The bumper crop—including Russia’s record wheat harvest—that stopped this year from becoming a catastrophe, are unlikely to be repeated. Farmers skimping on expensive fertilisers may also dampen yields. A UN-brokered deal under which Russia has allowed grain exports from Ukrainian ports expires in November, and its extension is uncertain. The seeds of disaster are being sown.
+
 ## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
@@ -113,6 +93,26 @@ Africa: <strong>Ailsa Green</strong>, Choma, Zambia
 Oceania: <strong>Andrew McMenamin</strong>, Lincoln, New Zealand
 
 They all gave the correct answers of Joshua, Rocky Balboa, Smokey Robinson, Zion and Bryce Dallas Howard. The theme is US national parks: Joshua Tree, Rocky Mountain, Great Smokey Mountains, Zion and Bryce Canyon.
+
+## Putin sparks new energy into CND
+
+The Campaign for Nuclear Disarmament, a British lobby group, was formed in the early years of the cold war. Its emblem has become a visual byword for peace. The CND’s membership peaked at 110,000, in 1985, and has since fallen to around 30,000. But Kate Hudson, its general secretary, says its ranks are now growing again as [Vladimir Putin’s war](https://te.arielherself.xyz/leaders/2022/06/02/a-new-nuclear-era) makes a new generation concerned about [nuclear threats](https://te.arielherself.xyz/international/2022/09/29/could-the-war-in-ukraine-go-nuclear).
+
+On Sunday the CND will march on Menwith Hill, a British and American intelligence base in Yorkshire. Such gatherings are a staple of the movement. In the 1980s campaigners fought to remove American cruise missiles from RAF Greenham Common in Berkshire. Now the CND is protesting against the return of NATO nukes to an American base at RAF Lakenheath in Suffolk. Members believe that the risk of [nuclear war](https://te.arielherself.xyz/briefing/2015/03/07/the-unkicked-addiction) is higher than it has ever been.
+
+## LeBron James’s ultimate slam dunk
+
+When [Kareem Abdul-Jabbar](https://te.arielherself.xyz/united-states/2017/12/19/kareem-abdul-jabbar-a-brooding-sportsman-sage) retired from the NBA in 1989, he held the record for the highest number of points scored in a career. Mr Abdul-Jabbar racked up 38,387 points across 20 seasons, 14 of them at the Los Angeles Lakers. But, barring injury or an inexplicable drop in form, his record will soon be broken. As of Sunday, the start of the 2022-23 season, [LeBron James](https://te.arielherself.xyz/game-theory/2016/06/20/wait-your-turn-steph-lebron-james-proves-he-is-still-the-king), who also plays for the Lakers, is only 1,325 points behind.
+
+Todd Whitehead of Synergy Sports, a basketball analytics company, has calculated the cumulative chance of Mr James breaking Mr Abdul-Jabbar’s record in each regular-season match, based on his participation and scoring rates over the past three seasons. His percentage chances reach double digits on February 23rd, when the Lakers host the Golden State Warriors. His odds then rise quickly: to 35% against the Minnesota Timberwolves on March 3rd, and to 50% against the Memphis Grizzlies four days later. By the end of the season in April, it’s virtually a slam dunk. Arise, King James.
+
+## A showcase of Xi Jinping’s power
+
+The five-yearly congress of China’s Communist Party opened today. Not since the time of Mao Zedong has a congress been so clearly aimed at emphasising the [power of a single leader](https://te.arielherself.xyz/special-report/2022/10/10/china-wants-to-change-or-break-a-world-order-set-by-others). The week-long session, [meticulously stage-managed](https://te.arielherself.xyz/leaders/2022/10/13/an-obsession-with-control-is-making-china-weaker-but-more-dangerous), will make the case that only [Xi Jinping](https://te.arielherself.xyz/theprincepod) can lead China towards its goal of “great rejuvenation”.
+
+Mr Xi kicked things off with a two-hour speech. He portrayed his “[zero-covid policy](https://te.arielherself.xyz/china/2022/10/13/china-shows-few-signs-of-loosening-its-zero-covid-policy)” as an achievement, a signal that draconian restrictions would continue, even as the [economy sputters](https://te.arielherself.xyz/china/2022/08/18/chinas-economy-is-beset-by-problems). He reiterated his desire for peaceful unification with [Taiwan](https://te.arielherself.xyz/special-report/2022/10/10/china-has-chilling-plans-for-governing-taiwan), but did not rule out the use of force. “The helmsman”, as Mr Xi is sometimes called, warned of “high winds, choppy waters and even dangerous storms” ahead.
+
+By convention Mr Xi, having served two five-year terms, should retire. But there is no doubt he will remain party chief when the new Politburo is revealed on the day after the congress. And don’t expect to see an obvious successor in the mix.
 
 ----------
 
