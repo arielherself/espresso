@@ -22,7 +22,7 @@ America’s justice department recommended that<strong> Steve Bannon</strong> be
 
 Listen to an abridged version of the subscriber-only briefing.
 
-David Solomon, the head of <strong>Goldman Sachs</strong>, is set to announce a major restructuring that will consolidate the bank into three main divisions. The asset and wealth management businesses will combine, as will the trading and investment teams. The bank’s unprofitable consumer unit will be broken-up, creating a standalone subsection dealing with corporate partners. These changes mark the company’s third reorganisation in four years, and a retreat from Mr Solomon’s signature project of expanding into direct-to-consumer banking.
+<strong>Shehan Karunatilaka</strong>, a Sri Lankan writer, won the <strong>Booker prize</strong> for his novel “[The Seven Moons of Maali Almeida](https://te.arielherself.xyz/culture/2022/08/18/shehan-karunatilaka-returns-with-another-thrilling-satire)”. A biting satire set during the Sri Lankan civil war, the book follows a gay, gambling-addicted photojournalist trying to make sense of his own murder. The committee said it “dissolves the boundaries not just of different genres, but of life and death, body and spirit, east and west”.
 
 The<strong> Swedish parliament</strong> voted for Moderate Party leader <strong>Ulf Kristersson</strong> to become their next prime minister. He will lead a right-wing bloc supported by the Sweden Democrats, a [populist party](https://te.arielherself.xyz/europe/2022/09/15/demonising-nationalist-parties-has-not-stemmed-their-rise-in-europe). While the far-right party will not have any seats in cabinet, they have negotiated major changes in government policy, including a cut to Sweden’s refugee quota.
 
@@ -70,7 +70,7 @@ Quietly and succinctly—at 116 pages, hers is the shortest book ever shortliste
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="df8eaab6a59aacafadbaacacb09fbabcb0b1b0b2b6acabf1bcb0b2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3b6a4e52417e484b495e4848547b5e585455545652484f15585456">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which credit card used the slogan “Don’t Leave Home Without It”?
 
