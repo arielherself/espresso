@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Jeremy Hunt, <strong>Britain’s</strong> new chancellor of the exchequer, reversed almost all the remaining tax measures made in his predecessor’s “[mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically)” three weeks ago. The basic rate of tax will remain at 20% indefinitely and the scope of a cap on the price of energy will now be reviewed next April. Mr Hunt went further with this U-turn than even the markets had been expecting. The <strong>pound </strong>rose on the news. These measures signal the end of the prime minister’s signature economic policies, leaving Liz Truss in a perilous political position.
-
 Several EU foreign ministers called for fresh sanctions against<strong> Iran</strong> over its transfer of “kamikaze” drones to <strong>Russia</strong>. Russian forces are believed to have used 28 Iranian-made Shahed-136 drones to attack Kyiv, Ukraine’s capital, on Monday, killing at least four people. Separately, a Russian fighter plane crashed into a residential building in the southern Russian city of Yeysk after suffering engine failure, also four dead.
+
+Jeremy Hunt, <strong>Britain’s</strong> new chancellor of the exchequer, reversed almost all the remaining tax measures made in his predecessor’s “[mini-budget](https://www.economist.com/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically)” three weeks ago. The basic rate of tax will remain at 20% indefinitely and the scope of a cap on the price of energy will now be reviewed next April. These measures signal the end of the prime minister’s signature economic policies, leaving Liz Truss in a perilous political position.
 
 America’s justice department recommended that<strong> Steve Bannon</strong> be ordered to serve six months in prison and pay a $200,000 fine when he is sentenced by a judge on Friday. In July the former adviser to Donald Trump was convicted of contempt of Congress for ignoring subpoenas from the [January 6th committee](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity). “His noncompliance has been complete and unremitting”, prosecutors wrote.
 
@@ -70,7 +70,7 @@ Quietly and succinctly—at 116 pages, hers is the shortest book ever shortliste
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1243677b68576162607761617d5277717d7c7d7f7b61663c717d7f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5504203c2f102625273026263a1530363a3b3a383c26217b363a38">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which credit card used the slogan “Don’t Leave Home Without It”?
 
