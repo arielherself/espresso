@@ -12,107 +12,65 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The 20th <strong>Communist Party congress </strong>opened in Beijing, with Xi Jinping pledging to “reunify” China by bringing Taiwan under the mainland’s control. He said China would “take all necessary measures” to quell “separatist movements”, by force if necessary. Mr Xi also defended his increasingly painful zero-covid policy, calling measures to contain the virus an “all-out people’s war”. Despite a convention that Communist Party leaders serve a maximum of two five-year terms, [the congress](https://te.arielherself.xyz/china/2022/10/13/the-communist-party-congress-will-highlight-xi-jinpings-power) is expected to bestow Mr Xi a third.
+Jeremy Hunt, <strong>Britain’s</strong> new chancellor of the exchequer, is expected to present a programme of fiscal discipline on Monday, weeks ahead of schedule, raising taxes and cutting spending. By reversing most of the reckless “[mini-budget](https://te.arielherself.xyz/britain/2022/09/23/britains-chancellor-offers-up-a-reckless-budget-fiscally-and-politically)” announced on September 23rd, Mr Hunt hopes to calm markets before the trading week is fully under way. [Liz Truss](https://te.arielherself.xyz/britain/2022/10/14/liz-truss-has-lost-her-chancellor-signature-tax-cut-and-authority), the embattled prime minister, had initially wanted huge unfunded tax cuts. The <strong>pound </strong>rose by nearly 1% against the dollar in early trading in Asia.
 
-Britain’s new chancellor of the exchequer, <strong>Jeremy Hunt</strong>, said that the government’s growth push had gone “too far, too fast”. In a further attempt to calm jittery bond markets, [Kwasi Kwarteng](https://te.arielherself.xyz/the-economist-explains/2022/10/14/kwasi-kwartengs-tenure-as-britains-chancellor-wasnt-the-shortest)’s replacement said that he would raise taxes and cut public spending. Andrew Bailey, the governor of the <strong>Bank of England</strong>, said that interest rates would have to rise further than expected in light of high inflation.
+<strong>Russian forces </strong>sent Iranian-made drones raining down on <strong>central Kyiv</strong>, one week after the start of [a barrage](https://te.arielherself.xyz/europe/2022/10/13/russias-terror-strikes-fail-to-do-much-damage-to-ukraine) intended as revenge against a Ukrainian attack on the bridge spanning the Kerch strait. Vitali Klitschko, the mayor of Kyiv, said that one woman had been killed and three people hospitalised. Intense fighting has been reported in the city of Bakhmut, [in Donetsk](https://te.arielherself.xyz/europe/2022/09/18/where-next-for-ukraines-army), where Russian forces have continued to make advances
 
-<strong>Ukraine’s </strong>prime minister, Denys Shmyhal, said the country has “maintained energy stability” amid fears of <strong>blackouts</strong> sparked by [Russian strikes](https://te.arielherself.xyz/europe/2022/10/13/russias-terror-strikes-fail-to-do-much-damage-to-ukraine). Mr Shmyhal said that in the first three days of last week Russia had launched 130 missiles and drones targeting key infrastructure to “intimidate” civilians and “paralyse” the energy industry. Ukrainians had cut their electricity consumption by one-tenth to avoid outages, he added.
+<strong>Nigeria’s </strong>government said more than 600 people have been killed by <strong>flooding </strong>in three-quarters of the country’s states. More than 1m people have been displaced. Nigeria [often experiences autumn floods](https://te.arielherself.xyz/middle-east-and-africa/2022/09/01/every-year-heavy-rain-brings-misery-and-gridlock-to-west-africa), but this year the effects have been exacerbated by unusually heavy rain and climate change, as well as state governments’ failure to prepare adequately, according to the country’s minister of humanitarian affairs.
 
-A fire at Evin prison, a facility used to lock up many of <strong>Iran’s</strong> dissidents, killed at least four people and injured 61, according to state media. The fire followed a clash between security forces and inmates—including some arrested during [ongoing nationwide protests](https://te.arielherself.xyz/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue), which erupted after the death of a 22-year-old woman detained by the morality police for showing too much hair.
+<strong>Japan’s </strong>prime minister, Kishida Fumio, ordered an official inquiry into the <strong>Unification Church</strong>, a cult-like religious group. The group attracted [scrutiny](https://te.arielherself.xyz/asia/2022/07/19/what-drove-yamagami-tetsuya-to-kill-abe-shinzo) after the assasination of former prime minister Abe Shinzo. The family of the man accused of killing him was linked to the church, and it was [later revealed](https://te.arielherself.xyz/asia/2022/09/26/the-fallout-from-abe-shinzos-murder-could-unseat-his-successor) that almost half of Mr Abe’s and Mr Kishida’s Liberal Democratic Party had some contact with it as well.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Tunisia</strong> struck a preliminary agreement with the IMF, committing to reforms in exchange for a $1.9bn loan. The indebted [North African economy](https://te.arielherself.xyz/middle-east-and-africa/2022/09/15/from-tea-to-cars-egypt-and-tunisia-struggle-to-pay-for-imports) lacks food and fuel, and has been wracked by protests. But the government has dragged its feet on cuts to subsidies and public-sector wages. If the IMF’s board ratifies the deal, it could pave the way for other donors.
+The two candidates in <strong>Brazil’s </strong>presidential [run-off election](https://te.arielherself.xyz/leaders/2022/10/04/to-win-brazils-presidency-lula-should-move-to-the-centre) met for a televised debate. Luiz Inácio Lula da Silva, a leftist former president, called Jair Bolsonaro, the populist incumbent, “the king of fake news”, saying his policies were responsible for half of Brazil’s 680,000 covid-19 deaths. Mr Bolsonaro attacked his opponent’s [alleged history of corruption](https://te.arielherself.xyz/the-americas/2022/04/09/hailed-as-a-saviour-derided-as-a-thief-lula-is-back). Lula is the [slight favourite](https://te.arielherself.xyz/interactive/brazil-2022) to prevail in the election on October 30th.
 
-A pair of gunmen killed at least 11 people at a military training ground in south-western <strong>Russia</strong>. Fifteen others were wounded. Officials called it a “terrorist attack”. The perpetrators, who were both shot dead, were nationals of an unnamed former Soviet nation. The incident highlights growing anger at Vladimir Putin’s mobilisation of Russians for his [war in Ukraine](https://te.arielherself.xyz/europe/2022/10/13/russias-terror-strikes-fail-to-do-much-damage-to-ukraine).
+<strong>Tunisia</strong> struck a preliminary agreement with the IMF, committing to reforms in exchange for a $1.9bn loan. The indebted [North African economy](https://te.arielherself.xyz/middle-east-and-africa/2022/09/15/from-tea-to-cars-egypt-and-tunisia-struggle-to-pay-for-imports) lacks food and fuel, and has been racked by protests. But the government has dragged its feet on cuts to subsidies and public-sector wages. If the IMF’s board ratifies the deal, it could pave the way for other donors.
 
-<strong>Uganda</strong> imposed a three-week lockdown in two districts of its central region to contain breakouts of <strong>Ebola</strong>. Movement in and out of Mubende and Kassanda will be restricted, and dusk-till-dawn curfews have been imposed. Since Uganda’s first [recorded death](https://te.arielherself.xyz/graphic-detail/2020/05/01/covid-19-has-become-one-of-the-biggest-killers-of-2020) almost a month ago, the hemorrhagic fever, for which there is no cure, has infected 58 people and killed 19.
+The 20th <strong>Communist Party congress </strong>opened in Beijing on Sunday, with <strong>Xi Jinping</strong> pledging to “reunify” China by bringing Taiwan under the mainland’s control. China’s president also defended his increasingly painful zero-covid policy, calling measures to contain the virus an “all-out people’s war”. China-watchers everywhere scrambled to interpret every aspect of his two-hour speech. Despite a convention that Party leaders serve a maximum of two five-year terms, [the congress](https://te.arielherself.xyz/china/2022/10/13/the-communist-party-congress-will-highlight-xi-jinpings-power) is expected to bestow a third to Mr Xi.
 
-<strong>Word of the week</strong><strong>: </strong><em>siloviki</em>, Russia’s privileged securocrats. [Read the full story](https://te.arielherself.xyz/europe/2022/10/09/the-war-in-ukraine-has-battered-the-reputation-of-russian-spies).
+<strong>Fact of the day:</strong> 31, the number of days served by Britain’s shortest-serving chancellor, Iain Macleod—eight fewer than Kwasi Kwarteng, who was sacked last week. [Read the full article](https://te.arielherself.xyz/the-economist-explains/2022/10/14/kwasi-kwartengs-tenure-as-britains-chancellor-wasnt-the-shortest).
 
 ----------
 
-## Weekend Profile: Mohammed Rostami Gachi, Iran’s brutal enforcer
+## NATO’s not-so-routine nuclear drills
 
-It was his rapid promotion that surprised many. Just a few months into his post as the police chief of Talesh, an Iranian provincial backwater, Mohammed Rostami Gachi was promoted to head the Islamic Republic’s [morality police](https://te.arielherself.xyz/the-economist-explains/2022/09/26/who-are-irans-hated-morality-police) 400km away in the capital, Tehran. Previous Iranian governments had never thought much of him. But the incoming administration of Ebrahim Raisi in 2021 admired Mr Gachi’s hardline beliefs. Shortly after taking the job he declared his intention to enforce the mandatory veil for women, which had fallen loose under the pragmatist presidency of Hassan Rouhani. “Those who stubbornly remove the <em>hijab </em>are criminals,” Mr Gachi told Iran’s press.
+On Monday NATO begins its annual nuclear drills, Steadfast Noon. The exercises, hosted by Belgium and postponed from earlier this year after Russia’s invasion of Ukraine, include 14 of the alliance’s 30 members. There will be no live warheads, but the manoeuvres include jets that can carry nuclear bombs. NATO’s secretary general, [Jens Stoltenberg](https://te.arielherself.xyz/by-invitation/2022/02/09/jens-stoltenberg-explains-how-to-step-back-from-the-brink-of-european-conflict), has called the operation “routine training” designed to keep the deterrent “safe, secure and effective”.
 
-Over the following months, he reactivated the morality police. Their men in dark green uniforms and women in black <em>chadors</em> scoured the streets hunting for infringements of [sharia](https://te.arielherself.xyz/the-economist-explains/2021/09/08/what-is-sharia-law). They broke up bands jamming in cafes. They hauled girls caught for “bad” <em>hijabs</em> away in their windowless vans and took them to facilities for “re-education”. Sometimes they [gave them a beating](https://te.arielherself.xyz/1843/2022/09/28/im-the-same-as-mahsa-and-i-want-my-freedom-anger-at-irans-regime-spills-onto-the-streets). And then, on September 13th, Mr Gachi’s men carted away 22-year-old Mahsa Amini to her [death](https://te.arielherself.xyz/middle-east-and-africa/2022/09/22/why-iranian-women-are-burning-their-hijabs) three days later for improperly wearing the veil.
+But the war in Ukraine means that the drills will be far from business as usual. Russia’s president, Vladimir Putin, has made[ transparent threats](https://te.arielherself.xyz/leaders/2022/09/21/vladimir-putin-vows-to-send-more-invaders-the-west-should-arm-ukraine-faster) to use nuclear weapons amid his faltering invasion. The head of GCHQ, Britain’s spy agency, said last week that there were no signs of an imminent attack, but fears of[ escalation are real](https://te.arielherself.xyz/international/2022/09/29/could-the-war-in-ukraine-go-nuclear). NATO expects that Russia will soon hold its own nuclear exercise, dubbed Grom.
 
-The [popular](https://te.arielherself.xyz/1843/2022/10/12/are-they-watching-our-homes-are-they-in-our-phones-a-diary-of-fear-in-tehran) protests that this sparked had, in truth, been [some time in the making](https://te.arielherself.xyz/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue). Under Mr Rouhani, Iran breathed more easily with an unwritten contract: leave the clerics to wield power and let society live as it wants. The Islamic republic shrank into an Islamic government. Mr Raisi’s determination to turn the clock back and apply sharia to an ever-more secular population tipped resentment into civil disobedience. Even before Ms Amini was killed, female students were spilling out of their segregated campus canteens into male ones. Women on buses and the metro disregarded even their token nod to a head covering. 
+The alliance is betting that conducting its nuclear drills helps keep its deterrent potent. Mr Stoltenberg says that avoiding escalation requires “firm, predictable behaviour”. Observers will hope he is right.
 
-The mullahs’ crackdown might have been easier to digest had they practised the moral strictures they preached. But while people’s incomes declined, mullahs’ sons ostentatiously combed Tehran’s highways in their Ferraris. And some questioned Mr Gachi’s standards of enforcement when it came to his own. His brother accumulated businesses in their hometown of Kermanshah. 
+## Jeremy Hunt takes the wheel
 
-As protests against Ms Amini’s death spread—costing, so far, more than 200 lives—Mr Gachi’s patrols disappeared from the streets. Western governments have imposed sanctions against him and his morality police for “spreading a culture of violence and excessive force”. For Mr Gachi, they were just spreading Islam.
+A fortnight ago, [Jeremy Hunt](https://te.arielherself.xyz/britain/2018/04/05/jeremy-hunt-the-great-survivor)’s career in high office appeared to be at an end. An affable and fastidious former foreign secretary, he had twice run to be leader of the Conservative Party, without success. Now he is the most powerful man in Britain. On October 14th Liz Truss, the prime minister, fired Kwasi Kwarteng, a close ally, as chancellor, and appointed Mr Hunt in his place. He was tasked with clawing back the trust of bond markets after Mr Kwarteng’s tax-cutting budget had triggered a market meltdown.
 
-## Weekly crossword
+But a partial [reversal of some measures](https://te.arielherself.xyz/britain/2022/10/12/britains-government-is-yet-to-deal-with-a-mess-of-its-own-making) on Friday wasn’t enough to satisfy traders. So over the weekend, Mr Hunt made clear that more U-turns, new tax rises and cuts to government spending would be necessary. On Monday morning he will publish some of those plans and in the afternoon he will present them to Parliament. With Mr Hunt in the driving seat, Ms Truss is now [prime minister in name only](https://te.arielherself.xyz/britain/2022/10/14/liz-truss-has-lost-her-chancellor-signature-tax-cut-and-authority). Conservative MPs are clamouring to force her from office. Westminster this week will be a vipers’ nest.
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+## Chinese cars plug into European markets
 
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+Sceptical of splurging marketing budgets on fancy stands in vast exhibition centres, few of the world’s carmakers will congregate in Paris for the first motor show in the city since 2018, which opens on Monday. Flying the tricolore will be France’s Renault and Peugeot, the latter of which joins other brands owned by Stellantis. More notable will be the appearance of BYD and Great Wall Motors, two [Chinese brands](https://te.arielherself.xyz/business/2022/10/13/chinese-marques-try-to-make-inroads-into-western-markets) that will use the event to flaunt electric cars they hope will break into the European market.
 
-<strong>Cryptic clues</strong>
+China, home to the world’s biggest car industry, also churns out more[ electric vehicles](https://te.arielherself.xyz/business/2022/04/09/save-globalisation-buy-a-chinese-ev) than any other country. Several of its makers have Europe in their sights. Nio, a Tesla wannabe, recently showed off three electric models in Berlin that will soon be more widely available on the continent. Already nearly one in 20 EVs sold in Europe is Chinese. Europe’s carmakers, already struggling with the fallout from the pandemic and the transition to electrification, face one more problem.
 
-<em>1 down </em>Unpopular leader ruins a menial hike (3,8)
+## India’s oldest party seeks a revamp
 
-<em>1 across</em> In every other saloon unfinished puzzle is big business (6)
+On Monday members of the Congress, India’s main opposition party, will vote for a new president. For the first time in nearly 25 years the new boss will be someone outside of the Gandhi clan, which has long run the party as a [family business](https://te.arielherself.xyz/leaders/2021/11/27/for-indias-opposition-to-recover-the-gandhis-should-quit). The choice is between Shashi Tharoor, a smooth-talking diplomat-turned-politician, and Mallikarjun Kharge, an 80-year-old party veteran and Gandhi-family stooge.
 
-<em>2 across</em> Mountains finally crumble into sand, top-to-bottom (5)
+Mr Tharoor believes that fresh, non-dynastic leadership can revitalise India’s grand old party. With a general election less than two years away, the Congress desperately needs it. In the past two elections the party has been swept aside by the ruling Hindu-nationalist Bharatiya Janata Party. In 2019 the BJP took nearly double the Congress’s share of the vote.
 
-<em>3 across </em>Without workers, we’re told, value must come from elsewhere (6)
+But Mr Tharoor’s hopes may be in vain. The build-up to the Congress’s leadership election has featured the same [ineptitude and in-fighting](https://te.arielherself.xyz/asia/2022/10/06/indias-congress-party-seems-determined-to-prove-its-critics-right) that have dogged the party for years. More importantly, the Gandhi family is unlikely to cede control. Mr Kharge is expected to win comfortably.
 
-<strong>Factual clues</strong>
+## The six Booker hopefuls
 
-<em>1 down </em>Someone being urged to heed the voices of the people (3,8)
+The Booker prize briefly turns literature into hot news. The most coveted honour in English-language fiction, to be awarded on Monday night, makes six titles glow with the heat of incendiary headlines. In “Glory”, NoViolet Bulawayo’s talking animals stage a political parable of her [unhappy homeland](https://te.arielherself.xyz/middle-east-and-africa/2019/09/07/robert-mugabe-leaves-a-bitter-legacy), Zimbabwe. Percival Everett’s “The Trees” blends mystery, horror and elegy as it unearths [racist atrocities](https://te.arielherself.xyz/united-states/2019/11/14/memories-of-emmett-till) in the American South. Shehan Karunatilaka’s “[The Seven Moons of Maali Almeida](https://te.arielherself.xyz/culture/2022/08/18/shehan-karunatilaka-returns-with-another-thrilling-satire)”, an incandescent tragicomic story narrated by a ghost, torches corruption and injustice in Sri Lanka.
 
-<em>1 across</em> An American giant (6)
+Quietly and succinctly—at 116 pages, hers is the shortest book ever shortlisted— Claire Keegan burns through rural [Ireland’s abusive secrets](https://te.arielherself.xyz/christmas-specials/2019/12/18/the-liberalisation-of-ireland) in “Small Things Like These”. Alan Garner, a veteran fabulist, unites northern English folklore with quantum physics in “Treacle Walker”; and “Oh William!’ is the third instalment in a lauded family saga by Elizabeth Strout, an American author. Her book is popular with bookworms and bookies alike. For sheer prose chutzpah, Mr Karunatilaka should take the gong. But “Glory” might live up to its name.
 
-<em>2 across</em> One place where coca leaves grow (5)
+## Daily quiz
 
-<em>3 across </em>Its illegal to do this with some firewood in New York State (6)
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e2b3978b98a79192908791918da287818d8c8d8f8b9196cc818d8f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-## Global hunger on the rise
-
-On Sunday millions of people around the world gather at marches, marathons and concerts to observe the UN’s World Food Day. But the mood is sour. [Global grain prices](https://te.arielherself.xyz/leaders/2022/05/19/the-coming-food-catastrophe), which fell over the summer, have climbed back to where they were soon after Russia invaded Ukraine. A stronger dollar, and weak economic growth, have squeezed household and government budgets. The World Food Programme reckons a record 345m people are facing acute [food insecurity](https://te.arielherself.xyz/graphic-detail/2022/03/09/progress-to-eradicate-global-hunger-is-stalling), up from 193m in 2021.
-
-A longer-term difficulty is that food supply may fall far short of demand. The bumper crop—including Russia’s record wheat harvest—that stopped this year from becoming a catastrophe, is unlikely to be repeated. Farmers skimping on expensive fertilisers may also dampen yields. A UN-brokered deal under which Russia has allowed grain exports from Ukrainian ports expires in November, and its extension is uncertain. The seeds of disaster are being sown.
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Masnoon Bujang</strong>, Kuching, Malaysia
-
-North America: <strong>Wendy King</strong>, Sherbrooke, Canada
-
-Central and South America: <strong>Caio Priszculnik</strong>, São Paulo, Brazil
-
-Europe: <strong>Sven Nilsson</strong>, Copenhagen, Denmark
-
-Africa: <strong>Ailsa Green</strong>, Choma, Zambia
-
-Oceania: <strong>Andrew McMenamin</strong>, Lincoln, New Zealand
-
-They all gave the correct answers of Joshua, Rocky Balboa, Smokey Robinson, Zion and Bryce Dallas Howard. The theme is US national parks: Joshua Tree, Rocky Mountain, Great Smokey Mountains, Zion and Bryce Canyon.
-
-## Putin sparks new energy into CND
-
-The Campaign for Nuclear Disarmament, a British lobby group, was formed in the early years of the cold war. Its emblem has become a visual byword for peace. The CND’s membership peaked at 110,000, in 1985, and has since fallen to around 30,000. But Kate Hudson, its general secretary, says its ranks are now growing again as [Vladimir Putin’s war](https://te.arielherself.xyz/leaders/2022/06/02/a-new-nuclear-era) makes a new generation concerned about [nuclear threats](https://te.arielherself.xyz/international/2022/09/29/could-the-war-in-ukraine-go-nuclear).
-
-On Sunday the CND will march on Menwith Hill, a British and American intelligence base in Yorkshire. Such gatherings are a staple of the movement. In the 1980s campaigners fought to remove American cruise missiles from RAF Greenham Common in Berkshire. Now the CND is protesting against the return of NATO nukes to an American base at RAF Lakenheath in Suffolk. Members believe that the risk of [nuclear war](https://te.arielherself.xyz/briefing/2015/03/07/the-unkicked-addiction) is higher than it has ever been.
-
-## LeBron James’s ultimate slam dunk
-
-When [Kareem Abdul-Jabbar](https://te.arielherself.xyz/united-states/2017/12/19/kareem-abdul-jabbar-a-brooding-sportsman-sage) retired from the NBA in 1989, he held the record for the highest number of points scored in a career. Mr Abdul-Jabbar racked up 38,387 points across 20 seasons, 14 of them at the Los Angeles Lakers. But, barring injury or an inexplicable drop in form, his record will soon be broken. As of Sunday, the start of the 2022-23 season, [LeBron James](https://te.arielherself.xyz/game-theory/2016/06/20/wait-your-turn-steph-lebron-james-proves-he-is-still-the-king), who also plays for the Lakers, is only 1,325 points behind.
-
-Todd Whitehead of Synergy Sports, a basketball analytics company, has calculated the cumulative chance of Mr James breaking Mr Abdul-Jabbar’s record in each regular-season match, based on his participation and scoring rates over the past three seasons. His percentage chances reach double digits on February 23rd, when the Lakers host the Golden State Warriors. His odds then rise quickly: to 35% against the Minnesota Timberwolves on March 3rd, and to 50% against the Memphis Grizzlies four days later. By the end of the season in April, it’s virtually a slam dunk. Arise, King James.
-
-## A showcase of Xi Jinping’s power
-
-The five-yearly congress of China’s Communist Party opened today. Not since the time of Mao Zedong has a congress been so clearly aimed at emphasising the [power of a single leader](https://te.arielherself.xyz/special-report/2022/10/10/china-wants-to-change-or-break-a-world-order-set-by-others). The week-long session, [meticulously stage-managed](https://te.arielherself.xyz/leaders/2022/10/13/an-obsession-with-control-is-making-china-weaker-but-more-dangerous), will make the case that only [Xi Jinping](https://te.arielherself.xyz/theprincepod) can lead China towards its goal of “great rejuvenation”.
-
-Mr Xi kicked things off with a two-hour speech. He portrayed his “[zero-covid policy](https://te.arielherself.xyz/china/2022/10/13/china-shows-few-signs-of-loosening-its-zero-covid-policy)” as an achievement, a signal that draconian restrictions would continue, even as the [economy sputters](https://te.arielherself.xyz/china/2022/08/18/chinas-economy-is-beset-by-problems). He reiterated his desire for peaceful unification with [Taiwan](https://te.arielherself.xyz/special-report/2022/10/10/china-has-chilling-plans-for-governing-taiwan), but did not rule out the use of force. “The helmsman”, as Mr Xi is sometimes called, warned of “high winds, choppy waters and even dangerous storms” ahead.
-
-By convention Mr Xi, having served two five-year terms, should retire. But there is no doubt he will remain party chief when the new Politburo is revealed on the day after the congress. And don’t expect to see an obvious successor in the mix.
+<strong>Monday:</strong> Which credit card used the slogan “Don’t Leave Home Without It”?
 
 ----------
 
