@@ -22,7 +22,7 @@ Sergei Surovikin, the [recently installed commander ](https://www.economist.com/
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Goldman Sachs</strong> said it would end its [disastrous attempt](https://www.economist.com/finance-and-economics/2022/10/18/goldman-sachss-disastrous-main-street-gamble) at a retail bank, which it launched in 2016. Under a new restructuring plan, Goldman will split up its consumer operation, bundling its savings and wealth products into the asset-management arm, and sticking the lending ones into a new “platforms” business, alongside wholesale and business banking.
+<strong>Goldman Sachs</strong> said it would break up its [disastrous attempts](https://www.economist.com/finance-and-economics/2022/10/18/goldman-sachss-disastrous-main-street-gamble) at retail banking, which were launched in 2016. Under a new restructuring plan, Goldman will split up its consumer operation, bundling its savings and wealth products into the asset-management arm, and sticking the lending ones into a new “platforms” business, alongside wholesale and business banking.
 
 James Cleverly, <strong>Britain’s</strong> foreign secretary, said on Wednesday that the government was considering further action over the “unacceptable” beating of a protester outside the <strong>Chinese consulate in Manchester</strong>. On Sunday British police intervened after a small group of men came out of the consulate and assaulted a man demonstrating against Xi Jinping, China’s president. China’s foreign ministry, meanwhile, complained about illegal entry into their consulate. 
 
@@ -70,7 +70,7 @@ On Wednesday a bankruptcy court will consider whether to let the deal proceed. R
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="09587c60734c7a797b6c7a7a66496c6a66676664607a7d276a6664">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="79280c10033c0a090b1c0a0a16391c1a16171614100a0d571a1614">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which furry Peruvian migrant has been the focus of films starring Nicole Kidman and Hugh Grant?  
   
