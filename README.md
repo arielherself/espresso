@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-10-19</p>
+# <p align="center">The world in brief 2022-10-20</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -36,7 +36,7 @@ James Cleverly, <strong>Britain’s</strong> foreign secretary, said on Wednesda
 
 In September, [inflation](https://te.arielherself.xyz/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be) in the euro zone came in at 9.9%, almost—but not quite—reaching double digits for the first time. Unfortunately for policymakers, inflation is spreading across the economy. 
 
-New figures released on Wednesday from Eurostat, the EU’s statistics agency, provide the full picture of the rising inflationary pressures. [Energy prices](https://te.arielherself.xyz/europe/2022/09/29/europes-next-energy-crunch) rose by a staggering 40% in September, compared with a year earlier. Food prices rose 12%. These prices are volatile and will (with any luck) fall again. But goods and services prices also increased, by 5.5% and 4.3% respectively, and will be harder to bring down. In fact, goods inflation seems to be accelerating: prices rose at an annualised rate of 38% between August and September.At a meeting next week the European Central Bank will have to take stock of such depressing numbers, and act accordingly. Expect another chunky rise in interest rates.
+New figures released on Wednesday from Eurostat, the EU’s statistics agency, provide the full picture of the rising inflationary pressures. [Energy prices](https://te.arielherself.xyz/europe/2022/09/29/europes-next-energy-crunch) rose by a staggering 40% in September, compared with a year earlier. Food prices rose 12%. These prices are volatile and will (with any luck) fall again. But goods and services prices also increased, by 5.5% and 4.3% respectively, and will be harder to bring down. In fact, goods inflation seems to be accelerating: prices rose at an annualised rate of 38% between August and September. At a meeting next week the European Central Bank will have to take stock of such depressing numbers, and act accordingly. Expect another chunky rise in interest rates.
 
 ## Could Oregon elect a Republican governor?
 
@@ -70,7 +70,7 @@ On Wednesday a bankruptcy court will consider whether to let the deal proceed. R
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="306145594a754340425543435f7055535f5e5f5d5943441e535f5d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bcedc9d5c6f9cfccced9cfcfd3fcd9dfd3d2d3d1d5cfc892dfd3d1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which furry Peruvian migrant has been the focus of films starring Nicole Kidman and Hugh Grant?  
   
