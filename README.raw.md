@@ -52,9 +52,9 @@ The plant’s pre-invasion workforce has shrunk by more than two-thirds. Many We
 
 ## Turkey keeps its zany economic policies
 
-With inflation surging to 83% and the Turkish lira down by nearly 40% against the dollar since the start of the year, Recep Tayyip Erdogan might have considered reversing [his unusual policy](https://www.economist.com/finance-and-economics/2022/08/25/the-connection-between-russian-sanctions-and-bizarre-turkish-monetary-policy) of lowering interest rates to rein in consumer prices. Not a bit of it. “As long as this brother of yours is in power, the interest rate will continue to fall,” Turkey’s president said earlier this month. Mr Erdogan has already forced the central bank to cut its benchmark rate from 18% to 12% over the past year.
+With inflation surging to 83% and the Turkish lira down by nearly 30% against the dollar since the start of the year, Recep Tayyip Erdogan might have considered reversing [his unusual policy](https://www.economist.com/finance-and-economics/2022/08/25/the-connection-between-russian-sanctions-and-bizarre-turkish-monetary-policy) of lowering interest rates to rein in consumer prices. Not a bit of it. In its third cut in as many months, on Thursday the country’s central bank slashed its benchmark rate by more than expected, from 12% to 10.5%.
 
-Analysts therefore expect another full percentage point cut at the bank’s monetary-policy committee meeting on Thursday. With Mr Erdogan desperate to sustain economic growth, which reached 7.6% in the three months to June, ahead of presidential and parliamentary elections next year, the benchmark rate may soon reach single digits. Inflation be damned. 
+And Turkey’s president promises to keep going. “As long as this brother of yours is in power, the interest rate will continue to fall,” he said earlier this month. Mr Erdogan is desperate to sustain economic growth, which reached 7.6% in the three months to June, ahead of presidential and parliamentary elections next year. That means the benchmark rate may soon reach single digits. Inflation be damned.
 
 ## The art of dystopian Britain
 
@@ -64,7 +64,7 @@ Yet, as a barometer of what the nation cares about, the Turner prize often succe
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8bdafee2f1cef8fbf9eef8f8e4cbeee8e4e5e4e6e2f8ffa5e8e4e6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c899bda1b28dbbb8baadbbbba788adaba7a6a7a5a1bbbce6aba7a5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which newspaper group was acquired by crooked businessman Robert Maxwell in July 1984?
 
