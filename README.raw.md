@@ -18,7 +18,7 @@ America said military personnel from <strong>Iran </strong>were on the ground in
 
 <strong>Inflation</strong> in <strong>Japan</strong> [climbed to reach](https://www.economist.com/asia/2022/08/18/prices-are-rising-in-japan-but-not-wages) an eight-year high in September. Core consumer prices increased by 3% year on year, exceeding the central bank’s 2% target for a sixth consecutive month. The Bank of Japan has maintained an ultra-loose monetary policy, even as the yen has tumbled. It slid to 150 per dollar on Thursday, its lowest rate since 1990.
 
-<strong>EU leaders</strong> agreed to continue work towards a possible price cap to “immediately limit” [spikes](https://www.economist.com/leaders/2022/10/13/europe-is-growing-complacent-about-its-energy-crisis) in the early hours of Friday. France, Italy and Spain have long pushed for a [price ceiling](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis) in response to the energy crunch; Germany has opposed the market intervention arguing that it could hurt future supply.
+<strong>Gas prices fell</strong> in European markets after <strong>EU leaders </strong>agreed to continue working towards a <strong>possible price cap </strong>to “immediately limit” [spikes](https://www.economist.com/leaders/2022/10/13/europe-is-growing-complacent-about-its-energy-crisis). Dutch front-month gas, the European benchmark, fell 6% to €116 ($114) per megawatt hour on early Friday. France, Italy and Spain have long pushed for a [price ceiling](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis) in response to the energy crunch; Germany has opposed the market intervention arguing that it could hurt future supply.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ Mr McDonagh has recast the stars of his debut movie, “In Bruges”, Colin Farr
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="68391d01122d1b181a0d1b1b07280d0b07060705011b1c460b0705">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2f7e5a46556a5c5f5d4a5c5c406f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which famous river has two major tributaries, the White and the Blue?
 
