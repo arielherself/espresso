@@ -12,78 +12,105 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Giorgia Meloni </strong>was appointed <strong>Italy’s</strong> first female prime minister after [facing down Silvio Berlusconi](https://www.economist.com/europe/2022/10/20/italys-coalition-building-runs-into-trouble) in a tussle over her cabinet. Mr Berlusconi had wanted to choose the justice minister, but Ms Meloni named a member of her hard-right Brothers of Italy party to the post. Mr Berlusconi’s chumminess with Vladimir Putin, Russia’s president, did not stop Ms Meloni from making Antonio Tajani, a member of Mr Berlusconi’s party, her foreign minister. Her right-wing government will be sworn in on Saturday.
+<strong>Giorgia Meloni </strong>was appointed <strong>Italy’s</strong> first female prime minister after [facing down Silvio Berlusconi](https://www.economist.com/europe/2022/10/20/italys-coalition-building-runs-into-trouble) in a tussle over her cabinet. Mr Berlusconi had wanted to choose the justice minister, but Ms Meloni named a member of her hard-right Brothers of Italy party to the post. Mr Berlusconi’s chumminess with Vladimir Putin, Russia’s president, did not stop Ms Meloni from making Antonio Tajani, a member of Mr Berlusconi’s party, her foreign minister. Her right-wing government was sworn in on Saturday.
 
-The House committee investigating the January 6th attack [issued a subpoena](https://www.economist.com/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in) to <strong>Donald Trump</strong>, and asked him to testify in person around November 14th. The move is largely symbolic: America’s former president will surely defy the subpoena and claim [executive privilege](https://www.economist.com/the-economist-explains/2021/11/10/what-is-executive-privilege). Earlier in the day <strong>Steve Bannon</strong>, Mr Trump’s former chief strategist, was sentenced to four months in prison and fined $6,500 for ignoring his own subpoenas.
+The House committee investigating the January 6th attack [issued a subpoena](https://www.economist.com/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in) to <strong>Donald Trump</strong>, and asked him to testify in person around November 14th. The move is largely symbolic: America’s former president will surely defy the subpoena and claim [executive privilege](https://www.economist.com/the-economist-explains/2021/11/10/what-is-executive-privilege). Earlier <strong>Steve Bannon</strong>, Mr Trump’s former chief strategist, was sentenced to four months in prison and fined $6,500 for ignoring his own subpoenas. 
 
-<strong>Penny Mordaunt</strong>, the leader of the House of Commons, was the first to declare her candidacy in the Conservative Party’s [leadership election](https://www.economist.com/britain/2022/10/20/who-will-be-britains-next-leader) to replace Liz Truss as prime minister. Other likely frontrunners include Rishi Sunak, a former chancellor, and Boris Johnson, an ex-prime minister who was forced to resign in July. Markets slumped further as official data revealed higher-than-predicted public-sector borrowing in September.
+The closing ceremony of <strong>China’s </strong>[<strong>Communist Party congress</strong>](https://www.economist.com/china/2022/10/16/at-chinas-communist-party-congress-xi-jinping-sails-on-undaunted) was marked by the unexplained removal of Hu Jintao, a former president, from the stage. A seemingly unwilling Mr Hu was escorted from his seat beside the current leader, Xi Jinping. And in an indication of Mr Xi’s determination to surround himself with loyalists, a new 205-member Central Committee was elected lacking Li Keqiang, the prime minister, and Wang Yang, a prominent party bigwig. Both men will now lose their seats on the party’s supreme ruling body.
 
-<strong>Imran Khan</strong>, [former prime minister](https://www.economist.com/asia/2022/10/20/imran-khan-appears-to-be-more-popular-than-ever) of Pakistan, has been disqualified from political office for five years for alleged corruption. The country’s elections commission said Mr Khan misled officials about gifts he received from the leaders of Saudi Arabia and Dubai. Pakistan is expecting a general election in 2023, but Mr Khan—whose anti-government rallies have attracted mass support—cannot stand in them.
+Rishi Sunak, <strong>Britain’s</strong> former chancellor, is reportedly close to receiving the 100 MP nominations needed to enter the Conservative Party’s <strong>leadership election</strong> to [replace Liz Truss](https://www.economist.com/britain/2022/10/20/who-will-be-britains-next-leader) as prime minister. Other frontrunners include Boris Johnson, the ex-prime minister who was forced to resign in July, and Penny Mordaunt, the leader of the House of Commons. Meanwhile markets slumped further as official data revealed higher-than-predicted public-sector borrowing in September.
 
 Listen to an abridged version of the subscriber-only briefing.
 
 <strong>America’s</strong> defence secretary spoke with his<strong> Russian</strong> equivalent for the first time since May. But the Kremlin reportedly took no interest in broader talks to end the war in Ukraine. Separately, Mitch McConnell, the top-ranking Senate Republican, said America should send more weapons to Ukraine. His remarks are at odds with his counterpart’s in the House: Kevin McCarthy recently [criticised what he called a “blank cheque”](https://www.economist.com/united-states/2022/07/17/is-america-growing-weary-of-the-long-war-in-ukraine) approach to Ukraine.
 
-<strong>Gas prices fell</strong> in European markets after <strong>EU leaders </strong>agreed to continue working towards a possible price cap to “immediately limit” [spikes](https://www.economist.com/leaders/2022/10/13/europe-is-growing-complacent-about-its-energy-crisis). Dutch front-month gas, the European benchmark, fell 6% to €116 ($114) per megawatt hour on early Friday. France, Italy and Spain have long pushed for a [price ceiling](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis) in response to the energy crunch; Germany has opposed the market intervention arguing that it could hurt future supply.
+Volodymyr Zelensky, <strong>Ukraine’s </strong>president, accused <strong>Russia</strong> of plotting to blow up a huge dam on the Dnipro river. If the dam burst, large parts of southern Ukraine would be flooded, including the [city of Kherson](https://www.economist.com/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield) which Ukrainian forces are hoping to recapture. Mr Zelensky urged Western leaders to treat such an attack “exactly the same as the use of weapons of mass destruction”.
 
-<strong>Pfizer</strong> is set to nearly quadruple the price of its [covid-19 vaccine](https://www.google.com/search?q=the+economist+covid+vaccine&amp;rlz=1C1CHBF_en-GBGB1026GB1026&amp;source=lnms&amp;sa=X&amp;ved=2ahUKEwjZrrmYi_H6AhV3QEEAHSY7BPgQ_AUoAHoECAMQAg&amp;biw=1280&amp;bih=609&amp;dpr=1.5) when the American government purchasing programme ends next year. The cost will rise to between $110 and $130 per dose, as the drugmaker tries to offset the financial effects of weak demand for booster vaccines. Angela Lukin, a Pfizer executive, said that the vaccine will remain free for Americans with either private or government-paid insurance.
+American<strong> stockmarkets</strong> recorded their biggest weekly gains since June, following reports that the Federal Reserve may become less aggressive in its [interest-rate rises](https://www.economist.com/finance-and-economics/2022/10/02/americas-economy-is-too-strong-for-its-own-good). The S&amp;P 500 rose 2.4% on Friday, taking its weekly gain to 4.7%. Meanwhile the <strong>yen</strong> strengthened against the dollar, after falling to a 32-year low earlier in the week. Analysts believe Japanese officials are [purchasing yen](https://www.economist.com/graphic-detail/2022/09/22/japans-government-props-up-the-yen-for-the-first-time-since-1998) to stem the currency’s slide.
 
-<strong>Fact of the day:</strong> 15%, the percentage of patients for whom antidepressants had a substantial benefit beyond a placebo. [Read the story](https://www.economist.com/leaders/2022/10/19/most-people-on-antidepressants-dont-need-them).
+<strong>Word of the week: </strong>“cicerone”, an expert in beer. Their number has grown in America with the proliferation of craft beers. [Read the full article](https://www.economist.com/united-states/2022/10/20/the-growth-of-the-cicerone-shows-how-craft-beer-is-thriving).
 
 ----------
 
-## Britain’s political déjà vu
+## Xi Jinping cements control
 
-Conservative politicians in Britain are, once again, squabbling about who should lead both their party and the country. On Thursday Liz Truss resigned as prime minister [after just 45 days in office](https://www.economist.com/britain/2022/10/20/who-will-be-britains-next-leader). Candidates hoping to replace her must secure the support of 100 of their colleagues to qualify for an expedited leadership contest to be completed within the next week. No one has yet officially thrown their hat in the ring, but likely contenders include Rishi Sunak, the former chancellor; Penny Mordaunt, the leader of the House of Commons; and Boris Johnson, the scandal-prone former prime minister. Of these, Mr Sunak currently seems the most popular with MPs.
+The five-yearly congress of China’s Communist Party closes on Saturday, but not before changes to the party’s charter are unveiled. These may include shortening the official name for the president’s political ideology from “Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era” to the snappier “Xi Jinping Thought”. That may seem trivial, but it evokes “Mao Zedong Thought”—the philosophy of the party’s founder—and would further elevate [Mr Xi’s position in party lore](https://www.economist.com/china/2022/09/22/how-xi-jinping-might-change-the-communist-partys-constitution).
 
-Ms Truss departs amid widespread derision. France’s president, Emmanuel Macron, stressed the need for Britain to find “stability”. Anthony Albanese noted that Ms Truss’s replacement will be his third British counterpart during his five months as Australia’s prime minister. Whomever it is will inherit a mountain of problems, not least constrained finances and a [nigh-on ungovernable party](https://www.economist.com/britain/2022/02/18/the-conservative-party-has-become-factional-and-rebellious). 
+On Sunday the party will present its reshuffled leadership. Mr Xi will undoubtedly be given a new five-year term as chief. The Politburo, which currently has 25 members, is expected to include even more of his protégés. One name to watch is Li Qiang, the top party official in Shanghai and an ally of Mr Xi. Some believe he will ascend to the seven-member Politburo Standing Committee, the top decision-making body, despite overseeing the [shambolic lockdown of China’s financial hub](https://www.economist.com/china/2022/04/09/a-clumsy-lockdown-of-shanghai-is-testing-the-zero-covid-strategy) earlier this year.
 
-## Steve Bannon faces the music
+## Tackling England’s troubled rugby clubs
 
-On Friday Steve Bannon, Donald Trump’s former consigliere, was sentenced to four months in prison and fined $6,500 for contempt of Congress. The punishment follows his conviction in July of two misdemeanours for refusing to appear before a House committee [investigating the Capitol riot](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) on January 6th 2021. Prosecutors argued that his “name-calling, mimicry and menacing rhetoric” towards the committee members warranted incarceration.
+Rugby players are [more known](https://www.economist.com/science-and-technology/2019/11/14/sensors-data-and-the-self-policing-rugby-match) for being covered in blood and sweat than tears. But on October 17th, when Wasps, a 155-year-old club from the English Midlands, went into administration, players were “bawling their eyes out”, according to the administrator who gave them the news. It was the second club from the Premiership, England’s top division, to go under in less than two weeks. Worcester Warriors, founded in 1871, suffered a similar fate. Both had crippling debts.
 
-The contempt-of-Congress statute is rarely enforced: no one has been imprisoned on such charges for more than half a century. Just one other person—Peter Navarro, a former adviser to Mr Trump—was indicted for thumbing his nose at the January 6th committee, though several higher-level aides also ignored subpoenas. Justice-department guidelines suggest that senior administration officials and the president should not be forced to testify before Congress, owing to [executive privilege](https://www.economist.com/the-economist-explains/2021/11/10/what-is-executive-privilege). So do not expect contempt charges for Mr Trump if, as is expected, he disregards his own forthcoming subpoena.
+Although the details of the clubs’ mismanagement might differ, their demise points to a [bigger problem in English rugby](https://www.economist.com/culture/2022/10/20/englands-rugby-clubs-are-too-small-for-their-boots). Ticket sales, sponsorship deals and television rights are not enough to sustain an ambitious club, and the men in blazers running the sport have poor financial oversight. This has led to wild overspending by teams attempting to gain the upper hand. And it has left the Premiership in disarray, scrambling to salvage the season while players look for new clubs.
 
-## Europe’s LNG bottlenecks
+## Alex Katz at New York’s Guggenheim
 
-On Thursday France, Portugal and Spain announced a new pipeline between Barcelona and Marseille. Dubbed “BarMar”, the line is mostly intended to transport renewable gases including green hydrogen across the Mediterranean Sea, but it will also be allowed to carry a limited amount of natural gas.
+Flat, cool and arresting, [Alex Katz’s](https://www.economist.com/1843/2012/06/01/the-third-renaissance-man) portraits are impossible to confuse with anyone else’s. The 95-year-old developed his vivid painting style—a blend of abstract-expressionism and billboard commercialism—in the late 1950s and continues to use it today. Mr Katz’s works are highly valued within the art world: “Blue Umbrella I”, a painting from 1972, sold for $4.1m in 2019. Still, he is overlooked by the public, in part because his paintings can be hard to classify. The Solomon R. Guggenheim Museum in New York aims to correct this oversight with “Alex Katz: Gathering”, a grand retrospective that opened on Friday.
 
-The EU needs the extra capacity. As it races to [restock gas supplies](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets) before winter, it has increasingly relied on [liquefied natural gas](https://www.economist.com/the-economist-explains/2022/02/26/if-the-supply-of-russian-gas-to-europe-were-cut-off-could-lng-plug-the-gap) ferried by super-chilled tankers, often from America, to replace the stuff piped from Russia. That has helped it fill its storage to more than 90%.
+Mr Katz’s colourful, minimalist portraits may seem simple, yet up close his brushwork is nuanced. The marvels of this show are his more recent and massively immersive landscapes, for which he continues to use a ladder. “I’ve been on fire,” he said recently, clearly tickled by both his productivity and his longevity.
 
-Yet recently bottlenecks have emerged. With the continent’s limited number of regasifying terminals now running at full capacity, dozens of tankers are being forced to wait their turn, with many circling off the coasts of Spain. Next year Spain will reopen El Musel, an LNG import terminal in the Bay of Biscay that has been idle for a decade. Neither that nor the BarMar pipeline will open fast enough to alleviate the current crisis. But they will help in the future.
+## A story finally told in “Descendant”
 
-## Italy inches closer to its new government
+In 1860 <em>Clotilda</em>, the last known slave ship to reach America, docked in Alabama. Having arrived decades after the importation of captive Africans to the country had been abolished, the ship was burned and sunk after the 110 people it was carrying had disembarked. Its remains were [found in 2019](https://www.economist.com/united-states/2019/05/30/remains-of-the-clotilda-are-discovered-in-southern-alabama), after decades of mystery. On Friday “Descendant”, a documentary focusing on the ship’s legacy, was released on Netflix. 
 
-A delegation from the [right-wing alliance](https://www.economist.com/europe/2022/07/28/italys-next-government-may-be-more-nationalist-than-europe-likes) that won Italy’s general election last month visited president Sergio Mattarella on Friday, rounding off the consultations that precede the formation of a [new government](https://www.economist.com/europe/2022/09/15/italys-probable-next-government-contains-many-tensions). Usually, each party sends its own delegation. But the uneasy allies want to showcase their unity and readiness to govern in coalition under [Giorgia Meloni](https://www.economist.com/leaders/2022/09/22/how-afraid-should-europe-be-of-giorgia-meloni), who leads the hard-right [Brothers of Italy](https://www.economist.com/europe/2022/09/22/giorgia-meloni-and-her-brothers-of-italy-look-set-to-win-the-next-election) party. 
+The film traces the lives of the men, women and children brought to America aboard the <em>Clotilda</em>. When slavery was abolished entirely five years after their voyage, many tried to return to what is now Benin, in west Africa, but did not have the funds to do so. They went on to found Africatown, a relatively successful community in Mobile, Alabama. They, and their descendents, were long threatened with violence if they revealed their history. No longer. “Descendant”—which was introduced at a film festival in Martha’s Vineyard, Massachusetts, by Barack Obama, a former president, and his wife Michelle—deftly explores their stories.
 
-The only fly in the ointment appears to be Silvio Berlusconi, who leads the Forza Italia party. Irate at being thwarted in the share-out of cabinet seats, the former prime minister has wrought havoc. In a recording leaked on Wednesday he embarrassed Ms Meloni by boasting of his closeness to Russia’s president, Vladimir Putin. After Mr Berlusconi’s tantrum Mr Mattarella doubtless wanted answers to some hard questions: about whether the right is as united as it claims, and whether Mr Berlusconi’s party should, as reportedly intended, get the foreign-affairs portfolio.
+## Weekend profile: John Fetterman, Pennsylvania’s Democratic Senate nominee
 
-## The melancholy wit of “The Banshees Of Inisherin”
+John Fetterman looks like no other senator. Bald, goateed, tattooed and well over two metres tall, he almost always wears his signature hoodie and shorts in public. He is [running for an open Senate seat](https://www.economist.com/united-states/2022/09/29/john-fetterman-is-a-canny-politician) in Pennsylvania against Mehmet Oz, a Republican television personality and former surgeon. The race may determine control of the Senate in America’s midterms on November 8th. So beyond his striking appearance, who is he?
 
-Martin McDonagh’s last comedy-drama, “[Three Billboards Outside Ebbing, Missouri](https://www.economist.com/prospero/2017/11/08/three-billboards-outside-ebbing-missouri-finds-hope-in-tragedy)”, won the BAFTA for Best Film, among other awards, in 2018. The playwright-turned-filmmaker’s darkly funny follow-up, which is released in cinemas on Friday, “The Banshees Of Inisherin”, is too mysterious and melancholy to earn as many prizes. Yet it is sure to win a cult following.
+Born in 1969, Mr Fetterman grew up in a conservative home in southern Pennsylvania. He played American football at university and expected to take over his father’s insurance business. But as he tells it, his friend’s sudden death in a car crash propelled him towards public service. He graduated from Harvard’s Kennedy School of Government, then taught high-school drop-outs in Braddock, a rough suburb of Pittsburgh.
 
-Mr McDonagh has recast the stars of his debut movie, “In Bruges”, Colin Farrell and Brendan Gleeson. The pair play old drinking buddies who live on a tiny Irish island in 1923. Their friendship comes to an abrupt halt when one of them suddenly announces that he will chop off his own fingers if he ever has to talk to the other again. That succinct, absurdist plot is all that Mr McDonagh needs to make a poetic, sharply scripted and beautifully acted meditation on kindness, depression, art, the Irish civil war—and the self-destructive stubbornness of men everywhere.
+In 2005 he ran for mayor of Braddock, and won by a single vote. He served three full terms, then campaigned for the Senate in 2016, losing in the primary. He then ran successfully for lieutenant-governor in 2018. His duties include presiding over the state senate (which he does, for dress-code reasons, in the one suit he owns) and Pennsylvania’s pardons board, which reviews felons’ requests for pardons and commutations. Long an advocate for criminal-justice reform, under his leadership the board has pardoned far more people than past boards.
 
-## Daily quiz
+Republicans have attacked him for being weak on crime—and, more broadly, for being far more left-wing than his blue-collar demeanour suggests. And indeed, Mr Fetterman endorsed Bernie Sanders for president in 2016, supports legalising cannabis and, aside from his support for fracking, is generally a liberal Democrat, even if he comes off as just another guy at the bar.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="80d1f5e9fac5f3f0f2e5f3f3efc0e5e3efeeefede9f3f4aee3efed">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+A bigger concern is his health: Mr Fetterman had a stroke in May. Since then he has given few interviews, agreed to just a single debate (to be held on Tuesday) and appeared halting in public. He has tried to make a virtue of his struggles, asking audiences at his rallies how many of them know someone with health problems. He may eventually fully recover. But if his condition is worse than he lets on, he will look slippery and evasive—the opposite of the straight-shooting persona he has created.
 
-<strong>Friday: </strong>Which famous river has two major tributaries, the White and the Blue?
+## Weekly crossword
 
-<strong>Thursday:</strong> Which newspaper group was acquired by crooked businessman Robert Maxwell in July 1984?
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-## The winners of last week’s crossword
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+<strong>Cryptic clues</strong>
 
-Asia: <strong>Sudhir Babu</strong>, Bengaluru, India  
- North America:<strong> Jane N. Gose</strong>, Kihei, Hawaii  
- Central and South America: <strong>Sebastian Agudelo-Restrepo</strong>, Santo Domingo, Dominican Republic  
- Europe: <strong>Anton Grui</strong>, Kyiv, Ukraine  
- Africa:<strong> Hasit Raja</strong>, Nairobi, Kenya  
- Oceania: <strong>Roberta MacDonald</strong>, Runaway Bay, Australia
+<em>1 down </em>Returning after break, tuition is disorganised (11)
 
-They all gave the correct answers of [Ali Khamenei](https://www.economist.com/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue), [Amazon](https://www.economist.com/briefing/2022/10/13/china-and-the-west-are-in-a-race-to-foster-innovation), [Andes ](https://www.economist.com/graphic-detail/2022/10/13/demand-for-drugs-caused-a-surge-in-child-labour-in-peru)and [import](https://www.economist.com/united-states/2022/10/13/the-supreme-court-ponders-animal-welfare). Check back tomorrow for this week’s crossword.
+<em>1 across</em> Bad hair day after a banishment in city (6)
+
+<em>2 across</em> What happens to a turkey with a shorter shelf life than lettuce (5) 
+
+<em>3 across </em>Depression hidden by mostly cruel revolutionary temperament (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>What India wants for an old stone (11)
+
+<em>1 across</em> Somewhere not too keen for a relationship with Washington (6) 
+
+<em>2 across</em> The holder of an embarrassing record (5)
+
+<em>3 across </em>Where one of the biggest genetic studies of Neanderthals has just been published (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Anand Mahajan</strong>, Mumbai, India
+
+North America: <strong>Mike Hesselschwardt</strong>, Cincinnati, America
+
+Central and South America: <strong>Ivan Campos</strong>, Ancud, Chile
+
+Europe:<strong> Javier Santamaría</strong>, Madrid, Spain
+
+Africa: <strong>Rob Blair</strong>, Harare, Zimbabwe
+
+Oceania: <strong>Grant Rees</strong>, Queenstown, New Zealand 
+
+<em>They all gave the correct answers of American Express, Library of Congress, Paddington Bear, Mirror Group and Nile. The theme is Agatha Christie novels: Murder on the Orient Express, The Body in the Library, 4.50 from Paddington, The Mirror Crack’d From Side to Side and Death on the Nile</em>
 
 ----------
 
