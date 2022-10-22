@@ -32,31 +32,33 @@ American<strong> stockmarkets</strong> recorded their biggest weekly gains since
 
 ----------
 
-## Xi Jinping cements control
+## What’s next on the battlefield in Ukraine
 
-China’s Communist Party will unveil its reshuffled leadership on Sunday. Announcements on Saturday, as the party closed its five-yearly congress, set the stage. Li Keqiang, the prime minister, and Wang Yang, once seen as a contender to succeed him, were left off the party’s Central Committee and thus will not be reappointed to the Politburo Standing Committee, the top decision-making body.
+In the next six weeks Ukraine has a window of opportunity to recapture the [strategic southern city of Kherson](https://www.economist.com/the-economist-explains/2022/08/30/why-does-kherson-matter) before winter, according to American officials. Rumours that they are about to do so have been circulating for at least a month, and Russia has evacuated many non-military personnel. Yet the front lines appear to have barely moved since a quick Ukrainian advance a fortnight ago.
 
-That will allow President Xi Jinping to appoint more of his loyalists to the Standing Committee, which currently has seven members. One name to watch is Li Qiang, the top party official in Shanghai and an ally of Mr Xi. Some believe he will ascend to the committee, despite overseeing the [shambolic lockdown of China’s financial hub](https://www.economist.com/china/2022/04/09/a-clumsy-lockdown-of-shanghai-is-testing-the-zero-covid-strategy) earlier this year.  
-  
- There was drama, too, on Saturday. A frail-looking Hu Jintao, the former president, was escorted off the leadership rostrum by two officials. No immediate explanation was given for his exit, which was caught on video.
+A long-running Russian offensive near Bakhmut in the eastern Donbas region is making no progress either. But Russia has had more success in degrading Ukraine’s electrical grid. Attacks by cruise missiles and cheap [Iranian-made drones](https://www.economist.com/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine) have knocked out 30% of the country’s generating capacity. Air-raid sirens and partial blackouts have become a daily event in Kyiv, the capital. The West is supplying Ukraine with more and better air-defence systems. But Iran is not just selling drones to Russia. American intelligence claims it has sent pilots to Crimea to fly them.
 
-## Tackling England’s troubled rugby clubs
+## An intriguing debate in the Golden State
 
-Rugby players are [more known](https://www.economist.com/science-and-technology/2019/11/14/sensors-data-and-the-self-policing-rugby-match) for being covered in blood and sweat than tears. But on October 17th, when Wasps, a 155-year-old club from the English Midlands, went into administration, players were “bawling their eyes out”, according to the administrator who gave them the news. It was the second club from the Premiership, England’s top division, to go under in less than two weeks. Worcester Warriors, founded in 1871, suffered a similar fate. Both had crippling debts.
+California has always attracted dreamers, from aspiring actors to miners during the Gold Rush. Brian Dahle, the Republican candidate for governor, is also battling the odds. On Sunday Mr Dahle, a state senator from northern California, will debate Gavin Newsom, the incumbent Democratic governor. Mr Dahle trails Mr Newsom by 23% in the polls. Yet the uncompetitive race is still worth watching.
 
-Although the details of the clubs’ mismanagement might differ, their demise points to a [bigger problem in English rugby](https://www.economist.com/culture/2022/10/20/englands-rugby-clubs-are-too-small-for-their-boots). Ticket sales, sponsorship deals and television rights are not enough to sustain an ambitious club, and the men in blazers running the sport have poor financial oversight. This has led to wild overspending by teams attempting to gain the upper hand. And it has left the Premiership in disarray, scrambling to salvage the season while players look for new clubs.
+The first reason is the resilience and rise of Mr Newsom. Last year he beat a “recall” campaign that threatened to remove him from office, and now he is rumoured to be considering a presidential bid after his second and final term as governor. He is already channelling campaign funds into [attacking Republican governors in other states](https://www.economist.com/united-states/2022/07/28/californias-governor-takes-aim-at-texas-with-a-new-gun-law) over social issues. Wider recognition will help his presidential chances. 
 
-## Alex Katz at New York’s Guggenheim
+The second is that it underscores just how Democratic California has become. A Republican was last elected as governor in 2006, and registered Democrats outnumber Republicans by about two to one.
 
-Flat, cool and arresting, [Alex Katz’s](https://www.economist.com/1843/2012/06/01/the-third-renaissance-man) portraits are impossible to confuse with anyone else’s. The 95-year-old developed his vivid painting style—a blend of abstract-expressionism and billboard commercialism—in the late 1950s and continues to use it today. Mr Katz’s works are highly valued within the art world: “Blue Umbrella I”, a painting from 1972, sold for $4.1m in 2019. Still, he is overlooked by the public, in part because his paintings can be hard to classify. The Solomon R. Guggenheim Museum in New York aims to correct this oversight with “Alex Katz: Gathering”, a grand retrospective that opened on Friday.
+## New analysis of the story of covid
 
-Mr Katz’s colourful, minimalist portraits may seem simple, yet up close his brushwork is nuanced. The marvels of this show are his more recent and massively immersive landscapes, for which he continues to use a ladder. “I’ve been on fire,” he said recently, clearly tickled by both his productivity and his longevity.
+The origins of covid-19 are hotly contested. Many think it was a spillover from wild animals. Others have pointed to the coronavirus engineering going on in laboratories around the world, but particularly in Wuhan—the Chinese city where the virus was first identified.
 
-## A story finally told in “Descendant”
+Into this fray comes analysis from Alex Washburne, a mathematical biologist who runs Selva, a small startup in microbiome science, Antonius VanDongen, of Duke University, and Valentin Bruttel of University of Würzburg. [Their claim](https://www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering), published on October 20th on bioRxiv, a preprint server, suggests SARS-CoV-2 has some genomic features that they say would appear if the virus had been stitched together by genetic engineering. By examining how many of these putative stitching sites SARS-CoV-2 has, and how relatively short these pieces are, they attempt to assess how much the virus resembles others found in nature.
 
-In 1860 <em>Clotilda</em>, the last known slave ship to reach America, docked in Alabama. Having arrived decades after the importation of captive Africans to the country had been abolished, the ship was burned and sunk after the 110 people it was carrying had disembarked. Its remains were [found in 2019](https://www.economist.com/united-states/2019/05/30/remains-of-the-clotilda-are-discovered-in-southern-alabama), after decades of mystery. On Friday “Descendant”, a documentary focusing on the ship’s legacy, was released on Netflix. 
+The paper has not yet been peer reviewed. Early reactions, though, have been deeply divided. Any widely supported conclusion that the virus was engineered would have profound ramifications, both political and scientific.
 
-The film traces the lives of the men, women and children brought to America aboard the <em>Clotilda</em>. When slavery was abolished entirely five years after their voyage, many tried to return to what is now Benin, in west Africa, but did not have the funds to do so. They went on to found Africatown, a relatively successful community in Mobile, Alabama. They, and their descendents, were long threatened with violence if they revealed their history. No longer. “Descendant”—which was introduced at a film festival in Martha’s Vineyard, Massachusetts, by Barack Obama, a former president, and his wife Michelle—deftly explores their stories.
+## Is Formula 1’s spending cap fit for purpose?
+
+Formula 1 returns to Texas for the American Grand Prix. But with the drivers’ championship already won, for a second successive year, by Max Verstappen, a Dutch driver for the Red Bull team, fans have turned their attention to a row over the competition’s spending cap. 
+
+Last week the sport’s governing body, the FIA, said that Red Bull had exceeded the team limit of $145m for 2021, the first year it was enforced. The cap is meant to make F1 more competitive by levelling the playing field. Red Bull dismissed the accusation as “fictitious” and said it had done nothing wrong. Meanwhile other voices—including Lewis Hamilton, a British driver for Mercedes, and Zak Brown, the team boss for McLaren—are calling for the team to be punished. If there has been a breach and the FIA fails to take action, the cap will have stalled on the grid.
 
 ## Weekend profile: John Fetterman, Pennsylvania’s Democratic Senate nominee
 
