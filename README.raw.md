@@ -18,7 +18,7 @@ Heavy Russian <strong>missile strikes</strong> on Ukraine’s energy facilities 
 
 Rishi Sunak, Britain’s former chancellor, has yet to declare his candidature to [replace Liz Truss](https://www.economist.com/britain/2022/10/20/who-will-be-britains-next-leader) as <strong>leader of the Conservative Party</strong>, and thus as prime minister. But he has the 100 nominations from fellow MPs needed to reach the next stage of the contest. Boris Johnson, a former leader, also remains officially out of the race, but some of his supporters say he too has the necessary nominations. The only declared candidate at this stage is Penny Mordaunt.
 
-More than 5m Americans in 39 states have already cast their ballots ahead of the <strong>midterms </strong>in November. Early-voting turnout is high in key races, including Georgia and Ohio. At the current rate turnout could meet, or exceed, the number of votes cast in the last midterm elections, in 2018, which saw the highest turnout since 1978. 
+More than 5m Americans in 39 states have already cast their ballots ahead of the <strong>midterms </strong>in November. Early-voting turnout is high in key races, including Georgia and Ohio. At the current rate turnout could match, or even exceed, that of the previous midterm elections, in 2018, which was higher than at any time since 1978.
 
 Listen to an abridged version of the subscriber-only briefing.
 
