@@ -34,9 +34,11 @@ American<strong> stockmarkets</strong> recorded their biggest weekly gains since
 
 ## Xi Jinping cements control
 
-The five-yearly congress of China’s Communist Party closes on Saturday, but not before changes to the party’s charter are unveiled. These may include shortening the official name for the president’s political ideology from “Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era” to the snappier “Xi Jinping Thought”. That may seem trivial, but it evokes “Mao Zedong Thought”—the philosophy of the party’s founder—and would further elevate [Mr Xi’s position in party lore](https://te.arielherself.xyz/china/2022/09/22/how-xi-jinping-might-change-the-communist-partys-constitution).
+China’s Communist Party will unveil its reshuffled leadership on Sunday. Announcements on Saturday, as the party closed its five-yearly congress, set the stage. Li Keqiang, the prime minister, and Wang Yang, once seen as a contender to succeed him, were left off the party’s Central Committee and thus will not be reappointed to the Politburo Standing Committee, the top decision-making body.
 
-On Sunday the party will present its reshuffled leadership. Mr Xi will undoubtedly be given a new five-year term as chief. The Politburo, which currently has 25 members, is expected to include even more of his protégés. One name to watch is Li Qiang, the top party official in Shanghai and an ally of Mr Xi. Some believe he will ascend to the seven-member Politburo Standing Committee, the top decision-making body, despite overseeing the [shambolic lockdown of China’s financial hub](https://te.arielherself.xyz/china/2022/04/09/a-clumsy-lockdown-of-shanghai-is-testing-the-zero-covid-strategy) earlier this year.
+That will allow President Xi Jinping to appoint more of his loyalists to the Standing Committee, which currently has seven members. One name to watch is Li Qiang, the top party official in Shanghai and an ally of Mr Xi. Some believe he will ascend to the committee, despite overseeing the [shambolic lockdown of China’s financial hub](https://te.arielherself.xyz/china/2022/04/09/a-clumsy-lockdown-of-shanghai-is-testing-the-zero-covid-strategy) earlier this year.  
+  
+ There was drama, too, on Saturday. A frail-looking Hu Jintao, the former president, was escorted off the leadership rostrum by two officials. No immediate explanation was given for his exit, which was caught on video.
 
 ## Tackling England’s troubled rugby clubs
 
