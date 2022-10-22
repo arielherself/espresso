@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-10-21</p>
+# <p align="center">The world in brief 2022-10-22</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -18,7 +18,7 @@ The House committee investigating the January 6th attack [issued a subpoena](htt
 
 <strong>Penny Mordaunt</strong>, the leader of the House of Commons, was the first to declare her candidacy in the Conservative Party’s [leadership election](https://www.economist.com/britain/2022/10/20/who-will-be-britains-next-leader) to replace Liz Truss as prime minister. Other likely frontrunners include Rishi Sunak, a former chancellor, and Boris Johnson, an ex-prime minister who was forced to resign in July. Markets slumped further as official data revealed higher-than-predicted public-sector borrowing in September.
 
-<strong>Imran Khan</strong>, [former prime minister](https://www.economist.com/asia/2022/10/20/imran-khan-appears-to-be-more-popular-than-ever) of Pakistan, has been disqualified from political office for five years for alleged corruption. The country’s elections commission said Mr Khan misled officials about gifts he received from the leaders of Saudi Arabia and Dubai. Pakistan is expecting a general election in 2023, but Mr Khan—whose anti-government rallies have attracted mass support—cannot stand in them. competitors’. His[ purchase](https://www.economist.com/business/2022/10/11/will-elon-musk-owned-twitter-end-up-as-a-deal-from-hell) is expected to close by October 28th.
+<strong>Imran Khan</strong>, [former prime minister](https://www.economist.com/asia/2022/10/20/imran-khan-appears-to-be-more-popular-than-ever) of Pakistan, has been disqualified from political office for five years for alleged corruption. The country’s elections commission said Mr Khan misled officials about gifts he received from the leaders of Saudi Arabia and Dubai. Pakistan is expecting a general election in 2023, but Mr Khan—whose anti-government rallies have attracted mass support—cannot stand in them.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ Mr McDonagh has recast the stars of his debut movie, “In Bruges”, Colin Farr
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cf9ebaa6b58abcbfbdaabcbca08faaaca0a1a0a2a6bcbbe1aca0a2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which famous river has two major tributaries, the White and the Blue?
 
