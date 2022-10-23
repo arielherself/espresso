@@ -18,7 +18,7 @@
 
 <strong>Russia’s </strong>administration in occupied <strong>Kherson </strong>reported an increase in civilians trying to flee Ukraine’s advancing counteroffensive. Russia has ordered an evacuation of the city. Elsewhere, heavy Russian <strong>missile strikes</strong> on Ukraine’s energy facilities left over a million people in the south and west of the country struggling with power cuts. The barrage is part of [a campaign](https://www.economist.com/europe/2022/10/13/russias-terror-strikes-fail-to-do-much-damage-to-ukraine) to cripple Ukraine’s infrastructure.
 
-<strong>France’s president</strong>, Emmanuel Macron, will meet <strong>Italy’s new prime minister</strong>, [Giorgia Meloni](https://www.economist.com/leaders/2022/09/22/how-afraid-should-europe-be-of-giorgia-meloni), on Sunday night, his office announced. Ms Meloni, the leader of the Brothers of Italy party, was [sworn in](https://www.economist.com/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy) on Saturday as head of the most right-wing Italian government since the end of the second world war. Mr Macron was already on an official visit to the country.
+<strong>France’s president</strong>, Emmanuel Macron, held talks with <strong>Italy’s new prime minister</strong>, [Giorgia Meloni](https://www.economist.com/leaders/2022/09/22/how-afraid-should-europe-be-of-giorgia-meloni). Ms Meloni, the leader of the Brothers of Italy party, was [sworn in](https://www.economist.com/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy) on Saturday as head of the most right-wing Italian government since the end of the second world war. Mr Macron was already on an official visit to the country. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
