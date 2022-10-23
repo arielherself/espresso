@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 More than 5m Americans in 39 states have already cast their ballots, ahead of the <strong>midterms </strong>in November. Early voting turnout is high in [key races](https://te.arielherself.xyz/mid-terms-2022), including Georgia and Ohio. At the current rate turnout could meet, or exceed, the number of votes cast in the last midterm elections, in 2018, which saw the biggest turnout since 1978.
 
-<strong>Hurricane Roslyn</strong> strengthened to a major Category 4 storm as it headed towards the Pacific coast of <strong>Mexico</strong>. America’s hurricane centre said it could bring hazardous winds, flash flooding and a damaging storm surge. Hundreds of people have been evacuated to emergency shelters. It is expected to make landfall on Sunday.
+<strong>Hurricane Roslyn</strong> made landfall on the Pacific coast of <strong>Mexico</strong>, bringing with it a storm surge and dangerous winds. Hundreds of people have been evacuated to emergency shelters. But the storm is now weakening and is expected to do so further as it travels inland.
 
 <strong>Word of the week: </strong>“cicerone”, an expert in beer. Their number has grown in America with the proliferation of craft beers. [Read the full article](https://te.arielherself.xyz/united-states/2022/10/20/the-growth-of-the-cicerone-shows-how-craft-beer-is-thriving).
 
