@@ -44,7 +44,7 @@ Mr Shmyhal demands that frozen Russian assets, worth up to $500bn, be used to fi
 
 [John Fetterman](https://www.economist.com/united-states/2022/09/29/john-fetterman-is-a-canny-politician) and Mehmet Oz, the Democratic and Republican nominees for Pennsylvania’s open Senate seat, [square off](https://www.economist.com/united-states/2022/06/09/mehmet-oz-and-john-fetterman-square-off-in-pennsylvania) on Tuesday in what is likely to be their only debate. Back when he was trailing badly in the polls, Mr Oz—who is at ease before the cameras after years of television appearances—had been pushing for five debates. But Mr Fetterman agreed to just this one, held well after the start of early voting.
 
-Mr Fetterman has never been a strong debater, but voters will be watching him keenly tonight. He suffered a stroke in May, and although his doctor says he’s “recovering well” and can “work full duty in public office”, he also still shows “symptoms of an auditory-processing disorder”, and will use closed captioning during the debate. Mr Fetterman’s wide polling lead from earlier this autumn has all but vanished: the two candidates are neck-and-neck. And the outcome of this race matters—it could determine [control of the Senate](https://www.economist.com/interactive/us-midterms-2022/forecast/senate).
+Mr Fetterman has never been a strong debater, but voters will be watching him keenly tonight. He suffered a stroke in May, and although his doctor says he’s “recovering well” and can “work full duty in public office”, he also still shows “symptoms of an auditory-processing disorder”, and will use closed captioning during the debate. Mr Fetterman’s wide polling lead from earlier this autumn has all but vanished: the two candidates are neck-and-neck. And the outcome of this race matters—it could determine control of the Senate.
 
 ## A spooky week for Big Tech
 
@@ -66,7 +66,7 @@ Each episode has a different director and a different setting in 20th-century Am
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which philosopher wrote the essay “The Hedgehog and the Fox”?
 
