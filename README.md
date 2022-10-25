@@ -22,11 +22,11 @@ A Russian court upheld a nine-year jail sentence for <strong>Brittney Griner</st
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>House-price</strong> growth in <strong>America</strong> decelerated in August at its fastest pace since tracking started in 1987, according to the Case-Shiller home-price index. Prices rose by 13% in the year through August, down from July’s year-over-year growth of 15.6%. The Federal Reserve’s continuing interest-rate rises are likely to [dent price growth](https://te.arielherself.xyz/leaders/2022/10/20/a-global-house-price-slump-is-coming) even more, as mortgage financing becomes more expensive.
+
 <strong>Jamie Dimon</strong>, the boss of JPMorgan Chase, said he believes that <strong>America </strong>and <strong>Saudi Arabia</strong> will “remain allies” despite recent tensions. Mr Dimon is currently in Riyadh, Saudi Arabia’s capital, for the Future Investment Initiative conference. American bankers have flocked to “Davos in the desert” but officials from the Biden administration are notably absent amid a continued spat over [oil production](https://te.arielherself.xyz/finance-and-economics/2022/10/05/opec-defies-joe-biden-with-a-big-output-cut).
 
 <strong>HSBC</strong> named Georges Elhedery as its new chief financial officer, causing speculation that he will eventually replace [Noel Quinn](https://te.arielherself.xyz/finance-and-economics/2019/08/08/the-surprising-departure-of-hsbcs-chief-executive), the chief executive. Europe’s largest bank also reported a bump in quarterly profits on the back of rising global interest rates. Its net interest income increased by a third to $8.6bn from July to September and pre-tax profit, at $6.5bn, beat expectations.
-
-Opposition groups in <strong>Myanmar </strong>reported that the army killed at least 50 civilians in <strong>air strikes </strong>against a concert-going crowd. The event was being held to celebrate the 62nd anniversary of the <strong>Kachin Independence Organisation</strong>, a separatist group with an armed wing that has backed the [broader-based uprising](https://te.arielherself.xyz/asia/2022/01/29/myanmars-generals-have-united-the-country-against-themselves) against Myanmar’s junta. Survivors said they saw three fighter jets drop bombs.
 
 <strong>Fact of the day: </strong>300,000, the number of paintings Steve Keene, an American artist, estimates to have sold or donated since the early 1990s. [Read the full story](https://te.arielherself.xyz/culture/2022/10/24/steve-keenes-art-caters-for-the-many-not-the-few).
 
@@ -66,7 +66,7 @@ Each episode has a different director and a different setting in 20th-century Am
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="fbaa8e9281be888b899e888894bb9e989495949692888fd5989496">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="510024382b142221233422223e1134323e3f3e3c3822257f323e3c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which philosopher wrote the essay “The Hedgehog and the Fox”?
 
