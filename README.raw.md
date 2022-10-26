@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Countries are failing to meet their <strong>climate commitments</strong>, according to a report released on Wednesday ahead of <strong>COP27</strong>, the UN summit in Egypt in November. The UN’s climate body found that only 24 out of 193 countries increased their ambitions this year, despite all promising they would. If countries come good on their current pledges, the world will warm by roughly 2.5°C above pre-industrial levels by 2100, [with disastrous consequences](https://www.economist.com/the-economist-explains/2021/03/30/what-would-different-levels-of-global-warming-look-like).
-
 <strong>Meta’s</strong> quarterly profit, of $4.4bn, [fell short of forecasts](https://www.economist.com/business/2022/10/16/how-much-trouble-is-mark-zuckerberg-in), shaving more than 12% off its share price in post-session trading. Revenues declined by 4% year over year, to $27.7bn. Facebook’s parent company said it expected revenues of $30-32.5bn in the fourth quarter, below most analysts’ expectations. Weaker digital-ad spending continues to crimp growth at the social-media firm.
+
+Countries are failing to meet their <strong>climate commitments</strong>, according to a report released on Wednesday ahead of <strong>COP27</strong>, the UN summit in Egypt in November. The UN’s climate body found that only 24 out of 193 countries increased their ambitions this year, despite all promising they would. If countries come good on their current pledges, the world will warm by roughly 2.5°C above pre-industrial levels by 2100, [with disastrous consequences](https://www.economist.com/the-economist-explains/2021/03/30/what-would-different-levels-of-global-warming-look-like).
 
 <strong>Russia</strong> held its first major <strong>nuclear drill</strong> since it invaded Ukraine, which simulated a retaliatory strike and was supervised by President [Vladimir Putin](https://www.economist.com/europe/2022/10/26/russias-elite-begins-to-ponder-a-putinless-future) via videolink. A day earlier America’s president, <strong>Joe Biden</strong>, warned that deploying tactical nuclear weapons would be an “incredibly serious mistake”. Separately, Ukrainian media reported that the bodies of around 1,000 people had been exhumed in territories liberated in the north-east of the country.
 
@@ -64,7 +64,7 @@ Their stunts—which also included splattering soup over Van Gogh’s “Sunflow
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8cddf9e5f6c9fffcfee9ffffe3cce9efe3e2e3e1e5fff8a2efe3e1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which Supreme Court justice died in September 2020?
 
