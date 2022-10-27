@@ -34,13 +34,13 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## A superficial rebound for America’s economy
 
-Technically, it will look great. Data on Thursday are expected to show that in the third quarter of the year America’s GDP growth accelerated to about 3% on an annualised basis. That will mark a sharp rebound after contractions in both the first and [second quarters](https://www.economist.com/graphic-detail/2022/07/28/americas-gdp-shrinks-for-the-second-consecutive-quarter). The Democrats and Joe Biden will no doubt be grateful for positive headlines about the economy less than two weeks ahead of [midterm elections](https://www.economist.com/mid-terms-2022), even if they will probably still face a drubbing at the ballot box.
+Technically, it looks great. Data on Thursday showed that in the third quarter of the year America’s GDP growth accelerated to 2.6% on an annualised basis. That marks a sharp rebound after contractions in both the first and [second quarters](https://www.economist.com/graphic-detail/2022/07/28/americas-gdp-shrinks-for-the-second-consecutive-quarter). The Democrats and Joe Biden will no doubt be grateful for positive headlines about the economy less than two weeks ahead of [midterm elections](https://www.economist.com/mid-terms-2022), even if they will probably still face a drubbing at the ballot box.
 
 Viewed in more detail, the [economic picture](https://www.economist.com/finance-and-economics/2022/06/09/a-focus-on-gdp-understates-the-strength-of-americas-recovery) is less reassuring. Arithmetically, strong imports were a drag on GDP at the start of the year. More recently, imports have weakened, reflecting more sluggish domestic demand. Counter-intuitively, that makes GDP growth appear stronger now since fewer American dollars are going abroad. That does not mean that America is in a recession yet. But it does signal that it is losing steam.
 
 ## The ECB makes a tricky call
 
-The decision of the[ European Central Bank](https://www.economist.com/finance-and-economics/2022/07/14/the-ecbs-masterplan-to-manipulate-markets) on Thursday was as expected: a second increase of the bank’s main rate by 0.75 percentage points, bringing it to 2%. But a statement from the bank’s top brass suggests it may slow down its tightening in the coming months. That is because three important economic indicators all point in different directions.
+The decision of the[ European Central Bank](https://www.economist.com/finance-and-economics/2022/07/14/the-ecbs-masterplan-to-manipulate-markets) on Thursday was as expected: a second increase of the bank benchmark rates by 0.75 percentage points, bringing it to 1.5%. But a statement from the bank’s top brass suggests it may slow down its tightening in the coming months. That is because three important economic indicators all point in different directions.
 
 The key number is the euro zone’s inflation rate, which soared to 9.9% in September, far above the[ bank’s 2% target](https://www.economist.com/finance-and-economics/2021/07/17/what-does-the-ecbs-new-target-mean-in-practice). That calls for a further steep rate rise. But data on economic sentiment suggest a screeching downturn is under way, especially in gas-hungry Germany. That calls for a rate cut.
 
@@ -66,7 +66,7 @@ But Mr Netanyahu’s motivation for picking up a pen is not altruistic. Instead,
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4b1a3e22310e383b392e3838240b2e282425242622383f65282426">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="613014081b241211130412120e2104020e0f0e0c0812154f020e0c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which American swimmer was the star of a series of “aquamusicals” in the late 1940s and early ’50s?
 
