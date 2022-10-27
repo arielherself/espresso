@@ -38,13 +38,13 @@ Technically, it will look great. Data on Thursday are expected to show that in t
 
 Viewed in more detail, the [economic picture](https://te.arielherself.xyz/finance-and-economics/2022/06/09/a-focus-on-gdp-understates-the-strength-of-americas-recovery) is less reassuring. Arithmetically, strong imports were a drag on GDP at the start of the year. More recently, imports have weakened, reflecting more sluggish domestic demand. Counter-intuitively, that makes GDP growth appear stronger now since fewer American dollars are going abroad. That does not mean that America is in a recession yet. But it does signal that it is losing steam.
 
-## The ECB grapples with a rate decision
+## The ECB makes a tricky call
 
-The [European Central Bank’s](https://te.arielherself.xyz/finance-and-economics/2022/07/14/the-ecbs-masterplan-to-manipulate-markets) top brass convene in Frankfurt on Thursday to decide how much to raise interest rates. It will be a difficult call: three important economic indicators all point in different directions.
+The decision of the[ European Central Bank](https://te.arielherself.xyz/finance-and-economics/2022/07/14/the-ecbs-masterplan-to-manipulate-markets) on Thursday was as expected: a second increase of the bank’s main rate by 0.75 percentage points, bringing it to 2%. But a statement from the bank’s top brass suggests it may slow down its tightening in the coming months. That is because three important economic indicators all point in different directions.
 
-The key number is the euro zone’s inflation rate, which soared to 9.9% in September, far above the [bank’s 2% target](https://te.arielherself.xyz/finance-and-economics/2021/07/17/what-does-the-ecbs-new-target-mean-in-practice). That calls for a steep rate rise. But data on economic sentiment suggest a screeching downturn is under way, especially in gas-hungry Germany. That calls for a rate cut.
+The key number is the euro zone’s inflation rate, which soared to 9.9% in September, far above the[ bank’s 2% target](https://te.arielherself.xyz/finance-and-economics/2021/07/17/what-does-the-ecbs-new-target-mean-in-practice). That calls for a further steep rate rise. But data on economic sentiment suggest a screeching downturn is under way, especially in gas-hungry Germany. That calls for a rate cut.
 
-A final consideration is wage growth. Employers and workers have struck mostly moderate agreements, providing no reason for rate increases. Germany’s chemical industry, for example, has increased salaries by 3.25% as well as giving handouts to compensate for inflation. With energy prices falling thanks to a warm autumn in Europe, the ECB may decide to go soft this time. That could mean a smaller rate rise than the widely predicted 0.75 percentage points.
+A final consideration is wage growth. Employers and workers have struck mostly moderate agreements, providing no reason for rate increases. With energy prices falling thanks to a warm autumn in Europe, the ECB may decide to go softer next time.
 
 ## Putin’s propaganda parley
 
@@ -66,7 +66,7 @@ But Mr Netanyahu’s motivation for picking up a pen is not altruistic. Instead,
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4b1a3e22310e383b392e3838240b2e282425242622383f65282426">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which American swimmer was the star of a series of “aquamusicals” in the late 1940s and early ’50s?
 
