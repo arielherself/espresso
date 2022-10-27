@@ -66,7 +66,7 @@ But Mr Netanyahu’s motivation for picking up a pen is not altruistic. Instead,
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c392b6aab986b0b3b1a6b0b0ac83a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which American swimmer was the star of a series of “aquamusicals” in the late 1940s and early ’50s?
 
