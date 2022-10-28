@@ -52,7 +52,7 @@ Exxon still has worries. Earlier in October the company left Russia empty-handed
 
 ## Northern Ireland heads to elections, again
 
-Northern Ireland has had no regional government since February. Each of its two biggest parties can block the other from governing. [Sinn Féin](https://www.economist.com/britain/sinn-fein-has-become-northern-irelands-biggest-party/21809215), which won its first election in May, wants a united Ireland. The runner-up Democratic Unionist Party wants to keep Northern Ireland British. At midnight on Friday, six months since the last election, their time to re-establish a power-sharing government ran out, triggering a fresh election. It will probably be held on December 15th. 
+Northern Ireland has had no regional government since February. Each of its two biggest parties can block the other from governing. [Sinn Féin](https://www.economist.com/britain/sinn-fein-has-become-northern-irelands-biggest-party/21809215), which won its first election in May, wants a united Ireland. The runner-up Democratic Unionist Party wants to keep Northern Ireland British. At midnight on Friday, six months since the last election, their time to re-establish a power-sharing government ran out, with Westminster already confirming that a fresh election will be called. It will probably be held on December 15th. 
 
 Both parties are expected to consolidate their positions with voters. Whichever wins, their main contention—on the [Northern Ireland protocol](https://www.economist.com/britain/2022/06/16/the-northern-ireland-protocol-enrages-some-businesses-pleases-others) that created a new Irish Sea border with Britain after Brexit—will remain unresolved. To prevent the region from stagnating in the meantime, Westminster may give more power to civil servants, who effectively ran the country the last time the government collapsed in 2017. Then, it took three years to replace them with politicians. The lengthy backlog of untaken government decisions looks set to grow.
 
@@ -64,7 +64,7 @@ The film is anxious to mark itself apart from heterosexual smash hits, making co
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="104165796a556360627563637f5075737f7e7f7d7963643e737f7d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="510024382b142221233422223e1134323e3f3e3c3822257f323e3c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which singer-songwriter gave a rapid tour of modern history in his song “We Didn’t Start the Fire”?
 
