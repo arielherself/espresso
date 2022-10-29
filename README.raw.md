@@ -18,7 +18,7 @@ America’s three largest <strong>stockmarket </strong>indices ended the week hi
 
 Police arrested a hammer-wielding intruder as he assaulted the husband of <strong>Nancy Pelosi</strong>, the top-ranking Democrat in America’s House of Representatives, at Mr Pelosi’s San Francisco home. The suspect, who demanded “Where is Nancy?”, was charged with attempted murder. The attack comes days before the [<strong>midterm elections</strong>](https://www.economist.com/films/2022/10/20/american-democracy-is-under-threat) and amid a grim spike in threats against lawmakers. Ms Pelosi’s 82-year-old husband, Paul, underwent surgery and is recovering from his injuries in hospital.
 
-Tropical Storm Nalgae killed dozens in the southern <strong>Philippines</strong>, as flash floods and landslides [surprised residents overnight](https://www.economist.com/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse). At least 72 are believed dead, with many still missing. The storm—the sixteenth this year to hit the string of islands—is expected to batter the country’s eastern coast this weekend. Around 5,000 people have been evacuated from flood-prone areas.
+Tropical Storm Nalgae killed dozens in the southern <strong>Philippines</strong>, as flash floods and landslides [surprised residents overnight](https://www.economist.com/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse). At least 45 are believed dead, with many still missing. The storm—the sixteenth this year to hit the string of islands—is expected to batter the country’s eastern coast this weekend. Around 5,000 people have been evacuated from flood-prone areas.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ The film is anxious to mark itself apart from heterosexual smash hits, making co
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6d3c180417281e1d1f081e1e022d080e02030200041e19430e0200">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which singer-songwriter gave a rapid tour of modern history in his song “We Didn’t Start the Fire”?
 
