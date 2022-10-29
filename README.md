@@ -22,7 +22,7 @@ Two <strong>car-bombs</strong> caused “scores of civilian casualties” in Mog
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Tropical Storm Nalgae killed dozens in the southern <strong>Philippines</strong>, as flash floods and landslides [surprised residents overnight](https://te.arielherself.xyz/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse). At least 45 are believed dead, with many still missing. The storm—the 16th this year to hit the string of islands—is expected to batter the country’s eastern coast this weekend. Around 5,000 people have been evacuated from flood-prone areas.
+Tropical Storm Nalgae killed dozens in the southern <strong>Philippines</strong>, as flash floods and landslides [surprised residents overnight](https://te.arielherself.xyz/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse). At least 47 are believed dead, with many still missing. The storm—the 16th this year to hit the string of islands—is expected to batter the country’s eastern coast this weekend. Around 5,000 people have been evacuated from flood-prone areas.
 
 <strong>Elon Musk</strong> said that he would establish a council with “widely diverse viewpoints” to oversee content moderation at <strong>Twitter</strong>. Mr Musk, who completed his [on-off-on](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) $44bn takeover of the social-media platform late on Thursday, had previously indicated that he would lift “lifetime” bans for some users. Having sacked Twitter’s chief executive, he is reportedly planning to play the role himself, as he does at Tesla and SpaceX.
 
