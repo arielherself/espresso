@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Russia’s</strong> defence ministry said that the country would suspend a deal allowing <strong>grain exports</strong> from Ukrainian ports, claiming that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
+<strong>South Korean</strong> officials said that at least 120 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital. More than 100 were reportedly injured. The president, Yoon Suk-yeol, chaired an emergency meeting after the tragedy, which took place in the Itaewon district, a popular area for nightlife.
 
-<strong>South Korean</strong> officials said that at least 59 people died and 150 were injured in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital. The president, Yoon Suk-yeol, chaired an emergency meeting after the tragedy, which took place in the Itaewon district, a popular area for nightlife.
+<strong>Russia’s</strong> defence ministry said that the country would suspend a deal allowing <strong>grain exports</strong> from Ukrainian ports, claiming that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
 
 The head of <strong>Iran’s Revolutionary Guards Corps</strong>, the Islamic republic’s praetorian body, said that Saturday would be the “last day of the riots” and warned protesters not to go to the streets. [Iranians](https://te.arielherself.xyz/leaders/2022/10/26/will-irans-women-win) have been demanding an end to the regime after the death in custody last month of Mahsa Amini, a young woman detained by the “morality police”. Security forces are cracking down; hundreds have been killed.
 
