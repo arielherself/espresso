@@ -84,7 +84,7 @@ Oceania: <strong>Rob Walton</strong>, Wainui, New Zealand
 
 <em>They all gave the correct answers of The Chronicles of Narnia, Isaiah Berlin, Ruth Bader Ginsburg, Esther Williams and Billy Joel. The theme is books of the Bible: Chronicles, Isaiah, Ruth, Esther and Joel.</em>
 
-Check back on Monday for the beginning of next week’s edition, and your chance to win.
+Check back on Monday for the beginning of next week’s edition and your chance to win.
 
 ## Weekly crossword
 
