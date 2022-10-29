@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>South Korean</strong> officials said that at least 146 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital. Another 150 were injured. The president, Yoon Suk-yeol, chaired an emergency meeting after the tragedy, which took place in the Itaewon district, a popular area for nightlife.
+At least 146 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 150 were injured. The president, Yoon Suk-yeol, chaired an emergency meeting after the tragedy, which took place in the Itaewon district, a popular area for nightlife.
 
 <strong>Russia’s</strong> defence ministry said that the country would suspend a deal allowing <strong>grain exports</strong> from Ukrainian ports, claiming that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
 
