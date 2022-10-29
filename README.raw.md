@@ -14,79 +14,104 @@
 
 Sergei Shoigu, <strong>Russia’s</strong> defence minister, said the <strong>“partial mobilisation”</strong> of 300,000 reservists was complete, with 82,000 already sent to Ukraine. The mobilisation, which Russia [introduced in September](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation), has drawn stinging criticism. On Friday Maxim Ivanov, a member of parliament, said it was “unacceptable” that conscripts were being deployed without proper training. Hundreds of thousands of Russian men have fled the country in the past month to avoid being drafted.
 
-America’s three largest <strong>stockmarket </strong>indices ended the week higher. The NASDAQ Composite gained 2.9% on Friday, buoyed by Apple’s strong earnings—a bright spot among disappointing results from the tech giants. Separately, the Federal Reserve’s preferred<strong> inflation</strong> measure rose in line with expectations in September. The personal-consumption expenditures index rose by 0.5% from August and by 5.1% from a year ago, excluding food and energy.
+America’s main <strong>stockmarket </strong>indices ended the week higher. The NASDAQ Composite gained 2.9% on Friday, buoyed by Apple’s strong earnings—a bright spot among disappointing results from the tech giants. Separately, the Federal Reserve’s preferred<strong> inflation</strong> measure [rose](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away) in line with expectations in September. The personal-consumption expenditures index rose by 0.5% from August and by 5.1% from a year ago, excluding food and energy.
 
-Police arrested a hammer-wielding intruder as he assaulted the husband of <strong>Nancy Pelosi</strong>, the top-ranking Democrat in America’s House of Representatives, at Mr Pelosi’s San Francisco home. The suspect, who demanded “Where is Nancy?”, was charged with attempted murder. The attack comes days before the [<strong>midterm elections</strong>](https://www.economist.com/films/2022/10/20/american-democracy-is-under-threat) and amid a grim spike in threats against lawmakers. Ms Pelosi’s 82-year-old husband, Paul, underwent surgery and is recovering from his injuries in hospital.
+Joe Biden condemned as “despicable” an assault on the husband of <strong>Nancy Pelosi</strong>, the Speaker of America’s House of Representatives. Police arrested a hammer-wielding intruder who broke into the Pelosis’ San Francisco home and demanded: “Where is Nancy?” The attack comes days before the [midterm elections](https://www.economist.com/films/2022/10/20/american-democracy-is-under-threat) and amid a grim spike in threats against lawmakers. Paul Pelosi, who is 82, underwent surgery and is recovering in hospital.
 
-Tropical Storm Nalgae killed dozens in the southern <strong>Philippines</strong>, as flash floods and landslides [surprised residents overnight](https://www.economist.com/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse). At least 45 are believed dead, with many still missing. The storm—the sixteenth this year to hit the string of islands—is expected to batter the country’s eastern coast this weekend. Around 5,000 people have been evacuated from flood-prone areas.
+Tropical Storm Nalgae killed dozens in the southern <strong>Philippines</strong>, as flash floods and landslides [surprised residents overnight](https://www.economist.com/the-economist-explains/2022/09/29/is-climate-change-making-hurricanes-worse). At least 45 are believed dead, with many still missing. The storm—the 16th this year to hit the string of islands—is expected to batter the country’s eastern coast this weekend. Around 5,000 people have been evacuated from flood-prone areas.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Germany’s</strong> economy unexpectedly grew by 0.3% in the third quarter of the year, despite [high energy prices](https://www.economist.com/business/2022/09/11/germany-faces-a-looming-threat-of-deindustrialisation) and [rising interest rates](https://www.economist.com/by-invitation/2022/10/28/frances-finance-minister-on-how-to-fight-inflation-and-preserve-stability) dampening growth across Europe. <strong>France</strong> and <strong>Spain</strong> slowed to 0.2% growth in the same period. In less welcome news for Germany, consumer prices increased by 11.6% in October from last year, a steeper gain than anticipated.
+<strong>Elon Musk</strong> said that he would establish a council with “widely diverse viewpoints” to oversee content moderation at <strong>Twitter</strong>. Mr Musk, who completed his [on-off-on](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last) $44bn takeover of the social-media platform late on Thursday, had previously indicated that he would lift “lifetime” bans for some users. Having sacked Twitter’s chief executive, he is reportedly planning to play the role himself, as he does at Tesla and SpaceX.
 
-<strong>Elon Musk</strong> completed his [on-off-on takeover](https://www.economist.com/business/2022/10/11/will-elon-musk-owned-twitter-end-up-as-a-deal-from-hell) of <strong>Twitter</strong>, closing the deal at $44bn, and swiftly sacked the social-media platform’s CEO, Parag Agrawal. The world’s richest man is reportedly planning to play the role of CEO himself, as he does already at Tesla and SpaceX—and to lift “lifetime” bans for some users. Apparently no such decisions will be made until a so-called content moderation council convenes.
+<strong>Poland</strong> chose Westinghouse, an American company, to build its first <strong>nuclear power plant</strong> as the country seeks to burn less coal, cutting air pollution and emissions, and to strengthen its energy security. [Westinghouse](https://www.economist.com/briefing/2022/06/23/energy-security-gives-climate-friendly-nuclear-power-plants-a-new-appeal) beat out competition from French and South Korean firms. Kamala Harris, America’s vice-president, helped secure the deal and said it would “deepen the US-Poland strategic relationship”.
 
 <strong>ExxonMobil</strong> reported a record profit, of $19.7bn, up by a tenth from the previous quarter and nearly triple its haul during the same period last year. <strong>Chevron</strong> had its second-best quarter ever, reporting a profit of $11.2bn. America’s two largest oil majors are benefitting from high energy prices. Both saw record or near-record output from the [Permian basin](https://www.economist.com/business/2018/10/20/the-shale-boom-has-made-america-the-worlds-top-oil-producer) in Texas.
 
-<strong>Fact of the day: </strong>61%, the share of countries where adherence to the rule of law fell in the past year, according to the World Justice Project. [Read the full article](https://www.economist.com/graphic-detail/2022/10/26/the-eu-is-strengthening-democracy-in-eastern-europe).
+<strong>Word of the week: </strong><em>Ikigai</em>, loosely “reason for being” in Japanese. It has become a self-help trend in the West, to the bemusement of the Japanese. [Read the full article.](https://www.economist.com/asia/2022/10/27/what-japan-makes-of-ikigai)
 
 ----------
 
-## Meta’s unhappy anniversary
+## Barack Obama rallies Democrats
 
-One year ago on Friday Mark Zuckerberg changed the name of his company from Facebook to Meta. Under that new banner just about [everything has gone wrong](https://www.economist.com/business/2022/10/16/how-much-trouble-is-mark-zuckerberg-in). Earlier this year the company reported its first year-on-year drop in quarterly revenue and the first decline in users of Facebook, its social network. Investors hoped it was a blip. But on Wednesday Meta said quarterly revenue had fallen again, by 4%, and predicted it would drop in the next quarter too. In response the company’s share price plunged by nearly a quarter.
+America’s former president hits the campaign trail this weekend. Barack Obama will appear at a rally in Detroit alongside Michigan’s governor, Gretchen Whitmer, who is seeking re-election in the midterms in November. In Milwaukee he will stump with Tony Evers, [Wisconsin’s](https://www.economist.com/united-states/2022/10/06/why-wisconsin-has-such-odd-politics) Democratic governor, and Mandela Barnes, the party’s nominee for the Senate. On Friday he appeared in [Georgia](https://www.economist.com/united-states/2022/10/13/georgias-races-suggest-good-candidates-can-beat-partisan-reflexes) with Stacey Abrams and Raphael Warnock, candidates for governor and the Senate respectively. 
 
-But these are mere Earthly problems. Mr Zuckerberg believes his company’s future lies in the [metaverse](https://www.economist.com/the-economist-explains/2021/05/11/what-is-the-metaverse), an online space to work, play and [watch ads](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack). Meta has spent tens of billions of dollars building it. But fewer than 200,000 people reportedly use Meta’s flagship metaverse app. One day the metaverse may take off. The question is whether Meta, which has lost more than 70% of its market value this year, will still be around then.
+Mr Obama’s hectic campaigning spree is rare: in recent years he has devoted himself less to politics and more to pursuits such as making a nature documentary for Netflix. His activity contrasts with that of President Joe Biden, who has not appeared at a campaign rally in months (though he has done more low-key events). Mr Biden evidently fears that his [unpopularity](https://www.economist.com/president-joe-biden-polls)—53% of voters disapprove of him—might put off undecided voters. Mr Obama’s appearance, by contrast, might help boost turnout, particularly among black voters.
 
-## The beat of a different drum in Pakistan
+## A concerning countdown to COP27
 
-On Friday Imran Khan begins a [protest march](https://www.economist.com/1843/2022/08/25/on-the-comeback-trail-with-imran-khan) of about 380km from the eastern city of Lahore to Islamabad, the capital. Pakistan’s former prime minister demands that elections, scheduled for late next year, are brought forward. Mr Khan was ousted earlier this year by a vote of no confidence. He is hoping that a show of street power will pile pressure on the government to dissolve parliament. The former cricketer-turned-politician has [gathered support](https://www.economist.com/asia/2022/10/20/imran-khan-appears-to-be-more-popular-than-ever) by spinning a fantastical tale of an American plot to oust him from office. He recently presented himself as a headline candidate in a clutch of by-elections; he won six of seven seats.
+Next month countries gather for the United Nations’ climate summit in Egypt. In preparation, this week several reports assessed their progress in tackling [climate change](https://www.economist.com/science-and-technology/2022/10/27/few-governments-have-done-much-about-the-climate-this-year). The conclusions are grim. The UN Environment Programme found that countries’ climate commitments barely made a dent in the 17bn to 20bn tonnes that must be cut from annual emissions by 2030 for any hope of limiting global warming to 1.5°C over pre-industrial temperatures (the primary goal of the Paris Agreement). Even if every national climate goal for 2030 were met, models predict temperatures will rise by 2.4°C by 2100. Existing climate policies (not just promises) equal 2.8°C.
 
-Mr Khan’s march adds to Pakistan’s other political and [economic woes](https://www.economist.com/asia/2022/06/02/imran-khan-is-jeopardising-pakistans-attempts-to-fix-its-economy). Massive flooding this monsoon season caused an estimated $40bn in damages. The country is battling high inflation and energy shortages, as well as seeking $27bn in debt rescheduling, much of it from China. If the government cracks down on Mr Khan’s march, more political turmoil will follow.
+A report from Systems Change Lab, a collection of environmental groups and think-tanks, found that of 40 actions needed to meet 2030 targets—such as changing energy systems and land use—none are on track. There was one bright spot: a report from the International Energy Agency found that war in Ukraine has hastened the world’s transition to renewable energy.
 
-## More gushing profits for Exxon
+## Mexicans celebrate Day of the Dead
 
-ExxonMobil played down its quarterly earnings ahead of their release. But on Friday America’s largest oil firm logged $20bn in profits, nearly triple last year’s result, despite [oil prices](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets) falling from the dizzying heights seen after Russia invaded Ukraine. Margins were boosted by sales of pricey natural gas, especially to [energy-starved Europe](https://www.economist.com/graphic-detail/2022/10/11/the-countries-most-at-risk-from-europes-energy-crunch). Now gas prices have receded but oil prices are rising again, boosted by a [big cut](https://www.economist.com/finance-and-economics/2022/10/05/opec-defies-joe-biden-with-a-big-output-cut) to the monthly output target of OPEC+, a cartel of producers.
+On Saturday Mexicans will begin celebrating [Día de los Muertos](https://www.economist.com/culture/2022/10/27/the-joys-of-pan-de-muerto-a-sweet-tribute-to-departed-loved-ones), the lively festival of ancestors that runs over several days. Mexico City will host a huge parade of costumed people and papier-mâché figures. Crowds will flock to the <em>ofrenda</em> (altar) in the Zócalo, the capital’s central square, a larger version of the personal ones they set up at home. Graveyards become rammed and rambunctious.
 
-Exxon still has worries. Earlier in October the company left Russia empty-handed after President Vladimir Putin expropriated some of its Russian assets. And its shiny profits will set the stage for more clashes with the Biden administration over caps on fuel exports, as politicians blame the supermajors for soaring energy prices. But for the foreseeable future, energy scarcity will keep pumping the company’s coffers.
+Day of the Dead is rooted in pre-Hispanic cultures. People place food, sugar skulls and marigolds on altars and graves, which they believe will help speed their loved ones’ journey to their final resting place. Outside Mexico the event’s popularity is relatively recent, and is in part for having been featured in “Spectre”, a James Bond instalment, and “Coco”, an animated Disney film. Mexico is a country with [far too much experience of death](https://www.economist.com/the-americas/2022/06/30/at-least-100000-people-are-missing-in-mexico), but this festival is anything but morbid.
 
-## Northern Ireland heads to elections, again
+## The horrors of the first world war, on film
 
-Northern Ireland has had no regional government since February. Each of its two biggest parties can block the other from governing. [Sinn Féin](https://www.economist.com/britain/sinn-fein-has-become-northern-irelands-biggest-party/21809215), which won its first election in May, wants a united Ireland. The runner-up Democratic Unionist Party wants to keep Northern Ireland British. At midnight on Friday, six months since the last election, their time to re-establish a power-sharing government ran out, with Westminster already confirming that a fresh election will be called. It will probably be held on December 15th. 
+On Friday Netflix released “All Quiet on the Western Front”, a film based on the novel by Erich Maria Remarque that was published in 1929. It is the first German adaption of the anti-war classic, which is more topical than ever at a time when [conflict is again raging in Europe](https://www.economist.com/ukraine-crisis).
 
-Both parties are expected to consolidate their positions with voters. Whichever wins, their main contention—on the [Northern Ireland protocol](https://www.economist.com/britain/2022/06/16/the-northern-ireland-protocol-enrages-some-businesses-pleases-others) that created a new Irish Sea border with Britain after Brexit—will remain unresolved. To prevent the region from stagnating in the meantime, Westminster may give more power to civil servants, who effectively ran the country the last time the government collapsed in 2017. Then, it took three years to replace them with politicians. The lengthy backlog of untaken government decisions looks set to grow.
+The story recounts how, in the spring of 1917, a 17-year-old German soldier, Paul Bäumer, lies about his age to join the war. He and his friends dream about conquering Paris and celebrating victory. Then the brutal reality sets in: when they arrive at the western front they witness dehumanising carnage in muddy trenches. Their enthusiasm turns to abject horror and fear. The well-reviewed film, which is also showing in German cinemas, is Germany’s submission for next year’s Academy Award for best international feature film.
 
-## When Harry Met Harry
+## Weekend profile: Li Qiang, China’s probable next prime minister
 
-On Friday “Bros”, one of Hollywood’s first gay romantic comedies, is released in Britain. Co-written by its star, Billy Eichner (“Parks and Recreation”), and by its director, Nicholas Stoller (“Forgetting Sarah Marshall”), the film is a sweetly old-fashioned New York rom-com in many respects. Mr Eichner plays a celebrity podcaster who doesn’t want a long-term relationship but might be persuaded by a hunky lawyer (Luke Macfarlane) he meets at a party.
+It is now all but certain who China’s next prime minister will be. On October 23rd, when Xi Jinping walked onto a podium in Beijing’s Great Hall of the People with members of his [reshuffled leadership team](https://www.economist.com/china/2022/10/27/xi-jinping-has-surrounded-himself-with-loyalists), the man directly behind him was Li Qiang, the Communist Party chief of Shanghai. That meant the 63-year-old Mr Li, whose promotion prospects many analysts had written off just a few months ago, had become China’s highest-ranking politician after Mr Xi. He is expected to take over from Li Keqiang (no relation), the 67-year-old current prime minister, when the legislature meets next March.
 
-The film is anxious to mark itself apart from heterosexual smash hits, making copious references to Grindr, poppers, threesomes and foursomes. It also takes some satirical swipes at “Brokeback Mountain” and other gay-themed dramas with straight casts: the numerous [LGBT characters](https://www.economist.com/prospero/2017/03/21/disney-has-drawn-an-outline-for-gay-characters) in “Bros” are all played by LGBT actors. American box-office sales have so far disappointed. Mr Eichner partly blamed homophobia. But the fact is that grown-up, sincere romantic comedies are out of fashion, whatever the sexuality of their leads.
+The younger Mr Li is a remarkable choice. Earlier this year he was widely blamed by Shanghai residents for the chaotic and harsh management of a [weeks-long lockdown](https://www.economist.com/china/2022/04/09/a-clumsy-lockdown-of-shanghai-is-testing-the-zero-covid-strategy) of the city, aimed at crushing an outbreak of covid-19. Even without the lockdown fiasco, he would have been an unlikely candidate for prime-minister. The post is normally given to people who have served as a deputy PM. Li Qiang has never held a central-government portfolio.
 
-## Daily quiz
+But it is clear why Mr Xi likes him. In the 2000s, when Mr Xi was the party boss of the coastal province of Zhejiang, Li Qiang was his chief of staff. Enforcing strict lockdown measures in Shanghai may have further endeared him to China’s leader, who has just secured a norm-breaking third term as the party’s general secretary and commander-in-chief of the armed forces. (Mr Xi has been a keen advocate of a [“zero-covid” approach](https://www.economist.com/china/2022/10/13/china-shows-few-signs-of-loosening-its-zero-covid-policy) to crushing the virus.) 
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="dc8da9b5a699afacaeb9afafb39cb9bfb3b2b3b1b5afa8f2bfb3b1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Mr Li is liked by many businessmen, but foreign investors were spooked by the reshuffle and [dumped Chinese shares](https://www.economist.com/finance-and-economics/2022/10/25/xi-jinping-provokes-a-spectacular-sell-off-in-chinas-markets). They worried that Mr Xi had surrounded himself with yes-men who would do little to curb his dirigiste instincts. In truth, Mr Xi’s power has long been subject to little restraint from colleagues. The promotion of Mr Li and other loyalists may not do much more to embolden him.
 
-<strong>Friday: </strong>Which singer-songwriter gave a rapid tour of modern history in his song “We Didn’t Start the Fire”?
+## This week’s quiz winners
 
-<strong>Thursday: </strong>Which American swimmer was the star of a series of “aquamusicals” in the late 1940s and early ’50s?
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
 
-## The winners of last week’s crossword
+Asia: <strong>Tetsuyuki Maruyama</strong>, Ito, Japan
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+North America: <strong>William Gibson</strong>, Weston, Connecticut, America
 
-Asia: <strong>Oliver Davies</strong>, Hong Kong, China
+Central and South America: <strong>Alvaro Tomas</strong>, Panama City, Panama
 
-North America: <strong>Michael Zenaitis</strong>, Calgary, Canada
+Europe: <strong>Borislav Stefanov</strong>, Sofia, Bulgaria
 
-Central and South America: <strong>Sebastian Agudelo-Restrepo</strong>, Santo Domingo, Dominican Republic
+Africa:<strong> Kilian Christ</strong>, Nairobi, Kenya
 
-Europe: <strong>Imad Orif</strong>, Edinburgh, United Kingdom
+Oceania: <strong>Rob Walton</strong>, Wainui, New Zealand
 
-Africa:<strong> Christine Reiter</strong>, Tunis, Tunisia
+<em>They all gave the correct answers of The Chronicles of Narnia, Isaiah Berlin, Ruth Bader Ginsburg, Esther Williams and Billy Joel. The theme is books of the Bible: Chronicles, Isaiah, Ruth, Esther and Joel.</em>
 
-Oceania: <strong>Richard Lyon</strong>, Greenwich, Australia
+Check back on Monday for the beginning of next week’s edition, and your chance to win.
 
-They all gave the correct answers of [restitution](https://www.economist.com/britain/2022/10/20/indians-want-the-koh-i-noor-diamond-back), [Riyadh](https://www.economist.com/middle-east-and-africa/2022/10/20/why-america-and-saudi-arabia-are-still-inseparable), [Truss](https://www.economist.com/leaders/2022/10/19/welcome-to-britaly) and <em>[Nature](https://www.economist.com/science-and-technology/2022/10/19/dna-grants-a-glimpse-of-neanderthal-family-life)</em>. Check back tomorrow for this week’s crossword.
+## Weekly crossword
+
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist.</em>
+
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Crazed, stunted locust is among potatoes, causing disease (12)
+
+<em>1 across</em> Communiqués that now have quite turbulent boss, ultimately (6)
+
+<em>2 across</em> Much inactivity conceals superpower (5) 
+
+<em>3 across </em>District in south-east hilltop bordering small city (6)
+
+<strong>Factual clues</strong>  
+
+
+<em>1 down </em>Another pandemic (12)
+
+<em>1 across</em> Messages now overseen by Musk (6)
+
+<em>2 across</em> Somewhere with less women at the top than ever (5)
+
+<em>3 across </em>It can be public or private? (6) 
 
 ----------
 
