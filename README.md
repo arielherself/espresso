@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-At least 151 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 82 were injured and the city received 355 missing person reports. The president, Yoon Suk-yeol, promised to thoroughly investigate the cause of the tragedy, which took place in the Itaewon district, a popular area for nightlife.
+At least 151 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 82 were injured and the city has reportedly received thousands of missing-person reports. The president, Yoon Suk-yeol, promised to thoroughly investigate the cause of the tragedy, which took place in the Itaewon district, a popular area for nightlife.
 
 <strong>Russia’s</strong> defence ministry said that the country would suspend a deal allowing <strong>grain exports</strong> from Ukrainian ports, claiming that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
 
