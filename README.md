@@ -18,7 +18,7 @@ At least 153 people died in a <strong>crush</strong> during Halloween celebratio
 
 Widespread protests against the government continued in <strong>Iran</strong>, despite a warning from the regime’s Revolutionary Guards on Saturday that the demonstrations must end. Thousands of students and others were confronted by police firing tear-gas and live rounds. The protests were sparked by the death of Mahsa Amini after she was arrested by police for wearing an [“improper” hijab](https://te.arielherself.xyz/1843/2022/09/28/im-the-same-as-mahsa-and-i-want-my-freedom-anger-at-irans-regime-spills-onto-the-streets) on September 13th. 
 
-At least 68 people died when a <strong>suspension bridge</strong> collapsed in the western <strong>Indian</strong> state of Gujarat. About 30 were also injured. The tragedy happened in the town of Morbi. The bridge had been closed for renovation for six months and had only recently been reopened to the public.
+At least 81 people died when a <strong>suspension bridge</strong> collapsed in the western <strong>Indian</strong> state of Gujarat. The tragedy happened in the town of Morbi. The bridge had been closed for renovation for six months and had only recently been reopened to the public. Officials said they would investigate whether the bridge was reopened without proper safety checks.
 
 Listen to an abridged version of the subscriber-only briefing.
 
