@@ -6,27 +6,27 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-10-29</p>
+# <p align="center">The world in brief 2022-10-30</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-At least 146 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 150 were injured. The president, Yoon Suk-yeol, chaired an emergency meeting after the tragedy, which took place in the Itaewon district, a popular area for nightlife.
+At least 151 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 82 were injured and the city received 270 missing person reports. The president, Yoon Suk-yeol, chaired an emergency meeting after the tragedy, which took place in the Itaewon district, a popular area for nightlife.
 
 <strong>Russia’s</strong> defence ministry said that the country would suspend a deal allowing <strong>grain exports</strong> from Ukrainian ports, claiming that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
 
-<strong>Elon Musk</strong> has reportedly ordered [staff cuts](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last) at <strong>Twitter</strong>. The layoffs are expected to happen by Tuesday, according to the <em>New York Times</em>, which is when employees’ stock options vest. By sacking staff before then Mr Musk may manage to avoid paying that compensation. It’s unclear how many employees will get the axe, though previous reports suggested he could cull 75% of the social-media firm’s 7,500 staff.
+<strong>Elon Musk</strong> has reportedly ordered [staff cuts](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last) at <strong>Twitter</strong>. The layoffs are expected to happen before employees’ stock options vest on Tuesday, according to the <em>New York Times</em>. The sackings could mean Mr Musk avoids paying that compensation. It is unclear how many employees will get the axe, though previous reports suggested he could cull 75% of the social-media firm’s 7,500 staff.
 
 The head of <strong>Iran’s Revolutionary Guards Corps</strong>, the Islamic republic’s praetorian body, said that Saturday would be the “last day of the riots” and warned protesters not to go to the streets. [Iranians](https://www.economist.com/leaders/2022/10/26/will-irans-women-win) have been demanding an end to the regime after the death in custody last month of Mahsa Amini, a young woman detained by the “morality police”. Security forces are cracking down; hundreds have been killed.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Joe Biden condemned as “despicable” an assault on the husband of <strong>Nancy Pelosi</strong>, the Speaker of America’s House of Representatives. Police arrested a hammer-wielding intruder who broke into the Pelosis’ San Francisco home and demanded: “Where is Nancy?” The attack comes days before the [midterm elections](https://www.economist.com/films/2022/10/20/american-democracy-is-under-threat) and amid a grim spike in threats against lawmakers. Paul Pelosi, who is 82, underwent surgery and is recovering in hospital.
+Britain’s opposition Labour Party demanded an investigation into reports that <strong>Liz Truss’s </strong>phone was <strong>hacked</strong> by suspected Russian agents while she was foreign secretary. The <em>Daily Mail</em>, a tabloid, reported that a year’s worth of messages—some pertaining to the war in Ukraine—was stolen and that the cyber-theft was discovered during the summer’s Conservative party leadership contest, which ([briefly](https://www.economist.com/britain/2022/10/20/who-will-be-britains-next-leader)) made her prime minister.
+
+The <strong>Democratic Republic of Congo</strong> ordered <strong>Rwanda’s</strong> ambassador to leave within 48 hours. The expulsion is retaliation for Rwanda’s alleged [support of M23](https://www.economist.com/middle-east-and-africa/2022/09/29/congo-says-martial-law-has-brought-calm-yet-violence-is-rising), a rebel group that operates in Congo’s east—and which Rwanda denies backing. On Saturday M23 seized the town of Kiwanja in the province of North Kivu, about 70km from Goma, the main city in the east.
 
 Two <strong>car-bombs</strong> caused “scores of civilian casualties” in Mogadishu, <strong>Somalia’s</strong> capital, local police said. The attack came as Somalia’s [president](https://www.economist.com/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups), prime minister and other officials met to discuss combating violent extremists—in particular, those of al-Shabab, a jihadist group affiliated with al-Qaeda. No one immediately claimed responsibility for the blasts. An al-Shabab truck-bomb at the same place in 2017 killed more than 500 people.
-
-<strong>Poland</strong> chose Westinghouse, an American company, to build its first <strong>nuclear power plant</strong> as the country seeks to burn less coal, cutting air pollution and emissions, and to strengthen its energy security. [Westinghouse](https://www.economist.com/briefing/2022/06/23/energy-security-gives-climate-friendly-nuclear-power-plants-a-new-appeal) beat out competition from French and South Korean firms. Kamala Harris, America’s vice-president, helped secure the deal and said it would “deepen the US-Poland strategic relationship”.
 
 <strong>Word of the week: </strong><em>Ikigai</em>, loosely “reason for being” in Japanese. It has become a self-help trend in the West, to the bemusement of the Japanese. [Read the full article.](https://www.economist.com/asia/2022/10/27/what-japan-makes-of-ikigai)
 
