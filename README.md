@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-At least 153 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 82 were injured and the city has reportedly received thousands of missing-person reports. The president, Yoon Suk-yeol, promised to thoroughly investigate the cause of the tragedy, which took place in the Itaewon district, a popular area for nightlife.
+<strong>Luiz Inácio Lula da Silva</strong> won <strong>Brazil’s</strong> knife-edge [presidential election](https://te.arielherself.xyz/the-americas/2022/10/27/brazils-election-is-tight-ahead-of-a-run-off-on-october-30th), with 50.8% of the vote. A leftist former president, he beat Jair Bolsonaro, the right-wing incumbent, and will be sworn in on January 1st 2023. Tensions ran high on Sunday after supporters of Lula accused the federal highway police of erecting roadblocks in the country’s north-east—Lula’s base—to suppress turnout.
 
-<strong>Brazilians</strong> went to the polls in a tense run-off <strong>presidential election</strong>. The contest between the right-wing incumbent, Jair Bolsonaro, and his left-wing opponent, the former president, Luiz Inácio Lula da Silva, is expected to be [close](https://te.arielherself.xyz/the-americas/2022/10/27/brazils-election-is-tight-ahead-of-a-run-off-on-october-30th). Mr Bolsonaro beat expectations in the first round earlier this month. About 120m people are expected to vote.
+At least 153 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 82 were injured and the city has reportedly received thousands of missing-person reports. The president, Yoon Suk-yeol, promised to thoroughly investigate the cause of the tragedy, which took place in the Itaewon district, a popular area for nightlife.
 
 Widespread protests against the government continued in <strong>Iran</strong>, despite a warning from the regime’s Revolutionary Guards on Saturday that the demonstrations must end. Thousands of students and others were confronted by police firing tear-gas and live rounds. The protests were sparked by the death of Mahsa Amini after she was arrested by police for wearing an [“improper” hijab](https://te.arielherself.xyz/1843/2022/09/28/im-the-same-as-mahsa-and-i-want-my-freedom-anger-at-irans-regime-spills-onto-the-streets) on September 13th. 
 
@@ -32,12 +32,6 @@ Two <strong>car-bombs</strong> killed at least 100 people in Mogadishu, <strong>
 
 ----------
 
-## How a fake egg saves baby sea turtles
-
-Every summer, Florida’s beaches host a miraculous event: clutches of baby sea turtles emerge from [their nests](https://te.arielherself.xyz/science-and-technology/2020/10/08/a-new-device-may-help-stop-the-robbery-of-turtles-nests) in unison. But predators and obstacles left by humans prevent most of the hatchlings from reaching the surf. [Conservationists can protect them](https://te.arielherself.xyz/technology-quarterly/2021/06/15/loss-of-biodiversity-poses-as-great-a-risk-to-humanity-as-climate-change), but only if they know the hatching date. Until now, that has been guesswork. No one can keep watch all the time. But now researchers have devised a gadget that predicts the right moment, according to a paper published in <em>PLoS ONE</em>, a journal.
-
-TurtleSense is a movement sensor encased in a mock turtle egg. Over five nesting seasons researchers buried these changelings in real nests. The sensor picks up the vibrations made by turtles hatching; when movement suddenly ceases it is a signal that the newborns are about to head to the sea. (Normally they emerge together exactly two nights later.) This early warning system allows conservationists to rescue more turtles—while keeping beaches open for holiday-makers.
-
 ## Weekend profile: Li Qiang, China’s probable next prime minister
 
 It is now all but certain who China’s next prime minister will be. On October 23rd, when Xi Jinping walked onto a podium in Beijing’s Great Hall of the People with members of his [reshuffled leadership team](https://te.arielherself.xyz/china/2022/10/27/xi-jinping-has-surrounded-himself-with-loyalists), the man directly behind him was Li Qiang, the Communist Party chief of Shanghai. That meant the 63-year-old Mr Li, whose promotion prospects many analysts had written off just a few months ago, had become China’s highest-ranking politician after Mr Xi. He is expected to take over from Li Keqiang (no relation), the 67-year-old current prime minister, when the legislature meets next March.
@@ -47,14 +41,6 @@ The younger Mr Li is a remarkable choice. Earlier this year he was widely blamed
 But it is clear why Mr Xi likes him. In the 2000s, when Mr Xi was the party boss of the coastal province of Zhejiang, Li Qiang was his chief of staff. Enforcing strict lockdown measures in Shanghai may have further endeared him to China’s leader, who has just secured a norm-breaking third term as the party’s general secretary and commander-in-chief of the armed forces. (Mr Xi has been a keen advocate of a [“zero-covid” approach](https://te.arielherself.xyz/china/2022/10/13/china-shows-few-signs-of-loosening-its-zero-covid-policy) to crushing the virus.) 
 
 Mr Li is liked by many businessmen, but foreign investors were spooked by the reshuffle and [dumped Chinese shares](https://te.arielherself.xyz/finance-and-economics/2022/10/25/xi-jinping-provokes-a-spectacular-sell-off-in-chinas-markets). They worried that Mr Xi had surrounded himself with yes-men who would do little to curb his dirigiste instincts. In truth, Mr Xi’s power has long been subject to little restraint from colleagues. The promotion of Mr Li and other loyalists may not do much more to embolden him.
-
-## America’s apathetic young voters
-
-On Sunday Bernie Sanders, the octogenarian left-wing senator from Vermont, will rally young and working-class voters in Texas just over a week out from midterm elections on November 8th. Although Democrats’ [bid to unseat Greg Abbott](https://te.arielherself.xyz/united-states/2022/09/15/a-grassroots-group-is-channelling-public-frustration-in-texas), Texas’s Republican governor, is unlikely to succeed, some House seats are up for grabs. Turning out young voters may be key to winning them. 
-
-Mr Sanders faces an uphill battle. Young-voter [turnout](https://te.arielherself.xyz/the-economist-explains/2022/10/24/how-much-do-americas-voting-access-reforms-affect-turnout) in Texas was 41% in the 2020 presidential election. But turnout is much lower in midterm elections, in particular among young voters. A third of respondents aged 18-29 told pollsters from <em>The Economist</em>/YouGov that they are paying no attention to the midterms; fewer than half say they will definitely vote. 
-
-Nearly a quarter said voting was simply too inconvenient. And yet some local officials seem intent on making it more so. This year officials in Brazos County, home to Texas A&amp;M (the largest university in America, with a student body of 72,000), closed the only early-voting site on campus. 
 
 ## This week’s quiz winners
 
@@ -75,12 +61,6 @@ Oceania: <strong>Rob Walton</strong>, Wainui, New Zealand
 <em>They all gave the correct answers of The Chronicles of Narnia, Isaiah Berlin, Ruth Bader Ginsburg, Esther Williams and Billy Joel. The theme is books of the Bible: Chronicles, Isaiah, Ruth, Esther and Joel.</em>
 
 Check back on Monday for the beginning of next week’s edition and your chance to win.
-
-## The curtain closes on a controversial golf series
-
-A divisive season ends on Sunday with the final event in the [LIV Golf series](https://te.arielherself.xyz/culture/2022/06/17/will-signing-stars-like-phil-mickelson-bring-success-to-liv-golf) at the Trump National Doral course in Miami. Soaked with Saudi money, the new competition has offered elite golfers a lighter and more lucrative schedule than the established PGA Tour. But splitting the field has diluted the competition on both circuits. It has also caused huge disharmony among the top players. Some, such as Rory McIlroy and Tiger Woods, refused to take LIV loot; others, notably Phil Mickelson and Dustin Johnson, decided that the moolah was too much to turn down. 
-
-Over the winter, lawsuits brought by both sides are expected to progress. Three LIV-contracted players are suing the PGA Tour, accusing it of acting monopolistically, while the PGA Tour is accusing LIV of interfering with its player contracts. No one expects a truce by the time LIV returns for its second season, most likely in February, with an even bigger purse.
 
 ## Weekly crossword
 
@@ -108,6 +88,26 @@ Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://
 <em>2 across</em> Somewhere with less women at the top than ever (5)
 
 <em>3 across </em>It can be public or private? (6) 
+
+## How a fake egg saves baby sea turtles
+
+Every summer, Florida’s beaches host a miraculous event: clutches of baby sea turtles emerge from [their nests](https://te.arielherself.xyz/science-and-technology/2020/10/08/a-new-device-may-help-stop-the-robbery-of-turtles-nests) in unison. But predators and obstacles left by humans prevent most of the hatchlings from reaching the surf. [Conservationists can protect them](https://te.arielherself.xyz/technology-quarterly/2021/06/15/loss-of-biodiversity-poses-as-great-a-risk-to-humanity-as-climate-change), but only if they know the hatching date. Until now, that has been guesswork. No one can keep watch all the time. But now researchers have devised a gadget that predicts the right moment, according to a paper published in <em>PLoS ONE</em>, a journal.
+
+TurtleSense is a movement sensor encased in a mock turtle egg. Over five nesting seasons researchers buried these changelings in real nests. The sensor picks up the vibrations made by turtles hatching; when movement suddenly ceases it is a signal that the newborns are about to head to the sea. (Normally they emerge together exactly two nights later.) This early warning system allows conservationists to rescue more turtles—while keeping beaches open for holiday-makers.
+
+## America’s apathetic young voters
+
+On Sunday Bernie Sanders, the octogenarian left-wing senator from Vermont, will rally young and working-class voters in Texas just over a week out from midterm elections on November 8th. Although Democrats’ [bid to unseat Greg Abbott](https://te.arielherself.xyz/united-states/2022/09/15/a-grassroots-group-is-channelling-public-frustration-in-texas), Texas’s Republican governor, is unlikely to succeed, some House seats are up for grabs. Turning out young voters may be key to winning them. 
+
+Mr Sanders faces an uphill battle. Young-voter [turnout](https://te.arielherself.xyz/the-economist-explains/2022/10/24/how-much-do-americas-voting-access-reforms-affect-turnout) in Texas was 41% in the 2020 presidential election. But turnout is much lower in midterm elections, in particular among young voters. A third of respondents aged 18-29 told pollsters from <em>The Economist</em>/YouGov that they are paying no attention to the midterms; fewer than half say they will definitely vote. 
+
+Nearly a quarter said voting was simply too inconvenient. And yet some local officials seem intent on making it more so. This year officials in Brazos County, home to Texas A&amp;M (the largest university in America, with a student body of 72,000), closed the only early-voting site on campus. 
+
+## The curtain closes on a controversial golf series
+
+A divisive season ends on Sunday with the final event in the [LIV Golf series](https://te.arielherself.xyz/culture/2022/06/17/will-signing-stars-like-phil-mickelson-bring-success-to-liv-golf) at the Trump National Doral course in Miami. Soaked with Saudi money, the new competition has offered elite golfers a lighter and more lucrative schedule than the established PGA Tour. But splitting the field has diluted the competition on both circuits. It has also caused huge disharmony among the top players. Some, such as Rory McIlroy and Tiger Woods, refused to take LIV loot; others, notably Phil Mickelson and Dustin Johnson, decided that the moolah was too much to turn down. 
+
+Over the winter, lawsuits brought by both sides are expected to progress. Three LIV-contracted players are suing the PGA Tour, accusing it of acting monopolistically, while the PGA Tour is accusing LIV of interfering with its player contracts. No one expects a truce by the time LIV returns for its second season, most likely in February, with an even bigger purse.
 
 ## Brazil’s toxic presidential run-off
 
