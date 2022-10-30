@@ -16,13 +16,13 @@ At least 153 people died in a <strong>crush</strong> during Halloween celebratio
 
 The EU encouraged <strong>Russia </strong>to reverse course after it withdrew from a deal allowing <strong>grain exports</strong> from Ukrainian ports. Russia claimed that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
 
-<strong>Elon Musk</strong> has reportedly ordered [staff cuts](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) at <strong>Twitter</strong>. The layoffs are expected to happen before employees’ stock options vest on Tuesday, according to the <em>New York Times</em>. The sackings could mean Mr Musk avoids paying that compensation. It is unclear how many employees will get the axe, though previous reports suggested he could cull 75% of the social-media firm’s 7,500 staff.
+<strong>China</strong> passed a new “Women’s Rights and Interests Protection Law”, aimed at combating gender <strong>discrimination </strong>and <strong>harrassment</strong>. It is the first such change to the law in 30 years, although the exact details of the new measures have not yet emerged. However, the legislation comes at a time of concerns over the continuing marginalisation of [women in politics](https://te.arielherself.xyz/china/2022/10/27/chinas-problem-with-female-representation-is-getting-worse) and other spheres of life.
 
-Two <strong>car-bombs</strong> killed at least 100 people in Mogadishu, <strong>Somalia’s</strong> capital, said Hassan Sheikh Mohamud, its [president](https://te.arielherself.xyz/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups). The attack came as Mr Mohamud, his prime minister and other officials met to discuss combating violent extremists—in particular, those of al-Shabab, a jihadist group affiliated with al-Qaeda. No one immediately claimed responsibility for the blasts. An al-Shabab truck-bomb at the same place in 2017 killed more than 500 people.
+<strong>Elon Musk</strong> has reportedly ordered [staff cuts](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) at <strong>Twitter</strong>. The layoffs are expected to happen before employees’ stock options vest on Tuesday, according to the <em>New York Times</em>. The sackings could mean Mr Musk avoids paying that compensation. It is unclear how many employees will get the axe, though previous reports suggested he could cull 75% of the social-media firm’s 7,500 staff.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The head of <strong>Iran’s Revolutionary Guards Corps</strong>, the Islamic republic’s praetorian body, said that Saturday would be the “last day of the riots” and warned protesters not to go to the streets. [Iranians](https://te.arielherself.xyz/leaders/2022/10/26/will-irans-women-win) have been demanding an end to the regime after the death in custody last month of Mahsa Amini, a young woman detained by the “morality police”. Security forces are cracking down; hundreds have been killed.
+Two <strong>car-bombs</strong> killed at least 100 people in Mogadishu, <strong>Somalia’s</strong> capital, said Hassan Sheikh Mohamud, its [president](https://te.arielherself.xyz/by-invitation/2022/07/19/somalias-president-wants-help-to-fight-africas-terrorist-groups). The attack came as Mr Mohamud, his prime minister and other officials met to discuss combating violent extremists—in particular, those of al-Shabab, a jihadist group affiliated with al-Qaeda. No one immediately claimed responsibility for the blasts. An al-Shabab truck-bomb at the same place in 2017 killed more than 500 people.
 
 Britain’s opposition Labour Party demanded an investigation into reports that <strong>Liz Truss’s </strong>phone was <strong>hacked</strong> by suspected Russian agents while she was foreign secretary. The <em>Mail on Sunday</em> reported that a year’s worth of messages—some pertaining to the war in Ukraine—was stolen and that the cyber-theft was discovered during the summer’s Conservative party leadership contest, which ([briefly](https://te.arielherself.xyz/britain/2022/10/20/who-will-be-britains-next-leader)) made her prime minister.
 
@@ -32,29 +32,11 @@ The <strong>Democratic Republic of Congo</strong> ordered <strong>Rwanda’s</st
 
 ----------
 
-## Barack Obama rallies Democrats
+## How a fake egg saves baby sea turtles
 
-America’s former president hits the campaign trail this weekend. Barack Obama will appear at a rally in Detroit alongside Michigan’s governor, Gretchen Whitmer, who is seeking re-election in the midterms in November. In Milwaukee he will stump with Tony Evers, [Wisconsin’s](https://te.arielherself.xyz/united-states/2022/10/06/why-wisconsin-has-such-odd-politics) Democratic governor, and Mandela Barnes, the party’s nominee for the Senate. On Friday he appeared in [Georgia](https://te.arielherself.xyz/united-states/2022/10/13/georgias-races-suggest-good-candidates-can-beat-partisan-reflexes) with Stacey Abrams and Raphael Warnock, candidates for governor and the Senate respectively. 
+Every summer, Florida’s beaches host a miraculous event: clutches of baby sea turtles emerge from [their nests](https://te.arielherself.xyz/science-and-technology/2020/10/08/a-new-device-may-help-stop-the-robbery-of-turtles-nests) in unison. But predators and obstacles left by humans prevent most of the hatchlings from reaching the surf. [Conservationists can protect them](https://te.arielherself.xyz/technology-quarterly/2021/06/15/loss-of-biodiversity-poses-as-great-a-risk-to-humanity-as-climate-change), but only if they know the hatching date. Until now, that has been guesswork. No one can keep watch all the time. But now researchers have devised a gadget that predicts the right moment, according to a paper published in <em>PLoS ONE</em>, a journal.
 
-Mr Obama’s hectic campaigning spree is rare: in recent years he has devoted himself less to politics and more to pursuits such as making a nature documentary for Netflix. His activity contrasts with that of President Joe Biden, who has not appeared at a campaign rally in months (though he has done more low-key events). Mr Biden evidently fears that his [unpopularity](https://te.arielherself.xyz/president-joe-biden-polls)—53% of voters disapprove of him—might put off undecided voters. Mr Obama’s appearance, by contrast, might help boost turnout, particularly among black voters.
-
-## A concerning countdown to COP27
-
-Next month countries gather for the United Nations’ climate summit in Egypt. In preparation, this week several reports assessed their progress in tackling [climate change](https://te.arielherself.xyz/science-and-technology/2022/10/27/few-governments-have-done-much-about-the-climate-this-year). The conclusions are grim. The UN Environment Programme found that countries’ climate commitments barely made a dent in the 17bn to 20bn tonnes that must be cut from annual emissions by 2030 for any hope of limiting global warming to 1.5°C over pre-industrial temperatures (the primary goal of the Paris Agreement). Even if every national climate goal for 2030 were met, models predict temperatures will rise by 2.4°C by 2100. Existing climate policies (not just promises) equal 2.8°C.
-
-A report from Systems Change Lab, a collection of environmental groups and think-tanks, found that of 40 actions needed to meet 2030 targets—such as changing energy systems and land use—none are on track. There was one bright spot: a report from the International Energy Agency found that war in Ukraine has hastened the world’s transition to renewable energy.
-
-## Mexicans celebrate Day of the Dead
-
-On Saturday Mexicans will begin celebrating [Día de los Muertos](https://te.arielherself.xyz/culture/2022/10/27/the-joys-of-pan-de-muerto-a-sweet-tribute-to-departed-loved-ones), the lively festival of ancestors that runs over several days. Mexico City will host a huge parade of costumed people and papier-mâché figures. Crowds will flock to the <em>ofrenda</em> (altar) in the Zócalo, the capital’s central square, a larger version of the personal ones they set up at home. Graveyards become rammed and rambunctious.
-
-Day of the Dead is rooted in pre-Hispanic cultures. People place food, sugar skulls and marigolds on altars and graves, which they believe will help speed their loved ones’ journey to their final resting place. Outside Mexico the event’s popularity is relatively recent, and is in part for having been featured in “Spectre”, a James Bond instalment, and “Coco”, an animated Disney film. Mexico is a country with [far too much experience of death](https://te.arielherself.xyz/the-americas/2022/06/30/at-least-100000-people-are-missing-in-mexico), but this festival is anything but morbid.
-
-## The horrors of the first world war, on film
-
-On Friday Netflix released “All Quiet on the Western Front”, a film based on the novel by Erich Maria Remarque that was published in 1929. It is the first German adaptation of the anti-war classic, which is more topical than ever at a time when [conflict is again raging in Europe](https://te.arielherself.xyz/ukraine-crisis).
-
-The story recounts how, in the spring of 1917, a 17-year-old German soldier, Paul Bäumer, lies about his age to join the war. He and his friends dream about conquering Paris and celebrating victory. Then the brutal reality sets in: when they arrive at the western front they witness dehumanising carnage in muddy trenches. Their enthusiasm turns to abject horror and fear. The well-reviewed film, which is also showing in German cinemas, is Germany’s submission for next year’s Academy Award for best international feature film.
+TurtleSense is a movement sensor encased in a mock turtle egg. Over five nesting seasons researchers buried these changelings in real nests. The sensor picks up the vibrations made by turtles hatching; when movement suddenly ceases it is a signal that the newborns are about to head to the sea. (Normally they emerge together exactly two nights later.) This early warning system allows conservationists to rescue more turtles—while keeping beaches open for holiday-makers.
 
 ## Weekend profile: Li Qiang, China’s probable next prime minister
 
@@ -65,6 +47,14 @@ The younger Mr Li is a remarkable choice. Earlier this year he was widely blamed
 But it is clear why Mr Xi likes him. In the 2000s, when Mr Xi was the party boss of the coastal province of Zhejiang, Li Qiang was his chief of staff. Enforcing strict lockdown measures in Shanghai may have further endeared him to China’s leader, who has just secured a norm-breaking third term as the party’s general secretary and commander-in-chief of the armed forces. (Mr Xi has been a keen advocate of a [“zero-covid” approach](https://te.arielherself.xyz/china/2022/10/13/china-shows-few-signs-of-loosening-its-zero-covid-policy) to crushing the virus.) 
 
 Mr Li is liked by many businessmen, but foreign investors were spooked by the reshuffle and [dumped Chinese shares](https://te.arielherself.xyz/finance-and-economics/2022/10/25/xi-jinping-provokes-a-spectacular-sell-off-in-chinas-markets). They worried that Mr Xi had surrounded himself with yes-men who would do little to curb his dirigiste instincts. In truth, Mr Xi’s power has long been subject to little restraint from colleagues. The promotion of Mr Li and other loyalists may not do much more to embolden him.
+
+## America’s apathetic young voters
+
+On Sunday Bernie Sanders, the octogenarian left-wing senator from Vermont, will rally young and working-class voters in Texas just over a week out from midterm elections on November 8th. Although Democrats’ [bid to unseat Greg Abbott](https://te.arielherself.xyz/united-states/2022/09/15/a-grassroots-group-is-channelling-public-frustration-in-texas), Texas’s Republican governor, is unlikely to succeed, some House seats are up for grabs. Turning out young voters may be key to winning them. 
+
+Mr Sanders faces an uphill battle. Young-voter [turnout](https://te.arielherself.xyz/the-economist-explains/2022/10/24/how-much-do-americas-voting-access-reforms-affect-turnout) in Texas was 41% in the 2020 presidential election. But turnout is much lower in midterm elections, in particular among young voters. A third of respondents aged 18-29 told pollsters from <em>The Economist</em>/YouGov that they are paying no attention to the midterms; fewer than half say they will definitely vote. 
+
+Nearly a quarter said voting was simply too inconvenient. And yet some local officials seem intent on making it more so. This year officials in Brazos County, home to Texas A&amp;M (the largest university in America, with a student body of 72,000), closed the only early-voting site on campus. 
 
 ## This week’s quiz winners
 
@@ -85,6 +75,12 @@ Oceania: <strong>Rob Walton</strong>, Wainui, New Zealand
 <em>They all gave the correct answers of The Chronicles of Narnia, Isaiah Berlin, Ruth Bader Ginsburg, Esther Williams and Billy Joel. The theme is books of the Bible: Chronicles, Isaiah, Ruth, Esther and Joel.</em>
 
 Check back on Monday for the beginning of next week’s edition and your chance to win.
+
+## The curtain closes on a controversial golf series
+
+A divisive season ends on Sunday with the final event in the [LIV Golf series](https://te.arielherself.xyz/culture/2022/06/17/will-signing-stars-like-phil-mickelson-bring-success-to-liv-golf) at the Trump National Doral course in Miami. Soaked with Saudi money, the new competition has offered elite golfers a lighter and more lucrative schedule than the established PGA Tour. But splitting the field has diluted the competition on both circuits. It has also caused huge disharmony among the top players. Some, such as Rory McIlroy and Tiger Woods, refused to take LIV loot; others, notably Phil Mickelson and Dustin Johnson, decided that the moolah was too much to turn down. 
+
+Over the winter, lawsuits brought by both sides are expected to progress. Three LIV-contracted players are suing the PGA Tour, accusing it of acting monopolistically, while the PGA Tour is accusing LIV of interfering with its player contracts. No one expects a truce by the time LIV returns for its second season, most likely in February, with an even bigger purse.
 
 ## Weekly crossword
 
@@ -112,6 +108,12 @@ Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://
 <em>2 across</em> Somewhere with less women at the top than ever (5)
 
 <em>3 across </em>It can be public or private? (6) 
+
+## Brazil’s toxic presidential run-off
+
+Brazilians will decide their country’s fate on Sunday in the most consequential [presidential run-off](https://te.arielherself.xyz/the-americas/2022/10/27/brazils-election-is-tight-ahead-of-a-run-off-on-october-30th) of recent times. [Jair Bolsonaro](https://te.arielherself.xyz/the-americas/2022/10/27/brazils-election-is-tight-ahead-of-a-run-off-on-october-30th), the populist far-right incumbent, has claimed (without providing evidence) that the elections might be rigged. He received 43% of votes in the first round on October 2nd, while Luiz Inácio Lula da Silva, a leftist [former president](https://te.arielherself.xyz/the-americas/2022/09/19/how-left-wing-on-economics-is-luiz-inacio-lula-da-silva), came out on top with 48%. But the gap is closing. <em>The Economist</em>’s [poll tracker](https://te.arielherself.xyz/interactive/brazil-2022) shows Lula on 52% and Mr Bolsonaro on 48%. Given the margin of error, that is technically a tie.
+
+The campaign has been vicious. The candidates have accused each other of communism, satanism, cannibalism and paedophilia. There have been 1,700 complaints about employers coercing employees to vote their way. A politician allied with Mr Bolsonaro threw grenades and fired a rifle at police attempting to arrest him this week. More turmoil may be coming. Taking a page from Donald Trump’s playbook, Mr Bolsonaro has suggested he may [not accept defeat](https://te.arielherself.xyz/briefing/2022/09/08/jair-bolsonaro-is-poised-to-lose-the-brazilian-election).
 
 ----------
 
