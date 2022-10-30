@@ -14,7 +14,7 @@
 
 At least 153 people died in a <strong>crush</strong> during Halloween celebrations in Seoul, the capital of <strong>South Korea</strong>. Another 82 were injured and the city has reportedly received thousands of missing-person reports. The president, Yoon Suk-yeol, promised to thoroughly investigate the cause of the tragedy, which took place in the Itaewon district, a popular area for nightlife.
 
-<strong>Russia’s</strong> defence ministry said that the country would suspend a deal allowing <strong>grain exports</strong> from Ukrainian ports, claiming that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
+The EU encouraged <strong>Russia </strong>to reverse course after it withdrew from a deal allowing <strong>grain exports</strong> from Ukrainian ports. Russia claimed that Ukrainian drones had attacked ships from its Black Sea Fleet taking part in the initiative. On Friday António Guterres, the UN’s secretary-general, had urged that the agreement, which was reached in July and is due to expire next month, be extended.
 
 <strong>Elon Musk</strong> has reportedly ordered [staff cuts](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) at <strong>Twitter</strong>. The layoffs are expected to happen before employees’ stock options vest on Tuesday, according to the <em>New York Times</em>. The sackings could mean Mr Musk avoids paying that compensation. It is unclear how many employees will get the axe, though previous reports suggested he could cull 75% of the social-media firm’s 7,500 staff.
 
