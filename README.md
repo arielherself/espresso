@@ -34,7 +34,7 @@ At least 141 people died after a <strong>suspension bridge</strong> for pedestri
 
 ## Affirmative action’s last stand
 
-Since 1978, America’s Supreme Court has allowed the limited use of racial preferences in university admissions to foster the educational benefits of diversity. In 2003 and 2016, legal challenges to affirmative action fell one vote short in the highest court. But on Monday a pair of cases, involving Harvard University and the University of North Carolina, give the justices another opportunity to nix race-conscious admissions. The court’s six Republican-appointed members should be a receptive audience.
+Since 1978, America’s Supreme Court has allowed the limited use of racial preferences in university admissions to foster the educational benefits of diversity. In 2003 and 2016, legal challenges to affirmative action fell one vote short in the highest court. But on Monday a pair of cases, involving Harvard University and the University of North Carolina, give the justices another opportunity to nix race-conscious admissions. The court’s six Republican-appointed members were a receptive audience.
 
 Students for Fair Admissions, the plaintiff in both suits, is the brainchild of Edward Blum, a conservative activist who brought the previous cases, too. SFFA argues that <em>Grutter v Bollinger</em>, the 2003 decision, is “egregiously wrong” and must be overturned. Harvard’s tip for black and Hispanic students is not modest but “mammoth”, the organisation says, and “discriminates against Asian Americans”. Harvard counters that its policies “fully align” with the constitutional requirement of equal protection and reflect “common-sense reality, not stereotype”. 
 
@@ -64,7 +64,7 @@ Meret Oppenheim was 22 and chatting with Pablo Picasso and Dora Maar in a Paris 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c998bca0b38cbab9bbacbabaa689acaaa6a7a6a4a0babde7aaa6a4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="dd8ca8b4a798aeadafb8aeaeb29db8beb2b3b2b0b4aea9f3beb2b0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which New Testament gospel is widely considered to be part of a two-volume work, along with the Acts of the Apostles?
 
