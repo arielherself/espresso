@@ -18,7 +18,7 @@ A majority of justices on America’s <strong>Supreme Court</strong> appeared sc
 
 Annualised <strong>inflation </strong>in the eurozone hit a new record in October, soaring to 10.7%, according to Eurostat, the EU’s statistics bureau. The jump was partly fuelled by [rising energy costs](https://www.economist.com/finance-and-economics/2022/10/30/europes-energy-crisis-is-very-far-from-over), which grew 41.9% year-on-year, compared with a 40.7% rise in September. The data will increase pressure on the European Central Bank to raise interest rates again at its next decision in December. The bank raised rates by 0.75 percentage points last week.
 
-<strong>Russia</strong> launched several missile strikes on <strong>Ukraine</strong>, including on the capital Kyiv, causing [electricity and water outages](https://www.economist.com/europe/2022/10/24/ukraine-races-to-stop-russia-from-destroying-its-power-grid), according to Ukrainian officials. Dmytro Kuleba, the foreign minister, tweeted that “critical infrastructure” had been hit and accused Russia of targeting civilians. Separately, Norway raised its military alert level in response to “the uncertainties” in the war, citing broad fears of Russian threats to its energy infrastructure.
+<strong>Donald Trump</strong> asked the Supreme Court to block House lawmakers from seeing his <strong>tax returns</strong>, which a lower court had said they could access by Thursday. Separately, at a [tax-fraud trial](https://www.economist.com/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in) against the former president’s real-estate business, prosecutors accused the Trump Organisation of “cheating” at the “highest level”. Lawyers for the company said only its chief financial officer was guilty of tax evasion, not Mr Trump.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ Meret Oppenheim was 22 and chatting with Pablo Picasso and Dora Maar in a Paris 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8ddcf8e4f7c8fefdffe8fefee2cde8eee2e3e2e0e4fef9a3eee2e0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="91c0e4f8ebd4e2e1e3f4e2e2fed1f4f2fefffefcf8e2e5bff2fefc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which New Testament gospel is widely considered to be part of a two-volume work, along with the Acts of the Apostles?
 
