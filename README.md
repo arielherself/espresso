@@ -32,11 +32,11 @@ At least 141 people died after a <strong>suspension bridge</strong> for pedestri
 
 ----------
 
-## Affirmative action’s last stand
+## Some good news for Italy’s new government
 
-Since 1978, America’s Supreme Court has allowed the limited use of racial preferences in university admissions to foster the educational benefits of diversity. In 2003 and 2016, legal challenges to affirmative action fell one vote short in the highest court. But on Monday a pair of cases, involving Harvard University and the University of North Carolina, give the justices another opportunity to nix race-conscious admissions. The court’s six Republican-appointed members should be a receptive audience.
+Italy’s latest GDP figures showed an unexpectedly strong performance in the third quarter. The economy was reckoned to have grown by 0.5% quarter-on-quarter. Parliament’s budgetary committee had braced for a 0.2% drop. The national statistical office said the preliminary indications pointed to a big boost from services. Italy has benefited from the surge in tourism that has followed the lifting of restrictions imposed during the pandemic.
 
-Students for Fair Admissions, the plaintiff in both suits, is the brainchild of Edward Blum, a conservative activist who brought the previous cases, too. SFFA argues that <em>Grutter v Bollinger</em>, the 2003 decision, is “egregiously wrong” and must be overturned. Harvard’s tip for black and Hispanic students is not modest but “mammoth”, the organisation says, and “discriminates against Asian Americans”. Harvard counters that its policies “fully align” with the constitutional requirement of equal protection and reflect “common-sense reality, not stereotype”. 
+Today’s figures nevertheless mean that annual growth is down (to 2.6% from 4.9% at the end of the previous quarter). And they reflect only partially the effect of rapidly rising prices. In October, the annual rate of consumer inflation leapt to 12.8% from 9.4% a month earlier. The energy-driven inflation affecting the whole of Europe is among several economic headaches for [Giorgia Meloni’s](https://te.arielherself.xyz/leaders/2022/10/27/storm-clouds-loom-for-giorgia-meloni-italys-new-prime-minister) newly installed right-wing government. And with Italy already owing more than 150% of GDP, there is a limit to how much she can spend without unsettling investors.
 
 ## Ukraine’s grain exports
 
@@ -44,17 +44,17 @@ Twelve ships packed with grain left Ukraine’s ports on Monday, despite Russia 
 
 Turkey, Ukraine and the UN insist exports must continue. Since early August, when the deal came into effect, Ukraine has been able to export more than 9m tonnes of grain, saving its farmers from bankruptcy. The agreement has also eased a global food shortage, brought down prices and prevented some 100m people from falling into extreme poverty, according to the UN. Its collapse would undo many of those gains. It may also expose Ukraine’s ports, whose waters have been de-mined to allow ships to pass, to new Russian attacks.
 
-## Some good news for Italy’s new government
-
-Italy’s latest GDP figures showed an unexpectedly strong performance in the third quarter. The economy was reckoned to have grown by 0.5% quarter-on-quarter. Parliament’s budgetary committee had braced for a 0.2% drop. The national statistical office said the preliminary indications pointed to a big boost from services. Italy has benefited from the surge in tourism that has followed the lifting of restrictions imposed during the pandemic.
-
-Today’s figures nevertheless mean that annual growth is down (to 2.6% from 4.9% at the end of the previous quarter). And they reflect only partially the effect of rapidly rising prices. In October, the annual rate of consumer inflation leapt to 12.8% from 9.4% a month earlier. The energy-driven inflation affecting the whole of Europe is among several economic headaches for [Giorgia Meloni’s](https://te.arielherself.xyz/leaders/2022/10/27/storm-clouds-loom-for-giorgia-meloni-italys-new-prime-minister) newly installed right-wing government. And with Italy already owing more than 150% of GDP, there is a limit to how much she can spend without unsettling investors.
-
 ## Hong Kong’s financial summit mired in covid
 
 After more than two years largely sealed off from the outside world, and a violent [crackdown on democracy](https://te.arielherself.xyz/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state), Hong Kong’s reputation has taken a beating. But the government hopes to revive its vulnerable status as Asia’s top commercial hub this week with a high-profile summit of global leaders from the finance industry.
 
 The Global Financial Leaders’ Investment Summit will be a hard sell. Hong Kong is still physically isolated from mainland China as a result of[ zero-covid policies](https://te.arielherself.xyz/china/2022/04/16/the-way-chinese-think-about-covid-19-is-changing), threatening its traditional role as a business gateway to the mainland economy. Wall Street bosses are among the attendees, but some will be notable by their absence. Covid-19 diagnoses will keep the head of Citigroup, Jane Fraser, and the president of Blackstone, Jonathan Gray, away. Hong Kong still requires multiple tests for visitors and enforced isolation for those testing positive. Paul Chan, the city’s financial secretary, aims to attend despite having contracted covid on a trip to Saudi Arabia. Zero-covid, it seems, still means lots of covid.
+
+## Affirmative action’s last stand
+
+Since 1978, America’s Supreme Court has allowed the limited use of racial preferences in university admissions to foster the educational benefits of diversity. In 2003 and 2016, legal challenges to affirmative action fell one vote short in the highest court. But on Monday a pair of cases, involving Harvard University and the University of North Carolina, give the justices another opportunity to nix race-conscious admissions. The court’s six Republican-appointed members should be a receptive audience.
+
+Students for Fair Admissions, the plaintiff in both suits, is the brainchild of Edward Blum, a conservative activist who brought the previous cases, too. SFFA argues that <em>Grutter v Bollinger</em>, the 2003 decision, is “egregiously wrong” and must be overturned. Harvard’s tip for black and Hispanic students is not modest but “mammoth”, the organisation says, and “discriminates against Asian Americans”. Harvard counters that its policies “fully align” with the constitutional requirement of equal protection and reflect “common-sense reality, not stereotype”. 
 
 ## Meret Oppenheim’s storm in a teacup
 
@@ -64,7 +64,7 @@ Meret Oppenheim was 22 and chatting with Pablo Picasso and Dora Maar in a Paris 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ebba9e8291ae989b998e989884ab8e888485848682989fc5888486">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ce9fbba7b48bbdbebcabbdbda18eabada1a0a1a3a7bdbae0ada1a3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which New Testament gospel is widely considered to be part of a two-volume work, along with the Acts of the Apostles?
 
