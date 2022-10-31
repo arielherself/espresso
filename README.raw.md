@@ -14,11 +14,11 @@
 
 <strong>Luiz Inácio Lula da Silva</strong> won <strong>Brazil’s</strong> knife-edge [presidential run-off](https://www.economist.com/the-americas/2022/10/31/luiz-inacio-lula-da-silva-will-be-brazils-next-president), with 50.9% of the vote. The leftist former president beat Jair Bolsonaro, the right-wing incumbent, and will be sworn in on January 1st 2023. It is an astonishing comeback: after losing the presidency in 2010, Lula was imprisoned on corruption charges in 2018. Tensions ran high on Sunday after supporters of Lula accused federal police of erecting roadblocks to suppress turnout in some constituencies. Mr Bolsonaro has yet to concede.
 
+Annualised <strong>inflation </strong>in the eurozone hit a new record in October, soaring to 10.7%, according to Eurostat, the EU’s statistics bureau. The jump was partly fuelled by [rising energy costs](https://www.economist.com/finance-and-economics/2022/10/30/europes-energy-crisis-is-very-far-from-over), which grew 41.9% year-on-year, compared with a 40.7% rise in September. The data will increase pressure on the European Central Bank to raise interest rates again at its next decision in December. The bank raised rates by 0.75 percentage points last week.
+
 <strong>Russia</strong> launched several missile strikes on <strong>Ukraine</strong>, including on the capital Kyiv, causing [electricity and water outages](https://www.economist.com/europe/2022/10/24/ukraine-races-to-stop-russia-from-destroying-its-power-grid), according to Ukrainian officials. Dmytro Kuleba, the foreign minister, tweeted that “critical infrastructure” had been hit and accused Russia of targeting civilians. Separately Britain’s defence ministry said many of Russia’s newly mobilised reservists were poorly equipped, using rifles that were in “barely usable condition”.
 
 Ukrainian officials said that 12 ships carrying grain had left the country’s ports as planned on Monday. <strong>Turkey</strong>, <strong>Ukraine</strong> and the <strong>UN</strong> vowed to press ahead with the Black Sea grain deal, despite [Russia withdrawing](https://www.economist.com/europe/2022/10/30/putin-suspends-a-deal-to-allow-grain-exports-from-ukraine) after claiming that Ukrainian drones had attacked Russian ships. Its withdrawal provoked outrage from the West and raised fears of global starvation.
-
-<strong>Italy’s </strong>economy beat expectations in the third quarter, growing 0.5%. Analysts had forecast flat quarterly growth, while officials predicted a drop. ISTAT, the country’s statistics bureau, attributed the rise to an increase in services activity. The reading is a boon for Italy’s new prime minister, [Giorgia Meloni](https://www.economist.com/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy), who leads the country’s [most right-wing government](https://www.economist.com/leaders/2022/10/27/storm-clouds-loom-for-giorgia-meloni-italys-new-prime-minister) since the second world war.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ Meret Oppenheim was 22 and chatting with Pablo Picasso and Dora Maar in a Paris 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0f5e7a66754a7c7f7d6a7c7c604f6a6c60616062667c7b216c6062">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday:</strong> Which New Testament gospel is widely considered to be part of a two-volume work, along with the Acts of the Apostles?
 
