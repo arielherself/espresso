@@ -46,7 +46,7 @@ On Tuesday Israel is holding its fifth parliamentary election in less than four 
 
 ## The bad business models of digital darlings
 
-On Tuesday Uber will publish its quarterly results. Despite being the largest ride-sharing company in the world, it is expected to report yet again that it spent more money than it made. And its problems are not unique. After a multi-year bull run, American technology stocks are suffering a sharp correction. The tech-heavy NASDAQ Composite has fallen by almost 30% in the past 12 months. Crunchbase, a data provider, estimates that tech firms have shed more than 45,000 jobs this year.
+Uber’s share price rose by more than a tenth on Tuesday after it reported that quarterly revenues grew by 72% year over year, to $8.3bn. Still, the ride-sharing firm again incurred a net loss, this time of $1.2bn. Uber’s problems are not unique. After a multi-year bull run, and despite Uber’s share-price “pop” on Tuesday, American technology stocks are suffering a sharp correction. The tech-heavy NASDAQ Composite has fallen by almost 30% in the past 12 months. Crunchbase, a data provider, estimates that tech firms have shed more than 45,000 jobs this year.
 
 Some of those born after the dotcom crash of 2001 seem particularly vulnerable. They include “movers” ([like Uber](https://te.arielherself.xyz/business/uber-doordash-and-similar-firms-cant-defy-the-laws-of-capitalism-after-all/21806198)), “streamers” (like Netflix), and “creepers” (like Snap, which make their money by serving targeted ads), which have all seen their share performances decline. These businesses, though diverse, have made similar mistakes, including an overestimation of the value of users and an underestimation of the risk of copy-cats. Despite what tech-enthusiasts once believed, the harsh laws of competitive capitalism still apply online.
 
@@ -64,7 +64,7 @@ Ms Homans explores both the technical details of Balanchine’s craft and the me
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="81d0f4e8fbc4f2f1f3e4f2f2eec1e4e2eeefeeece8f2f5afe2eeec">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="306145594a754340425543435f7055535f5e5f5d5943441e535f5d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which American skyscraper was built in 1930-31 to become the world’s tallest building at the time?  
 <strong>Monday:</strong> Which New Testament gospel is widely considered to be part of a two-volume work, along with the Acts of the Apostles?
