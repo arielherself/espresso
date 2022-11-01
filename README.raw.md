@@ -36,7 +36,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/10/31/luiz-inacio-lula-da-silva-will-be-brazils-next-president) will lead Brazil again after winning the country’s fiercest contest since it returned to democratic elections in 1989. Mr Lula, of the leftist Workers’ Party, will return as president—he previously served two terms between 2003 and 2010—after narrowly beating the right-wing populist incumbent,[ Jair Bolsonaro](https://www.economist.com/films/2022/10/15/the-enduring-threat-of-jair-bolsonaro), in Sunday’s election. Lula won 50.9% to Mr Bolsonaro’s 49.1%, a margin of just over 2m votes. 
 
-After a campaign marked by violence and fake news, Lula must pacify a fractured country. “I will govern for 215m Brazilians, not just for those who voted for me”, he said in his victory speech. But Mr Bolsonaro, who has repeatedly cast doubt on the electoral system, may not accept defeat. Depending on his reaction <em>b</em><em>olsonaristas </em>may resort to street violence. Lula hopes to boost spending to alleviate poverty. Mr Bolsonaro’s allies in congress, though, may block [his agenda](https://www.economist.com/the-americas/2022/10/20/brazils-next-president-will-face-a-big-tricky-in-tray). Lula will find governing much harder this time around.
+After a campaign marked by violence and fake news, Lula must pacify a fractured country. “I will govern for 215m Brazilians, not just for those who voted for me”, he said in his victory speech. Mr Bolsonaro, for his part, made no mention of defeat in his first public address since losing, though afterwards his chief of staff said Mr Bolsonaro’s government would comply with the transfer of power. Lula hopes to boost spending to alleviate poverty. Mr Bolsonaro’s allies in congress, though, may block his agenda. Lula will find governing much harder this time around.
 
 ## Another election in Israel
 
@@ -64,7 +64,7 @@ Ms Homans explores both the technical details of Balanchine’s craft and the me
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="702105190a350300021503031f3015131f1e1f1d1903045e131f1d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f4a5819d8eb18784869187879bb491979b9a9b999d8780da979b99">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which American skyscraper was built in 1930-31 to become the world’s tallest building at the time?  
 <strong>Monday:</strong> Which New Testament gospel is widely considered to be part of a two-volume work, along with the Acts of the Apostles?
