@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-A <strong>North Korean </strong>missile landed 60km from <strong>South Korea’s</strong> coast, the [first such launch](https://www.economist.com/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many) to cross the countries’ maritime border. Yoon Suk-yeol, South Korea’s president, called it an “effective territorial invasion” and promised a “swift response”. South Korea said at least 23 missiles were fired “east and west” on Wednesday morning. It responded by launching three missiles towards North Korea.
+A <strong>North Korean </strong>missile landed 60km from <strong>South Korea’s</strong> coast, the [first such launch](https://www.economist.com/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many) to cross the countries’ maritime border. Yoon Suk-yeol, South Korea’s president, called it an “effective territorial invasion” and promised a “swift response”. South Korea said at least 23 missiles were fired “east and west” on Wednesday. It responded by launching three missiles towards North Korea.
 
 In his first public statement since [losing Brazil’s presidential election](https://www.economist.com/the-americas/2022/10/31/luiz-inacio-lula-da-silva-will-be-brazils-next-president), <strong>Jair Bolsonaro</strong> made no mention of his defeat to Luiz Inácio Lula da Silva, though afterwards an aide said Mr Bolsonaro’s government would comply with the transfer of power. Mr Bolsonaro said those protesting in his support were expressing “injustice” about the vote. But he made no allegations of voter fraud and instructed his supporters to avoid “invading property”.
 
@@ -32,12 +32,6 @@ Elon Musk, <strong>Twitter’s</strong> [new boss](https://www.economist.com/bus
 
 ----------
 
-## Infrastructure disasters in India
-
-Opened in 1879, Jhulto Pul “hanging bridge” was the biggest tourist attraction in Morbi, a Gujarati town. Now it is the site of India’s [latest man-made disaster](https://www.economist.com/asia/2022/02/17/indias-omicron-wave-recedes-but-not-the-risk-of-premature-death). On October 30th, four days after the pedestrian suspension bridge reopened following maintenance work, its cables snapped, plunging several hundred people into the Machchhu river. On Wednesday Gujarat will mark a day of mourning for the victims. 
-
-Oreva, the company which operates the bridge, has blamed people for swaying the walkway. But its employees are among the nine people arrested so far over the collapse. Ahead of state elections in December, opposition parties have alleged corruption over the way Oreva, chiefly a clock-maker, was awarded the bridge contract by the municipality of Morbi and the government of Gujarat, which are controlled by the Bharatiya Janata Party. Narendra Modi, India’s BJP prime minister, has ordered a “detailed and extensive” inquiry. The Supreme Court will open an investigation on November 14th. Indians will not expect much. Post-mortems following similar tragedies have done little to improve governance or shoddy engineering.
-
 ## A spyware scandal in Greece
 
 Officials from the European Parliament are in [Greece](https://www.economist.com/europe/2022/05/19/rows-over-press-freedom-overshadow-greeces-recent-achievements) on Wednesday to probe whether the ruling party used spyware to illegally snoop on politicians and a journalist. The government of Kyriakos Mitsotakis, the prime minister, has denied that it bought the Israeli-made Predator software (which is similar to the Pegasus [spyware](https://www.economist.com/middle-east-and-africa/2021/07/31/israel-is-loth-to-regulate-its-spyware-exports) used by governments including Mexico and Saudi Arabia). But the reluctance of officials to meet with investigators has fuelled worries that his New Democracy party was involved in an attempt last year to hack the phone of Nikos Androulakis, the leader of Pasok-Kinal, an opposition party.
@@ -52,6 +46,12 @@ As delegates haggle over how to reduce global emissions, they should remember ho
 
 If Africa is to grow richer, [its energy use must increase](https://www.economist.com/by-invitation/2022/05/14/yemi-osinbajo-on-the-hypocrisy-of-rich-countries-climate-policies). Renewable energy is essential, but Africa cannot rely on it alone. More gas, which is polluting but cleaner than coal, is needed in the mix. But, despite happily importing fossil fuels, governments in the West mostly now refuse to finance new fossil-fuel projects in Africa or poor countries elsewhere. Those negotiating at COP27 should acknowledge that green growth in the region is a worthwhile goal—but it should not come at the cost of turning on the lights.
 
+## Infrastructure disasters in India
+
+Opened in 1879, Jhulto Pul “hanging bridge” was the biggest tourist attraction in Morbi, a Gujarati town. Now it is the site of India’s [latest man-made disaster](https://www.economist.com/asia/2022/02/17/indias-omicron-wave-recedes-but-not-the-risk-of-premature-death). On October 30th, four days after the pedestrian suspension bridge reopened following maintenance work, its cables snapped, plunging several hundred people into the Machchhu river. On Wednesday Gujarat will mark a day of mourning for the victims. 
+
+Oreva, the company which operates the bridge, has blamed people for swaying the walkway. But its employees are among the nine people arrested so far over the collapse. Ahead of state elections in December, opposition parties have alleged corruption over the way Oreva, chiefly a clock-maker, was awarded the bridge contract by the municipality of Morbi and the government of Gujarat, which are controlled by the Bharatiya Janata Party. Narendra Modi, India’s BJP prime minister, has ordered a “detailed and extensive” inquiry. The Supreme Court will open an investigation on November 14th. Indians will not expect much. Post-mortems following similar tragedies have done little to improve governance or shoddy engineering.
+
 ## British prime ministers on screen
 
 In a recent self-promotional video [Rishi Sunak](https://www.economist.com/britain/2022/10/27/rishi-sunak-britains-new-prime-minister-starts-on-the-defensive), Britain’s prime minister, appears to be modelling himself on the clean-cut, shirt-sleeved occupant of 10 Downing Street played by Hugh Grant in “Love Actually”, a romantic comedy. The slickly produced clip has been mocked online, but there are not many other fictional role models for Mr Sunak to choose from.  
@@ -60,7 +60,7 @@ In a recent self-promotional video [Rishi Sunak](https://www.economist.com/brita
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d081a5b9aa95a3a0a2b5a3a3bf90b5b3bfbebfbdb9a3a4feb3bfbd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="81d0f4e8fbc4f2f1f3e4f2f2eec1e4e2eeefeeece8f2f5afe2eeec">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which character partnered Ilya Kuryakin in the television series “The Man from Uncle”?  
   
