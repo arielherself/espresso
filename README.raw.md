@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Investors bristled at hawkish comments by Jerome Powell, chairman of the <strong>Federal Reserve</strong>, who suggested that it was “premature” to pause monetary tightening. Interest rates will ultimately be “higher than previously expected”, he said, shortly after America’s central bank [raised its benchmark interest rate](https://www.economist.com/graphic-detail/2022/11/02/inflation-is-too-high-when-the-public-notices-it) by three-quarters of a percentage point, the fourth consecutive jumbo increase. The S&amp;P 500 shed 2.5%.
+Investors bristled at hawkish comments by Jerome Powell, chairman of the <strong>Federal Reserve</strong>, who suggested that it was “premature” to [pause monetary tightening](https://www.economist.com/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). Interest rates will ultimately be “higher than previously expected”, he said, shortly after America’s central bank [raised its benchmark interest rate](https://www.economist.com/graphic-detail/2022/11/02/inflation-is-too-high-when-the-public-notices-it) by three-quarters of a percentage point, the fourth consecutive jumbo increase. The S&amp;P 500 shed 2.5%.
 
 <strong>Russia </strong>said that it would rejoin a [deal](https://www.economist.com/the-economist-explains/2022/07/28/will-the-grain-deal-between-russia-and-ukraine-reduce-global-hunger) allowing exports of grain to leave Ukrainian ports on the Black Sea. Tass, the Russian state media agency, reported that the government had received “written guarantees” that Ukraine would not use the trade corridors to launch military attacks. The Kremlin had [suspended the agreement](https://www.economist.com/europe/2022/10/30/putin-suspends-a-deal-to-allow-grain-exports-from-ukraine) on Saturday. 
 
@@ -66,7 +66,7 @@ In a recent self-promotional video [Rishi Sunak](https://www.economist.com/brita
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2f7e5a46556a5c5f5d4a5c5c406f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which character partnered Ilya Kuryakin in the television series “The Man from Uncle”?  
   
