@@ -22,11 +22,11 @@ Volodymyr Zelensky, <strong>Ukraine’s</strong> president, called for a “reli
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The number of<strong> job openings</strong> in <strong>America</strong> rose to 10.7m in September, meaning there are nearly two vacancies for every person seeking work. That is a sign that the Federal Reserve’s [interest-rate rises](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away) have yet to cool the labour market. But monetary tightening seems to have reduced demand for goods: <strong>manufacturing</strong> activity in October grew at its slowest pace since 2020.
+<strong>Maersk </strong>warned that container demand was weakening as concerns about recession unsettle global trade. The Danish shipping group recorded unadjusted, underlying earnings of $10.9bn in the third quarter, up from $6.9bn in the same period last year. But the war in Ukraine, and Europe’s energy crisis, have darkened the firm’s outlook, just as a pandemic-related boom in [freight rates](https://www.economist.com/graphic-detail/2022/09/30/global-shipping-costs-are-plunging-as-the-world-economy-slows) subsides.
 
 Elon Musk, <strong>Twitter’s</strong> [new boss](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last), said he was planning to launch an $8-a-month subscription for “verified” users. That implies the platform’s “blue-tick” badge of approval might be open to those willing to pay from it, not just confirmed celebrities, journalists, politicians and the like. Mr Musk wants the social-media firm to find new sources of revenue. Currently most of its money comes from advertisers.
 
-<strong>Uber’s </strong>share price leapt by more than a tenth after the ride-sharing firm said quarterly revenues grew by 72% year over year, to $8.3bn. Still, Uber booked a [net loss](https://www.economist.com/business/2022/10/31/what-went-wrong-with-snap-netflix-and-uber) of $1.2bn. <strong>Airbnb</strong>, meanwhile, had its most lucrative quarter ever, reporting a profit of $1.2bn. Revenues at the home-sharing firm rose by 29% year over year, to $2.9bn.
+The number of<strong> job openings</strong> in <strong>America</strong> rose to 10.7m in September, meaning there are nearly two vacancies for every person seeking work. That is a sign that the Federal Reserve’s [interest-rate rises](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away) have yet to cool the labour market. But monetary tightening seems to have reduced demand for goods: <strong>manufacturing</strong> activity in October grew at its slowest pace since 2020.
 
 <strong>Fact of the day</strong>: 45,000, the estimated number of jobs that American tech firms have shed this year. [Read the full story](https://www.economist.com/business/2022/10/31/what-went-wrong-with-snap-netflix-and-uber).
 
@@ -60,7 +60,7 @@ In a recent self-promotional video [Rishi Sunak](https://www.economist.com/brita
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="beefcbd7c4fbcdceccdbcdcdd1fedbddd1d0d1d3d7cdca90ddd1d3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3465415d4e714744465147475b7451575b5a5b595d47401a575b59">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which character partnered Ilya Kuryakin in the television series “The Man from Uncle”?  
   
