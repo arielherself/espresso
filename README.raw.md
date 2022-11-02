@@ -38,12 +38,6 @@ America’s Federal Reserve raised interest rates by three-quarters of a percent
 
 Given that markets have priced in the rate increase, the focus will be on what [Jerome Powell](https://www.economist.com/podcasts/2022/09/22/chairman-powell-made-clear-there-would-be-more-pain-to-come), the Fed’s chairman, says in a subsequent news conference. Look for hints about whether he is ready to slow the pace of tightening, perhaps teeing the Fed up for a half-point rate increase at its next meeting in December. But he will also no doubt explain that future decisions depend on data, leaving the Fed wriggle room to deliver yet another jumbo rate rise if inflation remains uncomfortably high.
 
-## Infrastructure disasters in India
-
-Opened in 1879, Jhulto Pul “hanging bridge” was the biggest tourist attraction in Morbi, a Gujarati town. Now it is the site of India’s [latest man-made disaster](https://www.economist.com/asia/2022/02/17/indias-omicron-wave-recedes-but-not-the-risk-of-premature-death). On October 30th, four days after the pedestrian suspension bridge reopened following maintenance work, its cables snapped, plunging several hundred people into the Machchhu river. On Wednesday Gujarat will mark a day of mourning for the victims. 
-
-Oreva, the company which operates the bridge, has blamed people for swaying the walkway. But its employees are among the nine people arrested so far over the collapse. Ahead of state elections in December, opposition parties have alleged corruption over the way Oreva, chiefly a clock-maker, was awarded the bridge contract by the municipality of Morbi and the government of Gujarat, which are controlled by the Bharatiya Janata Party. Narendra Modi, India’s BJP prime minister, has ordered a “detailed and extensive” inquiry. The Supreme Court will open an investigation on November 14th. Indians will not expect much. Post-mortems following similar tragedies have done little to improve governance or shoddy engineering.
-
 ## A spyware scandal in Greece
 
 Officials from the European Parliament are in [Greece](https://www.economist.com/europe/2022/05/19/rows-over-press-freedom-overshadow-greeces-recent-achievements) on Wednesday to probe whether the ruling party used spyware to illegally snoop on politicians and a journalist. The government of Kyriakos Mitsotakis, the prime minister, has denied that it bought the Israeli-made Predator software (which is similar to the Pegasus [spyware](https://www.economist.com/middle-east-and-africa/2021/07/31/israel-is-loth-to-regulate-its-spyware-exports) used by governments including Mexico and Saudi Arabia). But the reluctance of officials to meet with investigators has fuelled worries that his New Democracy party was involved in an attempt last year to hack the phone of Nikos Androulakis, the leader of Pasok-Kinal, an opposition party.
@@ -58,6 +52,12 @@ As delegates haggle over how to reduce global emissions, they should remember ho
 
 If Africa is to grow richer, [its energy use must increase](https://www.economist.com/by-invitation/2022/05/14/yemi-osinbajo-on-the-hypocrisy-of-rich-countries-climate-policies). Renewable energy is essential, but Africa cannot rely on it alone. More gas, which is polluting but cleaner than coal, is needed in the mix. But, despite happily importing fossil fuels, governments in the West mostly now refuse to finance new fossil-fuel projects in Africa or poor countries elsewhere. Those negotiating at COP27 should acknowledge that green growth in the region is a worthwhile goal—but it should not come at the cost of turning on the lights.
 
+## Infrastructure disasters in India
+
+Opened in 1879, Jhulto Pul “hanging bridge” was the biggest tourist attraction in Morbi, a Gujarati town. Now it is the site of India’s [latest man-made disaster](https://www.economist.com/asia/2022/02/17/indias-omicron-wave-recedes-but-not-the-risk-of-premature-death). On October 30th, four days after the pedestrian suspension bridge reopened following maintenance work, its cables snapped, plunging several hundred people into the Machchhu river. On Wednesday Gujarat will mark a day of mourning for the victims. 
+
+Oreva, the company which operates the bridge, has blamed people for swaying the walkway. But its employees are among the nine people arrested so far over the collapse. Ahead of state elections in December, opposition parties have alleged corruption over the way Oreva, chiefly a clock-maker, was awarded the bridge contract by the municipality of Morbi and the government of Gujarat, which are controlled by the Bharatiya Janata Party. Narendra Modi, India’s BJP prime minister, has ordered a “detailed and extensive” inquiry. The Supreme Court will open an investigation on November 14th. Indians will not expect much. Post-mortems following similar tragedies have done little to improve governance or shoddy engineering.
+
 ## British prime ministers on screen
 
 In a recent self-promotional video [Rishi Sunak](https://www.economist.com/britain/2022/10/27/rishi-sunak-britains-new-prime-minister-starts-on-the-defensive), Britain’s prime minister, appears to be modelling himself on the clean-cut, shirt-sleeved occupant of 10 Downing Street played by Hugh Grant in “Love Actually”, a romantic comedy. The slickly produced clip has been mocked online, but there are not many other fictional role models for Mr Sunak to choose from.  
@@ -66,7 +66,7 @@ In a recent self-promotional video [Rishi Sunak](https://www.economist.com/brita
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f9a88c9083bc8a898b9c8a8a96b99c9a96979694908a8dd79a9694">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cf9ebaa6b58abcbfbdaabcbca08faaaca0a1a0a2a6bcbbe1aca0a2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which character partnered Ilya Kuryakin in the television series “The Man from Uncle”?  
   
