@@ -12,11 +12,11 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Russia </strong>said that it would rejoin a [deal](https://te.arielherself.xyz/the-economist-explains/2022/07/28/will-the-grain-deal-between-russia-and-ukraine-reduce-global-hunger) allowing exports of grain to leave Ukrainian ports on the Black Sea. Tass, the Russian state media agency, reported that the government had received “written guarantees” that Ukraine would not use the trade corridors to launch military attacks. The Kremlin [suspended the agreement](https://te.arielherself.xyz/europe/2022/10/30/putin-suspends-a-deal-to-allow-grain-exports-from-ukraine) on Saturday after a strike on its naval fleet in Crimea, the peninsula annexed by Russia in 2014, though some grain ships still left Ukraine in recent days. Meanwhile Volodymyr Zelensky, <strong>Ukraine’s</strong> president, called for a “reliable and long-term defence” for Ukrainian exports. 
+
 A <strong>North Korean </strong>missile landed 60km from <strong>South Korea’s</strong> coast, the [first such launch](https://te.arielherself.xyz/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many) to cross the countries’ maritime border. Yoon Suk-yeol, South Korea’s president, called it an “effective territorial invasion” and promised a “swift response”. South Korea said at least 23 missiles were fired “east and west” on Wednesday. It responded by launching three missiles towards North Korea.
 
 In his first public statement since [losing Brazil’s presidential election](https://te.arielherself.xyz/the-americas/2022/10/31/luiz-inacio-lula-da-silva-will-be-brazils-next-president), <strong>Jair Bolsonaro</strong> made no mention of his defeat to Luiz Inácio Lula da Silva, though afterwards an aide said Mr Bolsonaro’s government would comply with the transfer of power. Mr Bolsonaro said those protesting in his support were expressing “injustice” about the vote. But he made no allegations of voter fraud and instructed his supporters to avoid “invading property”.
-
-Volodymyr Zelensky, <strong>Ukraine’s</strong> president, called for a “reliable and long-term defence” for grain exports from Ukrainian ports on the Black Sea. Three ships departed on Tuesday, despite Russia suspending the [deal](https://te.arielherself.xyz/europe/2022/10/30/putin-suspends-a-deal-to-allow-grain-exports-from-ukraine) ensuring their safe passage. Meanwhile power and water were restored in Kyiv, the capital, following Russian strikes. The boss of Ukrenergo, the country’s energy supplier, warned that Russia wanted to create “a humanitarian catastrophe” this winter.
 
 <strong>Binyamin Netanyahu</strong> said his party was on the “brink of a very big victory” in<strong> Israel’s</strong> [general election](https://te.arielherself.xyz/middle-east-and-africa/2022/10/27/israels-binyamin-netanyahu-bids-for-an-election-comeback). With roughly 85% of the votes counted, the former prime minister’s right-wing bloc looks set to form a majority government, toppling the coalition led by Yair Lapid. Mr Netanyahu was forced from office in 2021 amid accusations of corruption. 
 
@@ -31,6 +31,12 @@ The number of<strong> job openings</strong> in <strong>America</strong> rose to 
 <strong>Fact of the day</strong>: 45,000, the estimated number of jobs that American tech firms have shed this year. [Read the full story](https://te.arielherself.xyz/business/2022/10/31/what-went-wrong-with-snap-netflix-and-uber).
 
 ----------
+
+## Another jumbo rate rise from the Fed
+
+America’s Federal Reserve is widely expected to raise interest rates by three-quarters of a percentage point on Wednesday, its fourth straight increase of that magnitude. If it does so, the Fed will have lifted short-term rates from a floor of 0% in March to 3.75%, its sharpest tightening since the early 1980s, as it tries to rein in [inflation](https://te.arielherself.xyz/finance-and-economics/2022/10/02/americas-economy-is-too-strong-for-its-own-good), which is above an annual rate of 8%.
+
+Given that markets have priced in the rate increase, the focus will be on what [Jerome Powell](https://te.arielherself.xyz/podcasts/2022/09/22/chairman-powell-made-clear-there-would-be-more-pain-to-come), the Fed’s chairman, says in a subsequent news conference. Look for hints about whether he is ready to slow the pace of tightening, perhaps teeing the Fed up for a half-point rate increase at its next meeting in December. But he will also no doubt explain that future decisions depend on data, leaving the Fed wriggle room to deliver yet another jumbo rate rise if inflation remains uncomfortably high.
 
 ## Infrastructure disasters in India
 
@@ -60,7 +66,7 @@ In a recent self-promotional video [Rishi Sunak](https://te.arielherself.xyz/bri
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1b4a6e72615e686b697e6868745b7e787475747672686f35787476">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="89d8fce0f3ccfaf9fbecfafae6c9eceae6e7e6e4e0fafda7eae6e4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which character partnered Ilya Kuryakin in the television series “The Man from Uncle”?  
   
