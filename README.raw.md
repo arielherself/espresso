@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-As expected America’s <strong>Federal Reserve</strong> raised its benchmark interest rate by three-quarters of a percentage point, the fourth consecutive jumbo increase. That brings the federal-funds rate to a range of 3.75-4.0%, its highest since 2008, and comes amid the central bank’s [battle against inflation](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away), which hit 8.2% in September. Investors will scrutinise remarks from Jerome Powell, the Fed chair, on Wednesday for signs of whether the pace of tightening will ease next month.
+As expected America’s <strong>Federal Reserve</strong> [raised its benchmark interest rate](https://www.economist.com/graphic-detail/2022/11/02/inflation-is-too-high-when-the-public-notices-it) by three-quarters of a percentage point, the fourth consecutive jumbo increase. That brings the federal-funds rate to a range of 3.75-4.0%, its highest since 2008, and comes amid the central bank’s [battle against inflation](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away), which hit 8.2% in September. Investors will scrutinise remarks from Jerome Powell, the Fed chair, on Wednesday for signs of whether the pace of tightening will ease next month.
 
 <strong>Russia </strong>said that it would rejoin a [deal](https://www.economist.com/the-economist-explains/2022/07/28/will-the-grain-deal-between-russia-and-ukraine-reduce-global-hunger) allowing exports of grain to leave Ukrainian ports on the Black Sea. Tass, the Russian state media agency, reported that the government had received “written guarantees” that Ukraine would not use the trade corridors to launch military attacks. The Kremlin had [suspended the agreement](https://www.economist.com/europe/2022/10/30/putin-suspends-a-deal-to-allow-grain-exports-from-ukraine) on Saturday. 
 
@@ -32,9 +32,9 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ----------
 
-## Another jumbo rate rise from the Fed
+## All eyes on Jerome Powell
 
-America’s Federal Reserve is widely expected to raise interest rates by three-quarters of a percentage point on Wednesday, its fourth straight increase of that magnitude. If it does so, the Fed will have lifted short-term rates from a floor of 0% in March to 3.75%, its sharpest tightening since the early 1980s, as it tries to rein in [inflation](https://www.economist.com/finance-and-economics/2022/10/02/americas-economy-is-too-strong-for-its-own-good), which is above an annual rate of 8%.
+America’s Federal Reserve raised interest rates by three-quarters of a percentage point on Wednesday, its fourth straight increase of that magnitude. The Fed has lifted short-term rates from a floor of 0% in March to 3.75%, its sharpest tightening since the early 1980s, as it tries to rein in [inflation](https://www.economist.com/finance-and-economics/2022/10/02/americas-economy-is-too-strong-for-its-own-good), which is above an annual rate of 8%.
 
 Given that markets have priced in the rate increase, the focus will be on what [Jerome Powell](https://www.economist.com/podcasts/2022/09/22/chairman-powell-made-clear-there-would-be-more-pain-to-come), the Fed’s chairman, says in a subsequent news conference. Look for hints about whether he is ready to slow the pace of tightening, perhaps teeing the Fed up for a half-point rate increase at its next meeting in December. But he will also no doubt explain that future decisions depend on data, leaving the Fed wriggle room to deliver yet another jumbo rate rise if inflation remains uncomfortably high.
 
@@ -66,7 +66,7 @@ In a recent self-promotional video [Rishi Sunak](https://www.economist.com/brita
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8fdefae6f5cafcfffdeafcfce0cfeaece0e1e0e2e6fcfba1ece0e2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="85d4f0ecffc0f6f5f7e0f6f6eac5e0e6eaebeae8ecf6f1abe6eae8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which character partnered Ilya Kuryakin in the television series “The Man from Uncle”?  
   
