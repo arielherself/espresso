@@ -22,7 +22,7 @@ America’s two largest <strong>pharmacies </strong>tentatively agreed to pay mo
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Binyamin Netanyahu</strong> said his party was on the “brink of a very big victory” in<strong> Israel’s</strong> [general election](https://www.economist.com/middle-east-and-africa/2022/10/27/israels-binyamin-netanyahu-bids-for-an-election-comeback). With roughly 85% of the votes counted, the former prime minister’s right-wing bloc looks set to form a majority government, toppling the coalition led by Yair Lapid. Mr Netanyahu was forced from office in 2021 amid accusations of corruption. 
+<strong>Binyamin Netanyahu</strong> appeared all but certain to [reclaim his old job](https://www.economist.com/middle-east-and-africa/2022/11/02/netanyahu-seems-on-track-to-be-israels-next-prime-minister) as <strong>Israel’s </strong>prime minister. With 90% of votes counted from Tuesday’s election, Mr Netanyahu’s religious and right-wing coalition is on track to gain 62-65 of 120 seats in parliament. Another winner was Itamar Ben-Gvir, a far-right nationalist whose faction doubled its number of seats and whom Mr Netanyahu will need to form a government. 
 
 <strong>Maersk </strong>warned that container demand was weakening as concerns about recession unsettle global trade. The Danish shipping group recorded unadjusted, underlying earnings of $10.9bn in the third quarter, up from $6.9bn in the same period last year. But the war in Ukraine, and Europe’s energy crisis, have darkened the firm’s outlook, just as a pandemic-related boom in [freight rates](https://www.economist.com/graphic-detail/2022/09/30/global-shipping-costs-are-plunging-as-the-world-economy-slows) subsides.
 
@@ -66,7 +66,7 @@ In a recent self-promotional video [Rishi Sunak](https://www.economist.com/brita
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2677534f5c63555654435555496643454948494b4f55520845494b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5d0c283427182e2d2f382e2e321d383e32333230342e29733e3230">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which character partnered Ilya Kuryakin in the television series “The Man from Uncle”?  
   
