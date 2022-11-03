@@ -12,25 +12,33 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+Yair Lapid,<strong> Israel’s</strong> prime minister, conceded defeat in parliamentary elections to <strong>Binyamin Netanyahu</strong>, clearing the way for Mr Netanyahu to [reclaim his old job](https://te.arielherself.xyz/middle-east-and-africa/2022/11/02/netanyahu-seems-on-track-to-be-israels-next-prime-minister). Mr Netanyahu’s religious and right-wing coalition appears to have won 64 of 120 seats in parliament. Mr Lapid’s bloc took 51; an unaffiliated Arab party claimed the rest. To form a government Mr Netanyahu will need the support of Itamar Ben-Gvir’s far-right religious party, which until recently was a political pariah.
+
 Investors fretted over hawkish comments by Jerome Powell, chairman of the <strong>Federal Reserve</strong>, who suggested that it would be “premature” to pause monetary tightening. Interest rates will ultimately be “higher than previously expected”, he said, shortly after America’s central bank [raised its benchmark interest rate](https://te.arielherself.xyz/graphic-detail/2022/11/02/inflation-is-too-high-when-the-public-notices-it) by three-quarters of a percentage point, its fourth consecutive jumbo increase. The S&amp;P 500 shed 2.5% and Asian stockmarkets fell during early trading on Thursday.
 
 G7 foreign ministers gathered in Germany to discuss aid plans to help <strong>Ukraine </strong>[get through winter](https://te.arielherself.xyz/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter) amid Russian attacks on its energy infrastructure. Strikes cut off the [Zaporizhia nuclear plant](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) from the national grid on Thursday. Meanwhile, reports emerged that Russia was undergoing a retreat from [Kherson](https://te.arielherself.xyz/the-economist-explains/2022/08/30/why-does-kherson-matter) to the east bank of the Dnieper river. Ukrainian officials say the rumoured withdrawal could be a trap.
 
 The <strong>Bank of England</strong> raised interest rates by 0.75 percentage points to 3%, the largest increase for over 30 years, as it [battles](https://te.arielherself.xyz/britain/2022/07/28/the-bank-of-england-must-weather-high-inflation-and-meddling-politicians) to tackle soaring inflation. It was the eighth consecutive rise. The bank warned that the country faces a lengthy recession, but suggested rates would not have to rise as high as the 5.25% figure expected by investors.
 
-<strong>Imran Khan</strong>, Pakistan’s former prime minister, was reportedly shot in the lower leg while leading a rally in Wazirabad in the east of the country, in what his supporters describe as an assassination attempt. Mr Khan is [calling for snap elections](https://te.arielherself.xyz/asia/2022/10/20/imran-khan-appears-to-be-more-popular-than-ever) following his [ousting](https://te.arielherself.xyz/asia/2022/04/16/shehbaz-sharif-is-pakistans-new-prime-minister) from power in April. Local media reports that he fled the scene and is now out of danger.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Imran Khan</strong>, Pakistan’s former prime minister, was reportedly shot in the lower leg while leading a rally in Wazirabad in the east of the country, in what his supporters describe as an assassination attempt. Mr Khan is [calling for snap elections](https://te.arielherself.xyz/asia/2022/10/20/imran-khan-appears-to-be-more-popular-than-ever) following his [ousting](https://te.arielherself.xyz/asia/2022/04/16/shehbaz-sharif-is-pakistans-new-prime-minister) from power in April. Local media reports that he fled the scene and is now out of danger.
 
 <strong>Uniper</strong>, a German gas importer the government intends to nationalise, announced a net [loss](https://te.arielherself.xyz/business/2022/09/08/some-european-power-companies-are-on-the-brink) of over €40bn ($39.3bn) in the first nine months of 2022, one of the largest losses in German corporate history. Disruption of [Russian gas deliveries](https://te.arielherself.xyz/business/2022/07/14/can-deutschland-ag-cope-with-the-russian-gas-shock) caused by the invasion of Ukraine forced the company to seek more expensive supplies elsewhere. Germany’s government announced a €29bn ($28.3bn) bailout of Uniper in September.
 
 <strong>Iran’s</strong> security forces fired on crowds in the city of Karaj, gathered to mark the end of the 40-day mourning period for Hadis Najafi, a 22-year-old protester killed in September, witnesses told the BBC. Police created roadblocks to prohibit people visiting her grave, reacting violently when thousands tried to reach the cemetery regardless. Najafi has become a symbol of the [female-led protests](https://te.arielherself.xyz/middle-east-and-africa/2022/10/27/could-irans-regime-fall) sweeping across Iran.
 
-<strong>Binyamin Netanyahu</strong> appeared all but certain to [reclaim his old job](https://te.arielherself.xyz/middle-east-and-africa/2022/11/02/netanyahu-seems-on-track-to-be-israels-next-prime-minister) as <strong>Israel’s </strong>prime minister. With more than 90% of votes counted from Tuesday’s election, Mr Netanyahu’s religious and right-wing coalition is on track to gain 62-65 of 120 seats in parliament. Another winner was Itamar Ben-Gvir, a far-right nationalist whose faction doubled its number of seats and whom Mr Netanyahu will need to form a government. 
-
 <strong>Fact of the day</strong>: 1.6m, the number of people who died from tuberculosis in 2021, a rise of 14% since 2019. [Read the full story.](https://te.arielherself.xyz/international/2022/10/27/how-one-pandemic-made-another-one-worse)
 
 ----------
+
+## Donald Trump in Iowa
+
+Historically, Iowa was one of America’s swing states, but these days it is reliably red. Nevertheless Donald Trump, a former president, will be in Sioux City on Thursday hosting a rally with Chuck Grassley, the state’s 89-year-old Republican senator, and Kim Reynolds, the Republican governor, ahead of the midterms on November 8th.
+
+Although Mr Grassley is facing a tighter race than at any point in his 42 years in the Senate, few truly believe his Democratic opponent, Mike Franken, has much of a chance. Ms Reynolds is also solidly ahead. So Mr Trump, who rarely does anything that he does not think will benefit him, may have another reason for visiting the Hawkeye state.
+
+Asked in October about running for president, Mr Trump said he will “probably have to do it again.” Iowa votes for its preferred presidential candidates before any other state. In 2016, Mr Trump came second in a [crowded field](https://te.arielherself.xyz/united-states/2016/02/04/trump-bumped), propelling him up the [GOP ticket](https://te.arielherself.xyz/graphic-detail/2016/05/26/donald-trump-gets-the-1237-delegates-he-needs-for-the-republican-nomination). Could he be laying the groundwork for 2024?
 
 ## Scholz’s China strategy
 
@@ -47,14 +55,6 @@ Britain’s monetary policymakers met investors’ expectations when on Thursday
 Knowing where to go next is not easy. One prime minister, Liz Truss,[ spooked markets](https://te.arielherself.xyz/leaders/2022/10/11/liz-truss-has-made-britain-a-riskier-bet-for-bond-investors) with promises of tax cuts. Now a new one,[ Rishi Sunak](https://te.arielherself.xyz/britain/2022/10/27/rishi-sunak-britains-new-prime-minister-starts-on-the-defensive), is planning [the opposite](https://te.arielherself.xyz/britain/2022/10/20/as-britains-government-looks-to-save-money-almost-nothing-is-protected). Details of those plans are due on November 17th, casting a fog over the fiscal outlook. It may take longer to find out what help households will get with energy bills beyond April. 
 
 It is unclear yet whether inflation associated with higher energy prices will prove persistent or whether higher costs will sap demand and lower prices. Amid that uncertainty, taming inflation without kicking the economy too hard will prove exceptionally tricky.
-
-## Donald Trump in Iowa
-
-Historically, Iowa was one of America’s swing states, but these days it is reliably red. Nevertheless Donald Trump, a former president, will be in Sioux City on Thursday hosting a rally with Chuck Grassley, the state’s 89-year-old Republican senator, and Kim Reynolds, the Republican governor, ahead of the midterms on November 8th.
-
-Although Mr Grassley is facing a tighter race than at any point in his 42 years in the Senate, few truly believe his Democratic opponent, Mike Franken, has much of a chance. Ms Reynolds is also solidly ahead. So Mr Trump, who rarely does anything that he does not think will benefit him, may have another reason for visiting the Hawkeye state.
-
-Asked in October about running for president, Mr Trump said he will “probably have to do it again.” Iowa votes for its preferred presidential candidates before any other state. In 2016, Mr Trump came second in a [crowded field](https://te.arielherself.xyz/united-states/2016/02/04/trump-bumped), propelling him up the [GOP ticket](https://te.arielherself.xyz/graphic-detail/2016/05/26/donald-trump-gets-the-1237-delegates-he-needs-for-the-republican-nomination). Could he be laying the groundwork for 2024?
 
 ## Lula’s choice for Petrobras
 
@@ -74,7 +74,7 @@ Four concurrent exhibitions of his work, entitled “20 Flowers and Some Bigger 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="aafbdfc3d0efd9dad8cfd9d9c5eacfc9c5c4c5c7c3d9de84c9c5c7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4e1f3b27340b3d3e3c2b3d3d210e2b2d21202123273d3a602d2123">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which film noir, released in 1941 and starring Humphrey Bogart, was based on a novel by Dashiell Hammett?
 
