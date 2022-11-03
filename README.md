@@ -32,14 +32,6 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ----------
 
-## Donald Trump in Iowa
-
-Historically, Iowa was one of America’s swing states, but these days it is reliably red. Nevertheless Donald Trump, a former president, will be in Sioux City on Thursday hosting a rally with Chuck Grassley, the state’s 89-year-old Republican senator, and Kim Reynolds, the Republican governor, ahead of the midterms on November 8th.
-
-Although Mr Grassley is facing a tighter race than at any point in his 42 years in the Senate, few truly believe his Democratic opponent, Mike Franken, has much of a chance. Ms Reynolds is also solidly ahead. So Mr Trump, who rarely does anything that he does not think will benefit him, may have another reason for visiting the Hawkeye state.
-
-Asked in October about running for president, Mr Trump said he will “probably have to do it again.” Iowa votes for its preferred presidential candidates before any other state. In 2016, Mr Trump came second in a [crowded field](https://te.arielherself.xyz/united-states/2016/02/04/trump-bumped), propelling him up the [GOP ticket](https://te.arielherself.xyz/graphic-detail/2016/05/26/donald-trump-gets-the-1237-delegates-he-needs-for-the-republican-nomination). Could he be laying the groundwork for 2024?
-
 ## Scholz’s China strategy
 
 On Thursday Germany’s chancellor will travel to Beijing. China is Germany’s largest trading partner and Olaf Scholz is the first Western leader to visit since the start of the covid-19 pandemic. The symbolism is huge, but not as straightforward as it seems. 
@@ -55,6 +47,14 @@ Britain’s monetary policymakers met investors’ expectations when on Thursday
 Knowing where to go next is not easy. One prime minister, Liz Truss,[ spooked markets](https://te.arielherself.xyz/leaders/2022/10/11/liz-truss-has-made-britain-a-riskier-bet-for-bond-investors) with promises of tax cuts. Now a new one,[ Rishi Sunak](https://te.arielherself.xyz/britain/2022/10/27/rishi-sunak-britains-new-prime-minister-starts-on-the-defensive), is planning [the opposite](https://te.arielherself.xyz/britain/2022/10/20/as-britains-government-looks-to-save-money-almost-nothing-is-protected). Details of those plans are due on November 17th, casting a fog over the fiscal outlook. It may take longer to find out what help households will get with energy bills beyond April. 
 
 It is unclear yet whether inflation associated with higher energy prices will prove persistent or whether higher costs will sap demand and lower prices. Amid that uncertainty, taming inflation without kicking the economy too hard will prove exceptionally tricky.
+
+## Donald Trump in Iowa
+
+Historically, Iowa was one of America’s swing states, but these days it is reliably red. Nevertheless Donald Trump, a former president, will be in Sioux City on Thursday hosting a rally with Chuck Grassley, the state’s 89-year-old Republican senator, and Kim Reynolds, the Republican governor, ahead of the midterms on November 8th.
+
+Although Mr Grassley is facing a tighter race than at any point in his 42 years in the Senate, few truly believe his Democratic opponent, Mike Franken, has much of a chance. Ms Reynolds is also solidly ahead. So Mr Trump, who rarely does anything that he does not think will benefit him, may have another reason for visiting the Hawkeye state.
+
+Asked in October about running for president, Mr Trump said he will “probably have to do it again.” Iowa votes for its preferred presidential candidates before any other state. In 2016, Mr Trump came second in a [crowded field](https://te.arielherself.xyz/united-states/2016/02/04/trump-bumped), propelling him up the [GOP ticket](https://te.arielherself.xyz/graphic-detail/2016/05/26/donald-trump-gets-the-1237-delegates-he-needs-for-the-republican-nomination). Could he be laying the groundwork for 2024?
 
 ## Lula’s choice for Petrobras
 
@@ -74,7 +74,7 @@ Four concurrent exhibitions of his work, entitled “20 Flowers and Some Bigger 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f5a4809c8fb08685879086869ab590969a9b9a989c8681db969a98">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="aafbdfc3d0efd9dad8cfd9d9c5eacfc9c5c4c5c7c3d9de84c9c5c7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which film noir, released in 1941 and starring Humphrey Bogart, was based on a novel by Dashiell Hammett?
 
