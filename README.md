@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Ukraine’s president, <strong>Volodymyr Zelensky</strong>, said 4.5m of his countrymen were [without power](https://te.arielherself.xyz/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter), as Russia continued to bomb Ukrainian <strong>energy infrastructure</strong>. Mr Zelensky accused the Kremlin of “energy terrorism”. Meanwhile, reports emerged that Russian forces were preparing to retreat from [Kherson](https://te.arielherself.xyz/the-economist-explains/2022/08/30/why-does-kherson-matter) city to the east bank of the Dnieper river. Ukrainian officials warned that could be a trap.
+Vladimir Putin<strong>, Russia’s</strong> president, said any remaining civilians in <strong>Kherson </strong>in southern Ukraine should leave, his first public acknowledgement that Ukrainian forces are drawing close to the [occupied city](https://te.arielherself.xyz/the-economist-explains/2022/08/30/why-does-kherson-matter). Reports emerged on Thursday that Russian troops were retreating to the east bank of the Dnieper river, though Ukrainian officials warned it could be a trap. Meanwhile, <strong>Ukraine’s</strong> president, Volodymyr Zelensky, said 4.5m of his countrymen were [without power](https://te.arielherself.xyz/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter), as Russia continued to bomb Ukrainian energy infrastructure.
 
 <strong>Twitter </strong>temporarily shut its offices amid reports that half of the firm’s 7,500 employees will be sacked. Workers in San Francisco sued the company on Thursday, saying it failed to give sufficient notice for the layoffs. Meanwhile, more firms pulled adverts from the site, as they wait to see whether Elon Musk, Twitter’s [new boss](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last), will turn a blind eye to unsavoury posts.
 
@@ -66,7 +66,7 @@ With his big glasses, moustache and accordion, Alfred Yankovic often heard that 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7627031f0c33050604130505193613151918191b1f05025815191b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3a6b4f53407f494a485f4949557a5f595554555753494e14595557">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>The newton is the SI unit for what property?
 
