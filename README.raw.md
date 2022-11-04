@@ -14,7 +14,7 @@
 
 Ukraine’s president, <strong>Volodymyr Zelensky</strong>, said 4.5m of his countrymen were [without power](https://www.economist.com/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter), as Russia continued to bomb Ukrainian <strong>energy infrastructure</strong>. Mr Zelensky accused the Kremlin of “energy terrorism”. Meanwhile, reports emerged that Russian forces were preparing to retreat from [Kherson](https://www.economist.com/the-economist-explains/2022/08/30/why-does-kherson-matter) city to the east bank of the Dnieper river. Ukrainian officials warned that could be a trap.
 
-<strong>Twitter </strong>will begin culling staff on Friday, according to an internal memo. Reports suggest perhaps half the firm’s 7,500 employees could be sacked. Meanwhile, more firms pulled adverts from the site, as they wait to see whether Elon Musk, Twitter’s [new boss](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last), will turn a blind eye to unsavoury posts. General Mills, a cereal-maker, Pfizer, a drugs firm, and Audi, a carmaker, were the latest pull-outs.
+<strong>Twitter </strong>temporarily shut its offices amid reports that half of the firm’s 7,500 employees will be sacked. Workers in San Francisco sued the company on Thursday, saying it failed to give sufficient notice for the layoffs. Meanwhile, more firms pulled adverts from the site, as they wait to see whether Elon Musk, Twitter’s [new boss](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last), will turn a blind eye to unsavoury posts.
 
 Xi Jinping, <strong>China’s</strong> [president](https://www.economist.com/china/2022/10/23/xi-jinping-leaves-no-doubt-who-is-in-charge-of-china), began talks with Olaf Scholz, his <strong>German</strong> counterpart, by calling for greater co-operation between the countries amid “times of change and turmoil”. Mr Scholz is the first leader from the West to visit China since the beginning of the covid-19 pandemic. The pair are expected to discuss trade, the war in Ukraine and climate change.
 
@@ -66,7 +66,7 @@ With his big glasses, moustache and accordion, Alfred Yankovic often heard that 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3667435f4c73454644534545597653555958595b5f45421855595b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="fbaa8e9281be888b899e888894bb9e989495949692888fd5989496">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>The newton is the SI unit for what property?
 
