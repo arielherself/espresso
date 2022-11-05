@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-11-04</p>
+# <p align="center">The world in brief 2022-11-05</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -66,7 +66,7 @@ With his big glasses, moustache and accordion, Alfred Yankovic often heard that 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1d4c687467586e6d6f786e6e725d787e72737270746e69337e7270">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a9f8dcc0d3ecdad9dbccdadac6e9cccac6c7c6c4c0dadd87cac6c4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>The newton is the SI unit for what property?
 
