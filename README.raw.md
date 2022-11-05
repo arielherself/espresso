@@ -26,7 +26,7 @@ A suicide-bomb attack at an army-training camp in Mogadishu, <strong>Somalia’s
 
 A fire at a bar in <strong>Russia </strong>killed at least 13 people, according to state media, after a drunk reveller fired a flare gun on the dancefloor. Around 250 people were evacuated from the venue in Kostroma, a city 300km north-east of Moscow. Lethal blazes are common in Russia; a fire at a Siberian [shopping mall](https://www.economist.com/europe/2018/04/05/russian-protests-over-the-kemerovo-fire-are-already-burning-out) killed at least 60 people in 2018.
 
-<strong>Imran Khan</strong>, Pakistan’s former prime minister, accused his successor, Shehbaz Sharif, and two other officials of plotting to assassinate him after he was [shot in the leg](https://www.economist.com/asia/2022/11/03/imran-khan-pakistans-ex-prime-minister-survives-an-attempt-on-his-life) during a rally on Thursday. They denied involvement. The army asked the government to investigate the attack—as well as “those responsible for defamation and false accusations”.
+<strong>American</strong> presidents current and past held competing [rallies](https://www.economist.com/mid-terms-2022) in the swing state of Pennsylvania ahead of Tuesday’s <strong>midterm elections</strong>. Barack Obama and Joe Biden staged a double-act in Philadelphia, where Mr Obama told Democrats that “truth and facts and logic and reason and basic decency are on the ballot”. Donald Trump arrived outside Pittsburgh to rouse Republicans.
 
 <strong>Word of the week: </strong><em>pesantrens, </em>Indonesia’s Islamic boarding schools, testing grounds for the “eco-Islam” movement. [Read the full story](https://www.economist.com/asia/2022/11/03/indonesias-imams-are-doing-their-bit-for-the-environment).
 
