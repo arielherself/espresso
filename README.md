@@ -12,78 +12,105 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Vladimir Putin<strong>, Russia’s</strong> president, said any remaining civilians in <strong>Kherson </strong>in southern Ukraine should leave, his first public acknowledgement that Ukrainian forces are drawing close to the [occupied city](https://te.arielherself.xyz/the-economist-explains/2022/08/30/why-does-kherson-matter). Reports emerged on Thursday that Russian troops were retreating to the east bank of the Dnieper river, though Ukrainian officials warned it could be a trap. Meanwhile, <strong>Ukraine’s</strong> president, Volodymyr Zelensky, said 4.5m of his countrymen were [without power](https://te.arielherself.xyz/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter), as Russia continued to bomb Ukrainian energy infrastructure.
+Vladimir Putin<strong>, Russia’s</strong> president, said any remaining civilians in <strong>Kherson </strong>in southern Ukraine should leave, his first public acknowledgement that Ukrainian forces are drawing close to the [occupied city](https://te.arielherself.xyz/the-economist-explains/2022/08/30/why-does-kherson-matter). Russian troops have been retreating to the east bank of the Dnieper river, though Ukrainian officials warned it could be a trap. Meanwhile, <strong>Ukraine’s</strong> president, Volodymyr Zelensky, said that the most intense fighting was [around Bakhmut](https://te.arielherself.xyz/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter), 500km away, where Russia was “forcing tens or hundreds of thousands more people to the meat grinder”.
 
-Employers in <strong>America</strong> added 261,000 <strong>jobs</strong> in October, a sign that the labour market remains robust. But it may be cooling: a separate household survey showed a decline in employment of 328,000 and an uptick in the unemployment rate, to 3.7%. Average hourly earnings increased by 4.7% from a year ago—well above the Federal Reserve’s 2% [inflation target](https://te.arielherself.xyz/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done).
+<strong>Elon Musk </strong>claimed <strong>Twitter </strong>had “no choice” but to conduct mass layoffs as the social media platform is losing $4m per day. Around half of Twitter’s 7,500 staff were sacked on Friday, while major brands pulled ads from the site amid concerns about its [future](https://te.arielherself.xyz/business/2022/11/03/will-people-pay-8-a-month-for-twitter). Meanwhile, President Joe Biden said that Mr Musk had bought an outfit that “spews lies across the world”.
 
-<strong>Donald Trump</strong> will launch his campaign for the 2024 presidential election after the midterms, according to Axios, a news site. On Thursday, at a rally, America’s former president said he would “very, very, very probably do it again” to make the country “safe and glorious”. Separately, a jury acquitted his former adviser and donor, Thomas Barrack, on charges of illegally lobbying on behalf of the United Arab Emirates.
+China’s president, <strong>Xi Jinping</strong>, said explicitly that <strong>nuclear weapons </strong>should not be used in the <strong>war over Ukraine</strong>. As the Russian side is the one that might escalate in that fashion, Mr Xi’s remark came as a cautionary note to its [“no-limits” ally](https://te.arielherself.xyz/china/2022/02/26/xi-jinping-drew-closer-to-russia-on-the-eve-of-war-in-ukraine)—drawing [a limit](https://te.arielherself.xyz/china/2022/09/15/xi-jinping-wont-ditch-vladimir-putin-for-now), as it were. He spoke alongside Olaf Scholz as Germany’s chancellor concluded a [visit to Beijing](https://te.arielherself.xyz/business/2022/11/02/olaf-scholz-leads-a-blue-chip-business-delegation-to-china). 
 
-<strong>Elon Musk</strong> said <strong>Twitter</strong> had seen a “massive drop in revenue” owing to “activist groups pressuring advertisers”, even though content-moderation policies had not changed. Activists, he warned, want to “destroy free speech in America”. Advertisers are reportedly worried about Twitter turning into a far-right cesspool under the social-media firm’s [new boss](https://te.arielherself.xyz/business/2022/10/11/will-elon-musk-owned-twitter-end-up-as-a-deal-from-hell). About half of Twitter’s 7,500 staff were reportedly sacked on Friday.
+Employers in <strong>America</strong> added 261,000 <strong>jobs</strong> in October, a sign that the labour market remains robust. But it may be cooling; a separate household survey showed a decline in employment of 328,000 and an uptick in the unemployment rate, to 3.7%. Average hourly earnings increased by 4.7% from a year ago: well above the Federal Reserve’s 2% [inflation target](https://te.arielherself.xyz/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done)—yet well below the actual rate of 8.2%, clocked in September.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Imran Khan</strong>, Pakistan’s former prime minister, accused his successor, Shehbaz Sharif, and two other officials of plotting to assassinate him after he was [shot in the leg](https://te.arielherself.xyz/asia/2022/11/03/imran-khan-pakistans-ex-prime-minister-survives-an-attempt-on-his-life). They denied involvement; Mr Khan is recovering. The army asked the government to investigate the attack—as well as “those responsible for defamation and false accusations against [it]”. The gunman said he acted alone.
+<strong>Donald Trump</strong> was reported to be preparing to launch [his campaign](https://te.arielherself.xyz/leaders/2022/08/18/will-donald-trump-run-again) for the 2024 presidential election after America’s [midterm elections](https://te.arielherself.xyz/mid-terms-2022). At a rally on Thursday the former president said he would “very, very, very probably do it again”, to make the country “safe and glorious”. Separately, a jury acquitted his former adviser and donor, Tom Barrack, on charges of illegally lobbying on behalf of the United Arab Emirates.
 
-The <strong>Wagner Group</strong>, a [Russian firm of private mercenaries](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), opened a store-front location in St Petersburg. Billed as a hub to attract “IT specialists”, the centre marks an attempt by Wagner’s shadowy founder, [Yevgeny Prigozhin](https://te.arielherself.xyz/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), to build his public profile. Until recently Mr Prigozhin—whose soldiers have fought covertly in Syria, Africa and elsewhere—laid low. But now he appears to want an active, public role in Russian defence policy.
+<strong>Imran Khan</strong>, Pakistan’s former prime minister, accused his successor, Shehbaz Sharif, and two other officials of plotting to assassinate him after he was [shot in the leg](https://te.arielherself.xyz/asia/2022/11/03/imran-khan-pakistans-ex-prime-minister-survives-an-attempt-on-his-life) during a rally on Thursday. They denied involvement. The army asked the government to investigate the attack—as well as “those responsible for defamation and false accusations”.
 
-Stocks across <strong>Asia </strong>rose amid reports that China might relax its [stringent covid-19 rules](https://te.arielherself.xyz/business/2022/05/14/chinas-zero-covid-industrial-complex) in early 2023. Rumours emerged that a former head of China’s disease prevention commission said that the border with Hong Kong could open early next year, with further reopening to follow. Hong Kong-listed stocks were up by around 6% on Friday, with those in Shanghai rising by over 2%. 
+The <strong>Wagner Group</strong>, a [Russian firm of private mercenaries](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), opened a storefront location in St Petersburg. Billed as a hub to attract “IT specialists”, the centre marks an attempt by Wagner’s shadowy founder, [Yevgeny Prigozhin](https://te.arielherself.xyz/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), to build his public profile. Until recently Mr Prigozhin—whose soldiers have fought covertly in Syria, Africa and elsewhere—laid low. But now he appears to want an active, public role in Russian defence policy.
 
-<strong>Fact of the day</strong>: $255bn, the combined value of exports and imports between China and Germany last year, five times the figure in 2005. [Read the full story](https://te.arielherself.xyz/business/2022/11/02/olaf-scholz-leads-a-blue-chip-business-delegation-to-china).
+<strong>Word of the week: </strong><em>pesantrens, </em>Indonesia’s Islamic boarding schools, testing grounds for the “eco-Islam” movement. [Read the full story](https://te.arielherself.xyz/asia/2022/11/03/indonesias-imams-are-doing-their-bit-for-the-environment).
 
 ----------
 
-## America’s job market comes off the boil
+## The battle for Pennsylvania
 
-After a [sizzling run](https://te.arielherself.xyz/finance-and-economics/2022/10/02/americas-economy-is-too-strong-for-its-own-good), the labour market in America may be cooling down. Data are somewhat contradictory: a survey of businesses showed that the economy added 261,000 jobs in October, more than expected, but a survey of households, which may be better at detecting turning points, pointed to a loss of 328,000. The unemployment rate ticked up to 3.7% from 3.5%. That trend may intensify as higher interest rates weigh on business activity. On November 2nd the Federal Reserve delivered yet another jumbo rate rise.
+On Saturday, three days before the midterms, presidents current and past—Joe Biden, Donald Trump and Barack Obama—will descend on Pennsylvania for a final bout of campaigning. Democrats are keen to pick up the state’s [open Senate seat](https://te.arielherself.xyz/graphic-detail/2022/11/03/the-road-to-senate-control-may-run-through-pennsylvania), which would allow them to keep control of Congress’s upper chamber even if they were to lose another close seat, like Nevada. A Republican victory could well hand control of the Senate to the Republican Party.
 
-[President Joe Biden](https://te.arielherself.xyz/briefing/2022/10/27/joe-biden-attempts-the-biggest-overhaul-of-americas-economy-in-decades) and the Democrats would have preferred to see stronger jobs data across the board ahead of the [midterm elections](https://te.arielherself.xyz/mid-terms-2022) on November 8th. But for investors and the Fed itself, signs of weakness are welcome. In recent months wages have risen quickly as companies struggle to [fill vacancies](https://te.arielherself.xyz/business/2022/09/05/why-businesses-are-furiously-hiring-even-as-a-downturn-looms), adding upward pressure to inflation. The challenge for the Fed is to bring about a softening in labour demand without provoking a sharp rise in unemployment. So far it has managed that. But economic headwinds are mounting.
+The Democratic candidate, John Fetterman, who suffered a stroke in May, held a steady polling lead this summer. But Mehmet Oz, the Trump-endorsed Republican contender, has since advanced in the polls. [Our forecast](https://te.arielherself.xyz/interactive/us-midterms-2022/forecast/senate/pennsylvania) puts him within a whisker of overtaking Mr Fetterman.
 
-## Disunited Russia
+Whether the race has narrowed because establishment Republicans have “come home”, or because voters are concerned about Mr Fetterman’s fitness, it was always going to be a dogfight. And it may be some time before a winner is declared: poll workers cannot begin processing mailed ballots until election day.
 
-On Friday Russia celebrates Unity Day, a national holiday commemorating Moscow’s liberation from Polish invaders in 1612. President Vladimir Putin traditionally lays flowers at a statue in the Red Square lionising the rebellion’s commanders. That symbolism also chimes with his rhetoric about Ukraine, where he casts the war as an unavoidable, existential battle against the West. 
+## Campaign season begins in Malaysia
 
-In truth, to invade Ukraine was a choice made by Mr Putin. On Monday he claimed that the “partial mobilisation” of troops to Ukraine was complete. But recruitment could restart at his whim. Some Russians should be more concerned than others. Studies suggest that the conscription drive [disproportionately affected](https://te.arielherself.xyz/graphic-detail/2022/10/21/where-are-russias-newest-soldiers-coming-from) poorer parts of the country. Many [recruits](https://te.arielherself.xyz/the-economist-explains/2022/09/24/how-russia-is-conscripting-men-to-fight-in-ukraine) also come from places with large ethnic-minority populations like Dagestan, a Muslim-majority republic in the south and Buryatia, an ethnic-Mongolian region in the east. Although Mr Putin preaches national unity, not all [Russians](https://te.arielherself.xyz/by-invitation/2022/10/05/kirill-rogov-on-what-russians-really-think-of-the-war-in-ukraine) are treated equally.
+On Saturday campaigning for Malaysia’s general election, scheduled for November 19th, officially starts. But lawmakers have not stopped scheming since voters last had their say four years ago. In the interim three prime ministers from three coalition governments watched their backs until their necks were sore. Just about every party has tasted power, and is thus, in the eyes of voters, partly responsible for Malaysia’s mess. Prices are increasing, the currency is weakening and wages are stagnating.
 
-## The pope’s visit to Bahrain
+The coalition of the historic ruling party, UMNO, has the best shot at forming a government. That is despite the [jailing](https://te.arielherself.xyz/asia/2022/08/23/malaysias-disgraced-former-prime-minister-is-going-to-prison) of its previous prime minister, Najib Razak, for his role in the 1MDB affair that saw billions of dollars vanish from state coffers. The two other blocs despise each other. UMNO might fancy its chances in a divided field. But none of this means that the politicking will be over two weeks from now.
 
-On Friday in Bahrain Pope Francis will meet a group of Islamic leaders known as the Muslim Council of Elders. His four-day trip, the first papal visit to the country, revolves around the “Bahrain Forum for Dialogue” through which the island host hopes to promote interfaith co-operation, as well as exhibit its own religious tolerance. 
+## A rugby tournament returns to Hong Kong
 
-Unlike some of its neighbours, Bahrain has long been fairly open to non-Muslim worship. Its 80,000 Catholics, most of them migrant workers, have several churches; there are Hindu temples and a synagogue.
+The Hong Kong Rugby Sevens, the city’s biggest sporting event, is back this weekend—just. The coronavirus pandemic meant the 2020 and 2021 editions were cancelled, while the 2022 event was postponed from its usual slot in April. 
 
-The state is less tolerant with its own citizens. An [oppressed Shia majority](https://te.arielherself.xyz/middle-east-and-africa/2022/01/22/sunnis-and-shias-in-bahrain-remain-as-far-apart-as-ever) complain of discrimination by the Sunni monarchy. They are denied some government jobs and their towns are neglected. Inequality led to a Shia uprising in 2011, which was [crushed](https://te.arielherself.xyz/middle-east-and-africa/2011/03/17/calling-in-the-big-guns) with help from other Gulf states. Prominent opposition figures are still in jail or exiled. They are calling on the pope to use his visit to urge dialogue not just between religious leaders, but between Bahrainis.
+The government’s original hair-brained scheme for the spectacularly boozy event—that fans could drink but not eat in the stadium to limit covid transmission—was thankfully binned. Still, capacity at the Hong Kong Stadium will be reduced, masks will be compulsory and the women’s event will not take place. The organisers expect most of the crowd to be locals, given the relatively recent relaxation of the rules governing foreign arrivals. Nevertheless the organiser, the Hong Kong Rugby Union, reports that ticket sales to locals are above average. On the field, Fiji remain the team to beat, having won seven of the past eight tournaments, as well as gold medals in the men’s event at the 2016 and 2020 Olympics. 
 
-## A climate clash for Sunak
+## Contemporary art among the pyramids
 
-Britain’s King Charles will host a hastily organised bash at Buckingham Palace on Friday. The reception is a warm-up for [COP27](https://te.arielherself.xyz/COP27pod), the United Nations’ climate summit, which begins in Sharm El-Sheik, in Egypt, on Sunday.  
-  
- Alongside foreign dignitaries, such as America’s climate envoy, John Kerry, will be British politicians. That could be awkward. In her few weeks as prime minister, Liz Truss advised the new king, a [stalwart climate campaigner](https://te.arielherself.xyz/britain/2022/09/22/king-charles-versus-trussonomics), not to attend COP. Rishi Sunak, her successor, held this line. He also declined to go to Egypt himself, only to change his mind after widespread criticism. This is embarrassing for Mr Sunak. It exposes divergent priorities not only with the king but also with Boris Johnson, another predecessor, who gladly accepted an invitation to COP, having hosted the [previous summit](https://te.arielherself.xyz/britain/2021/11/06/cop26-in-glasgow-gets-off-to-a-chaotic-start). And it raises questions about whether Mr Sunak will keep Mr Johnson’s ambitious climate promises. His appearance at COP27 will not alter the conversation. But his handling of the affair shows a poor understanding of public mood.
+Visitors to Egypt’s Great Pyramid of Giza this month will see modern art next to ancient treasures. The second edition of “Forever is Now”, a public art exhibition, places contemporary sculptures and interactive installations alongside monuments such as the Great Sphinx. Meta, parent company of Instagram, has released augmented-reality filters to guide people around the sites. 
 
-## “Weird Al” Yankovic’s irreplicable success
+Art D’Égypte, the organiser, sought participation from 12 artists from around the world. Their brief was to think about immortality; some grapple with sustainability and environmental disruption. One of the works is an installation from Litre of Light, an organisation that helps poor communities construct solar lights. Meanwhile the question of how to meet the world’s growing energy needs without further endangering the future will be debated fiercely 500km to the south-east in Sharm el-Sheikh, where the [UN’s annual climate summit](https://te.arielherself.xyz/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target) begins on Sunday. 
 
-With his big glasses, moustache and accordion, Alfred Yankovic often heard that he was “weird”. Thus in 1979, when he recorded his first hit single (“My Bologna”, a parody of The Knack’s “My Sharona”), he used the nickname “Weird Al”. He has since sold over 12m albums and won five Grammy Awards including, in 2015, the best comedy album for “Mandatory Fun”.  
-  
- Despite competition on social media, Mr Yankovic is still the king of musical comedy. He recently played a sold-out show at Carnegie Hall in New York. On Friday a biopic, “Weird: The Al Yankovic Story”, written by Mr Yankovic and starring Daniel Radcliffe, is released on Roku, a streaming service. Fittingly the film has twisted the facts of his life to spoof the Hollywood genre. Yet Mr Yankovic insists there are “nuggets of truth”, such as when his character says the key to happiness is to “be as weird as you want to be.”
+## Weekend profile: Kari Lake, Arizona’s Republican candidate for governor
 
-## Daily quiz
+The first time she was “cancelled really hard”, as she puts it, Kari Lake did some soul searching. In 2019 a hot mic had caught Ms Lake—then a veteran television newsreader in Phoenix, Arizona—crudely dismissing concerns about her presence on Parler, a right-wing social network. “Fuck them,” she said of her detractors. “They’re 20-year-old dopes.”
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ffae8a9685ba8c8f8d9a8c8c90bf9a9c90919092968c8bd19c9092">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+After the tape leaked, the dopes called for Ms Lake to be fired. She spent a week off the air, but her unease only grew. She turned to God. She started comparing the Bible she kept on one side of her desk with the news scripts she kept on the other. Eventually, she quit broadcasting altogether, saying she was through with “having to read news that I felt wasn’t fully truthful”. Shortly thereafter she announced her candidacy as a Republican for [governor of Arizona](https://te.arielherself.xyz/graphic-detail/2022/11/01/arizonas-midterm-races-are-full-of-election-deniers), in a video produced by her husband, a videographer with a penchant for soft-focus backgrounds.
 
-<strong>Friday: </strong>The newton is the SI unit for what property?
+Ms Lake enjoys a slight lead over her lacklustre Democratic opponent, Katie Hobbs, ahead of Tuesday’s election. She is revelling in her cancellation. Ms Lake frequently peddles the lie that the 2020 election was stolen, earning Donald Trump’s approval. She describes [immigration on Arizona’s southern border](https://te.arielherself.xyz/united-states/2022/10/04/the-biden-administration-is-quietly-completing-bits-of-donald-trumps-wall) as an “invasion”. She has accused Ms Hobbs of supporting sex education for youngsters and opposing medical care for infants who survive abortion attempts. Both characterisations are misleading. But unlike many of [Mr Trump’s acolytes](https://te.arielherself.xyz/united-states/2022/10/27/why-the-republicans-anti-democracy-turn-has-become-normalised), she is fully media-trained. Glenn Beck, a right-wing radio host, compares her speaking talent to that of Ronald Reagan. Ms Hobbs refuses to debate her—no doubt for fear of getting shown up.
 
-<strong>Thursday:</strong> Which film noir, released in 1941 and starring Humphrey Bogart, was based on a novel by Dashiell Hammett?
+Critics spy opportunism in Ms Lake’s recent political awakening. She says no politician since Reagan has thrilled her like Mr Trump, yet she voted for Barack Obama in 2008. She calls herself Christian from birth, and dismisses rumours that she dabbled in Buddhism. (The yoga was for stress relief, she says.) If she can convince Arizona voters that she is the real deal, the Lake playbook—ultra-smooth delivery of far-right talking points—could be a winner. Democrats are rightly worried.
 
-## The winners of last week’s crossword
+## Weekly crossword
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were: 
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist.</em>
 
-Asia: <strong>Chin Siew Loh</strong>, Singapore  
- North America:<strong> Sarah Kemme</strong>, Carbondale, United States  
- Central and South America: <strong>Diego Romero</strong>, Buenos Aires, Argentina  
- Europe: <strong>Iulia Bulz</strong>, Cluj-Napoca, Romania  
- Africa:<strong> Christine Reiter</strong>, Tunis, Tunisia  
- Oceania: <strong>James Kelly</strong>, Sydney, Australia
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
 
-They all gave the correct answers of [tuberculosis](https://te.arielherself.xyz/international/2022/10/27/how-one-pandemic-made-another-one-worse), [tweets](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last), [China](https://te.arielherself.xyz/china/2022/10/27/chinas-problem-with-female-representation-is-getting-worse) and [sector](https://te.arielherself.xyz/leaders/2022/10/27/for-xi-jinping-loyalty-trumps-ability). Check back tomorrow for this week’s crossword.
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Large company drunkenly neglect a room (12)
+
+<em>1 across</em> Middle of spectrum contains colour I recognise (6)
+
+<em>2 across</em> Australian individual produces pungent gas (5)
+
+<em>3 across </em>Entrepreneur operates partly in the continent (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>A business often beset by bloating and egomania (12)
+
+<em>1 across</em> It underwrote Lula’s previous Latin American policy (6)
+
+<em>2 across</em> This shield organisms from harmful ultraviolet radiation (5)
+
+<em>3 across </em>Where even a recession might not reduce inflation (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Yasumasa Watanabe</strong>, Tokyo, Japan
+
+North America: <strong>Cathy Adams</strong>, Burlington, Canada
+
+Central and South America: <strong>Silvia Mora Bowen</strong>, Quito, Ecuador
+
+Europe: <strong>Agnieszka Bugajska</strong>, Krakow, Poland
+
+Africa: <strong>Hassan Alaoui Abdallaoui</strong>, Rabat, Morocco
+
+Oceania: <strong>Warren Twohey</strong>, Auckland, New Zealand
+
+They all gave the correct answers of Luke, Empire State, Napoleon Solo, the Maltese Falcon and force. The theme is Star Wars; Luke Skywalker, “The Empire Strikes Back”, Han Solo, Millennium Falcon and the “force”.
 
 ----------
 
