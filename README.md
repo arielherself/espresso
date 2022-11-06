@@ -32,6 +32,30 @@ A suicide-bomb attack at an army-training camp in Mogadishu, <strong>Somalia’s
 
 ----------
 
+## COP27 kicks off
+
+On Sunday the United Nations’ annual climate summit began. Delegates are massed in Sharm el-Sheikh, an Egyptian resort town on the Red Sea, for the event, which runs for two weeks. Politicians will make lofty public promises about reducing greenhouse-gas emissions. Behind closed doors, meanwhile, negotiators will squabble about how to do it—and who should pay.
+
+At last year’s summit, in Glasgow, nearly 200 countries recommitted themselves to the Paris Agreement target of limiting global temperature rise to 1.5°C over pre-industrial levels by 2100. That goal already appears practically [out of reach](https://te.arielherself.xyz/leaders/2022/11/03/the-world-is-missing-its-lofty-climate-targets-time-for-some-realism). Countries have failed to adequately slash emissions, which are still rising globally. The consequences of this will be catastrophic, and every effort should be made to ensure [as little warming as possible](https://te.arielherself.xyz/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target). But there also must be an enhanced commitment to [adaptation](https://te.arielherself.xyz/special-report/2022-11-05), including poor countries’ calls for funding for [the damages they have already incurred](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage). The clock has already ticked too far.
+
+## Australia’s reckoning with racism
+
+The list of crimes perpetrated against [Australia’s Aboriginals](https://te.arielherself.xyz/asia/2022/08/11/australias-leader-wants-to-include-aboriginals-in-the-constitution), who make up about 4% of the population, is long and grim. Even by those standards, the death of Cassius Turvey shocked the country. On October 13th the 15-year-old was walking home from school in Perth, in Western Australia, when he was chased down and assaulted with a metal pole. He died of his injuries ten days later. Police have charged Jack Brearley, a white 21-year-old, with murder. Mr Brearley will appear in court on November 9th.
+
+Aboriginals are aghast. Thousands have gathered in vigils this week calling for an end to racism against their people. Yet police warn against “unfounded speculation” that could prejudice a jury and jeopardise the trial. They say there is nothing to indicate yet that there was a racial motive, suggesting it could be a case of mistaken identity. To Aboriginals, that is tin-eared—and proof that authorities remain indifferent to their plight.
+
+## Corruption at FIFA
+
+Of the 22 men on FIFA’s Executive Committee in 2010 who voted to award the 2018 World Cup to Russia and the 2022 edition to Qatar, more than half of them have been accused, indicted or convicted of corruption, according to Nick Harris, a journalist. For years football’s global governing body was a rotten organisation, more concerned with feathering the nests of its leaders than promoting the game around the world.
+
+But in recent years investigative journalists and law enforcement officials have been applying more scrutiny. The reckoning for a generation of football administrators, most notably Sepp Blatter, who was FIFA’s president for 17 years, is the subject of a new Netflix documentary, “FIFA Uncovered”, released next week. The [World Cup in Qatar](https://te.arielherself.xyz/middle-east-and-africa/2022/11/02/qatar-races-to-ready-itself-for-an-unusual-world-cup), which starts in a fortnight, will be an exercise in damage limitation for FIFA, before it can turn its attention to the 2026 event. Co-hosted by America, Canada and Mexico, that tournament has so far escaped the whiff of corruption.
+
+## Smartphones can assess bridge safety
+
+People like to imagine that bridges are unshakably solid. In reality they are dynamic: vehicles and wind keep them constantly aquiver. Engineers regularly monitor bridges’ structural integrity with expensive sensors. But research published in <em>Communications Engineering</em> shows that crowdsourced data from drivers’ smartphones can detect a bridge’s vibrations just as accurately.
+
+Researchers (and some [Uber](https://te.arielherself.xyz/business/2022/10/31/what-went-wrong-with-snap-netflix-and-uber) drivers) drove back and forth across the Golden Gate Bridge in San Francisco as their phones ran a purpose-built app. In under 100 crossings, the app was able to tune out traffic noise and isolate the bridge’s vibrational frequencies. The crowdsourced data was nearly identical to that from conventional sensors placed along the bridge. The same held true for tests on a shorter concrete roadbridge. The engineers estimate that this practice could add up to 15 years to a bridge’s life. No bridge lasts for ever, but constant, cheap data is the key to preventive maintenance.
+
 ## Weekend profile: Kari Lake, Arizona’s Republican candidate for governor
 
 The first time she was “cancelled really hard”, as she puts it, Kari Lake did some soul searching. In 2019 a hot mic had caught Ms Lake—then a veteran television newsreader in Phoenix, Arizona—crudely dismissing concerns about her presence on Parler, a right-wing social network. “Fuck them,” she said of her detractors. “They’re 20-year-old dopes.”
@@ -41,12 +65,6 @@ After the tape leaked, the dopes called for Ms Lake to be fired. She spent a wee
 Ms Lake enjoys a slight lead over her lacklustre Democratic opponent, Katie Hobbs, ahead of Tuesday’s election. She is revelling in her cancellation. Ms Lake frequently peddles the lie that the 2020 election was stolen, earning Donald Trump’s approval. She describes [immigration on Arizona’s southern border](https://te.arielherself.xyz/united-states/2022/10/04/the-biden-administration-is-quietly-completing-bits-of-donald-trumps-wall) as an “invasion”. She has accused Ms Hobbs of supporting sex education for youngsters and opposing medical care for infants who survive abortion attempts. Both characterisations are misleading. But unlike many of [Mr Trump’s acolytes](https://te.arielherself.xyz/united-states/2022/10/27/why-the-republicans-anti-democracy-turn-has-become-normalised), she is fully media-trained. Glenn Beck, a right-wing radio host, compares her speaking talent to that of Ronald Reagan. Ms Hobbs refuses to debate her—no doubt for fear of getting shown up.
 
 Critics spy opportunism in Ms Lake’s recent political awakening. She says no politician since Reagan has thrilled her like Mr Trump, yet she voted for Barack Obama in 2008. She calls herself Christian from birth, and dismisses rumours that she dabbled in Buddhism. (The yoga was for stress relief, she says.) If she can convince Arizona voters that she is the real deal, the Lake playbook—ultra-smooth delivery of far-right talking points—could be a winner. Democrats are rightly worried.
-
-## Smartphones can assess bridge safety
-
-People like to imagine that bridges are unshakably solid. In reality they are dynamic: vehicles and wind keep them constantly aquiver. Engineers regularly monitor bridges’ structural integrity with expensive sensors. But research published in <em>Communications Engineering</em> shows that crowdsourced data from drivers’ smartphones can detect a bridge’s vibrations just as accurately.
-
-Researchers (and some [Uber](https://te.arielherself.xyz/business/2022/10/31/what-went-wrong-with-snap-netflix-and-uber) drivers) drove back and forth across the Golden Gate Bridge in San Francisco as their phones ran a purpose-built app. In under 100 crossings, the app was able to tune out traffic noise and isolate the bridge’s vibrational frequencies. The crowdsourced data was nearly identical to that from conventional sensors placed along the bridge. The same held true for tests on a shorter concrete roadbridge. The engineers estimate that this practice could add up to 15 years to a bridge’s life. No bridge lasts for ever, but constant, cheap data is the key to preventive maintenance.
 
 ## Weekly crossword
 
@@ -74,12 +92,6 @@ Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://
 
 <em>3 across </em>Where even a recession might not reduce inflation (6)
 
-## Corruption at FIFA
-
-Of the 22 men on FIFA’s Executive Committee in 2010 who voted to award the 2018 World Cup to Russia and the 2022 edition to Qatar, more than half of them have been accused, indicted or convicted of corruption, according to Nick Harris, a journalist. For years football’s global governing body was a rotten organisation, more concerned with feathering the nests of its leaders than promoting the game around the world.
-
-But in recent years investigative journalists and law enforcement officials have been applying more scrutiny. The reckoning for a generation of football administrators, most notably Sepp Blatter, who was FIFA’s president for 17 years, is the subject of a new Netflix documentary, “FIFA Uncovered”, released next week. The [World Cup in Qatar](https://te.arielherself.xyz/middle-east-and-africa/2022/11/02/qatar-races-to-ready-itself-for-an-unusual-world-cup), which starts in a fortnight, will be an exercise in damage limitation for FIFA, before it can turn its attention to the 2026 event. Co-hosted by America, Canada and Mexico, that tournament has so far escaped the whiff of corruption.
-
 ## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
@@ -97,18 +109,6 @@ Africa: <strong>Hassan Alaoui Abdallaoui</strong>, Rabat, Morocco
 Oceania: <strong>Warren Twohey</strong>, Auckland, New Zealand
 
 They all gave the correct answers of Luke, Empire State, Napoleon Solo, the Maltese Falcon and force. The theme is Star Wars; Luke Skywalker, “The Empire Strikes Back”, Han Solo, Millennium Falcon and the “force”.
-
-## Australia’s reckoning with racism
-
-The list of crimes perpetrated against [Australia’s Aboriginals](https://te.arielherself.xyz/asia/2022/08/11/australias-leader-wants-to-include-aboriginals-in-the-constitution), who make up about 4% of the population, is long and grim. Even by those standards, the death of Cassius Turvey shocked the country. On October 13th the 15-year-old was walking home from school in Perth, in Western Australia, when he was chased down and assaulted with a metal pole. He died of his injuries ten days later. Police have charged Jack Brearley, a white 21-year-old, with murder. Mr Brearley will appear in court on November 9th.
-
-Aboriginals are aghast. Thousands have gathered in vigils this week calling for an end to racism against their people. Yet police warn against “unfounded speculation” that could prejudice a jury and jeopardise the trial. They say there is nothing to indicate yet that there was a racial motive, suggesting it could be a case of mistaken identity. To Aboriginals, that is tin-eared—and proof that authorities remain indifferent to their plight.
-
-## COP27 kicks off
-
-On Sunday the United Nations’ annual climate summit began. Delegates are massed in Sharm el-Sheikh, an Egyptian resort town on the Red Sea, for the event, which runs for two weeks. Politicians will make lofty public promises about reducing greenhouse-gas emissions. Behind closed doors, meanwhile, negotiators will squabble about how to do it—and who should pay.
-
-At last year’s summit, in Glasgow, nearly 200 countries recommitted themselves to the Paris Agreement target of limiting global temperature rise to 1.5°C over pre-industrial levels by 2100. That goal already appears practically [out of reach](https://te.arielherself.xyz/leaders/2022/11/03/the-world-is-missing-its-lofty-climate-targets-time-for-some-realism). Countries have failed to adequately slash emissions, which are still rising globally. The consequences of this will be catastrophic, and every effort should be made to ensure [as little warming as possible](https://te.arielherself.xyz/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target). But there also must be an enhanced commitment to [adaptation](https://te.arielherself.xyz/special-report/2022-11-05), including poor countries’ calls for funding for [the damages they have already incurred](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage). The clock has already ticked too far.
 
 ----------
 
