@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-António Guterres, the secretary-general of the UN, warned world leaders gathered in Egypt at <strong>COP27</strong> that the planet is on “a highway to <strong>climate hell</strong> with our foot still on the accelerator”. Earlier the World Meteorological Organisation presented a new report showing that the earth’s temperatures over the past eight years were the hottest on record. For the first time, the UN’s annual climate summit will include discussion of “[loss-and-damage](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” financing, which calls on rich countries, including those most responsible for historical emissions of greenhouse gases, to compensate poor countries for the consequences of climate change.
+<strong>Emmanuel Macron</strong>, the French president, promised delegates at the United Nations’ annual climate summit that the war in Ukraine (and the energy crisis it triggered) will not mean his country slacks on its [climate commitments](https://te.arielherself.xyz/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target). Speaking at <strong>COP27</strong> in Egypt, Mr Macron also said trust between rich countries and poor ones is being eroded and called for “financial solidarity”. 
 
 <strong>Greece’s </strong>government said it would ban the sale of <strong>spyware</strong> after a newspaper reported that ministers and businesspeople had been surveilled by the state via malware on their phones. A government spokesman said the report in <em>Documento</em> was “unfounded” and denied buying spyware. Officials from the European Parliament were already investigating whether Greece’s ruling party illegally snooped on politicians and a journalist.
 
@@ -64,7 +64,7 @@ Silverio Gama, the film’s fictional documentarian, finds that success does not
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which rock star recorded his first single under the name “Davie Jones with the King Bees”?   
 
