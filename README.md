@@ -12,103 +12,62 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>COP27</strong>, the United Nations’ annual climate summit, began in Egypt with delegates agreeing to discuss whether to pay poor countries for the damages they have sustained from climate change. It is the first time the controversial topic of “[loss and damage](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” financing has been formally included on the talks’ agenda. Wealthy countries, who are mostly responsible for greenhouse-gas emissions, have previously skirted the issue.
+The <strong>Earth’s temperatures </strong>over the past eight years were the hottest on record, according to a new report presented in Egypt at the opening session of <strong>COP27</strong>, the UN’s annual climate summit. The World Meteorological Organisation also said sea levels are rising twice as fast as 30 years ago. After 48 hours of wrangling, delegates finalised the talks’ agenda. For the first time, it includes “[loss-and-damage](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” financing, which calls on rich countries, including those most responsible for historical emissions of greenhouse gases, to compensate poor countries for the consequences of climate change.
 
-Nearly 230 parliamentarians in <strong>Iran</strong> signed a statement demanding that the country’s judiciary “deal decisively” with anyone [protesting against the regime](https://te.arielherself.xyz/middle-east-and-africa/2022/10/27/could-irans-regime-fall), according to state media. Unrest continued in many Iranian cities on Sunday, with activists saying that security forces fired on crowds in Marivan in Kurdistan province after the funeral of a [female](https://te.arielherself.xyz/leaders/2022/10/26/will-irans-women-win) protestor, Nasrin Ghaderi, who died on Saturday.
+<strong>Apple</strong> warned that <strong>covid-19 lockdowns </strong>in China would hinder production of its newest iPhone. The firm said a [factory in Zhengzhou](https://te.arielherself.xyz/business/2022/10/24/the-end-of-apples-affair-with-china), where the iPhone 14 Pro and Pro Max are assembled, was operating at “significantly reduced capacity”. That will mean fewer shipments and longer wait times, just as the holidays approach. Chinese health officials meanwhile reported the highest caseload since May and reiterated their commitment to a [zero-covid](https://te.arielherself.xyz/china/2022/11/03/the-chinese-city-that-covid-forgot) policy.
 
-Russian-installed officials in <strong>Kherson</strong> in southern Ukraine said that the city had lost water and electricity supplies because of “[sabotage](https://te.arielherself.xyz/international/2022/10/20/vladimir-putin-says-the-worlds-energy-infrastructure-is-at-risk)”. The announcement comes amid a rumoured Russian withdrawal from the city to the eastern bank of the Dnieper river. Meanwhile, Ukraine claimed that the Russians were destroying civilian boats on the Dnieper, potentially to slow any Ukrainian attempts to cross.
+<strong>Twitter</strong> has reportedly asked some sacked workers to return, after cutting half its staff last week; apparently dozens were laid off accidentally. Meanwhile, CNN reported that the rollout of a controversial “blue-check” [subscription plan](https://te.arielherself.xyz/business/2022/11/03/will-people-pay-8-a-month-for-twitter) will be delayed till after the midterms in America. And Elon Musk, who said he [bought the company](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) to protect free speech, declared that users who impersonate others will be “permanently suspended”. Several had changed their handles to mock him.
 
-<strong>Apple</strong> warned that covid-19 lockdowns in China would hinder production of its newest iPhone. A [factory in Zhengzhou](https://te.arielherself.xyz/business/2022/10/24/the-end-of-apples-affair-with-china), where the iPhone 14 Pro is assembled, was operating at “significantly reduced capacity”, said the firm. That will mean lower shipments and longer wait times, just as the holidays approach. The plant is operated by Foxconn, a Taiwanese manufacturing firm.
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, warned that <strong>Russia</strong> was planning “mass attacks” on his country’s infrastructure. He said more than 4.5m Ukrainians are already without power. The mayor of Kyiv told residents they should make contingency plans to leave in case the capital loses power. Meanwhile Russian-installed officials in Kherson in southern Ukraine said the city had lost electricity and water because of “[sabotage](https://te.arielherself.xyz/international/2022/10/20/vladimir-putin-says-the-worlds-energy-infrastructure-is-at-risk)”.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Japan’s</strong> prime minister, Kishida Fumio, promised to increase the country’s defence capabilities, saying that it must be ready to protect itself from rising security threats. He cited North Korea’s recent flurry of missile tests and Russia’s invasion of Ukraine. The message is a sign of [shifting priorities](https://te.arielherself.xyz/asia/2022/09/13/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army) in Japan, where pacifism has been a powerful political principle since the second world war.
+<strong>China</strong>’<strong>s</strong> exports fell for the first time in two years, as the country’s businesses struggle with a global economic slowdown and the government’s zero-covid policy. Exports contracted by 0.3% year on year in October; analysts had expected growth of 4.3%. Shrinking exports will increase the strain on an [economy](https://te.arielherself.xyz/finance-and-economics/2022/09/20/chinas-rulers-seem-resigned-to-a-slowing-economy) already hit by a property-sector slump and weak consumer demand.
 
-<strong>China</strong> reported 4,420 new daily cases of <strong>covid-19</strong>, the highest since May. On Saturday officials reiterated their commitment to a [zero-covid approach](https://te.arielherself.xyz/china/2022/11/03/the-chinese-city-that-covid-forgot), involving strict lockdowns when new outbreaks are detected. Markets had jumped in recent days on the hope that China would relax its covid restrictions, which are dampening [economic growth](https://te.arielherself.xyz/graphic-detail/2022/10/24/chinas-gdp-is-flagging-where-might-growth-come-from).
+<strong>North Korea</strong> characterised its [missile launches](https://te.arielherself.xyz/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many) of last week as a “simulated attack” against its South Korean and American enemies, and as retaliation for their joint drills. South Korean military officials said they recovered bits of a short-range ballistic weapon near its shore. And <strong>Japan’s </strong>prime minister, Kishida Fumio, promised to increase his country’s [defence capabilities](https://te.arielherself.xyz/asia/2022/09/13/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army), in response to both North Korean and Russian provocations.
 
-Researchers in Britain conducted the first <strong>transfusion</strong> of <strong>lab-grown blood</strong> to human patients. The red-blood cells were grown from donor stem cells. If successful, such transfusions could alleviate a shortage of blood donations and aid treatment of blood disorders, such as sickle-cell disease and ​​thalassemia. The trial, by the University of Bristol and the NHS, will involve at least 10 patients.
+Researchers in Britain conducted the first <strong>transfusion</strong> of <strong>lab-grown blood</strong> to human patients. The red-blood cells were grown from donor stem cells. If successful, such transfusions could alleviate a shortage of [blood donations](https://te.arielherself.xyz/graphic-detail/2017/06/14/the-global-inequality-of-blood-supplies) and aid treatment of [blood disorders](https://te.arielherself.xyz/the-world-ahead/2021/11/08/new-therapies-for-a-range-of-conditions-are-coming-in-2022), such as sickle-cell disease and ​​thalassemia. The trial, by the University of Bristol and the NHS, will involve at least ten patients.
 
-<strong>Word of the week: </strong><em>pesantrens, </em>Indonesia’s Islamic boarding schools, testing grounds for the “eco-Islam” movement. [Read the full story](https://te.arielherself.xyz/asia/2022/11/03/indonesias-imams-are-doing-their-bit-for-the-environment).
+<strong>Fact of the day:</strong> 180kWh a year, the amount of energy used by the average sub-Saharan African (excluding South Africa). That is less than the average American fridge. [Read the full story](https://te.arielherself.xyz/middle-east-and-africa/2022/11/03/africa-will-remain-poor-unless-it-uses-more-energy). 
 
 ----------
 
-## COP27 kicks off
+## A turbulent time for global trade
 
-On Sunday the United Nations’ annual climate summit began. Delegates are massed in Sharm el-Sheikh, an Egyptian resort town on the Red Sea, for the event, which runs for two weeks. Politicians will make lofty public promises about reducing greenhouse-gas emissions. Behind closed doors, meanwhile, negotiators will squabble about how to do it—and who should pay.
+On Monday the World Trade Organisation publishes its annual report on global trade, the vast majority of which is conducted through the system the WTO oversees. It comes at a fraught moment. Global goods trade bounced back strongly after a deep downturn in 2020, despite many [supply-chain problems](https://te.arielherself.xyz/business/2022/01/29/why-supply-chain-problems-arent-going-away). In 2021 trade reached its highest level as a share of world GDP since 2014 and has risen again in 2022, according to the WTO’s current estimates.
 
-At last year’s summit, in Glasgow, nearly 200 countries recommitted themselves to the Paris Agreement target of limiting global temperature rise to 1.5°C over pre-industrial levels by 2100. That goal already appears practically [out of reach](https://te.arielherself.xyz/leaders/2022/11/03/the-world-is-missing-its-lofty-climate-targets-time-for-some-realism). Countries have failed to adequately slash emissions, which are still rising globally. The consequences of this will be catastrophic, and every effort should be made to ensure [as little warming as possible](https://te.arielherself.xyz/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target). But there also must be an enhanced commitment to [adaptation](https://te.arielherself.xyz/special-report/2022-11-05), including poor countries’ calls for funding for [the damages they have already incurred](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage). The clock has already ticked too far.
+But troubles loom. Over the coming year growth is expected to slow sharply; America, China and Europe are all at risk of [recessions](https://te.arielherself.xyz/recession). Protectionism is increasing. Amid rising geopolitical tensions, China and the West are trying to reduce their [interdependency](https://te.arielherself.xyz/special-report/2022/10/10/why-america-and-europe-fret-about-china-turning-inwards) for critical resources and technologies. America’s forays into industrial policy—including the “Buy America” rules written into a [new climate law](https://te.arielherself.xyz/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential)—have irked its trade partners in Europe and Asia. In time the post-pandemic rebound in trade may seem more a last hurrah than a new dawn.
 
-## Australia’s reckoning with racism
+## How Western weapons are helping Ukraine
 
-The list of crimes perpetrated against [Australia’s Aboriginals](https://te.arielherself.xyz/asia/2022/08/11/australias-leader-wants-to-include-aboriginals-in-the-constitution), who make up about 4% of the population, is long and grim. Even by those standards, the death of Cassius Turvey shocked the country. On October 13th the 15-year-old was walking home from school in Perth, in Western Australia, when he was chased down and assaulted with a metal pole. He died of his injuries ten days later. Police have charged Jack Brearley, a white 21-year-old, with murder. Mr Brearley will appear in court on November 9th.
+In the coming days, Ukraine will receive two National Advanced Surface to Air Missile Systems developed by Kongsberg, a Norwegian aerospace company, and Raytheon, an American one. In October Ukraine received an advanced IRIS-T air-defence system from Germany, which has promised them three more. Slovakia provided a battery of missiles months ago.
 
-Aboriginals are aghast. Thousands have gathered in vigils this week calling for an end to racism against their people. Yet police warn against “unfounded speculation” that could prejudice a jury and jeopardise the trial. They say there is nothing to indicate yet that there was a racial motive, suggesting it could be a case of mistaken identity. To Aboriginals, that is tin-eared—and proof that authorities remain indifferent to their plight.
+Such weapons are [helping Ukraine protect itself](https://te.arielherself.xyz/europe/2022/11/06/western-air-defence-systems-help-ukraine-shoot-down-more-missiles). On October 10th, nearly half of the missiles and drones launched by Russia dodged Ukrainian defences; now the country claims to be shooting down over 80% of the missiles and drones that come its way. The danger is still immense. Over the past month, Russian attacks have destroyed or damaged up to 40% of the country’s energy infrastructure, triggering widespread power cuts. (There are plans to evacuate Kyiv, the capital, in the event of a prolonged blackout.) America wants to increase the speed with which it hands over six additional NASAM systems. For Ukrainians, these deliveries cannot come fast enough. 
 
-## Corruption at FIFA
+## What’s at stake in America’s midterms?
 
-Of the 22 men on FIFA’s Executive Committee in 2010 who voted to award the 2018 World Cup to Russia and the 2022 edition to Qatar, more than half of them have been accused, indicted or convicted of corruption, according to Nick Harris, a journalist. For years football’s global governing body was a rotten organisation, more concerned with feathering the nests of its leaders than promoting the game around the world.
+Every two years Americans go to the polls to decide which congressmen and senators to hire and fire. But election day, on Tuesday, has consequences far beyond Capitol Hill. Voters also pick representatives for their state legislatures, where most policy in America is made. They elect mayors, governors and judges—and they vote on scores of local ballot measures. This year that means deciding on [abortion](https://te.arielherself.xyz/united-states/2022/09/22/republicans-abortion-proposal-could-backfire) and [voting rights](https://te.arielherself.xyz/the-economist-explains/2022/10/20/how-americas-midterms-could-reshape-the-courts), alongside many other issues. The [midterms](https://te.arielherself.xyz/mid-terms-2022) are an enormous democratic exercise.
 
-But in recent years investigative journalists and law enforcement officials have been applying more scrutiny. The reckoning for a generation of football administrators, most notably Sepp Blatter, who was FIFA’s president for 17 years, is the subject of a new Netflix documentary, “FIFA Uncovered”, released next week. The [World Cup in Qatar](https://te.arielherself.xyz/middle-east-and-africa/2022/11/02/qatar-races-to-ready-itself-for-an-unusual-world-cup), which starts in a fortnight, will be an exercise in damage limitation for FIFA, before it can turn its attention to the 2026 event. Co-hosted by America, Canada and Mexico, that tournament has so far escaped the whiff of corruption.
+But American democracy is being questioned by some Republicans. A big theme of this year’s midterms is [the rise of election deniers](https://te.arielherself.xyz/graphic-detail/2022/11/01/arizonas-midterm-races-are-full-of-election-deniers), who argue that the 2020 presidential election was fraudulent, and that Donald Trump is the rightful president. Many of these candidates are running for local positions, such as secretary of state, that oversee elections. Their victories in important swing states like Arizona and Michigan could affect how future elections are run. The 2024 presidential campaign is already looming. 
 
-## Smartphones can assess bridge safety
+## Pharmaceutical firms’ uncertain post-pandemic future
 
-People like to imagine that bridges are unshakably solid. In reality they are dynamic: vehicles and wind keep them constantly aquiver. Engineers regularly monitor bridges’ structural integrity with expensive sensors. But research published in <em>Communications Engineering</em> shows that crowdsourced data from drivers’ smartphones can detect a bridge’s vibrations just as accurately.
+BioNTech, the German [biotechnology company](https://te.arielherself.xyz/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) that partnered with Pfizer to produce a widely used covid-19 vaccination, releases its third-quarter results on Monday. They will be watched closely by those wanting to scry [jab-makers’](https://te.arielherself.xyz/graphic-detail/2022/07/13/which-covid-19-vaccine-saved-the-most-lives-in-2021) futures as the pandemic wanes. Pfizer, an American firm, beat analysts’ expectations last week, reporting $22.6bn in third-quarter sales. “We believe our covid-19 franchises will remain multibillion-dollar revenue generators for the foreseeable future,” said Albert Bourla, Pfizer’s chief executive. Yet Moderna, another American vaccine manufacturer, fared poorly, citing complex manufacturing issues and writing off $333m of expired inventory.
 
-Researchers (and some [Uber](https://te.arielherself.xyz/business/2022/10/31/what-went-wrong-with-snap-netflix-and-uber) drivers) drove back and forth across the Golden Gate Bridge in San Francisco as their phones ran a purpose-built app. In under 100 crossings, the app was able to tune out traffic noise and isolate the bridge’s vibrational frequencies. The crowdsourced data was nearly identical to that from conventional sensors placed along the bridge. The same held true for tests on a shorter concrete roadbridge. The engineers estimate that this practice could add up to 15 years to a bridge’s life. No bridge lasts for ever, but constant, cheap data is the key to preventive maintenance.
+Moderna, Pfizer and BioNTech have increased the prices of their covid-19 products to offset anticipated slowdowns and are under pressure to diversify their drug portfolios for a post-pandemic era. BioNTech is also hoping to drive sales with its new covid booster jab, which has already proved more effective against the Omicron variant than the original version it developed with Pfizer. But as the coronavirus slips down governments’ agendas, even that might not bolster its bottom line for long.
 
-## Weekend profile: Kari Lake, Arizona’s Republican candidate for governor
+## “Bardo” and the burdens of creation
 
-The first time she was “cancelled really hard”, as she puts it, Kari Lake did some soul searching. In 2019 a hot mic had caught Ms Lake—then a veteran television newsreader in Phoenix, Arizona—crudely dismissing concerns about her presence on Parler, a right-wing social network. “Fuck them,” she said of her detractors. “They’re 20-year-old dopes.”
+Artistic angst pervades “Bardo: False Chronicle of a Handful of Truths”, which was released in a limited number of American cinemas by Netflix on Friday. (It will air on the streaming service in December.) The film follows a journalist-cum-filmmaker through a midlife crisis, expressed through a fugue of memories and visions. The inciting event is an awards ceremony—familiar territory for Alejandro González Iñárritu, the film’s Mexican director who has won Academy Awards for “The Revenant” and “Birdman”, among others.
 
-After the tape leaked, the dopes called for Ms Lake to be fired. She spent a week off the air, but her unease only grew. She turned to God. She started comparing the Bible she kept on one side of her desk with the news scripts she kept on the other. Eventually, she quit broadcasting altogether, saying she was through with “having to read news that I felt wasn’t fully truthful”. Shortly thereafter she announced her candidacy as a Republican for [governor of Arizona](https://te.arielherself.xyz/graphic-detail/2022/11/01/arizonas-midterm-races-are-full-of-election-deniers), in a video produced by her husband, a videographer with a penchant for soft-focus backgrounds.
+Silverio Gama, the film’s fictional documentarian, finds that success does not soothe his discontent. Instead, he is haunted by ghosts from Mexico’s conquistador past and the drug wars of its present and wonders about his stature among his clubby colleagues. The film is an anxious examination of how an artist and his work are perceived, and on the pressure to seem sufficiently responsive to the concerns of the times. It joins [a recent spate of films](https://te.arielherself.xyz/culture/2022/10/28/tar-official-competition-and-bardo-probe-creative-integrity) examining the challenges of creativity, notably “Blonde” and “Elvis”, two biopics about Marilyn Monroe and Elvis Presley respectively.
 
-Ms Lake enjoys a slight lead over her lacklustre Democratic opponent, Katie Hobbs, ahead of Tuesday’s election. She is revelling in her cancellation. Ms Lake frequently peddles the lie that the 2020 election was stolen, earning Donald Trump’s approval. She describes [immigration on Arizona’s southern border](https://te.arielherself.xyz/united-states/2022/10/04/the-biden-administration-is-quietly-completing-bits-of-donald-trumps-wall) as an “invasion”. She has accused Ms Hobbs of supporting sex education for youngsters and opposing medical care for infants who survive abortion attempts. Both characterisations are misleading. But unlike many of [Mr Trump’s acolytes](https://te.arielherself.xyz/united-states/2022/10/27/why-the-republicans-anti-democracy-turn-has-become-normalised), she is fully media-trained. Glenn Beck, a right-wing radio host, compares her speaking talent to that of Ronald Reagan. Ms Hobbs refuses to debate her—no doubt for fear of getting shown up.
+## Daily quiz
 
-Critics spy opportunism in Ms Lake’s recent political awakening. She says no politician since Reagan has thrilled her like Mr Trump, yet she voted for Barack Obama in 2008. She calls herself Christian from birth, and dismisses rumours that she dabbled in Buddhism. (The yoga was for stress relief, she says.) If she can convince Arizona voters that she is the real deal, the Lake playbook—ultra-smooth delivery of far-right talking points—could be a winner. Democrats are rightly worried.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-## Weekly crossword
+<strong>Monday: </strong>Which rock star recorded his first single under the name “Davie Jones with the King Bees”?   
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist.</em>
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Large company drunkenly neglect a room (12)
-
-<em>1 across</em> Middle of spectrum contains colour I recognise (6)
-
-<em>2 across</em> Australian individual produces pungent gas (5)
-
-<em>3 across </em>Entrepreneur operates partly in the continent (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>A business often beset by bloating and egomania (12)
-
-<em>1 across</em> It underwrote Lula’s previous Latin American policy (6)
-
-<em>2 across</em> This shield organisms from harmful ultraviolet radiation (5)
-
-<em>3 across </em>Where even a recession might not reduce inflation (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Yasumasa Watanabe</strong>, Tokyo, Japan
-
-North America: <strong>Cathy Adams</strong>, Burlington, Canada
-
-Central and South America: <strong>Silvia Mora Bowen</strong>, Quito, Ecuador
-
-Europe: <strong>Agnieszka Bugajska</strong>, Krakow, Poland
-
-Africa: <strong>Hassan Alaoui Abdallaoui</strong>, Rabat, Morocco
-
-Oceania: <strong>Warren Twohey</strong>, Auckland, New Zealand
-
-They all gave the correct answers of Luke, Empire State, Napoleon Solo, the Maltese Falcon and force. The theme is Star Wars; Luke Skywalker, “The Empire Strikes Back”, Han Solo, Millennium Falcon and the “force”.
 
 ----------
 
