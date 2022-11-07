@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-11-06</p>
+# <p align="center">The world in brief 2022-11-07</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -18,7 +18,7 @@ Nearly 230 parliamentarians in <strong>Iran</strong> signed a statement demandin
 
 Russian-installed officials in <strong>Kherson</strong> in southern Ukraine said that the city had lost water and electricity supplies because of “[sabotage](https://te.arielherself.xyz/international/2022/10/20/vladimir-putin-says-the-worlds-energy-infrastructure-is-at-risk)”. The announcement comes amid a rumoured Russian withdrawal from the city to the eastern bank of the Dnieper river. Meanwhile, Ukraine claimed that the Russians were destroying civilian boats on the Dnieper, potentially to slow any Ukrainian attempts to cross.
 
-<strong>American</strong> presidents past and present held competing [rallies](https://te.arielherself.xyz/mid-terms-2022) in the swing state of Pennsylvania ahead of Tuesday’s <strong>midterm elections</strong>. Barack Obama and Joe Biden staged a double-act in Philadelphia, where Mr Obama told Democrats that “truth and facts and logic and reason and basic decency are on the ballot”. Meanwhile south-east of Pittsburgh Donald Trump roused Republicans, calling on them to stop the “destruction of our country”.
+<strong>Apple</strong> warned that covid-19 lockdowns in China would hinder production of its newest iPhone. A [factory in Zhengzhou](https://te.arielherself.xyz/business/2022/10/24/the-end-of-apples-affair-with-china), where the iPhone 14 Pro is assembled, was operating at “significantly reduced capacity”, said the firm. That will mean lower shipments and longer wait times, just as the holidays approach. The plant is operated by Foxconn, a Taiwanese manufacturing firm.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>China</strong> reported 4,420 new daily cases of <strong>covid-19</strong>, the highest since May. On Saturday officials reiterated their commitment to a [zero-covid approach](https://te.arielherself.xyz/china/2022/11/03/the-chinese-city-that-covid-forgot), involving strict lockdowns when new outbreaks are detected. Markets had jumped in recent days on the hope that China would relax its covid restrictions, which are dampening [economic growth](https://te.arielherself.xyz/graphic-detail/2022/10/24/chinas-gdp-is-flagging-where-might-growth-come-from).
 
-The <strong>UN’s</strong> human-rights chief urged <strong>Elon Musk</strong> to ensure that “human rights are central to the management of Twitter”. Reports that the social-media firm’s entire human-rights team had been sacked were not an “encouraging start”, wrote Volker Turk in an open letter. Earlier Mr Musk claimed Twitter had “no choice” but to conduct mass layoffs as the social media platform is [losing $4m per day](https://te.arielherself.xyz/business/2022/11/03/will-people-pay-8-a-month-for-twitter).
+Researchers in Britain conducted the first <strong>transfusion</strong> of <strong>lab-grown blood</strong> to human patients. The red-blood cells were grown from donor stem cells. If successful, such transfusions could alleviate a shortage of blood donations and aid treatment of blood disorders, such as sickle-cell disease and ​​thalassemia. The trial, by the University of Bristol and the NHS, will involve at least 10 patients.
 
 <strong>Word of the week: </strong><em>pesantrens, </em>Indonesia’s Islamic boarding schools, testing grounds for the “eco-Islam” movement. [Read the full story](https://te.arielherself.xyz/asia/2022/11/03/indonesias-imams-are-doing-their-bit-for-the-environment).
 
