@@ -32,6 +32,12 @@ Volodymyr Zelensky, <strong>Ukraine’s</strong> president, warned that <strong>
 
 ----------
 
+## The wide-ranging consequences of America’s midterms
+
+Every two years Americans go to the polls to decide which congressmen and senators to hire and fire. But election day, on Tuesday, has consequences far beyond Capitol Hill. Voters also pick representatives for their state legislatures, where most policy in America is made. They elect mayors, governors and judges—and they vote on scores of local ballot measures. This year that means deciding on [abortion](https://te.arielherself.xyz/united-states/2022/09/22/republicans-abortion-proposal-could-backfire) and [voting rights](https://te.arielherself.xyz/the-economist-explains/2022/10/20/how-americas-midterms-could-reshape-the-courts), alongside many other issues. The [midterms](https://te.arielherself.xyz/mid-terms-2022) are an enormous democratic exercise.
+
+But American democracy is being questioned by some Republicans. A big theme of this year’s midterms is [the rise of election deniers](https://te.arielherself.xyz/graphic-detail/2022/11/01/arizonas-midterm-races-are-full-of-election-deniers), who argue that the 2020 presidential election was fraudulent, and that Donald Trump is the rightful president. Many of these candidates are running for local positions, such as secretary of state, that oversee elections. Their victories in important swing states like Arizona and Michigan could affect how future elections are run. The 2024 presidential campaign is already looming. 
+
 ## A complicated climate for global trade
 
 On Monday at COP27, the [United Nations’ climate summit](https://te.arielherself.xyz/films/2022/11/04/cop27-time-for-action) held this year in Egypt, the World Trade Organisation published its annual report on global trade, the vast majority of which it oversees. Unsurprisingly, given the launch venue, the report focuses on the relationship between trade and climate change. Acknowledging that producing and transporting goods is responsible for extensive greenhouse-gas emissions, the WTO argues that trade and trade policies can also be a force for good in the fight against global warming. In particular, it urges countries to scrap tariffs and other trade barriers for environmentally-beneficial goods and technologies.
@@ -43,12 +49,6 @@ The report comes at a turbulent time. In 2021 global goods trade bounced back af
 In the coming days, Ukraine will receive two National Advanced Surface to Air Missile Systems developed by Kongsberg, a Norwegian aerospace company, and Raytheon, an American one. In October Ukraine received an advanced IRIS-T air-defence system from Germany, which has promised them three more. Slovakia provided a battery of missiles months ago.
 
 Such weapons are [helping Ukraine protect itself](https://te.arielherself.xyz/europe/2022/11/06/western-air-defence-systems-help-ukraine-shoot-down-more-missiles). On October 10th, nearly half of the missiles and drones launched by Russia dodged Ukrainian defences; now the country claims to be shooting down over 80% of the missiles and drones that come its way. The danger is still immense. Over the past month, Russian attacks have destroyed or damaged up to 40% of the country’s energy infrastructure, triggering widespread power cuts. (There are plans to evacuate Kyiv, the capital, in the event of a prolonged blackout.) America wants to increase the speed with which it hands over six additional NASAM systems. For Ukrainians, these deliveries cannot come fast enough. 
-
-## The wide-ranging consequences of America’s midterms
-
-Every two years Americans go to the polls to decide which congressmen and senators to hire and fire. But election day, on Tuesday, has consequences far beyond Capitol Hill. Voters also pick representatives for their state legislatures, where most policy in America is made. They elect mayors, governors and judges—and they vote on scores of local ballot measures. This year that means deciding on [abortion](https://te.arielherself.xyz/united-states/2022/09/22/republicans-abortion-proposal-could-backfire) and [voting rights](https://te.arielherself.xyz/the-economist-explains/2022/10/20/how-americas-midterms-could-reshape-the-courts), alongside many other issues. The [midterms](https://te.arielherself.xyz/mid-terms-2022) are an enormous democratic exercise.
-
-But American democracy is being questioned by some Republicans. A big theme of this year’s midterms is [the rise of election deniers](https://te.arielherself.xyz/graphic-detail/2022/11/01/arizonas-midterm-races-are-full-of-election-deniers), who argue that the 2020 presidential election was fraudulent, and that Donald Trump is the rightful president. Many of these candidates are running for local positions, such as secretary of state, that oversee elections. Their victories in important swing states like Arizona and Michigan could affect how future elections are run. The 2024 presidential campaign is already looming. 
 
 ## Pharmaceutical firms’ uncertain post-pandemic future
 
@@ -64,7 +64,7 @@ Silverio Gama, the film’s fictional documentarian, finds that success does not
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="aafbdfc3d0efd9dad8cfd9d9c5eacfc9c5c4c5c7c3d9de84c9c5c7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which rock star recorded his first single under the name “Davie Jones with the King Bees”?   
 
