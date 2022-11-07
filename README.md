@@ -16,7 +16,7 @@
 
 <strong>Greece’s </strong>government said it would ban the sale of <strong>spyware</strong> after a newspaper reported that ministers and businesspeople had been surveilled by the state via malware on their phones. A government spokesman said the report in <em>Documento</em> was “unfounded” and denied buying spyware. Officials from the European Parliament were already investigating whether Greece’s ruling party illegally snooped on politicians and a journalist.
 
-The <strong>Ethiopian</strong> government and Tigrayan forces met in Kenya for talks on implementing a <strong>truce</strong>, agreed last Wednesday, which has brought a [ceasefire](https://te.arielherself.xyz/middle-east-and-africa/2022/10/27/ethiopias-peace-talks-may-be-overtaken-by-battlefield-advances) to a bloody, nearly three-year-long conflict. The two sides have set up a telephone hotline, reportedly in order to co-ordinate disengagement from fighting. Hundreds of thousands of people are believed to have died in the war; millions more have been displaced.
+The <strong>Ethiopian</strong> government and Tigrayan forces met in Kenya for talks on implementing a <strong>truce</strong>, agreed last Wednesday, which has brought a [ceasefire](https://te.arielherself.xyz/middle-east-and-africa/2022/10/27/ethiopias-peace-talks-may-be-overtaken-by-battlefield-advances) to a bloody, nearly three-year-long conflict. The two sides have set up a telephone hotline, reportedly in order to coordinate disengagement from fighting. Hundreds of thousands of people are believed to have died in the war; millions more have been displaced.
 
 <strong>Ryanair</strong>, an Irish airline, posted a post-tax <strong>profit</strong> of €1.37bn ($1.36bn) in the six months to the end of September, a record for the first half of its financial year. The airline, Europe’s biggest by passengers carried, expects demand to remain strong as customers switch from more expensive rivals. Several [airlines](https://te.arielherself.xyz/business/2022/06/09/air-travel-is-taking-flight-again) are seeing high ticket sales despite soaring inflation.
 
@@ -64,7 +64,7 @@ Silverio Gama, the film’s fictional documentarian, finds that success does not
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2d7c584457685e5d5f485e5e426d484e42434240445e59034e4240">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which rock star recorded his first single under the name “Davie Jones with the King Bees”?   
 
