@@ -36,7 +36,7 @@ Justin Trudeau, <strong>Canada’s</strong> prime minister, accused <strong>Chin
 
 On Tuesday Americans go to the polls—or, to be more precise, finish going to the polls. More than 40m voters have cast early ballots in the midterms, pointing to the continuation of a trend of record-high turnout in American elections. After see-sawing for months, most pundits now predict a good night for Republicans. They are expected to win a majority in the House and are [favoured to do so in the Senate](https://www.economist.com/interactive/us-midterms-2022/forecast/senate). 
 
-Though Democrats are buoyed by support for abortion rights, they are burdened by inflation, crime, an unpopular president and a historical pattern that the party holding the White House loses ground in midterms. Even if the Democrats do better than expected, many Republican candidates have refused to commit to honouring the results should they lose, following the example of Donald Trump in 2020. A political cliché—that “the only poll that matters” is on election day—may be put to the test.
+Though Democrats are buoyed by support for abortion rights, they are burdened by inflation, crime, an unpopular president and a historical pattern that the party holding the White House loses ground in midterms. But a more important historical pattern seems likely to be violated: many Republican candidates have refused to commit to honouring the results should they lose, following the example of Donald Trump in 2020. A political cliché—that “the only poll that matters” is on election day—may be put to the test.
 
 ## India and Russia’s mutual admiration
 
@@ -64,7 +64,7 @@ Capitalising on this freedom, HBO started developing original dramas; creations 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d283a7bba897a1a2a0b7a1a1bd92b7b1bdbcbdbfbba1a6fcb1bdbf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f5a4809c8fb08685879086869ab590969a9b9a989c8681db969a98">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>“Go Set a Watchman” was the second published novel of which famous author?
 
