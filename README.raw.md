@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Millions of Americans are voting on midterms election day, which will see hundreds of races for the Senate and House of Representatives decided. Most results will be announced on Tuesday night. As if it were 2020 again, Joe Biden and Donald Trump took to the hustings hours before the midterms’ finale to blast one another’s parties. Mr Biden warned voters that a Republican victory (more or less expected) will weaken the country’s democratic institutions. Mr Trump promised to make a big announcement on November 15th, presumably that he will stand again in 2024. 
+Millions of Americans are voting on<strong> midterms</strong> election day, which will see hundreds of races for the Senate and House of Representatives decided. Most results will be announced on Tuesday night. As if it were 2020 again, <strong>Joe Biden </strong>and <strong>Donald Trump</strong> took to the hustings hours[ before the midterms’ finale](https://www.economist.com/united-states/2022/11/08/the-eight-races-to-watch-as-americans-votes-are-tallied) to blast one another’s parties. Mr Biden warned voters that a Republican victory (more or less[ expected](https://www.economist.com/graphic-detail/2022/11/04/our-midterm-predictions-point-to-major-gains-for-the-republicans)) will weaken the country’s[ democratic institutions](https://www.economist.com/united-states/2022/11/06/whats-at-stake-in-the-midterm-elections). Mr Trump promised to make a big announcement on November 15th, presumably that he will stand again in 2024.
 
 A group of experts established by the UN told delegates at <strong>COP27</strong> that there must be stricter rules to stop companies being dishonest about their climate action. António Guterres, the UN’s secretary-general, criticised the “rank deception” of fossil-fuel companies which have promised to slash their <strong>emissions</strong> yet use loopholes such as carbon offsetting to continue to invest in new production of oil, coal and gas.
 
@@ -64,7 +64,7 @@ Capitalising on this freedom, HBO started developing original dramas; creations 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="beefcbd7c4fbcdceccdbcdcdd1fedbddd1d0d1d3d7cdca90ddd1d3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ccde9f5e6d9efeceef9efeff3dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>“Go Set a Watchman” was the second published novel of which famous author?
 
