@@ -40,7 +40,7 @@ Though Democrats are buoyed by support for abortion rights, they are burdened by
 
 ## India and Russia’s mutual admiration
 
-Subrahmanyam Jaishankar, India’s foreign minister, will meet Sergey Lavrov, his Russian counterpart, in Moscow on Tuesday. The atmosphere will be cordial. Trade between two countries has soared and is set to exceed $30bn next year, two years before the target set for it to do so. India is now one of the main buyers of Russian oil, which is [under sanctions from the West](https://www.economist.com/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices). It is also one of the best customers for Russian weapons.
+Subrahmanyam Jaishankar, India’s foreign minister, met Sergey Lavrov, his Russian counterpart, in Moscow on Tuesday. The atmosphere was cordial. Trade between two countries has soared and is set to exceed $30bn next year, two years before the target set for it to do so. India is now one of the main buyers of Russian oil, which is [under sanctions from the West](https://www.economist.com/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices). It is also one of the best customers for Russian weapons.
 
 In September, [after months of silence](https://www.economist.com/asia/why-wont-indias-government-condemn-vladimir-putin/21808074), Narendra Modi, India’s prime minister, commented on President Vladimir Putin’s invasion of Ukraine. “This is not an era of war,” he said, adding that “democracy, diplomacy and dialogue” were needed instead. But despite suggesting it is “deeply disturbed” by the warmaking, India has repeatedly refused to vote on any United Nations’ resolution condemning it. In return Mr Putin has praised Mr Modi as a “great patriot” and lauded his ability “to pursue independent foreign policy”.
 
@@ -64,7 +64,7 @@ Capitalising on this freedom, HBO started developing original dramas; creations 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6f3e1a06152a1c1f1d0a1c1c002f0a0c00010002061c1b410c0002">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>“Go Set a Watchman” was the second published novel of which famous author?
 
