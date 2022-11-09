@@ -6,13 +6,13 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-11-08</p>
+# <p align="center">The world in brief 2022-11-09</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Millions of Americans are voting on<strong> midterms</strong> election day, which will see hundreds of races for the Senate and House of Representatives decided. Most results will be announced on Tuesday night. As if it were 2020 again, <strong>Joe Biden </strong>and <strong>Donald Trump</strong> took to the hustings hours[ before the midterms’ finale](https://www.economist.com/united-states/2022/11/08/the-eight-races-to-watch-as-americans-votes-are-tallied) to blast one another’s parties. Mr Biden warned voters that a Republican victory (more or less[ expected](https://www.economist.com/graphic-detail/2022/11/04/our-midterm-predictions-point-to-major-gains-for-the-republicans)) will weaken the country’s[ democratic institutions](https://www.economist.com/united-states/2022/11/06/whats-at-stake-in-the-midterm-elections). Mr Trump promised to make a big announcement on November 15th, presumably that he will stand again in 2024.
+Millions of <strong>Americans</strong> are voting on <strong>midterms</strong> election day, which will see [hundreds of races](https://www.economist.com/united-states/2022/11/07/why-a-republican-ripple-is-more-likely-than-a-red-wave) for the Senate and House of Representatives decided. Most results will be announced on Tuesday night. As if it were 2020 again, <strong>Joe Biden</strong> and <strong>Donald Trump</strong> took to the hustings hours before the midterms’ finale to blast one another’s parties. Republicans appear set to take the House, but the race for the Senate is [very close](https://www.economist.com/interactive/us-midterms-2022/forecast/senate).
 
 A group of experts established by the UN told delegates at <strong>COP27</strong> that there must be stricter rules to stop companies being dishonest about their climate action. António Guterres, the UN’s secretary-general, criticised the “rank deception” of fossil-fuel companies which have promised to slash their <strong>emissions</strong> yet use loopholes such as carbon offsetting to continue to invest in new production of oil, coal and gas.
 
@@ -64,7 +64,7 @@ Capitalising on this freedom, HBO started developing original dramas; creations 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b0e1c5d9caf5c3c0c2d5c3c3dff0d5d3dfdedfddd9c3c49ed3dfdd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>“Go Set a Watchman” was the second published novel of which famous author?
 
