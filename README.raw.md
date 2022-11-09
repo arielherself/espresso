@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-As results from <strong>America’s midterms</strong> rolled in, the Democrats appeared slight favourites to maintain [control of the Senate](https://www.economist.com/united-states/2022/11/09/the-democrats-have-done-better-than-expected). The close race in <strong>Georgia</strong> will go to a runoff in December, and could determine who takes control of the chamber. To gain a majority, Republicans will need to win four of the five seats yet to be declared. The House of Representatives looks likely to flip from the Democrats to the Republicans, but there is [no sign](https://www.economist.com/graphic-detail/2022/11/09/a-disappointing-showing-for-the-republicans-in-the-midterms) of the “red wave” many predicted. 
+As results from <strong>America’s midterms</strong> rolled in, the Democrats appeared slight favourites to maintain [control of the Senate](https://www.economist.com/united-states/2022/11/09/the-democrats-have-done-better-than-expected). The close race in <strong>Georgia</strong> will go to a runoff in December, and could determine who conrols the chamber. To gain a majority, Republicans will need to win four of the five seats yet to be declared. The House of Representatives looks likely to flip from the Democrats to the Republicans, but there is [no sign](https://www.economist.com/graphic-detail/2022/11/09/a-disappointing-showing-for-the-republicans-in-the-midterms) of the “red wave” many predicted. 
 
 Many Americans are also choosing their <strong>states’ governors</strong>: in Florida the Republican incumbent, Ron DeSantis (an [heir, or perhaps a rival](https://www.economist.com/united-states/2021/07/24/the-rise-of-ron-desantis), to Mr Trump), easily held on for a second term. Greg Abbott, the Republican [incumbent in Texas](https://www.economist.com/united-states/2022/09/15/a-grassroots-group-is-channelling-public-frustration-in-texas), fended off a challenge from Beto O’Rourke and Brian Kemp, Georgia’s Republican governor, defeated [Stacey Abrams](https://www.economist.com/by-invitation/2022/10/10/a-conversation-with-stacey-abrams), another hopeful star of the Democratic Party. In Pennsylvania Josh Shapiro, a Democrat, saw off Doug Mastriano, a 2020 election-denier. Maura Healey reclaimed Massachusetts for the Democrats and Kathy Hochul held on to New York state.
 
@@ -32,18 +32,6 @@ The <strong>International Monetary Fund</strong> provisionally agreed to a $4.5b
 
 ----------
 
-## France’s new defence review
-
-Emmanuel Macron, France’s president, will be winched from a helicopter on to an attack submarine near the port of Toulon on Wednesday, after making a speech unveiling a national strategic review. The review, drafted after Russia’s invasion of Ukraine, will underline continuity in France’s approach to defence, including its ambition to strengthen “European strategic autonomy” in ways that are complementary to NATO, and its hopes of acting as what Mr Macron calls a “balancing power”. 
-
-The speech will include some novelties nonetheless. Mr Macron will announce the official end of [Operation Barkhane](https://www.economist.com/the-economist-explains/2022/02/14/what-have-french-forces-achieved-in-the-sahel), a French counter-terrorism effort in the north African Sahel. He will add “influence” to a list of the country’s national strategic functions, with the aim of combatting disinformation and asserting France’s interests. The annual budget for the armed forces in 2023 will increase by 7.4% to €43.9bn ($44.2bn). And Mr Macron will stress the need for increased national “resilience”—from robust armed forces to industrial preparedness—to face the risk of further high-intensity warfare in Europe.
-
-## The Democrats exceed expectations
-
-As [results ](https://www.economist.com/interactive/us-midterms-2022/results/senate)come in from America’s midterm elections, control of the Senate hangs in the balance. That is already a victory of sorts for Democrats. Though the party [looks likely ](https://www.economist.com/united-states/2022/11/07/why-a-republican-ripple-is-more-likely-than-a-red-wave) to lose its majority in the House, the fact that Democratic candidates have done well in seats like Virginia’s 7th district suggests that the job of the next Republican Speaker of the House will become much harder. 
-
-Normally in midterms the president’s party does badly. With inflation above 8% and President Joe Biden’s approval ratings sinking, it seemed a reasonable bet that Democrats would lose at least one Senate seat (and with it their narrow edge in the upper house). If Democrats do hold the Senate, that ought to damage Donald Trump. The former president’s endorsements saddled [Republicans](https://www.economist.com/graphic-detail/2022/11/09/a-disappointing-showing-for-the-republicans-in-the-midterms) with poor candidates in states like Pennsylvania and Georgia. The evidence that he is, in fact, a serial loser would grow stronger.
-
 ## The costs of China’s zero-covid policy
 
 Financial markets are rife with speculation about when the Chinese government might relax its strict [zero-covid policy](https://www.economist.com/china/2022/10/13/china-shows-few-signs-of-loosening-its-zero-covid-policy). One social-media message highlighting the rumours has been dubbed the “trillion-dollar tweet”, after it helped inspire a big rally in Chinese shares.   
@@ -51,6 +39,18 @@ Financial markets are rife with speculation about when the Chinese government mi
  But even as investors contemplate a loosening of fetters in the future, China’s economy must endure them in the present. Official figures released on November 15th will probably show that retail sales shrank in nominal terms in October, compared with a year earlier. The growth of industrial production probably slowed, too. And figures released on Wednesday revealed that consumer-price inflation has softened. 
 
 This domestic weakness is all the more troubling because foreign demand for China’s goods is also faltering. The country’s exports shrank last month in dollar terms. When China eventually relaxes its zero-covid policy, it will be opening up to a global economy retreating into its shell.
+
+## The Democrats exceed expectations
+
+As [results ](https://www.economist.com/interactive/us-midterms-2022/results/senate)come in from America’s midterm elections, control of the Senate hangs in the balance. That is already a victory of sorts for Democrats. Though the party [looks likely ](https://www.economist.com/united-states/2022/11/07/why-a-republican-ripple-is-more-likely-than-a-red-wave) to lose its majority in the House, the fact that Democratic candidates have done well in seats like Virginia’s 7th district suggests that the job of the next Republican Speaker of the House will become much harder. 
+
+Normally in midterms the president’s party does badly. With inflation above 8% and President Joe Biden’s approval ratings sinking, it seemed a reasonable bet that Democrats would lose at least one Senate seat (and with it their narrow edge in the upper house). If Democrats do hold the Senate, that ought to damage Donald Trump. The former president’s endorsements saddled [Republicans](https://www.economist.com/graphic-detail/2022/11/09/a-disappointing-showing-for-the-republicans-in-the-midterms) with poor candidates in states like Pennsylvania and Georgia. The evidence that he is, in fact, a serial loser would grow stronger.
+
+## France’s new defence review
+
+Emmanuel Macron, France’s president, will be winched from a helicopter on to an attack submarine near the port of Toulon on Wednesday, after making a speech unveiling a national strategic review. The review, drafted after Russia’s invasion of Ukraine, will underline continuity in France’s approach to defence, including its ambition to strengthen “European strategic autonomy” in ways that are complementary to NATO, and its hopes of acting as what Mr Macron calls a “balancing power”. 
+
+The speech will include some novelties nonetheless. Mr Macron will announce the official end of [Operation Barkhane](https://www.economist.com/the-economist-explains/2022/02/14/what-have-french-forces-achieved-in-the-sahel), a French counter-terrorism effort in the north African Sahel. He will add “influence” to a list of the country’s national strategic functions, with the aim of combatting disinformation and asserting France’s interests. The annual budget for the armed forces in 2023 will increase by 7.4% to €43.9bn ($44.2bn). And Mr Macron will stress the need for increased national “resilience”—from robust armed forces to industrial preparedness—to face the risk of further high-intensity warfare in Europe.
 
 ## A new chief justice in India
 
@@ -68,7 +68,7 @@ Now that he has [finally ascended to the throne](https://www.economist.com/brita
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a1f0d4c8dbe4d2d1d3c4d2d2cee1c4c2cecfceccc8d2d58fc2cecc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which boxer won the 1960 Olympic light-heavyweight title, in Rome, but was then refused service in a Kentucky restaurant when he returned to America?
 
