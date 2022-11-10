@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 The head of the United Nations Development Programme told delegates at <strong>COP27</strong> that more than 50 of the world’s poorest countries were at risk of defaulting on their debt and needed urgent assistance to cope with the climate crisis. Meanwhile, the heads of several African governments said that they must be allowed to use fossil fuels to [lift their countries out of poverty](https://www.economist.com/middle-east-and-africa/2022/11/03/africa-will-remain-poor-unless-it-uses-more-energy).
 
-Israeli archeologists deciphered what might be the <strong>oldest written sentence</strong>: “May this tusk root out the lice of the hair and the beard.” It was scratched onto an ivory comb that was unearthed six years ago; the words were only recently noticed. This ancient wisdom was engraved in the Canaanite script, the first known alphabet, which dates from 2100-1500 BC.
+<strong>Elon Musk</strong> told <strong>Twitter </strong>employees at a meeting on Thursday that the [social-media firm](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last) is seeing a negative cash flow of several billion dollars, according to the <em>New York Times</em>. He reportedly alluded to bankruptcy. In an email to staff he nixed the company’s “work from home forever” policy and set a goal of getting half of Twitter’s revenue from subscriptions.
 
 <strong>Fact of the day: </strong>$770m, the value of the human hair exported by India last year, twice as much as in 2020. [Read the full story](https://www.economist.com/asia/2022/11/03/indias-hair-industry-is-in-a-tangle).
 
@@ -68,7 +68,7 @@ Allen’s rationale for collecting was admiration rather than investment. “You
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="81d0f4e8fbc4f2f1f3e4f2f2eec1e4e2eeefeeece8f2f5afe2eeec">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1f4e6a76655a6c6f6d7a6c6c705f7a7c70717072766c6b317c7072">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which rock star appeared with the word “slave” written on his face in protest at his recording contract?
 
