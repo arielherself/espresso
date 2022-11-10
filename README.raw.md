@@ -18,7 +18,7 @@ American <strong>stockmarkets</strong> leapt after lower-than-expected inflation
 
 <strong>Ukrainian</strong> troops pushed further towards the city of <strong>Kherson</strong> after [Russia said it would withdraw](https://www.economist.com/europe/2022/11/09/russia-says-it-is-abandoning-the-ukrainian-city-of-kherson) from the occupied regional capital. Ukraine’s forces recaptured 12 surrounding villages and towns including Snihurivka. Yet the country’s army chief said he could still not confirm that Russia was pulling out of Kherson city. Earlier, a high-level Ukrainian official said he saw “no signs that Russia is leaving Kherson without a fight”.
 
-Control of <strong>America’s Senate</strong> is on a knife edge after Tuesday’s [midterm elections](https://www.economist.com/united-states/2022/11/09/the-democrats-have-done-better-than-expected), with 48 of 100 seats currently held by each party. Georgia’s election will go to a run-off next month. The Democrats [need to win](https://www.economist.com/united-states/2022/11/09/the-democrats-have-done-better-than-expected) two of the three competitive seats yet to be called (the others being Arizona and Nevada) to keep their majority. The <strong>House of Representatives</strong> is likely to flip to the Republicans, but the [“red wave”](https://www.economist.com/united-states/2022/11/07/why-a-republican-ripple-is-more-likely-than-a-red-wave) they anticipated did not materialise.
+Control of <strong>America’s Senate</strong> remains on a knife edge after Tuesday’s [midterm elections](https://www.economist.com/united-states/2022/11/09/the-democrats-have-done-better-than-expected), but the path for Democrats has become clearer. The Democratic candidate holds the lead in Arizona, and postal ballots in Nevada also appear to be going Democrats’ way. In Georgia, another state yet to be called, the election will go to a run-off next month. The <strong>House of Representatives</strong> is likely to flip to the Republicans.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Allen’s rationale for collecting was admiration rather than investment. “You
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="81d0f4e8fbc4f2f1f3e4f2f2eec1e4e2eeefeeece8f2f5afe2eeec">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which rock star appeared with the word “slave” written on his face in protest at his recording contract?
 
