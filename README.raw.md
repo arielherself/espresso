@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>America’s </strong>annual <strong>inflation</strong> rate slowed to 7.7% in October, the lowest since January and below forecasts. Down from 8.2% in September, the cooling rate offers hope that some of America’s [steepest price increases in decades](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away) are easing. Investors were cheered by hopes that the Federal Reserve’s tightening will relax: the S&amp;P 500 leapt by over 4% and the tech-heavy NASDAQ Composite by more than 5%.
+American <strong>stockmarkets</strong> leapt after lower-than-expected inflation figures raised hopes that the Federal Reserve will [ease its tightening](https://www.economist.com/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). The big three indices each recorded their best day since 2020, with the tech-heavy NASDAQ Composite climbing by 7.4%. The S&amp;P 500 gained 5.5%. Annual <strong>inflation</strong> slowed to 7.7% in October, down from 8.2% in September.
 
 <strong>Joe Biden</strong> and <strong>Xi Jinping</strong> will meet in person on Monday, for the first time as presidents of [America and China](https://www.economist.com/leaders/2022/11/10/america-and-china-must-talk). The meeting will take place ahead of the G20 summit in Bali. In a statement the White House suggested the pair will discuss efforts to “maintain and deepen lines of communication” between America and China, as well as how to work together on “transnational challenges”. Earlier, Russian officials confirmed that President Vladimir Putin would not attend the G20 summit.
 
@@ -68,7 +68,7 @@ Allen’s rationale for collecting was admiration rather than investment. “You
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="94c5e1fdeed1e7e4e6f1e7e7fbd4f1f7fbfafbf9fde7e0baf7fbf9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which rock star appeared with the word “slave” written on his face in protest at his recording contract?
 
