@@ -32,18 +32,6 @@ Israeli archeologists deciphered what might be the <strong>oldest written senten
 
 ----------
 
-## What the midterms mean for business
-
-Corporate America likes gridlock. So although the[ Republican Party](https://www.economist.com/business/2022/08/15/republicans-are-falling-out-of-love-with-america-inc) did worse than expected in the midterms, assuming they take the House, business executives will not be moping. Divided government means no new corporation taxes or windfall levies from the Biden administration. It also means less public spending. That may help limit the rise in inflation<strong>—</strong>which data out on Thursday showed slowed slightly, to 7.7% annually in October. Thankfully for some industries, big spending bills on infrastructure, semiconductors and climate have already become law, meaning there is still plenty of money to feast upon.
-
-America Inc will not be spared from heavy-handed government, though. The GOP will lack the strength in Congress to thwart the White House’s efforts to push regulation to the left. And while Washington, DC, is in legislative paralysis, state governments will flex their muscles. These are increasingly ideological strongholds, and growing bossier towards business. Red states attack corporate “wokeness” while blue states demand environmental purity. There are big chasms for the private sector to straddle.
-
-## Russia abandons Kherson
-
-Thursday morning may seem like a new dawn for residents of Kherson, a city in southern Ukraine. Almost immediately after Russia invaded on February 24th there was heavy fighting in Kherson; its forces captured the city on March 2nd, and have held it ever since. In September, after a [sham referendum](https://www.economist.com/europe/2022/09/27/vladimir-putin-stages-four-fake-referendums-in-occupied-ukraine), the Kremlin illegally annexed Kherson province. But on Wednesday Russian officials announced a full military withdrawal from Kherson city and the area west of the Dnieper river.
-
-The physical withdrawal will not happen instantaneously—retreating under fire is one of the most challenging tasks any army can undertake. Many Ukrainians are sceptical that Russia is really prepared to go without a fight; some fear a ruse. Yet the public admission that its position there is untenable and must now be abandoned is a huge blow to Russia’s army. Kherson city was one of the few prizes that Russia had kept in eight months of war. It is also a huge opportunity for Ukrainian forces. Moving back into the city will bring parts of Crimea within range of longer-range rocket artillery.
-
 ## The Republican Party after the midterms
 
 As votes in America’s midterms continue to be counted, the Republicans look likely to narrowly [win](https://www.economist.com/podcasts/2022/09/30/what-would-republicans-do-with-a-majority-in-the-house-of-representatives) the House of Representatives. Control of the Senate may not be known for weeks, as the race in Georgia goes to a December run-off. The results were [closer than expected](https://www.economist.com/united-states/2022/11/09/the-democrats-have-done-better-than-expected). But a few portents stand out.
@@ -51,6 +39,18 @@ As votes in America’s midterms continue to be counted, the Republicans look li
 Republicans may have to temper their anti-abortion rhetoric. Voters chose to protect reproductive rights in a handful of states. Same for their denial of the 2020 election: many proponents of the “Big Lie” [lost statewide races](https://www.economist.com/united-states/2022/11/09/many-republican-election-deniers-lost-their-statewide-races). 
 
 In Washington, a Republican-controlled House will do little legislating and hold more made-for-television hearings. Unless Democrats raise the debt ceiling in the lame-duck session, Republicans may try to hold America’s credit rating (and the global economy) hostage to force spending concessions. And a narrow Republican majority would give the party’s far-right flank relatively greater power, meaning headaches for [Kevin McCarthy](https://www.economist.com/united-states/kevin-mccarthys-accidental-truthfulness/21808964), the presumptive Speaker. The next few months promise political deadlock—back to familiar territory.
+
+## Russia abandons Kherson
+
+Thursday morning may seem like a new dawn for residents of Kherson, a city in southern Ukraine. Almost immediately after Russia invaded on February 24th there was heavy fighting in Kherson; its forces captured the city on March 2nd, and have held it ever since. In September, after a [sham referendum](https://www.economist.com/europe/2022/09/27/vladimir-putin-stages-four-fake-referendums-in-occupied-ukraine), the Kremlin illegally annexed Kherson province. But on Wednesday Russian officials announced a full military withdrawal from Kherson city and the area west of the Dnieper river.
+
+The physical withdrawal will not happen instantaneously—retreating under fire is one of the most challenging tasks any army can undertake. Many Ukrainians are sceptical that Russia is really prepared to go without a fight; some fear a ruse. Yet the public admission that its position there is untenable and must now be abandoned is a huge blow to Russia’s army. Kherson city was one of the few prizes that Russia had kept in eight months of war. It is also a huge opportunity for Ukrainian forces. Moving back into the city will bring parts of Crimea within range of longer-range rocket artillery.
+
+## What the midterms mean for business
+
+Corporate America likes gridlock. So although the[ Republican Party](https://www.economist.com/business/2022/08/15/republicans-are-falling-out-of-love-with-america-inc) did worse than expected in the midterms, assuming they take the House, business executives will not be moping. Divided government means no new corporation taxes or windfall levies from the Biden administration. It also means less public spending. That may help limit the rise in inflation<strong>—</strong>which data out on Thursday showed slowed slightly, to 7.7% annually in October. Thankfully for some industries, big spending bills on infrastructure, semiconductors and climate have already become law, meaning there is still plenty of money to feast upon.
+
+America Inc will not be spared from heavy-handed government, though. The GOP will lack the strength in Congress to thwart the White House’s efforts to push regulation to the left. And while Washington, DC, is in legislative paralysis, state governments will flex their muscles. These are increasingly ideological strongholds, and growing bossier towards business. Red states attack corporate “wokeness” while blue states demand environmental purity. There are big chasms for the private sector to straddle.
 
 ## Britain’s winter of discontent
 
@@ -68,7 +68,7 @@ Allen’s rationale for collecting was admiration rather than investment. “You
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0e5f7b67744b7d7e7c6b7d7d614e6b6d61606163677d7a206d6163">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which rock star appeared with the word “slave” written on his face in protest at his recording contract?
 
