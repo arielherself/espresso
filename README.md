@@ -22,11 +22,11 @@
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Twitter </strong>paused selling users the ability to [“verify” their account](https://te.arielherself.xyz/business/2022/11/03/will-people-pay-8-a-month-for-twitter) for $7.99 a month after a large number impersonated brands and celebrities. The new feature—Elon Musk’s first innovation since taking over the social-media network—was launched on Wednesday and disabled a day later, according to the <em>Washington Post</em>. Mr Musk has said he wants half of Twitter’s revenue to come from paying subscribers rather than advertisers.
+
+<strong>Britain’s</strong> foreign ministry summoned the <strong>Iranian</strong> chargé d’affaires over reports that two British-Iranian journalists in London had received threats from the Islamic Revolutionary Guards Corps. Iran International, a Farsi-language news outlet based in Britain, said the police had warned two of its reporters that they faced “imminent, credible and significant risk to their lives” for reporting on [Iran’s protests](https://te.arielherself.xyz/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue).
+
 Turkish prosecutors demanded that <strong>Istanbul’s mayor</strong> be <strong>jailed</strong> for at least 15 months for describing as “idiots” election officials allied with President Recep Tayyip [Erdogan](https://te.arielherself.xyz/culture/2022/11/03/recep-tayyip-erdogan-has-given-istanbul-a-controversial-makeover). They had stripped him of an election victory in 2019. Ekrem Imamoglu, who comfortably won a later election, was put on trial for “insulting” public officials. If convicted, Mr Imamoglu will be banned from holding office during his sentence.
-
-<strong>China </strong>[loosened](https://te.arielherself.xyz/finance-and-economics/2022/11/09/financial-markets-bet-on-an-end-to-chinas-zero-covid-policy) aspects of its punishing <strong>zero-covid policy</strong> on Friday, shortening quarantine periods and abandoning its effort to track secondary contacts. Asian stockmarkets, already already excited by a drop in American inflation, jumped for joy. Meanwhile, Chinese authorities counted more than 10,000 new infections (the vast majority of them asymptomatic), more than at any point [since April](https://te.arielherself.xyz/china/shanghais-covid-19-lockdown-is-not-even-close-to-over/21809221). Guangzhou and some other cities remain locked down.
-
-<strong>Donald Trump </strong>bristled at <strong>Ron DeSantis’s</strong> resounding re-election this week as Florida’s governor. The former president dismissed his one-time ally as a “lightweight”, adding that Mr DeSantis had been in “desperate shape” during his first campaign in 2017—until Mr Trump deigned to turn it around with a magnanimous single-hand. A [fierce rivalry](https://te.arielherself.xyz/united-states/2022/11/09/the-rise-of-ron-desanctimonious) is emerging for the Republicans’ 2024 presidential nomination.
 
 <strong>Fact of the day: </strong>94%, the drop in wealth of Sam Bankman-Fried, a crypto entrepreneur, in a day, from $26bn to less than $1bn—the biggest single-day fall on record. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried).
 
@@ -66,7 +66,7 @@ His latest film, “No Bears”, shot in secret before his arrest and released i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3d6c485447784e4d4f584e4e527d585e52535250544e49135e5250">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="97c6e2feedd2e4e7e5f2e4e4f8d7f2f4f8f9f8fafee4e3b9f4f8fa">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Friday: </strong>Which actress married nine times, with husbands including the designer of the Barbie doll and the founder of the Hilton hotel chain?  
 <strong>  
