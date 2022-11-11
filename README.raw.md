@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Russia’s </strong>defence ministry said it had completed a full withdrawal of troops from the western bank of the Dnieper river in Ukraine’s <strong>Kherson</strong> province. A Ukrainian flag has been raised in [Kherson city](https://www.economist.com/europe/2022/11/09/russia-says-it-is-abandoning-the-ukrainian-city-of-kherson), the regional capital, and there are unconfirmed reports that Ukrainian forces have now entered it. The Antonivskiy bridge, connecting Kherson city to the new Russian defensive line, collapsed.
+<strong>Ukrainian </strong>troops entered the city of <strong>Kherson</strong> as Russian forces retreated from it. Ukrainian flags were raised in the regional capital. Earlier<strong>, Russia’s </strong>defence ministry said it had completed a full withdrawal of troops from the western bank of the Dnieper river in Ukraine’s Kherson province. The Antonivskiy bridge, connecting Kherson city to the new Russian defensive line, collapsed.
 
 <strong>Stockmarkets</strong> leapt after lower-than-expected inflation figures raised hopes that America’s Federal Reserve will [ease monetary tightening](https://www.economist.com/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). Wall Street’s big three indices each recorded their best day since 2020, with the tech-heavy NASDAQ Composite climbing by 7.4%, the S&amp;P 500 by 5.5% and the Dow by 3.7%. Annual <strong>inflation</strong> was reported to have slowed to 7.7% in October, down from 8.2% in September.
 
@@ -66,7 +66,7 @@ His latest film, “No Bears”, shot in secret before his arrest and released i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f9a88c9083bc8a898b9c8a8a96b99c9a96979694908a8dd79a9694">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7c2d091506390f0c0e190f0f133c191f13121311150f08521f1311">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Friday: </strong>Which actress married nine times, with husbands including the designer of the Barbie doll and the founder of the Hilton hotel chain?  
 <strong>  
