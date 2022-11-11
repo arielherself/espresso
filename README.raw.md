@@ -14,11 +14,11 @@
 
 <strong>Ukrainian </strong>troops entered the city of <strong>Kherson</strong> as Russian forces retreated from it. Ukrainian flags were raised in the regional capital. Earlier<strong>, Russia’s </strong>defence ministry said it had completed a full withdrawal of troops from the western bank of the Dnieper river in Ukraine’s Kherson province. The Antonivskiy bridge, connecting Kherson city to the new Russian defensive line, collapsed.
 
+<strong>FTX</strong>, until recently one of the world’s largest crypto exchanges, filed for Chapter 11 <strong>bankruptcy</strong> after suffering a liquidity crunch. [Sam Bankman-Fried](https://www.economist.com/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried), its founder, resigned as chief executive. Earlier in the week Binance, a bigger exchange, withdrew from talks to buy out FTX, which had failed to meet withdrawal requests of up to $8bn. Crypto prices crashed.
+
 <strong>Stockmarkets</strong> leapt after lower-than-expected inflation figures raised hopes that America’s Federal Reserve will [ease monetary tightening](https://www.economist.com/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). Wall Street’s big three indices each recorded their best day since 2020, with the tech-heavy NASDAQ Composite climbing by 7.4%, the S&amp;P 500 by 5.5% and the Dow by 3.7%. Annual <strong>inflation</strong> was reported to have slowed to 7.7% in October, down from 8.2% in September.
 
 <strong>China </strong>[loosened](https://www.economist.com/finance-and-economics/2022/11/09/financial-markets-bet-on-an-end-to-chinas-zero-covid-policy) aspects of its punishing <strong>zero-covid policy</strong> on Friday, shortening quarantine periods and abandoning its effort to track secondary contacts. Asian stockmarkets, already excited about the American inflation figures, jumped for joy. Meanwhile Chinese authorities counted more than 10,000 new infections (the vast majority of them asymptomatic), more than at any point [since April](https://www.economist.com/china/shanghais-covid-19-lockdown-is-not-even-close-to-over/21809221). Guangzhou and some other cities remain locked down.
-
-Regulators in [the Bahamas](https://www.economist.com/finance-and-economics/2016/09/08/the-holdout) froze assets belonging to <strong>FTX</strong>, until very recently the world’s third-largest crypto exchange. In a series of tweets its founder, [Sam Bankman-Fried](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing), vowed to repay users of FTX, which was pulverised in a liquidity crunch after <strong>Binance</strong>, a bigger exchange, withdrew from [talks to buy it out](https://www.economist.com/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried). Crypto prices everywhere crashed and a lender, <strong>BlockFi</strong>, blocked withdrawals.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ His latest film, “No Bears”, shot in secret before his arrest and released i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="abfadec2d1eed8dbd9ced8d8c4ebcec8c4c5c4c6c2d8df85c8c4c6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Friday: </strong>Which actress married nine times, with husbands including the designer of the Barbie doll and the founder of the Hilton hotel chain?  
 <strong>  
