@@ -12,79 +12,105 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukrainian </strong>troops entered the city of <strong>Kherson</strong> as Russian forces retreated from it. Ukrainian flags were raised in the regional capital. Earlier<strong>, Russia’s </strong>defence ministry said it had completed a full withdrawal of troops from the western bank of the Dnieper river in Ukraine’s Kherson province. The Antonivskiy bridge, connecting Kherson city to the new Russian defensive line, collapsed.
+The Associated Press called the <strong>Arizona </strong>Senate race for Mark Kelly, the Democratic incumbent. The result means the Democrats need to win just one of the two remaining uncalled midterm counts to maintain control of the upper chamber: Nevada remains too close to call while Georgia has gone to a December run-off. Mr Kelly beat Blake Masters, who was endorsed by Donald Trump. The former president’s picks have had [miserable midterms](https://te.arielherself.xyz/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger).
+
+<strong>Ukrainian </strong>troops entered the city of <strong>Kherson</strong> as Russian forces [retreated from it](https://te.arielherself.xyz/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson). Ukrainian flags were raised in the regional capital. Earlier,<strong> Russia’s </strong>defence ministry said it had completed a full withdrawal of troops from the western bank of the Dnieper river in Ukraine’s Kherson province. The Antonivskiy bridge, connecting Kherson city to the new Russian defensive line, collapsed.
 
 <strong>FTX</strong>, until recently one of the world’s largest crypto exchanges, filed for Chapter 11 <strong>bankruptcy</strong> after suffering a liquidity crunch. [Sam Bankman-Fried](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried), its founder, resigned as chief executive. Earlier in the week Binance, a bigger exchange, withdrew from talks to buy out FTX, which had failed to meet withdrawal requests of up to $8bn. Crypto prices crashed.
 
-<strong>SoftBank Group</strong> reported its first quarterly profit—of ¥3trn ($21bn)—after three [loss-making quarters](https://te.arielherself.xyz/business/2022/05/16/after-a-bruising-year-softbank-braces-for-more-pain), thanks to a selldown of its stake in Alibaba, a Chinese e-commerce firm. But SoftBank’s giant Vision Funds wrote down by ¥1.4tn the value of their tech investments. Son Masayoshi said he would step away from day-to-day management of the Japanese telecoms-and-software firm to focus on Arm, the British chipmaker it acquired in 2016.
-
-<strong>President Joe Biden</strong> told attendees of <strong>COP27</strong> in Egypt that climate change threatens “the very life of the planet” and promised that America was on track to cut its greenhouse-gas emissions by at least 50% from 2005 levels by 2030. Reactions to Mr Biden’s speech were mixed. Germany’s climate envoy praised his “positive signals”. Other observers criticised his administration’s lack of international climate-finance commitments.
+<strong>President Joe Biden</strong> told attendees of <strong>COP27</strong> in Egypt that [climate change](https://te.arielherself.xyz/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target) threatens “the very life of the planet” and promised that America was on track to cut its greenhouse-gas emissions by at least 50% from 2005 levels by 2030. Reactions to Mr Biden’s speech were mixed. Germany’s climate envoy praised his “positive signals”. Other observers criticised his administration’s lack of international climate-finance commitments.
 
 Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Twitter </strong>stopped allowing users to [“verify” their account](https://te.arielherself.xyz/business/2022/11/03/will-people-pay-8-a-month-for-twitter) for $7.99 per month after a large number impersonated brands and celebrities. The new feature—Elon Musk’s first innovation since taking over the social-media network—was launched on Wednesday and disabled a day later, according to the <em>Washington Post</em>. Mr Musk has said he wants half of Twitter’s revenue to come from paying subscribers rather than advertisers.
 
+The <em>Majestic Princess</em>, a cruise ship owned by Carnival, docked in Sydney after 800 passengers and crew—about 20% of those on board—came down with <strong>covid-19</strong>. The cases are largely mild or asymptomatic, according to the firm. In 2020 a similar outbreak aboard another Carnival ship, the <em>Diamond Princess</em>, resulted in thousands of passengers being [trapped at sea](https://te.arielherself.xyz/1843/2020/04/22/the-coronavirus-cruise-on-board-the-diamond-princess) with what was then a much more deadly virus.
+
 <strong>Britain’s</strong> foreign ministry summoned the <strong>Iranian</strong> <em>chargé d’affaires</em> over reports that two British-Iranian journalists in London had received threats from the Islamic Revolutionary Guards Corps. Iran International, a Farsi-language news outlet based in Britain, said the police had warned two of its reporters that they faced “imminent, credible and significant risk to their lives” for reporting on [Iran’s protests](https://te.arielherself.xyz/middle-east-and-africa/2022/10/12/despite-lethal-repression-irans-protests-continue).
 
-Turkish prosecutors demanded that <strong>Istanbul’s mayor</strong> be <strong>jailed</strong> for at least 15 months for describing as “idiots” election officials allied with President Recep Tayyip [Erdogan](https://te.arielherself.xyz/culture/2022/11/03/recep-tayyip-erdogan-has-given-istanbul-a-controversial-makeover). They had stripped him of an election victory in 2019. Ekrem Imamoglu, who comfortably won a later election, was put on trial for “insulting” public officials. If convicted, Mr Imamoglu will be banned from holding office during his sentence.
-
-<strong>Fact of the day: </strong>94%, the drop in wealth of Sam Bankman-Fried, a crypto entrepreneur, in a day, from $26bn to less than $1bn—the biggest single-day fall on record. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried).
+<strong>Word of the week:</strong> <em>Acquis communautaire</em>, the body of all EU laws, treaties and standards that candidate countries must adopt upon accession to the bloc. Consider the term part of [Eurospeak](https://te.arielherself.xyz/europe/2022/11/10/how-brussels-sprouted-its-own-unique-dialect).
 
 ----------
 
-## A sombre Singles’ Day in China
+## So long, Kherson
 
-“Singles’ Day”, an informal holiday in China that falls on Friday, began as a celebration of those unlucky in love (the date, 11/11, symbolises four single people). Then, over a decade ago Alibaba, an e-commerce giant, helped turn the day into a shopping event. Today most online retailers in China offer sales during the festival and millions of Chinese people splurge on e-commerce websites. But this year the world’s biggest online shopping day will probably be smaller than in 2021.
+After months of moving at a glacial pace, the front lines of the war in Ukraine are now shifting at breakneck speed. Ukrainian forces are rushing forward to fill the apparent vacuum left by Russia’s army on the west bank of the Dnieper river. Russia had announced on Wednesday that it would retreat from the area to save its forces from destruction. 
 
-Harsh covid restrictions in China have [dampened consumer sentiment](https://te.arielherself.xyz/china/2022/06/09/it-will-take-time-for-chinas-consumers-to-recover-from-lockdown). For the first time in 14 years the value of Alibaba’s sales on Singles’ Day may fall, from a record 540bn yuan (then $85bn) last year to 532bn yuan, according to estimates from Bloomberg. Sporadic lockdowns across the country may even disrupt the logistics networks needed to deliver the goods. Most countries have learned to live with covid. China is doing anything but. 
+On Friday Ukrainian troops arrived in the centre of Kherson, [liberating it](https://te.arielherself.xyz/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson) after eight months of occupation. They were greeted by cheering locals. The area is thought to have been heavily mined and booby-trapped, so it may be a while before it is fully in Ukraine’s hands. Even so, the seeming speed of Russia’s retreat has taken observers by surprise: some expected it would take days, if not weeks. The Kremlin is trying to insist that the move is a temporary farewell rather than a permanent goodbye. Ukraine’s next target may be Zaporizhia province to the east—part of Russia’s land bridge to Crimea.
 
-## The carbon budget crunch
+## A South-East Asian club struggles for relevance
 
-According to the Intergovernmental Panel on Climate Change, 2.9trn tonnes of carbon dioxide is the most that can accumulate in the atmosphere for there to be a reasonable chance of avoiding temperature rises beyond 1.5°C above pre-industrial levels. The “budget” for 2°C is 3.7trn tonnes. By 2019 around 2.4trn tonnes had already been released. 
+The ten-country Association of South-East Asian Nations (ASEAN) is meeting in Phnom Penh, Cambodia’s capital, until Sunday. This is its first in-person summit since the pandemic. This year’s theme is “Addressing Challenges Together”. The idea is laudable but other-worldly: ASEAN’s challenges are mostly insurmountable. The club has proved incapable of influencing the ruthless junta in Myanmar, an ASEAN member. Nor does it seem able to do much about the growing rivalry in the region [between America and China](https://te.arielherself.xyz/leaders/2022/11/10/america-and-china-must-talk). 
 
-On Friday the Global Carbon Project, a scientific consortium, released its annual report on carbon emissions and how much the world has left to “spend”. Its calculation is depressing. This year global emissions rose by 1% compared with 2021, to their highest-ever level. 
+Still, it counts as a small ASEAN win that President Joe Biden will attend its key forum, the East Asia Summit, on Saturday, before heading to Bali in Indonesia for the G20 (and a meeting with Xi Jinping, his Chinese counterpart). America will be made a “comprehensive strategic partner” of ASEAN, a distinction granted to China a year ago. This will help ASEAN maintain its mantra of “centrality”, staying at least somewhat relevant to the superpowers duking it out.
 
-There are now just 380bn tonnes of carbon dioxide left in the bank for 1.5°C, or 1.2trn tonnes for 2°C: equivalent to nine and 30 years’ emissions, respectively, at current rates. This should galvanise negotiators gathered in Egypt for COP27, the UN’s climate summit. They must move to slash emissions now, rather than promise to cut them in the future. And they must start thinking seriously about what to do when [the budget runs out](https://te.arielherself.xyz/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target).
+## A new generation for men’s tennis
 
-## Visions of a new world at the Paris Peace Forum
+​​Tennis aficionados have been awaiting a generational change for years, only to find that young players are unable to dislodge the veteran trio of [Roger Federer](https://te.arielherself.xyz/culture/2022/09/22/sports-writers-will-miss-roger-federer-as-much-as-his-fans-will), Rafael Nadal and Novak Djokovic. But the baton may well pass this year. Mr Federer retired in September. Mr Nadal and Mr Djokovic this year won their now customary French Open and Wimbledon titles, but the challengers are coming. 
 
-Many Ukrainians mistrust France’s president, Emmanuel Macron, because until recently he has persisted in talking overtly to Russia’s president, Vladimir Putin. But in a speech at the UN in September, Mr Macron explained that his desire for dialogue was part of a search for a new multilateral global order. On Friday he will expound on that vision at the Paris Peace Forum, an annual talking shop in the French capital.
+There is already a new world number one, [Carlos Alcaraz](https://te.arielherself.xyz/culture/2022/05/20/carlos-alcaraz-may-be-the-man-to-usurp-tenniss-big-three-at-last), a 19-year-old Spaniard who was majestic in winning the US Open in September. Twelve months ago Mr Alcaraz won the ATP’s Next Generation event, a short tournament open to the highest-ranked players aged 21 and under. The final of the 2022 event takes place on Saturday. Mr Alcaraz and fellow rising stars Holger Rune and Jannik Sinner are taking a breather, but finalists Brandom Nakashima and Jiri Lehecka look solid bets to become future top-ten players.
 
-There will, inevitably, be much discussion about how to bring the war in Ukraine to an end. But the forum—slogan: “Riding out the multi-crisis”—will place the conflict alongside other problems such as climate change, food security, covid-19 and internet governance. This is reflected in its list of speakers and panellists, which includes big names from Africa, such as Umaro Sissoco Embaló, the president of Guinea-Bissau, and Asia, such as Kishore Mahbubani, a former Singaporean diplomat. [Mr Putin](https://te.arielherself.xyz/interactive/international/2022/10/24/vladimir-putin-is-dragging-the-world-back-to-a-bloodier-time) also likes to talk about a new multipolar world. The version that will be presented in Paris seems more benign.
+## The polka-dot princess in Hong Kong
 
-## Latin America searches for a development banker
+M+, a contemporary-art museum in Hong Kong, celebrates its first anniversary with a huge retrospective opening on Saturday. “Yayoi Kusama: 1945 to Now” features more than 200 works by the Japanese sculptor and installation artist drawn from museums and private collections in America, Asia and Europe. It explores questions of life and death, and considers how Ms Kusama, now 93, became a cultural icon to fans a quarter her age.
 
-Nominations close on Friday for one of Latin America’s top jobs. The Inter-American Development Bank lends about $14bn a year [in the region](https://te.arielherself.xyz/special-report/2022/06/16/a-region-that-seems-unable-to-reach-its-potential), and advises governments on projects and reforms. In 2020 Donald Trump’s administration defied a convention that the bank’s president should be Latin American and cajoled enough votes to install Mauricio Claver-Carone, an official from America’s National Security Council. Mr Claver-Carone promised improvements, but alienated many shareholders. In September the board sacked him for having an affair with his chief-of-staff, whose salary he had raised (he denies the allegations).   
-  
- This time Latin America’s governments have put forward strong local candidates. Brazil and Mexico have proposed their central bankers (Ilan Goldfajn and Gerardo Esquivel, respectively). Chile’s candidate is Nicolás Eyzaguirre, a former finance minister. Sergio Massa, Argentina’s economy minister, is keen, though he would struggle to leave his current post given what he calls his country’s “critical” economic situation. Much horse-trading may lie ahead before the board chooses the new president on November 20th.
+With her pieces regularly fetching more than $1m at auction, “the princess of polka dots” is Japan’s most successful living artist. She created mirrored “Infinity Rooms”, which [draw huge crowds](https://te.arielherself.xyz/books-and-arts/2021/04/15/a-change-in-how-people-consume-contemporary-art-is-under-way) wherever they appear. Famous for her spotted paintings, strawberry-red bob and, as of late, a polka-dot wheelchair, she checked into a psychiatric institution in Tokyo in 1977 and has lived there ever since. With her quirkiness and mass appeal, Ms Kusama, says the chief curator of M+, “is the ultimate outsider and the ultimate insider”.
 
-## Storytelling amid censorship in Iran
+## Weekend profile: Alaa Abd el-Fattah, Egypt’s prisoner of conscience
 
-In October a fire engulfed Evin, Iran’s [most notorious prison](https://te.arielherself.xyz/middle-east-and-africa/2022/10/18/irans-protests-spread-as-a-notorious-prison-burns). The blaze threatened the lives of thousands of inmates, including one of the country’s most prominent directors. Jafar Panahi—who in 2010 was accused of “propaganda against the system” and forbidden from making films or leaving Iran—is one of many film-makers the regime has trapped through house arrests, travel bans or imprisonment. He continued to create and made the internationally acclaimed “Taxi” (2015) and “3 Faces” (2018). In July Mr Panahi was sentenced to six years’ behind bars.
+In 2011 [Alaa Abd el-Fattah](https://te.arielherself.xyz/the-economist-explains/2022/11/09/who-is-alaa-abd-el-fattah) turned 30 in a Cairo jail. He spent his 40th birthday behind bars, too. In fact, the human-rights activist has marked many of life’s milestones from inside a cell: his son’s birth, his father’s death. Again in custody, he is Egypt’s most high-profile [political prisoner](https://te.arielherself.xyz/middle-east-and-africa/2022/07/18/egypt-locks-up-terrorists-but-wont-say-which-terror-group-they-belong-to)—and a source of international embarrassment to its thuggish government.
 
-His latest film, “No Bears”, shot in secret before his arrest and released in British cinemas on Friday, draws on his own trials to produce a deft (and surprisingly funny) meta-narrative. Mr Panahi plays himself in this film-about-a-film, which is set either side of Iran’s border with Turkey. By blurring the line between fact and fiction, “No Bears” offers a moving portrait of what it is like to live, and make art, in the face of repression.
+Egypt had hoped to use COP27, the UN climate conference taking place in Sharm el-Sheikh, to polish its image. But Mr Abd el-Fattah, who recently escalated a months-long hunger strike by refusing water, is making that impossible. America’s president, Joe Biden, raised Mr Abd el-Fattah’s case with his Egyptian counterpart on Friday. Many other leaders and luminaries have called for his release.
 
-## Daily quiz
+Mr Abd el-Fattah was born to Egyptian intellectuals with an activist bent. Imprisonment prevented his father from attending the birth of his daughter, the beginning of a dark family tradition. Mr Abd el-Fattah’s first taste of protest came in 2005, when Egyptians decried election-rigging by the government of Hosni Mubarak, the dictator who ruled from 1981 to 2011. By 2011, when the Arab spring swept the Middle East, Mr Abd el-Fattah had become a leader of Egypt’s uprising. After General Abdel-Fattah al-Sisi helped topple a democratically elected government in 2013 he was arrested again, for allegedly organising against a new law banning protests. He has since spent most of his time in prison.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2574504c5f605655574056564a6540464a4b4a484c56510b464a48">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
-  
-<strong>Friday: </strong>Which actress married nine times, with husbands including the designer of the Barbie doll and the founder of the Hilton hotel chain?  
-<strong>  
- Thursday:</strong> Which rock star appeared with the word “slave” written on his face in protest at his recording contract?
+Mr Abd el-Fattah’s confrontation with the Egyptian regime may now be reaching a climax. In December he received a five-year prison sentence for “undermining national security”. He has been on hunger strike for more than 200 days and has refused water since last weekend. On Thursday his sister said authorities had started a “medical intervention”. The government is happy to let him die, she insisted, but not “while the world is watching”. All the more reason to pay attention.
 
-## The winners of last week’s crossword
+## Weekly crossword
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random from each continent, were:   
-  
- Asia: Anand Mahajan, Mumbai, India  
- North America: Jess Parks, Menlo Park, California, America  
- Central and South America: Sebastian Agudelo-Restrepo, Santo Domingo, Dominican Republic  
-  
- Europe: Yuliya Gorelkina Hürlimann, Bern, Switzerland   
- Africa: Hasit Raja, Nairobi, Kenya  
- Oceania: Kevin Fernandez, Melbourne, Australia  
-  
- They all gave the correct answers of [conglomerate](https://te.arielherself.xyz/leaders/2022/11/03/big-tech-big-trouble), [credit](https://te.arielherself.xyz/the-americas/2022/11/03/lulas-foreign-policy-ambitions-will-be-tempered-by-circumstances), [ozone](https://te.arielherself.xyz/science-and-technology/2022/11/02/americas-defence-department-is-looking-for-rogue-geoengineers) and [Europe](https://te.arielherself.xyz/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation). Check back tomorrow for this week’s crossword.
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+
+Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
+
+<strong>November 12th edition</strong>
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>Perhaps the most chuffed politician in America (3,8)
+
+<em>1 across </em>What’s happening to Meta’s system (6)
+
+<em>2 across</em> A buttery, nutty brittle (5)
+
+<em>3 across </em>A Pakistani more biddable than Imran Khan? (6)
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Republican star? No: snide twister (3,8)
+
+<em>1 across</em> Fire once more to start again? (6)
+
+<em>2 across </em>Persian sweet is very Chinese (5)
+
+<em>3 across</em> Afresh, I mingled without ecstasy, but met prime minister (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
+
+Asia: <strong>Kobchai Kingchatchaval</strong>, Bangkok, Thailand 
+
+North America: <strong>Bob Bedier</strong>, Vancouver, Canada
+
+Central and South America: <strong>Ramon Azpurua</strong>, Caracas, Venezuela 
+
+Europe: <strong>Eleanor Smith</strong>, Cambridge, Britain
+
+Africa: <strong>Madeleine Wackernagel</strong>, Naro Moru, Kenya
+
+Oceania: <strong>Kieran Donoghue</strong>, Melbourne, Australia
+
+They all gave the correct answers of David Bowie, Harper Lee, Muhammad Ali (he was Cassius Clay in 1960), Prince and Zsa Zsa Gabor. The theme is that they all died in 2016, a year that was famously deadly for celebrities
 
 ----------
 
