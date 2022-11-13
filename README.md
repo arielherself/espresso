@@ -12,13 +12,13 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The <strong>Democrats</strong> retained control of the <strong>Senate</strong> after Catherine Cortez Masto was elected for a Nevada seat. That gives the party 50 seats in the upper house, with only Georgia, which has gone to a run-off, still to declare. Ms Cortez Mastro beat Adam Laxalt, a Donald Trump-endorsed Republican, emphasising what a [torrid midterms](https://te.arielherself.xyz/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger) the former president’s picks have endured.
+The <strong>Democrats</strong> retained control of the <strong>Senate</strong> after Catherine Cortez Masto was elected for a Nevada seat. That gives the party 50 seats in the upper house, with only Georgia, which has gone to a run-off, still to declare. Ms Cortez Masto beat Adam Laxalt, a Donald Trump-endorsed Republican, emphasising what a [torrid midterms](https://te.arielherself.xyz/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger) the former president’s picks have endured.
 
 The result followed that in <strong>Arizona</strong>, in which Mark Kelly, the Democratic incumbent, beat Blake Masters, another Trump endorsee. The Republicans, however, still look favourites to flip the House of Representatives, although with a smaller majority than they had originally hoped for. With some vote-counts proceeding at a glacial pace, the full results for the lower chamber may not be known for days.
 
 <strong>Israel’s</strong> president, Isaac Herzog, gave <strong>Binyamin Netanyahu</strong>, a former prime minister, a mandate to form a new government. In an election on November 1st a pro-Netanyahu bloc won 64 out of 120 seats in the Knesset. Mr Natanyahu’s [government](https://te.arielherself.xyz/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics) is expected to include far-right and religious parties including the Jewish Power party led by [Itamar Ben-Gvir](https://te.arielherself.xyz/the-economist-explains/2022/11/03/who-is-itamar-ben-gvir-israels-kingmaker), an extremist long excluded from mainstream politics.
 
-Turkey’s vice-president, Fuat Oktay, said an explosion in <strong>Istanbul</strong>, which killed six people and injured more than 50, was thought to have been a terrorist attack carried out by a woman. Videos show flames and a loud bang on Istiklal Avenue, a shopping street which is popular with locals and tourists.
+Turkey’s vice-president, Fuat Oktay, said an explosion in <strong>Istanbul</strong>, which killed six people and injured more than 80, was thought to have been a terrorist attack carried out by a woman. Videos show flames and a loud bang on Istiklal Avenue, a shopping street which is popular with locals and tourists.
 
 Listen to an abridged version of the subscriber-only briefing.
 
