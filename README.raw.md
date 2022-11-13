@@ -18,7 +18,7 @@ The result followed that in <strong>Arizona</strong>, in which Mark Kelly, the D
 
 <strong>Israel’s</strong> president, Isaac Herzog, gave <strong>Binyamin Netanyahu</strong>, a former prime minister, a mandate to form a new government. In an election on November 1st a pro-Netanyahu bloc won 64 out of 120 seats in the Knesset. Mr Natanyahu’s [government](https://www.economist.com/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics) is expected to include far-right and religious parties including the Jewish Power party led by [Itamar Ben-Gvir](https://www.economist.com/the-economist-explains/2022/11/03/who-is-itamar-ben-gvir-israels-kingmaker), an extremist long excluded from mainstream politics.
 
-Turkey’s vice-president, Fuat Oktay, said an explosion in <strong>Istanbul</strong>, which killed six people and injured more than 50, was thought to have been caused by a female suicide bomber. Videos show flames and a loud bang on Istiklal Avenue, a shopping street which is popular with locals and tourists.
+Turkey’s vice-president, Fuat Oktay, said an explosion in <strong>Istanbul</strong>, which killed six people and injured more than 50, was thought to have been a terrorist attack carried out by a woman. Videos show flames and a loud bang on Istiklal Avenue, a shopping street which is popular with locals and tourists.
 
 Listen to an abridged version of the subscriber-only briefing.
 
