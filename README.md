@@ -32,7 +32,7 @@ The <strong>Ethiopian government</strong> and rebels from the <strong>Tigray</st
 
 ----------
 
-## Bali’s battery bonanza gets underway
+## Bali’s battery bonanza gets under way
 
 In the days before the G20 summit of global leaders kicks off on Tuesday, Indonesia, the host country, has a rare chance to market its business opportunities to the world. The “B20” summit, organised by the Indonesian Chamber of Commerce and Industry, gets under way in Bali on Sunday.
 
