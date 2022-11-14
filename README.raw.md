@@ -60,7 +60,7 @@ The most substantive[ climate commitment](https://www.economist.com/leaders/2022
 
 These are busy times for the Reserve Bank of India. As the rupee has depreciated against the dollar, reaching a record low in October, the central bank has intervened to stem the slide, burning through about $112bn of foreign-exchange reserves. It has also launched a pilot for a digital rupee, a [central-bank digital currency](https://www.economist.com/special-report/2022/04/20/how-central-banks-are-moving-into-e-money). 
 
-The RBI’s biggest task, however, remains tackling inflation. Data for October, due on Monday, are likely to reveal an annual inflation rate of about 6.7%. That would be an improvement over the 7.4% recorded in September, but still above the target range of 2-6%. 
+Data for October, released on Monday, revealed an annual inflation rate of about 6.8%. That is an improvement over the 7.4% recorded in September, but still above the target range of 2-6%. 
 
 Rising prices have been driven by soaring [food costs](https://www.economist.com/graphic-detail/2022/10/07/food-prices-are-outpacing-wider-inflation-across-most-of-the-world), which account for nearly half of India’s consumer-price index. But inflationary pressure may now be easing as global food inflation has slowed. The RBI’s governor is bullish: Shaktikanta Das believes that India’s fundamentals are strong, and the central bank’s regime of raising interest rates—up by 1.9 percentage points since April and expected to rise again in December—is working.
 
@@ -72,7 +72,7 @@ Some of the Duttons’ defence is done with assault rifles. But the family deplo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2372564a59665053514650504c6346404c4d4c4e4a50570d404c4e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Monday: </strong>Which painter, a close associate of the writer Lytton Strachey, was portrayed by Emma Thompson in a 1995 biopic?
 
