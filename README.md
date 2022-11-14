@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-President<strong> Joe Biden</strong> rejected the idea of a “new Cold War” with China and said he believed Taiwan faced no “imminent” threat of invasion. The remarks came after a three-hour meeting with his Chinese counterpart, <strong>Xi Jinping,</strong> ahead of the [G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Indonesia. Antony Blinken, America’s secretary of state, will visit Beijing early next year to follow up on the talks. 
+President<strong> Joe Biden</strong> rejected the idea of a “new cold war” with China and said he believed Taiwan faced no “imminent” threat of invasion. The remarks came after a three-hour meeting with his Chinese counterpart, <strong>Xi Jinping,</strong> ahead of the [G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Indonesia. Antony Blinken, America’s secretary of state, will visit Beijing early next year to follow up on the talks. 
 
-<strong>Ukraine’s</strong> president, Volodymyr Zelensky, visited the [liberated](https://te.arielherself.xyz/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson) city of <strong>Kherson</strong> and addressed a crowd gathered in the main square. Mr Zelensky reportedly said that Ukraine was “ready for peace”. Earlier he said that investigators have documented more than 400 war crimes committed by Russian troops around the city. Ukraine has also accused Russia of laying mines around critical infrastructure.
+<strong>Ukraine’s</strong> president, Volodymyr Zelensky, [visited](https://te.arielherself.xyz/europe/2022/11/14/kherson-celebrates-liberation-and-a-visit-from-volodymyr-zelensky) the [liberated](https://te.arielherself.xyz/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson) city of <strong>Kherson</strong> and addressed a crowd gathered in the main square. Mr Zelensky reportedly said that Ukraine was “ready for peace”. Earlier he said that investigators have documented more than 400 war crimes committed by Russian troops around the city. Ukraine has also accused Russia of laying mines around critical infrastructure.
 
 <strong>Amazon </strong>will lay off around 10,000 employees in its technology, human resources and retail divisions, according to the <em>New York Times</em>. The redundancies, slated to begin this week, represent 3% of the e-commerce giant’s workforce and the largest such cut in its history. It follows similar moves by [Meta](https://te.arielherself.xyz/graphic-detail/2022/11/07/meta-will-lay-off-13-of-its-workforce), Twitter and Lyft, as America’s<strong> big tech</strong> industry grapples with the possibility of a looming recession.
 
@@ -40,14 +40,6 @@ President Joe Biden and his Chinese counterpart, Xi Jinping, met in Bali on Mond
 
 White House officials talk of [“finding a floor”](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in the relationship. They are seeking ways to co-operate on issues such as climate change and food security. But Chinese officials demand that America give ground on Taiwan and technology exports before they discuss other issues. Mr Biden says no concessions will be made at the meeting. He wants to talk about “red lines” on both sides. Even that would count as progress.
 
-## Crypto’s worst days may be yet to come
-
-It has been a terrible year for crypto. By early November tightening financial conditions had halved the cryptosphere’s total market capitalisation. The latest blow may prove[ even worse](https://te.arielherself.xyz/podcasts/2022/11/11/the-fallout-from-this-is-absolutely-enormous-a-crypto-implosion). 
-
-On Friday, FTX, a cryptocurrency exchange run by Sam Bankman-Fried, and Alameda Research, his trading firm,[ filed for bankruptcy](https://te.arielherself.xyz/finance-and-economics/2022/11/11/sam-bankman-frieds-crypto-exchange-files-for-bankruptcy). Evidence suggests FTX “lent” $10bn in customer funds to Alameda to prop it up. Regulators in both America and the Bahamas are investigating FTX. Whether customers get their money back has yet to be seen.
-
-The crash will have lasting reverberations. FTX was deeply entangled with the rest of the cryptosphere, having invested in startups and bailed out faltering crypto firms like Voyager and BlockFi. Uncertainty about whether such firms will find new backers has contributed to another fall of almost 20% in crypto’s value in the past week. And while the crash has not yet spilled over into other financial markets, America’s government says crypto needs more oversight. While regulation may help restore faith in legitimate crypto businesses it could crush parts of the sector which thrive in its absence.
-
 ## The real work of COP27 begins
 
 On Monday morning tired delegates shuffled back to a giant conference centre in Sharm el-Sheikh to begin the second week of COP27, the United Nations’ annual climate conference. World leaders making grand promises have left Egypt. It is now up to countries’ negotiating teams to hash out what they are prepared to do to tackle climate change.  
@@ -55,6 +47,14 @@ On Monday morning tired delegates shuffled back to a giant conference centre in 
  Much has been made this year of poor countries’ desires for [“loss and damage”](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage) funding to compensate for the impacts of rising temperatures. That is being formally debated for the first time, but resistance from rich countries makes it highly unlikely that a relevant mechanism will be established.
 
 The most substantive[ climate commitment](https://te.arielherself.xyz/leaders/2022/11/03/the-world-is-missing-its-lofty-climate-targets-time-for-some-realism) made during COP27 will probably not be made in Egypt at all. Later this week leaders in Bali for the [G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) are expected to announce a $15bn fund to help Indonesia decarbonise its coal-intensive economy, copying a $8.5bn deal struck with South Africa at COP26 last year.
+
+## Crypto’s worst days may be yet to come
+
+It has been a terrible year for crypto. By early November tightening financial conditions had halved the cryptosphere’s total market capitalisation. The latest blow may prove[ even worse](https://te.arielherself.xyz/podcasts/2022/11/11/the-fallout-from-this-is-absolutely-enormous-a-crypto-implosion). 
+
+On Friday, FTX, a cryptocurrency exchange run by Sam Bankman-Fried, and Alameda Research, his trading firm,[ filed for bankruptcy](https://te.arielherself.xyz/finance-and-economics/2022/11/11/sam-bankman-frieds-crypto-exchange-files-for-bankruptcy). Evidence suggests FTX “lent” $10bn in customer funds to Alameda to prop it up. Regulators in both America and the Bahamas are investigating FTX. Whether customers get their money back has yet to be seen.
+
+The crash will have lasting reverberations. FTX was deeply entangled with the rest of the cryptosphere, having invested in startups and bailed out faltering crypto firms like Voyager and BlockFi. Uncertainty about whether such firms will find new backers has contributed to another fall of almost 20% in crypto’s value in the past week. And while the crash has not yet spilled over into other financial markets, America’s government says crypto needs more oversight. While regulation may help restore faith in legitimate crypto businesses it could crush parts of the sector which thrive in its absence.
 
 ## Challenges for India’s central bank
 
@@ -72,7 +72,7 @@ Some of the Duttons’ defence is done with assault rifles. But the family deplo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="207155495a655350524553534f6045434f4e4f4d4953540e434f4d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="96c7e3ffecd3e5e6e4f3e5e5f9d6f3f5f9f8f9fbffe5e2b8f5f9fb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Monday: </strong>Which painter, a close associate of the writer Lytton Strachey, was portrayed by Emma Thompson in a 1995 biopic?
 
