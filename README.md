@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-President<strong> Joe Biden</strong> rejected the idea of a “new cold war” with China and said he believed Taiwan faced no “imminent” threat of invasion. The remarks came after a three-hour meeting with his Chinese counterpart, <strong>Xi Jinping,</strong> ahead of the [G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Indonesia. Antony Blinken, America’s secretary of state, will visit Beijing early next year to follow up on the talks. 
-
 <strong>Ukraine’s</strong> president, Volodymyr Zelensky, [visited](https://te.arielherself.xyz/europe/2022/11/14/kherson-celebrates-liberation-and-a-visit-from-volodymyr-zelensky) the [liberated](https://te.arielherself.xyz/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson) city of <strong>Kherson</strong> and addressed a crowd gathered in the main square. Mr Zelensky reportedly said that Ukraine was “ready for peace”. Earlier he said that investigators have documented more than 400 war crimes committed by Russian troops around the city. Ukraine has also accused Russia of laying mines around critical infrastructure.
+
+President<strong> Joe Biden</strong> rejected the idea of a “new cold war” with China and said he believed Taiwan faced no “imminent” threat of invasion. The remarks came after a three-hour meeting with his Chinese counterpart, <strong>Xi Jinping,</strong> ahead of the [G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Indonesia. Antony Blinken, America’s secretary of state, will visit Beijing early next year to follow up on the talks. 
 
 <strong>Amazon </strong>will lay off around 10,000 employees in its technology, human resources and retail divisions, according to the <em>New York Times</em>. The redundancies, slated to begin this week, represent 3% of the e-commerce giant’s workforce and the largest such cut in its history. It follows similar moves by [Meta](https://te.arielherself.xyz/graphic-detail/2022/11/07/meta-will-lay-off-13-of-its-workforce), Twitter and Lyft, as America’s<strong> big tech</strong> industry grapples with the possibility of a looming recession.
 
@@ -72,7 +72,7 @@ Some of the Duttons’ defence is done with assault rifles. But the family deplo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6736120e1d22141715021414082702040809080a0e14134904080a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a5f4d0ccdfe0d6d5d7c0d6d6cae5c0c6cacbcac8ccd6d18bc6cac8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Monday: </strong>Which painter, a close associate of the writer Lytton Strachey, was portrayed by Emma Thompson in a 1995 biopic?
 
