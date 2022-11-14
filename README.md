@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukraine’s</strong> president, Volodymyr Zelensky, visited the [liberated](https://te.arielherself.xyz/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson) city of <strong>Kherson</strong> and addressed a crowd gathered in the main square. Mr Zelensky reportedly said that Ukraine was “ready for peace”. Earlier he said that investigators have documented more than 400 war crimes committed by Russian troops around the city. Ukraine has also accused Russia of laying mines around critical infrastructure.
-
 President<strong> Joe Biden</strong> rejected the idea of a “new Cold War” with China and said he believed Taiwan faced no “imminent” threat of invasion. The remarks came after a three-hour meeting with his Chinese counterpart, <strong>Xi Jinping,</strong> ahead of the [G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Indonesia. Antony Blinken, America’s secretary of state, will visit Beijing early next year to follow up on the talks. 
+
+<strong>Ukraine’s</strong> president, Volodymyr Zelensky, visited the [liberated](https://te.arielherself.xyz/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson) city of <strong>Kherson</strong> and addressed a crowd gathered in the main square. Mr Zelensky reportedly said that Ukraine was “ready for peace”. Earlier he said that investigators have documented more than 400 war crimes committed by Russian troops around the city. Ukraine has also accused Russia of laying mines around critical infrastructure.
 
 <strong>Amazon </strong>will lay off around 10,000 employees in its technology, human resources and retail divisions, according to the <em>New York Times</em>. The redundancies, slated to begin this week, represent 3% of the e-commerce giant’s workforce and the largest such cut in its history. It follows similar moves by [Meta](https://te.arielherself.xyz/graphic-detail/2022/11/07/meta-will-lay-off-13-of-its-workforce), Twitter and Lyft, as America’s big tech industry grapples with the possibility of a looming recession.
 
@@ -26,7 +26,7 @@ Brazil, the Democratic Republic of Congo and Indonesia, which host more than hal
 
 <strong>Turkey’s </strong>interior minister said that <strong>Kurdish militants</strong> based in [northern Syria](https://te.arielherself.xyz/middle-east-and-africa/2019/10/10/turkey-launches-an-attack-on-northern-syria) were to blame for a bombing in the heart of Istanbul on Sunday, which killed six people and injured about 80. He said police have arrested someone suspected of planting the bomb and detained another 21 people. Turkey’s president had been talking up the [threat of terrorism](https://te.arielherself.xyz/europe/2022/06/09/as-elections-approach-turkeys-president-finds-enemies-everywhere) lately.
 
-There was still no certainty about which way <strong>America’s House of Representatives </strong>would fall, as glacial counts in several [too-close-to-call races](https://te.arielherself.xyz/interactive/us-midterms-2022/results/senate/?fsrc=core-app-economist) continued. The Republicans are six seats short of the 218 they would need for a majority. The Democrats are on 204. The final results may not be known for days. Over the weekend the Democrats [secured control](https://te.arielherself.xyz/united-states/2022/11/13/the-democrats-keep-control-of-the-senate) of the <strong>Senate</strong>, with wins in Arizona and Nevada.
+There was still no certainty about which way <strong>America’s House of Representatives</strong> would fall. Despite [keeping control of the Senate](https://te.arielherself.xyz/united-states/2022/11/13/the-democrats-keep-control-of-the-senate), <strong>President Joe Biden</strong> remained sober about Democrats’ chances in the lower chamber. “It’s going to be very close”, Mr Biden told reporters on Monday at the G20 summit, “but I don’t think we’re going to make it”. The Republicans are six seats short of the 218 required for a majority. The Democrats have 204.
 
 <strong>Fact of the day:</strong> 18, the voting age in Malaysia. The threshold was lowered from 21 last year, giving 1.2m more young people the right to vote on November 19th. [Read the full story.](https://te.arielherself.xyz/asia/2022/11/10/malaysias-grand-old-party-eyes-a-comeback)
 
@@ -72,7 +72,7 @@ Some of the Duttons’ defence is done with assault rifles. But the family deplo
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3c6d495546794f4c4e594f4f537c595f53525351554f48125f5351">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e3b2968a99a69093918690908ca386808c8d8c8e8a9097cd808c8e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Monday: </strong>Which painter, a close associate of the writer Lytton Strachey, was portrayed by Emma Thompson in a 1995 biopic?
 
