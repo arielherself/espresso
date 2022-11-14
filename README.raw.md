@@ -12,109 +12,69 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The <strong>Democrats</strong> retained control of the <strong>Senate</strong> after Catherine Cortez Masto was elected for a Nevada seat. That gives the party 50 seats in the upper house, with only Georgia, which has gone to a run-off, still to declare. Ms Cortez Masto beat Adam Laxalt, a Donald Trump-endorsed Republican, emphasising what a [torrid midterms](https://www.economist.com/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger) the former president’s picks have endured.
+<strong>Ukraine’s</strong> president, Volodymyr Zelensky, visited the [liberated](https://www.economist.com/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson) city of <strong>Kherson</strong> and addressed a crowd gathered in the main square. Mr Zelensky reportedly said that Ukraine was “ready for peace”. Earlier he said that investigators have documented more than 400 war crimes committed by Russian troops around the city. Ukraine has also accused Russia of laying mines around critical infrastructure.
 
-The result followed that in <strong>Arizona</strong>, in which Mark Kelly, the Democratic incumbent, beat Blake Masters, another Trump endorsee. The Republicans, however, still look favourites to flip the House of Representatives, although with a smaller majority than they had originally hoped for. With some vote-counts proceeding at a glacial pace, the full results for the lower chamber may not be known for days.
+America&#x27;s president, <strong>Joe Biden</strong> and his Chinese counterpart, <strong>Xi Jinping</strong>, held their first face-to-face meeting since Mr Biden became president. A meeting in Bali ahead of the [G20 summit](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) began with a friendly tone. Mr Biden spoke of his wish to avoid “conflict” with China and Mr Xi of the need to “elevate” the relationship between the two superpowers.
 
-<strong>Israel’s</strong> president, Isaac Herzog, gave <strong>Binyamin Netanyahu</strong>, a former prime minister, a mandate to form a new government. In an election on November 1st a pro-Netanyahu bloc won 64 out of 120 seats in the Knesset. Mr Natanyahu’s [government](https://www.economist.com/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics) is expected to include far-right and religious parties including the Jewish Power party led by [Itamar Ben-Gvir](https://www.economist.com/the-economist-explains/2022/11/03/who-is-itamar-ben-gvir-israels-kingmaker), an extremist long excluded from mainstream politics.
+<strong>Turkey’s </strong>interior minister said that <strong>Kurdish militants</strong> based in [northern Syria](https://www.economist.com/middle-east-and-africa/2019/10/10/turkey-launches-an-attack-on-northern-syria) were to blame for a bombing in the heart of Istanbul on Sunday, which killed six people and injured about 80. He said police have arrested someone suspected of planting the bomb and detained another 21 people. Turkey’s president had been talking up the [threat of terrorism](https://www.economist.com/europe/2022/06/09/as-elections-approach-turkeys-president-finds-enemies-everywhere) lately.
 
-Turkey’s vice-president, Fuat Oktay, said an explosion in <strong>Istanbul</strong>, which killed six people and injured more than 80, was thought to have been a terrorist attack carried out by a woman. Videos show flames and a loud bang on Istiklal Avenue, a shopping street which is popular with locals and tourists.
+<strong>China’s </strong>regulators cheered investors with a plan to rescue the country’s embattled <strong>property markets</strong>. The People’s Bank of China and its partners outlined 16 steps they would take to strengthen the sector, starting with extensions on debt repayments. At one point shares in [Country Garden](https://www.economist.com/leaders/2022/09/15/chinas-property-crisis-hasnt-gone-away-it-is-getting-worse), a developer, leapt by more than 50%; many firms enjoyed gains of 30% and more.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Ukraine’s</strong> president, Volodymyr Zelensky, accused <strong>Russian</strong> soldiers of committing war crimes in the city of Kherson, from which they [withdrew on Friday](https://www.economist.com/europe/2022/11/11/russia-claims-to-have-completed-its-withdrawal-from-kherson). Most critical infrastructure was destroyed, and residents are without electricity, heat or water. Ukrainian authorities, who have cleared thousands of mines, trip wires and unexploded shells left by Russian troops, have imposed a curfew and travel restrictions into and out of the city.
+<strong>SoftBank’s</strong> wild ride got wilder, as the Japanese [tech-investment](https://www.economist.com/business/2022/05/16/after-a-bruising-year-softbank-braces-for-more-pain) group’s <strong>Vision Fund </strong>recorded a third straight quarter of swingeing losses and its share price plunged by more than 13%. SoftBank’s valuation had been enjoying a rally over the past fortnight, against the headwinds in Silicon Valley, but investors hoping to learn of a new [round of buybacks](https://www.economist.com/business/2021/06/17/hard-truths-about-softbank) were disappointed.
 
-Vladimir Putin, the president of <strong>Russia</strong>, and Ebrahim Raisi, his <strong>Iranian </strong>counterpart, held a phone call to discuss political, trade and economic co-operation between their countries. At an earlier meeting, on Wednesday, Iranian and Russian security officials shared measures to combat “Western interference” in their internal affairs. Both countries are facing [discontent](https://www.economist.com/films/2022/11/08/is-iran-on-the-edge-of-a-revolution) at home and are subject to Western sanctions.
+<strong>Britain’s</strong> chancellor of the exchequer, Jeremy Hunt, acknowledged that he must <strong>raise taxes</strong> when he delivers a [new fiscal plan](https://www.economist.com/leaders/2022/11/10/the-best-ways-to-fix-britains-budget) this week. He will also slash public spending, in trying to scrounge together £55bn ($62bn) to fill a fiscal hole. Mr Hunt was brought in to restore Britain’s economic credibility after the destructive micro-tenure of his predecessor, Kwasi Kwarteng.
 
-<strong>Janet Yellen</strong>, America’s treasury secretary, indicated she would quiz the head of China’s national bank about whether China plans to loosen its zero-covid policy and how it would deal with its property-market crisis. Ms Yellen is due to meet <strong>Yi Gang</strong> at the G20 summit in Bali on Monday. China recorded nearly 15,000 new covid infections on Saturday—a hefty caseload by its recent standards.
+There was still no certainty about which way <strong>America’s House of Representatives </strong>would fall, as glacial counts in several [too-close-to-call races](https://www.economist.com/interactive/us-midterms-2022/results/senate/?fsrc=core-app-economist) continued. The Republicans are six seats short of the 218 they would need for a majority. The Democrats are on 204. The final results may not be known for days. Over the weekend the Democrats [secured control](https://www.economist.com/united-states/2022/11/13/the-democrats-keep-control-of-the-senate) of the <strong>Senate</strong>, with wins in Arizona and Nevada.
 
-<strong>Word of the week:</strong> <em>Acquis communautaire</em>, the body of all EU laws, treaties and standards that candidate countries must adopt upon accession to the bloc. Consider the term part of [Eurospeak](https://www.economist.com/europe/2022/11/10/how-brussels-sprouted-its-own-unique-dialect).
+<strong>Fact of the day:</strong> 18, the voting age in Malaysia. The threshold was lowered from 21 last year, giving 1.2m more young people the right to vote on November 19th. [Read the full story.](https://www.economist.com/asia/2022/11/10/malaysias-grand-old-party-eyes-a-comeback)
 
 ----------
 
-## Bali’s battery bonanza gets under way
+## Biden and Xi meet in Bali
 
-In the days before the G20 summit of global leaders kicks off on Tuesday, Indonesia, the host country, has a rare chance to market its business opportunities to the world. The “B20” summit, organised by the Indonesian Chamber of Commerce and Industry, gets under way in Bali on Sunday.
+President Joe Biden and his Chinese counterpart, Xi Jinping, met in Bali on Monday. In their first face-to-face meeting since Mr Biden became president the pair tried to [stop](https://www.economist.com/china/2022/11/10/can-joe-biden-and-xi-jinping-stabilise-sino-american-relations) a [downward spiral](https://www.economist.com/china/2022/10/27/china-and-america-are-barely-speaking-though-crises-loom) in relations. The world expects America and China to “properly handle” their relationship, Mr Xi told Mr Biden.  
+  
+ Mr Biden’s approach to China has been unceasingly tough. He has curbed its access to advanced computing technology with a sweeping set of [export controls](https://www.economist.com/business/2022/10/13/america-curbs-chinese-access-to-advanced-computing), and repeatedly pledged to [defend Taiwan](https://www.economist.com/the-economist-explains/2022/05/23/what-is-americas-policy-of-strategic-ambiguity-over-taiwan), the self-governing island that China seeks to unify with the mainland.
 
-Despite Indonesia’s huge population, its economy has been overshadowed by growth stars like China and Vietnam. But the country contains 21m tons of nickel, more than a fifth of the world’s supply. The metal is a crucial component of the batteries required for electric vehicles.
+White House officials talk of [“finding a floor”](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in the relationship. They are seeking ways to co-operate on issues such as climate change and food security. But Chinese officials demand that America give ground on Taiwan and technology exports before they discuss other issues. Mr Biden says no concessions will be made at the meeting. He wants to talk about “red lines” on both sides. Even that would count as progress.
 
-The government wants to find backers for industry rather than simply to export raw nickel. LG and Hyundai, which are Korean electronics companies, and CATL, a Chinese battery giant, have already made large investments in battery production. The next company Indonesian officials want to lure is Tesla. Conversations between the government and Elon Musk, Tesla’s chief executive (and Twitter’s new owner), are under way, But it is not yet clear whether the top tweeter can be tempted to invest some of Tesla’s billions in the archipelago.
+## Crypto’s worst days may be yet to come
 
-## Slovenia is likely to elect its first female president
+It has been a terrible year for crypto. By early November tightening financial conditions had halved the cryptosphere’s total market capitalisation. The latest blow may prove[ even worse](https://www.economist.com/podcasts/2022/11/11/the-fallout-from-this-is-absolutely-enormous-a-crypto-implosion). 
 
-Barring a political earthquake Slovenes will elect Natasa Pirc Musar as their first female president on Sunday. Ms Pirc Musar, a centre-left candidate, came second in the first round of the poll on October 23rd, behind Anze Logar, a candidate of the right. Mr Logar is a close associate of Janez Jansa, the Trump-admiring former prime minister who still wields great clout. According to pollsters, Mr Logar has failed to win over many beyond Mr Jansa’s supporters, whereas Ms Pirc Musar should pick up most of the centre-left vote, which was split in the first round. 
+On Friday, FTX, a cryptocurrency exchange run by Sam Bankman-Fried, and Alameda Research, his trading firm,[ filed for bankruptcy](https://www.economist.com/finance-and-economics/2022/11/11/sam-bankman-frieds-crypto-exchange-files-for-bankruptcy). Evidence suggests FTX “lent” $10bn in customer funds to Alameda to prop it up. Regulators in both America and the Bahamas are investigating FTX. Whether customers get their money back has yet to be seen.
 
-Borut Pahor, the outgoing president, stood by as Mr Jansa became increasingly autocratic before he lost an election last April to Robert Golob, a far more liberal politician. The Slovenian president has limited powers, but an active one can be influential by holding the government to account. Ms Pirc Musar, a lawyer who ran as an independent, aims to reinvigorate the office.
+The crash will have lasting reverberations. FTX was deeply entangled with the rest of the cryptosphere, having invested in startups and bailed out faltering crypto firms like Voyager and BlockFi. Uncertainty about whether such firms will find new backers has contributed to another fall of almost 20% in crypto’s value in the past week. And while the crash has not yet spilled over into other financial markets, America’s government says crypto needs more oversight. While regulation may help restore faith in legitimate crypto businesses it could crush parts of the sector which thrive in its absence.
 
-## How beavers improve water quality
+## The real work of COP27 begins
 
-Before Europeans arrived, 10% of North America was submerged under fresh water. That is what 400m beavers—the dam-building population back then—will do to a continent. Today, climate change is making North America hotter and drier. Droughts cause contaminants to build up and degrade water quality. But new research in <em>Nature Communications</em>, a journal, reveals how nature’s own hydrologic engineers are coming to the rescue.
+On Monday morning tired delegates shuffled back to a giant conference centre in Sharm el-Sheikh to begin the second week of COP27, the United Nations’ annual climate conference. World leaders making grand promises have left Egypt. It is now up to countries’ negotiating teams to hash out what they are prepared to do to tackle climate change.  
+  
+ Much has been made this year of poor countries’ desires for [“loss and damage”](https://www.economist.com/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage) funding to compensate for the impacts of rising temperatures. That is being formally debated for the first time, but resistance from rich countries makes it highly unlikely that a relevant mechanism will be established.
 
-Ecologists found that beavers’ prolific construction counteracts the damage done by more extreme seasons. Their dams raise the water level upstream, flooding the surrounding riparian zone. This zone acts as a filter, purifying fresh water before it re-enters the main waterway downstream. Water tests reveal that a beaver dam removes one contaminant, nitrate, even more efficiently than unnaturally heavy rainfall. When humans alter their environment, nature often has a way of providing a counterbalance. The ever-industrious beaver is exactly that.
+The most substantive[ climate commitment](https://www.economist.com/leaders/2022/11/03/the-world-is-missing-its-lofty-climate-targets-time-for-some-realism) made during COP27 will probably not be made in Egypt at all. Later this week leaders in Bali for the [G20 summit](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) are expected to announce a $15bn fund to help Indonesia decarbonise its coal-intensive economy, copying a $8.5bn deal struck with South Africa at COP26 last year.
 
-## Pakistan falls short at a cricket world cup
+## Challenges for India’s central bank
 
-What a rotten year it has been for Pakistan. From [devastating floods](https://www.economist.com/asia/2022/08/30/pakistan-has-been-hit-by-its-worst-floods-in-recent-memory) to a [crumbling economy](https://www.economist.com/asia/2022/07/28/pakistan-may-be-able-to-avoid-a-full-blown-economic-crisis) to the [attempted assassination](https://www.economist.com/asia/2022/11/03/imran-khan-pakistans-ex-prime-minister-survives-an-attempt-on-his-life) of a former prime minister, Imran Khan, little has gone right.
+These are busy times for the Reserve Bank of India. As the rupee has depreciated against the dollar, reaching a record low in October, the central bank has intervened to stem the slide, burning through about $112bn of foreign-exchange reserves. It has also launched a pilot for a digital rupee, a [central-bank digital currency](https://www.economist.com/special-report/2022/04/20/how-central-banks-are-moving-into-e-money). 
 
-Add to that defeat to England in the final of cricket’s T20 world cup in Melbourne on Sunday. It is glib, of course, to compare an athletic failure with those other disasters. But to a nation so obsessed with the sport, victory would have provided a welcome chance to celebrate. 
+The RBI’s biggest task, however, remains tackling inflation. Data for October, due on Monday, are likely to reveal an annual inflation rate of about 6.7%. That would be an improvement over the 7.4% recorded in September, but still above the target range of 2-6%. 
 
-It was not to be. Despite an under-par batting display, the country’s fearsome battery of bowlers made England sweat for every run in front of an 80,000-strong crowd—nearly all of them, judging by the din, supporting Pakistan. Before the game Mr Khan, himself one of the country’s greatest ever cricketers, told the team that all he expected of them was to fight to the end. That, they certainly did.
+Rising prices have been driven by soaring [food costs](https://www.economist.com/graphic-detail/2022/10/07/food-prices-are-outpacing-wider-inflation-across-most-of-the-world), which account for nearly half of India’s consumer-price index. But inflationary pressure may now be easing as global food inflation has slowed. The RBI’s governor is bullish: Shaktikanta Das believes that India’s fundamentals are strong, and the central bank’s regime of raising interest rates—up by 1.9 percentage points since April and expected to rise again in December—is working.
 
-## Weekend profile: Alaa Abd el-Fattah, Egypt’s prisoner of conscience
+## “Yellowstone” returns Montana to the spotlight
 
-In 2011 [Alaa Abd el-Fattah](https://www.economist.com/the-economist-explains/2022/11/09/who-is-alaa-abd-el-fattah) turned 30 in a Cairo jail. He spent his 40th birthday behind bars, too. In fact, the human-rights activist has marked many of life’s milestones from inside a cell: his son’s birth, his father’s death. Again in custody, he is Egypt’s most high-profile [political prisoner](https://www.economist.com/middle-east-and-africa/2022/07/18/egypt-locks-up-terrorists-but-wont-say-which-terror-group-they-belong-to)—and a source of international embarrassment to its thuggish government.
+John Dutton sees enemies everywhere—and they are coming for his land. This is the premise of “Yellowstone”, which returned to Paramount on Sunday. In four previous seasons Dutton, played by a leathery-looking Kevin Costner, has defended his Montana ranch from the government, hedge funds, militias, conservationists and his own children. “Horses and cattle may be how the West was won,” Mr Costner growls, “but death and taxes is how we’re gonna lose it.”
 
-Egypt had hoped to use COP27, the UN climate conference taking place in Sharm el-Sheikh, to polish its image. But Mr Abd el-Fattah, who recently escalated a months-long hunger strike by refusing water, is making that impossible. America’s president, Joe Biden, raised Mr Abd el-Fattah’s case with his Egyptian counterpart on Friday. Many other leaders and luminaries have called for his release.
+Some of the Duttons’ defence is done with assault rifles. But the family deploys ruthless realpolitik on par with “Succession” or “House of Cards”. This fifth season will see Dutton become governor of Montana. The show explores the state’s real politics too, such as the growing pains of its towns’ expanding into wilderness. “Yellowstone” is so popular that Taylor Sheridan, its creator, is planning two historical prequels, “1883” and “1923”, and a Texas spinoff. Giddyup.
 
-Mr Abd el-Fattah was born to Egyptian intellectuals with an activist bent. Imprisonment prevented his father from attending the birth of his daughter, the beginning of a dark family tradition. Mr Abd el-Fattah’s first taste of protest came in 2005, when Egyptians decried election-rigging by the government of Hosni Mubarak, the dictator who ruled from 1981 to 2011. By 2011, when the Arab spring swept the Middle East, Mr Abd el-Fattah had become a leader of Egypt’s uprising. After General Abdel-Fattah al-Sisi helped topple a democratically elected government in 2013 he was arrested again, for allegedly organising against a new law banning protests. He has since spent most of his time in prison.
+## Daily quiz
 
-Mr Abd el-Fattah’s confrontation with the Egyptian regime may now be reaching a climax. In December he received a five-year prison sentence for “undermining national security”. He has been on hunger strike for more than 200 days and has refused water since last weekend. On Thursday his sister said authorities had started a “medical intervention”. The government is happy to let him die, she insisted, but not “while the world is watching”. All the more reason to pay attention.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-<strong>November 12th edition</strong>
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>Perhaps the most chuffed politician in America (3,8)
-
-<em>1 across </em>What’s happening to Meta’s system (6)
-
-<em>2 across</em> A buttery, nutty brittle (5)
-
-<em>3 across </em>A Pakistani more biddable than Imran Khan? (6)
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Republican star? No: snide twister (3,8)
-
-<em>1 across</em> Fire once more to start again? (6)
-
-<em>2 across </em>Persian sweet is very Chinese (5)
-
-<em>3 across</em> Afresh, I mingled without ecstasy, but met prime minister (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Kobchai Kingchatchaval</strong>, Bangkok, Thailand 
-
-North America: <strong>Bob Bedier</strong>, Vancouver, Canada
-
-Central and South America: <strong>Ramon Azpurua</strong>, Caracas, Venezuela 
-
-Europe: <strong>Eleanor Smith</strong>, Cambridge, Britain
-
-Africa: <strong>Madeleine Wackernagel</strong>, Naro Moru, Kenya
-
-Oceania: <strong>Kieran Donoghue</strong>, Melbourne, Australia
-
-They all gave the correct answers of David Bowie, Harper Lee, Muhammad Ali (he was Cassius Clay in 1960), Prince and Zsa Zsa Gabor. The theme is that they all died in 2016, a year that was famously deadly for celebrities
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e4b5918d9ea19794968197978ba481878b8a8b898d9790ca878b89">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+  
+<strong>Monday: </strong>Which painter, a close associate of the writer Lytton Strachey, was portrayed by Emma Thompson in a 1995 biopic?
 
 ----------
 
