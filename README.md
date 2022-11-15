@@ -32,13 +32,11 @@ Federal prosecutors in New York opened an investigation into the collapse of <st
 
 ----------
 
-## Donald Trump (probably) runs again
+## Binyamin Netanyahu’s path to power
 
-“I will very, very, very probably do it again,” said Donald Trump this month at a rally in Sioux City, Iowa. On Tuesday Mr Trump will make his intention to run for president in 2024 official. At least, very, very, very probably.
-
-America’s former president may be motivated by more than politics. Returning to the White House could protect him from some of the [legal cases](https://te.arielherself.xyz/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in) that are mounting against him. Originally he wanted to announce his bid on the eve of the midterms, but Republican leaders talked him down. Given the underwhelming performance of Trump-endorsed candidates, advisers have reportedly encouraged him to delay again.  
+On Tuesday the 120 politicians elected on [November 1st](https://te.arielherself.xyz/middle-east-and-africa/2022/11/02/netanyahu-seems-on-track-to-be-israels-next-prime-minister) as members of Israel’s parliament will meet for the first time in Jerusalem. For now Binyamin Netanyahu, a former prime minister, is still the leader of the opposition.  
   
- Mr Trump may see an advantage in entering the field ahead of [Ron DeSantis](https://te.arielherself.xyz/united-states/2022/11/10/ron-desantis-and-other-winners), the governor of Florida, and Mike Pence, his former vice-president. Boosted by the Democrats’ [better than expected](https://te.arielherself.xyz/united-states/2022/11/13/the-democrats-keep-control-of-the-senate) results, President Joe Biden wants [another run](https://te.arielherself.xyz/the-world-ahead/2022/11/14/donald-trump-and-joe-biden-both-want-to-run-again), too. A contest between Mr Biden and Mr Trump would be a grudge match almost nobody wants.
+ Mr Netanyahu has been endorsed by a majority of the Knesset’s incoming members. On Sunday he received a mandate from Israel’s president, Isaac Herzog, to form a new government. But his route back to the prime minister’s office is not simple. First he must sign coalition agreements with the assortment of [far-right](https://te.arielherself.xyz/the-economist-explains/2022/11/03/who-is-itamar-ben-gvir-israels-kingmaker) and religious parties who comprise his majority. They have a long list of [demands](https://te.arielherself.xyz/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics), including legislation that would weaken the Supreme Court and funding for Jewish schools. Hardliners also want to control important ministries including defence, public security, education and finance. Many Israelis would [balk](https://te.arielherself.xyz/leaders/2022/11/10/israels-centrists-should-back-binyamin-netanyahu) at that. Having fought so hard to win a majority, Mr Netanyahu may struggle to control it.
 
 ## Jokowi plays statesman at the G20
 
@@ -56,11 +54,13 @@ The rate of growth has fallen. This year the population is forecast to have rise
 
 The global population is like a train: slam the brakes on and it stops, but only eventually. According to the UN, it will take 15 years to add the next billion people, and 21 years to reach the billion after that. The world is coming to an inflection point: the momentum of growth that has prevailed since the 1950s is being replaced by stability and stasis.
 
-## Binyamin Netanyahu’s path to power
+## Donald Trump (probably) runs again
 
-On Tuesday the 120 politicians elected on [November 1st](https://te.arielherself.xyz/middle-east-and-africa/2022/11/02/netanyahu-seems-on-track-to-be-israels-next-prime-minister) as members of Israel’s parliament will meet for the first time in Jerusalem. For now Binyamin Netanyahu, a former prime minister, is still the leader of the opposition.  
+“I will very, very, very probably do it again,” said Donald Trump this month at a rally in Sioux City, Iowa. On Tuesday Mr Trump will make his intention to run for president in 2024 official. At least, very, very, very probably.
+
+America’s former president may be motivated by more than politics. Returning to the White House could protect him from some of the [legal cases](https://te.arielherself.xyz/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in) that are mounting against him. Originally he wanted to announce his bid on the eve of the midterms, but Republican leaders talked him down. Given the underwhelming performance of Trump-endorsed candidates, advisers have reportedly encouraged him to delay again.  
   
- Mr Netanyahu has been endorsed by a majority of the Knesset’s incoming members. On Sunday he received a mandate from Israel’s president, Isaac Herzog, to form a new government. But his route back to the prime minister’s office is not simple. First he must sign coalition agreements with the assortment of [far-right](https://te.arielherself.xyz/the-economist-explains/2022/11/03/who-is-itamar-ben-gvir-israels-kingmaker) and religious parties who comprise his majority. They have a long list of [demands](https://te.arielherself.xyz/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics), including legislation that would weaken the Supreme Court and funding for Jewish schools. Hardliners also want to control important ministries including defence, public security, education and finance. Many Israelis would [balk](https://te.arielherself.xyz/leaders/2022/11/10/israels-centrists-should-back-binyamin-netanyahu) at that. Having fought so hard to win a majority, Mr Netanyahu may struggle to control it.
+ Mr Trump may see an advantage in entering the field ahead of [Ron DeSantis](https://te.arielherself.xyz/united-states/2022/11/10/ron-desantis-and-other-winners), the governor of Florida, and Mike Pence, his former vice-president. Boosted by the Democrats’ [better than expected](https://te.arielherself.xyz/united-states/2022/11/13/the-democrats-keep-control-of-the-senate) results, President Joe Biden wants [another run](https://te.arielherself.xyz/the-world-ahead/2022/11/14/donald-trump-and-joe-biden-both-want-to-run-again), too. A contest between Mr Biden and Mr Trump would be a grudge match almost nobody wants.
 
 ## Walmart rides the inflation rollercoaster
 
@@ -70,7 +70,7 @@ Since then the firm has staged a robust recovery. In a quarterly results update 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6736120e1d22141715021414082702040809080a0e14134904080a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Tuesday:</strong> Berkshire, Hampshire and Duroc are all breeds of what animal?  
   
