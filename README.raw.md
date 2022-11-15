@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Ukraine’s</strong> president, Volodymyr Zelensky, thumbed his nose at Russia by addressing the “leaders of the G19” at the G20 summit in Indonesia. In a video address Mr Zelensky called for <strong>Russia’s</strong> “aggressive” war against his country to “end justly”. A stronger than expected draft resolution is circulating at the conference, which [opened on Tuesday](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit), stating that “most members strongly condemn” the war in Ukraine.
+<strong>Ukraine’s</strong> president, Volodymyr Zelensky, thumbed his nose at Russia by addressing the “leaders of the G19” at the G20 summit in Indonesia. In a video address Mr Zelensky called for <strong>Russia’s</strong> “aggressive” war against his country to “end justly”. A stronger-than-expected draft resolution is circulating at the conference, which [opened on Tuesday](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit), stating that “most members strongly condemn” the war in Ukraine.
 
 President<strong> Joe Biden</strong> rejected the idea of a “new cold war” with China and said he believed Taiwan faced no “imminent” threat of invasion. The remarks came after a three-hour meeting with his Chinese counterpart, <strong>Xi Jinping</strong> ahead of the [G20 summit](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit). Antony Blinken, America’s secretary of state, will visit Beijing early next year to follow up on the talks.
 
@@ -70,7 +70,7 @@ Since then the firm has staged a robust recovery. Its share price is back where 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="84d5f1edfec1f7f4f6e1f7f7ebc4e1e7ebeaebe9edf7f0aae7ebe9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4f1e3a26350a3c3f3d2a3c3c200f2a2c20212022263c3b612c2022">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Tuesday:</strong> Berkshire, Hampshire and Duroc are all breeds of what animal?  
   
