@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-An explosion at a grain plant killed two people in <strong>Poland</strong>, near its border with Ukraine. American officials said they were investigating whether the blast was caused by stray Russian missiles, which would mark the first time in the war that Russian weapons have struck a [NATO country](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064). Hours before, Russia launched a wave of attacks on Ukrainian infrastructure. Poland’s prime minister, Mateusz Morawiecki, called an urgent meeting of the national-security council due to a “crisis situation”.
+A Russian missile killed two people in <strong>Poland</strong>, the country’s foreign ministry said. The explosion at a grain store in Przewodow, near the border with Ukraine, came amid a wave of Russian strikes on Ukrainian infrastructure. Moscow denied responsibility for the incident, which would mark the first time in the war that Russian weapons have struck a [NATO country](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064). Poland’s prime minister, Mateusz Morawiecki, called an urgent meeting of the national-security council, while the foreign ministry summoned the Russian ambassador.
 
 Russian <strong>long-range missiles</strong> struck targets across Ukraine including <strong>Kyiv</strong>, the capital, damaging more crucial energy infrastructure. At least half of the city is without electricity according to the city’s mayor, Vitali Klitschko. Elsewhere, the Russian army withdrew further from towns on the eastern side of the Dnieper river, opposite the city of [Kherson](https://www.economist.com/europe/2022/11/14/kherson-celebrates-liberation-and-a-visit-from-volodymyr-zelensky), the southern provincial capital it abandoned last week.
 
@@ -70,7 +70,7 @@ Since then the firm has staged a robust recovery. In a quarterly results update 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0657736f7c43757674637575694663656968696b6f75722865696b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bbeaced2c1fec8cbc9dec8c8d4fbded8d4d5d4d6d2c8cf95d8d4d6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Tuesday:</strong> Berkshire, Hampshire and Duroc are all breeds of what animal?  
   
