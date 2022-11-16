@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>NATO’s</strong> secretary-general, Jens Stoltenberg, said that it is “likely” that a missile that hit a farm in [Poland](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064) was fired by Ukraine’s air-defence force. He added that it was “not Ukraine’s fault”, since the country was defending itself against Russian missile attacks. At a press conference after an emergency NATO meeting Mr Stoltenberg said that the alliance&#x27;s “top priority” is providing air defences to Ukraine.
+<strong>NATO’s</strong> secretary-general, Jens Stoltenberg, said that it is “likely” that a [missile that hit a farm in Poland](https://www.economist.com/leaders/2022/11/16/russia-needs-a-respite-so-the-west-must-help-ukraine-fight-on) was fired by Ukraine’s air-defence force. He added that it was “not Ukraine’s fault”, since the country was defending itself against Russian missile attacks. At a press conference after an emergency NATO meeting Mr Stoltenberg said that the alliance&#x27;s “top priority” is providing air defences to Ukraine.
 
 <strong>Luiz Inácio Lula da Silva</strong>, Brazil’s [incoming president](https://www.economist.com/the-americas/2022/11/03/lulas-foreign-policy-ambitions-will-be-tempered-by-circumstances), was greeted enthusiastically at <strong>COP27</strong>, the UN climate summit in Egypt. Lula told delegates that “Brazil is back” and promised to fight deforestation in the Amazon rainforest. Germany and Norway have signalled that they are willing to help revive the “Amazon Fund”, a coalition working to protect the area.
 
@@ -68,7 +68,7 @@ The sale will make Ali Bin Nasser, the Tunisian who refereed the match (but did 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="93c2e6fae9d6e0e3e1f6e0e0fcd3f6f0fcfdfcfefae0e7bdf0fcfe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3263475b48774142405741415d7257515d5c5d5f5b41461c515d5f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Wednesday: </strong>Which American retail chain was founded in 1923 by a Mr Pressman?  
   
