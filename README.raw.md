@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-President Joe Biden said it was “unlikely” that a<strong> missile</strong> that landed in <strong>Poland</strong>, killing two men, was fired from within Russia itself. It is as yet unclear whether the missile, thought to be Russian-made, was fired by Russian forces or Ukrainian ones. An actual Russian attack—on a [NATO](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064) country—would mark an alarming escalation. But Ukraine uses Russian-made missiles, notably in air-defence systems. Leaders of the G7 and Western countries at the G20 held emergency meetings about the matter; NATO and the UN Security Council will meet today.
+<strong>Poland’s</strong> president, Andrzej Duda, said it was “very likely” that a missile which hit a farm in Przewodow, close to the country’s border with Ukraine, was fired by Ukrainian air-defence. Both Russia and Ukraine use Russian-made missiles, leading to uncertainty about its origins. Leaders of the G7 and Western countries at the G20 held emergency meetings about the matter; [NATO](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064) and the UN Security Council will also meet on Wednesday.
 
 <strong>Donald Trump</strong> [announced](https://www.economist.com/united-states/2022/11/16/of-course-donald-trump-is-running-again) that he would run for the American presidency again, in <strong>2024</strong>. In a speech at his Mar-a-Lago home in Florida, Mr Trump said that the country had been “brought to its knees” by Joe Biden. He focused less on the lie that the election of 2020 had been stolen from him, but added a twist: China interfered on Mr Biden’s behalf, he said. After many of the [candidates he favoured](https://www.economist.com/united-states/2022/11/09/the-rise-of-ron-desanctimonious) in last week’s midterm elections foundered, some senior Republicans dared to counsel Mr Trump against running again.
 
@@ -68,7 +68,7 @@ The sale will make Ali Bin Nasser, the Tunisian who refereed the match (but did 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f8a98d9182bd8b888a9d8b8b97b89d9b97969795918b8cd69b9795">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="faab8f9380bf898a889f898995ba9f999594959793898ed4999597">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Wednesday: </strong>Which American retail chain was founded in 1923 by a Mr Pressman?  
   
