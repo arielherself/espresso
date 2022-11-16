@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Poland’s</strong> president, Andrzej Duda, said it was “very likely” that a missile which hit a farm in Przewodow, close to the country’s border with Ukraine, was fired by Ukrainian air-defence. Both Russia and Ukraine use Russian-made missiles, leading to uncertainty about its origins. Leaders of the G7 and Western countries at the G20 held emergency meetings about the matter; [NATO](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064) and the UN Security Council will also meet on Wednesday.
+<strong>NATO’s</strong> secretary-general, Jens Stoltenberg, said that it is “likely” that a missile that hit a farm in [Poland](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064) was fired by Ukraine’s air-defence force. He added that it was “not Ukraine’s fault”, since the country was defending itself against Russian missile attacks. At a press conference after an emergency NATO meeting Mr Stoltenberg said that the alliance&#x27;s “top priority” is providing air defences to Ukraine.
 
 <strong>Donald Trump</strong> [announced](https://www.economist.com/united-states/2022/11/16/of-course-donald-trump-is-running-again) that he would run for the American presidency again, in <strong>2024</strong>. In a speech at his Mar-a-Lago home in Florida, Mr Trump said that the country had been “brought to its knees” by Joe Biden. He focused less on the lie that the election of 2020 had been stolen from him, but added a twist: China interfered on Mr Biden’s behalf, he said. After many of the [candidates he favoured](https://www.economist.com/united-states/2022/11/09/the-rise-of-ron-desanctimonious) in last week’s midterm elections foundered, some senior Republicans dared to counsel Mr Trump against running again.
 
@@ -26,7 +26,7 @@ Russian <strong>long-range missiles</strong> struck targets across Ukraine inclu
 
 An activist investor issued an open letter arguing that <strong>Alphabet </strong>should take “aggressive action” to reduce staff and wages. TCI Fund Management holds a $6bn stake in Google’s parent company; not enough to force its hand. Google had already put a freeze on new hiring. Other giants of Silicon Valley, including [Meta](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers) and Amazon, started layoffs earlier this month, [anticipating a downturn](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers).
 
-<strong>Walmart</strong>, a jumbo American [supermarket chain](https://www.economist.com/business/2021/11/20/walmart-gets-its-bite-back), reported strong third-quarter revenues of $153bn, a rise of 8.7% compared with the same period [last year](https://www.economist.com/business/2022/05/19/shares-in-americas-big-retailers-swoon). The company’s stock rose by more than 7%. The firm also agreed to pay $3.1bn to American states and cities which sued the retailer for contributing to the [opioid crisis](https://www.economist.com/business/2020/10/31/american-lawmen-are-going-after-opioids-inc) by failing to regulate prescriptions. It has not, however, conceded liability.
+<strong>Tencent</strong>, a Chinese video-game giant, reported revenues of 140bn yuan ($19.8bn) in its third quarter, a fall of 2% from the same period a year earlier and its second consecutive quarterly drop. China’s [crackdown on tech](https://www.economist.com/business/can-chinese-big-tech-learn-to-love-big-brother/21809084) has hurt the firm’s growth. The company has lost close to 60% of its market value since February 2021 and is planning layoffs. 
 
 <strong>Fact of the day: </strong>6,000, about the number of populated islands that make up Indonesia, home to South-East Asia’s largest economy. [Read the full story](https://www.economist.com/briefing/2022/11/14/indonesia-is-poised-for-a-boom-politics-permitting).
 
@@ -34,9 +34,9 @@ An activist investor issued an open letter arguing that <strong>Alphabet </stron
 
 ## Vladimir Putin’s ghost at the G20
 
-Russia’s president stayed away from [the G20 summit](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Bali, yet haunts the gathering. On Wednesday NATO and European leaders attending the summit condemned the latest intense Russian attacks on Ukrainian cities and discussed a missile that on Tuesday hit a farm in Poland, close to the Ukrainian border, killing two men. America has said that the projectile, which is thought to be Russian-made, was probably not fired from Russia. Away from Bali, NATO and the UN Security Council will also hold meetings on Wednesday to discuss the incident in Poland.
-
-In his opening speech the host of the G20 summit, President Joko Widodo of Indonesia, warned that “if the war does not end, it will be difficult for the world to move forward.” The conflict has aggravated the many global problems, from inflation to food shortages, that the G20 is grappling with. A final communiqué from the summit noted that most members condemn the war in Ukraine, but that there are also “different assessments” of the situation.
+Russia’s president stayed away from [the G20 summit](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Bali, yet haunts the gathering. On Wednesday NATO and European leaders attending the summit condemned the latest intense Russian attacks on Ukrainian cities and discussed a missile that on Tuesday hit a farm in Poland, close to the Ukrainian border. Later, after an emergency meeting of NATO in Brussels, the bloc’s secretary-general, Jens Stolentenbeg, said that it is “likely” that a missile was fired by Ukraine’s air-defence force, but that the blame lay with Russia for attacking Ukraine.  
+  
+ In his opening speech the host of the G20 summit, President Joko Widodo of Indonesia, warned that “if the war does not end, it will be difficult for the world to move forward.” The conflict has aggravated the many global problems, from inflation to food shortages, that the G20 is grappling with. A final communiqué from the summit noted that most members condemn the war in Ukraine, but that there are also “different assessments” of the situation.
 
 ## America’s Respect for Marriage Act
 
@@ -68,7 +68,7 @@ The sale will make Ali Bin Nasser, the Tunisian who refereed the match (but did 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="faab8f9380bf898a889f898995ba9f999594959793898ed4999597">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7726021e0d32040705120404183712141819181a1e04035914181a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Wednesday: </strong>Which American retail chain was founded in 1923 by a Mr Pressman?  
   
