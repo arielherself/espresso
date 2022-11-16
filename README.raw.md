@@ -34,9 +34,9 @@ An activist investor issued an open letter arguing that <strong>Alphabet </stron
 
 ## Vladimir Putin’s ghost at the G20
 
-Russia’s president stayed away from [the G20 summit](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Bali, yet haunts the gathering. On Wednesday NATO and European leaders attending the summit condemned the latest intense Russian attacks on Ukrainian cities and discussed a missile that on Tuesday hit a farm in Poland, close to the Ukrainian border. Later, after an emergency meeting of NATO in Brussels, the bloc’s secretary-general, Jens Stoltenberg, said that it is “likely” that a missile was fired by Ukraine’s air-defence force, but that the blame lay with Russia for attacking Ukraine.  
-  
- In his opening speech the host of the G20 summit, President Joko Widodo of Indonesia, warned that “if the war does not end, it will be difficult for the world to move forward.” The conflict has aggravated the many global problems, from inflation to food shortages, that the G20 is grappling with. A final communiqué from the summit noted that most members condemn the war in Ukraine, but that there are also “different assessments” of the situation.
+Russia’s president stayed away from[ the G20 summit](https://www.economist.com/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Bali, yet haunted the gathering. The conflict aggravates the many global problems, from inflation to food shortages, that leaders were grappling with. Many countries felt they were paying the price for a faraway conflict. President Joko Widodo, the Indonesian summit host, warned that “if the war does not end, it will be difficult for the world to move forward.”
+
+Yet the war kept intruding. On Wednesday morning Western leaders broke off for crisis talks after an explosion killed two men in Poland during a volley of Russian missiles on Ukraine. NATO later said it was not a Russian attack on the alliance, but probably a Ukrainian air-defence missile that had gone astray. Escalation averted, but the war goes on. So does the diplomatic battle to isolate Russia. The G20 final communiqué said that most states condemned the war, despite “different assessments” of the situation. It was a partial victory for the West.
 
 ## America’s Respect for Marriage Act
 
@@ -68,7 +68,7 @@ The sale will make Ali Bin Nasser, the Tunisian who refereed the match (but did 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c091b5a9ba85b3b0b2a5b3b3af80a5a3afaeafada9b3b4eea3afad">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2574504c5f605655574056564a6540464a4b4a484c56510b464a48">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Wednesday: </strong>Which American retail chain was founded in 1923 by a Mr Pressman?  
   
