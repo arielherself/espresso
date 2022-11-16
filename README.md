@@ -34,7 +34,7 @@ An activist investor issued an open letter arguing that <strong>Alphabet </stron
 
 ## Vladimir Putin’s ghost at the G20
 
-Russia’s president stayed away from [the G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Bali, yet haunts the gathering. On Wednesday NATO and European leaders attending the summit condemned the latest intense Russian attacks on Ukrainian cities and discussed a missile that on Tuesday hit a farm in Poland, close to the Ukrainian border. Later, after an emergency meeting of NATO in Brussels, the bloc’s secretary-general, Jens Stolentenbeg, said that it is “likely” that a missile was fired by Ukraine’s air-defence force, but that the blame lay with Russia for attacking Ukraine.  
+Russia’s president stayed away from [the G20 summit](https://te.arielherself.xyz/asia/2022/11/13/the-dynamics-of-distrust-around-the-g20-summit) in Bali, yet haunts the gathering. On Wednesday NATO and European leaders attending the summit condemned the latest intense Russian attacks on Ukrainian cities and discussed a missile that on Tuesday hit a farm in Poland, close to the Ukrainian border. Later, after an emergency meeting of NATO in Brussels, the bloc’s secretary-general, Jens Stoltenberg, said that it is “likely” that a missile was fired by Ukraine’s air-defence force, but that the blame lay with Russia for attacking Ukraine.  
   
  In his opening speech the host of the G20 summit, President Joko Widodo of Indonesia, warned that “if the war does not end, it will be difficult for the world to move forward.” The conflict has aggravated the many global problems, from inflation to food shortages, that the G20 is grappling with. A final communiqué from the summit noted that most members condemn the war in Ukraine, but that there are also “different assessments” of the situation.
 
@@ -68,7 +68,7 @@ The sale will make Ali Bin Nasser, the Tunisian who refereed the match (but did 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1445617d6e516764667167677b5471777b7a7b797d67603a777b79">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5302263a29162023213620203c1336303c3d3c3e3a20277d303c3e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Wednesday: </strong>Which American retail chain was founded in 1923 by a Mr Pressman?  
   
