@@ -22,7 +22,7 @@
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Russian <strong>long-range missiles</strong> struck targets across Ukraine including <strong>Kyiv</strong>, the capital, damaging more crucial [energy infrastructure](https://www.economist.com/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter). At least half of the city is without electricity, according to the city’s mayor, Vitali Klitschko. Elsewhere, the Russian army withdrew further from the eastern side of the Dnieper river, opposite the city of [Kherson](https://www.economist.com/europe/2022/11/14/kherson-celebrates-liberation-and-a-visit-from-volodymyr-zelensky), the southern provincial capital it abandoned last week.
+Some 15 trucks loaded with food entered the Ethiopian region of <strong>Tigray,</strong> the first such deliveries since the <strong>Ethiopian government </strong>and Tigrayan rebels made peace on November 2nd. As part of the pact that froze a [two-year-long civil war](https://www.economist.com/middle-east-and-africa/2022/11/04/a-peace-deal-highlights-the-pointlessness-of-ethiopias-war), Ethiopia’s government agreed to allow aid to enter Tigray unhindered. Some 6m people live in the region, many of whom are on the brink of starvation.
 
 An activist investor issued an open letter arguing that <strong>Alphabet </strong>should take “aggressive action” to reduce staff and wages. TCI Fund Management holds a $6bn stake in Google’s parent company; not enough to force its hand. Google had already put a freeze on new hiring. Other giants of Silicon Valley, including [Meta](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers) and Amazon, started layoffs earlier this month, [anticipating a downturn](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers).
 
@@ -68,7 +68,7 @@ The sale will make Ali Bin Nasser, the Tunisian who refereed the match (but did 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2e7f5b47546b5d5e5c4b5d5d416e4b4d41404143475d5a004d4143">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Wednesday: </strong>Which American retail chain was founded in 1923 by a Mr Pressman?  
   
