@@ -14,7 +14,7 @@
 
 <strong>NATO’s</strong> secretary-general, Jens Stoltenberg, said that it is “likely” that a [missile that hit a farm in Poland](https://www.economist.com/leaders/2022/11/16/russia-needs-a-respite-so-the-west-must-help-ukraine-fight-on) was fired by Ukraine’s air-defence force. He added that it was “not Ukraine’s fault”, since the country was defending itself against Russian missile attacks. At a press conference after an emergency NATO meeting Mr Stoltenberg said that the alliance&#x27;s “top priority” is providing air defences to Ukraine.
 
-The Republican Party narrowly regained control of <strong>America’s House of Representatives</strong>. Eight days after the [midterm elections](https://www.economist.com/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger), the party clinched its 218th seat, to the Democrats’ 210. Even if Republicans prevail in the seven outstanding races, their margin is far slimmer than they had hoped for. Nevertheless, it will allow them to stall much of President Joe Biden’s agenda. 
+The Republican Party narrowly regained control of <strong>America’s House of Representatives</strong>. Eight days after the [midterm elections](https://www.economist.com/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger), the party clinched its 218th seat, to the Democrats’ 210. Even if Republicans prevail in the seven outstanding races, their margin is far slimmer than they had hoped for—and the worst midterm performance by a party out of power in 20 years. Nevertheless, it will allow them to stall much of President Joe Biden’s agenda.
 
 <strong>Mitch McConell</strong> was re-elected leader of the Republican party in America’s Senate, winning 37-10 against Rick Scott, who was backed by<strong> Donald Trump </strong>and other right-wingers. The challenge was the first that Mr McConnell, who has led his party in the Senate since 2007, has faced, and marks the latest instance of [Republican infighting](https://www.economist.com/united-states/2022/11/10/a-republican-victory-will-be-much-smaller-than-democrats-feared). Last night, Mr Trump [announced](https://www.economist.com/united-states/2022/11/16/of-course-donald-trump-is-running-again) that he would run for the presidency in 2024, defying some of his party’s senior advisers.
 
@@ -46,6 +46,12 @@ The Respect for Marriage Act has been kicking around for a decade, but was reviv
 
 Few Senate Republicans publicly support the bill. But Democrats say they have enough votes to ensure it will pass—and it received 47 votes from House Republicans in July. With more than 70% of Americans telling pollsters they support gay marriage, protecting it is popular.
 
+## NASA takes off, at last
+
+Just before 2am local time on Wednesday at the Kennedy Space Centre in Florida, NASA launched its [Space Launch System](https://www.economist.com/science-and-technology/2022/08/24/nasas-space-launch-system-is-yesterdays-rocket) rocket. The uncrewed SLS was originally scheduled to fly in 2016. The rocket that actually left the pad was assembled in 2021, but its launch was delayed repeatedly, twice because of problems with its engines.
+
+More recently the rocket was left out during Hurricane Nicole on November 10th, though NASA’s engineers reckon no significant damage was done. But even its successful launch is unlikely to quiet its critics. Built using recycled parts of the Space Shuttle, and as much a job-creation programme as anything else, the SLS has [cost $23bn](https://www.economist.com/leaders/2022/08/28/nasas-newest-rocket-is-a-colossal-waste-of-money) to develop. Estimates for a single launch touch $2bn (at least). It has competition, too. SpaceX, a private firm, is building a similar rocket called Starship, and is aiming for launch costs of just 1% of that. In theory, as part of NASA’s Artemis programme, the SLS will return American astronauts to the Moon in 2025. Almost no one thinks that deadline will be met.
+
 ## China changes direction
 
 Declining economic growth has finally crossed a pain threshold for China’s leaders. For over two and a half years policymakers have been cracking down on the spread of [covid-19](https://www.economist.com/finance-and-economics/2022/11/09/financial-markets-bet-on-an-end-to-chinas-zero-covid-policy) and runaway [property-sector](https://www.economist.com/finance-and-economics/how-a-housing-downturn-could-wreck-chinas-growth-model/21805115) debt, with dire effects. Now they have announced some big changes.
@@ -53,12 +59,6 @@ Declining economic growth has finally crossed a pain threshold for China’s lea
 Quarantine times for inbound travellers and close contacts of those testing positive for covid have been reduced. And bank loans to [property developers](https://www.economist.com/finance-and-economics/2022/11/14/a-radical-shift-in-chinas-property-and-pandemic-policies) due to be repaid within the next six months can now be extended. The plans, in theory, will get people spending more money and developers building more homes. But big questions remain. 
 
 Loosened covid restrictions could lead to widespread outbreaks. In cities such as Guangzhou cases are already rising rapidly. It is unclear yet how authorities will deal with this. Easing in the property sector will stop defaults but this does not guarantee people will buy new homes in droves. A boost to economic growth could be a way off.
-
-## NASA takes off, at last
-
-Just before 2am local time on Wednesday at the Kennedy Space Centre in Florida, NASA launched its [Space Launch System](https://www.economist.com/science-and-technology/2022/08/24/nasas-space-launch-system-is-yesterdays-rocket) rocket. The uncrewed SLS was originally scheduled to fly in 2016. The rocket that actually left the pad was assembled in 2021, but its launch was delayed repeatedly, twice because of problems with its engines.
-
-More recently the rocket was left out during Hurricane Nicole on November 10th, though NASA’s engineers reckon no significant damage was done. But even its successful launch is unlikely to quiet its critics. Built using recycled parts of the Space Shuttle, and as much a job-creation programme as anything else, the SLS has [cost $23bn](https://www.economist.com/leaders/2022/08/28/nasas-newest-rocket-is-a-colossal-waste-of-money) to develop. Estimates for a single launch touch $2bn (at least). It has competition, too. SpaceX, a private firm, is building a similar rocket called Starship, and is aiming for launch costs of just 1% of that. In theory, as part of NASA’s Artemis programme, the SLS will return American astronauts to the Moon in 2025. Almost no one thinks that deadline will be met.
 
 ## Maradona’s “hand of God” ball at auction
 
@@ -68,7 +68,7 @@ The sale will make Ali Bin Nasser, the Tunisian who refereed the match (but did 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4f1e3a26350a3c3f3d2a3c3c200f2a2c20212022263c3b612c2022">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ecfebf7e4dbedeeecfbededf1defbfdf1f0f1f3f7edeab0fdf1f3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Wednesday: </strong>Which American retail chain was founded in 1923 by a Mr Pressman?  
   
