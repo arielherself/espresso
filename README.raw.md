@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Britain’s </strong>chancellor, Jeremy Hunt, delivered a budget including spending cuts and tax rises worth nearly £55bn ($65bn), 2.5% of GDP. He hopes it will restore Britain’s [fiscal credibility](https://www.economist.com/leaders/2022/11/10/the-best-ways-to-fix-britains-budget) after his predecessor damaged it with a programme of unfunded tax cuts. Mr Hunt froze the tax thresholds for income tax, national insurance and inheritance tax, meaning that pay rises will push taxpayers into higher tax bands. State pensions, benefits and tax credits will rise by 10.1%, September’s inflation rate. Most government departments will see their budgets rise by less than the rate of inflation.
+<strong>Britain’s </strong>chancellor, Jeremy Hunt, delivered a budget including spending cuts and tax rises that by 2027-28 will be worth £62bn ($73bn), or 2.1% of GDP. He hopes it will restore Britain’s [fiscal credibility](https://www.economist.com/leaders/2022/11/10/the-best-ways-to-fix-britains-budget) after his predecessor damaged it with a programme of unfunded tax cuts. Mr Hunt froze the tax thresholds for income tax, national insurance and inheritance tax, meaning that pay rises will push taxpayers into higher tax bands. State pensions, benefits and tax credits will rise by 10.1%, September’s inflation rate. Most government departments will see their budgets rise by less than the rate of inflation.
 
 The Republican Party narrowly regained control of America’s <strong>House of Representatives</strong>. Eight days after the [midterm elections](https://www.economist.com/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger), the party clinched its 218th (and decisive) seat, to the Democrats’ 210. Regardless of how the remaining seven races fall, the Republicans&#x27; margin is far slimmer than the party had hoped—and the worst midterm performance by a party out of power in 20 years. Nevertheless, it will allow them to stall much of President Joe Biden’s agenda.
 
@@ -36,7 +36,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## Britain’s autumn budget
 
-Jeremy Hunt, Britain’s chancellor, presented a budget designed to restore the country’s fiscal credibility. The previous prime minister and chancellor had severely damaged it with a programme of unfunded tax increases, which drove up interest rates and weakened the pound. Mr Hunt has now announced spending cuts and tax rises worth nearly £62bn annually, or 2.1% of GDP. They will hit an economy that, as Mr Hunt confirmed, is almost certainly already in recession. 
+Jeremy Hunt, Britain’s chancellor, presented a budget designed to restore the country’s fiscal credibility. The previous prime minister and chancellor had severely damaged it with a programme of unfunded tax increases, which drove up interest rates and weakened the pound. Mr Hunt has now announced spending cuts and tax rises that by 2027-28 will be worth £62bn ($73bn), or 2.1% of GDP. They will hit an economy that, as Mr Hunt confirmed, is almost certainly already in recession. 
 
 The chancellor froze several tax thresholds, meaning that pay rises will push taxpayers into higher bands. Most government departments will see their budgets fall by 0.7% per year in real terms after 2025. But extra money was promised to health, social care and education. State pensions, benefits and tax credits were protected: they will rise by 10.1%, in line with September’s inflation rate. 
 
@@ -74,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7b2a0e12013e080b091e0808143b1e181415141612080f55181416">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="acfdd9c5d6e9dfdcdec9dfdfc3ecc9cfc3c2c3c1c5dfd882cfc3c1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
