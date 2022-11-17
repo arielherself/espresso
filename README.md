@@ -36,11 +36,11 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## Britain’s autumn budget
 
-Jeremy Hunt, Britain’s chancellor, presented a budget designed to restore the country’s fiscal credibility. The previous prime minister and chancellor had severely damaged it with a programme of unfunded tax increases, which drove up interest rates and weakened the pound. Mr Hunt has now announced spending cuts and tax rises worth nearly £55bn ($65bn) annually, or 2.5% of GDP. They will hit an economy that, as Mr Hunt confirmed, is already in recession. 
+On Thursday Britain’s latest chancellor, Jeremy Hunt, will deliver his first [autumn statement](https://te.arielherself.xyz/leaders/2022/11/10/the-best-ways-to-fix-britains-budget). Designed to reassure investors, its contents will make voters squeal. 
 
-The chancellor froze several tax thresholds, meaning that pay rises will push taxpayers into higher bands. Most government departments will see their budgets fall in real terms, but extra money was promised to health, social care and education. State pensions, benefits and tax credits were protected: they will rise by 10.1%, in line with September’s inflation rate. 
+The backdrop is Britain’s deteriorating economic outlook, rising interest rates and a sharp increase in the bill to service the government’s debt. To achieve [forecasts](https://te.arielherself.xyz/britain/2022/11/10/the-obr-will-be-the-arbiter-of-britains-autumn-budget) that by 2027-28 the debt-to-GDP ratio will be falling, the government is expected to announce spending cuts and tax rises worth nearly £55bn ($65.4bn) annually, or around 2.5% of GDP
 
-Mr Hunt says an extra £3.3bn a year for two years will be enough for the [NHS](https://te.arielherself.xyz/britain/2022/11/10/the-night-watchman-welfare-state) to “fulfil its key priorities”. Other departments will struggle to make the “efficiencies” demanded of them. Household finances are already [stretched](https://te.arielherself.xyz/britain/2022/11/03/britains-next-recession-may-have-already-begun). Mr Hunt insists that his plan will lower inflation next year. Two months after his predecessor promised lower taxes and higher growth, British citizens will be paying more in return for less. Mr Hunt will argue that his fiscal medicine is necessary. But it will not go down easily.
+Much of the total will come from squeezing spending on public services. That is unwelcome news for those already concerned about [cracks](https://te.arielherself.xyz/britain/2022/11/10/the-night-watchman-welfare-state) in health services and elsewhere. Current budgets are being eaten away by rising costs. [Strikes](https://te.arielherself.xyz/britain/2022/11/03/britain-faces-a-wave-of-industrial-action-this-winter) over wages are looming, too. Household finances are already [stretched.](https://te.arielherself.xyz/britain/2022/11/03/britains-next-recession-may-have-already-begun) Two months ago Mr Hunt’s predecessor recklessly promised tax cuts. Now tax increases are on the cards, though they may only happen slowly as thresholds are frozen. Mr Hunt will argue that his fiscal medicine is necessary. But it will not go down easily.
 
 ## A new leader for America’s Catholics
 
@@ -74,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0657736f7c43757674637575694663656968696b6f75722865696b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0554706c7f407675776076766a4560666a6b6a686c76712b666a68">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
