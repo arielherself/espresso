@@ -42,14 +42,6 @@ The chancellor froze several tax thresholds, meaning that pay rises will push ta
 
 Mr Hunt says an extra £3.3bn a year for two years will be enough for the [NHS](https://www.economist.com/britain/2022/11/10/the-night-watchman-welfare-state) to “fulfil its key priorities”. Other departments will struggle to make the “efficiencies” demanded of them. Household finances are already [stretched](https://www.economist.com/britain/2022/11/03/britains-next-recession-may-have-already-begun). Mr Hunt insists that his plan will lower inflation next year. Two months after his predecessor promised lower taxes and higher growth, British citizens will be paying more in return for less. Mr Hunt will argue that his fiscal medicine is necessary. But it will not go down easily.
 
-## A new leader for America’s Catholics
-
-On Thursday American bishops meet in Baltimore as the plenary assembly of the United States Conference of Catholic Bishops wraps up. Earlier this week the bishops elected Timothy Broglio, the archbishop for the armed forces, as their national president. He will be an important voice for the church, notably in the battle over [abortion](https://www.economist.com/united-states/2022/11/11/where-abortion-was-on-the-ballot-americans-voted-to-protect-it) in America.
-
-Archbishop Broglio was not the most ardent pro-life campaigner on the ballot. But the bishops’ hard line on abortion is unlikely to change under his leadership. He supported a religious exemption for covid-19 vaccines, on the grounds that some jabs were developed using cells derived from aborted foetal tissue. His new deputy, Archbishop William Lori, has chaired the conference’s committee on pro-life activities.
-
-The conference is out of step with many American Catholics. According to Pew Research Centre, a think-tank, more than half believe abortion should be legal in all or most cases. 
-
 ## Burberry’s buoyant six months
 
 Though high-street clothing retailers have struggled in 2022, it has been a good year to [tailor the rich](https://www.economist.com/business/2022/10/06/fashion-gets-a-modern-makeover). With their customers less at the mercy of inflation, many luxury fashion brands have enjoyed bumper profits. On Thursday Burberry, a classic British brand, reported a strong £1.3bn ($1.6bn) in sales for the first half of their financial year, with profit higher than the same period in 2019, before the pandemic.
@@ -66,6 +58,14 @@ Like much of the world, Indonesia is battling inflation. In October prices rose 
 
 Joko Widodo, Indonesia’s president, has managed the economy well, keeping government debt low and reintroducing a deficit cap. But that also presents a challenge. Jokowi, as he is known, must step down at the end of his second term, in 2024. His successor may not guide the economy as well as he has.
 
+## A new leader for America’s Catholics
+
+On Thursday American bishops meet in Baltimore as the plenary assembly of the United States Conference of Catholic Bishops wraps up. Earlier this week the bishops elected Timothy Broglio, the archbishop for the armed forces, as their national president. He will be an important voice for the church, notably in the battle over [abortion](https://www.economist.com/united-states/2022/11/11/where-abortion-was-on-the-ballot-americans-voted-to-protect-it) in America.
+
+Archbishop Broglio was not the most ardent pro-life campaigner on the ballot. But the bishops’ hard line on abortion is unlikely to change under his leadership. He supported a religious exemption for covid-19 vaccines, on the grounds that some jabs were developed using cells derived from aborted foetal tissue. His new deputy, Archbishop William Lori, has chaired the conference’s committee on pro-life activities.
+
+The conference is out of step with many American Catholics. According to Pew Research Centre, a think-tank, more than half believe abortion should be legal in all or most cases. 
+
 ## The Latin Grammy Awards
 
 It has been a bumper year for [Latin music](https://www.economist.com/business/2017/09/21/streaming-has-pushed-latin-music-into-the-mainstream). In March Anitta became the first Brazilian singer to top [Spotify’s global song chart](https://www.economist.com/interactive/graphic-detail/2022/01/29/what-spotify-data-show-about-the-decline-of-english). Bad Bunny, a Puerto Rican who was the most-streamed artist on Spotify in 2020 and 2021, has smashed records again in 2022. When his album “Un Verano Sin Ti” (“A Summer Without You”) was released on May 6th, Bad Bunny became then the most-streamed artist on a single day ever. 
@@ -74,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3d6c485447784e4d4f584e4e527d585e52535250544e49135e5250">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1243677b68576162607761617d5277717d7c7d7f7b61663c717d7f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
