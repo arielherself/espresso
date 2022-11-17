@@ -12,21 +12,21 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Britain’s </strong>chancellor, Jeremy Hunt, delivered a budget including spending cuts and tax rises worth nearly £55bn ($65bn), 2.5% of GDP. He hopes it will restore Britain’s [fiscal credibility](https://te.arielherself.xyz/leaders/2022/11/10/the-best-ways-to-fix-britains-budget) after his predecessor damaged it with a programme of unfunded tax cuts. Mr Hunt froze the tax thresholds for income tax, national insurance and inheritance tax, meaning that pay rises will push taxpayers into higher tax bands. State pensions, benefits and tax credits will rise by 10.1%, September’s inflation rate. Most government departments will see their budgets rise by less than the rate of inflation.
+
 The Republican Party narrowly regained control of America’s <strong>House of Representatives</strong>. Eight days after the [midterm elections](https://te.arielherself.xyz/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger), the party clinched its 218th (and decisive) seat, to the Democrats’ 210. Regardless of how the remaining seven races fall, the Republicans&#x27; margin is far slimmer than the party had hoped—and the worst midterm performance by a party out of power in 20 years. Nevertheless, it will allow them to stall much of President Joe Biden’s agenda.
 
 <strong>Mitch McConnell</strong> was re-elected leader of the Republicans in America’s Democrat-controlled <strong>Senate</strong>. He beat Rick Scott, who was backed by Donald Trump. It was the first challenge that Mr McConnell, who has led his party in the Senate since 2007, has faced, marking the latest instance of [Republican infighting](https://te.arielherself.xyz/united-states/2022/11/10/a-republican-victory-will-be-much-smaller-than-democrats-feared).
 
 The UN secretary-general, António Guterres, confirmed that an agreement to allow <strong>Ukraine</strong> to export <strong>grain</strong> by sea, despite an ongoing Russian blockade, would be extended by 120 days. Mr Guterres also said that work was being done to allow Russia to export food and fertiliser. On October 29th Russia announced that it was [abandoning the deal](https://te.arielherself.xyz/europe/2022/10/30/putin-suspends-a-deal-to-allow-grain-exports-from-ukraine).
 
-<strong>Myanmar’s </strong>state media said that the ruling junta released almost 6,000 of the more than 16,000 people it has arrested since seizing power in a coup in February 2021. Among the freed are a former British diplomat and three other foreign nationals. Despite the show of grace, the regime’s war against pro-democracy fighters and ethnic militias [continues](https://te.arielherself.xyz/the-world-ahead/2022/11/14/where-might-conflict-flare-up-in-2023), while the [economy lies in ruins](https://te.arielherself.xyz/asia/2022/09/15/an-economically-illiterate-junta-is-running-myanmar-into-the-ground).
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Myanmar’s </strong>state media said that the ruling junta released almost 6,000 of the more than 16,000 people it has arrested since seizing power in a coup in February 2021. Among the freed are a former British diplomat and three other foreign nationals. Despite the show of grace, the regime’s war against pro-democracy fighters and ethnic militias [continues](https://te.arielherself.xyz/the-world-ahead/2022/11/14/where-might-conflict-flare-up-in-2023), while the [economy lies in ruins](https://te.arielherself.xyz/asia/2022/09/15/an-economically-illiterate-junta-is-running-myanmar-into-the-ground).
 
 <strong>Elon Musk</strong> promised to reduce his time at <strong>Twitter </strong>and eventually install a new boss at the social network. Shares in Tesla, Mr Musk’s electric-vehicle firm, have recently slipped amid investors’ unease over the time he is [devoting to Twitter](https://te.arielherself.xyz/business/2022/11/07/elon-musks-challenge-to-management-thinking), which he acquired for $44bn last month. Earlier Mr Musk sent an ultimatum to Twitter’s employees: commit to a new “hardcore” working environment or leave.
 
 <strong>Luiz Inácio Lula da Silva</strong>, Brazil’s [incoming president](https://te.arielherself.xyz/the-americas/2022/11/03/lulas-foreign-policy-ambitions-will-be-tempered-by-circumstances), was greeted enthusiastically at <strong>COP27</strong>, the UN climate summit in Egypt. Lula told delegates that “Brazil is back” and promised to fight deforestation in the Amazon. Germany and Norway have signalled that they are willing to help revive the “Amazon Fund”, a coalition working to protect the area.
-
-<strong>Xi Jinping</strong> dressed down Canada’s prime minister, <strong>Justin Trudeau</strong>, in a <em>sotto voce</em> exchange at the G20 summit in Bali. China’s president said it was “not appropriate” that details of their recent dialogue, during which Canada accused China of interfering with its elections and other domestic affairs, were leaked. An uncomfortable Mr Trudeau explained that Canada believes “in free and open and frank dialogue”.
 
 <strong>Fact of the day:</strong> 1.6bn, the number of international tourist trips forecast to take place in 2023, still fewer than in 2019. [Read the full story](https://te.arielherself.xyz/the-world-ahead/2022/11/14/ten-trends-to-watch-in-the-coming-year).
 
@@ -74,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9fceeaf6e5daecefedfaececf0dffafcf0f1f0f2f6ecebb1fcf0f2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e2b3978b98a79192908791918da287818d8c8d8f8b9196cc818d8f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
