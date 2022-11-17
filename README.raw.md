@@ -16,9 +16,9 @@
 
 The Republican Party narrowly regained control of America’s <strong>House of Representatives</strong>. Eight days after the [midterm elections](https://www.economist.com/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger), the party clinched its 218th (and decisive) seat, to the Democrats’ 210. Regardless of how the remaining seven races fall, the Republicans&#x27; margin is far slimmer than the party had hoped—and the worst midterm performance by a party out of power in 20 years. Nevertheless, it will allow them to stall much of President Joe Biden’s agenda.
 
-<strong>Mitch McConnell</strong> was re-elected leader of the Republicans in America’s Democrat-controlled <strong>Senate</strong>. He beat Rick Scott, who was backed by Donald Trump. It was the first challenge that Mr McConnell, who has led his party in the Senate since 2007, has faced, marking the latest instance of [Republican infighting](https://www.economist.com/united-states/2022/11/10/a-republican-victory-will-be-much-smaller-than-democrats-feared).
+A Dutch court ruled that <strong>flight MH17</strong>, a Malaysian Airlines plane shot down over Ukraine in 2014, was hit by a <strong>Russian-made missile</strong> system fired by a Kremlin-controlled militia. Two Russians and one Ukrainian were found guilty of murder for [downing the passenger plane](https://www.economist.com/europe/2020/03/08/the-dutch-put-four-men-on-trial-for-shooting-down-flight-mh17), killing 298 people. All three men have been handed life sentences, but are unlikely to be extradited to the Netherlands.
 
-The UN secretary-general, António Guterres, confirmed that an agreement to allow <strong>Ukraine</strong> to export <strong>grain</strong> by sea, despite an ongoing Russian blockade, would be extended by 120 days. Mr Guterres also said that work was being done to allow Russia to export food and fertiliser. On October 29th Russia announced that it was [abandoning the deal](https://www.economist.com/europe/2022/10/30/putin-suspends-a-deal-to-allow-grain-exports-from-ukraine).
+The UN secretary-general, António Guterres, confirmed that an agreement with Russia to allow <strong>Ukraine</strong> to export <strong>grain</strong> by sea, despite an ongoing Russian blockade, would be extended by 120 days. Mr Guterres also said the UN was “fully committed” to facilitating Russian export of food and fertiliser. Russia wants to export ammonia, a vital ingredient in fertiliser, through a pipeline running into Odessa, a Ukrainian port. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -74,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="acfdd9c5d6e9dfdcdec9dfdfc3ecc9cfc3c2c3c1c5dfd882cfc3c1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f2a3879b88b78182809781819db297919d9c9d9f9b8186dc919d9f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
