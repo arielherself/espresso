@@ -18,15 +18,15 @@
 
 A Dutch court ruled that <strong>flight MH17</strong>, a Malaysian Airlines plane shot down over Ukraine in 2014, was hit by a <strong>Russian-made missile</strong> system fired by a Kremlin-controlled militia. Two Russians and one Ukrainian were found guilty of murder for [downing the passenger plane](https://te.arielherself.xyz/europe/2020/03/08/the-dutch-put-four-men-on-trial-for-shooting-down-flight-mh17), killing 298 people. All three men have been handed life sentences, but are unlikely to be extradited to the Netherlands.
 
-The UN secretary-general, António Guterres, confirmed that [an agreement](https://te.arielherself.xyz/the-economist-explains/2022/07/28/will-the-grain-deal-between-russia-and-ukraine-reduce-global-hunger) with Russia to allow <strong>Ukraine</strong> to export <strong>grain</strong> by sea, despite an ongoing Russian blockade, would be extended by 120 days. Mr Guterres also said the UN was “fully committed” to facilitating Russian export of food and fertiliser. Russia wants to export ammonia, a vital ingredient in fertiliser, through a pipeline running into Odessa, a Ukrainian port. 
+<strong>Alibaba</strong>, a Chinese e-commerce giant, reported weak third-quarter growth with revenues reaching 207bn yuan ($29bn), a rise of only 3% compared with the same period a year earlier. China’s zero-covid policy has hurt the firm by hampering consumer spending. On November 11th “Singles’ Day”, when Chinese shoppers usually splurge online, was met with a lukewarm response.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+The UN secretary-general, António Guterres, confirmed that [an agreement](https://te.arielherself.xyz/the-economist-explains/2022/07/28/will-the-grain-deal-between-russia-and-ukraine-reduce-global-hunger) with Russia to allow <strong>Ukraine</strong> to export <strong>grain</strong> by sea, despite an ongoing Russian blockade, would be extended by 120 days. Mr Guterres also said the UN was “fully committed” to facilitating Russian export of food and fertiliser. Russia wants to export ammonia, a vital ingredient in fertiliser, through a pipeline running into Odessa, a Ukrainian port. 
 
 <strong>Myanmar’s </strong>state media said that the ruling junta released almost 6,000 of the more than 16,000 people it has arrested since seizing power in a coup in February 2021. Among the freed are a former British diplomat and three other foreign nationals. Despite the show of grace, the regime’s war against pro-democracy fighters and ethnic militias [continues](https://te.arielherself.xyz/the-world-ahead/2022/11/14/where-might-conflict-flare-up-in-2023), while the [economy lies in ruins](https://te.arielherself.xyz/asia/2022/09/15/an-economically-illiterate-junta-is-running-myanmar-into-the-ground).
 
 <strong>Elon Musk</strong> promised to reduce his time at <strong>Twitter </strong>and eventually install a new boss at the social network. Shares in Tesla, Mr Musk’s electric-vehicle firm, have recently slipped amid investors’ unease over the time he is [devoting to Twitter](https://te.arielherself.xyz/business/2022/11/07/elon-musks-challenge-to-management-thinking), which he acquired for $44bn last month. Earlier Mr Musk sent an ultimatum to Twitter’s employees: commit to a new “hardcore” working environment or leave.
-
-<strong>Luiz Inácio Lula da Silva</strong>, Brazil’s [incoming president](https://te.arielherself.xyz/the-americas/2022/11/03/lulas-foreign-policy-ambitions-will-be-tempered-by-circumstances), was greeted enthusiastically at <strong>COP27</strong>, the UN climate summit in Egypt. Lula told delegates that “Brazil is back” and promised to fight deforestation in the Amazon. Germany and Norway have signalled that they are willing to help revive the “Amazon Fund”, a coalition working to protect the area.
 
 <strong>Fact of the day:</strong> 1.6bn, the number of international tourist trips forecast to take place in 2023, still fewer than in 2019. [Read the full story](https://te.arielherself.xyz/the-world-ahead/2022/11/14/ten-trends-to-watch-in-the-coming-year).
 
@@ -74,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="28795d41526d5b585a4d5b5b47684d4b47464745415b5c064b4745">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4415312d3e013734362137372b0421272b2a2b292d37306a272b29">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
