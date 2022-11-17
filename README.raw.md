@@ -18,7 +18,7 @@ The Republican Party narrowly regained control of America’s <strong>House of R
 
 A Dutch court ruled that <strong>flight MH17</strong>, a Malaysian Airlines plane shot down over Ukraine in 2014, was hit by a <strong>Russian-made missile</strong> system fired by a Kremlin-controlled militia. Two Russians and one Ukrainian were found guilty of murder for [downing the passenger plane](https://www.economist.com/europe/2020/03/08/the-dutch-put-four-men-on-trial-for-shooting-down-flight-mh17), killing 298 people. All three men have been handed life sentences, but are unlikely to be extradited to the Netherlands.
 
-The UN secretary-general, António Guterres, confirmed that an agreement with Russia to allow <strong>Ukraine</strong> to export <strong>grain</strong> by sea, despite an ongoing Russian blockade, would be extended by 120 days. Mr Guterres also said the UN was “fully committed” to facilitating Russian export of food and fertiliser. Russia wants to export ammonia, a vital ingredient in fertiliser, through a pipeline running into Odessa, a Ukrainian port. 
+The UN secretary-general, António Guterres, confirmed that [an agreement](https://www.economist.com/the-economist-explains/2022/07/28/will-the-grain-deal-between-russia-and-ukraine-reduce-global-hunger) with Russia to allow <strong>Ukraine</strong> to export <strong>grain</strong> by sea, despite an ongoing Russian blockade, would be extended by 120 days. Mr Guterres also said the UN was “fully committed” to facilitating Russian export of food and fertiliser. Russia wants to export ammonia, a vital ingredient in fertiliser, through a pipeline running into Odessa, a Ukrainian port. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -74,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b7e6c2decdf2c4c7c5d2c4c4d8f7d2d4d8d9d8dadec4c399d4d8da">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="faab8f9380bf898a889f898995ba9f999594959793898ed4999597">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
