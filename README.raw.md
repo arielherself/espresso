@@ -30,6 +30,8 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Fact of the day:</strong> 1.6bn, the number of international tourist trips forecast to take place in 2023, still fewer than in 2019. [Read the full story](https://www.economist.com/the-world-ahead/2022/11/14/ten-trends-to-watch-in-the-coming-year).
 
+<strong>Correction:</strong> Thursday’s fact of the day stated that there are forecast to be 300m fewer international tourist trips taken in 2023 than were taken in 2019. The difference is forecast to be 200m. Sorry.
+
 ----------
 
 ## Britain’s autumn budget
@@ -72,7 +74,7 @@ On Thursday, at the Latin Grammy Awards in Las Vegas, the acts will probably win
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d485a1bdae91a7a4a6b1a7a7bb94b1b7bbbabbb9bda7a0fab7bbb9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which rock group produced the international hit “Chasing Cars”?
 
