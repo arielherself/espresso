@@ -16,9 +16,9 @@ South Korean and Japanese officials said that <strong>North Korea </strong>test-
 
 <strong>Elon Musk</strong> abruptly closed <strong>Twitter’s</strong> headquarters until Monday, as his unique management style appears to have caused a Twexodus. Staff at the social-media company were given a [“hardcore”](https://te.arielherself.xyz/podcasts/2022/11/17/the-longer-this-chaos-continues-the-bigger-the-risks-for-twitter-musks-management) ultimatum by the [new owner](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last), leaving them the choice between “long hours and high intensity” and a severance package. Hundreds if not thousands are reported to have plumped for the latter.
 
-<strong>Nancy Pelosi</strong> is to step down as leader of the Democratic Party in <strong>America’s House of Representatives</strong>, a position she has held since 2003. Ms Pelosi, the first woman to lead either major party in Congress, will continue to serve as a representative for her Californian district. The Republican Party had just [regained control](https://te.arielherself.xyz/united-states/2022/11/17/in-a-republican-house-investigations-and-fiscal-clashes-loom) of the House; Ms Pelosi’s replacement will lead a minority.
-
 The ruptures at the <strong>Nord Stream gas pipelines</strong> in September were the result of <strong>“grievous sabotage”</strong>, an investigation by Swedish prosecutors concluded. The [controversial pipelines](https://te.arielherself.xyz/the-economist-explains/2021/07/14/why-nord-stream-2-is-the-worlds-most-controversial-energy-project) were created to transport natural gas from Russia to Germany through the Baltic Sea, but tensions over Ukraine meant Nord Stream 2 was never operational. Prosecutors found traces of explosives, but declined to comment on probable suspects.
+
+The <strong>sale of alcohol </strong>has been banned in stadiums, only two days before the [World Cup commences](https://te.arielherself.xyz/international/2022/11/17/the-qatar-world-cup-shows-how-football-is-changing) in <strong>Qatar</strong>. FIFA, football’s governing body, announced the decision on Friday after discussions with “host country authorities”. Anheuser-Busch InBev, the world’s biggest brewer which has sponsored the tournament for $75m, will now only sell Bud Zero, an alcohol-free beverage at stadiums.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -81,7 +81,7 @@ They all gave the correct answers of [Ron DeSantis](https://te.arielherself.xyz/
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b8e9cdd1c2fdcbc8caddcbcbd7f8dddbd7d6d7d5d1cbcc96dbd7d5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="fbaa8e9281be888b899e888894bb9e989495949692888fd5989496">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Friday: </strong>Which author produced a hoax autobiography of the reclusive tycoon, Howard Hughes?
 
