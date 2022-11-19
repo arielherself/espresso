@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-11-18</p>
+# <p align="center">The world in brief 2022-11-19</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -81,7 +81,7 @@ They all gave the correct answers of [Ron DeSantis](https://te.arielherself.xyz/
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8bdafee2f1cef8fbf9eef8f8e4cbeee8e4e5e4e6e2f8ffa5e8e4e6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a4f5d1cddee1d7d4d6c1d7d7cbe4c1c7cbcacbc9cdd7d08ac7cbc9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
   
 <strong>Friday: </strong>Which author produced a hoax autobiography of the reclusive tycoon, Howard Hughes?
 
