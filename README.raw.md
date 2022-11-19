@@ -40,9 +40,9 @@ Mr Macron has long argued for a less formal, more vibrant way for Francophone co
 
 ## Malaysia goes to the polls
 
-On Saturday the three-quarters of Malaysians who think their country is on the wrong track have [a chance to apportion the blame](https://www.economist.com/asia/2022/11/10/malaysias-grand-old-party-eyes-a-comeback). That is tougher than it seems: since the most recent vote, in 2018, Malaysia has had three prime ministers from three different parties. Distracted by bickering and backstabbing, no one has governed well.
+For the first time in its history, Malaysia may end up with a hung parliament after major coalitions in [Saturday’s general election](https://www.economist.com/asia/2022/11/10/malaysias-grand-old-party-eyes-a-comeback) failed to win a simple majority. Political uncertainty is nothing new in Malaysia. Since the most recent vote, in 2018, there have been three prime ministers from three different parties. Distracted by bickering and backstabbing, no one has governed well. 
 
-The ruling Barisan Nasional coalition has promised stability, hoping that voters will look past its atrocious record of corruption. The lead party in the ascendant Perikatan Nasional coalition wants the government to be as devoutly Islamic as the country’s Malay majority, to the dismay of Indian and Chinese voters. And the Pakatan Harapan coalition hopes to rack up votes in cities by talking about good governance, something it failed to deliver after triumphing in 2018. Alas, polls suggest a hung parliament is likely. The next government may be chosen not just in polling booths but in smoke-filled rooms.
+The ruling Barisan Nasional coalition had promised stability, hoping that voters would look past its atrocious record of corruption. The lead party in the ascendant Perikatan Nasional coalition wanted the government to be as devoutly Islamic as the country’s Malay majority, to the dismay of Indian and Chinese voters. And the Pakatan Harapan coalition hoped to rack up votes in cities by talking about good governance, something it failed to deliver after triumphing in 2018. With no clear winner, a combination of parties will now have to negotiate an alliance. The next government will be chosen not just in polling booths but in smoke-filled rooms.
 
 ## “Sarajevo Safari” reopens wounds of the siege
 
