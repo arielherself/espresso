@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>COP27 </strong>in Egypt finally concluded on Sunday morning, 36 hours late, with delegates agreeing to establish a “[loss and damage](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” fund to help those most affected by rising temperatures—something many thought impossible two weeks ago. That seemed to be broadly welcomed by environmental groups. They were less enthused by timid measures to reduce the use of fossil fuels.
-
 <strong>Ukraine’s</strong> [Zaporizhia](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) power plant was hit by shelling on Saturday and Sunday, according to the International Atomic Energy Agency, which warned that such attacks risked causing a nuclear disaster. Russia and Ukraine blamed each other for the attack on the facility, which is in Russian-controlled territory. Rafael Grossi, the head of the IAEA, warned “whoever is behind this” that “you’re playing with fire”.
+
+<strong>COP27 </strong>in Egypt finally concluded on Sunday morning, 36 hours late, with delegates agreeing to establish a “[loss and damage](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” fund to help those most affected by rising temperatures—something many thought impossible two weeks ago. That seemed to be broadly welcomed by environmental groups. They were less enthused by timid measures to reduce the use of fossil fuels.
 
 <strong>China’s</strong> defence ministry said it was willing to meet with <strong>America</strong> at a regional security summit in Cambodia this week. Talks between Austin Lloyd, America’s defence secretary and Wei Fenghe, his Chinese counterpart, would be the first military ones at a high level since China halted such communications after [the visit](https://te.arielherself.xyz/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning) of Nancy Pelosi, America’s House Speaker, to Taiwan in August.
 
@@ -22,7 +22,7 @@ John Ray, the new CEO of <strong>FTX</strong>, until recently one of the world�
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Beijing</strong> told the 3.5m residents of its most populous district to stay at home from Monday, in a bid to contain rising covid-19 infections. China’s capital reported 516 new infections on Sunday, as well as the death of an 87-year-old man, China’s first known covid fatality since May 26th. The government recently announced a [slight easing](https://te.arielherself.xyz/finance-and-economics/2022/11/14/a-radical-shift-in-chinas-property-and-pandemic-policies) of its most draconian covid-control policies.
+<strong>Beijing</strong> told the 3.5m residents of its most populous district to stay at home from Monday, in a bid to contain rising covid-19 infections. China’s capital reported 516 new infections as of 3pm on Sunday, as well as the death of an 87-year-old man, China’s first known covid fatality since May 26th. The government recently announced a [slight easing](https://te.arielherself.xyz/finance-and-economics/2022/11/14/a-radical-shift-in-chinas-property-and-pandemic-policies) of its most draconian covid-control policies.
 
 <strong>Elon Musk</strong>, Twitter’s [new boss](https://te.arielherself.xyz/graphic-detail/2022/10/31/how-will-elon-musk-shape-twitter), said that <strong>Donald Trump’s </strong>account will be reinstated. Mr Musk had launched a poll on the social-media platform asking users whether to allow the former president back onto the site. They narrowly voted “yes”. Mr Trump was banned from Twitter for life in the wake of the Capitol riot in 2021.
 
