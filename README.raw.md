@@ -6,15 +6,15 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-11-19</p>
+# <p align="center">The world in brief 2022-11-20</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Hours after <strong>COP27</strong> was originally supposed to end it was still unclear what agreement, if any, countries might reach. Negotiations at the UN climate summit are stuck over “[loss and damage](https://www.google.com/aclk?sa=l&amp;ai=DChcSEwiB573Lirr7AhXD4O0KHRcDC_sYABAAGgJkZw&amp;sig=AOD64_3fpJl9wivsRU5rSSLWYOYqKYGG4Q&amp;q&amp;adurl&amp;ved=2ahUKEwijirjLirr7AhXMbsAKHblWBvUQ0Qx6BAgIEAE)” funding and a renewed commitment to the 1.5°C target laid out in the Paris Agreement. Earlier on Saturday Frans Timmermans, the EU’s climate chief, said the bloc would “walk away” rather than accept a bad deal.
+Negotiations at <strong>COP27</strong>, the UN <strong>climate summit</strong> in Egypt, stretched into Sunday morning. Delegates bedded down in the conference centre in Sharm el-Sheikh while they waited for a deal to be revealed and, hopefully, adopted. After much debate over “[loss and damage](https://www.economist.com/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” funding, the final showdown actually revolves around whether countries should commit to reducing their use of all [fossil fuels](https://www.economist.com/the-economist-explains/2022/11/17/what-is-the-fossil-fuel-industry-doing-at-cop27).
 
-<strong>Elon Musk</strong>, the billionaire [owner](https://www.economist.com/graphic-detail/2022/10/31/how-will-elon-musk-shape-twitter) of <strong>Twitter</strong>, launched a poll on the social-media platform asking users whether he should reinstate <strong>Donald Trump’s</strong> access. The former American president was banned from Twitter for life in the wake of the Capitol riot in 2021 because of the “risk of further incitement of violence”, according to the company. Twitter has reinstated a number of previously banned accounts—including that of Jordan Peterson, an academic—in recent days.
+<strong>Elon Musk</strong>, the billionaire [owner](https://www.economist.com/graphic-detail/2022/10/31/how-will-elon-musk-shape-twitter) of <strong>Twitter</strong>, launched a poll on the social-media platform asking users whether he should reinstate <strong>Donald Trump’s</strong> access. They narrowly voted “yes”. The former American president was banned from Twitter for life in the wake of the Capitol riot in 2021 because of the “risk of further incitement of violence”, according to the company. Twitter has reinstated a number of previously banned accounts—including that of Jordan Peterson, an academic—in recent days.
 
 <strong>John Ray, </strong>the new CEO of <strong>FTX</strong>, until recently a major crypto exchange, said that he is looking to sell or restructure its businesses. Mr Ray took over from [Sam Bankman-Fried](https://www.economist.com/briefing/2022/11/17/what-sam-bankman-frieds-downfall-means-for-effective-altruism), the exchange’s founder, amid the company’s implosion. The saga has left behind 1m creditors and triggered several investigations. A timeline for a possible sale is not clear.
 
