@@ -18,7 +18,7 @@
 
 <strong>China’s</strong> defence ministry said it was willing to meet with <strong>America</strong> at a regional security summit in Cambodia this week. Talks between Austin Lloyd, America’s defence secretary and Wei Fenghe, his Chinese counterpart, would be the first military ones at a high level since China halted such communications after [the visit](https://www.economist.com/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning) of Nancy Pelosi, America’s House Speaker, to Taiwan in August.
 
-John Ray, the new CEO of <strong>FTX</strong>, until recently one of the world’s biggest crypto exchanges, said that he is looking to sell or restructure its businesses. The company owes its 50 biggest creditors nearly $3.1bn and has left behind 1m creditors overall. A timeline for Mr Ray’s possible completion is not clear.
+A 22-year-old was named as a suspect in the <strong>Colorado shooting</strong> that killed at least five people and injured dozens more. Anderson Lee Aldrich is accused of opening fire at a gay nightclub before being stopped by local patrons. Joe Biden, America’s president, said that inequities that “contribute to violence against LGBTQI+ people” must be driven out.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -40,7 +40,7 @@ Meanwhile Russia, retreating on the ground, is intensifying its war in the air. 
 
 ## A “new Kazakhstan”, but politics as usual
 
-Kazakhstan [votes on Sunday](https://www.economist.com/asia/2022/11/17/old-politics-in-the-new-kazakhstan) in a presidential election that Kassym-Zhomart Tokayev, the incumbent, is expected to win by a landslide. He called the vote 18 months early to deliver a “radical reset” of the political system, following protests in January that left 238 people dead and threatened Mr Tokayev’s grip on power.
+Kassym-Jomart Tokayev, Kazakhstan’s president, won more than 80% of the vote in [Sunday’s snap election](https://www.economist.com/asia/2022/11/17/old-politics-in-the-new-kazakhstan), according to an exit poll. Mr Tokayev called the vote 18 months early to deliver a “radical reset” of the political system, following protests in January that left 238 people dead and threatened his grip on power.
 
 Nursultan Nazarbayev, Mr Tokayev’s predecessor, stamped out political opposition in the Central Asian country. He was routinely re-elected with vote shares of nearly 100%. He stepped down in 2019 with the intention of micromanaging his successor. But Mr Tokayev has distanced himself from the former strongman. Many suspect that Mr Nazarbayev’s cronies stoked the violence in January.
 
