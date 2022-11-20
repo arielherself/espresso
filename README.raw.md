@@ -18,7 +18,7 @@
 
 <strong>Elon Musk</strong>, Twitter’s [new boss](https://www.economist.com/graphic-detail/2022/10/31/how-will-elon-musk-shape-twitter), said that <strong>Donald Trump’s </strong>account will be reinstated. Mr Musk had launched a poll on the social-media platform asking users whether to allow the former president back onto the site. They narrowly voted “yes”. Mr Trump was banned from Twitter for life in the wake of the Capitol riot in 2021.
 
-<strong>John Ray, </strong>the new CEO of <strong>FTX</strong>, until recently one of the world’s biggest crypto exchanges, said that he is looking to sell or restructure its businesses. Mr Ray took over from [Sam Bankman-Fried](https://www.economist.com/briefing/2022/11/17/what-sam-bankman-frieds-downfall-means-for-effective-altruism), the exchange’s founder, amid the company’s implosion. The saga has left behind 1m creditors and triggered several investigations. A timeline for the possible sale is not clear.
+<strong>John Ray, </strong>the new CEO of <strong>FTX</strong>, until recently one of the world’s biggest crypto exchanges, said that he is looking to sell or restructure its businesses. Mr Ray took over from [Sam Bankman-Fried](https://www.economist.com/briefing/2022/11/17/what-sam-bankman-frieds-downfall-means-for-effective-altruism), the exchange’s founder, amid the company’s implosion. The saga has left behind 1m creditors and triggered several investigations. A timeline for the possible completion is not clear.
 
 Listen to an abridged version of the subscriber-only briefing.
 
