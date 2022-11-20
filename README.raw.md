@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>COP27</strong> in Egypt finally concluded on Sunday morning, 36 hours late, with delegates agreeing to establish a “[loss and damage](https://www.economist.com/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” fund to help those most affected by rising temperatures—something many thought impossible two weeks ago. Despite that achievement, negotiations at the <strong>UN climate summit</strong> were snarled by acrimony between countries and disappointment at a lack of ambition to mitigate against climate change.
+<strong>COP27 </strong>in Egypt finally concluded on Sunday morning, 36 hours late, with delegates agreeing to establish a “[loss and damage](https://www.economist.com/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” fund to help those most affected by rising temperatures—something many thought impossible two weeks ago. That seemed to be broadly welcomed by environmental groups. They were less enthused by timid measures to reduce the use of fossil fuels.
 
 <strong>Malaysia</strong> looks set for a hung parliament, after none of the three big coalitions secured a majority in the country’s general election. A group led by [Anwar Ibrahim](https://www.economist.com/asia/2022/11/10/malaysias-grand-old-party-eyes-a-comeback), the opposition leader, won the most seats; he is trying to attract support from enough other MPs to form a government. An alliance that includes Muhyiddin Yassin, a former prime minister, and an Islamic party, fared surprisingly well.
 
