@@ -18,7 +18,7 @@ Three and a half million residents in <strong>Beijing’s</strong> most populous
 
 <strong>Ukraine </strong>came close to nuclear disaster as shells hit near reactors and radioactive waste storage facilities at the [Zaporizhia](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) <strong>power plant</strong> on the weekend, according to the International Atomic Energy Agency. Russia and Ukraine blamed each other for the attack on the facility, which is in Russian-controlled territory. Volodymyr Zelensky said that Russian forces launched almost 400 strikes on eastern Ukraine on Sunday.
 
-A shallow 5.6-magnitude <strong>earthquake </strong>hit Java, [Indonesia](https://te.arielherself.xyz/leaders/2022/11/17/why-indonesia-matters)’s most-populated island, on Monday killing at least 60 people and injuring hundreds more. Dozens of buildings were reduced to rubble in the densely-populated Cianjur region, which is 75km southeast of Jakarta, the capital. People were evacuated amid a risk of landslides.
+A shallow 5.6-magnitude <strong>earthquake </strong>hit Java, [Indonesia](https://te.arielherself.xyz/leaders/2022/11/17/why-indonesia-matters)’s most populated island, on Monday, killing at least 60 people and injuring hundreds more. Dozens of buildings were reduced to rubble in the densely-populated Cianjur region, which is 75km southeast of Jakarta, the capital. People were evacuated amid a risk of landslides.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -70,7 +70,7 @@ Hollywood has tended to revere the super-rich, but now it seems that the knives 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="fdac889487b88e8d8f988e8e92bd989e92939290948e89d39e9290">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2273574b58675152504751514d6247414d4c4d4f4b51560c414d4f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Blood-, grey- and fox- are all followed by which suffix?
 
