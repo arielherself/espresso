@@ -18,15 +18,15 @@ Three and a half million residents in <strong>Beijing’s</strong> most populous
 
 <strong>Ukraine </strong>came close to nuclear disaster as shells hit near reactors and radioactive waste storage facilities at the [Zaporizhia](https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) <strong>power plant</strong> on the weekend, according to the International Atomic Energy Agency. Russia and Ukraine blamed each other for the attack on the facility, which is in Russian-controlled territory. Volodymyr Zelensky said that Russian forces launched almost 400 strikes on eastern Ukraine on Sunday.
 
-The football associations of seven European countries told their captains not to wear “OneLove” armbands, promoting sexual equality, at the <strong>World Cup</strong> in [Qatar](https://www.economist.com/leaders/2022/11/17/in-defence-of-qatars-hosting-of-the-world-cup). Players had been prepared to pay fines for doing so but FIFA, football’s governing body, threatened yellow cards. Gay sex is illegal in Qatar. The tournament opened on Sunday with a 2-0 drubbing of the host country by Ecuador.
+A shallow 5.6-magnitude <strong>earthquake </strong>hit Java, [Indonesia](https://www.economist.com/leaders/2022/11/17/why-indonesia-matters)’s most-populated island, on Monday killing at least 56 people and injuring hundreds more. Dozens of buildings were reduced to rubble in the densely-populated Cianjur region, which is 75km southeast of Jakarta, the capital. People were evacuated amid a risk of landslides.
 
 Listen to an abridged version of the subscriber-only briefing.
 
 Kassym-Zhomart Tokayev, <strong>Kazakhstan’s</strong> president, won another term by a landslide, after calling a snap election. Mr Tokayev was handed power in 2019 by Nursultan Nazarbayev, who had ruled for 30 years. The new president has tried to [distance himself](https://www.economist.com/asia/2022/11/17/old-politics-in-the-new-kazakhstan) from his patron by pushing through reforms, pursuing oligarchs and giving sanctuary to Russians fleeing conscription. He did, however, quash political protests [mercilessly](https://www.economist.com/briefing/2022/01/13/kazakhstans-bloody-turbulence-will-affect-all-of-central-asia) in January.
 
-<strong>Turkey’s </strong>defence ministry said that its warplanes pounded <strong>Kurdish </strong>militants in both <strong>Iraq </strong>and <strong>Syria</strong>. The attacks were conducted from Saturday night into Sunday: exactly a week after a bomb planted in Istanbul killed six civilians. Turkey blamed Kurdish groups, all of which denied responsibility. American-backed Kurds [operating from Syria](https://www.economist.com/middle-east-and-africa/2019/10/10/turkey-launches-an-attack-on-northern-syria) reported that 11 people were killed there, including a journalist.
-
 A deal that would have bound together two of America’s biggest publishers, <strong>Simon &amp; Schuster</strong> and <strong>Penguin Random House</strong>, has just about come unglued. Bertelsmann, a German media giant and PRH’s parent, announced the plan in 2020, but earlier this month a judge blocked the [$2.2bn merger](https://www.economist.com/business/2020/11/26/bertelsmann-snaps-up-simon-and-schuster) on antitrust grounds. Simon &amp; Schuster’s owner has reportedly declined to join a legal appeal to save it.
+
+The football associations of seven European countries told their captains not to wear “OneLove” armbands, promoting sexual equality, at the <strong>World Cup</strong> in [Qatar](https://www.economist.com/leaders/2022/11/17/in-defence-of-qatars-hosting-of-the-world-cup). Players had been prepared to pay fines for doing so but FIFA, football’s governing body, threatened yellow cards. Gay sex is illegal in Qatar. The tournament opened on Sunday with a 2-0 drubbing of the host country by Ecuador.
 
 <strong>Fact of the day:</strong> 90%, the percentage of its revenue that FIFA makes from the World Cup. [Read the full story](https://www.economist.com/international/2022/11/17/the-qatar-world-cup-shows-how-football-is-changing).
 
@@ -70,7 +70,7 @@ Hollywood has tended to revere the super-rich, but now it seems that the knives 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1e4f6b77645b6d6e6c7b6d6d715e7b7d71707173776d6a307d7173">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5607233f2c13252624332525391633353938393b3f25227835393b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Blood-, grey- and fox- are all followed by which suffix?
 
