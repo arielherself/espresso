@@ -12,109 +12,67 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukraine’s</strong> [Zaporizhia](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) power plant was hit by shelling on Saturday and Sunday, according to the International Atomic Energy Agency, which warned that such attacks risked causing a [nuclear disaster](https://te.arielherself.xyz/europe/2022/11/20/an-alarming-tug-o-war-over-a-ukrainian-nuclear-plant). Russia and Ukraine blamed each other for the attack on the facility, which is in Russian-controlled territory. Rafael Grossi, the head of the IAEA, warned “whoever is behind this” that “you’re playing with fire”.
+<strong>Bob Iger</strong> returned as boss of <strong>Disney</strong>, less than a year after he left the theme-park-to-superheroes behemoth. Mr Iger, who previously ran Disney from 2005-2020, replaces Bob Chapek, who lasted less than three years. The firm’s share price has nosedived this year as investors fret over its [expensive foray](https://te.arielherself.xyz/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) into <strong>streaming services</strong>. That division lost $1.5bn during the past quarter. During his previous tenure, Mr Iger was credited with turning Disney into one of the world’s most [formidable content-and-technology powerhouses](https://te.arielherself.xyz/business/2020/02/27/bob-iger-king-of-disneyland).
 
-<strong>COP27 </strong>in Egypt finally concluded on Sunday morning, 36 hours late, with delegates agreeing to establish a “[loss and damage](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” fund to help those most affected by rising temperatures—something many thought impossible two weeks ago. That seemed to be broadly welcomed by environmental groups. They were less enthused by timid measures to reduce the use of fossil fuels.
+Three-and-a-half million residents in <strong>Beijing’s</strong> most populous district were asked to stay home from Monday, in a bid to contain rising covid-19 infections. China’s capital reported nearly 1,000 new cases on Monday, a day after acknowledging fatalities for the first time since May. Parts of <strong>Guangzhou</strong>, a giant southern city, were also locked down. The government recently [eased](https://te.arielherself.xyz/finance-and-economics/2022/11/14/a-radical-shift-in-chinas-property-and-pandemic-policies) some covid-control policies.
 
-<strong>China’s</strong> defence ministry said it was willing to meet with <strong>America</strong> at a regional security summit in Cambodia this week. Talks between Lloyd Austin, America’s defence secretary and Wei Fenghe, his Chinese counterpart, would be the first military ones at a high level since China halted such communications after [the visit](https://te.arielherself.xyz/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning) of Nancy Pelosi, America’s House Speaker, to Taiwan in August.
+<strong>Ukraine’s</strong> [Zaporizhia](https://te.arielherself.xyz/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant) power plant was hit by shelling on Saturday and Sunday, according to the International Atomic Energy Agency, which warned that such attacks risked causing a [nuclear disaster](https://te.arielherself.xyz/europe/2022/11/20/an-alarming-tug-o-war-over-a-ukrainian-nuclear-plant). <strong>Russia </strong>and Ukraine blamed each other for the attack on the facility, which is in Russian-controlled territory. Rafael Grossi, the head of the IAEA, warned “whoever is behind this” that “you’re playing with fire”.
 
-A 22-year-old was named as a suspect in the <strong>Colorado shooting</strong> that killed at least five people and injured dozens more. Anderson Lee Aldrich is accused of opening fire at a gay nightclub before being stopped by local patrons. Joe Biden, America’s president, said that inequities that “contribute to violence against LGBTQI+ people” must be driven out.
+Kassym-Jomart Tokayev, <strong>Kazakhstan’s</strong> president, won another term by a landslide, after calling a snap election. Mr Tokayev was handed power in 2019 by Nursultan Nazarbayev, who had ruled for 30 years. The new president has tried to [distance himself](https://te.arielherself.xyz/asia/2022/11/17/old-politics-in-the-new-kazakhstan) from his patron by pushing through reforms, pursuing oligarchs and giving sanctuary to Russians fleeing conscription. He did, however, quash political protests [mercilessly](https://te.arielherself.xyz/briefing/2022/01/13/kazakhstans-bloody-turbulence-will-affect-all-of-central-asia) in January.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Beijing</strong> told the 3.5m residents of its most populous district to stay at home from Monday, in a bid to contain rising covid-19 infections. China’s capital reported 516 new infections as of 3pm on Sunday, as well as the death of an 87-year-old man, China’s first known covid fatality since May 26th. The government recently announced a [slight easing](https://te.arielherself.xyz/finance-and-economics/2022/11/14/a-radical-shift-in-chinas-property-and-pandemic-policies) of its most draconian covid-control policies.
+<strong>Turkey’s </strong>defence ministry said that its warplanes pounded <strong>Kurdish </strong>militants in both <strong>Iraq </strong>and <strong>Syria</strong>. The attacks were conducted from Saturday night into Sunday: exactly a week after a bomb planted in Istanbul killed six civilians. Turkey blamed Kurdish groups, all of which denied responsibility. American-backed Kurds [operating from Syria](https://te.arielherself.xyz/middle-east-and-africa/2019/10/10/turkey-launches-an-attack-on-northern-syria) reported that 11 people were killed there, including a journalist.
 
-<strong>Donald Trump’s </strong>Twitter account was reactivated after <strong>Elon Musk</strong>, Twitter’s [new boss](https://te.arielherself.xyz/graphic-detail/2022/10/31/how-will-elon-musk-shape-twitter), ran a poll on the social-media platform asking users whether the former president should be allowed back. They narrowly voted “yes”. Mr Trump, who was banned in the wake of the Capitol riot in 2021, snubbed the gesture. He had said that he will remain on Truth Social, his own platform.
+A deal that would have bound together two of America’s biggest publishers, <strong>Simon &amp; Schuster</strong> and <strong>Penguin Random House</strong>, has just about come unglued. Bertelsmann, a German media giant and PRH’s parent, announced the plan in 2020, but earlier this month a judge blocked the [$2.2bn merger](https://te.arielherself.xyz/business/2020/11/26/bertelsmann-snaps-up-simon-and-schuster) on antitrust grounds. Simon &amp; Schuster’s owner has reportedly declined to join a legal appeal to save it.
 
-<strong>Qatar </strong>had a disappointing start to the <strong>World Cup</strong>. The hosts lost 2-0 to Ecuador in the opening night of the tournament. It is the first time a [host country](https://te.arielherself.xyz/leaders/2022/11/17/in-defence-of-qatars-hosting-of-the-world-cup) has lost an opening match in the [history of the World Cup](https://te.arielherself.xyz/graphic-detail/2022/11/18/is-the-world-cup-a-giant-waste-of-moneyhttps:/te.arielherself.xyz/international/2022/11/17/the-qatar-world-cup-shows-how-football-is-changing). The upset was witnessed by Tamim bin Hamad Al Thani, Qatar’s emir, other royals and a crowd of 60,000 people.
+A 22-year-old was named as a suspect in the <strong>Colorado Springs shooting</strong> that killed at least five people and injured dozens more. Anderson Lee Aldrich is accused of opening fire at a gay nightclub before patrons managed to subdue him with his own weapon. President Joe Biden said that America “must not tolerate hate” and identified [gun violence](https://te.arielherself.xyz/united-states/2022/05/25/the-spate-of-gun-violence-shows-american-exceptionalism-at-its-worst) as a “public-health epidemic”.
 
-<strong>Word of the week: </strong><em>kafala</em>, an Arabic word roughly meaning “sponsorship”. Workers under Qatar’s <em>kafala </em>system often have their freedom curtailed. [Read the full story.](https://te.arielherself.xyz/international/2022/11/17/the-qatar-world-cup-shows-how-football-is-changing)
+<strong>Fact of the day:</strong> 90%, the percentage of its revenue that FIFA makes from the World Cup. [Read the full story](https://te.arielherself.xyz/international/2022/11/17/the-qatar-world-cup-shows-how-football-is-changing).
 
 ----------
 
-## What next for Ukraine?
+## After COP27, hopes for climate mitigation look to Dubai
 
-One week on from Ukraine’s liberation of Kherson city, the frontlines of the war are stabilising again. Russia has been building new defensive positions on the left bank of the Dnieper river and moving thousands of troops from Kherson province to shore up its lines elsewhere. Western officials are unsure whether Ukraine has enough left in the tank for another big offensive before the end of the year. If so, it might come in Luhansk, a region in the east where Russia is under sustained pressure around the city of Svatove, or even in Zaporizhia, towards the “land bridge” to Crimea.
+After the tortuous [brokering of COP27](https://te.arielherself.xyz/international/2022/11/20/a-new-un-fund-for-loss-and-damage-emerges-from-cop27) finally ended, Frans Timmermans, the EU’s lead negotiator, took to the floor. “Tomorrow,” he told delegates, “we start preparing for COP28.” Like many, Mr Timmermans was disappointed that the summit in Egypt did not go further to reduce greenhouse-gas emissions. He also stressed the need for countries at the next conference—which will be held in Dubai in November 2023—to make a firm commitment to reduce their use of all fossil fuels. 
 
-Meanwhile Russia, retreating on the ground, is intensifying its war in the air. On Thursday it conducted five air strikes and launched 25 cruise missiles across Ukraine. The campaign is designed to destroy the country’s energy infrastructure and leave Ukrainians [shivering over winter](https://te.arielherself.xyz/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter). In Kyiv, temperatures have dropped below freezing and the first snow of the season has arrived.
+That might be tricky. Oil and natural gas power the economy of the United Arab Emirates, the next host. Alongside other petrostates, it fought to stop [fossil fuels](https://te.arielherself.xyz/the-economist-explains/2022/11/17/what-is-the-fossil-fuel-industry-doing-at-cop27) from being discussed more seriously in Sharm el-Sheikh. And although the biggest breakthrough at COP27 was the agreement to establish a “[loss-and-damage](https://te.arielherself.xyz/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” fund to help vulnerable countries recover after disasters, the details of how that fund might operate will now have to be agreed.
 
-## A “new Kazakhstan”, but politics as usual
+## The long road ahead for Evergrande
 
-Kassym-Jomart Tokayev, Kazakhstan’s president, won more than 80% of the vote in [Sunday’s snap election](https://te.arielherself.xyz/asia/2022/11/17/old-politics-in-the-new-kazakhstan), according to an exit poll. Mr Tokayev called the vote 18 months early to deliver a “radical reset” of the political system, following protests in January that left 238 people dead and threatened his grip on power.
+On Monday a plot of land in Shenzhen, a city in south China, will go up for auction. It was supposed to be the new headquarters for Evergrande. But thoughts of a shiny new office are far off for the struggling Chinese property developer. The company is months behind schedule for releasing a plan on restructuring its massive debts. The group, which has some $300bn in liabilities, has been the bellwether for China’s embattled [property industry](https://te.arielherself.xyz/finance-and-economics/2022/11/17/only-a-revived-economy-can-save-chinas-property-industry). It defaulted in December, promising to produce a restructuring plan within six months. But investors remain in the dark.
 
-Nursultan Nazarbayev, Mr Tokayev’s predecessor, stamped out political opposition in the Central Asian country. He was routinely re-elected with vote shares of nearly 100%. He stepped down in 2019 with the intention of micromanaging his successor. But Mr Tokayev has distanced himself from the former strongman. Many suspect that Mr Nazarbayev’s cronies stoked the violence in January.
+The Chinese government [recently announced](https://te.arielherself.xyz/finance-and-economics/2022/11/14/a-radical-shift-in-chinas-property-and-pandemic-policies) measures that will help distressed property firms. Bank loans for some companies that were due in the next six months can now be extended. But it is unclear how much this will help Evergrande, which is still being forced to hock assets, such as the land in Shenzhen, to avoid collapse.
 
-Mr Tokayev now promises to foster multiparty democracy. He says he is building a “new Kazakhstan” but seems to be using Mr Nazarbayev’s playbook. The “opposition” in Sunday’s election consists of five political nobodies who have done nothing to hold Mr Tokayev to account. His re-election is certain. It is very much old-style politics in Mr Tokayev’s new Kazakhstan.
+## Kosovo and Serbia look for a deal
 
-## The World Cup kicks off
+Albin Kurti, Kosovo’s prime minister, and Aleksandar Vucic, Serbia’s president, meet in Brussels on Monday as the EU seeks to calm the latest tensions between the Balkan neighbours. The meeting coincides with a deadline set by Kosovo for drivers in mostly ethnically Serb areas to ditch Serbia-issued licence plates, or face a fine when driving in Kosovo. 
 
-Rarely has a global sporting event created as much apprehension as the football World Cup in Qatar. The party, which starts on Sunday when Qatar takes on Ecuador, does not feel festive yet. On Friday officials banned the sale of alcohol in stadiums. Accommodation is still being completed. Fans have arrived, but no one is sure if they are real or paid by the organisers. The timing of the tournament, in the middle of a gruelling European football season, means teams have had little time to prepare.
+Kosovo, where the majority of people are ethnic Albanians, declared independence from Serbia in 2008. Although 117 countries recognise it internationally, Serbia does not. The latest spat, which has prompted Kosovo Serbs to quit some of the country’s institutions, has only increased tensions.
 
-The stadiums, however, are ready. Built at enormous cost and on the backs of migrant labourers, they will look superb on camera. And though they may be exhausted, the players will be up for it. The World Cup remains the sport’s biggest prize. And when the stars light up the pitch, even the most cynical fans may [forget their misgivings](https://te.arielherself.xyz/leaders/2022/11/17/in-defence-of-qatars-hosting-of-the-world-cup), which range from concerns over FIFA’s corruption to Qatar’s poor human-rights record.
+Even if Messrs Kurti and Vucic can cobble together a deal on number plates, more needed is an agreement on major issues such as the proposed creation of an “association” of Kosovo Serb municipalities. But that would require unpopular political risks, which neither leader is willing to take.
 
-## Mind (control) where you’re going
+## Twitter’s mass unfollowing
 
-For many people, the merging of the human mind and robotic intelligence is more than a pipe dream or science fiction. Those with [spinal-cord injury](https://te.arielherself.xyz/science-and-technology/spinal-implants-allow-paralysed-people-to-walk-swim-and-cycle-again/21807596), for instance, can use technology that connects nerves beneath damaged tissue to the brain, allowing the paralysed to walk again. Now, as reported in the journal <em>iScience</em>, three tetraplegics—people paralysed from the neck down—have learned to use mind-controlled wheelchairs. Special skullcaps sensed their brain waves, which were translated into directions for an intelligent-powered wheelchair.
+Soon after becoming Twitter’s owner, chief executive and only board member on October 27th, Elon Musk ordered staff to stop working from home and get back to the office. Last Thursday they received an email announcing, without explanation, that the firm’s San Francisco headquarters were closed. On Monday the office will reopen. The question is how many staff will come back.
 
-The commands were simple: concentrate on moving both hands to turn left, and both feet to turn right. As the participants practised, the algorithm improved at interpreting their personal brain patterns. The humans’ brains changed too: their neural connectivity evolved as mind control came more naturally. After several months of training, two of the three tetraplegics could navigate a cluttered room using thought alone.
+If Mr Musk’s three weeks in charge have looked chaotic from the outside (the latest: reinstating Donald Trump’s account, following an online poll—and then Kanye West’s), internally they have been even bumpier. He sacked half the employees in his first week, and later laid off contractors moderating content. Last week he ordered remaining staff to recommit to “extremely hardcore” work, or leave. Many reportedly walked.
 
-## Weekend profile: Changpeng Zhao, boss of Binance
+Twitter had been [overstaffed](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last), relative to peers. But the scale and speed of the exodus is destabilising. Mr Musk warned recently that Twitter could [run out of money](https://te.arielherself.xyz/business/2022/11/17/alternatives-to-twitter-see-an-influx-of-users). Before that it may run out of people.
 
-The implosion of [FTX](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried), until recently a major crypto exchange, has left plenty of people with egg on their faces. But one crypto giant has emerged stronger—at least for now. Binance has cemented its status as the world’s largest cryptocurrency exchange. And [Changpeng Zhao](https://te.arielherself.xyz/the-economist-explains/2022/11/16/who-is-changpeng-zhao-the-chief-executive-of-binance), its 45-year-old co-founder and boss, has triumphed. The crypto crash may have taken its toll on Mr Zhao’s fortune, but he is still worth a cool $17bn. 
+## In “Glass Onion”, Hollywood targets the mega-rich
 
-Mr Zhao was born in China in 1977. When he was 12 his family, facing repression at home, fled to Canada. But after studying computer science at McGill University in Montreal, Mr Zhao returned to China. In 2015, convinced that bitcoin “would do to finance what the internet would do to information,” he launched Bijie Tech, which offered software to crypto exchanges, in Shanghai. 
+In 2019 Rian Johnson, a director, introduced viewers to the camp murder mystery of “Knives Out”, starring Daniel Craig as Benoit Blanc, a detective extraordinaire, sniffing out a killer in a clique of entitled snobs in Massachusetts. Now Mr Johnson is back with “Glass Onion: A Knives Out Mystery”, another mind-bendingly intricate whodunnit starring Mr Craig, this time set on a private Greek island.
 
-China soon shut down all crypto exchanges, but Mr Zhao was undeterred, skirting Chinese restrictions by relocating to various hubs around Asia. In July 2017 he launched his own cryptocurrency exchange, Binance. Today dozens of billions of dollars worth of assets change hands each day on the platform; Binance usually takes a 0.1% fee for its trouble. 
+Mr Johnson’s delightfully colourful and clever comedy, which is released in America and Britain on November 23rd, is part of an intriguing trend. Two other recent releases have crass multi-millionaires getting their bloody comeuppance on small islands: “The Menu”, starring Ralph Fiennes as a vengeful celebrity chef, and “Triangle Of Sadness”, the winner of the Palme d’Or at this year’s Cannes Film Festival.
 
-The company has thrived thanks to Mr Zhao’s ruthless decision-making. At the height of the boom in ICOs (initial coin offerings) in 2017, Binance rushed to list the flurry of newly launched cryptocurrencies, as other exchanges dawdled. Earlier this month, after rumours of trouble emerged at FTX, Mr Zhao said that Binance would sell $600m-worth of an FTX token—a move that precipitated his rival’s cash crunch. 
+Hollywood has tended to revere the super-rich, but now it seems that the knives are out.
 
-A complete crash across the sector would probably obliterate Mr Zhao’s wealth, most of which [is held](https://te.arielherself.xyz/christmas-specials/2021/12/18/the-most-powerful-people-in-crypto) in digital assets. And Binance faces other problems. Critics say Mr Zhao’s taste for “controlled chaos”, his reliance on a small inner circle and his ravenous appetite for growth have led to corner-cutting. The exchange’s history is peppered with damaging hacks and allegations of money-laundering. This week Mr Zhao promised more transparency and said Binance would prove that it has enough liquid assets to face any crisis. Yet as the crypto crash deepens and regulators come sniffing, the digital Teflon Man may not prove resistant to corrosion forever.
+## Daily quiz
 
-## Weekly crossword
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ccde9f5e6d9efeceef9efeff3dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist.</em>
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown the winners in next week’s edition.
-
-<strong>November 19th edition</strong>
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Ineffective altruist framed in bank restructuring? (7-5) 
-
-<em>1 across</em> Audibly take pleasure in language (6) 
-
-<em>2 across </em>Bug found in tangerines (5) 
-
-<em>3 across</em> Close friend shot from inside city (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>A former golden boy (7-5)
-
-<em>1 across </em>Something that may be far older than anyone thought (6)
-
-<em>2 across</em> The key binding ingredient of Trumpism (5)
-
-3 <em>across </em>Where mobile bomb shelters are being installed (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Hyunwook Kim</strong>, Seoul, South Korea 
-
-North America: <strong>Donald Rotzien</strong>, Greenwich, Connecticut, America
-
-Central and South America: <strong>Caio Priszculnik</strong>, São Paulo, Brazil
-
-Europe: <strong>Bruce Doy</strong>, Chelmsford, Britain
-
-Africa: <strong>Carin Tredoux</strong>, Kempton Park, South Africa
-
-Oceania: <strong>Dominic Harvey</strong>, Auckland, New Zealand
-
-They all gave the correct answers of: Dora Carrington, pigs, Barney’s, Snow Patrol and Clifford Irving. The theme is children’s television shows: “Dora the Explorer”, “Peppa Pig”, “Barney and Friends”, “Paw Patrol” and “Clifford the Big Red Dog”.
+<strong>Monday: </strong>Blood-, grey- and fox- are all followed by which suffix?
 
 ----------
 
