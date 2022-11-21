@@ -22,7 +22,7 @@ A shallow 5.6-magnitude <strong>earthquake </strong>hit Java, [Indonesia](https:
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Kassym-Zhomart Tokayev, <strong>Kazakhstan’s</strong> president, won another term by a landslide, after calling a snap election. Mr Tokayev was handed power in 2019 by Nursultan Nazarbayev, who had ruled for 30 years. The new president has tried to [distance himself](https://www.economist.com/asia/2022/11/17/old-politics-in-the-new-kazakhstan) from his patron by pushing through reforms, pursuing oligarchs and giving sanctuary to Russians fleeing conscription. He did, however, quash political protests [mercilessly](https://www.economist.com/briefing/2022/01/13/kazakhstans-bloody-turbulence-will-affect-all-of-central-asia) in January.
+<strong>Turkey’s</strong> president, Recep Tayyip Erdogan, said that “ground forces” could be used in an incursion into <strong>Kurdish-controlled Syria</strong> in retaliation for a deadly attack in Gaziantep, a Turkish province. Mortar shells fired from northern Syria on Monday killed two people. Cross-border tensions escalated after Turkish air raids on Kurdish militants in Syria on Sunday in response to a bomb attack in Istanbul last week.
 
 A deal that would have bound together two of America’s biggest publishers, <strong>Simon &amp; Schuster</strong> and <strong>Penguin Random House</strong>, has just about come unglued. Bertelsmann, a German media giant and PRH’s parent, announced the plan in 2020, but earlier this month a judge blocked the [$2.2bn merger](https://www.economist.com/business/2020/11/26/bertelsmann-snaps-up-simon-and-schuster) on antitrust grounds. Simon &amp; Schuster’s owner has reportedly declined to join a legal appeal to save it.
 
@@ -70,7 +70,7 @@ Hollywood has tended to revere the super-rich, but now it seems that the knives 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0e5f7b67744b7d7e7c6b7d7d614e6b6d61606163677d7a206d6163">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6a3b1f03102f191a180f1919052a0f090504050703191e44090507">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Blood-, grey- and fox- are all followed by which suffix?
 
