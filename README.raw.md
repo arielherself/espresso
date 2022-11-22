@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Italy’s</strong> [right-wing government](https://www.economist.com/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy) agreed its first budget, which includes a windfall tax of 35% on the profits of energy companies until mid-2023. The spending plan for €35bn ($36bn), which earmarks funds to fight high energy prices, will be predominantly funded through borrowing. But the target deficit of 4.5% of GDP next year has assuaged fears of the high-debt country colliding with the EU.
 
-The king of <strong>Malaysia </strong>started the process of choosing the country’s <strong>next prime minister</strong>. It had been hoped that elections on Saturday would produce a democratic mandate. Failing that—a [hung parliament](https://www.economist.com/asia/2022/11/21/a-hung-parliament-in-malaysia-augurs-more-bad-government-and-instability) was elected instead—the incumbent coalition might have sided with either of its rivals and played the kingmaker. But on Tuesday it declined, leaving that job to the king himself.
+<strong>Cristiano Ronaldo</strong> left Manchester United “by mutual agreement”, according to the football club. The early end to his contract came a week after Mr Ronaldo trashed the club’s management in a television interview and accused it of forcing him out. Erik ten Hag, the manager, had refused to guarantee the 37-year-old [star striker](https://www.economist.com/culture/2022/11/17/lionel-messi-and-cristiano-ronaldo-have-forged-modern-football) a starting spot this season.
 
 <strong>Fact of the day:</strong> 37%, the share of international sporting events hosted by autocracies since 2012. [Read the full story](https://www.economist.com/graphic-detail/2022/11/17/international-sporting-events-are-increasingly-held-in-autocracies).
 
@@ -70,7 +70,7 @@ Mr Mufti weaves wider historical events into his story, such as [Malcolm X’s](
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2273574b58675152504751514d6247414d4c4d4f4b51560c414d4f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="79280c10033c0a090b1c0a0a16391c1a16171614100a0d571a1614">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Tuesday: </strong>The French novel “Les Liaisons Dangereuses” was remade as a teenage movie drama in 1999 with which title?
