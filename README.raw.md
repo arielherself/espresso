@@ -38,6 +38,14 @@ After the tortuous [brokering of COP27](https://www.economist.com/international/
 
 That might be tricky. Oil and natural gas power the economy of the United Arab Emirates, the next host. Alongside other petrostates, it fought to stop [fossil fuels](https://www.economist.com/the-economist-explains/2022/11/17/what-is-the-fossil-fuel-industry-doing-at-cop27) from being discussed more seriously in Sharm el-Sheikh. And although the biggest breakthrough at COP27 was the agreement to establish a “[loss-and-damage](https://www.economist.com/the-economist-explains/2022/10/03/what-is-climate-loss-and-damage)” fund to help vulnerable countries recover after disasters, the details of how that fund might operate will now have to be agreed.
 
+## Twitter’s mass unfollowing
+
+Soon after becoming Twitter’s owner, chief executive and only board member on October 27th, Elon Musk ordered staff to stop working from home and get back to the office. Last Thursday they received an email announcing, without explanation, that the firm’s San Francisco headquarters were closed. On Monday the office reopens. The question is how many staff will come back.
+
+If Mr Musk’s three weeks in charge have looked chaotic from the outside (the latest: reinstating Donald Trump’s account, following an online poll—and then Kanye West’s), internally they have been even bumpier. He sacked half the employees in his first week, and later laid off contractors moderating content. Last week he ordered remaining staff to recommit to “extremely hardcore” work, or leave. Many reportedly walked.
+
+Twitter had been [overstaffed](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last), relative to peers. But the scale and speed of the exodus is destabilising. Mr Musk warned recently that Twitter could [run out of money](https://www.economist.com/business/2022/11/17/alternatives-to-twitter-see-an-influx-of-users). Before that it may run out of people.
+
 ## The long road ahead for Evergrande
 
 On Monday a plot of land in Shenzhen, a city in south China, will go up for auction. It was supposed to be the new headquarters for Evergrande. But thoughts of a shiny new office are far off for the struggling Chinese property developer. The company is months behind schedule for releasing a plan on restructuring its massive debts. The group, which has some $300bn in liabilities, has been the bellwether for China’s embattled [property industry](https://www.economist.com/finance-and-economics/2022/11/17/only-a-revived-economy-can-save-chinas-property-industry). It defaulted in December, promising to produce a restructuring plan within six months. But investors remain in the dark.
@@ -52,14 +60,6 @@ Kosovo, where the majority of people are ethnic Albanians, declared independence
 
 Even if Messrs Kurti and Vucic can cobble together a deal on number plates, more needed is an agreement on major issues such as the proposed creation of an “association” of Kosovo Serb municipalities. But that would require unpopular political risks, which neither leader is willing to take.
 
-## Twitter’s mass unfollowing
-
-Soon after becoming Twitter’s owner, chief executive and only board member on October 27th, Elon Musk ordered staff to stop working from home and get back to the office. Last Thursday they received an email announcing, without explanation, that the firm’s San Francisco headquarters were closed. On Monday the office reopens. The question is how many staff will come back.
-
-If Mr Musk’s three weeks in charge have looked chaotic from the outside (the latest: reinstating Donald Trump’s account, following an online poll—and then Kanye West’s), internally they have been even bumpier. He sacked half the employees in his first week, and later laid off contractors moderating content. Last week he ordered remaining staff to recommit to “extremely hardcore” work, or leave. Many reportedly walked.
-
-Twitter had been [overstaffed](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last), relative to peers. But the scale and speed of the exodus is destabilising. Mr Musk warned recently that Twitter could [run out of money](https://www.economist.com/business/2022/11/17/alternatives-to-twitter-see-an-influx-of-users). Before that it may run out of people.
-
 ## In “Glass Onion”, Hollywood targets the mega-rich
 
 In 2019 Rian Johnson, a director, introduced viewers to the camp murder mystery of “Knives Out”, starring Daniel Craig as Benoit Blanc, a detective extraordinaire, sniffing out a killer in a clique of entitled snobs in Massachusetts. Now Mr Johnson is back with “Glass Onion: A Knives Out Mystery”, another mind-bendingly intricate whodunnit starring Mr Craig, this time set on a private Greek island.
@@ -70,7 +70,7 @@ Hollywood has tended to revere the super-rich, but now it seems that the knives 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="79280c10033c0a090b1c0a0a16391c1a16171614100a0d571a1614">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Blood-, grey- and fox- are all followed by which suffix?
 
