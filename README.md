@@ -26,7 +26,7 @@ Rescue workers went searching through the rubble after a shallow, 5.6-magnitude 
 
 <strong>Bob Chapek</strong>, who was sacked as CEO of <strong>Disney</strong> on Sunday, was the victim of a boardroom revolt, according to several reports. A campaign to oust Mr Chapek had apparently been running since the summer, led by senior executives who were unhappy at his leadership. He oversaw huge streaming losses and a plummeting share price. Bob Iger, Disney’s previous, long-time boss, has been [reinstalled](https://te.arielherself.xyz/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script).
 
-<strong>Iran’s</strong> footballers staged a silent protest against the country’s brutal regime by refusing to sing the national anthem ahead of their <strong>World Cup </strong>opener against England in Qatar. Before the game Ehsan Hajsafi, the captain, suggested his team could be the voice for hundreds of families left bereaved by a [murderous crackdown](https://te.arielherself.xyz/films/2022/11/08/is-iran-on-the-edge-of-a-revolution) on political protests. Some Iranian fans were equally vocal: many booed the anthem and held aloft banners.
+<strong>Cyril Ramaphosa</strong>, South Africa’s president, is ahead in the competition to lead the <strong>African National Congress</strong> into the next election, in 2024. Mr Ramaphosa, who is the current head of the ruling party, received over 2,000 nominations while his nearest competitor, Zweli Mkhize, a former health minister, has about 900. The ANC is due to hold a conference in December where the party will make the final decision.
 
 <strong>Fact of the day:</strong> 37%, the share of international sporting events hosted by autocracies since 2012. [Read the full story](https://te.arielherself.xyz/graphic-detail/2022/11/17/international-sporting-events-are-increasingly-held-in-autocracies).
 
@@ -56,7 +56,7 @@ The regime has [arrested thousands](https://te.arielherself.xyz/by-invitation/20
 
 King Charles III hosts his first state visit as Britain’s monarch on Tuesday. It will offer his guest, Cyril Ramaphosa, South Africa’s president, welcome respite from [politics at home](https://te.arielherself.xyz/middle-east-and-africa/2022/06/23/allegations-of-impropriety-weaken-south-africas-president).
 
-For on Tuesday Mr Ramaphosa will also learn how many nominations he has received to continue leading South Africa’s ruling African National Congress, ahead of a vote at the party’s national conference next month. Although he is expected to have a solid lead over his rivals, the ANC has acquired a habit of defenestrating sitting presidents.
+For on Tuesday Mr Ramaphosa will also learn how many nominations he has received to continue leading South Africa’s ruling African National Congress, ahead of a vote at the party’s national conference next month. Although, as expected, he has a solid lead of around 2,000 nominations to the 900 received by his nearest rival, the ANC has acquired a habit of defenestrating sitting presidents.
 
 Mr Ramaphosa may enjoy discussing with the King shared interests such as wildlife and the environment. His conversations with Rishi Sunak, Britain’s prime minister, on Wednesday will be less convivial. Britain is unhappy with South Africa’s refusal to condemn Russia for its invasion of Ukraine. Mr Ramaphosa, in turn, is expected to press for Britain and its allies to lift sanctions on Zimbabwe and to offer Africa more aid and investment to deal with climate change.
 
@@ -70,7 +70,7 @@ Mr Mufti weaves wider historical events into his story, such as [Malcolm X’s](
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0554706c7f407675776076766a4560666a6b6a686c76712b666a68">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8cddf9e5f6c9fffcfee9ffffe3cce9efe3e2e3e1e5fff8a2efe3e1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Tuesday: </strong>The French novel “Les Liaisons Dangereuses” was remade as a teenage movie drama in 1999 with which title?
