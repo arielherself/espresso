@@ -46,7 +46,7 @@ The club projects the euro-zone economy in 2023 to grow on par with America, at 
 
 A second worry is the hit to the incomes of European households. Post-pandemic savings buoyed consumption, and the risk of unemployment remains low. But that may not last either. The billions of euros Europe’s [governments](https://www.economist.com/finance-and-economics/2022/09/01/europe-scrambles-to-protect-consumers-against-dizzying-energy-prices) have dispensed to firms and households may not prevent Europe from [tumbling into recession](https://www.economist.com/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be).
 
-## Iranians continue their lethal protest
+## Iranians brave death by continuing their protests
 
 Death has galvanised protest for more than two months in Iran. Unrest began in mid-September when [Mahsa Amini](https://www.economist.com/1843/2022/09/28/im-the-same-as-mahsa-and-i-want-my-freedom-anger-at-irans-regime-spills-onto-the-streets), a young woman detained by the morality police, died in custody. Whenever protests seemed to ebb, more killings sent people back to the streets. So it was in recent days, after Kian Pirfalak, a nine-year-old boy, was shot by security forces. His funeral drew large crowds.
 
@@ -70,7 +70,7 @@ Mr Mufti weaves wider historical events into his story, such as [Malcolm X’s](
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="82d3f7ebf8c7f1f2f0e7f1f1edc2e7e1edecedefebf1f6ace1edef">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="baebcfd3c0ffc9cac8dfc9c9d5fadfd9d5d4d5d7d3c9ce94d9d5d7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Tuesday: </strong>The French novel “Les Liaisons Dangereuses” was remade as a teenage movie drama in 1999 with which title?
