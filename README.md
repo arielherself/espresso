@@ -16,17 +16,17 @@ The World Health Organisation warned that <strong>Ukraine</strong> faces a “de
 
 The<strong> European Commission </strong>proposed a price cap on [natural gas](https://te.arielherself.xyz/graphic-detail/2022/11/03/mild-autumn-weather-has-sent-european-gas-prices-plummeting) sold in the EU. The ceiling, set at €275 ($283) per megawatt-hour for month-ahead contracts on a key benchmark exchange, would serve as an emergency brake if prices were to soar past that level. The proposal will be debated by EU energy ministers on Thursday.
 
+America’s Supreme Court cleared the way for Congress to obtain <strong>Donald Trump’s tax returns</strong>. Since 2019 Mr Trump has [tried to shield them](https://te.arielherself.xyz/democracy-in-america/2019/10/14/why-the-battle-over-donald-trumps-financial-records-will-drag-on) from Democratic lawmakers investigating potential conflicts of interest in his dealings as both president and businessman. Republicans have promised to quash those probes when they assume control of the House in January.
+
 <strong>Cyril Ramaphosa</strong>, South Africa’s president, is ahead in the competition to lead the <strong>African National Congress</strong> into the next election, in 2024. Mr Ramaphosa, who is the current head of the ruling party, received over 2,000 nominations while his nearest competitor, Zweli Mkhize, a former health minister, has about 900. The ANC is due to hold a conference in December where the party will make the final decision.
 
-<strong>Italy’s</strong> [right-wing government](https://te.arielherself.xyz/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy) agreed its first budget, which includes a windfall tax of 35% on the profits of energy companies until mid-2023. The spending plan for €35bn ($36bn), which earmarks funds to fight high energy prices, will be predominantly funded through borrowing. But the target deficit of 4.5% of GDP next year has assuaged fears of the high-debt country colliding with the EU.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Italy’s</strong> [right-wing government](https://te.arielherself.xyz/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy) agreed its first budget, which includes a windfall tax of 35% on the profits of energy companies until mid-2023. The spending plan for €35bn ($36bn), which earmarks funds to fight high energy prices, will be predominantly funded through borrowing. But the target deficit of 4.5% of GDP next year has assuaged fears of the high-debt country colliding with the EU.
 
 <strong>Crypto’s </strong>crisis continued.<strong> Genesis</strong>, a cryptocurrency lender, tried to reassure its creditors that it has “no plans to file bankruptcy imminently”—the firm was forced to suspend redemptions after the [collapse of FTX](https://te.arielherself.xyz/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars). And American prosecutors indicted two Estonians for allegedly defrauding investors of $575m through a crypto-fuelled Ponzi scheme. <strong>Bitcoin</strong> meanwhile sank to $15,800—a quarter of its price three years ago.
 
 The king of <strong>Malaysia </strong>started the process of choosing the country’s <strong>next prime minister</strong>. It had been hoped that elections on Saturday would produce a democratic mandate. Failing that—a [hung parliament](https://te.arielherself.xyz/asia/2022/11/21/a-hung-parliament-in-malaysia-augurs-more-bad-government-and-instability) was elected instead—the incumbent coalition might have sided with either of its rivals and played the kingmaker. But on Tuesday it declined, leaving that job to the king himself.
-
-<strong>Bob Chapek</strong>, who was sacked as CEO of <strong>Disney</strong> on Sunday, was the victim of a boardroom revolt, according to several reports. A campaign to oust Mr Chapek had apparently been running since the summer, led by senior executives who were unhappy at his leadership. He oversaw huge streaming losses and a plummeting share price. Bob Iger, Disney’s previous, long-time boss, has been [reinstalled](https://te.arielherself.xyz/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script).
 
 <strong>Fact of the day:</strong> 37%, the share of international sporting events hosted by autocracies since 2012. [Read the full story](https://te.arielherself.xyz/graphic-detail/2022/11/17/international-sporting-events-are-increasingly-held-in-autocracies).
 
@@ -70,7 +70,7 @@ Mr Mufti weaves wider historical events into his story, such as [Malcolm X’s](
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c998bca0b38cbab9bbacbabaa689acaaa6a7a6a4a0babde7aaa6a4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0c5d796576497f7c7e697f7f634c696f63626361657f78226f6361">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Tuesday: </strong>The French novel “Les Liaisons Dangereuses” was remade as a teenage movie drama in 1999 with which title?
