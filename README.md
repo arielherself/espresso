@@ -34,7 +34,7 @@ Rescue workers went searching through the rubble after a shallow, 5.6-magnitude 
 
 ## Kamala Harris showboats in the Philippines
 
-America’s vice-president is in the Philippines. After meeting on Monday with the country’s president, Ferdinand Marcos junior, on Tuesday Kamala Harris visited Palawan, an island on the front line of a struggle for maritime dominance. It is to the west and north of Palawan that America’s navy conducts “freedom of navigation” missions around the [disputed South China Sea](https://te.arielherself.xyz/asia/2022/01/15/china-does-not-have-it-all-its-way-in-the-south-china-sea), most of which China claims as its own. China and the Philippines also squabble over fishing and oil-and-gas rights within the 200-nautical-mile Philippine “exclusive economic zone”.
+America’s vice-president is in the Philippines. After meeting on Monday with the country’s president, Ferdinand Marcos junior, on Tuesday Kamala Harris visited Palawan, an island on the front line of a struggle for maritime dominance. It is to the west and north of Palawan that America’s navy conducts “freedom-of-navigation” missions around the [disputed South China Sea](https://te.arielherself.xyz/asia/2022/01/15/china-does-not-have-it-all-its-way-in-the-south-china-sea), most of which China claims as its own. China and the Philippines also squabble over fishing and oil-and-gas rights within the 200-nautical-mile Philippine “exclusive economic zone”.
 
 To manage the Chinese navy, coastguard and fishing fleet without overly riling it, the Philippines deploys its civilian coastguard rather than its (rather feeble) navy. Ms Harris’s visit included a spell aboard such a Philippine boat, albeit safely outside waters claimed by China. That was intended to communicate America’s readiness to help the Philippines defend itself from armed attack. China, irked by such commitments, may find a way to signal its disapproval for Ms Harris’s showboating.
 
@@ -42,7 +42,7 @@ To manage the Chinese navy, coastguard and fishing fleet without overly riling i
 
 There is a bout of optimism around the EU economies these days. Quarterly GDP figures released last week were not as bad as expected, employment continued to grow and, crucially, energy prices on wholesale markets have come down from their summer highs. On Tuesday the OECD, an intergovernmental research body, added its relatively optimistic assessment of Europe’s economic outlook.
 
-The club projects the euro-zone economy in 2023 to grow on par with America, at 0.5%. But [elation](https://te.arielherself.xyz/leaders/2022/11/17/investors-are-becoming-too-optimistic-about-the-world-economy) may be premature. Energy prices have fallen but remain high. Long-term contracts with gas and electricity suppliers have cushioned the blow this year—but in 2023 the full effect of energy price rises will be felt.
+The club projects the euro-zone economy in 2023 to grow on par with America, at 0.5%. But [elation](https://te.arielherself.xyz/leaders/2022/11/17/investors-are-becoming-too-optimistic-about-the-world-economy) may be premature. Energy prices have fallen but remain high. Long-term contracts with gas and electricity suppliers have cushioned the blow this year—but in 2023 the full effect of energy-price rises will be felt.
 
 A second worry is the hit to the incomes of European households. Post-pandemic savings buoyed consumption, and the risk of unemployment remains low. But that may not last either. The billions of euros Europe’s [governments](https://te.arielherself.xyz/finance-and-economics/2022/09/01/europe-scrambles-to-protect-consumers-against-dizzying-energy-prices) have dispensed to firms and households may not prevent Europe from [tumbling into recession](https://te.arielherself.xyz/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be).
 
@@ -70,7 +70,7 @@ Mr Mufti weaves wider historical events into his story, such as [Malcolm X’s](
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="baebcfd3c0ffc9cac8dfc9c9d5fadfd9d5d4d5d7d3c9ce94d9d5d7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Tuesday: </strong>The French novel “Les Liaisons Dangereuses” was remade as a teenage movie drama in 1999 with which title?
