@@ -32,6 +32,12 @@ America’s Supreme Court cleared the way for Congress to obtain <strong>Donald 
 
 ----------
 
+## A legal barrier to Scottish independence
+
+October 19th 2023 might have been the date that Britain broke up. But that fate was averted on Wednesday by a ruling from the Supreme Court. Britain’s highest arbiter ruled that Scotland’s devolved parliament, in Edinburgh, may not pass a law calling for an independence referendum. That power, it concluded, belongs to the British parliament in Westminster alone, which the Conservative Party, which strongly opposes independence, dominates.
+
+The ruling clears up a vital ambiguity in Britain’s constitution, and blocks the road to Scotland’s separatist government led by Nicola Sturgeon from single-handedly pursuing a break-up. It leaves the independence movement in [deadlock](https://www.economist.com/britain/2022/03/05/the-fight-over-scottish-independence-appears-to-be-deadlocked). But the polarisation that afflicts Scottish society will continue. In a vote in 2014, held with the [approval](https://www.economist.com/britain/2012/01/14/if-at-first-you-dont-succeed) of David Cameron’s government, Scots rejected independence by 55% to 45%. These days they are firmly split down the middle—and today’s judgement will do little to heal that.
+
 ## Turkey threatens to march into Syria
 
 “We have been bearing down on terrorists for a few days with our planes, cannons and guns,” declared Recep Tayyip Erdogan on Tuesday. Tanks and soldiers, Turkey’s president added, would follow. Mr Erdogan has been threatening for months a military operation in northern Syria. Last year parliament extended by two years the government’s mandate to move troops into Iraq and Syria. But Mr Erdogan’s argument for a ground incursion has been growing louder since November 13th, when a bomb attack in Istanbul began a deadly tit-for-tat.
@@ -43,12 +49,6 @@ Turkey blamed the bomb on the [Kurdistan Workers’ Party](https://www.economist
 On Wednesday Credit Suisse warned that it was expecting a loss in its fourth quarter of up to SFr1.5bn ($1.58bn) before tax. Yet another loss lends more urgency to the embattled Swiss bank’s request to shareholders, expected later in the day, to raise more capital for an ambitious restructuring plan it announced in late October. Ravaged by scandals, [Credit Suisse](https://www.economist.com/finance-and-economics/2022/10/03/credit-suisse-and-the-hunt-for-the-weakest-link-in-global-finance) needs at least SFr4bn ($4.2bn) from investors to pad its balance-sheet. The Saudi National Bank is expected to buy a 9.9% stake, worth SFr1.5bn. That would make it the Swiss bank’s biggest shareholder.
 
 In its new incarnation Credit Suisse plans to focus on international wealth management, as well as its domestic bank and asset-management division. [Investment banking](https://www.economist.com/finance-and-economics/2022/09/28/investment-banks-are-sharpening-the-axe) will be radically downsized to reduce risk, with Credit Suisse First Boston, the investment-banking arm of Credit Suisse, spun off. It will also let go of its securitised products business, as well as of around 9,000 of its 52,000 employees.
-
-## A legal barrier to Scottish independence
-
-October 19th 2023 might have been the date that Britain broke up. But that fate was averted on Wednesday by a ruling from the Supreme Court. Britain’s highest arbiter ruled that Scotland’s devolved parliament, in Edinburgh, may not pass a law calling for an independence referendum. That power, it concluded, belongs to the British parliament in Westminster alone, which the Conservative Party, which strongly opposes independence, dominates.
-
-The ruling clears up a vital ambiguity in Britain’s constitution, and blocks the road to Scotland’s separatist government led by Nicola Sturgeon from single-handedly pursuing a break-up. It leaves the independence movement in [deadlock](https://www.economist.com/britain/2022/03/05/the-fight-over-scottish-independence-appears-to-be-deadlocked). But the polarisation that afflicts Scottish society will continue. In a vote in 2014, held with the [approval](https://www.economist.com/britain/2012/01/14/if-at-first-you-dont-succeed) of David Cameron’s government, Scots rejected independence by 55% to 45%. These days they are firmly split down the middle—and today’s judgement will do little to heal that.
 
 ## Russia’s security club hobbles on
 
@@ -64,7 +64,7 @@ The director of “E.T.”, “Jaws” and most recently “[West Side Story](ht
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="86d7f3effcc3f5f6f4e3f5f5e9c6e3e5e9e8e9ebeff5f2a8e5e9eb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2e7f5b47546b5d5e5c4b5d5d416e4b4d41404143475d5a004d4143">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Wednesday: </strong>Which marsupial featured as a ferocious Warner Brothers cartoon character?
