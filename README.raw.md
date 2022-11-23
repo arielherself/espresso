@@ -32,6 +32,12 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ----------
 
+## Kamala Harris showboats in the Philippines
+
+America’s vice-president is in the Philippines. After meeting on Monday with the country’s president, Ferdinand Marcos junior, on Tuesday Kamala Harris visited Palawan, an island on the front line of a struggle for maritime dominance. It is to the west and north of Palawan that America’s navy conducts “freedom-of-navigation” missions around the [disputed South China Sea](https://www.economist.com/asia/2022/01/15/china-does-not-have-it-all-its-way-in-the-south-china-sea), most of which China claims as its own. China and the Philippines also squabble over fishing and oil-and-gas rights within the 200-nautical-mile Philippine “exclusive economic zone”.
+
+To manage the Chinese navy, coastguard and fishing fleet without overly riling it, the Philippines deploys its civilian coastguard rather than its (rather feeble) navy. Ms Harris’s visit included a spell aboard such a Philippine boat, albeit safely outside waters claimed by China. That was intended to communicate America’s readiness to help the Philippines defend itself from armed attack. China, irked by such commitments, may find a way to signal its disapproval for Ms Harris’s showboating.
+
 ## EU economies brace for a fall
 
 There is a bout of optimism around the EU economies these days. Quarterly GDP figures released last week were not as bad as expected, employment continued to grow and, crucially, energy prices on wholesale markets have come down from their summer highs. On Tuesday the OECD, an intergovernmental research body, added its relatively optimistic assessment of Europe’s economic outlook.
@@ -40,11 +46,11 @@ The club projects the euro-zone economy in 2023 to grow on par with America, at 
 
 A second worry is the hit to the incomes of European households. Post-pandemic savings buoyed consumption, and the risk of unemployment remains low. But that may not last either. The billions of euros Europe’s [governments](https://www.economist.com/finance-and-economics/2022/09/01/europe-scrambles-to-protect-consumers-against-dizzying-energy-prices) have dispensed to firms and households may not prevent Europe from [tumbling into recession](https://www.economist.com/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be).
 
-## Kamala Harris showboats in the Philippines
+## Iranians brave death by continuing their protests
 
-America’s vice-president is in the Philippines. After meeting on Monday with the country’s president, Ferdinand Marcos junior, on Tuesday Kamala Harris visited Palawan, an island on the front line of a struggle for maritime dominance. It is to the west and north of Palawan that America’s navy conducts “freedom-of-navigation” missions around the [disputed South China Sea](https://www.economist.com/asia/2022/01/15/china-does-not-have-it-all-its-way-in-the-south-china-sea), most of which China claims as its own. China and the Philippines also squabble over fishing and oil-and-gas rights within the 200-nautical-mile Philippine “exclusive economic zone”.
+Death has galvanised protest for more than two months in Iran. Unrest began in mid-September when [Mahsa Amini](https://www.economist.com/1843/2022/09/28/im-the-same-as-mahsa-and-i-want-my-freedom-anger-at-irans-regime-spills-onto-the-streets), a young woman detained by the morality police, died in custody. Whenever protests seemed to ebb, more killings sent people back to the streets. So it was in recent days, after Kian Pirfalak, a nine-year-old boy, was shot by security forces. His funeral drew large crowds.
 
-To manage the Chinese navy, coastguard and fishing fleet without overly riling it, the Philippines deploys its civilian coastguard rather than its (rather feeble) navy. Ms Harris’s visit included a spell aboard such a Philippine boat, albeit safely outside waters claimed by China. That was intended to communicate America’s readiness to help the Philippines defend itself from armed attack. China, irked by such commitments, may find a way to signal its disapproval for Ms Harris’s showboating.
+The regime has [arrested thousands](https://www.economist.com/by-invitation/2022/11/16/shirin-ebadi-on-the-legal-obstacles-irans-protesters-face) and issued a handful of death sentences. In the past week it detained two actresses who removed their headscarves in public. But it has not been able to stop the [scattered, leaderless unrest](https://www.economist.com/middle-east-and-africa/2022/11/17/irans-protesters-are-painting-for-freedom). There have been periodic strikes across the country, including in Tehran’s famed bazaar. Before their opening World Cup match against England on Monday Iran’s team refused to sing the national anthem. Ehsan Hajsafi, the captain, has already said he “sympathises” with the protesters—an act of defiance on the world’s biggest stage.
 
 ## Cyril Ramaphosa visits Britain
 
@@ -53,12 +59,6 @@ King Charles III hosts his first state visit as Britain’s monarch on Tuesday. 
 For on Tuesday Mr Ramaphosa will also learn how many nominations he has received to continue leading South Africa’s ruling African National Congress, ahead of a vote at the party’s national conference next month. Although, as expected, he has a solid lead of around 2,000 nominations to the 900 received by his nearest rival, the ANC has acquired a habit of defenestrating sitting presidents.
 
 Mr Ramaphosa may enjoy discussing with the King shared interests such as wildlife and the environment. His conversations with Rishi Sunak, Britain’s prime minister, on Wednesday will be less convivial. Britain is unhappy with South Africa’s refusal to condemn Russia for its invasion of Ukraine. Mr Ramaphosa, in turn, is expected to press for Britain and its allies to lift sanctions on Zimbabwe and to offer Africa more aid and investment to deal with climate change.
-
-## Iranians brave death by continuing their protests
-
-Death has galvanised protest for more than two months in Iran. Unrest began in mid-September when [Mahsa Amini](https://www.economist.com/1843/2022/09/28/im-the-same-as-mahsa-and-i-want-my-freedom-anger-at-irans-regime-spills-onto-the-streets), a young woman detained by the morality police, died in custody. Whenever protests seemed to ebb, more killings sent people back to the streets. So it was in recent days, after Kian Pirfalak, a nine-year-old boy, was shot by security forces. His funeral drew large crowds.
-
-The regime has [arrested thousands](https://www.economist.com/by-invitation/2022/11/16/shirin-ebadi-on-the-legal-obstacles-irans-protesters-face) and issued a handful of death sentences. In the past week it detained two actresses who removed their headscarves in public. But it has not been able to stop the [scattered, leaderless unrest](https://www.economist.com/middle-east-and-africa/2022/11/17/irans-protesters-are-painting-for-freedom). There have been periodic strikes across the country, including in Tehran’s famed bazaar. Before their opening World Cup match against England on Monday Iran’s team refused to sing the national anthem. Ehsan Hajsafi, the captain, has already said he “sympathises” with the protesters—an act of defiance on the world’s biggest stage.
 
 ## The history of an American siege
 
@@ -70,7 +70,7 @@ Mr Mufti weaves wider historical events into his story, such as [Malcolm X’s](
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cf9ebaa6b58abcbfbdaabcbca08faaaca0a1a0a2a6bcbbe1aca0a2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Tuesday: </strong>The French novel “Les Liaisons Dangereuses” was remade as a teenage movie drama in 1999 with which title?
