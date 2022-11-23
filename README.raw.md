@@ -18,15 +18,15 @@ Judges from Britain’s Supreme Court ruled that <strong>Scotland’s</strong> d
 
 America suffered [yet another](https://www.economist.com/graphic-detail/2022/05/25/guns-are-the-things-most-likely-to-kill-young-people-in-america) <strong>mass shooting</strong> when a gunman killed at least six people in a Walmart supermarket in Chesapeake, Virginia. The assailant, thought to be the manager of the shop, later shot himself. On Saturday a shooting at a nightclub in Colorado killed five people and injured 17.
 
-Twin <strong>bomb attacks</strong> on <strong>Jerusalem’s</strong> bus network during rush hour killed one and injured at least 18 people. Israeli police blamed the explosions on [Palestinian militants](https://www.economist.com/briefing/2021/05/20/how-israel-and-hamas-returned-to-armed-conflict), though no group has yet claimed responsibility. The blasts, which are the first bomb attacks on Israeli civilians since 2016 according to local police, follow months of heightened [Israeli-Palestinian tensions](https://www.economist.com/graphic-detail/2021/05/18/the-israel-palestine-conflict-has-claimed-14000-lives-since-1987). 
+<strong>International tourism </strong>will reach 65% of pre-pandemic levels by the end of 2022, according to the World Tourism Organisation, a UN agency. The lifting of covid-19 restrictions led to a [holiday boom](https://www.economist.com/the-world-ahead/2022/11/14/take-that-covid-revenge-tourism-takes-off) this year, with over double the number of foreign trips between January and September compared with the same period [in 2021](https://www.economist.com/graphic-detail/2021/12/01/this-year-may-prove-even-worse-for-the-tourism-industry-than-2020). A gloomy global economic outlook may yet weaken the industry’s recovery. 
 
 Listen to an abridged version of the subscriber-only briefing.
+
+Twin <strong>bomb attacks</strong> on <strong>Jerusalem’s</strong> bus network during rush hour killed one and injured at least 18 people. Israeli police blamed the explosions on [Palestinian militants](https://www.economist.com/briefing/2021/05/20/how-israel-and-hamas-returned-to-armed-conflict), though no group has yet claimed responsibility. The blasts, which are the first bomb attacks on Israeli civilians since 2016 according to local police, follow months of heightened [Israeli-Palestinian tensions](https://www.economist.com/graphic-detail/2021/05/18/the-israel-palestine-conflict-has-claimed-14000-lives-since-1987). 
 
 The World Health Organisation warned that <strong>Ukraine</strong> faces a “devastating energy crisis” [this winter](https://www.economist.com/europe/2022/11/01/keeping-ukraine-from-freezing-this-winter). Some 10m people, a quarter of the population, do not have access to power as Russian strikes have halved the country’s generating capacity. Separately, Russian officials in Crimea said they had repelled two Ukrainian drone attacks near Sevastopol, home to Russia’s Black Sea naval fleet.
 
 <strong>HP </strong>said it would lay off as many as 6,000 people—more than a tenth of its workforce—making it the [latest](https://www.economist.com/graphic-detail/2022/11/07/meta-will-lay-off-13-of-its-workforce) big American technology firm to scythe staff. It hopes to cut $1.4bn in annual costs. HP reported a 0.8% decline in net revenue this year, compared with last. Demand for its PCs and laptops was particularly soft.
-
-America’s Supreme Court cleared the way for Congress to obtain <strong>Donald Trump’s tax returns</strong>. Since 2019 Mr Trump has [tried to shield them](https://www.economist.com/democracy-in-america/2019/10/14/why-the-battle-over-donald-trumps-financial-records-will-drag-on) from Democratic lawmakers investigating potential conflicts of interest in his dealings as both president and businessman. Republicans have promised to quash those probes when they assume control of the House of Representatives in January.
 
 <strong>Fact of the day: </strong>$1.5bn, the losses at Disney’s streaming division in the past quarter. [Read the full story](https://www.economist.com/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script).
 
@@ -64,12 +64,14 @@ The director of “E.T.”, “Jaws” and most recently “[West Side Story](ht
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="eebf9b8794ab9d9e9c8b9d9d81ae8b8d81808183879d9ac08d8183">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c091b5a9ba85b3b0b2a5b3b3af80a5a3afaeafada9b3b4eea3afad">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Wednesday: </strong>Which marsupial featured as a ferocious Warner Brothers cartoon character?
 
 <strong>Tuesday: </strong>The French novel “Les Liaisons Dangereuses” was remade as a teenage movie drama in 1999 with which title?
+
+## Get the best reading experience and stay ahead with ease.
 
 ----------
 
