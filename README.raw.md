@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Russia’s </strong>strikes on [Ukrainian infrastructure](https://www.economist.com/europe/2022/10/24/ukraine-races-to-stop-russia-from-destroying-its-power-grid) caused mass blackouts and led Ukrainian officials to intentionally cut off three nuclear power plants from the national grid as a precautionary measure. The western city of Lviv was left “without light” and had “interruptions” to its water supply, according to its mayor, while the rockets killed three people in the capital, Kyiv. Meanwhile, <strong>Moldova</strong>, which borders <strong>Ukraine</strong> to the east, also experienced a “massive” outage that left over half of the country without power, according to its government.
+<strong>Russia’s </strong>strikes on [Ukrainian infrastructure](https://www.economist.com/europe/2022/10/24/ukraine-races-to-stop-russia-from-destroying-its-power-grid) caused mass blackouts, and obliged officials to remove three nuclear power plants from the national grid as a precautionary measure. The western city of Lviv was left “without light” and had “interruptions” to its water supply, according to its mayor. Rockets killed three people in Kyiv, the capital. Meanwhile, <strong>Moldova</strong>, which borders <strong>Ukraine</strong> to the east, also experienced a “massive” outage that left over half of the country without power, according to its government. 
 
 Judges from Britain’s Supreme Court ruled that <strong>Scotland’s</strong> devolved parliament cannot pass a law calling for a referendum on independence without the approval of Britain’s government. Scotland’s first minister, [Nicola Sturgeon](https://www.economist.com/the-world-ahead/2022/11/18/nicola-sturgeon-on-the-push-for-another-scottish-referendum), argues that the result of a referendum in 2014, in which Scots rejected independence, is out of date. But the government in Westminster does not want another vote. Ms Sturgeon tweeted that such a law “makes the case” for independence. 
 
@@ -64,7 +64,7 @@ The director of “E.T.”, “Jaws” and most recently “[West Side Story](ht
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5e0f2b37241b2d2e2c3b2d2d311e3b3d31303133372d2a703d3133">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Wednesday: </strong>Which marsupial featured as a ferocious Warner Brothers cartoon character?
