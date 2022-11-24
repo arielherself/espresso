@@ -22,11 +22,11 @@ Addressing the UN Security Council, <strong>Ukraine’s </strong>president, Volo
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The judge presiding over <strong>Brazil’s </strong>electoral court slapped down a [legal challenge](https://www.economist.com/the-americas/2022/11/23/jair-bolsonaros-challenge-to-brazils-election-was-rejected) filed by Jair Bolsonaro against the outcome of [the election that unseated him](https://www.economist.com/films/2022/10/31/lula-wins-the-brazilian-election) as president. On Wednesday, just a day after the challenge was filed, the judge affirmed the victory of Luiz Inácio Lula da Silva and for good measure imposed a $4.3m fine on Mr Bolsonaro’s side, for litigating in bad faith.
-
 Business confidence in <strong>Germany</strong> rose more than anticipated in November as supply-chain problems eased and concerns over an energy crisis abated (though a brutal winter and geopolitical climate [still await](https://www.economist.com/leaders/2022/11/24/europe-faces-an-enduring-crisis-of-energy-and-geopolitics)). The Ifo Institute’s business-climate index, a survey of more than 9,000 German companies, increased to 86.3 in November. That reading beat economists’ expectations, but was below levels recorded before Russia’s invasion of Ukraine. 
 
-<strong>Foxconn</strong> apologised to workers who have been running amok at its primary iPhone plant, near the [Chinese city](https://www.economist.com/china/2022/11/03/the-chinese-city-that-covid-forgot) of <strong>Zhengzhou</strong>. The Taiwanese firm said a “technical error” caused a delay in the payment of bonuses promised to compensate for the factory’s strict covid restrictions. Staff had broken out of dormitories and fought with police in protest at their conditions (and at not receiving the extra pay).
+The judge presiding over <strong>Brazil’s </strong>electoral court slapped down a [legal challenge](https://www.economist.com/the-americas/2022/11/23/jair-bolsonaros-challenge-to-brazils-election-was-rejected) filed by Jair Bolsonaro against the outcome of [the election that unseated him](https://www.economist.com/films/2022/10/31/lula-wins-the-brazilian-election) as president. On Wednesday, just a day after the challenge was filed, the judge affirmed the victory of Luiz Inácio Lula da Silva and for good measure imposed a $4.3m fine on Mr Bolsonaro’s side, for litigating in bad faith.
+
+<strong>Russia’s </strong>parliament passed a law that broadens the scope of an existing ban on promoting “LGBT propaganda” to children. The ban will now pertain to information disseminated to anyone, regardless of age. Russia’s LGBT communities have [long suffered persecution](https://www.economist.com/prospero/2020/07/09/welcome-to-chechnya-uses-deepfake-technology-to-protect-its-subjects) from the authorities, who cast the new legislation as a defence of traditional values in contrast with Western decadence. 
 
 <strong>Fact of the day: </strong>$63bn, the amount that firms have raised from IPOs on Chinese exchanges this year, compared with $21bn in New York. [Read the full story](https://www.economist.com/finance-and-economics/2022/11/22/xi-jinpings-big-bang-for-chinese-stockmarkets). 
 
@@ -66,7 +66,7 @@ After Russia’s invasion, the speeches of Volodymyr Zelensky, Ukraine’s presi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="28795d41526d5b585a4d5b5b47684d4b47464745415b5c064b4745">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="86d7f3effcc3f5f6f4e3f5f5e9c6e3e5e9e8e9ebeff5f2a8e5e9eb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Thursday: </strong>Which children’s toy was named after the 26th president of America?
