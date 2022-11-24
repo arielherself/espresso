@@ -22,7 +22,7 @@ A “substantial majority” of the <strong>Federal Reserve’s</strong> policym
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Twitter</strong> shut its office in Brussels, sparking fears among EU officials that the social-media platform will not follow EU rules on [<strong>moderating online speech</strong>](https://www.economist.com/business/2022/04/30/free-speech-idealism-will-clash-with-laws-and-reality), as the fallout from Elon Musk’s takeover continues. Before he bought Twitter Mr Musk suggested he wanted to [reduce](https://www.economist.com/leaders/2022/04/30/elon-musk-wants-to-re-engineer-the-public-square) its moderation rules in order to create a digital “public sphere” that enshrines free-speech.
+<strong>Twitter</strong> shut its office in Brussels, sparking fears among EU officials that the social-media platform will not follow EU rules on [<strong>moderating online speech</strong>](https://www.economist.com/business/2022/04/30/free-speech-idealism-will-clash-with-laws-and-reality), as the fallout from Elon Musk’s takeover continues. Before he bought Twitter Mr Musk suggested he wanted to [reduce](https://www.economist.com/leaders/2022/04/30/elon-musk-wants-to-re-engineer-the-public-square) its moderation rules in order to create a digital “public sphere” that enshrines free speech.
 
 The judge presiding over <strong>Brazil’s </strong>electoral court slapped down a [legal challenge](https://www.economist.com/the-americas/2022/11/23/jair-bolsonaros-challenge-to-brazils-election-was-rejected) filed by Jair Bolsonaro against the outcome of [the election that unseated him](https://www.economist.com/films/2022/10/31/lula-wins-the-brazilian-election) as president. On Wednesday, just a day after the challenge was filed, the judge affirmed the victory of Luiz Inácio Lula da Silva and for good measure imposed a $4.3m fine on Mr Bolsonaro’s side, for litigating in bad faith.
 
@@ -66,7 +66,7 @@ After Russia’s invasion, the speeches of Volodymyr Zelensky, Ukraine’s presi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a7f6d2cedde2d4d7d5c2d4d4c8e7c2c4c8c9c8caced4d389c4c8ca">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.  
 
 
 <strong>Thursday: </strong>Which children’s toy was named after the 26th president of America?
