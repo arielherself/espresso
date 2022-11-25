@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Elon Musk, the new Chief Twit at <strong>Twitter</strong>, announced a <strong>“general amnesty”</strong> for some suspended accounts, starting next week, and justified it with an online poll. He reinstated Donald Trump’s last weekend. Twitter also shut its office in <strong>Brussels</strong>, sparking fears among EU officials that the social-media platform will cease to follow their rules governing the [moderation of online speech](https://www.economist.com/business/2022/04/30/free-speech-idealism-will-clash-with-laws-and-reality).
 
-<strong>Football World Cup:</strong> Cristiano Ronaldo scored in a fifth consecutive World Cup—a [record](https://www.economist.com/graphic-detail/2018/06/18/every-world-cup-goal-ever-scored)—as his Portugal side beat Ghana 3-2 in their opening match in Qatar. Earlier this week the preening [Portuguese star](https://www.economist.com/culture/2022/11/17/lionel-messi-and-cristiano-ronaldo-have-forged-modern-football) was booted from his club, Manchester United, after falling out with the manager. Brazil, the favourites to bag a sixth title, also won, beating Serbia 2-0.
+<strong>Football World Cup:</strong> Iran’s football team sang the national anthem before their match against Wales. The team chose not to do so at their previous fixture in defiance against their government’s ongoing [brutal crackdown on protests](https://www.economist.com/middle-east-and-africa/2022/11/24/while-irans-turmoil-persists-jitters-spread-through-the-region). The players went on to dramatically win the match with two goals in its final minutes. Meanwhile, Senegal, African champions, easily beat Qatar, the hosts.
 
 <strong>Fact of the day: </strong>1.4m, the number of homes that Hornsea 2, the world’s largest wind farm, can power. [Read the full story](https://www.economist.com/britain/2022/11/24/why-britain-is-a-world-leader-in-offshore-wind).
 
@@ -68,7 +68,7 @@ The latest version, made for Netflix, is released in cinemas in America and Brit
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7b2a0e12013e080b091e0808143b1e181415141612080f55181416">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b3e2c6dac9f6c0c3c1d6c0c0dcf3d6d0dcdddcdedac0c79dd0dcde">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which counterculture festival takes place in Nevada in late August and early September?
 
