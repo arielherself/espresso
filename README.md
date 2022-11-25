@@ -22,7 +22,7 @@
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Peru’s</strong> president, Pedro Castillo, accepted the resignation of Anibal Torres, his prime minister and ally, as a stand-off with the country’s Congress continues. (Mr Torres quit after failing to get a confidence vote off the ground.) Opposition parliamentarians have twice impeached Mr Castillo without removing him from power. The leftist leader must now appoint [his fifth prime minister](https://te.arielherself.xyz/the-americas/2022/09/29/peru-has-an-incompetent-president-and-a-discredited-congress) since taking office in July 2021.
+<strong>Peru’s</strong> president, Pedro Castillo, accepted the resignation of Aníbal Torres, his prime minister and ally, as a stand-off with the country’s Congress continues. (Mr Torres quit after failing to get a confidence vote off the ground.) Opposition parliamentarians have twice impeached Mr Castillo without removing him from power. The leftist leader must now appoint [his fifth prime minister](https://te.arielherself.xyz/the-americas/2022/09/29/peru-has-an-incompetent-president-and-a-discredited-congress) since taking office in July 2021.
 
 Elon Musk, the new Chief Twit at <strong>Twitter</strong>, announced a <strong>“general amnesty”</strong> for some suspended accounts, starting next week, and justified it with an online poll. He reinstated Donald Trump’s last weekend. Twitter also shut its office in <strong>Brussels</strong>, sparking fears among EU officials that the social-media platform will cease to follow their rules governing the [moderation of online speech](https://te.arielherself.xyz/business/2022/04/30/free-speech-idealism-will-clash-with-laws-and-reality).
 
@@ -68,7 +68,7 @@ The latest version, made for Netflix, is released in cinemas in America and Brit
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which counterculture festival takes place in Nevada in late August and early September?
 
