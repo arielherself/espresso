@@ -68,7 +68,7 @@ The latest version, made for Netflix, is released in cinemas in America and Brit
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="85d4f0ecffc0f6f5f7e0f6f6eac5e0e6eaebeae8ecf6f1abe6eae8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c091b5a9ba85b3b0b2a5b3b3af80a5a3afaeafada9b3b4eea3afad">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which counterculture festival takes place in Nevada in late August and early September?
 
