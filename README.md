@@ -68,7 +68,7 @@ The latest version, made for Netflix, is released in cinemas in America and Brit
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0352766a79467073716670706c4366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b0e1c5d9caf5c3c0c2d5c3c3dff0d5d3dfdedfddd9c3c49ed3dfdd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which counterculture festival takes place in Nevada in late August and early September?
 
@@ -91,8 +91,6 @@ Africa:<strong> Gustav Melck</strong>, Pretoria, South Africa
 Oceania: <strong>Richard Lyon</strong>, Greenwich, Australia 
 
 They all gave the correct answers of [Bankman-Fried](https://te.arielherself.xyz/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars), [Basque](https://te.arielherself.xyz/europe/2022/11/17/written-basque-may-be-1000-years-older-than-anyone-thought), [anger](https://te.arielherself.xyz/united-states/2022/11/17/glenn-youngkin-is-a-kinder-gentler-trumpist) and [Dnipro](https://te.arielherself.xyz/europe/2022/11/17/ingenious-ways-of-protecting-civilians-from-russian-bombs). Check back tomorrow for this week’s crossword.
-
-## Get the best reading experience and stay ahead with ease.
 
 ----------
 
