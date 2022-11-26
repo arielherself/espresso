@@ -22,7 +22,7 @@ America&#x27;s government allowed <strong>Chevron</strong>, an oil giant, to res
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Vladimir Makei</strong>, Belarus’s foreign minister since 2012, died suddenly Belarussian state media reported on Saturday; no cause of death was provided. Mr Makei had tried to improve relations with the West, and even occasionally criticised Russia, before anti-regime protests in Belarus in 2020 led him to reverse his position. He had provided full-throated support for Russia’s invasion of Ukraine.
+State media in <strong>Belarus </strong>reported that the foreign minister, <strong>Vladimir Makei</strong>, had suddenly died. No cause of death was reported. He had been in office since 2012 and had initially tried to improve. Mr Makei had tried to improve relations with the West, and even occasionally criticised Russia, before anti-regime protests in Belarus in 2020 led him to reverse his position. He had provided full-throated support for Russia’s invasion of Ukraine.
 
 The <strong>Federal Communication Commission</strong>, America’s telecommunications regulator, banned <strong>Huawei </strong>and <strong>ZTE</strong>, two Chinese technology firms, from selling goods in America. The commission cited national security concerns. The FCC had previously restricted companies from using government money to buy Huawei&#x27;s gear, but this ruling covers all private-sector purchases. The Biden administration had earlier stopped the export of semiconductors to China, in an increasingly protectionist turn.
 
