@@ -18,7 +18,7 @@ Sporadic <strong>anti-lockdown protests </strong>broke out in <strong>Beijing</s
 
 <strong>Tsai Ing-wen</strong>, the [president of Taiwan](https://www.economist.com/asia/2020/01/02/taiwans-china-sceptic-president-tsai-ing-wen-may-win-again), resigned as head of the ruling Democratic Progressive Party after a dismal set of results for her party in local elections. Ms Tsai had tried to frame the elections as a way for voters to rebuke Chinese aggression. Taiwan’s opposition party, the Kuomintang, had focused on the government’s handling of covid-19. Ms Tsai will remain as president until Taiwan holds elections in 2024.
 
-<strong>Iranian</strong> security officials fired at protesters in the south-eastern province of Sistan-Baluchistan after Friday prayers, leaving dozens of casualties, according to activists tracking the demonstrations. Meanwhile the Islamic Revolutionary Guard Corps deployed more soldiers to Kurdish regions in the north of the country. Iran’s [protests](https://www.economist.com/middle-east-and-africa/2022/11/24/while-irans-turmoil-persists-jitters-spread-through-the-region) were sparked by the killing of a 22-year-old Kurdish woman in police custody on September 16th.
+America&#x27;s government allowed <strong>Chevron</strong>, an oil giant, to resume production in <strong>Venezuela</strong>, three years after it began imposing sanctions that heavily restricted its operations in the country. That day, representatives of the Venezuelan government travelled to Mexico and met opposition factions in an effort to strike an agreement that could lead to the unfreezing of some overseas assets.
 
 Listen to an abridged version of the subscriber-only briefing.
 
