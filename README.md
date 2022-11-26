@@ -32,19 +32,17 @@ The <strong>Federal Communication Commission</strong>, America’s telecommunica
 
 ----------
 
-## Early voting opens in Georgia
+## Russian fertiliser sets sail for Africa
 
-On Saturday voters in Georgia begin to return to the polls to pick a senator. Since neither Raphael Warnock, the Democratic incumbent, nor Herschel Walker, his Republican challenger, secured a majority at the midterms earlier this month, their race has gone to a run-off. Voting ends on December 6th. 
+Many poor countries rely on Russian [fertiliser](https://te.arielherself.xyz/the-economist-explains/2022/05/31/why-fertiliser-prices-are-soaring) to boost their harvests. But more than 400,000 tonnes of the stuff are currently stuck in European warehouses. Although fertilisers are exempt from sanctions, banks and insurance companies are wary of backing trade in Russian goods, lest they accidently get slapped with fines or criminal charges. 
 
-Republicans should have clinched the seat, amid dissatisfaction with Democratic control of Congress in Washington. In the governor’s race in Georgia the Republican candidate, Brian Kemp, was re-elected by eight percentage points. That Mr Walker, a former American-football star, fell short reflects his [awful campaign](https://te.arielherself.xyz/the-economist-explains/2022/10/14/who-is-herschel-walker), marred by allegations that he paid for ex-girlfriends’ abortions despite his avowed support for a ban on the procedure. 
+That is a pain for Russia, which was enticed to back a deal to allow grain to leave Ukraine’s Black Sea ports with promises of help for its fertiliser trade. Russian companies have offered to donate stocks to African countries but have struggled to pay for the freight. So the UN has stepped in. This weekend a ship chartered by its World Food Programme is en route from the Netherlands to Malawi, bearing 20,000 tonnes of Russian fertiliser. It is in everyone’s interests to shovel fertiliser along again.
 
-Now Mr Walker hopes to win over some of the 200,000 people who voted for Mr Kemp but not for him. Donald Trump has steered clear of the state. That may help Mr Walker’s chances: the former president’s wacky endorsees [damaged Republicans](https://te.arielherself.xyz/united-states/2022/11/17/quantifying-the-trump-effect) in the midterms. But that also makes Georgia’s run-off less critical than it otherwise would have been: Democrats have [already retained the Senate](https://te.arielherself.xyz/united-states/2022/11/13/the-democrats-keep-control-of-the-senate). 
+## A call of duty for American regulators
 
-## Taiwan’s local elections
+America’s Federal Trade Commission is preparing to decide whether to oppose Microsoft’s acquisition of Activision Blizzard, a video-game developer that the software firm agreed to [buy for $69bn](https://te.arielherself.xyz/business/why-microsoft-is-splashing-69bn-on-video-games/21807242) in January. [Microsoft](https://te.arielherself.xyz/business/2021/04/15/the-method-in-microsofts-merger-madness), which makes the Xbox console, would get Activision’s library of games, including “Candy Crush”, a mobile hit, and the murderously popular “Call of Duty” franchise. [Sony](https://te.arielherself.xyz/business/2022/02/04/how-sony-can-make-a-comeback-in-the-console-wars), in particular, worries that Microsoft might take Activision titles away from its rival PlayStation console.
 
-Taiwan goes to the polls on Saturday. Citizens will elect nine levels of local government, from city mayors to borough chiefs, and take part in a referendum on the minimum ages at which people may vote and run for office. Local-election campaigns in Taiwan tend to focus on quotidian issues like public transport and health care. One topic that does not usually feature is China, which regards Taiwan as a [renegade province](https://te.arielherself.xyz/special-report/2022/10/10/china-has-chilling-plans-for-governing-taiwan). But with China’s increasingly belligerent rhetoric jangling Taiwanese nerves, this year some Democratic Progressive Party (DPP) candidates have publicly pledged that in the event of an invasion they would defend the island and refuse to surrender.
-
-Such hawkish stances have helped the DPP win general elections against the pro-unification Nationalist Party in the past. For all that, on Saturday most voters will be casting their votes on local-governance issues. But the campaign may foreshadow Taiwan’s 2024 presidential election, at which politicians’ views on China will matter more than ever.
+Microsoft has promised to keep “Call of Duty” on the PlayStation for a decade. It has pointed out to the FTC, and 15 other competition watchdogs examining the deal, that its Xbox lags behind both Nintendo and Sony in the console market, and that it has little presence in mobile. But trustbusters, who in recent years have placed big tech in their sights, worry about Microsoft’s leading position in subscription and [cloud-based gaming](https://te.arielherself.xyz/business/2019/06/15/video-gaming-enters-the-cloud). Those are tiny industries for now, but regulators are in a trigger-happy mood.
 
 ## The art and activism of Nan Goldin
 
