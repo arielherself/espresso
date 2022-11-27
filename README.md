@@ -26,7 +26,7 @@ America’s government gave <strong>Chevron</strong> a licence to produce crude 
 
 State media in <strong>Belarus</strong> reported the sudden death of the foreign minister, Vladimir Makei. The cause was not revealed. He had been in office since 2012 and initially tried to improve relations with the West, even occasionally criticising Russia, before anti-regime protests in Belarus in 2020 led him to reverse his position. He provided full-throated support for Russia’s invasion of Ukraine.
 
-<strong>Football World Cup:</strong> Thursday’s game between the United States and England drew an American television audience of 15.4m, a record for a World Cup game in that country. Sadly they had to endure a turgid 0-0 draw. Meanwhile <strong>France </strong>became the first nation to qualify for the round of 16, after beating <strong>Denmark</strong>. An initially unimpressive <strong>Argentina </strong>beat <strong>Mexico</strong>; Lionel Messi scored a superb first goal.
+<strong>Football World Cup:</strong> Thursday’s game between the United States and England drew an American television audience of 15.4m, a record for a World Cup game in that country. The poor blighters endured a turgid 0-0 draw. Meanwhile <strong>France </strong>became the first nation to qualify for the round of 16, after beating <strong>Denmark</strong>. An initially unimpressive <strong>Argentina </strong>beat <strong>Mexico</strong>; Lionel Messi provided a superb first goal.
 
 <strong>Word of the Week: </strong><em>Iskra, </em>meaning “spark”, the name of the paper Vladimir Lenin once edited from London. [Read the full story](https://te.arielherself.xyz/europe/2022/11/22/how-offshore-journalists-challenge-vladimir-putins-empire-of-lies). 
 
