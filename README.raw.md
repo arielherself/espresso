@@ -56,7 +56,7 @@ Hearing loss is the third most common chronic health condition among Americans, 
 
 Audiologists compared Apple’s market-leading AirPods Pro with two professional hearing aids. AirPods’ “Live Listen” tool (popular with birdwatchers and eavesdroppers), which receives and amplifies audio from an iPhone’s microphone, enabled them to function as makeshift hearing aids. In listening tests with hearing-impaired volunteers, AirPods Pro performed as well as a basic hearing aid and almost matched a premium one. This proves that earbuds could act as stopgaps for people awaiting assessment at a fraction of the cost. And for those hung up on “feeling old”, what could be trendier than nicking a near-ubiquitous accessory among teenagers?
 
-## Weekend profile: Hervé Renard, manager of the Saudi football team
+## Hervé Renard, manager of the Saudi football team
 
 At the World Cup in Qatar, Saudi [fans](https://www.economist.com/middle-east-and-africa/2022/11/17/qatars-neighbours-hope-for-a-world-cup-tourism-boom) are outnumbered only by Americans and those of the hosts. Proximity to Qatar certainly helps, but no one should doubt the Saudis’ passion for the game. Yet their national team had little to show for it on the sport’s biggest stage—until this week. On Tuesday the Green Falcons, as they are known, [shocked](https://www.economist.com/middle-east-and-africa/2022/11/23/what-saudi-arabias-football-victory-means-for-the-middle-east) Argentina, among the pre-tournament favourites.
 
