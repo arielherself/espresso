@@ -26,7 +26,7 @@ Supporters of <strong>Imran Khan</strong>, the ousted former president of Pakist
 
 Yoweri Museveni, <strong>Uganda’s</strong> president, extended the quarantine of two districts in Central Uganda to try and stop the spread of <strong>Ebola</strong>. Mubende and Kassanda are regarded as the epicentre of an outbreak of the disease that was declared on September 20th—they will now remain locked down until December 17th. The strain of Ebola circulating in Uganda is rare and has no proven [vaccine](https://te.arielherself.xyz/science-and-technology/2015/08/08/cluster-bombing).
 
-<strong>Football World Cup:</strong> On Sunday <strong>Morocco</strong> shocked <strong>Belgium</strong>, FIFA’s second-highest ranked team, with their third-ever victory in a world cup. Despite struggling, <strong>Costa Rica</strong> triumphed over <strong>Japan</strong> with an 81st-minute goal. <strong>Germany</strong> are now the only team in their group not to have won a game. They face a fearsome <strong>Spanish</strong> side which already walloped Costa Rica 7-0. 
+<strong>Football World Cup:</strong> On Sunday <strong>Morocco</strong> shocked <strong>Belgium</strong>, FIFA’s second-highest ranked team, with their third-ever victory in a world cup. Despite struggling, <strong>Costa Rica</strong> triumphed over <strong>Japan</strong> with an 81st-minute goal. <strong>Germany</strong> drew 1-1 with <strong>Spain</strong>: the former are now the only team in their group not to have won a game.
 
 <strong>Word of the Week: </strong><em>Iskra, </em>meaning “spark”, the name of the paper Vladimir Lenin once edited from London. [Read the full story](https://te.arielherself.xyz/europe/2022/11/22/how-offshore-journalists-challenge-vladimir-putins-empire-of-lies). 
 
