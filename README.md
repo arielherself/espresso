@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Mélanie Joly, <strong>Canada’s</strong> foreign minister, unveiled a C$2.3bn ($1.7bn) strategy for the <strong>Indo-Pacific</strong> on Sunday. The aim is to expand Canada’s military presence in the region to counter “disruptive” Chinese influence, as well as diversify trade. Canada will also tighten its rules on inward foreign investment in an attempt to stop China buying up its minerals.
 
-<strong>Football World Cup:</strong> On Sunday <strong>Morocco </strong>shocked <strong>Belgium</strong>, FIFA’s second-highest-ranked team, with only their third-ever victory in a World Cup. Despite struggling, <strong>Costa Rica </strong>triumphed over <strong>Japan </strong>with an 81st-minute goal. <strong>Germany </strong>remain the only winless team in their group, as they drew 1-1 with Spain.
+<strong>Football World Cup: </strong>Another remarkable game involving an [African team](https://te.arielherself.xyz/middle-east-and-africa/2022/11/24/how-do-budding-african-footballers-make-it-to-the-top) saw <strong>Cameroon</strong> fight back from two goals down to draw 3-3 with <strong>Serbia</strong>. The result follows <strong>Morocco’s </strong>shock win against <strong>Belgium</strong>, FIFA’s second-highest ranked team, only their third-ever victory in a World Cup. After the match Belgian police fired tear gas and arrested at least 10 people amid riots in Brussels, the capital. 
 
 <strong>Fact of the day:</strong> 800%, the increase in Moderna’s share price since January 1st 2020. The vaccine-maker is the second-best-performing company in the S&amp;P 500. [Read the full story](https://te.arielherself.xyz/business/2022/11/27/the-new-winners-and-losers-in-business). 
 
@@ -70,7 +70,7 @@ But Diplomacy also requires players to communicate with others well enough to im
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8adbffe3f0cff9faf8eff9f9e5caefe9e5e4e5e7e3f9fea4e9e5e7">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#b6e7c3dfccf3c5c6c4d3c5c5d9f6d3d5d9d8d9dbdfc5c298d5d9db). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a5f4d0ccdfe0d6d5d7c0d6d6cae5c0c6cacbcac8ccd6d18bc6cac8">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#bcedc9d5c6f9cfccced9cfcfd3fcd9dfd3d2d3d1d5cfc892dfd3d1). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which TV streaming service is named after the NBC logo?
 
