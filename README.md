@@ -12,105 +12,67 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Protesters clashed with police in Shanghai on Sunday night, as they staged a demonstration against <strong>China’s</strong> draconian anti-covid measures. Sporadic protests have [spread across the country](https://te.arielherself.xyz/china/2022/11/27/unrest-breaks-out-across-china-as-frustration-at-lockdowns-grows) including in Beijing and Wuhan, as residents demand an end to harsh lockdowns; some reportedly called for the removal of President Xi Jinping. A fire that killed ten people in Urumqi, the capital of the western province of Xinjiang, has focused people’s anger. Demonstrators there blamed covid [restrictions](https://te.arielherself.xyz/china/2022/11/24/chinas-response-to-a-surge-in-covid-19-cases-is-muddled) for slowing the response of emergency services.
+Protesters in <strong>Shanghai </strong>took to the streets again on Sunday night, finishing a [weekend of angry demonstrations](https://te.arielherself.xyz/china/2022/11/27/unrest-breaks-out-across-china-as-frustration-at-lockdowns-grows) against <strong>China’s</strong> draconian <strong>anti-covid measures</strong>. A relative calm seemed to emerge on Monday morning, along with new security cordons and news of detentions. Some protesters had clashed with police; others broadened their dissent, holding aloft blank sheets of paper to decry the suppression of free speech and the Communist Party generally. Similar demonstrations proliferated in other Chinese cities. Asian stockmarkets fell at the prospect of further unrest and President Xi Jinping’s anticipated response. At the same time, the number of new covid-19 infections reported hit a record 40,000.
 
-Snow and freezing temperatures descended on and around <strong>Kyiv</strong>, Ukraine’s capital, where millions of people have only limited access to electricity, water and heat. Russian missiles have damaged much of <strong>Ukraine’s</strong> [energy infrastructure](https://te.arielherself.xyz/europe/2022/11/23/in-ukraine-living-as-normal-is-an-act-of-defiance). Meanwhile the head of the state-run nuclear energy company said there were signs that Russian forces might be preparing to leave the Zaporizhzhia nuclear power plant, which they have occupied since March. 
+<strong>Ukraine’s</strong> president, Volodymyr Zelensky, warned Ukrainians to expect more Russian strikes as snow and freezing temperatures descended on Kyiv, the capital. Millions of people have only limited access to electricity, water and heat after Russian missiles pulverised much of Ukraine’s [energy infrastructure](https://te.arielherself.xyz/europe/2022/11/23/in-ukraine-living-as-normal-is-an-act-of-defiance). Vitali Klitschko, Kyiv’s mayor, said that the blackouts could last until spring, with temporary evacuations possible. 
 
-Mélanie Joly, <strong>Canada’s</strong> foreign minister, unveiled a new C$2.3bn ($1.7bn) strategy for the <strong>Indo-Pacific</strong> on Sunday. The plan aims to expand Canada’s military presence in the region to counter “disruptive” Chinese influence, as well as diversify trade. Canada will also tighten up its rules about foreign investment in the country to try and stop China buying up its minerals. 
+Heavily armed jihadists of <strong>Somalia’s</strong> [al-Shabab terrorist group](https://te.arielherself.xyz/middle-east-and-africa/2022/08/11/how-al-qaeda-and-islamic-state-are-digging-into-africa) stormed a hotel near the presidential palace in Mogadishu, taking an unknown number of hostages. Police said at least four people were killed and that several officials had been rescued. Somalia’s army has made [significant gains](https://te.arielherself.xyz/middle-east-and-africa/2022/11/03/somali-clans-are-revolting-against-jihadists) against al-Shabab in recent weeks, boasting on Saturday that it had killed 100 of its fighters near the capital.
 
-Tens of thousands of people marched in <strong>Mexico City</strong> to show their support for <strong>Andrés Manuel López Obrador</strong>, the [country’s president](https://te.arielherself.xyz/the-americas/2022/11/24/mexicos-president-wants-to-develop-the-poorer-south). Mr López Obrador organised the rally to mark his fourth year in office. But it is also probably an attempt to show off his popularity—he has an approval rating of nearly 60%—after his plans to reform Mexico’s electoral system triggered protests. 
+More than 80 people were injured during protests against a construction hailed as <strong>India’s</strong> first international deepwater port, in which fishermen clashed with police officers. The [Adani Group](https://te.arielherself.xyz/business/2022/05/19/gautam-adani-wants-to-cement-his-grip-on-indias-heavy-industry), which has been building the seaport since 2015, is the ultimate target of their ire. The fight has taken a sectarian hue, with Hindu groups rallying to Adani’s cause and Christian clergy charged as conspirators.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Supporters of <strong>Imran Khan</strong>, the ousted former president of Pakistan, rallied in Rawalpindi, on the outskirts of the capital, Islamabad. It was Mr Khan’s first show of strength since he survived an [assassination attempt](https://te.arielherself.xyz/asia/2022/11/03/imran-khan-pakistans-ex-prime-minister-survives-an-attempt-on-his-life) earlier this month. The former cricket star called off a planned march into Islamabad, for fear of causing havoc, he said.
+Mélanie Joly, <strong>Canada’s</strong> foreign minister, unveiled a C$2.3bn ($1.7bn) strategy for the <strong>Indo-Pacific</strong> on Sunday. The aim is to expand Canada’s military presence in the region to counter “disruptive” Chinese influence, as well as diversify trade. Canada will also tighten its rules on inward foreign investment in an attempt to stop China buying up its minerals.
 
-Yoweri Museveni, <strong>Uganda’s</strong> president, extended the quarantine of two districts in Central Uganda to try and stop the spread of <strong>Ebola</strong>. Mubende and Kassanda are regarded as the epicentre of an outbreak of the disease that was declared on September 20th—they will now remain locked down until December 17th. The strain of Ebola circulating in Uganda is rare and has no proven [vaccine](https://te.arielherself.xyz/science-and-technology/2015/08/08/cluster-bombing).
+Tens of thousands of people marched in <strong>Mexico City</strong> to show their support for <strong>Andrés Manuel López Obrador</strong>, the [country’s president](https://te.arielherself.xyz/the-americas/2022/11/24/mexicos-president-wants-to-develop-the-poorer-south). Mr López Obrador organised the rally to mark his fourth year in office. But it is also probably an attempt to show off his popularity—he has an approval rating of nearly 60%—after his plans to reform Mexico’s electoral system triggered protests. 
 
-<strong>Football World Cup:</strong> On Sunday <strong>Morocco</strong> shocked <strong>Belgium</strong>, FIFA’s second-highest ranked team, with their third-ever victory in a world cup. Despite struggling, <strong>Costa Rica</strong> triumphed over <strong>Japan</strong> with an 81st-minute goal. <strong>Germany</strong> drew 1-1 with <strong>Spain</strong>: the former are now the only team in their group not to have won a game.
+<strong>Football World Cup:</strong> On Sunday <strong>Morocco </strong>shocked <strong>Belgium</strong>, FIFA’s second-highest-ranked team, with only their third-ever victory in a World Cup. Despite struggling, <strong>Costa Rica </strong>triumphed over <strong>Japan </strong>with an 81st-minute goal. <strong>Germany </strong>remain the only winless team in their group, as they drew 1-1 with Spain.
 
-<strong>Word of the Week: </strong><em>Iskra, </em>meaning “spark”, the name of the paper Vladimir Lenin once edited from London. [Read the full story](https://te.arielherself.xyz/europe/2022/11/22/how-offshore-journalists-challenge-vladimir-putins-empire-of-lies). 
+<strong>Fact of the day:</strong> 800%, the increase in Moderna’s share price since January 1st 2020. The vaccine-maker is the second-best-performing company in the S&amp;P 500. [Read the full story](https://te.arielherself.xyz/business/2022/11/27/the-new-winners-and-losers-in-business). 
 
 ----------
 
-## Russian fertiliser sets sail for Africa
+## Fury mounts over lockdowns in China
 
-Many poor countries rely on Russian [fertiliser](https://te.arielherself.xyz/the-economist-explains/2022/05/31/why-fertiliser-prices-are-soaring) to boost their harvests. But more than 400,000 tonnes of the stuff are currently stuck in European warehouses. Although fertilisers are exempt from sanctions, banks and insurance companies are wary of backing trade in Russian goods, lest they accidently get slapped with fines or criminal charges. 
+Residents of China’s cities return to work on Monday after a weekend of widespread protests against draconian “[zero-covid](https://te.arielherself.xyz/china/2022/11/17/china-tweaks-its-zero-covid-policy)” measures. Frustrations with months of lockdowns spread after a fire in Urumqi, in the western region of Xinjiang, left ten dead on Thursday. Many blamed covid restrictions for hindering fire-fighters and occupants who were trying to escape. 
 
-That is a pain for Russia, which was enticed to back a deal to allow grain to leave Ukraine’s Black Sea ports with promises of help for its fertiliser trade. Russian companies have offered to donate stocks to African countries but have struggled to pay for the freight. So the UN has stepped in. This weekend a ship chartered by its World Food Programme is en route from the Netherlands to Malawi, bearing 20,000 tonnes of Russian fertiliser. It is in everyone’s interests to shovel fertiliser along again.
+On Saturday night demonstrators in Shanghai called for President Xi Jinping to step down—an extremely rare show of defiance. On Sunday night in Beijing crowds sang the “Internationale”, a socialist anthem, and mourned the deaths in Xinjiang. Students at several university campuses held up blank sheets of paper to highlight China’s lack of free speech. 
 
-## A call of duty for American regulators
+China’s rulers hate instability. But they are in a bind. The country is gripped by its biggest covid outbreak yet. Elderly people are made more vulnerable by low vaccination rates. Many Chinese people are clearly furious with public-health rules. Reintroducing restrictions will probably spark more unrest.
 
-America’s Federal Trade Commission is preparing to decide whether to oppose Microsoft’s acquisition of Activision Blizzard, a video-game developer that the software firm agreed to [buy for $69bn](https://te.arielherself.xyz/business/why-microsoft-is-splashing-69bn-on-video-games/21807242) in January. [Microsoft](https://te.arielherself.xyz/business/2021/04/15/the-method-in-microsofts-merger-madness), which makes the Xbox console, would get Activision’s library of games, including “Candy Crush”, a mobile hit, and the murderously popular “Call of Duty” franchise. [Sony](https://te.arielherself.xyz/business/2022/02/04/how-sony-can-make-a-comeback-in-the-console-wars), in particular, worries that Microsoft might take Activision titles away from its rival PlayStation console.
+## In with the old at Disney
 
-Microsoft has promised to keep “Call of Duty” on the PlayStation for a decade. It has pointed out to the FTC, and 15 other competition watchdogs examining the deal, that its Xbox lags behind both Nintendo and Sony in the console market, and that it has little presence in mobile. But trustbusters, who in recent years have placed big tech in their sights, worry about Microsoft’s leading position in subscription and [cloud-based gaming](https://te.arielherself.xyz/business/2019/06/15/video-gaming-enters-the-cloud). Those are tiny industries for now, but regulators are in a trigger-happy mood.
+Staff of the Magic Kingdom will gather on Monday morning for a virtual town-hall meeting with Bob Iger, who began a [second stint as chief executive](https://te.arielherself.xyz/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script) a week ago. Mr Iger ran Disney for 15 stellar years before stepping down in 2020. His successor, Bob Chapek, had a tougher time and was booted out on November 20th after quarterly results showed growing losses at Disney+, the company’s streaming service. Mr Iger will now try to steady the ship in two years.
 
-## The World Cup of Tennis fights for relevance
+Investors are glad to have him back: Disney’s stock has risen since his return. And staff are mostly pleased that Mr Iger is undoing a centralising strategy initiated by Mr Chapek, handing power back to Disney’s creative teams. But the difficulties at Disney, and across Hollywood, run deeper. [Streaming](https://te.arielherself.xyz/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) is undermining the cinema and cable industries and turning out to be less profitable than either. The [new-old Bob](https://te.arielherself.xyz/business/2022/11/23/what-disney-can-learn-from-elton-john) will need more than new-old ideas.
 
-Tennis may be the world’s most popular individual sport, but it also has a rich history of team competitions. The Davis Cup, a tournament for national men’s teams launched in 1900, claims to be the world’s longest-running international team sports event. But it is struggling for relevance. Senior players and fans prefer the four [grand slams](https://te.arielherself.xyz/graphic-detail/2022/07/08/tennis-is-becoming-a-more-homogeneous-game), the sport’s most prestigious, and lucrative, tournaments. 
+## Judicial nominees on the Senate’s agenda
 
-In 2018 the International Tennis Federation, the sport’s governing body, entered a 25-year partnership worth $3bn with Kosmos, an investment group, to revamp the Davis Cup. The event was squeezed into just a week in a single city (this year, Malaga in Spain). It was rebranded as the “World Cup of Tennis”. Whether this is attracting new fans is still unclear, though viewing numbers for the final, between Canada and Australia, on Sunday will offer some indication. But competition for eyeballs will be stiff: that same day Canada will face Croatia at the football World Cup in Qatar.
+On Monday America’s Senate returns from its Thanksgiving break to debate the [Respect for Marriage Act](https://www.nytimes.com/2022/11/16/us/politics/same-sex-marriage-bill-senate.html), a bill that would strengthen rights for same-sex couples. It will also consider some [two dozen nominees](https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf) for judgeships on federal courts and may hold votes on two district-court nominees.
 
-## Wireless earphones double as hearing aids
+Both are women: Camille Vélez-Rivé in Puerto Rico and Anne Nardacci in New York. That is consistent with President Joe Biden’s previous appointments: of the 85 judges he has seated so far, including Ketanji Brown Jackson on the Supreme Court, just 21 are men. Nearly a quarter are African-American and two-thirds are non-white.
 
-Hearing loss is the third most common chronic health condition among Americans, yet three-quarters of those affected do not use hearing aids. Many people go without so as not to “feel old”, though the aids can also be expensive and inconvenient to acquire. But research in the journal <em>iScience</em> has shown that ordinary wireless earphones can be used as hearing aids. 
+The Democrats’ marginal majority in the Senate allowed Mr Biden to rapidly usher nominees into robes. If Raphael Warnock beats Herschel Walker (the Republican candidate) in a run-off election for Georgia’s seat on December 6th, Democrats will walk away from the midterms with 51 seats to the Republicans’ 49 (meaning Kamala Harris, the vice-president, will no longer be needed to break ties). This could speed things up further—and embolden Mr Biden to put forward more progressive nominees.
 
-Audiologists compared Apple’s market-leading AirPods Pro with two professional hearing aids. AirPods’ “Live Listen” tool (popular with birdwatchers and eavesdroppers), which receives and amplifies audio from an iPhone’s microphone, enabled them to function as makeshift hearing aids. In listening tests with hearing-impaired volunteers, AirPods Pro performed as well as a basic hearing aid and almost matched a premium one. This proves that earbuds could act as stopgaps for people awaiting assessment at a fraction of the cost. And for those hung up on “feeling old”, what could be trendier than nicking a near-ubiquitous accessory among teenagers?
+## The “real election” gets going in Chicago
 
-## Hervé Renard, manager of the Saudi football team
+Monday is the last day when candidates can file to run for mayor of Chicago—dubbed the “real election” by locals after the midterms. [Lori Lightfoot](https://te.arielherself.xyz/democracy-in-america/2019/04/03/lori-lightfoot-becomes-chicagos-first-black-female-mayor), the incumbent, is expected to wait until the last moment to do so. To participate, hopefuls must present at least 12,500 signatures from registered voters. The most successful traditionally manage many times that. In the sixties Richard J Daley, perhaps the most powerful American mayor, filed 500,000.
 
-At the World Cup in Qatar, Saudi [fans](https://te.arielherself.xyz/middle-east-and-africa/2022/11/17/qatars-neighbours-hope-for-a-world-cup-tourism-boom) are outnumbered only by Americans and those of the hosts. Proximity to Qatar certainly helps, but no one should doubt the Saudis’ passion for the game. Yet their national team had little to show for it on the sport’s biggest stage—until this week. On Tuesday the Green Falcons, as they are known, [shocked](https://te.arielherself.xyz/middle-east-and-africa/2022/11/23/what-saudi-arabias-football-victory-means-for-the-middle-east) Argentina, among the pre-tournament favourites.
+Ms Lightfoot, who sees herself as a successor to Harold Washington, the city’s first black mayor, once said she had “the biggest dick in Chicago”. But she faces a tough re-election campaign, having come under fire for her policies on crime and policing, and her supposed neglect of the downtown. She will also be competing with at least six other candidates, including Jesús “Chuy” Garcia, a combative Mexican-American congressman. Chicago was once famous for “machine politics”, but established politicians can no longer mechanically turn out blocks of votes like before. This election is anyone’s game. 
 
-King Salman gave workers the day off in celebration, just one sign of the commitment the country’s rulers have shown to the sport. In 2021 the Saudi Public Investment Fund, chaired by Crown Prince Mohammad bin Salman, bought Newcastle United, a team in England’s [Premier League](https://te.arielherself.xyz/culture/2022/08/04/an-unusual-season-for-english-footballs-premier-league). PIF money has also poured into Saudi Arabia’s domestic league, which attracts tens of thousands of spectators. And Saudi officials are plotting an audacious bid to host the World Cup in 2030.
+## AI outplays humans, again
 
-For all that, the Saudis’ most astute decision may prove to be the appointment, in 2019, of Hervé Renard as manager of the national team. Against Argentina, commentators found his tactic of holding a high defensive line naive, but it proved overpowering on the pitch. Mr Renard’s inspirational pep talk at half-time, when Saudi Arabia were trailing, was also instrumental, according to one player.
+Artificial intelligence has already trounced humans at backgammon, chess and Go. Now it can routinely win at Diplomacy, which for some aficionados is a truer marker of game-playing ability. Diplomacy, which sees players scrap for control of a pre-first world war Europe, is a very human pastime. Play demands collaboration but also allows for double-crossing.
 
-The victory felt like the culmination of Mr Renard’s own journey. In 1999 he began coaching SC Draguignan, a small team in the south of France, after his unremarkable playing career had been cut short by injury. To make ends meet, he worked as a cleaner between training sessions, something he later described as the “best schooling” he ever had. Other coaching stints, in Asia and [Africa](https://te.arielherself.xyz/middle-east-and-africa/2022/11/24/how-do-budding-african-footballers-make-it-to-the-top), followed. In 2012 he led unfancied Zambia to their first African Cup of Nations win. Three years later he took the trophy again, this time with Ivory Coast. 
+In a paper recently published in <em>Science</em>, researchers at Meta—Facebook’s parent company—explain how they created Cicero, a program that could play Diplomacy, and win. (It ranked in the top 10% of players in an online multi-game tournament.) Like all AI game-playing projects, Cicero learnt through reinforcement: making more selective moves as it was rewarded for positive outcomes.
 
-Mr Renard’s decision to take the Saudi job earned him plenty of criticism, given the country’s poor human-rights record. He insists such matters have “improved a lot,” and that he accepted the role for sporting reasons, not the significant money on offer. On Saturday his team lost to Poland. But the Saudis may yet secure a first appearance in the World Cup’s knockout stages since 1994 with a win against Mexico on November 30th. Should they pull it off, that would strengthen Mr Renard’s claim that Saudi Arabia truly is a “country of football”.
+But Diplomacy also requires players to communicate with others well enough to implement their chosen strategy, whether treacherous or truthful. Thus Cicero also had to be trained to speak like a human player, using vast sets of language data. That it did so successfully proves an ability to negotiate, convince, co-operate and compete. 
 
-## Weekly crossword
+## Daily quiz
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="98c9edf1e2ddebe8eafdebebf7d8fdfbf7f6f7f5f1ebecb6fbf7f5">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#d786a2bead92a4a7a5b2a4a4b897b2b4b8b9b8babea4a3f9b4b8ba). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>New leader is dishevelled—beware odd hair mania! (5, 7)
-
-<em>1 across</em> Language (read right to left) American spies spoke inside (6)
-
-<em>2 across </em>Business’s secret information (5)
-
-<em>3 across</em> Crazy half-riddle reveals city (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>A longtime nearly man of Malaysian politics (5, 7)
-
-<em>1 across</em> Script that the Chinese government has banned on buildings (6)
-
-<em>2 across </em>A multinational finding it hard to let go of China (5)
-
-<em>3 across</em> Where demonstrators recently focused on health care, not energy prices (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Pereena Lamba</strong>, Mumbai, India
-
-North America: <strong>Maureen Evans</strong>, Vernon, Canada
-
-Central and South America: <strong>Jim</strong> <strong>Kappeler</strong>, Rio de Janeiro, Brazil
-
-Europe: <strong>Jyrki</strong> <strong>Raina</strong>, Torrevieja, Spain
-
-Africa: <strong>Kilian</strong> <strong>Christ</strong>, Nairobi, Kenya
-
-Oceania: <strong>Jim McMahon</strong>, Wellington, New Zealand
-
-<em>They all gave the correct answers of Hound, Cruel Intentions, Tasmanian Devil, teddy bear and Burning Man. The theme is Elvis Presley songs: Hound Dog, Don’t be Cruel, Devil in Disguise, (Let Me Be Your) Teddy Bear and Burning Love</em>
+<strong>Monday: </strong>Which TV streaming service is named after the NBC logo?
 
 ----------
 
