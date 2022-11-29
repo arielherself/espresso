@@ -18,7 +18,7 @@ Jens Stoltenberg, NATO’s secretary-general, said <strong>Russia</strong> was u
 
 <strong>Canada’s</strong> economy expanded more than expected in the third quarter as exports of crude oil and healthy business investment bolstered growth. The country’s GDP [grew](https://www.economist.com/the-americas/2022/04/16/canadas-liberal-government-tries-to-boost-the-economy) by 2.9% on annualised terms between July and September, but there were signs of reduced spending among businesses and households. That may allow the Bank of Canada to slow interest rate rises. 
 
-<strong>Bitfront</strong>, an American crypto exchange, said it would cease operations, though it claimed that the move was unrelated to the collapse of FTX, the platform that [went bankrupt](https://www.economist.com/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars) earlier this month. Separately, <strong>BlockFi</strong>, a one-time darling of the industry, filed for bankruptcy and <strong>Kraken</strong>, another exchange, agreed to pay more than $360,000 to America’s Treasury for allowing transactions with users in Iran.
+<strong>Singapore’s</strong> parliament decriminalised sex between men, though it also moved to block potential future legislation on legalising same-sex marriage. Despite that disappointment, LGBT activists hailed the news that the [colonial-era ban](https://www.economist.com/asia/2022/03/05/singapores-high-court-retains-an-anti-gay-law) was officially repealed. Singaporean attitudes toward LGBT rights have liberalised significantly in recent years, especially among the young.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The match follows months of [anti-government demonstrations in Iran](https://www
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5504203c2f102625273026263a1530363a3b3a383c26217b363a38">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#ce9fbba7b48bbdbebcabbdbda18eabada1a0a1a3a7bdbae0ada1a3). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2f7e5a46556a5c5f5d4a5c5c406f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#a1f0d4c8dbe4d2d1d3c4d2d2cee1c4c2cecfceccc8d2d58fc2cecc). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1948 Hitchcock movie appears to take place in real time?  
   
