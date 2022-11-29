@@ -70,7 +70,7 @@ But Diplomacy also requires players to communicate with others well enough to im
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2475514d5e615754564157574b6441474b4a4b494d57500a474b49">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#b3e2c6dac9f6c0c3c1d6c0c0dcf3d6d0dcdddcdedac0c79dd0dcde). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 BST on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6736120e1d22141715021414082702040809080a0e14134904080a">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which TV streaming service is named after the NBC logo?
 
