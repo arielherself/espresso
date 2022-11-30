@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-11-29</p>
+# <p align="center">The world in brief 2022-11-30</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -66,7 +66,7 @@ The match follows months of [anti-government demonstrations in Iran](https://www
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#adfcd8c4d7e8dedddfc8dedec2edc8cec2c3c2c0c4ded983cec2c0). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f7a6829e8db284878592848498b792949899989a9e8483d994989a">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#1647637f6c53656664736565795673757978797b7f65623875797b). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1948 Hitchcock movie appears to take place in real time?  
   
