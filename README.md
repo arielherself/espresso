@@ -66,7 +66,7 @@ The match follows months of [anti-government demonstrations in Iran](https://te.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7e2f0b17043b0d0e0c1b0d0d113e1b1d11101113170d0a501d1113">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#1d4c687467586e6d6f786e6e725d787e72737270746e69337e7270). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://te.arielherself.xyz/cdn-cgi/l/email-protection#7425011d0e310704061107071b3411171b1a1b191d07005a171b19). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1948 Hitchcock movie appears to take place in real time?  
   
