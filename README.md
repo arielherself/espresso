@@ -26,7 +26,7 @@ The <strong>European Commission</strong> [recommended freezing](https://te.ariel
 
 <strong>Russia </strong>and <strong>China </strong>carried out joint air patrols over the Sea of Japan and East China Sea, causing South Korea to launch jets to accompany eight warplanes that entered its air defence area. The patrols consisted of [strategic warplanes](https://te.arielherself.xyz/united-states/2022/11/29/how-will-america-deal-with-three-way-nuclear-deterrence), including the Tupolev TU-95 bombers known as the “Bear”, and marked the first time the countries had landed military aicraft in each other’s airfields, according to Russia’s defence ministry. 
 
-<strong>Football World Cup: America</strong> defeated <strong>Iran</strong> to secure a place in the knockout round. Some Iranians celebrated the loss because they believed their team did not do enough to support ongoing [anti-government protests](https://te.arielherself.xyz/middle-east-and-africa/2022/11/24/while-irans-turmoil-persists-jitters-spread-through-the-region). England, the Netherlands and [Senegal](https://te.arielherself.xyz/middle-east-and-africa/2022/11/24/how-do-budding-african-footballers-make-it-to-the-top) also booked their spots in the next stage. Qatar became the first host country to lose all three group games. 
+<strong>Football World Cup: </strong>Argentina advanced to the knockout stage after beating Poland 2-0. But so did Poland, after Mexico’s 2-1 victory over Saudi Arabia failed to give it the requisite number of goals to advance. England, the Netherlands and [Senegal](https://te.arielherself.xyz/middle-east-and-africa/2022/11/24/how-do-budding-african-footballers-make-it-to-the-top) also booked their spots in the next stage.
 
 <strong>Fact of the day:</strong> 74bn, the value in yuan (worth $10.4bn) that China’s three biggest airlines lost in the first nine months of 2022. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/11/28/chinas-economy-cannot-bear-much-more-zero-covid).
 
@@ -64,7 +64,7 @@ Attitudes towards culture, identity and the British monarchy are changing across
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1c4d697566596f6c6e796f6f735c797f73727371756f68327f7371">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which condiment comes in honey and whole-grain varieties?
 
