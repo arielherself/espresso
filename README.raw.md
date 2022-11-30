@@ -66,7 +66,7 @@ The match follows months of [anti-government demonstrations in Iran](https://www
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5203273b28172122203721213d1237313d3c3d3f3b21267c313d3f">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#97c6e2feedd2e4e7e5f2e4e4f8d7f2f4f8f9f8fafee4e3b9f4f8fa). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9acbeff3e0dfe9eae8ffe9e9f5dafff9f5f4f5f7f3e9eeb4f9f5f7">[email&#160;protected]</span>](https://www.economist.com/cdn-cgi/l/email-protection#0a5b7f63704f797a786f7979654a6f696564656763797e24696567). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1948 Hitchcock movie appears to take place in real time?  
   
