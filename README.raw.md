@@ -32,11 +32,11 @@ Lecanemab, a drug designed to slow the onset of <strong>Alzheimer’s disease</s
 
 ----------
 
-## Who will replace Nancy Pelosi?
+## Nancy Pelosi’s replacement
 
-On Wednesday the Democratic Party in America’s House of Representatives, which [lost its majority](https://www.economist.com/united-states/2022/11/17/in-a-republican-house-investigations-and-fiscal-clashes-loom) at the midterms, will choose new leaders. Nancy Pelosi, aged 82, has led the caucus with a steely grip for 19 years. Steny Hoyer and Jim Clyburn, who hold the number two and three posts, are 83 and 82 respectively. This [octogenarian monopoly on power](https://www.economist.com/united-states/2022/07/27/democrats-are-overdue-for-a-new-generation-of-leaders) has frustrated ambitious younger Democratic congressmen: ascending the ranks can mean waiting decades. In 2018, to placate them, Ms Pelosi agreed to cede the top job in 2022.
+On Wednesday the Democratic Party in America’s House of Representatives, which [lost its majority](https://www.economist.com/united-states/2022/11/17/in-a-republican-house-investigations-and-fiscal-clashes-loom) at the midterms, chose new leaders. Nancy Pelosi, aged 82, has led the caucus with a steely grip for 19 years. Steny Hoyer and Jim Clyburn, who hold the number two and three posts, are 83 and 82 respectively. This [octogenarian monopoly on power](https://www.economist.com/united-states/2022/07/27/democrats-are-overdue-for-a-new-generation-of-leaders) has frustrated ambitious younger Democratic congressmen: ascending the ranks can mean waiting decades. In 2018, to placate them, Ms Pelosi agreed to cede the top job in 2022.
 
-Her replacement will almost definitely be Hakeem Jeffries. Aged 52, he is a pragmatic liberal in Ms Pelosi’s mould. Katherine Clark, 59, and Pete Aguilar, 43, will serve as deputies. This outcome—orchestrated by Ms Pelosi, who wanted an orderly transition—underlines the sway the outgoing speaker has over her colleagues. The Republicans, though, have been squabbling. Hardline conservatives are refusing to support [Kevin McCarthy](https://www.economist.com/united-states/kevin-mccarthys-accidental-truthfulness/21808964), the party’s newly-elected leader in the House—a preview of the fractiousness expected when Republicans control the chamber next year. 
+Her replacement will be Hakeem Jeffries. Aged 52, he is a pragmatic liberal in Ms Pelosi’s mould. Katherine Clark, 59, and Pete Aguilar, 43, will serve as deputies. This outcome—orchestrated by Ms Pelosi, who wanted an orderly transition—underlines the sway the outgoing speaker has over her colleagues. The Republicans, though, have been squabbling. Hardline conservatives are refusing to support [Kevin McCarthy](https://www.economist.com/united-states/kevin-mccarthys-accidental-truthfulness/21808964), the party’s newly-elected leader in the House—a preview of the fractiousness expected when Republicans control the chamber next year.
 
 ## China’s leaders seek to calm the protesters
 
@@ -64,7 +64,7 @@ Attitudes towards culture, identity and the British monarchy are changing across
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="89d8fce0f3ccfaf9fbecfafae6c9eceae6e7e6e4e0fafda7eae6e4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which condiment comes in honey and whole-grain varieties?
 
