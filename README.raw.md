@@ -22,7 +22,7 @@ The <strong>European Commission</strong> [recommended freezing](https://www.econ
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>America’s</strong> Senate passed a bill protecting the right to<strong> same-sex marriage</strong> amid worries that the Supreme Court might undo its judicial recognition. The legislation would also protect interracial marriages. Meanwhile <strong>Singapore’s</strong> parliament [decriminalised sex between men](https://www.economist.com/asia/2022/03/05/singapores-high-court-retains-an-anti-gay-law), though it also blocked the prospect of legalising same-sex marriage. LGBT activists anyway hailed the repeal of the [colonial-era ban](https://www.economist.com/asia/2022/03/05/singapores-high-court-retains-an-anti-gay-law).
+<strong>Russia </strong>and <strong>China </strong>carried out joint air patrols over the Sea of Japan and East China Sea, causing South Korea to launch jets to accompany eight warplanes that entered its air defence area. The patrols consisted of [strategic warplanes](https://www.economist.com/united-states/2022/11/29/how-will-america-deal-with-three-way-nuclear-deterrence), including the Tupolev TU-95 bombers known as the “Bear”, and marked the first time the countries had landed military aicraft in each other’s airfields, according to Russia’s defence ministry. 
 
 Lecanemab, a drug designed to slow the onset of <strong>Alzheimer’s disease</strong>, shows promise, trial data suggested. It is the first treatment that trials suggest has an effect on the brain condition, from which an estimated [55m people suffer](https://www.economist.com/science-and-technology/alzheimers-researchers-are-studying-the-brains-plumbing/21808465). Still, the potential benefits seem small, and lecanemab appears to work only on those in the early stages of the disease. 
 
@@ -64,7 +64,7 @@ Attitudes towards culture, identity and the British monarchy are changing across
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9dcce8f4e7d8eeedeff8eeeef2ddf8fef2f3f2f0f4eee9b3fef2f0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which condiment comes in honey and whole-grain varieties?
 
