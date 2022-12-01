@@ -22,7 +22,7 @@ The EU council’s president, <strong>Charles Michel</strong>, raised “the res
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Spain</strong> said that five <strong>letters bombs</strong> were sent to addresses across the country in recent days: Pedro Sánchez, the prime minister, and Margarita Robles, the defence minister, were among the intended targets. One device sent to the Ukrainian embassy in Madrid injured a security officer on Wednesday. Spanish officials said the bombs were homemade and had been sent from inside the country. 
+<strong>Spain</strong> said that five <strong>letter-bombs</strong> were sent to addresses across the country in recent days: Pedro Sánchez, the prime minister, and Margarita Robles, the defence minister, were among the intended targets. One device sent to the Ukrainian embassy in Madrid injured a security officer on Wednesday. Spanish officials said the bombs were homemade and had been sent from inside the country. 
 
 <strong>Sam Bankman-Fried </strong>denied having committed fraud but acknowledged that he made a “lot of mistakes” that contributed to the [collapse](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried) of <strong>FTX</strong>, the cryptocurrency exchange he founded. Mr Bankman-Fried made the remarks in a frank interview with the <em>New York Times</em>. FTX is facing several investigations. An investors’ lawsuit claims that it was a “Ponzi scheme”.
 
