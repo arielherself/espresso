@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Spain</strong> said that six <strong>letter-bombs</strong> were sent to addresses across the country in recent days: Pedro Sánchez, the prime minister, and Margarita Robles, the defence minister, were among the intended targets. One device sent to the Ukrainian embassy in Madrid injured a security officer on Wednesday. Spanish officials said the bombs were homemade and had been sent from inside the country. 
 
-<strong>Football World Cup: Australia</strong> shocked <strong>Denmark</strong> to secure a place in the knockout round for only the second time in the team’s history. That sparked wild celebrations down under, despite the match finishing in the early hours of the antipodean morning. Today Germany will try to join the Socceroos in the next stage. They face Costa Rica in the first match to be refereed by a woman at a men’s World Cup.
+<strong>Football World Cup: Japan </strong>stunned <strong>Spain</strong> with a 2-1 win. Both countries advanced to the knockout stage. The surprise outcome means that <strong>Germany</strong>, though it triumphed over <strong>Costa Rica</strong> 4-2, failed to make the requisite number of goals to advance. Earlier <strong>Australia</strong> shocked <strong>Denmark</strong> to secure a place in the knockout round for only the second time in the team’s history.
 
 <strong>Fact of the day: </strong>$170bn, the worldwide revenues of the games industry this year, five times the global box office. [Read the full story](https://www.economist.com/business/2022/11/29/microsoft-activision-blizzard-and-the-future-of-gaming).
 
