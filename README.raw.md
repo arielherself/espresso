@@ -14,11 +14,11 @@
 
 Diplomats from the <strong>EU</strong> agreed on a [price cap](https://www.economist.com/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) for <strong>Russian oil</strong> of $60 per barrel, according to Poland’s ambassador. The policy aims to squeeze Russia’s revenue by prohibiting Western firms from insuring, shipping or trading Russian crude anywhere in the world unless it is sold below the cap. The G7 is expected to endorse the plan soon. Separately, an EU embargo on Russian crude takes effect on Monday.
 
-The Kremlin said that <strong>Vladimir Putin</strong>, Russia’s president, is “open to negotiations” with <strong>Joe Biden</strong>, but only if the West accepts his country’s [annexation](https://www.economist.com/europe/2022/10/05/russias-annexations-in-ukraine-are-a-legal-and-strategic-mess) of Ukrainian territories. During <strong>Emmanuel Macron’s</strong> [state visit](https://www.economist.com/europe/2022/11/24/on-a-visit-to-america-frances-president-will-confront-new-problems) to America, Mr Biden said he was “prepared to speak with” Mr Putin, as Mr Macron has, if the Russian president signalled an interest in ending the war in Ukraine.
-
 Employers in <strong>America</strong> added more jobs than expected—263,000—to <strong>non-farm payrolls</strong> in November. A separate household survey showed that 186,000 people left the labour force, putting [pressure on wages](https://www.economist.com/finance-and-economics/2022/11/24/why-american-unemployment-needs-to-rise), which rose by 0.6% in November from the previous month. Strong hiring and pay growth are unlikely to deter the <strong>Federal Reserve</strong> from its highly telegraphed plan to ease interest-rate increases in December.
 
 <strong>China </strong>began adjusting to what the country’s<strong> covid</strong> tsar, Sun Chunlan, called a “[new stage](https://www.economist.com/leaders/2022/12/01/xi-jinpings-zero-covid-policy-has-turned-a-health-crisis-into-a-political-one)” in the fight against the virus, after a wave of [protests](https://www.economist.com/china/2022/12/01/lessons-from-a-chinese-protest). Authorities in two major cities, Chengdu and Tianjin, announced a further easing of covid curbs. Meanwhile <strong>Kristalina Georgieva</strong>, head of the IMF, said China’s covid strategy would be “critical” in determining Asia’s economic future amid an “exceptionally uncertain” outlook. 
+
+<strong>Florida </strong>lawmakers may keep <strong>Disney’s </strong>“special-district” status, according to the <em>Financial Times</em>. The designation, which lets Disney operate like a county government at its Orlando-area parks, was set to be [revoked](https://www.economist.com/united-states/what-ron-desantiss-spat-with-disney-says-about-american-politics/21808962) after the firm’s former boss criticised a state ban on discussion of sexuality and gender identity among young pupils. But [Bob Iger’s return](https://www.economist.com/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script) has reportedly helped change lawmakers’ minds. Florida’s governor denied the report.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Ukraine</strong> has lost between 10,000 and 13,000 soldiers since [the war](https://www.economist.com/ukraine-crisis) began, according to a senior official. Mykhailo Podolyak, an adviser to Volodymyr Zelensky, Ukraine’s president, also suggested that around 100,000 Russian soldiers have been killed. Meanwhile Ukraine’s army said Russia is using nuclear-capable missiles armed with non-explosive warheads to “exhaust” the country’s air-defence systems. 
 
-David Malpass, the president of the <strong>World Bank</strong>, warned that the growing debt burden of poor countries is increasing the risk of defaults. Mr Malpass said poor countries owe their creditors $62bn this year, about 35% more than in 2021. He called for better debt-restructuring processes, especially from China, the biggest creditor to poor countries.
+<strong>Football World Cup: </strong>South Korea upset Portugal; both advanced past the [group stage](https://www.economist.com/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even). Cameroon ended Brazil’s 17-game World Cup winning streak but that was not enough to progress. Giant-killers Japan and Morocco both moved on, sending Germany and Belgium packing their bags. On Saturday the knockout stage starts.
 
 <strong>Fact of the day: </strong>5%, the proportion of Britons that now regularly go to church. [Read the full story](https://www.economist.com/britain/2022/11/30/christianity-is-a-minority-religion-in-england-and-wales).
 
@@ -66,7 +66,7 @@ The three-year restoration project, led by Jill Dunkerton, the gallery’s senio
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Nathaniel Hawthorne novel tells the story of Hester Prynne?
 
