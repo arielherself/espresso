@@ -16,17 +16,17 @@ The Kremlin said that <strong>Vladimir Putin</strong>, Russia’s president, is 
 
 Employers in <strong>America</strong> added more jobs than expected—263,000—to <strong>non-farm payrolls</strong> in November. A separate household survey showed that 186,000 people left the labour force, putting [pressure on wages](https://te.arielherself.xyz/finance-and-economics/2022/11/24/why-american-unemployment-needs-to-rise), which rose by 0.6% in November from the previous month. Strong hiring and pay growth are unlikely to deter the <strong>Federal Reserve</strong> from its highly telegraphed plan to ease interest-rate increases in December.
 
-<strong>Ukraine</strong> has lost between 10,000 and 13,000 soldiers since [the war](https://te.arielherself.xyz/ukraine-crisis) began, according to a senior official. Mykhailo Podolyak, an adviser to Volodymyr Zelensky, Ukraine’s president, also suggested that around 100,000 Russian soldiers have been killed. Meanwhile Ukraine’s army said Russia is using nuclear-capable missiles armed with non-explosive warheads to “exhaust” the country’s air-defence systems. 
-
 <strong>China </strong>began adjusting to what the country’s<strong> covid</strong> tsar, Sun Chunlan, called a “[new stage](https://te.arielherself.xyz/leaders/2022/12/01/xi-jinpings-zero-covid-policy-has-turned-a-health-crisis-into-a-political-one)” in the fight against the virus, after a wave of [protests](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest). Authorities in two major cities, Chengdu and Tianjin, announced a further easing of covid curbs. Meanwhile <strong>Kristalina Georgieva</strong>, head of the IMF, said China’s covid strategy would be “critical” in determining Asia’s economic future amid an “exceptionally uncertain” outlook. 
 
+<strong>Germany’s</strong> exports dropped more than anticipated in October, official data showed, as high inflation and supply-chain issues continued to bite. Exports fell by 0.6%, the second consecutive monthly decline after a drop of 0.7% in September. The news tempers optimism that the country faces a milder recession than expected after growth figures for the third quarter, announced last week, beat forecasts. 
+
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Ukraine</strong> has lost between 10,000 and 13,000 soldiers since [the war](https://te.arielherself.xyz/ukraine-crisis) began, according to a senior official. Mykhailo Podolyak, an adviser to Volodymyr Zelensky, Ukraine’s president, also suggested that around 100,000 Russian soldiers have been killed. Meanwhile Ukraine’s army said Russia is using nuclear-capable missiles armed with non-explosive warheads to “exhaust” the country’s air-defence systems. 
 
 America, Japan and South Korea imposed sanctions on senior <strong>North Korean</strong> officials linked to the country’s <strong>ballistic missile</strong> programme, following the country’s testing of its largest intercontinental ballistic missile in November. The three individuals targeted by America have been under EU sanctions since April. China and Russia have thwarted attempts to impose further sanctions on the [hermit state](https://te.arielherself.xyz/the-economist-reads/2022/10/18/what-to-read-to-understand-north-korea). 
 
 David Malpass, the president of the <strong>World Bank</strong>, warned that the growing debt burden of poor countries is increasing the risk of defaults. Mr Malpass said poor countries owe their creditors $62bn this year, about 35% more than in 2021. He called for better debt-restructuring processes, especially from China, the biggest creditor to poor countries.
-
-<strong>Football World Cup: Japan </strong>advanced to the next stage after upsetting <strong>Spain</strong>. Despite the loss, the Spaniards squeezed through on goal difference at the expense of Germany, the four-time champions. They will face Morocco, who reached the knockout round for the first time since 1986. Today Cameroon and Ghana will hope to join them when they face Brazil and Uruguay respectively. 
 
 <strong>Fact of the day: </strong>5%, the proportion of Britons that now regularly go to church. [Read the full story](https://te.arielherself.xyz/britain/2022/11/30/christianity-is-a-minority-religion-in-england-and-wales).
 
@@ -66,7 +66,7 @@ The three-year restoration project, led by Jill Dunkerton, the gallery’s senio
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Nathaniel Hawthorne novel tells the story of Hester Prynne?
 
