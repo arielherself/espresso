@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Ukraine</strong> has lost between 10,000 and 13,000 soldiers since [the war](https://www.economist.com/ukraine-crisis) began, according to a senior official. Mykhailo Podolyak, an adviser to Volodymyr Zelensky, Ukraine’s president, also suggested that around 100,000 Russian soldiers have been killed. Meanwhile Ukraine’s army said Russia is using nuclear-capable missiles armed with non-explosive warheads to “exhaust” the country’s air-defence systems. 
 
-<strong>Football World Cup: </strong>South Korea upset Portugal; both advanced past the [group stage](https://www.economist.com/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even). Cameroon ended Brazil’s 17-game World Cup winning streak but that was not enough to progress. Giant-killers Japan and Morocco both moved on, sending Germany and Belgium packing their bags. On Saturday the knockout stage starts.
+Football World Cup: The group stage ended with more upsets. South Korea secured a place in the knockout round by defeating Portugal, who had already qualified. The Koreans will now face Brazil, who were defeated by Cameroon. The Cameroonians, however, were denied a spot in the next round by the Swiss. On Saturday the knockout round kicks off with America facing the Netherlands.
 
 <strong>Fact of the day: </strong>5%, the proportion of Britons that now regularly go to church. [Read the full story](https://www.economist.com/britain/2022/11/30/christianity-is-a-minority-religion-in-england-and-wales).
 
@@ -66,7 +66,7 @@ The three-year restoration project, led by Jill Dunkerton, the gallery’s senio
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="84d5f1edfec1f7f4f6e1f7f7ebc4e1e7ebeaebe9edf7f0aae7ebe9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Nathaniel Hawthorne novel tells the story of Hester Prynne?
 
