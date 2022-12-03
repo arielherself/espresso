@@ -22,7 +22,7 @@ The <strong>World Health Organisation</strong> said that 90% of the world now ha
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Twitter</strong> is relying more on automation to moderate content, according to the company’s new head of trust and safety. Researchers have reported a surge in hate speech on the social-media platform since it was [acquired by Elon Musk](https://te.arielherself.xyz/united-states/2022/12/01/elon-musk-is-showing-what-a-waste-of-time-twitter-can-be) in October. Meanwhile Emmanuel Macron, France’s president, held a “clear and honest discussion” with Mr Musk. Afterwards, he said Twitter’s content-moderation policies must comply with European regulations.
+<strong>Iran’s</strong> attorney-general, Mohammad Jafar Montazeri, suggested that its parliament was reviewing a law requiring women to wear a hijab. Ongoing [protests](https://te.arielherself.xyz/middle-east-and-africa/2022/11/24/while-irans-turmoil-persists-jitters-spread-through-the-region) were sparked in September by the death in custody of Mahsa Amini, a 22-year-old woman arrested by the morality police for violating the dress code. Mr Montazeri said the results of the review would be announced in the next two weeks. 
 
 America’s <strong>Democratic Party </strong>moved a step closer to unseating Iowa from its traditional role as the first state to hold <strong>presidential primaries</strong>. Under a plan pushed by President Joe Biden, the party&#x27;s first primary in 2024 would take place in South Carolina, a more diverse state. Members of an important party committee backed the proposal, but a final decision will not be made until February.
 
