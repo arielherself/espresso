@@ -12,19 +12,19 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Russia</strong> said it “will not accept” the <strong>price cap </strong>on its oil imposed by the West. On Friday diplomats from the EU, the G7 and Australia agreed to [cap Russian oil ](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon)at $60 per barrel in an attempt to squeeze Russia’s revenues. Dmitry Peskov, the Kremlin’s spokesman, said Russia had prepared for the cap. Volodymyr Zelensky, Ukraine’s president, called the policy “weak”, saying it would not cause “serious” damage to Russia.
+<strong>OPEC </strong>and its allies decided not to change their production targets as the cartel of oil-producing states waits to ascertain the impact of a new Western [price cap](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) on Russian crude. On Friday diplomats from the EU, the G7 and Australia agreed to cap Russian oil at $60 per barrel in an attempt to squeeze Russia’s revenues. <strong>Russia</strong> said it “will not accept” the cap<strong>, </strong>though admitted they had prepared for it. Volodymyr Zelensky, Ukraine’s president, called the policy “weak”, saying it would not cause “serious” damage to Russia.
 
 <strong>Iran </strong>will abolish its [morality police](https://te.arielherself.xyz/the-economist-explains/2022/09/26/who-are-irans-hated-morality-police), local media reported, a sign that the government may be bowing to ongoing protests. The unrest started in September after Mahsa Amini, a 22-year-old woman, died in custody having been arrested for violating the country’s dress code. On Saturday Iran’s attorney-general, Mohammad Jafar Montazeri, said parliament was reviewing a law requiring women to wear a hijab.
 
 South Africa’s president,<strong> Cyril Ramaphosa</strong>, will not resign, his spokesman said, after an [independent panel](https://te.arielherself.xyz/middle-east-and-africa/2022/12/01/a-sofa-stuffed-with-cash-imperils-south-africas-president) suggested he [broke](https://te.arielherself.xyz/middle-east-and-africa/2022/06/23/allegations-of-impropriety-weaken-south-africas-president) anti-corruption laws by covering up a theft of some $4m from his game farm. Mr Ramaphosa denied wrongdoing and his spokesperson called the panel’s report “flawed”. MPs will now consider whether to launch impeachment proceedings against the president.
 
-Urumqi, the capital of the Xinjiang region in north-west <strong>China</strong>, announced a lifting of <strong>covid restrictions</strong> after [unprecedented protests](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest) against the government’s [zero-covid](https://te.arielherself.xyz/finance-and-economics/2022/11/28/chinas-economy-cannot-bear-much-more-zero-covid) policies. The city, where the wave of protests initially began, will reopen malls, restaurants, markets and some other venues from Monday. Other Chinese cities have recently eased restrictions as well in response to the popular unrest.
+Demonstrators in <strong>Syria </strong>attacked and set on fire the governor’s office in the southern city of Sweida. Heavy gunfire was reported during the incident. Earlier, hundreds of people had gathered outside the office protesting against spiralling prices, hunger and economic hardship, demanding the resignation of the president, <strong>Bashar al-Assad</strong>. The civil war, in particular, resulted in a severe contraction of the economy.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Honduras </strong>announced it would suspend some constitutional rights as part of a crackdown on criminal gangs. A national-security emergency will be imposed in parts of Tegucigalpa, the capital, and San Pedro Sula, a city in the north. Businesses, NGOs and residents have complained of rising cases of extortion in recent months. In neighbouring <strong>El Salvador</strong> the government deployed 10,000 troops to curb gang violence in a township near the country’s capital.
+Urumqi, the capital of the Xinjiang region in north-west <strong>China</strong>, announced a lifting of <strong>covid restrictions</strong> after [unprecedented protests](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest) against the government’s [zero-covid](https://te.arielherself.xyz/finance-and-economics/2022/11/28/chinas-economy-cannot-bear-much-more-zero-covid) policies. The city, where the wave of protests initially began, will reopen malls, restaurants, markets and some other venues from Monday. Other Chinese cities have recently eased restrictions as well in response to the popular unrest.
 
-Kyriakos Mitsotakis, <strong>Greece’s</strong> prime minister, held secret talks with George Osborne, chairman of the British Museum, over a possible return of the <strong>Elgin marbles</strong> to Athens, reported a Greek newspaper. The contested ownership of the frieze—taken by Lord Elgin from the Parthenon in the early 1800s, and later transferred to the <strong>British Museum</strong>—has long been a running sore in [British-Greek](https://te.arielherself.xyz/britain/2020/02/20/will-britain-lose-the-elgin-marbles) relations.
+<strong>Honduras </strong>announced it would suspend some constitutional rights as part of a crackdown on criminal gangs. A national-security emergency will be imposed in parts of Tegucigalpa, the capital, and San Pedro Sula, a city in the north. Businesses, NGOs and residents have complained of rising cases of extortion in recent months. In neighbouring <strong>El Salvador</strong> the government deployed 10,000 troops to curb gang violence in a township near the country’s capital.
 
 <strong>Football World Cup: </strong>After a group stage punctuated by a series of [extraordinary upsets](https://te.arielherself.xyz/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even), the first two matches of the<strong> knockout round</strong> did not provide any shocks. <strong>Argentina</strong>, inspired by [Lionel Messi](https://te.arielherself.xyz/graphic-detail/2021/08/14/by-the-numbers-lionel-messi-is-european-footballs-best-scorer-ever), beat Australia while<strong> the Netherlands</strong> eased past America. Meanwhile Pelé, who helped Brazil win three World Cups and is now battling cancer, said he was “strong with a lot of hope” following reports that he was beginning end-of-life care.
 
@@ -32,29 +32,11 @@ Kyriakos Mitsotakis, <strong>Greece’s</strong> prime minister, held secret tal
 
 ----------
 
-## Migration in the Med
+## The Beach Boys: more than just “Good Vibrations”
 
-On Saturday Italy’s prime minister, Giorgia Meloni, is due to address an annual conference about security and co-operation in the Mediterranean region—a touchy subject for her government. In October Italy [refused to accept](https://te.arielherself.xyz/europe/2022/11/17/a-new-migration-crisis-is-brewing-in-europe) a ship carrying 234 migrants who had been rescued off the coast of Libya. France ultimately allowed it to dock after a bitter tussle with Ms Meloni. Calling her government’s stance “incomprehensible and unacceptable”, the French suspended an agreement to settle 3,500 asylum-seekers currently in Italy. 
+For most listeners, the Beach Boys’ catalogue both peaks and ends with the album “Pet Sounds” and the single “Good Vibrations”, both masterpieces from 1966. Yet over the following seven years the band would release eight more albums which, although they sold poorly, would form an influential body of work.
 
-That deal, struck in June by 18 EU members, was already falling short. Under the pact northern European countries agreed to accept 8,000 asylum-seekers from their southern neighbours within a year. But by mid-November only 117 had been relocated. Expect Ms Meloni to voice the complaint of many Italians—that Italy is being left to deal with Mediterranean migration by itself.
-
-## Native Americans fight for sacred land
-
-Saturday is America’s first Tribal Museums Day. But the celebration takes place amid tension over sacred land in Arizona. Chi’chil Bildagoteel, which measures 6.7 square miles (17.4 sq km), is owned by the federal government. It is also an important religious site for members of the Apache tribe. The Trump administration arranged to transfer it to Rio Tinto and BHP, two multinational mining firms, in a land swap; the [copper mine](https://te.arielherself.xyz/united-states/the-energy-transition-is-sparking-americas-next-mining-boom/21807704) planned for the site could become America’s largest.
-
-Tribal leaders, who gathered this week in Arizona for the Sacred Sites Summit, say that protecting particular sites is a “holy war”. Last year Apache representatives sued the federal government, claiming that losing Chi’chil Bildagoteel would curtail their religious freedom. An appeals court upheld a district-court ruling against them, but in November it agreed to rehear the case. A win for the Apache could help protect other sacred lands—and ensure that they remain part of a living culture, not one relegated to museums alone.
-
-## Next up at the World Cup
-
-It has taken 48 matches to [trim the 32 teams](https://te.arielherself.xyz/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even) at the football World Cup to 16. Now as the tournament enters the knockout stages on Saturday, it will take just 15 games to reveal a champion. Several fancied teams have made strong starts and look like contenders. The holders, France, should ease past Poland. Likewise, [Lionel Messi’s](https://te.arielherself.xyz/culture/2022/11/17/lionel-messi-and-cristiano-ronaldo-have-forged-modern-football) Argentina against Australia. England, too, should have enough attacking prowess to beat Senegal. And Brazil remain favourites to end their 20-year trophy drought. 
-
-But there is also plenty of scope for upsets. America will be energetic opponents for the Netherlands, who were not properly tested in a weak group. Morocco, playing in their first knockout match since 1986 and unbeaten so far, will relish the chance to take on Spain. And Japan, fresh from shocking Germany and Spain, will be looking for another European scalp in Croatia, the beaten finalists in 2018.
-
-## The Sydney Modern opens
-
-Its opening is being called Sydney’s biggest cultural development since the [Opera House](https://te.arielherself.xyz/prospero/2018/10/19/the-sydney-opera-house-then-and-now) was completed nearly 50 years ago. But unlike that landmark, the Sydney Modern, a gallery which opens on Saturday, does not disrupt the skyline: it hunkers into the harbourside, all glass walls and grass-covered roof. The project, costing A$344m ($234m), aims instead to make a mark with its exhibitions. It nearly doubles the floor space of the adjacent Art Gallery of New South Wales and features work by more than 900 artists, including indigenous Australians. 
-
-Sydneysiders blush at how their city gets outshone culturally by Melbourne, known for its thriving arts scene. The new gallery aspires to compete with London’s Tate Modern or New York’s Guggenheim, said Ben Franklin, a minister for arts and tourism. Thousands of Sydneysiders have registered to visit. The gallery’s creators will hope for global attention too.
+A new reissue, “Sail On Sailor: 1972”, collects the final LPs of this sequence, “Carl and the Passions—So Tough” and “Holland”. These records were made in the near-absence of the band’s guiding genius, Brian Wilson, but the rest of the band stepped up in his place. “Holland” in particular is an undervalued marvel. Mr Wilson’s late brothers Dennis and Carl shine creatively, and new members Blondie Chaplin and Ricky Fataar come to the fore on the eponymous “Sail On Sailor”, a classic rock number. The Beach Boys retained their fascination long after their commercial pomp.
 
 ## Weekend profile: Alexie, a protester in Shanghai
 
@@ -69,6 +51,12 @@ Last Saturday night, she found some solace. She learned from friends that[ prote
 She could hear the chanting from a few blocks away. “No to PCR testing, yes to freedom.” When one person shouted, “Communist Party!”, a handful of people responded tentatively, “Step down!”. Again, the man shouted “Communist Party!”. This time the response was stronger and more joined in, including Alexie: “Step down!”
 
 The next day, clips of the protest she attended flooded Twitter, which is blocked in China but accessed by people with virtual private networks. With dread she stopped the videos on each frame to check if her face was visible (it wasn’t). “I was afraid, and still am, but I just had to go,” she says.
+
+## England’s cricket tour of Pakistan
+
+In March 2009 Islamist militants [attacked](https://te.arielherself.xyz/asia/2009/03/03/game-over) a bus carrying the Sri Lankan cricket team to play a match in the Pakistani city of Lahore. Eight people were killed. The assault also pushed Pakistani cricket into exile. For the next decade, no international team would visit the country and home matches were shifted to the United Arab Emirates.
+
+Yet cricket in Pakistan has stayed on its feet. The team won two international trophies and a successful Twenty20 franchise league was introduced. And now it is hosting international cricket again. Since Sri Lanka returned in 2019, Australia, Bangladesh, and South Africa have visited. This month England is touring. For cricket-mad Pakistanis living through economic and political turmoil, the three Test matches will be a welcome distraction. They have already been entertained—albeit at their team’s expense. England kicked things off on Thursday by smashing 506 runs, a record for the first day of a Test.
 
 ## Weekly crossword
 
@@ -96,6 +84,12 @@ Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://
 
 <em>3 across</em> “The King ___ dies”, according to a legal maxim (5)
 
+## War lessons from Ukraine
+
+Open source intelligence, like YouTube footage of drone strikes and tank battles, has given the public unprecedented insight into war. But it can also mislead. A [new report](https://te.arielherself.xyz/europe/2022/11/30/what-is-the-war-in-ukraine-teaching-western-armies) by the Royal United Services Institute, a think-tank in London, draws on Ukrainian military data to bust some myths. What made the difference in the first weeks of the conflict, for instance, was not Western anti-tank missiles and Turkish drones, feted on social media, but huge volumes of artillery to stop the [Russians north of Kyiv.](https://te.arielherself.xyz/europe/2022/03/04/why-a-huge-russian-convoy-remains-stalled-north-of-kyiv)
+
+That is a sobering thought for European armies, all of which have less artillery than Ukraine did in February. Drones were important, but 90% of all those that Ukraine deployed between February and July were destroyed. Deception played a vital role. On one occasion Ukraine photographed a destroyed airfield and printed the images onto a large tarpaulin to trick Russian satellites. “This led…amusingly,” the report notes, “to the Russians debating whether Ukrainian fighter aircraft were operating from subterranean shelters.”
+
 ## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
@@ -113,6 +107,12 @@ Africa: <strong>Neries Moodley</strong>, Durban, South Africa
 Oceania: <strong>Ewen Mackenzie-Bowie</strong>, Auckland, New Zealand
 
 <em>They all gave the correct answers of Peacock, Rope, Mustard, Candlestick Park and The Scarlet Letter. The theme is Clue (or Cluedo); Mrs Peacock, Colonel Mustard and Miss Scarlet are characters and the rope and candlestick are weapons.</em>
+
+## Democrats’ last weeks of power in the House
+
+Nothing clarifies priorities like a tight deadline, and America’s Democrats are staring down two. The first is December 16th, when annual federal funding expires; Congress needs to pass a spending bill or extend the deadline to avoid a government shutdown. The second is January 3rd, when control of the House of Representatives will [flip to Republicans](https://te.arielherself.xyz/united-states/2022/11/17/in-a-republican-house-investigations-and-fiscal-clashes-loom). Democrats have tried to use their waning days of unified control of Congress to push through some final bills.
+
+They are set to cross one off their list, a law enshrining the protection of same-sex and interracial marriages. Less realistically, they want to ban assault rifles and protect the residency rights of undocumented [immigrants who were brought to America as children](https://te.arielherself.xyz/united-states/2022/11/24/congress-should-act-now-to-protect-dreamers). Neither is likely to get the necessary 60 votes to overcome a filibuster in the Senate. On Tuesday a run-off election in Georgia may see Democrats add to their slim majority in the upper chamber next year. But with Republicans set to control the House, expect legislative gridlock come January.
 
 ----------
 
