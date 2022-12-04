@@ -32,6 +32,24 @@ Urumqi, the capital of the Xinjiang region in north-west <strong>China</strong>,
 
 ----------
 
+## War lessons from Ukraine
+
+Open source intelligence, like YouTube footage of drone strikes and tank battles, has given the public unprecedented insight into war. But it can also mislead. A [new report](https://te.arielherself.xyz/europe/2022/11/30/what-is-the-war-in-ukraine-teaching-western-armies) by the Royal United Services Institute, a think-tank in London, draws on Ukrainian military data to bust some myths. What made the difference in the first weeks of the conflict, for instance, was not Western anti-tank missiles and Turkish drones, feted on social media, but huge volumes of artillery to stop the [Russians north of Kyiv.](https://te.arielherself.xyz/europe/2022/03/04/why-a-huge-russian-convoy-remains-stalled-north-of-kyiv)
+
+That is a sobering thought for European armies, all of which have less artillery than Ukraine did in February. Drones were important, but 90% of all those that Ukraine deployed between February and July were destroyed. Deception played a vital role. On one occasion Ukraine photographed a destroyed airfield and printed the images onto a large tarpaulin to trick Russian satellites. “This led…amusingly,” the report notes, “to the Russians debating whether Ukrainian fighter aircraft were operating from subterranean shelters.”
+
+## Democrats’ last weeks of power in the House
+
+Nothing clarifies priorities like a tight deadline, and America’s Democrats are staring down two. The first is December 16th, when annual federal funding expires; Congress needs to pass a spending bill or extend the deadline to avoid a government shutdown. The second is January 3rd, when control of the House of Representatives will [flip to Republicans](https://te.arielherself.xyz/united-states/2022/11/17/in-a-republican-house-investigations-and-fiscal-clashes-loom). Democrats have tried to use their waning days of unified control of Congress to push through some final bills.
+
+They are set to cross one off their list, a law enshrining the protection of same-sex and interracial marriages. Less realistically, they want to ban assault rifles and protect the residency rights of undocumented [immigrants who were brought to America as children](https://te.arielherself.xyz/united-states/2022/11/24/congress-should-act-now-to-protect-dreamers). Neither is likely to get the necessary 60 votes to overcome a filibuster in the Senate. On Tuesday a run-off election in Georgia may see Democrats add to their slim majority in the upper chamber next year. But with Republicans set to control the House, expect legislative gridlock come January.
+
+## England’s cricket tour of Pakistan
+
+In March 2009 Islamist militants [attacked](https://te.arielherself.xyz/asia/2009/03/03/game-over) a bus carrying the Sri Lankan cricket team to play a match in the Pakistani city of Lahore. Eight people were killed. The assault also pushed Pakistani cricket into exile. For the next decade, no international team would visit the country and home matches were shifted to the United Arab Emirates.
+
+Yet cricket in Pakistan has stayed on its feet. The team won two international trophies and a successful Twenty20 franchise league was introduced. And now it is hosting international cricket again. Since Sri Lanka returned in 2019, Australia, Bangladesh, and South Africa have visited. This month England is touring. For cricket-mad Pakistanis living through economic and political turmoil, the three Test matches will be a welcome distraction. They have already been entertained—albeit at their team’s expense. England kicked things off on Thursday by smashing 506 runs, a record for the first day of a Test.
+
 ## The Beach Boys: more than just “Good Vibrations”
 
 For most listeners, the Beach Boys’ catalogue both peaks and ends with the album “Pet Sounds” and the single “Good Vibrations”, both masterpieces from 1966. Yet over the following seven years the band would release eight more albums which, although they sold poorly, would form an influential body of work.
@@ -51,12 +69,6 @@ Last Saturday night, she found some solace. She learned from friends that[ prote
 She could hear the chanting from a few blocks away. “No to PCR testing, yes to freedom.” When one person shouted, “Communist Party!”, a handful of people responded tentatively, “Step down!”. Again, the man shouted “Communist Party!”. This time the response was stronger and more joined in, including Alexie: “Step down!”
 
 The next day, clips of the protest she attended flooded Twitter, which is blocked in China but accessed by people with virtual private networks. With dread she stopped the videos on each frame to check if her face was visible (it wasn’t). “I was afraid, and still am, but I just had to go,” she says.
-
-## England’s cricket tour of Pakistan
-
-In March 2009 Islamist militants [attacked](https://te.arielherself.xyz/asia/2009/03/03/game-over) a bus carrying the Sri Lankan cricket team to play a match in the Pakistani city of Lahore. Eight people were killed. The assault also pushed Pakistani cricket into exile. For the next decade, no international team would visit the country and home matches were shifted to the United Arab Emirates.
-
-Yet cricket in Pakistan has stayed on its feet. The team won two international trophies and a successful Twenty20 franchise league was introduced. And now it is hosting international cricket again. Since Sri Lanka returned in 2019, Australia, Bangladesh, and South Africa have visited. This month England is touring. For cricket-mad Pakistanis living through economic and political turmoil, the three Test matches will be a welcome distraction. They have already been entertained—albeit at their team’s expense. England kicked things off on Thursday by smashing 506 runs, a record for the first day of a Test.
 
 ## Weekly crossword
 
@@ -84,12 +96,6 @@ Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://
 
 <em>3 across</em> “The King ___ dies”, according to a legal maxim (5)
 
-## War lessons from Ukraine
-
-Open source intelligence, like YouTube footage of drone strikes and tank battles, has given the public unprecedented insight into war. But it can also mislead. A [new report](https://te.arielherself.xyz/europe/2022/11/30/what-is-the-war-in-ukraine-teaching-western-armies) by the Royal United Services Institute, a think-tank in London, draws on Ukrainian military data to bust some myths. What made the difference in the first weeks of the conflict, for instance, was not Western anti-tank missiles and Turkish drones, feted on social media, but huge volumes of artillery to stop the [Russians north of Kyiv.](https://te.arielherself.xyz/europe/2022/03/04/why-a-huge-russian-convoy-remains-stalled-north-of-kyiv)
-
-That is a sobering thought for European armies, all of which have less artillery than Ukraine did in February. Drones were important, but 90% of all those that Ukraine deployed between February and July were destroyed. Deception played a vital role. On one occasion Ukraine photographed a destroyed airfield and printed the images onto a large tarpaulin to trick Russian satellites. “This led…amusingly,” the report notes, “to the Russians debating whether Ukrainian fighter aircraft were operating from subterranean shelters.”
-
 ## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
@@ -107,12 +113,6 @@ Africa: <strong>Neries Moodley</strong>, Durban, South Africa
 Oceania: <strong>Ewen Mackenzie-Bowie</strong>, Auckland, New Zealand
 
 <em>They all gave the correct answers of Peacock, Rope, Mustard, Candlestick Park and The Scarlet Letter. The theme is Clue (or Cluedo); Mrs Peacock, Colonel Mustard and Miss Scarlet are characters and the rope and candlestick are weapons.</em>
-
-## Democrats’ last weeks of power in the House
-
-Nothing clarifies priorities like a tight deadline, and America’s Democrats are staring down two. The first is December 16th, when annual federal funding expires; Congress needs to pass a spending bill or extend the deadline to avoid a government shutdown. The second is January 3rd, when control of the House of Representatives will [flip to Republicans](https://te.arielherself.xyz/united-states/2022/11/17/in-a-republican-house-investigations-and-fiscal-clashes-loom). Democrats have tried to use their waning days of unified control of Congress to push through some final bills.
-
-They are set to cross one off their list, a law enshrining the protection of same-sex and interracial marriages. Less realistically, they want to ban assault rifles and protect the residency rights of undocumented [immigrants who were brought to America as children](https://te.arielherself.xyz/united-states/2022/11/24/congress-should-act-now-to-protect-dreamers). Neither is likely to get the necessary 60 votes to overcome a filibuster in the Senate. On Tuesday a run-off election in Georgia may see Democrats add to their slim majority in the upper chamber next year. But with Republicans set to control the House, expect legislative gridlock come January.
 
 ----------
 
