@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Diplomats from the <strong>EU</strong> agreed on a [price cap](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) for <strong>Russian oil</strong> of $60 per barrel. The policy aims to squeeze Russia’s revenue by prohibiting Western firms from insuring, shipping or trading Russian crude anywhere in the world unless it is sold below the cap. The G7 and Australia also endorsed the plan, saying it would take effect on December 5th or soon after.
+<strong>Russia</strong> said it “will not accept” the <strong>price cap </strong>on its oil imposed by the West. On Friday diplomats from the EU, the G7 and Australia agreed to [cap Russian oil ](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon)at $60 per barrel in an attempt to squeeze Russia’s revenues. Dmitry Peskov, the Kremlin’s spokesman, added that Russia was preparing a response. Meanwhile Volodymyr Zelensky, Ukraine’s president, called the policy “weak”, saying it would not cause “serious” damage to Russia.
 
 <strong>Russia</strong> is seeking to encircle the town of <strong>Bakhmut</strong> in eastern Ukraine, Britain’s defence ministry said. The town carries little strategic value but has gained “symbolic” significance for the Kremlin, the ministry added. An adviser to Ukraine’s president, Volodymyr Zelensky, suggested that Russia was waiting until temperatures dropped to around minus 10°C to launch a new wave of strikes.
 
