@@ -12,107 +12,61 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>OPEC </strong>and its allies decided not to change their production targets as the cartel of oil-producing states waits to ascertain the impact of a new Western [price cap](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) on Russian crude. On Friday diplomats from the EU, the G7 and Australia agreed to cap Russian oil at $60 per barrel in an attempt to squeeze Russia’s revenues. <strong>Russia</strong> said it “will not accept” the cap<strong>, </strong>though admitted it had prepared for it. Volodymyr Zelensky, Ukraine’s president, called the policy “weak”, saying it would not cause “serious” damage to Russia.
+<strong>Iran’s</strong> attorney-general said that the country would abolish its hateful <strong>morality police</strong>, whose tasks include ensuring that women wear the hijab. Many observers were sceptical—as responsibility for the force lies with the interior ministry, which remained schtum, not the judiciary—but, if true, it would be a sign that the government [was bowing](https://te.arielherself.xyz/middle-east-and-africa/2022/12/04/irans-rattled-government-may-be-backing-down) to three months of protests. Meanwhile, demonstrators called for a three-day strike this week.
 
-There were reports that <strong>Iran</strong> was considering abolishing its morality police. Many observers were sceptical, but if true it would be a sign that the government may be bowing to ongoing protests. The unrest started in September after [Mahsa Amini](https://te.arielherself.xyz/films/2022/11/08/is-iran-on-the-edge-of-a-revolution), a 22-year-old woman, died in custody having been arrested for violating the country’s dress code. On Saturday Iran’s attorney-general, Mohammad Jafar Montazeri, said parliament was reviewing a law requiring women to wear a hijab. 
+The [G7’s cap](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) on the <strong>price of oil </strong>bought from <strong>Russia</strong>, to which the EU and Australia agreed on Friday, went into effect on Monday. It bars the sale of Russian crude bought for more than $60 a barrel. In the meantime <strong>OPEC </strong>and its allies had elected not to lift their production targets; the oil-producing cartel is waiting to ascertain the price cap’s impact.
 
-<strong>Ursula von der Leyen</strong>, president of the European Commission, said that the EU must “adapt” its state-aid rules in the face of American climate legislation. European leaders fear that America’s [Inflation Reduction Act](https://te.arielherself.xyz/united-states/2022/08/09/joe-bidens-signature-legislation-passes-the-senate-at-last), which offers subsidies worth nearly $400bn for green industries, will draw investment away from the EU. During Emmanuel Macron’s visit to America last week, Joe Biden said that “tweaks” could be made to the legislation to allay European concerns. 
+<strong>China</strong> began slowly distancing itself from its <strong>zero-covid</strong> dictum, following [unprecedented protests](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest) against the government’s once unyielding policies. The long-locked-down city of Urumqi in Xinjiang region, where the unrest began, started reopening malls and restaurants on Monday. Some other big cities will no longer require a negative covid test to board public transport. Chinese stockmarkets cheered the hopeful signals.
 
-Demonstrators in <strong>Syria </strong>attacked and set on fire the governor’s office in the southern city of Sweida. Heavy gunfire was reported during the incident. Earlier, hundreds of people had gathered outside the office protesting against spiralling prices, hunger and economic hardship, demanding the resignation of the president, <strong>Bashar al-Assad</strong>. The civil war, in particular, resulted in a severe contraction of the economy.
+Britain’s <strong>Labour Party</strong> set out a plan for “the biggest ever transfer of power” and wealth away from the government in Westminster and for sharing it across the country. [The opposition party’s](https://te.arielherself.xyz/britain/2022/09/22/after-a-frosty-decade-business-leaders-are-warming-to-the-labour-party) proposals include scrapping the House of Lords, relocating 50,000 civil servants to outside London and giving devolved governments and local authorities more powers, including more say over spending.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Urumqi, the capital of the Xinjiang region in north-west <strong>China</strong>, announced a lifting of <strong>covid restrictions</strong> after [unprecedented protests](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest) against the government’s [zero-covid](https://te.arielherself.xyz/finance-and-economics/2022/11/28/chinas-economy-cannot-bear-much-more-zero-covid) policies. The city, where the wave of protests initially began, will reopen malls, restaurants, markets and some other venues from Monday. Other Chinese cities have recently eased restrictions as well in response to the popular unrest.
+<strong>Donald Trump </strong>called for the “termination” of <strong>America’s constitution</strong>, in service to the lie that he won the presidential election of 2020. On his own social-media network he said that revoking “all rules” might be necessary to reinstall himself in the White House (notwithstanding his new [electoral campaign](https://te.arielherself.xyz/united-states/2022/11/16/donald-trump-declares-that-he-will-make-america-great-again-again)). Mr Trump’s latest [anti-democratic tirade](https://te.arielherself.xyz/united-states/2022/10/27/why-the-republicans-anti-democracy-turn-has-become-normalised) elicited widespread condemnation—but silence from senior Republicans. 
 
-A <strong>volcano</strong> has erupted on <strong>Indonesia</strong>’s main island, Java, prompting the evacuation of almost 2,000 people as authorities issued a highest-level alert. Injuries have not immediately been reported, but residents were warned to keep 8km from Mount Semeru as it blasted clouds of ash and poured streams of lava. [Indonesia](https://te.arielherself.xyz/briefing/2022/11/14/indonesia-is-poised-for-a-boom-politics-permitting) experiences frequent [volcanic activity](https://te.arielherself.xyz/asia/2017/12/02/fiery-mount-agung-is-just-one-of-127-active-volcanoes-in-indonesia); Semeru last erupted one year ago, killing 51 people.
+Heavy rains caused a <strong>volcano</strong> to erupt on <strong>Indonesia’s</strong> main island, Java. It buried buildings with ash and debris and prompted the evacuation of about 2,000 people. Locals were advised to keep 8km from Mount Semeru as it blasted out hot clouds and poured down streams of lava. [Indonesia](https://te.arielherself.xyz/briefing/2022/11/14/indonesia-is-poised-for-a-boom-politics-permitting) experiences frequent [volcanic activity](https://te.arielherself.xyz/asia/2017/12/02/fiery-mount-agung-is-just-one-of-127-active-volcanoes-in-indonesia); Semeru last erupted a year ago, killing 51 people.
 
 <strong>Football World Cup:</strong> After a group stage punctuated by a series of [extraordinary upsets](https://te.arielherself.xyz/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even), the first matches of the<strong> knockout round</strong> did not provide any shocks. <strong>England </strong>beat Senegal, whose star Sadio Mané is out of the tournament, and <strong>France</strong>, inspired by Kylian Mbappé, cruised past Poland. 
 
-<strong>Word of the week: </strong><em>fumuguan,</em> a Chinese word meaning “father-mother official” and often used to describe local magistrates in imperial times. [Read for the full story](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest).
+<strong>Fact of the day: </strong>670, the amount of gold in tonnes that central banks bought from January to September. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/12/01/why-central-banks-are-stockpiling-gold).
 
 ----------
 
-## War lessons from Ukraine
+## Squeezing Russian oil flows
 
-Open source intelligence, like YouTube footage of drone strikes and tank battles, has given the public unprecedented insight into war. But it can also mislead. A [new report](https://te.arielherself.xyz/europe/2022/11/30/what-is-the-war-in-ukraine-teaching-western-armies) by the Royal United Services Institute, a think-tank in London, draws on Ukrainian military data to bust some myths. What made the difference in the first weeks of the conflict, for instance, was not Western anti-tank missiles and Turkish drones, feted on social media, but huge volumes of artillery to stop the [Russians north of Kyiv.](https://te.arielherself.xyz/europe/2022/03/04/why-a-huge-russian-convoy-remains-stalled-north-of-kyiv)
+On Monday, the EU’s ban on seaborne crude oil from Russia came into effect. At the same time, another complicated scheme to manipulate the energy markets has been negotiated, designed to slash the flow of petrodollars fuelling Russia’s war in Ukraine while avoiding a global oil-supply shock. 
 
-That is a sobering thought for European armies, all of which have less artillery than Ukraine did in February. Drones were important, but 90% of all those that Ukraine deployed between February and July were destroyed. Deception played a vital role. On one occasion Ukraine photographed a destroyed airfield and printed the images onto a large tarpaulin to trick Russian satellites. “This led…amusingly,” the report notes, “to the Russians debating whether Ukrainian fighter aircraft were operating from subterranean shelters.”
+European (and British) suppliers of tankers and insurance will be banned from providing services to vessels ferrying crude oil from Russia to non-EU countries. To ensure the ban does not decimate Russian exports and spark an oil-price shock, America proposed that such services could be made available to non-EU countries so long as they purchased seaborne Russian oil below an agreed price cap. After months of wrangling, on Friday the G7 club of rich countries, Australia and the EU agreed to a cap of $60 a barrel. But with Russia refusing to abide by any cap, it is [too soon](https://te.arielherself.xyz/finance-and-economics/2022/11/30/how-the-wests-price-cap-on-russian-oil-could-roil-energy-markets) for the West to declare victory.
 
-## Democrats’ last weeks of power in the House
+## Transatlantic trade troubles
 
-Nothing clarifies priorities like a tight deadline, and America’s Democrats are staring down two. The first is December 16th, when annual federal funding expires; Congress needs to pass a spending bill or extend the deadline to avoid a government shutdown. The second is January 3rd, when control of the House of Representatives will [flip to Republicans](https://te.arielherself.xyz/united-states/2022/11/17/in-a-republican-house-investigations-and-fiscal-clashes-loom). Democrats have tried to use their waning days of unified control of Congress to push through some final bills.
+Europe has long urged America to do more in the fight against climate change. Now that it has, the EU is not happy. The bloc fears that President Joe Biden is following an “America First”, rather than a climate-first, approach. The [Inflation Reduction Act](https://te.arielherself.xyz/united-states/2022/08/09/joe-bidens-signature-legislation-passes-the-senate-at-last), Mr Biden’s flagship policy, offers green incentives worth $400bn, but includes protectionist subsidies on key products like electric cars. On Monday a meeting in Washington between the EU and the Biden administration could offer hints on how the pair hope to resolve the dispute. 
 
-They are set to cross one off their list, a law enshrining the protection of same-sex and interracial marriages. Less realistically, they want to ban assault rifles and protect the residency rights of undocumented [immigrants who were brought to America as children](https://te.arielherself.xyz/united-states/2022/11/24/congress-should-act-now-to-protect-dreamers). Neither is likely to get the necessary 60 votes to overcome a filibuster in the Senate. On Tuesday a run-off election in Georgia may see Democrats add to their slim majority in the upper chamber next year. But with Republicans set to control the House, expect legislative gridlock come January.
+The text of the law says that exceptions can be applied only to countries with which the United States has a free-trade agreement; America has no such deal with the EU. On Sunday the European Commission’s president, Ursula von der Leyen, warned that the bloc must “adapt” its own state-aid rules in the face of America’s green subsidies. Not a good sign for the meeting. 
 
-## England’s cricket tour of Pakistan
+## Free speech v gay rights at SCOTUS
 
-In March 2009 Islamist militants [attacked](https://te.arielherself.xyz/asia/2009/03/03/game-over) a bus carrying the Sri Lankan cricket team to play a match in the Pakistani city of Lahore. Eight people were killed. The assault also pushed Pakistani cricket into exile. For the next decade, no international team would visit the country and home matches were shifted to the United Arab Emirates.
+Four years after sidestepping the crux of a dispute between a gay couple and a Christian baker who refused to make them a wedding cake, America’s Supreme Court is taking another crack at the subject. On Monday the justices will examine the case of 303 Creative v Elenis. The question is: does the First Amendment protect a web designer who says her beliefs about marriage preclude her from creating websites for gay weddings? 
 
-Yet cricket in Pakistan has stayed on its feet. The team won two international trophies and a successful Twenty20 franchise league was introduced. And now it is hosting international cricket again. Since Sri Lanka returned in 2019, Australia, Bangladesh, and South Africa have visited. This month England is touring. For cricket-mad Pakistanis living through economic and political turmoil, the three Test matches will be a welcome distraction. They have already been entertained—albeit at their team’s expense. England kicked things off on Thursday by smashing 506 runs, a record for the first day of a Test.
+Lorie Smith, the designer, says “sacred freedoms of thought and mind” bar the state of Colorado from forcing her to create messages that clash with her beliefs. The state counters that the law only requires Ms Smith to supply gay customers with the same services she offers straight ones. She could insist on selling only websites containing “biblical passages stating that marriage is a union of one man and one woman” as long as she sells them “to everyone”. Tricky questions at the heart of America’s culture wars await: if a business can refuse to carry out work involving same-sex weddings, why not interracial ones, too?
 
-## The Beach Boys: more than just “Good Vibrations”
+## China’s faltering economy
 
-For most listeners, the Beach Boys’ catalogue both peaks and ends with the album “Pet Sounds” and the single “Good Vibrations”, both masterpieces from 1966. Yet over the following seven years the band would release eight more albums which, although they sold poorly, would form an influential body of work.
+On Monday China’s central bank freed up 500bn yuan ($72bn) for lending within the banking system, after announcing a 25-basis-point cut to the required reserve ratio, the amount of money banks are required to hold as reserves. In recent years the People’s Bank of China has routinely cut RRR to encourage banks to lend more. The hope is that there will be takers for the extra credit, but demand has been lacklustre in China’s [decelerating economy](https://te.arielherself.xyz/the-economist-explains/2015/03/11/why-chinas-economy-is-slowing). Covid restrictions have caused companies great uncertainty. Many planned investments in factories or new shops have been axed. In October new loans declined to 615bn yuan, 211bn yuan less than a year ago.
 
-A new reissue, “Sail On Sailor: 1972”, collects the final LPs of this sequence, “Carl and the Passions—So Tough” and “Holland”. These records were made in the near-absence of the band’s guiding genius, Brian Wilson, but the rest of the band stepped up in his place. “Holland” in particular is an undervalued marvel. Mr Wilson’s late brothers Dennis and Carl shine creatively, and new members Blondie Chaplin and Ricky Fataar come to the fore on the eponymous “Sail On Sailor”, a classic rock number. The Beach Boys retained their fascination long after their commercial pomp.
+That is worrying for the government, which in its quest for growth wants companies to expand operations and build factories. Until China fixes its covid problem, RRR cuts might amount to little more than pushing on a string.
 
-## Weekend profile: Alexie, a protester in Shanghai
+## Picking the word of the year
 
-Alexie has joined two protests in her life. Both times, the Shanghai coffee-shop owner (whose name we have changed) chanted slogans against China’s government—a good way to risk a jail sentence. 
+At this time of year, as others are trimming Christmas trees, a clutch of dictionary publishers ponder their choice for word of the year. Oxford Dictionaries revealed theirs on Monday: “goblin mode”. That means a state in which someone indulges their laziest or most self-indulgent habits—perhaps suitable as a symbol for the first proper post-lockdown year. 
 
-In 2019, to express her own discontent with China’s growing authoritarianism, she travelled to Hong Kong, where she marched with millions of others calling for democratic rule in the territory. She was unable to tell anyone who she was and what she was doing there. “I felt alone, but paradoxically, I had never felt so close to the people around me,” she says.
+For the first time ever, the word of the year was selected by public vote. “Goblin mode” beat two of Oxford&#x27;s other choices. One was “#IStandWith”, a hashtag used frequently in solidarity on Twitter but whose status as a word seems questionable. Another was the “metaverse”, the name of a thing which Meta (owner of Facebook) and other companies have poured fortunes into developing—but which few people seem to be actually spending time in. It has been a strange year: war, economic upheaval and a pandemic hangover are hard to sum up in a single dictionary entry. Perhaps 2023 will bring better news, and more inspiring words.
 
-In the three years since, Chinese officials have only tightened their grip on Hong Kong. Many there have lost hope. Alexie has, too. She considered leaving China on several occasions but ultimately decided against it: not because she didn’t have the means, but because of her “unspeakably deep connections” with her homeland. Alexie is a globetrotter—having lived in Argentina and travelled to nearly all continents, she came back to China four years ago, hoping to establish a stable life, even though it soon started to become “unbearable”, not least because of the prolonged covid-19 lockdowns.
+## Daily quiz
 
-Last Saturday night, she found some solace. She learned from friends that[ protesters were gathering](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest) on Wulumuqi Road, just three kilometres from her apartment. Taking a bouquet of flowers and sheets of white paper, the symbolic weapons of these protests, she joined them. She laid flowers in tribute to the families who had died two days before in a fire in an apartment building in Xinjiang, in far-west China. The building’s exits had reportedly been sealed, to comply with[ China’s zero-covid policy](https://te.arielherself.xyz/china/2022/11/27/unrest-breaks-out-across-china-as-frustration-at-lockdowns-grows). The blank paper is more explicitly political, a challenge to China’s strict controls on free expression. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7a2b0f13003f090a081f0909153a1f191514151713090e54191517">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-She could hear the chanting from a few blocks away. “No to PCR testing, yes to freedom.” When one person shouted, “Communist Party!”, a handful of people responded tentatively, “Step down!”. Again, the man shouted “Communist Party!”. This time the response was stronger and more joined in, including Alexie: “Step down!”
-
-The next day, clips of the protest she attended flooded Twitter, which is blocked in China but accessed by people with virtual private networks. With dread she stopped the videos on each frame to check if her face was visible (it wasn’t). “I was afraid, and still am, but I just had to go,” she says.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am BST on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Former president dancing jig in middle of dense maze (5, 5)
-
-<em>1 across</em> German agreement to criticise another country (5)
-
-<em>2 across </em>Perhaps football is courageous? (4)
-
-<em>3 across</em> Not at all part of career: even in retrospect! (5)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>An engineer-turned-economic-reformer (5, 5)
-
-<em>1 across</em> One of America’s Asian friends (5)
-
-<em>2 across </em>This type of subscription is increasingly big business (4)
-
-<em>3 across</em> “The King ___ dies”, according to a legal maxim (5)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random from each continent, were: 
-
-Asia: <strong>Jin-Hong Park</strong>, Suwon, South Korea
-
-North America: <strong>Mary Lou Finlay</strong>, Toronto, Canada
-
-Central and South America:<strong> Federico Tarling</strong>, La Plata, Argentina
-
-Europe: <strong>Katarzyna Piontas</strong>, Sopot, Poland
-
-Africa: <strong>Neries Moodley</strong>, Durban, South Africa
-
-Oceania: <strong>Ewen Mackenzie-Bowie</strong>, Auckland, New Zealand
-
-<em>They all gave the correct answers of Peacock, Rope, Mustard, Candlestick Park and The Scarlet Letter. The theme is Clue (or Cluedo); Mrs Peacock, Colonel Mustard and Miss Scarlet are characters and the rope and candlestick are weapons.</em>
+<strong>Monday: </strong>Which fighter jet is manufactured by the French group, Dassault?
 
 ----------
 
