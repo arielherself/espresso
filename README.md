@@ -18,15 +18,15 @@ China’s president, Xi Jinping, paid tribute to <strong>Jiang Zemin</strong>, h
 
 Meta’s oversight board, a body it created to provide independent judgments on sensitive issues, urged <strong>Facebook</strong> to make “significant” changes to how it reviews content from high-profile users. The board said Facebook, [Meta’s](https://te.arielherself.xyz/graphic-detail/2022/11/07/meta-will-lay-off-13-of-its-workforce) subsidiary, had left dangerous content online by exempting politicians and business partners from rules. Meanwhile, Facebook threatened to pull American news content from feeds, in part because of a Congressional bill that could allow media outlets to charge more for content.
 
-<strong>Indonesia’s</strong> parliament passed a law banning extramarital sex. The new code, which will apply to Indonesians and foreigners, also restricts how much people can criticise the president and public institutions. The legislation triggered violent protests when it was introduced in 2019. The government says it has “tried to accommodate feedback” and that the old code, a colonial vestige, was “no longer relevant”.
+<strong>Latvia</strong> withdrew the broadcasting licence of TV Rain, an exiled <strong>Russian</strong> news channel that had been reporting from its capital, Riga. Latvia’s media regulator accused the channel of threatening the country’s national security and social order. TV Rain has also attracted criticism from Latvian politicians for sticking its nose into local politics. But those grumbles are misplaced: countries should welcome [offshore media outlets](https://te.arielherself.xyz/leaders/2022/11/24/russian-offshore-journalists-need-help-not-hindrance) that pump real news back into Russia.
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Indonesia’s</strong> parliament passed a law banning extramarital sex. The new code, which will apply to Indonesians and foreigners, also restricts how much people can criticise the president and public institutions. The legislation triggered violent protests when it was introduced in 2019. The government says it has “tried to accommodate feedback” and that the old code, a colonial vestige, was “no longer relevant”.
+
 <strong>South Africa’s</strong> ruling party said it would block attempts to impeach <strong>President Cyril Ramaphosa</strong> after an independent panel found that he probably [abused the power of his office](https://te.arielherself.xyz/middle-east-and-africa/2022/12/01/a-sofa-stuffed-with-cash-imperils-south-africas-president). Mr Ramaphosa asked that the panel’s report be “declared unlawful and set aside” by the country’s top court. He stands accused of violating anti-corruption laws concerning the concealment and subsequent theft of at least $4m from his cattle farm.
 
-Most justices on America’s <strong>Supreme Court</strong> appeared sympathetic to a Christian web designer’s argument that having to make a gay couple’s wedding website would [violate her free-speech rights](https://te.arielherself.xyz/united-states/2022/12/05/a-new-supreme-court-case-may-dampen-protections-for-lgbt-people) by forcing her to create work at odds with her religion. The court’s conservative majority seems likely to create some exceptions for business owners from laws requiring equal treatment of all customers on the basis of this case. A decision is expected next summer.
-
-<strong>Football World Cup: </strong>Football’s heavyweights continued to assert their dominance in the <strong>knockout round</strong>. Brazil, the tournament favourites, advanced to an eighth consecutive quarter-final after drubbing South Korea. Croatia, the finalists in 2018, beat Japan on penalties. On Tuesday [Morocco](https://te.arielherself.xyz/graphic-detail/2022/12/01/the-world-cups-group-stage-bodes-well-for-morocco-and-england) will hope to buck the trend when they face Spain. They are hoping to become the first Arab team ever to reach the quarter-finals.
+<strong>Football World Cup:</strong> underdogs <strong>Morocco</strong> became the first Arab team ever to reach the tournament’s quarter-finals, after beating <strong>Spain</strong> in a penalty shoot-out. They bucked the trend set in other knockout matches, where football’s heavyweights, such as Brazil, asserted their dominance.
 
 <strong>Fact of the day:</strong> 22%, the average spike in opioid-related deaths in American counties that opened syringe exchanges between 2008 and 2016. [Read the full story](https://te.arielherself.xyz/united-states/2022/12/01/americas-syringe-exchanges-might-be-killing-drug-users).
 
@@ -39,12 +39,6 @@ After election day in early November, most American voters can relax. Not in [Ge
 On Tuesday Georgia’s race will again conclude the national Senate battle. But this time there is less pressure: Democrats are safe in their control of the upper chamber of Congress. But they will be glad to have an extra seat. In Georgia Raphael Warnock, the Democratic incumbent, who led the first round by one percentage point, faces [Herschel Walker](https://te.arielherself.xyz/the-economist-explains/2022/10/14/who-is-herschel-walker), the gaffe-prone Republican nominee. 
 
 Other Republicans running in Georgia, such as Brian Kemp, the incumbent governor, sailed to an easy victory in November. But Mr Walker, a former football star who has not managed to outrun his personal scandals, may fall flat now that Republicans have no hope of retaking the Senate. Polls show Mr Warnock enjoying a slight lead.
-
-## The EU’s tug-of-war with Hungary
-
-The EU has struggled for a decade to respond to Viktor Orban’s increasingly autocratic, corrupt and scofflaw government in Hungary. It now has the [leverage](https://te.arielherself.xyz/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform) to do something about it. Last week the European Commission recommended that €13.3bn ($14bn) of aid to Hungary go forward only if the country carries out reforms. Approving the proposal is now up to national governments. At a meeting on Tuesday, the EU’s finance ministers had been expected to let €5.8bn in grants from the bloc’s covid-recovery move forward, conditional on Hungary implementing 27 anti-corruption reforms. Applying conditions to €7.5bn from the EU budget was considered a closer call.
-
-Instead, the ministers put off both discussions. Meanwhile, Hungary is playing hardball: it vetoed an €18bn aid package for Ukraine to pile pressure on its partners. EU governments now have until December 19th to make a call on Hungary’s funds. Despite years of tough talk, they may end up letting Hungary get away with embezzling European money.
 
 ## The EU’s tug-of-war with Hungary
 
@@ -74,7 +68,7 @@ Broadway has not bounced back yet: this summer performances of “Moulin Rouge!�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1f4e6a76655a6c6f6d7a6c6c705f7a7c70717072766c6b317c7072">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ffae8a9685ba8c8f8d9a8c8c90bf9a9c90919092968c8bd19c9092">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1977 musical, starring Liza Minnelli and Robert de Niro, was directed by Martin Scorsese?
 
