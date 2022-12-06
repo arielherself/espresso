@@ -26,7 +26,7 @@ China’s president, Xi Jinping, paid tribute to <strong>Jiang Zemin</strong>, h
 
 <strong>Latvia</strong> withdrew the broadcasting licence of TV Rain, an exiled <strong>Russian</strong> news channel that had been reporting from its capital, Riga. Latvia’s media regulator accused the channel of threatening the country’s national security and social order. TV Rain has also attracted criticism from Latvian politicians for sticking its nose into local politics. But those grumbles are misplaced: countries should welcome [offshore media outlets](https://te.arielherself.xyz/leaders/2022/11/24/russian-offshore-journalists-need-help-not-hindrance) that pump real news back into Russia.
 
-<strong>Football World Cup:</strong> underdogs <strong>Morocco</strong> became the first Arab team ever to reach the tournament’s quarter-finals, after beating <strong>Spain</strong> in a penalty shoot-out. They bucked the trend set in other knockout matches, where football’s heavyweights, such as Brazil, asserted their dominance.
+<strong>Football World Cup:</strong> underdogs <strong>Morocco</strong> became the first Arab team ever to reach the tournament’s quarter-finals, after beating <strong>Spain</strong> in a penalty shoot-out. <strong>Portugal</strong> did not start Cristiano Ronaldo in its 6-1 victory over <strong>Switzerland</strong> amid reports of a falling out between Ronaldo and Portugal’s coach, Fernando Santos. 
 
 <strong>Fact of the day:</strong> 22%, the average spike in opioid-related deaths in American counties that opened syringe exchanges between 2008 and 2016. [Read the full story](https://te.arielherself.xyz/united-states/2022/12/01/americas-syringe-exchanges-might-be-killing-drug-users).
 
@@ -68,7 +68,7 @@ Broadway has not bounced back yet: this summer performances of “Moulin Rouge!�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="83d2f6eaf9c6f0f3f1e6f0f0ecc3e6e0ecedeceeeaf0f7ade0ecee">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1977 musical, starring Liza Minnelli and Robert de Niro, was directed by Martin Scorsese?
 
