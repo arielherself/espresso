@@ -18,7 +18,7 @@ A <strong>drone</strong> attack on a <strong>Russian</strong> airfield in Kursk,
 
 <strong>Cristina Fernández de Kirchner</strong>, Argentina’s [vice-president](https://www.economist.com/the-economist-explains/2022/09/05/who-is-cristina-fernandez-de-kirchner), was sentenced to six years’ imprisonment and banned from holding public office on corruption charges. But she is unlikely to land in jail anytime soon: her job gives her immunity and she will surely appeal against the verdict. Ms Fernández was found guilty of [abusing her authority](https://www.economist.com/the-americas/2022/08/25/argentinas-vice-president-could-face-12-years-in-prison) while president from 2007 to 2015 to steer inflated public-works contracts to a friend.
 
-Meta’s oversight board, a body it created to provide independent judgments on sensitive issues, urged <strong>Facebook</strong> to make “significant” changes to how it reviews content from high-profile users. The board said Facebook, [Meta’s](https://www.economist.com/graphic-detail/2022/11/07/meta-will-lay-off-13-of-its-workforce) subsidiary, had left dangerous content online by exempting politicians and business partners from rules.
+<strong>Hungary</strong> vetoed an EU aid package worth €18bn ($18.9bn) for <strong>Ukraine</strong>. In response member states delayed a decision about whether to disburse €5.8bn in pandemic-recovery funds to Hungary. Fuelling the stand-off are EU demands that Hungary [strengthen the rule of law](https://www.economist.com/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform) before it gets any more money. EU finance ministers may meet again later this month in hopes of resolving the disagreement.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Broadway has not bounced back yet: this summer performances of “Moulin Rouge!�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="69381c00132c1a191b0c1a1a06290c0a06070604001a1d470a0604">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5d0c283427182e2d2f382e2e321d383e32333230342e29733e3230">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1977 musical, starring Liza Minnelli and Robert de Niro, was directed by Martin Scorsese?
 
