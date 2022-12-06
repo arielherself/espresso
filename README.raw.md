@@ -40,11 +40,17 @@ On Tuesday Georgia’s race will again conclude the national Senate battle. But 
 
 Other Republicans running in Georgia, such as Brian Kemp, the incumbent governor, sailed to an easy victory in November. But Mr Walker, a former football star who has not managed to outrun his personal scandals, may fall flat now that Republicans have no hope of retaking the Senate. Polls show Mr Warnock enjoying a slight lead.
 
-## The EU’s moment of truth with Hungary
+## The EU’s tug-of-war with Hungary
 
-The EU has struggled for a decade to respond to Viktor Orban’s increasingly autocratic, corrupt and scofflaw government in Hungary. It now has the opportunity to do something about it. Last week the European Commission recommended that €13.3bn ($14bn) of aid to Hungary go forward only if the country carries out reforms. On Tuesday the council of EU countries’ finance ministers, known as Ecofin, are due to discuss a [course of action](https://www.economist.com/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform).
+The EU has struggled for a decade to respond to Viktor Orban’s increasingly autocratic, corrupt and scofflaw government in Hungary. It now has the [leverage](https://www.economist.com/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform) to do something about it. Last week the European Commission recommended that €13.3bn ($14bn) of aid to Hungary go forward only if the country carries out reforms. Approving the proposal is now up to national governments. At a meeting on Tuesday, the EU’s finance ministers had been expected to let €5.8bn in grants from the bloc’s covid-recovery move forward, conditional on Hungary implementing 27 anti-corruption reforms. Applying conditions to €7.5bn from the EU budget was considered a closer call.
 
-Ministers are expected to allow €5.8bn in grants from the EU’s covid-recovery fund to go forward, conditional on Hungary implementing 27 anti-corruption reforms. But Hungary’s prime minister may have enough allies to prevent Ecofin from freezing the €7.5bn earmarked for his country in the EU’s regular budget. He has also been fighting back, by blocking a joint aid package for Ukraine and a proposed minimum tax on multinational companies. So despite years of tough talk, the EU may end up letting Hungary get away with embezzling European money.
+Instead, the ministers put off both discussions. Meanwhile, Hungary is playing hardball: it vetoed an €18bn aid package for Ukraine to pile pressure on its partners. EU governments now have until December 19th to make a call on Hungary’s funds. Despite years of tough talk, they may end up letting Hungary get away with embezzling European money.
+
+## The EU’s tug-of-war with Hungary
+
+The EU has struggled for a decade to respond to Viktor Orban’s increasingly autocratic, corrupt and scofflaw government in Hungary. It now has the [leverage](https://www.economist.com/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform) to do something about it. Last week the European Commission recommended that €13.3bn ($14bn) of aid to Hungary go forward only if the country carries out reforms. Approving the proposal is now up to national governments. At a meeting on Tuesday, the EU’s finance ministers had been expected to let €5.8bn in grants from the bloc’s covid-recovery move forward, conditional on Hungary implementing 27 anti-corruption reforms. Applying conditions to €7.5bn from the EU budget was considered a closer call.
+
+Instead, the ministers put off both discussions. Meanwhile, Hungary is playing hardball: it vetoed an €18bn aid package for Ukraine to pile pressure on its partners. EU governments now have until December 19th to make a call on Hungary’s funds. Despite years of tough talk, they may end up letting Hungary get away with embezzling European money.
 
 ## India’s controversial citizenship law faces a test
 
@@ -68,7 +74,7 @@ Broadway has not bounced back yet: this summer performances of “Moulin Rouge!�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a8f9ddc1d2eddbd8dacddbdbc7e8cdcbc7c6c7c5c1dbdc86cbc7c5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9fceeaf6e5daecefedfaececf0dffafcf0f1f0f2f6ecebb1fcf0f2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1977 musical, starring Liza Minnelli and Robert de Niro, was directed by Martin Scorsese?
 
