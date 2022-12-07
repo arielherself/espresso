@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Lawmakers in <strong>Peru</strong> voted 101-6 to oust [President Pedro Castillo](https://www.economist.com/the-americas/2022/09/29/peru-has-an-incompetent-president-and-a-discredited-congress) shortly after he tried to dissolve Congress. He was detained by police and replaced by his vice-president, Dina Boluarte. Earlier, in an attempt to evade impeachment, Mr Castillo had said he would disband the legislature and rule by emergency decree. An [inept leftist](https://www.economist.com/the-americas/2022/07/28/peru-is-becoming-ever-more-volatile-under-pedro-castillo), he cycled through more than 70 ministers in his government and figures in five criminal probes.
+Lawmakers in <strong>Peru</strong> voted 101-6 to oust [Pedro Castillo](https://www.economist.com/the-americas/2022/09/29/peru-has-an-incompetent-president-and-a-discredited-congress) as president shortly after he tried to dissolve Congress. He was detained by police and replaced by his vice-president, Dina Boluarte. Earlier, in an attempt to evade impeachment, Mr Castillo had said he would disband the legislature and rule by emergency decree. An [inept leftist](https://www.economist.com/the-americas/2022/07/28/peru-is-becoming-ever-more-volatile-under-pedro-castillo), he cycled through more than 70 ministers in his government and figures in five criminal probes.
 
 <strong>German</strong> police arrested 25 alleged members and supporters of a <strong>far-right terrorist group</strong> on suspicion of plotting to overthrow the country’s government. The group, which included one active [soldier](https://www.economist.com/1843/2022/10/21/how-right-wing-extremists-infiltrated-germanys-armed-forces) and several reservists, planned to storm the German parliament and seize power in a violent coup, according to the prosecutor’s office. Police carried out 130 related searches across Germany on Wednesday morning.
 
@@ -72,7 +72,7 @@ The four finalists for this year’s prize included no men and no artists’ col
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7c2d091506390f0c0e190f0f133c191f13121311150f08521f1311">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4213372b38073132302731312d0227212d2c2d2f2b31366c212d2f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which modern Egyptian city is on the site of the ancient capital of Thebes?
 
