@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-12-06</p>
+# <p align="center">The world in brief 2022-12-07</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -18,11 +18,11 @@ A <strong>drone</strong> attack on a <strong>Russian</strong> airfield in Kursk,
 
 <strong>Cristina Fernández de Kirchner</strong>, Argentina’s [vice-president](https://te.arielherself.xyz/the-economist-explains/2022/09/05/who-is-cristina-fernandez-de-kirchner), was sentenced to six years’ imprisonment and banned from holding public office on corruption charges. But she is unlikely to land in jail anytime soon: her job gives her immunity and she will surely appeal against the verdict. Ms Fernández was found guilty of [abusing her authority](https://te.arielherself.xyz/the-americas/2022/08/25/argentinas-vice-president-could-face-12-years-in-prison) while president from 2007 to 2015 to steer inflated public-works contracts to a friend.
 
-<strong>Hungary</strong> vetoed an EU aid package worth €18bn ($18.9bn) for <strong>Ukraine</strong>. In response member states delayed a decision about whether to disburse €5.8bn in pandemic-recovery funds to Hungary. Fuelling the stand-off are EU demands that Hungary [strengthen the rule of law](https://te.arielherself.xyz/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform) before it gets any more money. EU finance ministers may meet again later this month in hopes of resolving the disagreement.
+Polls closed in <strong>Georgia’s</strong> [run-off election](https://te.arielherself.xyz/united-states/2022/12/06/whats-at-stake-in-georgias-run-off-election) for senator. Raphael Warnock, the Democratic incumbent, was the narrow favourite over Herschel Walker, a gaffe-prone Republican. Democrats will keep control of America’s Senate regardless of the outcome, lowering the stakes somewhat. Even so, 1.89m people voted early, breaking single-day voting records, and the race was the country’s most expensive this year. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-China’s president, Xi Jinping, paid tribute to <strong>Jiang Zemin</strong>, his predecessor-but-one, in a ceremony in Tiananmen Square in Beijing. Mr Jiang, who [died](https://te.arielherself.xyz/obituary/2022/11/30/jiang-zemin-oversaw-a-wave-of-economic-change-but-not-much-political-reform) last week aged 96, became president following the [bloody crackdown](https://te.arielherself.xyz/the-economist-explains/2021/06/04/what-happened-around-tiananmen-square-on-june-4th-1989) on pro-democracy protesters around that same square in 1989. He attempted to open China up to more free-market principles. Mr Xi took the opportunity to reiterate his commitment to the more socialist goal of “[common prosperity](https://te.arielherself.xyz/finance-and-economics/xi-jinpings-talk-of-common-prosperity-spooks-the-prosperous/21803895)”.
+<strong>Hungary</strong> vetoed an EU aid package worth €18bn ($18.8bn) for <strong>Ukraine</strong>. In response member states delayed a decision about whether to disburse €5.8bn in pandemic-recovery funds to Hungary. Fuelling the stand-off are EU demands that Hungary [strengthen the rule of law](https://te.arielherself.xyz/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform) before it gets any more money. EU finance ministers may meet again later this month in hopes of resolving the disagreement.
 
 <strong>Latvia</strong> withdrew the broadcasting licence of TV Rain, an exiled <strong>Russian</strong> news channel that had been reporting from its capital, Riga. Latvia’s media regulator accused the channel of threatening the country’s national security and social order. TV Rain has also attracted criticism from Latvian politicians for sticking its nose into local politics. But those grumbles are misplaced: countries should welcome [offshore media outlets](https://te.arielherself.xyz/leaders/2022/11/24/russian-offshore-journalists-need-help-not-hindrance) that pump real news back into Russia.
 
@@ -68,7 +68,7 @@ Broadway has not bounced back yet: this summer performances of “Moulin Rouge!�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5d0c283427182e2d2f382e2e321d383e32333230342e29733e3230">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7b2a0e12013e080b091e0808143b1e181415141612080f55181416">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which 1977 musical, starring Liza Minnelli and Robert de Niro, was directed by Martin Scorsese?
 
