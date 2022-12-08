@@ -18,7 +18,7 @@
 
 <strong>Iran</strong> has executed the first prisoner known to be convicted for crimes related to [the current nationwide protests](https://www.economist.com/middle-east-and-africa/2022/10/18/irans-protests-spread-as-a-notorious-prison-burns), according to state media reports. Mohsen Shekari, described as a “rioter” by officials, was executed for allegedly injuring a security guard with a machete. On Monday Iran’s Revolutionary Guards called on the judiciary to issue swift judgments against those accused of “crimes against the security of the nation and Islam”.
 
-The <strong>EU</strong>’s top court ruled that <strong>Google</strong> must remove data from its search engine results if users can prove it is “manifestly inaccurate”. The case before the Court of Justice of the European Union concerned two executives who wanted [Google](https://www.economist.com/leaders/2020/07/30/google-has-outgrown-its-corporate-culture) to remove search results linking them to criticism of their group’s investment model. Google had initially refused to remove the content.
+The <strong>EU’s</strong> top court ruled that <strong>Google</strong> must remove data from its search engine results if users can prove it is “manifestly inaccurate”. The case before the Court of Justice of the European Union concerned two executives who wanted [Google](https://www.economist.com/leaders/2020/07/30/google-has-outgrown-its-corporate-culture) to remove search results linking them to criticism of their group’s investment model. Google had initially refused to remove the content.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -70,7 +70,7 @@ Still, the couple hope to win hearts and minds. That quest will be helped by a r
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d081a5b9aa95a3a0a2b5a3a3bf90b5b3bfbebfbdb9a3a4feb3bfbd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which set of Roman biographies was written by Suetonius?
 
