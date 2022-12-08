@@ -32,6 +32,12 @@ The <strong>EU</strong>’s top court ruled that <strong>Google</strong> must re
 
 ----------
 
+## Wirecard’s former bosses go on trial
+
+Two-and-a-half years ago [Wirecard](https://www.economist.com/finance-and-economics/2020/06/25/how-wirecard-fooled-most-of-the-people-all-of-the-time) collapsed into bankruptcy after admitting that the €1.9bn ($2bn) the company was meant to have stored away in offshore escrow accounts “probably” did “not exist”. On Thursday Markus Braun, the payment-processing firm’s Austrian former chief executive, and two other leaders will begin to stand trial at a court in Munich. Several key suspects will not be present. Jan Marsalek, the firm’s COO, is on the run.
+
+The trial for fraud at a company once seen as a star of Germany’s tech sector is expected to last more than a year. After an investigation that lasted more than 20 months, prosecutors allege that Mr Braun and his accomplices stole more than €255m of Wirecard funds, mainly through fake loans, and doctored accounts to dupe banks and other creditors. (He has denied any knowledge of manipulated accounts.) They are charged with fraud, accounting irregularities and embezzlement on a large scale. Just reading out all the charges will take around five hours.
+
 ## Disney tries to make streaming pay
 
 By one measure Disney is a big success in [streaming](https://www.economist.com/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591). In just three years its Disney+ service has signed up 164m members. The company has 236m active subscriptions to Disney+ and its other streaming platforms, Hulu and ESPN+. That is even more than Netflix, until recently the market leader.
@@ -40,6 +46,12 @@ The only snag is that the business bleeds money. Last quarter Disney lost $1.5bn
 
 On Thursday Disney puts into practice its new plan for [restoring profitability](https://www.economist.com/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script). Disney+ in America will be punctuated by advertising for the first time. Viewers will have to pay $10.99 a month, 38% more than the current ad-free subscription price, to avoid ads. They may moan, but with Netflix launching ads last month there is no escape: streamers are determined to make the business pay.
 
+## A cloudy forecast for Japan’s economy
+
+The [world’s third-largest economy](https://www.economist.com/finance-and-economics/2022/07/14/the-legacy-of-abe-shinzo-will-shape-japans-economy-for-years) is not doing well. Revised GDP figures released on Thursday showed that Japan’s economy shrank by an annualised 0.8% in the third quarter of 2022. Economists had predicted an expansion, but a surge in coronavirus infections over the summer and higher inflation, caused partly by a decline in the value of the yen, took a toll on the economy. 
+
+But there may be sunshine ahead. A government stimulus package should soon make a difference, and the lifting of covid-related travel curbs is expected to bring back tourists. It remains to be seen, however, if that will be enough to offset other problems, including tumbling real wages and depressed business confidence. Even if domestic demand recovers, Japan’s economy will be hurt by a [global recession](https://www.economist.com/the-world-ahead/2022/11/18/why-a-global-recession-is-inevitable-in-2023).
+
 ## Times of trouble for the news
 
 Sixty years ago on Thursday, hundreds of printers stopped operating their machines at the <em>New York Times</em> and went on strike. The number of strikers eventually swelled to 17,000, including reporters, photoengravers and elevator operators from seven daily papers in New York. The walkout lasted 114 days and killed four papers.
@@ -47,18 +59,6 @@ Sixty years ago on Thursday, hundreds of printers stopped operating their machin
 On Thursday a similar coalition of 1,100 <em>Times</em> employees began a 24-hour stoppage in the hopes of securing higher wages. It comes at a [difficult time](https://www.economist.com/united-states/2022/04/16/startups-aim-to-reinvigorate-local-news-in-america) for American media organisations, many of which are shedding staff in anticipation of an [economic downturn](https://www.economist.com/the-world-ahead/2022/11/18/the-american-economy-is-set-for-a-downturn-not-a-crisis)—though the <em>Times</em> continues to report substantial profits.
 
 The <em>Times</em>, which has more paying digital subscribers than any other English-language paper in the world, has not sought a deal to avert the strike. The strikers will not slay the Gray Lady, but could fire up other disgruntled workers in the troubled industry.
-
-## Wirecard’s former bosses go on trial
-
-Two-and-a-half years ago [Wirecard](https://www.economist.com/finance-and-economics/2020/06/25/how-wirecard-fooled-most-of-the-people-all-of-the-time) collapsed into bankruptcy after admitting that the €1.9bn ($2bn) the company was meant to have stored away in offshore escrow accounts “probably” did “not exist”. On Thursday Markus Braun, the payment-processing firm’s Austrian former chief executive, and two other leaders will begin to stand trial at a court in Munich. Several key suspects will not be present. Jan Marsalek, the firm’s COO, is on the run.
-
-The trial for fraud at a company once seen as a star of Germany’s tech sector is expected to last more than a year. After an investigation that lasted more than 20 months, prosecutors allege that Mr Braun and his accomplices stole more than €255m of Wirecard funds, mainly through fake loans, and doctored accounts to dupe banks and other creditors. (He has denied any knowledge of manipulated accounts.) They are charged with fraud, accounting irregularities and embezzlement on a large scale. Just reading out all the charges will take around five hours.
-
-## A cloudy forecast for Japan’s economy
-
-The [world’s third-largest economy](https://www.economist.com/finance-and-economics/2022/07/14/the-legacy-of-abe-shinzo-will-shape-japans-economy-for-years) is not doing well. Revised GDP figures released on Thursday showed that Japan’s economy shrank by an annualised 0.8% in the third quarter of 2022. Economists had predicted an expansion, but a surge in coronavirus infections over the summer and higher inflation, caused partly by a decline in the value of the yen, took a toll on the economy. 
-
-But there may be sunshine ahead. A government stimulus package should soon make a difference, and the lifting of covid-related travel curbs is expected to bring back tourists. It remains to be seen, however, if that will be enough to offset other problems, including tumbling real wages and depressed business confidence. Even if domestic demand recovers, Japan’s economy will be hurt by a [global recession](https://www.economist.com/the-world-ahead/2022/11/18/why-a-global-recession-is-inevitable-in-2023).
 
 ## Harry and Meghan take on the firm, again
 
@@ -70,7 +70,7 @@ Still, the couple hope to win hearts and minds. That quest will be helped by a r
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0f5e7a66754a7c7f7d6a7c7c604f6a6c60616062667c7b216c6062">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c392b6aab986b0b3b1a6b0b0ac83a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which set of Roman biographies was written by Suetonius?
 
