@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Basketball star <strong>Brittney Griner</strong> arrived back home in America after a 10-month detention in Russia. On Thursday Russia exchanged Ms Griner for <strong>Viktor Bout</strong>, a notorious arms dealer, in a simultaneous prisoner swap orchestrated on a runway in Abu Dhabi. [Ms Griner](https://www.economist.com/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work) was arrested in Moscow in February for possessing cannabis oil and sent to a Russian penal colony. To secure her return President Joe Biden approved the release of [Mr Bout](https://www.economist.com/the-economist-explains/2022/12/08/who-is-viktor-bout), the so-called “merchant of death”, who spent 12 years in American prisons for conspiring to support terrorists.
+<strong>America </strong>warned that <strong>Iran</strong> and <strong>Russia</strong> are entering a “full-fledged defence partnership” that may include the joint production of drones. Russia will provide fighter jets to Iran and is training its pilots, said a spokesman for the national security council. In turn Iran is believed to have sent [armed drones](https://www.economist.com/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine) for Russia’s use in Ukraine. Separately, President Vladimir Putin said he may cut oil output in response to the West’s “stupid” [price cap](https://www.economist.com/finance-and-economics/2022/11/30/how-the-wests-price-cap-on-russian-oil-could-roil-energy-markets) on Russian oil exports.
 
 A <strong>Russian</strong> court sentenced <strong>Ilya Yashin</strong>, an opposition politician, to eight and half years in prison for charges of spreading false information to discredit the Russian army. [Mr Yashin](https://www.economist.com/europe/2022/12/08/in-moscow-all-dissent-is-muzzled) is the most high-profile Russian dissident who has been jailed for opposing the invasion of Ukraine. He chose not to leave Russia and said in court this week that he “must speak the truth loudly”.
 
@@ -64,7 +64,7 @@ Another contender is Brazil’s spearhead, Richarlison, who has scored three ski
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4c1d392536093f3c3e293f3f230c292f23222321253f38622f2321">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="adfcd8c4d7e8dedddfc8dedec2edc8cec2c3c2c0c4ded983cec2c0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What is the largest desert in the world?
 
