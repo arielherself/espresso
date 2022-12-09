@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Russia </strong>exchanged an American basketball star, <strong>Brittney</strong> <strong>Griner</strong>, for <strong>Viktor Bout</strong>, a notorious arms dealer, in a simultaneous prisoner swap orchestrated on a runway in Abu Dhabi. [Ms Griner](https://www.economist.com/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work) was arrested in Moscow in February for possessing cannabis oil and sent to a Russian penal colony. To secure her return President Joe Biden approved the release of [Mr Bout](https://www.economist.com/the-economist-explains/2022/12/08/who-is-viktor-bout), the so-called “merchant of death”, who spent 12 years in American prisons for conspiring to support terrorists.
+Basketball star <strong>Brittney Griner</strong> arrived back home in America after a 10-month detention in Russia. On Thursday Russia exchanged Ms Griner for <strong>Viktor Bout</strong>, a notorious arms dealer, in a simultaneous prisoner swap orchestrated on a runway in Abu Dhabi. [Ms Griner](https://www.economist.com/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work) was arrested in Moscow in February for possessing cannabis oil and sent to a Russian penal colony. To secure her return President Joe Biden approved the release of [Mr Bout](https://www.economist.com/the-economist-explains/2022/12/08/who-is-viktor-bout), the so-called “merchant of death”, who spent 12 years in American prisons for conspiring to support terrorists.
 
 America’s <strong>House of Representatives</strong> approved legislation that mandates federal recognition of <strong>same-sex marriages</strong>. Lawmakers from both parties voted in favour, bringing the result to 258-169. The bill had already been approved by the House in July, but was revised in the Senate to address Republican concerns that it would damage religious freedom, bringing it back to the House for another vote. Joe Biden will now need to sign the legislation into law.
 
@@ -64,7 +64,7 @@ Another contender is Brazil’s spearhead, Richarlison, who has scored three ski
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1c4d697566596f6c6e796f6f735c797f73727371756f68327f7371">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5e0f2b37241b2d2e2c3b2d2d311e3b3d31303133372d2a703d3133">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What is the largest desert in the world?
 
