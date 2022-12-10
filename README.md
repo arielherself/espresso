@@ -28,7 +28,7 @@ America imposed sanctions against two <strong>Chinese </strong>citizens and thei
 
 <strong>Football World Cup:</strong> Penalty shoot-outs saw <strong>Brazil</strong>, the tournament favourites, lose to underdogs <strong>Croatia</strong> and <strong>the Netherlands</strong> lose to <strong>Argentina</strong>. Brazil’s elimination was the latest in a [series of upsets](https://te.arielherself.xyz/graphic-detail/2022/12/09/qatars-world-cup-has-seen-the-biggest-upsets-in-recent-history) in Qatar. Meanwhile fans paid tribute to Grant Wahl, an American sports journalist who wrote about the treatment of migrant workers in Qatar. Mr Wahl died after collapsing during the Argentina-Netherlands game on Friday.
 
-<strong>Word of the week:</strong> Reichsbürger, a German far-right extremist group that rejects the legitimacy of the federal republic in favour of the German Reich of 1871. [Read the full story here](https://te.arielherself.xyz/europe/2022/12/07/german-police-arrest-two-dozen-alleged-conspirators-in-a-hare-brained-plot-to-overthrow-the-government).
+<strong>Word of the week:</strong> <em>Reichsbürger</em>, a German far-right extremist group that rejects the legitimacy of the federal republic in favour of the German Reich of 1871. [Read the full story here](https://te.arielherself.xyz/europe/2022/12/07/german-police-arrest-two-dozen-alleged-conspirators-in-a-hare-brained-plot-to-overthrow-the-government).
 
 ----------
 
