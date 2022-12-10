@@ -12,75 +12,97 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>America </strong>warned that <strong>Iran</strong> and <strong>Russia</strong> are entering a “full-fledged defence partnership” that may include the joint production of drones. Russia will provide fighter jets to Iran and is training its pilots, said a spokesman for America’s national security council. In turn Iran is believed to have sent [armed drones](https://te.arielherself.xyz/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine) for Russia’s use in Ukraine. Separately, President Vladimir Putin said he may cut oil output in response to the West’s “stupid” [price cap](https://te.arielherself.xyz/finance-and-economics/2022/11/30/how-the-wests-price-cap-on-russian-oil-could-roil-energy-markets) on Russian oil exports.
+<strong>America </strong>warned that <strong>Iran</strong> and <strong>Russia</strong> are entering a “full-fledged defence partnership” that may include the joint production of drones. Russia will provide fighter jets to Iran and is training its pilots, said a spokesman for America’s National Security Council. In turn Iran is believed to have sent [armed drones](https://te.arielherself.xyz/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine) for Russia’s use in Ukraine. Separately, President Vladimir Putin said he may cut oil output in response to the West’s “stupid” [price cap](https://te.arielherself.xyz/finance-and-economics/2022/11/30/how-the-wests-price-cap-on-russian-oil-could-roil-energy-markets) on Russian oil exports.
 
-A <strong>Russian</strong> court sentenced <strong>Ilya Yashin</strong>, an opposition politician, to eight and half years in prison for charges of spreading false information to discredit the Russian army. [Mr Yashin](https://te.arielherself.xyz/europe/2022/12/08/in-moscow-all-dissent-is-muzzled) is the most high-profile Russian dissident who has been jailed for opposing the invasion of Ukraine. He chose not to leave Russia and said in court this week that he “must speak the truth loudly”.
+<strong>Kyrsten Sinema</strong>, a senator from Arizona, said she would leave the <strong>Democratic Party</strong> and become an independent, just days after the Democrats won an expanded majority of 51-49 in the Senate. The Democrats will still hold a majority without her, because America’s vice-president, Kamala Harris, gets a deciding vote. [Ms Sinema](https://te.arielherself.xyz/united-states/2021/06/12/kyrsten-sinemas-technicolour-moderation) wrote that she had “never fit perfectly in either national party” in part because of “extreme” voices driving them towards their fringes.
 
-Arizona’s senator <strong>Kyrsten Sinema</strong> said she would leave the <strong>Democratic Party</strong> and become an independent, just days after the Democrats won an expanded majority of 51-49 in the Senate. The Democrats will still hold a majority without her, because America’s vice-president, Kamala Harris, gets a deciding vote. [Ms Sinema](https://te.arielherself.xyz/united-states/2021/06/12/kyrsten-sinemas-technicolour-moderation) wrote that she had “never fit perfectly in either national party” in part because of “extreme” voices driving them towards the parties’ fringes.
+<strong>Jimmy Lai</strong>, a <strong>Hong Kong</strong> newspaper tycoon and prominent critic of China, was sentenced to five years and nine months in prison for fraud. Mr Lai, who is already locked up for other charges, was convicted for violating a lease contract for the headquarters of Apple Daily, an influential pro-democracy newspaper he ran. It shut after a police raid in 2021 as [China crushed Hong Kong’s democracy movement](https://te.arielherself.xyz/interactive/essay/p/07/01/how-hong-kong-became-a-police-state).
 
-<strong>Markus Dohle</strong>, chief executive of <strong>Penguin Random House</strong>, the world’s biggest book publisher, resigned after a deal to buy Simon &amp; Schuster, a rival, collapsed in October. American judges blocked the planned $2.2bn merger on the grounds that it could damage competition in the publishing industry. The [failed deal](https://te.arielherself.xyz/business/2020/11/26/bertelsmann-snaps-up-simon-and-schuster) cost the publisher $200m in termination fees.
+<strong>Peru </strong>complained that <strong>Mexico </strong>is interfering in its politics by criticising the treatment of its former president, Pedro Castillo. He has been under arrest since Wednesday, when he was [impeached](https://te.arielherself.xyz/the-americas/2022/12/07/after-a-bungled-coup-attempt-perus-president-falls) for trying to block a vote of no-confidence. [Mexico’s president](https://te.arielherself.xyz/the-americas/2022/05/05/mexicos-president-takes-on-the-electoral-system), a fellow leftist, said Mr Castillo had been on his way to the Mexican embassy to receive asylum when he was arrested.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Britain’s</strong> government announced plans to “cut red tape” from <strong>financial regulation</strong> to “turbocharge growth”. The finance ministry’s package of 30 planned reforms will review “burdensome” EU rules, as well as some that were introduced after the financial crisis—including one that requires banks and insurers to keep track of staff responsible for specific activities, making it easier for regulators to punish offenders if things go wrong.
+At least 28 <strong>oil tankers </strong>have been halted in Turkish waters, forming a queue that waits to make its way from the Black Sea to the Mediterranean—and threatens to gum up [European markets](https://te.arielherself.xyz/finance-and-economics/2022/10/30/europes-energy-crisis-is-very-far-from-over). <strong>Turkey </strong>has imposed a new routine for checking the ships’ insurance papers before they reach the Dardanelles; insurers have balked, worrying that any violation of the [price cap](https://te.arielherself.xyz/finance-and-economics/2022/11/30/how-the-wests-price-cap-on-russian-oil-could-roil-energy-markets) on Russian oil would expose them to sanctions.
 
-America imposed sanctions against two <strong>Chinese </strong>citizens and their network of ten companies over alleged [<strong>illegal fishing</strong>](https://te.arielherself.xyz/international/2022/12/08/chinas-deep-water-fishing-fleet-is-the-worlds-most-rapacious) and human-rights abuses. Two particular companies are accused of illegally finning and shipping endangered shark species and mistreating workers. The designation marks the first time sanctions have been imposed on a company listed on the NASDAQ, an American stock exchange. 
+America imposed sanctions against two <strong>Chinese </strong>citizens and their network of ten companies over alleged<strong> illegal fishing</strong> and human-rights abuses. Two particular companies are accused of illegally finning and shipping [endangered shark species](https://te.arielherself.xyz/international/2022/12/08/chinas-deep-water-fishing-fleet-is-the-worlds-most-rapacious) and mistreating workers. The designation marks the first time sanctions have been imposed on a company listed on the Nasdaq, an American stock exchange.
 
-<strong>Football World Cup:</strong> Penalty shoot-outs saw <strong>Brazil</strong>, the tournament favourites, lose to underdogs <strong>Croatia</strong> and the <strong>Netherlands</strong> lose to <strong>Argentina</strong>. Brazil’s elimination was the latest in a series of surprise results in Qatar, which has [had more upsets](https://te.arielherself.xyz/graphic-detail/2022/12/09/qatars-world-cup-has-seen-the-biggest-upsets-in-recent-history) than any World Cup since 2002. Croatia, a country of around 4m people, reached the semi-finals for a second consecutive tournament.
+<strong>Football World Cup:</strong> Penalty shoot-outs saw <strong>Brazil</strong>, the tournament favourites, lose to underdogs <strong>Croatia</strong> and <strong>the Netherlands</strong> lose to <strong>Argentina</strong>. Brazil’s elimination was the latest in a [series of upsets](https://te.arielherself.xyz/graphic-detail/2022/12/09/qatars-world-cup-has-seen-the-biggest-upsets-in-recent-history) in Qatar. Meanwhile fans paid tribute to Grant Wahl, an American sports journalist who wrote about the treatment of migrant workers in Qatar. Mr Wahl died after collapsing during the Argentina-Netherlands game on Friday.
 
-<strong>Fact of the day: </strong>3.6m, the tonnes of carbon emissions generated by the football World Cup in Qatar by official estimates. [Read the full story](https://te.arielherself.xyz/graphic-detail/2022/12/01/qatars-world-cup-will-emit-more-co2-than-any-recent-sporting-event).
+<strong>Word of the week:</strong> Reichsbürger, a German far-right extremist group that rejects the legitimacy of the federal republic in favour of the German Reich of 1871. [Read the full story here](https://te.arielherself.xyz/europe/2022/12/07/german-police-arrest-two-dozen-alleged-conspirators-in-a-hare-brained-plot-to-overthrow-the-government).
 
 ----------
 
-## China unleashes its population, and inflation
+## Russia’s quixotic campaign for Bakhmut
 
-China’s draconian[ zero-covid policy](https://te.arielherself.xyz/china/2022/12/06/china-is-dismantling-its-zero-covid-machine), which relied on mass testing and lockdowns to quash outbreaks of the virus, had many economic side-effects. It depressed consumer confidence, disrupted supply chains and paralysed business travel. But it also kept a lid on inflation. While central banks elsewhere have been fighting hard against advancing prices, China has been a non-combat zone of price stability. Figures released on Friday showed that China’s inflation fell to just 1.6% in November, compared with a year earlier.
+Bakhmut, in Donetsk province, has become the unlikely crux of the war in Ukraine. Russia is throwing most of its remaining offensive power at the small town, beyond which lie the bigger cities of Slovyansk and Kramatorsk. Yet the campaign is [largely pointless](https://te.arielherself.xyz/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut): even if Russia were to succeed, it lacks the manpower to breach farther into Ukrainian territory. 
 
-But now that the government is[ haphazardly abandoning](https://te.arielherself.xyz/leaders/2022/12/07/china-is-loosening-its-covid-restrictions-at-great-risk) its zero-covid approach, will inflationary pressure pick up? A scary “exit wave” of covid infections may keep confidence, spending and prices in check over the next few months. After that, however, China’s economy could boom again, driving up prices both at home and further afield. In[ rejoining the global economy](https://te.arielherself.xyz/podcasts/2022/12/07/what-happens-when-china-reopens), China may also join, and prolong, the global battle against inflation.
+The battle has turned into a test for [Yevgeny Prigozhin](https://te.arielherself.xyz/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), the ambitious founder of the Wagner Group, a firm of private mercenaries. Mr Prigozhin wants to show Vladimir Putin, Russia’s president, that the well-equipped Wagner forces can succeed where the regular army has failed. In recent days Russia has captured some villages to Bakhmut’s south. But the quixotic effort has come at eye-watering cost, with heavy casualties on both sides. On Thursday Ukraine said it had killed 340 Russian troops in the previous 24 hours alone, bringing the total claimed tally to 93,000 Russian deaths in nine months of war. 
 
-## Russia’s struggles in its own backyard
+## Giorgia Meloni’s cash battle
 
-On Friday the capital of Kyrgyzstan, Bishkek, hosts a leaders’ summit of the Eurasian Economic Union. The group consists of five ex-Soviet states—Armenia, Belarus, Kazakhstan, Kyrgyzstan and Russia—and aims to develop a single market like that of the European Union. The bloc’s economic achievements are modest. It has signed some free trade deals with countries such as Iran and Vietnam, though a long-awaited deal with India is yet to come to fruition.
+Italy’s new right-wing prime minister, Giorgia Meloni, is heading for a row with the European Union over the mundane matter of cash. Brussels has long urged Italian governments to lower the permitted ceiling for cash transactions, to encourage digital payments and to reduce tax evasion. Yet Ms Meloni’s draft budget for 2023 proposes to raise the ceiling from €1,000 ($1,056) to €5,000, and to scrap fines for retailers that decline card payments for transactions below €60.
 
-But the EEU’s real purpose is to serve as a vehicle for Russia to lord its influence over former Soviet territories. On this front Russia faces several challenges. Its war in Ukraine [spooked](https://te.arielherself.xyz/asia/2022/10/20/central-asian-countries-are-subtly-distancing-themselves-from-russia) leaders in Central Asia who fear that the Kremlin’s aggression may yet turn eastwards. Moreover, China’s [economic influence](https://te.arielherself.xyz/asia/2022/09/06/two-new-railway-lines-could-transform-central-asia) in the region is growing. None of the bloc’s members [could afford](https://te.arielherself.xyz/asia/2022/06/23/central-asian-governments-fret-over-shrinking-remittances-from-russia) to disentangle themselves from Russia entirely, yet the winds of change are blowing in Eurasia. And not in the direction the Kremlin would like.
+Ms Meloni says she wants to help traders who are disadvantaged by a low cash ceiling or by having to pay commissions to credit-card providers. She rejects claims that more use of cash just facilitates tax evasion. But critics, including Italy’s central bank, insist that a higher ceiling will merely boost Italy’s already large black economy. Italians use credit and debit cards less than most other EU nationals. Ms Meloni’s new encouragement for cash augurs ill for her commitment to [broader liberalising reforms](https://te.arielherself.xyz/special-report/2022/12/05/italys-new-government-needs-to-make-deep-economic-reforms). 
 
-## Saudi Arabia cosies up to China
+## Applying AI to detect pneumonia
 
-When Xi Jinping leaves Saudi Arabia on Friday, he will have signed a stack of economic agreements and sent a none-too-subtle message to Joe Biden. The Chinese president met Saudi leaders, including the crown prince, Muhammad bin Salman, on his very first day in Riyadh on Wednesday. On Friday he will attend two summits, one with Gulf states, the other with a wider group of Middle Eastern countries. These are the largest-ever such gatherings between Chinese and Arab leaders.
+Of all of the preventable diseases, pneumonia is responsible for some of the most shameful statistics. It kills thousands of children a day, most of them in poor countries, for want of timely diagnosis and treatment. And with life-saving kit like X-ray machines in short supply, alternative diagnostics are sorely needed. One potential alternative was reported on Monday at the 183rd meeting of the Acoustical Society of America: artificial intelligence (AI) that can [tell whether someone has pneumonia](https://te.arielherself.xyz/films/2022/02/15/the-future-of-medical-ai) from the sound of their coughing.
 
-The meetings underscore a [growing relationship](https://te.arielherself.xyz/middle-east-and-africa/2022/12/07/the-gulf-looks-to-china). China imports most of its oil from Arab states. It has signed $223bn-worth of investment deals and contracts with countries in the region since 2005. Increasingly, it is also a supplier of surveillance kit and military gear. Mr Biden has urged Arab states, particularly those in the Gulf, to keep some distance from China. After a decade of often-tense relations with America, though, they do not seem keen to listen.
+The AI algorithm “listens” to coughs and conducts acoustical analysis of the sound waves, diagnosing pneumonia with 97.5% accuracy. Its developers taught the algorithm to work in any room, with various levels of background noise. This is crucial because it means the tool can be used in people’s homes; one firm already has plans to develop such an application. The next time you are asked to “turn your head and cough”, it may be by an algorithm.
 
-## Britain thinks inflation has passed its peak
+## Brendan Fraser resurfaces in “The Whale”
 
-Interest-rate setters at the Bank of England play a big role in[ Britain’s economic health](https://te.arielherself.xyz/britain/2022/11/24/britains-economic-outlook-is-very-gloomy). The higher expectations of inflation drift, the more aggressively they will fight. On Friday the bank published the results of a survey of the public that shine light on its progress. In August, respondents expected annualised inflation to loiter around 3.1% in five years’ time. The latest poll, conducted in November, showed a rise to 3.3%.
+Next year’s Oscar nominations aren’t announced until January 24th, but it would be surprising if Brendan Fraser is not on the Best Actor shortlist. Once an A-list star whose credits include “The Mummy” and “Crash”, Mr Fraser drifted away from Hollywood lead roles and into depression. His new film, released in America on December 9th, is quite a comeback.
 
-The data will bolster the case to continue with punchy rate increases. Pantheon Macroeconomics, a forecaster, expects that annual inflation[ peaked](https://te.arielherself.xyz/graphic-detail/2022/08/17/british-inflation-hits-double-digits) in October at 11.1%, as shipping costs slump and food-price rises slow. Moreover, a separate survey in the same month showed business expectations of inflation in three years’ time falling to 4%, down from their highest level of 4.8%. Both figures are still well above the official target of 2%—but they seem to be moving in the right direction.
+A melodramatic chamber piece directed by Darren Aronofsky (“The Wrestler”, “[Mother!](https://te.arielherself.xyz/prospero/2017/09/18/mother-is-a-startling-scrambling-of-the-horror-film-genre)”), “The Whale” features Mr Fraser as a morbidly obese English teacher who is desperate to reconcile with his estranged 17-year-old daughter (Sadie Sink). Some critics have accused it of dehumanising overweight people: Mr Fraser is encased in prosthetic make-up, and Samuel D. Hunter’s screenplay, adapted from his own stage play, is corny and contrived. But Mr Fraser’s soulful performance earned him a six-minute standing ovation when “The Whale” premiered at the Venice Film Festival in September. His return is heartening, even if the film isn’t.
 
-## Best foot forward at the World Cup
+## Weekend profile: Itamar Ben-Gvir, Israel’s likely new national security minister
 
-As the [World Cup](https://te.arielherself.xyz/international/2022/11/17/the-qatar-world-cup-shows-how-football-is-changing) moves from the smorgasbord of the last 16 teams to the refined offering of the quarter-finals on Friday, fans will have more chance to savour the qualities of the best players. Among the contenders for the Golden Ball, which is awarded to the [tournament’s](https://te.arielherself.xyz/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even) best player, is France’s forward Kylian Mbappé. His combination of pace and power evokes memories of Brazil’s Ronaldo. Stopping Mr Mbappe will be a key focus of [England’s quarter-final preparations](https://te.arielherself.xyz/graphic-detail/2022/12/01/the-world-cups-group-stage-bodes-well-for-morocco-and-england).
+At age 19, Itamar Ben-Gvir was Israel’s most toxic political activist. He had been the leader of the youth wing of the far-right, anti-Arab Kach party when the Israeli government designated it a terrorist organisation in 1994. A year later he was tainted by the assassination of Prime Minister Yitzhak Rabin. He had no part in the murder, by a Jewish extremist furious about Rabin’s attempts to compromise with the Palestinians. But weeks earlier Mr Ben-Gvir had vandalised the prime minister’s car and boasted on television that “we got to his car, we’ll get to him too.” 
 
-Another contender is Brazil’s spearhead, Richarlison, who has scored three skilful goals and will aim for more when his team faces Croatia on Friday. Argentina will look to their talismanic star [Lionel Messi](https://te.arielherself.xyz/graphic-detail/2021/08/14/by-the-numbers-lionel-messi-is-european-footballs-best-scorer-ever) to overcome the Netherlands later on the same day. Meanwhile, Portugal have relied not on the [fading Cristiano Ronaldo](https://te.arielherself.xyz/culture/2022/11/17/lionel-messi-and-cristiano-ronaldo-have-forged-modern-football) but on midfielder Bruno Fernandes and 39-year-old defensive stalwart Pepe. To progress on Saturday they will need to find a way past Morocco’s Yassine Bounou, who saved two penalties against Spain.
+Now aged 46, Mr Ben-Gvir will soon be made national security minister in the [incoming government of Binyamin Netanyahu](https://te.arielherself.xyz/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics). He was once considered too dangerous to be conscripted into the army; now he will lead Israel’s police, which previously investigated him for inciting violence. To many, his rehabilitation symbolises the hard-right turn of Israeli politics.
 
-## Daily quiz
+Mr Ben-Gvir’s mission has been to make palatable a movement regarded by nearly all Israelis as beyond the pale. Raised in an affluent suburb near Jerusalem, he moved to a Jewish settlement in the occupied West Bank. He opened a law practice that specialised in representing radical Jews accused of anti-Arab terrorism. He joined another party, Jewish Power, on a platform softened just enough to comply with rules prohibiting political parties from inciting racism. After years of leading groups of thugs in the streets of Jerusalem crying “Death to the Arabs!” he began correcting them to shout “Death to the terrorists!” instead.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7a2b0f13003f090a081f0909153a1f191514151713090e54191517">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+But the rebranding wasn’t enough: in 2020 the party received only 19,000 votes. Its salvation came from Mr Netanyahu, who in his quest for a right-wing majority pressured Jewish Power to merge its candidate list with those of two other far-right parties. The new “Religious Zionism” list, which Mr Ben-Gvir co-leads, won 14 seats at the election in November, making it a critical part of Mr Netanyahu’s coalition.
 
-<strong>Friday: </strong>What is the largest desert in the world?
+Mr Ben-Gvir is trying to project a more moderate image, promising that as security minister “we will make sure law-abiding Arabs are secure as well”. But his election-night message revealed his long-held beliefs: “It’s time for us to return to being the landlords of our country.”
 
-<strong>Thursday: </strong>Which set of Roman biographies was written by Suetonius?
+## Weekly crossword
 
-## The winners of last week’s crossword
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
-Holger Janssen, Hamburg, Germany
+<strong>Cryptic clues</strong>
 
-Hasit Raja, Nairobi, Kenya
+<em>1 down </em>A sour, headless catfish cooked around Lesotho (5, 6)
 
-Richard Lyon, Greenwich, Australia
+<em>1 across</em> Hair as arranged according to religious rules (6)
 
-They all gave the correct answers of [Jiang Zemin](https://te.arielherself.xyz/obituary/2022/11/30/jiang-zemin-oversaw-a-wave-of-economic-change-but-not-much-political-reform), [Japan](https://te.arielherself.xyz/asia/2022/12/01/americas-asian-allies-dislike-its-tech-war-on-china), [game](https://te.arielherself.xyz/business/2022/11/29/microsoft-activision-blizzard-and-the-future-of-gaming) and [never](https://te.arielherself.xyz/britain/2022/12/01/the-elizabethan-era-is-not-yet-at-an-end). Check back tomorrow for this week’s crossword.
+<em>2 across </em>Cassette has hidden benefit (5) 
+
+<em>3 across</em> Shelter is variable in a run-down neighbourhood (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>Home of an odd saga involving cash inside a sofa (5, 6)
+
+<em>1 across</em> What dictates women’s dress in Iran (6)
+
+<em>2 across </em>A type of market that is unusually bloody right now (5) 
+
+<em>3 across</em> Something Britain is often hesitant to grant (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were:  
+  
+<strong>Martin Kocurek</strong>, Bratislava, Slovakia  
+<strong>Sarah Forney</strong>, Pittsburgh, America  
+<strong>Arun K. Gurjale</strong>, Hosur, India 
+
+They all gave the correct answers of Mirage, New York-New York, Luxor, The Twelve Caesars, Sahara. The theme is Las Vegas casinos: The Mirage, New York, New York, Luxor, Caesars Palace and SAHARA.
 
 ----------
 
