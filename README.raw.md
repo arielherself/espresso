@@ -34,11 +34,9 @@ Caroline Ellison, <strong>Alameda Research’s</strong> former chief executive, 
 
 ## Artemis splashdown
 
-On Sunday, if all goes well, a space capsule called Orion, with three human dummies on board—Commanders Moonikin Campos, Helga and Zohar, as well as a Snoopy doll—will splash down in the Pacific Ocean. Orion is all that is left of NASA’s first Artemis mission, part of its programme to return astronauts to the Moon.
+On Sunday a space capsule called Orion, with three human dummies on board—Commanders Moonikin Campos, Helga and Zohar, as well as a Snoopy doll—splashed down into the Pacific Ocean. Orion is all that is left of NASA’s first Artemis mission, part of its programme to return astronauts to the Moon.
 
-If Orion’s re-entry is a success, the next step will be a crewed lunar fly-by
-
-in 2024, followed by a crewed landing in 2025. For comparison, in the gung-ho 1960s, the time between the first uncrewed launch of a Saturn V and Neil Armstrong’s “One small step” was 20 months. Meanwhile, at SpaceX’s launch site in Boca Chica, Texas, preparations continue for the first orbital flight of Starship, a vehicle that should be able to replicate the [Space Launch System](https://www.economist.com/science-and-technology/2022/11/16/the-worlds-most-pointless-rocket-has-been-launched-at-last) on which Orion was carried into space, but at a tiny fraction of the cost.
+Following Orion’s successful re-entry, the next step will be a crewed lunar fly-by in 2024, followed by a crewed landing in 2025. For comparison, in the gung-ho 1960s, the time between the first uncrewed launch of a Saturn V and Neil Armstrong’s “One small step” was 20 months. Meanwhile, at SpaceX’s launch site in Boca Chica, Texas, preparations continue for the first orbital flight of Starship, a vehicle that should be able to replicate the [Space Launch System](https://www.economist.com/science-and-technology/2022/11/16/the-worlds-most-pointless-rocket-has-been-launched-at-last) on which Orion was carried into space, but at a tiny fraction of the cost.
 
 ## There’s a new mayor in Tinseltown
 
