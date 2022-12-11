@@ -22,7 +22,7 @@ One of the <strong>European Parliament’s </strong>14 elected vice-presidents w
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Tens of thousands of <strong>Bangaldeshis </strong>marched in Dhaka, the capital, calling for the resignation of Sheikh Hasina, the prime minister, and for early elections. The demonstrations were organised by the opposition Bangladesh Nationalist Party, which says the [government](https://te.arielherself.xyz/asia/2022/10/13/bangladesh-ramps-up-its-persecution-of-muhammad-yunus) has failed to tackle high fuel prices. Mrs Hasina called opposition leaders “arson terrorists”. The next elections are due in 2023.
+Several main roads in northern <strong>Kosovo </strong>that lead to border crossings with <strong>Serbia </strong>were blocked by protesters for a second day. [Albin Kurti](https://te.arielherself.xyz/europe/2020/02/13/albin-kurtis-new-start-in-kosovo), Kosovo’s prime minister, has asked NATO’s peacekeeping force in the region to help remove the barricades. The two countries are holding talks in Brussels amid the latest wave of violence in northern Kosovo.
 
 <strong>Amgen</strong>, an American biotech company, is reportedly in talks to buy <strong>Horizon Therapeutics</strong>, according to media reports. The deal would give <strong>Amgen </strong>access to Horizon’s roster of drugs for autoimmune and inflammatory diseases. It would represent one of the biggest transactions in the pharmaceutical industry this year. 
 
