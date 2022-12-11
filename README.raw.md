@@ -32,29 +32,33 @@ Caroline Ellison, <strong>Alameda Research’s</strong> former chief executive, 
 
 ----------
 
-## Russia’s quixotic campaign for Bakhmut
+## Artemis splashdown
 
-Bakhmut, in Donetsk province, has become the unlikely crux of the war in Ukraine. Russia is throwing most of its remaining offensive power at the small town, beyond which lie the bigger cities of Slovyansk and Kramatorsk. Yet the campaign is [largely pointless](https://www.economist.com/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut): even if Russia were to succeed, it lacks the manpower to breach farther into Ukrainian territory. 
+On Sunday, if all goes well, a space capsule called Orion, with three human dummies on board—Commanders Moonikin Campos, Helga and Zohar, as well as a Snoopy doll—will splash down in the Pacific Ocean. Orion is all that is left of NASA’s first Artemis mission, part of its programme to return astronauts to the Moon.
 
-The battle has turned into a test for [Yevgeny Prigozhin](https://www.economist.com/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), the ambitious founder of the Wagner Group, a firm of private mercenaries. Mr Prigozhin wants to show Vladimir Putin, Russia’s president, that the well-equipped Wagner forces can succeed where the regular army has failed. In recent days Russia has captured some villages to Bakhmut’s south. But the quixotic effort has come at eye-watering cost, with heavy casualties on both sides. On Thursday Ukraine said it had killed 340 Russian troops in the previous 24 hours alone, bringing the total claimed tally to 93,000 Russian deaths in nine months of war. 
+If Orion’s re-entry is a success, the next step will be a crewed lunar fly-by
 
-## Giorgia Meloni’s cash battle
+in 2024, followed by a crewed landing in 2025. For comparison, in the gung-ho 1960s, the time between the first uncrewed launch of a Saturn V and Neil Armstrong’s “One small step” was 20 months. Meanwhile, at SpaceX’s launch site in Boca Chica, Texas, preparations continue for the first orbital flight of Starship, a vehicle that should be able to replicate the [Space Launch System](https://www.economist.com/science-and-technology/2022/11/16/the-worlds-most-pointless-rocket-has-been-launched-at-last) on which Orion was carried into space, but at a tiny fraction of the cost.
 
-Italy’s new right-wing prime minister, Giorgia Meloni, is heading for a row with the European Union over the mundane matter of cash. Brussels has long urged Italian governments to lower the permitted ceiling for cash transactions, to encourage digital payments and to reduce tax evasion. Yet Ms Meloni’s draft budget for 2023 proposes to raise the ceiling from €1,000 ($1,056) to €5,000, and to scrap fines for retailers that decline card payments for transactions below €60.
+## There’s a new mayor in Tinseltown
 
-Ms Meloni says she wants to help traders who are disadvantaged by a low cash ceiling or by having to pay commissions to credit-card providers. She rejects claims that more use of cash just facilitates tax evasion. But critics, including Italy’s central bank, insist that a higher ceiling will merely boost Italy’s already large black economy. Italians use credit and debit cards less than most other EU nationals. Ms Meloni’s new encouragement for cash augurs ill for her commitment to [broader liberalising reforms](https://www.economist.com/special-report/2022/12/05/italys-new-government-needs-to-make-deep-economic-reforms). 
+In November Karen Bass became the first woman to be elected mayor of Los Angeles. On Sunday she will be sworn in. Kamala Harris, a fellow Angeleno and the first female vice-president, will administer the oath of office. It is a show of solidarity among two California politicians who once competed for the same job: both were shortlisted to become President Joe Biden’s veep.
 
-## Applying AI to detect pneumonia
+Ms Bass is no political neophyte. She spent five years in the state legislature and more than ten in the House of Representatives. But running LA is a different kind of challenge. America’s second-biggest city is reeling after [a leaked tape](https://www.economist.com/united-states/2022/10/13/leaked-audio-from-las-city-council-holds-a-warning-for-democrats) exposed the racism of city council members, and voters are frustrated by [worsening homelessness](https://www.economist.com/united-states/2021/08/02/the-pandemic-has-made-homelessness-more-visible-in-many-american-cities). Ms Bass promised to declare a state of emergency to tackle the latter issue. The LA native said she wanted to be mayor to help fix her hometown. Angelenos will hope she succeeds.
 
-Of all of the preventable diseases, pneumonia is responsible for some of the most shameful statistics. It kills thousands of children a day, most of them in poor countries, for want of timely diagnosis and treatment. And with life-saving kit like X-ray machines in short supply, alternative diagnostics are sorely needed. One potential alternative was reported on Monday at the 183rd meeting of the Acoustical Society of America: artificial intelligence (AI) that can [tell whether someone has pneumonia](https://www.economist.com/films/2022/02/15/the-future-of-medical-ai) from the sound of their coughing.
+## TikTok’s growing influence in the music industry
 
-The AI algorithm “listens” to coughs and conducts acoustical analysis of the sound waves, diagnosing pneumonia with 97.5% accuracy. Its developers taught the algorithm to work in any room, with various levels of background noise. This is crucial because it means the tool can be used in people’s homes; one firm already has plans to develop such an application. The next time you are asked to “turn your head and cough”, it may be by an algorithm.
+For a platform dominated by Generation Z, golden oldies do surprisingly well on TikTok. Among the video-sharing app’s most popular songs in America this year, a list of which was released this week, is Kate Bush’s “Running Up That Hill (A Deal with God)”, from 1985. The song owes its resurgence to the Netflix show “Stranger Things”; it provided the soundtrack to over 2.6m TikTok videos this year.
 
-## Brendan Fraser resurfaces in “The Whale”
+It’s not the first time that a vintage tune has resurfaced on the app. In 2020 Fleetwood Mac’s “Dreams” re-entered streaming charts after appearing in a viral video of a man skateboarding to the song while calmly drinking a bottle of cranberry juice. 
 
-Next year’s Oscar nominations aren’t announced until January 24th, but it would be surprising if Brendan Fraser is not on the Best Actor shortlist. Once an A-list star whose credits include “The Mummy” and “Crash”, Mr Fraser drifted away from Hollywood lead roles and into depression. His new film, released in America on December 9th, is quite a comeback.
+TikTok has become integral to how artists promote their music. For fresh faces, gaining popularity on the platform is often a ticket to a record deal. But they face stiff competition from the stars of their parents’ generation.
 
-A melodramatic chamber piece directed by Darren Aronofsky (“The Wrestler”, “[Mother!](https://www.economist.com/prospero/2017/09/18/mother-is-a-startling-scrambling-of-the-horror-film-genre)”), “The Whale” features Mr Fraser as a morbidly obese English teacher who is desperate to reconcile with his estranged 17-year-old daughter (Sadie Sink). Some critics have accused it of dehumanising overweight people: Mr Fraser is encased in prosthetic make-up, and Samuel D. Hunter’s screenplay, adapted from his own stage play, is corny and contrived. But Mr Fraser’s soulful performance earned him a six-minute standing ovation when “The Whale” premiered at the Venice Film Festival in September. His return is heartening, even if the film isn’t.
+## World’s oldest DNA reveals Ice Age ecosystem
+
+DNA samples can reveal much about the lives of ancient animals. But new research published in <em>Nature, </em>a journal, shows how environmental DNA can illuminate whole ecosystems, too. Scientists harvested eDNA from sediment thawed from permafrost in northern Greenland. Unlike genetic material from one animal, eDNA is the microscopic spoor of many different species, including plants and micro-organisms. Scientists, tooled with computing power and libraries of present-day species’ genomes, used it to reconstruct an ecosystem from the Ice Age.
+
+The 2m-year-old ecosystem was home to birch trees, geese, lemmings, reindeer and even mastodons, an extinct elephantine creature. This astonishingly complete snapshot could hold clues about how ecosystems adapt to extreme conditions, as the climate of that epoch resembles that predicted under future warming. The project also expands how far back in time DNA hunting can reach. Not only at the poles, but also in Africa, where the clay may contain genetic material from early man.
 
 ## Weekend profile: Itamar Ben-Gvir, Israel’s likely new national security minister
 
