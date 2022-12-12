@@ -44,17 +44,17 @@ A controversial electoral-reform package, which in mid-November sparked the bigg
 
 Even though Mr López Obrador had to water down his initial constitutional reform (for lack of the necessary two-thirds majority in parliament) he would see any strike at the INE as a win. He has long alleged—against all evidence—that he lost elections in 2006 and 2012 because the body endorsed fraudulent results. But the reform would be a loss for Mexico. The authoritarian rule of the [Institutional Revolutionary Party](https://www.economist.com/the-americas/2017/11/30/jose-antonio-meade-is-the-pris-candidate-for-mexicos-presidency) ended in 2000, after seven decades, thanks to the electoral framework painstakingly built during Mexico’s transition to democracy.
 
-## India’s largest winemaker goes public
-
-India is hardly wine country. In most places intense heat hinders production. Many of the country’s states limit or prohibit the sale of alcohol. And where it is allowed, Indians prefer the harder stuff of whiskey and country liquor. But a growing affluent class is acquiring a [taste for wine](https://www.economist.com/business/2018/12/15/indias-wine-industry-is-growing-in-the-most-delightful-way). Over the next three years, the value of India’s wine sales, currently worth $160m, is expected to grow by 23% annually.
-
-Much of that is down to Sula Vineyards, which launches on Mumbai’s stockmarket, the BSE, at a valuation of $353m on Monday. It established its vineyards in 1999 in Nashik, 160km north-east of Mumbai, and has combined clever marketing, which includes running an annual dance-music festival, with sweeter-than-mainstream wines that cater to local tastes. Other vineyards have followed, but Sula still holds more than half the domestic market. Despite turbulence in financial markets that has caused recent IPOs in India to flop, Sula’s owners are hoping that investors will nonetheless take a swig.
-
 ## Britain’s cranky labour force
 
 Britons weary of the train strikes that have uprooted their routines since June will have no festive respite. The RMT, a trade union representing the country’s transport workers, plans five more work stoppages over the next month. The RMT’s members are unlikely to accept the latest pay offer from their bosses in a ballot that ends on Monday; the union has encouraged them to reject the deal.
 
 Labour unrest is [seeping across Britain](https://www.economist.com/britain/2022/11/03/britain-faces-a-wave-of-industrial-action-this-winter). Nurses will undertake their largest-ever strikes on December 15th and December 20th. Midwives will decide on Monday whether to hold their own walk-out. Some civil servants, some baggage handlers at Heathrow airport and Eurostar security staff also stop work this week. December is on track to become Britain’s most-disrupted month since 1989. [Double-digit inflation](https://www.economist.com/graphic-detail/2022/08/17/british-inflation-hits-double-digits) is largely the culprit as workers battle for larger pay increases to keep pace with the cost of living. The government will convene its emergency committee, Cobra, on Monday to discuss the disruption. But there is little end in sight. 
+
+## India’s largest winemaker goes public
+
+India is hardly wine country. In most places intense heat hinders production. Many of the country’s states limit or prohibit the sale of alcohol. And where it is allowed, Indians prefer the harder stuff of whiskey and country liquor. But a growing affluent class is acquiring a [taste for wine](https://www.economist.com/business/2018/12/15/indias-wine-industry-is-growing-in-the-most-delightful-way). Over the next three years, the value of India’s wine sales, currently worth $160m, is expected to grow by 23% annually.
+
+Much of that is down to Sula Vineyards, which launches on Mumbai’s stockmarket, the BSE, at a valuation of $353m on Monday. It established its vineyards in 1999 in Nashik, 160km north-east of Mumbai, and has combined clever marketing, which includes running an annual dance-music festival, with sweeter-than-mainstream wines that cater to local tastes. Other vineyards have followed, but Sula still holds more than half the domestic market. Despite turbulence in financial markets that has caused recent IPOs in India to flop, Sula’s owners are hoping that investors will nonetheless take a swig.
 
 ## Homage to an age-old tale
 
@@ -64,7 +64,7 @@ The film’s best-known song declares the story to be a “Tale As Old As Time�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4d1c382437083e3d3f283e3e220d282e22232220243e39632e2220">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday:</strong> Which Alexandre Dumas story focuses on the wrongly imprisoned Edmond Dantès?
 
