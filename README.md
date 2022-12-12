@@ -12,99 +12,61 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukrainian forces</strong> struck the occupied city of <strong>Melitopol</strong> in the south-east with a missile barrage. Ukraine also reported that <strong>Russian drone</strong> attacks had severed power from all but the most critical infrastructure in the southern port city of <strong>Odessa</strong>. Both sides [need more arms](https://te.arielherself.xyz/europe/2022/11/30/what-is-the-war-in-ukraine-teaching-western-armies). Ukraine’s ambassador in Berlin told <em>Welt am Sonntag</em>, a newspaper, that Germany would send more ammunition and weaponry. Meanwhile, Russia’s former president, Dmitry Medvedev, said that his country was increasing arms production to protect itself from “enemies” in the West.
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, held talks with the leaders of America, France and Turkey amid heavy fighting in his country’s east. Mr Zelensky promised “important results” from several international meetings planned in the coming week. Meanwhile Ukraine claimed to have struck a headquarters of [Wagner](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a Russian mercenary outfit. Russian forces bombarded the southern port city of Odessa, leaving some 1.5m people without power.
 
-<strong>NASA’s Orion </strong>[spacecraft](https://te.arielherself.xyz/science-and-technology/2022/08/24/nasas-space-launch-system-is-yesterdays-rocket) returned safely to Earth, concluding the [26-day Artemis I mission](https://te.arielherself.xyz/science-and-technology/2022/11/16/the-worlds-most-pointless-rocket-has-been-launched-at-last) to orbit the moon. The unmanned capsule re-entered the atmosphere at 40,000 kph before making a gentle, parachute-assisted splash in the Pacific Ocean. Future missions are expected to carry astronauts, as the American space agency seeks to put humans back on the surface of the moon.
+Scientists in America reportedly achieved a “net energy gain” from <strong>nuclear fusion</strong>. [Fusion reactions](https://te.arielherself.xyz/the-economist-explains/2022/02/09/what-is-nuclear-fusion), including those that fire the sun, can generate huge amounts of energy without emitting either carbon or long-lasting radioactive waste. Until now, artificial fusion reactions have consumed more energy than they produced. America’s energy department said it would provide more details of the “major scientific breakthrough” on Tuesday.
 
-The FBI arrested <strong>Abu Agila Masud</strong>, a Libyan man accused of making the bomb that blew up a Pan-Am flight over the Scottish town of Lockerbie in 1988. The terror attack killed 270 people. Mr Masud, who was charged for alleged involvement two years ago, was reportedly kidnapped by a militia group in Libya last month and will now be extradited to America where he will face prosecution.
+<strong>China </strong>said it will abolish its <strong>mobile covid-tracking service </strong>as it continues to [dismantle its zero-covid machine](https://te.arielherself.xyz/china/2022/12/06/china-is-dismantling-its-zero-covid-machine). The “itinerary card” app was used to monitor and regulate people’s travel. Official reported cases have dropped significantly, apparently because mass-testing has been rolled back. Health experts and media reports suggest that covid is spreading rapidly, especially in Beijing, where long queues have formed at hospitals.
 
-One of the <strong>European Parliament’s </strong>14 elected vice-presidents was arrested by Belgian police on suspicion of having taken <strong>bribes </strong>from an unnamed country. Eva Kaili, a member of Greece’s centre-left coalition, was expelled by her party after police swept up cash worth about €600,000 ($632,000) in raids around Brussels. Unattributed sources told two Belgian outlets that Ms Kaili had been suborned by Qatar.
+<strong>Peru’s</strong> new president, Dina Boluarte, said she would submit plans to Congress to bring forward elections, following protests demanding her resignation. Demonstrations have rocked Peru since Pedro Castillo, who was president until last week, was arrested after a [bungled coup attempt](https://te.arielherself.xyz/the-americas/2022/12/07/after-a-bungled-coup-attempt-perus-president-falls) on Wednesday. Supporters of Mr Castillo have called Ms Boluarte, who was his vice-president, a “traitor”.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Several main roads in northern <strong>Kosovo </strong>that lead to border crossings with <strong>Serbia </strong>were blocked by protesters for a second day. [Albin Kurti](https://te.arielherself.xyz/europe/2020/02/13/albin-kurtis-new-start-in-kosovo), Kosovo’s prime minister, has asked NATO’s peacekeeping force in the region to help remove the barricades. The two countries are holding talks in Brussels amid the latest wave of violence in northern Kosovo.
+<strong>Iran </strong>executed a young man on Monday for his role in ongoing [anti-government protests](https://te.arielherself.xyz/graphic-detail/2022/12/08/protest-movements-as-deadly-as-irans-often-end-in-revolution-or-civil-war), having executed another on Thursday. Majid Reza Rahnavard was hanged after being accused of “waging war against God” and killing two members of the country’s security forces. According to a human-rights group, 488 protesters have been killed, as have 62 members of the security forces. 
 
-<strong>Amgen</strong>, an American biotech company, is reportedly in talks to buy <strong>Horizon Therapeutics</strong>, according to media reports. The deal would give <strong>Amgen </strong>access to Horizon’s roster of drugs for autoimmune and inflammatory diseases. It would represent one of the biggest transactions in the pharmaceutical industry this year. 
+<strong>Serbia’s </strong>president, Aleksandar Vucic, gathered his national-security team to discuss unrest in <strong>northern Kosovo</strong>. [Ethnic Serbs](https://te.arielherself.xyz/europe/2018/09/17/plans-for-land-swaps-in-kosovo-and-serbia-run-into-the-ground) living there, outraged by a mandate to replace their Serbian number plates with Kosovo’s, clashed with Kosovar police over the weekend. Mr Vucic said that the deployment of police violated peace agreements. Both sides said they will ask NATO’s local peacekeeping force to intervene.
 
-<strong>Football World Cup:</strong> Football is not coming home to <strong>England</strong> after they were knocked out by <strong>France</strong>, the reigning champions. Meanwhile <strong>Morocco</strong> beat <strong>Portugal</strong> 1-0 to reach the semi-finals, becoming the first African team ever to reach that late stage of the tournament. Portugal’s loss was the latest in a [series of upsets](https://te.arielherself.xyz/graphic-detail/2022/12/09/qatars-world-cup-has-seen-the-biggest-upsets-in-recent-history) in Qatar.
+<strong>Amgen</strong>, an American biotech company, was reported to be on the verge of buying <strong>Horizon Therapeutics</strong>, after a rival, the French firm <strong>Sanofi</strong>, dropped its bid. The deal, valued at about $22bn, would give Amgen access to Horizon’s roster of drugs for autoimmune and inflammatory diseases. It would be one of the biggest transactions in the [pharmaceutical industry](https://te.arielherself.xyz/business/2022/08/10/after-a-covid-fuelled-adrenaline-rush-biotech-is-crashing) this year.
 
-<strong>Word of the week:</strong> <em>Reichsbürger</em>, a German far-right extremist group that rejects the legitimacy of the federal republic in favour of the German Reich of 1871. [Read the full story here](https://te.arielherself.xyz/europe/2022/12/07/german-police-arrest-two-dozen-alleged-conspirators-in-a-hare-brained-plot-to-overthrow-the-government).
+<strong>Fact of the day: </strong>$56bn, the projected value in 2030 of the global market for webtoons, a type of South Korean cartoon. [Read the full story](https://te.arielherself.xyz/asia/2022/12/08/japanese-manga-are-being-eclipsed-by-korean-webtoons).
 
 ----------
 
-## Artemis splashdown
+## The EU’s strenuous series of summits
 
-On Sunday a space capsule called Orion, with three human dummies on board—Commanders Moonikin Campos, Helga and Zohar, as well as a Snoopy doll—splashed down into the Pacific Ocean. Orion is all that is left of NASA’s first Artemis mission, part of its programme to return astronauts to the Moon.
+Ukraine will once again focus the minds of the EU’s 27 foreign ministers as they gather in Brussels on Monday. National leaders will also convene later in the week. The bloc is looking to adopt its ninth sanctions package against Russia, adding nearly 200 individuals and three banks to its blacklist. It also wants to send €18bn ($19bn) in financial aid to Ukraine.
 
-Following Orion’s successful re-entry, the next step will be a crewed lunar fly-by in 2024, followed by a crewed landing in 2025. For comparison, in the gung-ho 1960s, the time between the first uncrewed launch of a Saturn V and Neil Armstrong’s “One small step” was 20 months. Meanwhile, at SpaceX’s launch site in Boca Chica, Texas, preparations continue for the first orbital flight of Starship, a vehicle that should be able to replicate the [Space Launch System](https://te.arielherself.xyz/science-and-technology/2022/11/16/the-worlds-most-pointless-rocket-has-been-launched-at-last) on which Orion was carried into space, but at a tiny fraction of the cost.
+This may prove tricky. Both the sanctions and the aid require the unanimous approval of EU governments. But Hungary and its autocratic prime minister, Viktor Orban, have threatened to veto both dossiers unless Brussels releases [billions of euros in funding ](https://te.arielherself.xyz/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform)earmarked for Hungary (the EU is holding back over concerns around [corruption](https://te.arielherself.xyz/europe/2018/04/05/the-eu-is-tolerating-and-enabling-authoritarian-kleptocracy-in-hungary) and the independence of the judiciary). The week will be spent trying to cajole Mr Orban into a deal, or finding a way to sidestep Hungary, such as by adopting the measures multilaterally. In either case, the summits could quickly turn hot-tempered.
 
-## There’s a new mayor in Tinseltown
+## Mexico’s president goes after the electoral body
 
-In November Karen Bass became the first woman to be elected mayor of Los Angeles. On Sunday she will be sworn in. Kamala Harris, a fellow Angeleno and the first female vice-president, will administer the oath of office. It is a show of solidarity among two California politicians who once competed for the same job: both were shortlisted to become President Joe Biden’s veep.
+A controversial electoral-reform package, which in mid-November sparked the biggest protests since Andrés Manuel López Obrador became [president](https://te.arielherself.xyz/the-americas/2022/11/24/mexicos-president-wants-to-develop-the-poorer-south) in 2018, will this week be debated, and perhaps passed, by Mexico’s Senate. The reform, which the lower house rushed through last week, would undermine Mexico’s electoral authority, INE, cutting its budget and weakening its ability to punish breaches of electoral law. Rules on campaigning and propaganda by public servants would also be loosened.
 
-Ms Bass is no political neophyte. She spent five years in the state legislature and more than ten in the House of Representatives. But running LA is a different kind of challenge. America’s second-biggest city is reeling after [a leaked tape](https://te.arielherself.xyz/united-states/2022/10/13/leaked-audio-from-las-city-council-holds-a-warning-for-democrats) exposed the racism of city council members, and voters are frustrated by [worsening homelessness](https://te.arielherself.xyz/united-states/2021/08/02/the-pandemic-has-made-homelessness-more-visible-in-many-american-cities). Ms Bass promised to declare a state of emergency to tackle the latter issue. The LA native said she wanted to be mayor to help fix her hometown. Angelenos will hope she succeeds.
+Even though Mr López Obrador had to water down his initial constitutional reform (for lack of the necessary two-thirds majority in parliament) he would see any strike at the INE as a win. He has long alleged—against all evidence—that he lost elections in 2006 and 2012 because the body endorsed fraudulent results. But the reform would be a loss for Mexico. The authoritarian rule of the [Institutional Revolutionary Party](https://te.arielherself.xyz/the-americas/2017/11/30/jose-antonio-meade-is-the-pris-candidate-for-mexicos-presidency) ended in 2000, after seven decades, thanks to the electoral framework painstakingly built during Mexico’s transition to democracy.
 
-## TikTok’s growing influence in the music industry
+## India’s largest winemaker goes public
 
-For a platform dominated by Generation Z, golden oldies do surprisingly well on TikTok. Among the video-sharing app’s most popular songs in America this year, a list of which was released this week, is Kate Bush’s “Running Up That Hill (A Deal with God)”, from 1985. The song owes its resurgence to the Netflix show “Stranger Things”; it provided the soundtrack to over 2.6m TikTok videos this year.
+India is hardly wine country. In most places intense heat hinders production. Many of the country’s states limit or prohibit the sale of alcohol. And where it is allowed, Indians prefer the harder stuff of whiskey and country liquor. But a growing affluent class is acquiring a [taste for wine](https://te.arielherself.xyz/business/2018/12/15/indias-wine-industry-is-growing-in-the-most-delightful-way). Over the next three years, the value of India’s wine sales, currently worth $160m, is expected to grow by 23% annually.
 
-It’s not the first time that a vintage tune has resurfaced on the app. In 2020 Fleetwood Mac’s “Dreams” re-entered streaming charts after appearing in a viral video of a man skateboarding to the song while calmly drinking a bottle of cranberry juice. 
+Much of that is down to Sula Vineyards, which launches on Mumbai’s stockmarket, the BSE, at a valuation of $353m on Monday. It established its vineyards in 1999 in Nashik, 160km north-east of Mumbai, and has combined clever marketing, which includes running an annual dance-music festival, with sweeter-than-mainstream wines that cater to local tastes. Other vineyards have followed, but Sula still holds more than half the domestic market. Despite turbulence in financial markets that has caused recent IPOs in India to flop, Sula’s owners are hoping that investors will nonetheless take a swig.
 
-TikTok has become integral to how artists promote their music. For fresh faces, gaining popularity on the platform is often a ticket to a record deal. But they face stiff competition from the stars of their parents’ generation.
+## Britain’s cranky labour force
 
-## World’s oldest DNA reveals Ice Age ecosystem
+Britons weary of the train strikes that have uprooted their routines since June will have no festive respite. The RMT, a trade union representing the country’s transport workers, plans five more work stoppages over the next month. The RMT’s members are unlikely to accept the latest pay offer from their bosses in a ballot that ends on Monday; the union has encouraged them to reject the deal.
 
-DNA samples can reveal much about the lives of ancient animals. But new research published in <em>Nature, </em>a journal, shows how environmental DNA can illuminate whole ecosystems, too. Scientists harvested eDNA from sediment thawed from permafrost in northern Greenland. Unlike genetic material from one animal, eDNA is the microscopic spoor of many different species, including plants and micro-organisms. Scientists, tooled with computing power and libraries of present-day species’ genomes, used it to reconstruct an ecosystem from the Ice Age.
+Labour unrest is [seeping across Britain](https://te.arielherself.xyz/britain/2022/11/03/britain-faces-a-wave-of-industrial-action-this-winter). Nurses will undertake their largest-ever strikes on December 15th and December 20th. Midwives will decide on Monday whether to hold their own walk-out. Some civil servants, some baggage handlers at Heathrow airport and Eurostar security staff also stop work this week. December is on track to become Britain’s most-disrupted month since 1989. [Double-digit inflation](https://te.arielherself.xyz/graphic-detail/2022/08/17/british-inflation-hits-double-digits) is largely the culprit as workers battle for larger pay increases to keep pace with the cost of living. The government will convene its emergency committee, Cobra, on Monday to discuss the disruption. But there is little end in sight. 
 
-The 2m-year-old ecosystem was home to birch trees, geese, lemmings, reindeer and even mastodons, an extinct elephantine creature. This astonishingly complete snapshot could hold clues about how ecosystems adapt to extreme conditions, as the climate of that epoch resembles that predicted under future warming. The project also expands how far back in time DNA hunting can reach. Not only at the poles, but also in Africa, where the clay may contain genetic material from early man.
+## Homage to an age-old tale
 
-## Weekend profile: Itamar Ben-Gvir, Israel’s likely new national security minister
+This week a tribute to “Beauty and the Beast”, Disney’s animated film of 1991, will be shown on ABC and Disney+. It will feature clips from the musical, showing off its sumptuous blend of hand-drawn and digital art, and tunes performed by an all-star cast.
 
-At age 19, Itamar Ben-Gvir was Israel’s most toxic political activist. He had been the leader of the youth wing of the far-right, anti-Arab Kach party when the Israeli government designated it a terrorist organisation in 1994. A year later he was tainted by the assassination of Prime Minister Yitzhak Rabin. He had no part in the murder, by a Jewish extremist furious about Rabin’s attempts to compromise with the Palestinians. But weeks earlier Mr Ben-Gvir had vandalised the prime minister’s car and boasted on television that “we got to his car, we’ll get to him too.” 
+The film’s best-known song declares the story to be a “Tale As Old As Time”. It is indeed [rather old](https://te.arielherself.xyz/culture/2021/12/29/a-new-exhibition-shows-the-visual-debt-disney-owes-to-european-art): a version may have existed in oral form 4,000 years ago. In 1740 Gabrielle-Suzanne de Villeneuve, a French novelist, penned a long account of a reclusive beast and the young woman who falls in love with him. Sixteen years later Jeanne-Marie Leprince de Beaumont turned that work into a short fairy tale. Since then it has been adapted into umpteen films—Disney even released a [live-action remake](https://te.arielherself.xyz/books-and-arts/2019/01/05/disney-goes-back-to-the-future), starring actors, in 2017—as well as operas and plays. Its themes, of prejudice, outward appearances and female independence, have resonated through the ages.
 
-Now aged 46, Mr Ben-Gvir will soon be made national security minister in the [incoming government of Binyamin Netanyahu](https://te.arielherself.xyz/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics). He was once considered too dangerous to be conscripted into the army; now he will lead Israel’s police, which previously investigated him for inciting violence. To many, his rehabilitation symbolises the hard-right turn of Israeli politics.
+## Daily quiz
 
-Mr Ben-Gvir’s mission has been to make palatable a movement regarded by nearly all Israelis as beyond the pale. Raised in an affluent suburb near Jerusalem, he moved to a Jewish settlement in the occupied West Bank. He opened a law practice that specialised in representing radical Jews accused of anti-Arab terrorism. He joined another party, Jewish Power, on a platform softened just enough to comply with rules prohibiting political parties from inciting racism. After years of leading groups of thugs in the streets of Jerusalem crying “Death to the Arabs!” he began correcting them to shout “Death to the terrorists!” instead.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4a1b3f23300f393a382f3939250a2f292524252723393e64292527">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-But the rebranding wasn’t enough: in 2020 the party received only 19,000 votes. Its salvation came from Mr Netanyahu, who in his quest for a right-wing majority pressured Jewish Power to merge its candidate list with those of two other far-right parties. The new “Religious Zionism” list, which Mr Ben-Gvir co-leads, won 14 seats at the election in November, making it a critical part of Mr Netanyahu’s coalition.
-
-Mr Ben-Gvir is trying to project a more moderate image, promising that as security minister “we will make sure law-abiding Arabs are secure as well”. But his election-night message revealed his long-held beliefs: “It’s time for us to return to being the landlords of our country.”
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>A sour, headless catfish cooked around Lesotho (5, 6)
-
-<em>1 across</em> Hair as arranged according to religious rules (6)
-
-<em>2 across </em>Cassette has hidden benefit (5) 
-
-<em>3 across</em> Shelter is variable in a run-down neighbourhood (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>Home of an odd saga involving cash inside a sofa (5, 6)
-
-<em>1 across</em> What dictates women’s dress in Iran (6)
-
-<em>2 across </em>A type of market that is unusually bloody right now (5) 
-
-<em>3 across</em> Something Britain is often hesitant to grant (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were:  
-  
-<strong>Martin Kocurek</strong>, Bratislava, Slovakia  
-<strong>Sarah Forney</strong>, Pittsburgh, America  
-<strong>Arun K. Gurjale</strong>, Hosur, India 
-
-They all gave the correct answers of Mirage, New York-New York, Luxor, The Twelve Caesars, Sahara. The theme is Las Vegas casinos: The Mirage, New York, New York, Luxor, Caesars Palace and SAHARA.
+<strong>Monday:</strong> Which Alexandre Dumas story focuses on the wrongly imprisoned Edmond Dantès?
 
 ----------
 
