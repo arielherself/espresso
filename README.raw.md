@@ -38,7 +38,7 @@ Ukraine will once again focus the minds of the EU’s 27 foreign ministers as th
 
 This may prove tricky. Both the sanctions and the aid require the unanimous approval of EU governments. But Hungary and its autocratic prime minister, Viktor Orban, have threatened to veto both dossiers unless Brussels releases [billions of euros in funding ](https://www.economist.com/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform)earmarked for Hungary (the EU is holding back over concerns around [corruption](https://www.economist.com/europe/2018/04/05/the-eu-is-tolerating-and-enabling-authoritarian-kleptocracy-in-hungary) and the independence of the judiciary). The week will be spent trying to cajole Mr Orban into a deal, or finding a way to sidestep Hungary, such as by adopting the measures multilaterally. In either case, the summits could quickly turn hot-tempered.
 
-## Mexico’s president goes after the electoral body
+## Mexico’s president goes after the electoral institute
 
 A controversial electoral-reform package, which in mid-November sparked the biggest protests since Andrés Manuel López Obrador became [president](https://www.economist.com/the-americas/2022/11/24/mexicos-president-wants-to-develop-the-poorer-south) in 2018, will this week be debated, and perhaps passed, by Mexico’s Senate. The reform, which the lower house rushed through last week, would undermine Mexico’s electoral authority, INE, cutting its budget and weakening its ability to punish breaches of electoral law. Rules on campaigning and propaganda by public servants would also be loosened.
 
@@ -64,7 +64,7 @@ The film’s best-known song declares the story to be a “Tale As Old As Time�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1647637f6c53656664736565795673757978797b7f65623875797b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3a6b4f53407f494a485f4949557a5f595554555753494e14595557">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday:</strong> Which Alexandre Dumas story focuses on the wrongly imprisoned Edmond Dantès?
 
