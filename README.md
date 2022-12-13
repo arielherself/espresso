@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Authorities in the Bahamas arrested <strong>Sam Bankman-Fried</strong>, the former boss of <strong>FTX</strong>, a cryptocurrency exchange, at the request of American prosecutors who have filed unspecified criminal charges against him. Those charges are due to be unveiled on Tuesday; the Bahamas is expected to extradite him in short order. Mr Bankman-Fried presided over the [implosion of FTX](https://te.arielherself.xyz/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars) after it lent customers’ funds to his nominally separate trading firm.
+America’s Securities and Exchange Commission charged <strong>Sam Bankman-Fried</strong>, the former boss of <strong>FTX</strong>, a cryptocurrency exchange, with defrauding investors. Mr Bankman-Fried was arrested on Monday in the Bahamas, where FTX was based, at the request of American prosecutors. More charges are due later on Tuesday and the Bahamas is expected to extradite him to America. Mr Bankman-Fried presided over the [implosion of FTX](https://te.arielherself.xyz/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars) after it lent customers’ funds to his nominally separate trading firm.
 
 Volodymyr Zelensky, <strong>Ukraine’s</strong> president, asked G7 leaders for modern tanks and long-range weapons amid heavy fighting in his [country’s east](https://te.arielherself.xyz/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut). The G7 promised to “meet Ukraine’s urgent requirements”. Separately, <strong>Vladimir Putin</strong>, Russia’s president, cancelled his regular year-end news conference. In the past he has allowed foreign press to pose questions at the event.
 
@@ -34,9 +34,9 @@ The largest [strikes](https://te.arielherself.xyz/britain/2022/11/03/britain-fac
 
 ----------
 
-## Criminal charges for Sam Bankman-Fried
+## Sam Bankman-Fried charged with defrauding investors
 
-On Tuesday Sam Bankman-Fried was to appear before Congress, to answer questions about the [collapse of FTX](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried), the crypto exchange he founded. Instead, after his arrest in the Bahamas, he will learn what criminal charges await him in America when federal prosecutors there unseal their indictment. The Bahamas is expected to extradite him in short order.
+On Tuesday Sam Bankman-Fried was to appear before Congress, to answer questions about the [collapse of FTX](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried), the crypto exchange he founded. Instead, on Monday evening he was arrested in the Bahamas, where FTX is based, at the request of American prosecutors. On Tuesday America’s Securities and Exchange Commission charged him with defrauding investors. More charges are expected. The Bahamas is expected to extradite him in short order.
 
 Prosecutors have been probing whether Mr Bankman-Fried broke the law by loaning FTX customer funds to Alameda Research, his nominally independent trading firm. They have also been investigating whether he manipulated the market for two cryptocurrencies. 
 
@@ -72,7 +72,7 @@ Whoever wins will face the victor of the second semi-final, between France and M
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f4a5819d8eb18784869187879bb491979b9a9b999d8780da979b99">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="59082c30231c2a292b3c2a2a36193c3a36373634302a2d773a3634">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Which Boston Celtics basketball legend won the NBA Most Valuable Player Award in 1984, 1985 and 1986?
 
