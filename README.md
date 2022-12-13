@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-America’s Securities and Exchange Commission charged <strong>Sam Bankman-Fried</strong>, the former boss of <strong>FTX</strong>, a cryptocurrency exchange, with defrauding investors. Mr Bankman-Fried was arrested on Monday in the Bahamas, where FTX was based, at the request of American prosecutors. More charges are due later on Tuesday and the Bahamas is expected to extradite him to America. Mr Bankman-Fried presided over the [implosion of FTX](https://te.arielherself.xyz/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars) after it lent customers’ funds to his nominally separate trading firm.
+Federal prosecutors in New York charged <strong>Sam Bankman-Fried</strong>, the [former boss of FTX](https://te.arielherself.xyz/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars), with eight crimes, including wire fraud and money laundering. Those add to civil charges by America’s Securities and Exchange Commission that Mr Bankman-Fried defrauded investors. Mr Bankman-Fried was arrested on Monday in the Bahamas, where the crypto exchange was based, at the request of American prosecutors.
 
 Volodymyr Zelensky, <strong>Ukraine’s</strong> president, asked G7 leaders for modern tanks and long-range weapons amid heavy fighting in his [country’s east](https://te.arielherself.xyz/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut). The G7 promised to “meet Ukraine’s urgent requirements”. Separately, <strong>Vladimir Putin</strong>, Russia’s president, cancelled his regular year-end news conference. In the past he has allowed foreign press to pose questions at the event.
 
@@ -36,7 +36,7 @@ The largest [strikes](https://te.arielherself.xyz/britain/2022/11/03/britain-fac
 
 ## Sam Bankman-Fried charged with defrauding investors
 
-On Tuesday Sam Bankman-Fried was to appear before Congress, to answer questions about the [collapse of FTX](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried), the crypto exchange he founded. Instead, on Monday evening he was arrested in the Bahamas, where FTX is based, at the request of American prosecutors. On Tuesday America’s Securities and Exchange Commission charged him with defrauding investors. More charges are expected. The Bahamas is expected to extradite him in short order.
+On Tuesday Sam Bankman-Fried was to appear before Congress, to answer questions about the [collapse of FTX](https://te.arielherself.xyz/finance-and-economics/2022/11/09/the-spectacular-fall-of-ftx-and-sam-bankman-fried), the crypto exchange he founded. Instead, on Monday evening he was arrested in the Bahamas, where FTX is based, at the request of American prosecutors. On Tuesday federal prosecutors in New York charged him with eight crimes, including wire fraud and money laundering. Separate civil charges from America’s Securities and Exchange Commission allege that he defrauded investors. The Bahamas is expected to extradite him in short order.
 
 Prosecutors have been probing whether Mr Bankman-Fried broke the law by loaning FTX customer funds to Alameda Research, his nominally independent trading firm. They have also been investigating whether he manipulated the market for two cryptocurrencies. 
 
@@ -48,14 +48,6 @@ Over the past year each brief deceleration in[ inflation in America](https://te.
 
 Stockmarkets rallied on the evidence of disinflation. The weakening in prices is broad-based. The cost<em>s </em>of many consumer goods are falling as supply-chain issues melt away.[ Property prices](https://te.arielherself.xyz/finance-and-economics/2022/10/20/housing-markets-face-a-brutal-squeeze) are also weakening, weighed down by elevated[ interest rates](https://te.arielherself.xyz/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). But pressures are not about to disappear overnight. In the ultra-tight labour market, wages are rising fast. As Russia’s war in Ukraine drags on, oil prices could easily soar again. Relief at the slowdown in inflation remains circumscribed.
 
-## How to rebuild Ukraine, from Paris
-
-Ukraine’s president, Volodymyr Zelensky, and his French counterpart, Emmanuel Macron, are jointly hosting a conference in Paris on Tuesday on aid for Ukraine. Mr Zelensky is appearing by video link, while his prime minister, [Denys Shmyhal](https://te.arielherself.xyz/by-invitation/ukraines-prime-minister-says-reconstruction-planning-must-start-now/21808965), is in the French capital to drum up support for his war-battered country. Mr Shmyhal estimates that the [full-scale reconstruction](https://te.arielherself.xyz/international/2022/11/08/donors-are-already-mulling-a-marshall-plan-for-ukraine) of Ukraine will cost $750bn.
-
-The conference has two parts. An international roundtable is considering how to help Ukraine survive the winter. Mr Macron wants pledges for the supply of generators, medical equipment and other aid. A further bilateral discussion will consider how French firms can help with reconstruction. 
-
-The meeting comes when Mr Macron is keen to show that, despite suggestions [from eastern European allies](https://te.arielherself.xyz/europe/2022/06/14/emmanuel-macron-seeks-to-advertise-his-support-for-ukraine) that he is soft on Russia, France is fully behind Ukraine. According to the Kiel Institute, a German research outfit, of EU countries only Germany has pledged more aid.
-
 ## What African governments want from America
 
 [China’s presence in Africa](https://te.arielherself.xyz/special-report/2022/05/20/the-chinese-african-relationship-is-important-to-both-sides-but-also-unbalanced) is subject to intense scrutiny by the West. [Russian interference](https://te.arielherself.xyz/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east) on the continent worries Western governments, too. But America, one of the worriers, also has clout in the region. The arrival of dozens of African leaders in Washington on Tuesday, for the first US-Africa Leaders Summit since 2014, is testament to its role.
@@ -63,6 +55,14 @@ The meeting comes when Mr Macron is keen to show that, despite suggestions [from
 For many African countries America is an indispensable security ally. Its trade terms also offer preferential access to African exporters. And American humanitarian aid has saved millions of lives. Yet African politicians want more from their relationship with America, especially when their economies are suffering from the pandemic, the war in Ukraine and their own mismanagement. 
 
 Donald Trump saw Africa through the prism of America’s contest with China. But Joe Biden wants to show that he takes the continent’s own agenda seriously. American officials say this summit is about listening to what Africans have to say. But Africans will still want to hear what America has to offer.
+
+## How to rebuild Ukraine, from Paris
+
+Ukraine’s president, Volodymyr Zelensky, and his French counterpart, Emmanuel Macron, are jointly hosting a conference in Paris on Tuesday on aid for Ukraine. Mr Zelensky is appearing by video link, while his prime minister, [Denys Shmyhal](https://te.arielherself.xyz/by-invitation/ukraines-prime-minister-says-reconstruction-planning-must-start-now/21808965), is in the French capital to drum up support for his war-battered country. Mr Shmyhal estimates that the [full-scale reconstruction](https://te.arielherself.xyz/international/2022/11/08/donors-are-already-mulling-a-marshall-plan-for-ukraine) of Ukraine will cost $750bn.
+
+The conference has two parts. An international roundtable is considering how to help Ukraine survive the winter. Mr Macron wants pledges for the supply of generators, medical equipment and other aid. A further bilateral discussion will consider how French firms can help with reconstruction. 
+
+The meeting comes when Mr Macron is keen to show that, despite suggestions [from eastern European allies](https://te.arielherself.xyz/europe/2022/06/14/emmanuel-macron-seeks-to-advertise-his-support-for-ukraine) that he is soft on Russia, France is fully behind Ukraine. According to the Kiel Institute, a German research outfit, of EU countries only Germany has pledged more aid.
 
 ## World Cup semi-finals begin
 
@@ -72,7 +72,7 @@ Whoever wins will face the victor of the second semi-final, between France and M
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e8b99d8192ad9b989a8d9b9b87a88d8b87868785819b9cc68b8785">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="93c2e6fae9d6e0e3e1f6e0e0fcd3f6f0fcfdfcfefae0e7bdf0fcfe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Which Boston Celtics basketball legend won the NBA Most Valuable Player Award in 1984, 1985 and 1986?
 
