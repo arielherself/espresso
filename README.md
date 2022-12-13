@@ -72,7 +72,7 @@ Whoever wins will face the victor of the second semi-final, between France and M
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6534100c1f201615170016160a2500060a0b0a080c16114b060a08">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="98c9edf1e2ddebe8eafdebebf7d8fdfbf7f6f7f5f1ebecb6fbf7f5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Which Boston Celtics basketball legend won the NBA Most Valuable Player Award in 1984, 1985 and 1986?
 
