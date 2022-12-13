@@ -48,14 +48,6 @@ Over the past year each brief deceleration in[ inflation in America](https://te.
 
 Stockmarkets rallied on the evidence of disinflation. The weakening in prices is broad-based. The cost<em>s </em>of many consumer goods are falling as supply-chain issues melt away.[ Property prices](https://te.arielherself.xyz/finance-and-economics/2022/10/20/housing-markets-face-a-brutal-squeeze) are also weakening, weighed down by elevated[ interest rates](https://te.arielherself.xyz/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). But pressures are not about to disappear overnight. In the ultra-tight labour market, wages are rising fast. As Russia’s war in Ukraine drags on, oil prices could easily soar again. Relief at the slowdown in inflation remains circumscribed.
 
-## What African governments want from America
-
-[China’s presence in Africa](https://te.arielherself.xyz/special-report/2022/05/20/the-chinese-african-relationship-is-important-to-both-sides-but-also-unbalanced) is subject to intense scrutiny by the West. [Russian interference](https://te.arielherself.xyz/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east) on the continent worries Western governments, too. But America, one of the worriers, also has clout in the region. The arrival of dozens of African leaders in Washington on Tuesday, for the first US-Africa Leaders Summit since 2014, is testament to its role.
-
-For many African countries America is an indispensable security ally. Its trade terms also offer preferential access to African exporters. And American humanitarian aid has saved millions of lives. Yet African politicians want more from their relationship with America, especially when their economies are suffering from the pandemic, the war in Ukraine and their own mismanagement. 
-
-Donald Trump saw Africa through the prism of America’s contest with China. But Joe Biden wants to show that he takes the continent’s own agenda seriously. American officials say this summit is about listening to what Africans have to say. But Africans will still want to hear what America has to offer.
-
 ## How to rebuild Ukraine, from Paris
 
 Ukraine’s president, Volodymyr Zelensky, and his French counterpart, Emmanuel Macron, are jointly hosting a conference in Paris on Tuesday on aid for Ukraine. Mr Zelensky is appearing by video link, while his prime minister, [Denys Shmyhal](https://te.arielherself.xyz/by-invitation/ukraines-prime-minister-says-reconstruction-planning-must-start-now/21808965), is in the French capital to drum up support for his war-battered country. Mr Shmyhal estimates that the [full-scale reconstruction](https://te.arielherself.xyz/international/2022/11/08/donors-are-already-mulling-a-marshall-plan-for-ukraine) of Ukraine will cost $750bn.
@@ -63,6 +55,14 @@ Ukraine’s president, Volodymyr Zelensky, and his French counterpart, Emmanuel 
 The conference has two parts. An international roundtable is considering how to help Ukraine survive the winter. Mr Macron wants pledges for the supply of generators, medical equipment and other aid. A further bilateral discussion will consider how French firms can help with reconstruction. 
 
 The meeting comes when Mr Macron is keen to show that, despite suggestions [from eastern European allies](https://te.arielherself.xyz/europe/2022/06/14/emmanuel-macron-seeks-to-advertise-his-support-for-ukraine) that he is soft on Russia, France is fully behind Ukraine. According to the Kiel Institute, a German research outfit, of EU countries only Germany has pledged more aid.
+
+## What African governments want from America
+
+[China’s presence in Africa](https://te.arielherself.xyz/special-report/2022/05/20/the-chinese-african-relationship-is-important-to-both-sides-but-also-unbalanced) is subject to intense scrutiny by the West. [Russian interference](https://te.arielherself.xyz/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east) on the continent worries Western governments, too. But America, one of the worriers, also has clout in the region. The arrival of dozens of African leaders in Washington on Tuesday, for the first US-Africa Leaders Summit since 2014, is testament to its role.
+
+For many African countries America is an indispensable security ally. Its trade terms also offer preferential access to African exporters. And American humanitarian aid has saved millions of lives. Yet African politicians want more from their relationship with America, especially when their economies are suffering from the pandemic, the war in Ukraine and their own mismanagement. 
+
+Donald Trump saw Africa through the prism of America’s contest with China. But Joe Biden wants to show that he takes the continent’s own agenda seriously. American officials say this summit is about listening to what Africans have to say. But Africans will still want to hear what America has to offer.
 
 ## World Cup semi-finals begin
 
@@ -72,7 +72,7 @@ Whoever wins will face the victor of the second semi-final, between France and M
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="94c5e1fdeed1e7e4e6f1e7e7fbd4f1f7fbfafbf9fde7e0baf7fbf9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e8b99d8192ad9b989a8d9b9b87a88d8b87868785819b9cc68b8785">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Which Boston Celtics basketball legend won the NBA Most Valuable Player Award in 1984, 1985 and 1986?
 
