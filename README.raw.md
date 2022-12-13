@@ -6,11 +6,13 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-12-12</p>
+# <p align="center">The world in brief 2022-12-13</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
+
+Authorities in the Bahamas arrested <strong>Sam Bankman-Fried</strong>, the former boss of <strong>FTX</strong>, at the request of American prosecutors who have filed unspecified criminal charges against him. Those charges are due to be unveiled on Tuesday; the Bahamas is expected to extradite him in short order. Mr Bankman-Fried presided over the [implosion of FTX](https://www.economist.com/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars), a crypto exchange, after it lent customer funds to his nominally separate trading firm.
 
 Volodymyr Zelensky, <strong>Ukraine’s</strong> president, asked G7 leaders for modern tanks and long-range weapons amid heavy fighting in his [country’s east](https://www.economist.com/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut). The G7 promised to “meet Ukraine’s urgent requirements”. Separately, Vladimir Putin, Russia’s president, cancelled his regular year-end news conference. In the past he has allowed foreign press to pose questions at the event.
 
@@ -18,15 +20,13 @@ The president of the<strong> European Parliament</strong> said there would be �
 
 <strong>Hungary</strong> and other <strong>EU</strong> countries reached a tentative resolution to their protracted [funding disagreement](https://www.economist.com/europe/2022/11/24/the-eu-is-withholding-aid-to-press-hungary-to-reform). The bloc will release €5.8bn ($6.1bn) in pandemic aid to Hungary and reduce the amount it withholds from a separate pot, to €6.3bn (down from €7.5bn), over rule-of-law concerns. In return Hungary will support an aid package for Ukraine worth €18bn and enact 27 governance reforms.
 
-<strong>Indian</strong> and <strong>Chinese </strong>troops sustained “minor injuries” in a clash at the countries’ disputed border in the Himalayas, according to Indian sources. The incident took place Friday in a north-eastern Indian state claimed by Beijing, but was not reported until Monday. Twenty-four soldiers died when the border dispute last [flared up](https://www.economist.com/china/2022/09/22/some-progress-in-the-border-dispute-between-china-and-india) in 2020; relations between the countries remain frosty.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Indian</strong> and <strong>Chinese </strong>troops sustained “minor injuries” in a clash at the countries’ disputed border in the Himalayas, according to Indian sources. The incident took place Friday in a north-eastern Indian state claimed by Beijing, but was not reported until Monday. Twenty-four soldiers died when the border dispute last [flared up](https://www.economist.com/china/2022/09/22/some-progress-in-the-border-dispute-between-china-and-india) in 2020; relations between the countries remain frosty.
 
 In 2021 global public and private <strong>debt</strong> as a share of economic output posted the steepest annual decline in 70 years, to 247% of GDP, according to the <strong>IMF</strong>. Pandemic-induced [bailouts](https://www.economist.com/finance-and-economics/2022/09/25/the-world-enters-a-new-era-bail-outs-for-everyone) saw the debt-to-GDP ratio rise by 29 percentage points in 2020. Amid inflation and the economic rebound it fell by 10 percentage points last year. An IMF official called 2021 a “very unusual year”.
 
 <strong>Peru’s</strong> new president, Dina Boluarte, said she would submit plans to Congress to bring forward elections, following protests demanding her resignation. Demonstrations have rocked Peru since Pedro Castillo, who was president until last week, was arrested after a [bungled coup attempt](https://www.economist.com/the-americas/2022/12/07/after-a-bungled-coup-attempt-perus-president-falls) on Wednesday. Supporters of Mr Castillo have called Ms Boluarte, who was his vice-president, a “traitor”.
-
-<strong>America’s</strong> Supreme Court agreed to hear the Biden administration’s appeal against a lower-court ruling that found its plan to cancel [vast amounts of student debt](https://www.economist.com/united-states/2022/08/25/biden-spends-hundreds-of-billions-on-reducing-student-loan-debt) unlawful. The justices will hear oral arguments in that case and another linked to the policy in February or March, with a ruling expected this summer. The government’s plan could cost taxpayers $400bn, according to the Congressional Budget Office.
 
 <strong>Fact of the day: </strong>$56bn, the projected value in 2030 of the global market for webtoons, a type of South Korean cartoon. [Read the full story](https://www.economist.com/asia/2022/12/08/japanese-manga-are-being-eclipsed-by-korean-webtoons).
 
@@ -64,7 +64,7 @@ The film’s best-known song declares the story to be a “Tale As Old As Time�
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5706223e2d12242725322424381732343839383a3e24237934383a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday:</strong> Which Alexandre Dumas story focuses on the wrongly imprisoned Edmond Dantès?
 
