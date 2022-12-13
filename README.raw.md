@@ -44,9 +44,9 @@ Fraud charges require prosecutors to prove that a defendant knowingly deceived i
 
 ## High hopes for low inflation in America
 
-Over the past year each brief deceleration in [inflation in America](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away) has been followed by a strong rebound in price pressures. Investors and central bankers around the world will scrutinise the latest figures, due on Tuesday, to see whether this dismal pattern may be at an end. Forecasters reckon that the core consumer price index, which excludes food and energy costs, rose by 0.3% in November, its second straight month at that pace.
+Over the past year each brief deceleration in[ inflation in America](https://www.economist.com/finance-and-economics/2022/10/19/why-inflation-refuses-to-go-away) has been followed by a strong rebound in price pressures<em>. </em>The latest figures, published on Tuesday, suggest that this dismal pattern may be at an end, much to the relief of investors and central bankers around the world. The core consumer price index, which excludes food and energy costs, rose by just 0.2% in November, its second straight month at a subdued level. 
 
-If correct, that would be the most subdued two-month run of inflation since 2021. The costs of many consumer goods are falling as supply-chain issues melt away. [Property prices](https://www.economist.com/finance-and-economics/2022/10/20/housing-markets-face-a-brutal-squeeze) are also weakening, weighed down by elevated [interest rates](https://www.economist.com/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). But pressures are not about to disappear. In the ultra-tight labour market, wages are rising fast. As Russia’s war in Ukraine drags on, oil prices could easily soar again. Relief at any slowdown in inflation will be circumscribed.
+Stockmarkets rallied on the evidence of disinflation. The weakening in prices is broad-based. The cost<em>s </em>of many consumer goods are falling as supply-chain issues melt away.[ Property prices](https://www.economist.com/finance-and-economics/2022/10/20/housing-markets-face-a-brutal-squeeze) are also weakening, weighed down by elevated[ interest rates](https://www.economist.com/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done). But pressures are not about to disappear overnight. In the ultra-tight labour market, wages are rising fast. As Russia’s war in Ukraine drags on, oil prices could easily soar again. Relief at the slowdown in inflation remains circumscribed.
 
 ## What African governments want from America
 
@@ -72,7 +72,7 @@ Whoever wins will face the victor of the second semi-final, between France and M
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1a4b6f73605f696a687f6969755a7f797574757773696e34797577">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="94c5e1fdeed1e7e4e6f1e7e7fbd4f1f7fbfafbf9fde7e0baf7fbf9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Which Boston Celtics basketball legend won the NBA Most Valuable Player Award in 1984, 1985 and 1986?
 
