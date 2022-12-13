@@ -26,7 +26,7 @@ The largest [strikes](https://te.arielherself.xyz/britain/2022/11/03/britain-fac
 
 <strong>Ghana </strong>reached an agreement for a $3bn bailout with the <strong>IMF</strong>, pending approval from the latter’s board. The country’s cedi was the world’s worst-performing currency this year and its government debt is projected to exceed the size of its economy. This is the 17th time Ghana has been [forced to ask for help](https://te.arielherself.xyz/leaders/2022/08/11/the-unexpected-lesson-of-ghanas-17th-imf-bail-out) from the IMF.
 
-<strong>Elon Musk</strong> disbanded <strong>Twitter’s </strong>Trust and Safety Council, an independent panel comprising around 100 civil-society groups that advised the social-media firm about handling hate speech, the sexual harassment of children and other thorny matters. Last week three members of the council resigned, complaining that since Mr Musk [took over](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) the company in October, “the safety and wellbeing of Twitter’s users” has been “on the decline”.
+<strong>Football World Cup: </strong>Argentina beat Croatia 3-0 to advance to the final, giving Lionel Messi a shot at taking home the World Cup trophy—a piece of silverware that has so far eluded him. Argentina will play the winner of tomorrow’s match between France and Morocco.
 
 <strong>Fact of the day: </strong>77%, the approval rating of Narendra Modi, India’s prime minister. It may be the highest of any major world leader. [Read the full story](https://te.arielherself.xyz/asia/2022/12/08/narendra-modis-tough-medicine).
 
@@ -72,7 +72,7 @@ Whoever wins will face the victor of the second semi-final, between France and M
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ebba9e8291ae989b998e989884ab8e888485848682989fc5888486">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Which Boston Celtics basketball legend won the NBA Most Valuable Player Award in 1984, 1985 and 1986?
 
