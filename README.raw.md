@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>China </strong>promised second booster jabs to those most vulnerable to <strong>covid-19</strong>, such as the elderly<em>. </em>The government [has abandoned](https://www.economist.com/china/2022/12/13/how-chinese-people-are-dealing-with-the-spread-of-covid-19) its <strong>zero-covid</strong> stance in order to stabilise the economy (and, probably, because of an [unprecedented wave of protests](https://www.economist.com/leaders/2022/12/01/xi-jinpings-zero-covid-policy-has-turned-a-health-crisis-into-a-political-one) against it). The national health commission also said it will no longer track asymptomatic infections. Medical staff in Beijing were ordered to work even if infected. 
 
-<strong>Paytm</strong>, India’s leading [digital-wallet platform](https://www.economist.com/finance-and-economics/2019/06/08/indians-are-switching-to-digital-payments-in-droves), will buy back up to $103m worth of shares in a bid to calm markets. The Softbank-backed company went public in India’s biggest ever stock-market listing in November 2021. But investors felt the loss-making startup was overvalued; its share price has since dropped by three-quarters. Its boss, Vijay Shekhar Sharma, said that “healthy revenues” remained possible.
+<strong>Football World Cup</strong>: France ended [Morocco’s](https://www.economist.com/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity) historic World Cup run, winning 2-0 in the semi-final. France, the defending champion, will play Argentina for the trophy on Sunday.
 
 <strong>Fact of the day: </strong>70%, the share of electricity generation in France produced by nuclear reactors, the highest in the world. [Read the full story](https://www.economist.com/business/2022/12/12/can-the-french-nuclear-industry-avoid-meltdown).
 
@@ -70,7 +70,7 @@ Ms Granholm made a great fuss about that. But the huge amount of energy required
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="49183c20330c3a393b2c3a3a26092c2a26272624203a3d672a2624">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3766425e4d72444745524444587752545859585a5e44431954585a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> What is the name of Mary Poppins’s chimney-sweep friend, famously played by Dick van Dyke in the original movie?
 
