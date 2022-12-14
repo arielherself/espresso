@@ -40,6 +40,12 @@ In part that will reflect the Fed’s confidence that [inflation is easing](http
 
 Second, the Fed has been at pains to insist that it will keep rates elevated for as long as is needed to bring inflation to heel. A slowdown in rate increases does not equate to an easing of monetary policy.
 
+## Better news for Germany’s economy
+
+On Wednesday the Ifo Institute, a think-tank in Munich, published its quarterly economic forecast for Germany. It was less gloomy than the last one, published in September. The institute suggested that an impending recession will be less severe than it had previously expected. The Ifo now forecasts that the German economy will contract by 0.1% in 2023, compared with earlier forecast of a 0.3% decline. In a separate survey conducted in November, Ifo found that business confidence has been buoyed as Germany filled all of its storage facilities for [natural gas](https://te.arielherself.xyz/business/2022/12/01/meet-the-man-who-may-decide-the-fate-of-german-industry), even though no Russian gas has arrived since September, easing panic about soaring energy costs. 
+
+The rate of inflation may have already peaked which should mean that, after a steep fall, households’ real incomes can rise again. Germany’s politicians will hope that increased consumer spending will provide the motor of recovery in the second half of next year. But they cannot be [complacent](https://te.arielherself.xyz/leaders/2022/10/13/europe-is-growing-complacent-about-its-energy-crisis). Energy shortages, and high prices, could return [next winter](https://te.arielherself.xyz/europe/2022/09/29/europes-next-energy-crunch). 
+
 ## A crackdown in Bangladesh
 
 On Wednesday Bangladesh will mark the anniversary of the murder, by a militia controlled by the Pakistani army, of intellectuals just before the end of the war of independence in 1971. The shadow of that [conflict](https://te.arielherself.xyz/1843/2017/03/28/virtual-revenge-is-sweet-in-bangladesh) looms large in Bangladesh. The prime minister, Sheikh Hasina Wajed, whose party, the Awami League, led the independence struggle, faces demands from the opposition for her resignation. She in turn accuses the opposition Bangladesh Nationalist Party of favouring Pakistan. 
@@ -47,12 +53,6 @@ On Wednesday Bangladesh will mark the anniversary of the murder, by a militia co
 The real issues, claims the BNP, are the poor state of the economy and Sheikh Hasina’s authoritarian tendencies. In recent weeks the party has been holding massive protests, capitalising on public anger about slowing economic growth and surging inflation. It regards the conviction and jailing on corruption charges of its leader, [​​Khaleda Zia](https://te.arielherself.xyz/asia/2018/02/08/the-conviction-of-khaleda-zia-hobbles-bangladeshs-opposition), a former prime minister, as political persecution. 
 
 The government has cracked down hard on the protests. Several thousand BNP activists have been arrested, many on charges of inciting violence. Elections are not due until January 2024. There is no sign that tensions will ease before then.
-
-## Better news for Germany’s economy
-
-On Wednesday the Ifo Institute, a think-tank in Munich, published its quarterly economic forecast for Germany. It was less gloomy than the last one, published in September. The institute suggested that an impending recession will be less severe than it had previously expected. The Ifo now forecasts that the German economy will contract by 0.1% in 2023, compared with earlier forecast of a 0.3% decline. In a separate survey conducted in November, Ifo found that business confidence has been buoyed as Germany filled all of its storage facilities for [natural gas](https://te.arielherself.xyz/business/2022/12/01/meet-the-man-who-may-decide-the-fate-of-german-industry), even though no Russian gas has arrived since September, easing panic about soaring energy costs. 
-
-The rate of inflation may have already peaked which should mean that, after a steep fall, households’ real incomes can rise again. Germany’s politicians will hope that increased consumer spending will provide the motor of recovery in the second half of next year. But they cannot be [complacent](https://te.arielherself.xyz/leaders/2022/10/13/europe-is-growing-complacent-about-its-energy-crisis). Energy shortages, and high prices, could return [next winter](https://te.arielherself.xyz/europe/2022/09/29/europes-next-energy-crunch). 
 
 ## Travel operators hope for a happier 2023
 
@@ -70,7 +70,7 @@ Ms Granholm made a great fuss about that. But the huge amount of energy required
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="712004180b340201031402021e3114121e1f1e1c1802055f121e1c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2b7a5e42516e585b594e5858446b4e484445444642585f05484446">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> What is the name of Mary Poppins’s chimney-sweep friend, famously played by Dick van Dyke in the original movie?
 
