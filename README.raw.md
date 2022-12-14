@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The<strong> Federal Reserve</strong> raised its benchmark interest rate by half a percentage point. That follows four consecutive three-quarter-point increases and brings the federal-funds rate to a range between 4.25% and 4.5%, its [highest since 2007](https://www.economist.com/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big). Policymakers’ median forecast is that interest rates will hit 5.1% in 2023, and that GDP will grow by 0.5% next year.
+The<strong> Federal Reserve</strong> raised its benchmark interest rate by half a percentage point. That follows four consecutive three-quarter-point increases and brings the federal-funds rate to a range between 4.25% and 4.5%, its [highest since 2007](https://www.economist.com/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big). Policymakers’ median forecast is that interest rates will hit 5.1% in 2023, and that American GDP will grow by 0.5% next year.
 
 Istanbul’s mayor, <strong>Ekrem Imamoglu</strong>, was sentenced to two years and seven months in prison for insulting the elections authority. The conviction could prevent the [rising star](https://www.economist.com/europe/2019/06/24/the-oppositions-new-star-deals-turkeys-president-a-stinging-blow) of Turkey’s secular opposition party from being reelected as mayor of the country’s largest city. It could also block a possible [challenge](https://www.economist.com/the-world-ahead/2022/11/18/turkeys-centenary-could-mark-the-end-of-the-erdogan-era) to the incumbent Recep Tayyip Erdogan in next year’s presidential election.
 
@@ -70,7 +70,7 @@ Ms Granholm made a great fuss about that. But the huge amount of energy required
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cc9db9a5b689bfbcbea9bfbfa38ca9afa3a2a3a1a5bfb8e2afa3a1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c796b2aebd82b4b7b5a2b4b4a887a2a4a8a9a8aaaeb4b3e9a4a8aa">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> What is the name of Mary Poppins’s chimney-sweep friend, famously played by Dick van Dyke in the original movie?
 
