@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The<strong> Federal Reserve</strong> raised its benchmark interest rate by half a percentage point. That follows four consecutive three-quarter-point increases and brings the federal-funds rate to a range between 4.25% and 4.5%, its [highest since 2007](https://te.arielherself.xyz/leaders/2022/09/14/to-fix-americas-inflation-problem-the-federal-reserve-must-go-big). Jerome Powell, the Fed’s chair, sent hawkish signals. Policymakers’ median forecast is now that interest rates will hit 5.1% in 2023—significantly higher than had been expected—and that American GDP will grow by 0.5% next year.
+<strong>Central banks </strong>in Europe and Britain followed the lead of the [Federal Reserve](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) by raising interest rates by 0.5 percentage points, lower than the previous rises of 0.75. The<strong> Bank of England’s </strong>hike—its ninth consecutive rise—took its rate to 3.5%, the highest level in 14 years. Meanwhile, the <strong>European Central Bank </strong>raised its rate from 1.5% to 2%, the highest since the global financial crisis in 2008. The ECB suggested it expects further rises to come as inflation remains well-above its medium-term 2% target, even if it has reached its peak. Euro-zone inflation was 10% in November, down from 10.6% in October.
 
 <strong>Economic activity</strong> in <strong>China</strong> diminished in November. Retail sales actually fell, by 5.9% year-on-year, while industrial output growth slowed to 2.2% from 5% in the previous month. Both consumer demand and production had been hit hard by the country’s zero-covid policy. That is now [being wound down](https://te.arielherself.xyz/leaders/2022/12/07/china-is-loosening-its-covid-restrictions-at-great-risk), but the resulting surge in covid infections will cause disruptions of its own.
 
@@ -28,7 +28,7 @@ The UN postponed decisions about whether to allow representatives from <strong>A
 
 <strong>Football World Cup: France </strong>ended <strong>Morocco’s</strong> [historic World Cup run](https://te.arielherself.xyz/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity), winning 2-0 in the semi-final. France, the defending champion, will play <strong>Argentina </strong>for the trophy on Sunday.
 
-<strong>Fact of the day:</strong> $8bn, the cost of the fraud that Sam Bankman-Fried is alleged to have committed, according to American authorities. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/12/13/sam-bankman-fried-faces-many-years-in-jail).
+<strong>Fact of the day:</strong> $8bn, the cost of the fraud that Sam Bankman-Fried is alleged to have committed, according to American authorities. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/12/13/the-game-is-up-for-sam-bankman-fried).
 
 ----------
 
@@ -40,9 +40,9 @@ Even with the policy in place, there were a record 2.4m arrests at the border in
 
 ## A doveish turn at the ECB?
 
-A gathering of the European Central Bank’s governing council on Thursday will be its last this year. The bank will present its economic forecasts, decide how much to increase interest rates and explain how it intends to reduce its massive holdings of sovereign debt. 
+The gathering of the European Central Bank’s governing council on Thursday was its last this year. Its battle against inflation was, once again, top of the agenda. The bank matched market expectations by raising interest rates by 0.5 percentage points to 2%. That is the euro zone’s highest rate since the financial crash in 2008, but the hike was smaller than the rises of 0.75 percentage points agreed at the last two meetings. 
 
-The ECB’s battle against [inflation](https://te.arielherself.xyz/the-world-ahead/2022/11/18/the-scourge-of-inflation-means-a-tough-year-ahead-for-europe) is, once again, top of the agenda. America’s inflation figures, published on Tuesday, were lower than expected, leading the Federal Reserve to slow the intensity of its interest-rate rises. Europe is months behind America in its inflation cycle, but last month’s figures suggested that headline inflation in the euro zone may also have started to retreat. That will help the arguments of those sceptical about further steep rate increases. Markets expect a 0.5 percentage point hike. After two consecutive rises of 0.75 percentage points, that would signal that the peak in rates is near. 
+The ECB’s decision follows the Federal Reserve’s [move](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) to slow the intensity of its interest-rate rises—also opting for a hike of 0.5 percentage points—after America’s inflation figures, published on Tuesday, were lower than expected. Europe is months behind America in its inflation cycle, but last month’s figures suggested that headline inflation in the euro zone may also [have started to retreat](https://te.arielherself.xyz/finance-and-economics/2022/12/07/inflation-is-falling-but-not-enough). That will have helped the arguments of those sceptical about further steep rate increases. The news may suggest that the peak in rates is near, but the ECB warned that it still expects further rises to come. 
 
 ## Adobe’s reinvention comes undone
 
@@ -64,7 +64,7 @@ It is [not obvious](https://te.arielherself.xyz/the-economist-explains/2022/12/1
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="401135293a053330322533332f0025232f2e2f2d2933346e232f2d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f3a2869a89b68083819680809cb396909c9d9c9e9a8087dd909c9e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday: </strong>Which lyricist collaborated with Richard Rodgers on the musicals “Oklahoma!” and “South Pacific”?
 
