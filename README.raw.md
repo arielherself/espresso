@@ -32,29 +32,29 @@ The UN postponed decisions about whether to allow representatives from <strong>A
 
 ----------
 
-## A doveish turn at the ECB?
-
-The gathering of the European Central Bank’s governing council on Thursday was its last this year. Its battle against inflation was, once again, top of the agenda. The bank matched market expectations by raising interest rates by 0.5 percentage points to 2%. That is the euro zone’s highest rate since the financial crash in 2008, but the hike was smaller than the rises of 0.75 percentage points agreed at the last two meetings. 
-
-The ECB’s decision follows the Federal Reserve’s [move](https://www.economist.com/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) to slow the intensity of its interest-rate rises—also opting for a hike of 0.5 percentage points—after America’s inflation figures, published on Tuesday, were lower than expected. Europe is months behind America in its inflation cycle, but last month’s figures suggested that headline inflation in the euro zone may also [have started to retreat](https://www.economist.com/finance-and-economics/2022/12/07/inflation-is-falling-but-not-enough). That will have helped the arguments of those sceptical about further steep rate increases. The news may suggest that the peak in rates is near, but the ECB warned that it still expects further rises to come. 
-
-## More trouble for Britain’s National Health Service
-
-With a record 7.2m people in England waiting for treatment, and a third of people in hospitals’ emergency departments waiting over four hours to be seen by a doctor, Britain’s [treasured NHS](https://www.economist.com/britain/2022/09/29/the-national-health-service-faces-a-terrible-winter) is at breaking point. And the problems are mounting. On Thursday 100,000 nurses in England, Wales and Northern Ireland began the first of two planned walkouts after the government refused to agree to their demand for an inflation-busting pay rise of 19%. (A similar strike in Scotland was called off.) It is the first strike in the 106-year history of the Royal College of Nursing, Britain’s main nursing union. Physiotherapists and, in Wales, midwives have also voted to strike. 
-
-Critics say such action risks endangering patients’ lives. Nurses say that chronic understaffing is already doing that. During the pandemic, Britons gathered each week to clap for “NHS heroes”; so far they seem sympathetic to the strikes. That could yet change
-
 ## America’s asylum woes
 
 In March 2020 the Trump administration invoked a rarely used public-health measure to expel migrants at its border with Mexico—including those seeking asylum—in the name of stopping covid-19. After immigrant-rights groups sued, a judge ordered in mid-November that the policy, known as [Title 42](https://www.economist.com/united-states/2022/05/22/the-title-42-furore-highlights-americas-broken-immigration-system), end next week. But 19 Republican-led states appealed against that decision, and sought a ruling by Friday. 
 
 Even with the policy in place, there were a record 2.4m arrests at the border in the year to September. Those who want to keep Title 42 in place say scrapping it will see even more illicit border-crossings, overwhelming America’s already-frazzled asylum system. In recent days thousands of mainly Nicaraguan migrants, exempted from Title 42 because America will not expel them to Mexico or to their repressive home country, have poured into south Texas. Whatever the measure’s fate this week, the episode reveals a broader problem: America’s[ immigration policy](https://www.economist.com/podcasts/2022/05/20/how-to-untangle-the-immigration-mess-in-america) is being set largely by the judiciary.
 
+## A doveish turn at the ECB?
+
+The gathering of the European Central Bank’s governing council on Thursday was its last this year. Its battle against inflation was, once again, top of the agenda. The bank matched market expectations by raising interest rates by 0.5 percentage points to 2%. That is the euro zone’s highest rate since the financial crash in 2008, but the hike was smaller than the rises of 0.75 percentage points agreed at the last two meetings. 
+
+The ECB’s decision follows the Federal Reserve’s [move](https://www.economist.com/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) to slow the intensity of its interest-rate rises—also opting for a hike of 0.5 percentage points—after America’s inflation figures, published on Tuesday, were lower than expected. Europe is months behind America in its inflation cycle, but last month’s figures suggested that headline inflation in the euro zone may also [have started to retreat](https://www.economist.com/finance-and-economics/2022/12/07/inflation-is-falling-but-not-enough). That will have helped the arguments of those sceptical about further steep rate increases. The news may suggest that the peak in rates is near, but the ECB warned that it still expects further rises to come. 
+
 ## Adobe’s reinvention comes undone
 
 On Thursday Adobe, a software company, will report its fourth-quarter results. The firm is best known for inventing the “portable document format” (PDF), and for Photoshop, its image-editing tool. But more recently Adobe has gradually reinvented itself with fresh products, including software for editing websites and videos. That has helped turn it into the world’s third-biggest software company, behind Oracle and Microsoft, worth some $160bn.
 
 But that valuation has slumped in the past year. Like all tech firms, Adobe has been battered by inflation and geopolitical uncertainty. Indeed, it has suffered more than most. In the past 12 months the firm’s share price has dropped by 44%, compared with a fall of 26% for the Nasdaq composite, a tech-heavy index. One explanation is Adobe’s attempt to purchase Figma, a design-software firm, for $20bn. Investors baulked at the proposed price when it was announced in September, sending Adobe’s share price tumbling. They will be watching for any details about the acquisition, expected to be completed in 2023. 
+
+## More trouble for Britain’s National Health Service
+
+With a record 7.2m people in England waiting for treatment, and a third of people in hospitals’ emergency departments waiting over four hours to be seen by a doctor, Britain’s [treasured NHS](https://www.economist.com/britain/2022/09/29/the-national-health-service-faces-a-terrible-winter) is at breaking point. And the problems are mounting. On Thursday 100,000 nurses in England, Wales and Northern Ireland began the first of two planned walkouts after the government refused to agree to their demand for an inflation-busting pay rise of 19%. (A similar strike in Scotland was called off.) It is the first strike in the 106-year history of the Royal College of Nursing, Britain’s main nursing union. Physiotherapists and, in Wales, midwives have also voted to strike. 
+
+Critics say such action risks endangering patients’ lives. Nurses say that chronic understaffing is already doing that. During the pandemic, Britons gathered each week to clap for “NHS heroes”; so far they seem sympathetic to the strikes. That could yet change
 
 ## How to design the World Cup
 
@@ -64,7 +64,7 @@ It is [not obvious](https://www.economist.com/the-economist-explains/2022/12/14/
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="80d1f5e9fac5f3f0f2e5f3f3efc0e5e3efeeefede9f3f4aee3efed">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b0e1c5d9caf5c3c0c2d5c3c3dff0d5d3dfdedfddd9c3c49ed3dfdd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday: </strong>Which lyricist collaborated with Richard Rodgers on the musicals “Oklahoma!” and “South Pacific”?
 
