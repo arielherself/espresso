@@ -18,17 +18,17 @@ Consumers in <strong>America</strong> tightened their belts in November: <strong
 
 <strong>Ukraine’s</strong> president, Volodymyr Zelensky, said that 64 Ukrainian prisoners of war had been freed from Russian captivity in [a prisoner exchange](https://te.arielherself.xyz/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work). An American citizen was also freed in the swap. Ukrainian officials did not say how many Russian prisoners they released in return. Meanwhile, an “unknown drone” struck a Russian airbase in Kursk, near the border with Ukraine, according to the latter country’s officials.
 
-An American accounting regulator said it had scrutinised the books of eight <strong>Chinese firms</strong> listed in New York. The Public Company Accounting Oversight Board said it had found numerous potential deficiencies. Still, the inspection represented a breakthrough: China had long refused to grant it full access to the audit records, until America threatened to [delist some 200 Chinese firms](https://te.arielherself.xyz/finance-and-economics/2021/08/14/how-the-delisting-of-chinese-firms-on-american-exchanges-might-play-out) from its stock exchanges.
+The [<strong>Wagner Group</strong>](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a Russian firm of private mercenaries, is helping <strong>Burkina Faso’s </strong>government fight jihadists, according to Ghana’s president. Nana Akufo-Addo alleged that the Russian group received a mine as payment for deploying soldiers, who operate in at least six other African countries. In the past year alone, [Burkina Faso](https://te.arielherself.xyz/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) has been rocked by two miliary coups and has seen more than 3,100 people killed by jihadist violence.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+An American accounting regulator said it had scrutinised the books of eight <strong>Chinese firms</strong> listed in New York. The Public Company Accounting Oversight Board said it had found numerous potential deficiencies. Still, the inspection represented a breakthrough: China had long refused to grant it full access to the audit records, until America threatened to [delist some 200 Chinese firms](https://te.arielherself.xyz/finance-and-economics/2021/08/14/how-the-delisting-of-chinese-firms-on-american-exchanges-might-play-out) from its stock exchanges.
 
 <strong>Elon Musk</strong> unloaded $3.6bn more of shares in his electric car company, <strong>Tesla</strong>. That brings the total to almost $23bn since Mr Musk announced a [$44bn takeover of Twitter](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last). Tesla’s shares fell by more than 60% this year. Investors are worried that inflation could squeeze demand for the company’s fancy cars—and that its [boss is too distracted](https://te.arielherself.xyz/united-states/2022/12/01/elon-musk-is-showing-what-a-waste-of-time-twitter-can-be) to run the firm.
 
 The UN postponed decisions about whether to allow representatives from <strong>Afghanistan’s </strong>Taliban administration and <strong>Myanmar’s </strong>[military junta](https://te.arielherself.xyz/asia/2022/09/15/an-economically-illiterate-junta-is-running-myanmar-into-the-ground) to represent their countries at the general assembly. The UN’s assent would have been an important step in both regimes’ quests for international recognition. For now the envoys that preceded regime changes in both countries will retain their positions. The UN will revisit the issue in nine months. 
 
-<strong>Football World Cup: France </strong>ended <strong>Morocco’s</strong> [historic World Cup run](https://te.arielherself.xyz/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity), winning 2-0 in the semi-final. France, the defending champion, will play <strong>Argentina </strong>for the trophy on Sunday.
-
-<strong>Fact of the day:</strong> $8bn, the cost of the fraud that Sam Bankman-Fried is alleged to have committed, according to American authorities. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/12/13/the-game-is-up-for-sam-bankman-fried).
+<strong>Fact of the day:</strong> $8bn, the cost of the fraud that Sam Bankman-Fried is alleged to have committed, according to American authorities. [Read the full story](https://te.arielherself.xyz/finance-and-economics/2022/12/13/sam-bankman-fried-faces-many-years-in-jail).
 
 ----------
 
@@ -64,7 +64,7 @@ It is [not obvious](https://te.arielherself.xyz/the-economist-explains/2022/12/1
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3b6a4e52417e484b495e4848547b5e585455545652484f15585456">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f5a4809c8fb08685879086869ab590969a9b9a989c8681db969a98">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday: </strong>Which lyricist collaborated with Richard Rodgers on the musicals “Oklahoma!” and “South Pacific”?
 
