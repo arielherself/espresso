@@ -32,11 +32,11 @@ The <strong>Wagner Group</strong>, a Russian firm of private mercenaries, is hel
 
 ----------
 
-## Beefing up Japan’s defences
+## Sweden inches towards NATO
 
-Japan’s security policy took a leap forward on Friday, when the government released long-awaited [revisions](https://www.economist.com/asia/2022/09/13/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army) to its national security strategy. It codified plans to raise defence spending to 2% of GDP by 2027, up from around 1% today. At current levels, that would make Japan the world’s third-largest defence spender in absolute terms. The government also plans to acquire long-range missiles that would allow it to strike targets in enemy territory. Both moves represent breaks in precedent in a country where pacifism has been dominant since the end of the second world war. 
+On Friday the Riksdag, Sweden’s parliament, will discuss the country’s defence budget. Sweden [applied this year](https://www.economist.com/europe/2022/05/12/sweden-is-following-finlands-lead-on-joining-nato) to join NATO alongside Finland, its Nordic neighbour, following Russia’s attack on Ukraine. Sweden had planned to reach the alliance’s defence-spending target of 2% of GDP by 2028, but may now bring that target forward by two years.
 
-Big questions remain. One is what exactly the new money will be spent on. The other is where it will come from. Yet, strikingly, there has been no major domestic opposition to the government’s proposals. A combination of China’s aggressive posture, North Korea’s increasingly brazen missile programme and Russia’s invasion of Ukraine have convinced the Japanese that they can no longer afford to skimp on security.
+But the pair’s NATO applications have been held up by Hungary and Turkey, two other members of the alliance. On Tuesday, after the EU agreed to let it access billions in aid, Hungary lifted its veto and confirmed its parliament would debate Swedish and Finnish accession in February. Meanwhile, Sweden has been courting Turkey. In September it lifted an informal ban on selling military equipment to the country. And reports emerged this month that Sweden’s government has deported people to Turkey suspected of ties to the [PKK](https://www.economist.com/the-economist-explains/2022/06/28/what-is-the-pkk), a Kurdish rebel group that has long been a thorn in the side of Turkish leaders. It remains unclear if the concessions will do the trick. 
 
 ## The ANC’s big meeting in Johannesburg
 
@@ -44,11 +44,11 @@ When the African National Congress begins its national conference on Friday, the
 
 At the conference the party will choose its leadership to fight that election. Despite a recent [corruption scandal](https://www.economist.com/middle-east-and-africa/2022/06/23/allegations-of-impropriety-weaken-south-africas-president) Cyril Ramaphosa, president of both party and country, is expected to hold on to power. His supporters say that if he can muster enough allies in top party positions, he will finally be able to pursue economic reforms and clean up corruption. Yet that is naive. Not even Nelson Mandela, the ANC’s most famous leader, would be able to renew the party today. It is a machine for patronage, not for progress.
 
-## Sweden inches towards NATO
+## Beefing up Japan’s defences
 
-On Friday the Riksdag, Sweden’s parliament, will discuss the country’s defence budget. Sweden [applied this year](https://www.economist.com/europe/2022/05/12/sweden-is-following-finlands-lead-on-joining-nato) to join NATO alongside Finland, its Nordic neighbour, following Russia’s attack on Ukraine. Sweden had planned to reach the alliance’s defence-spending target of 2% of GDP by 2028, but may now bring that target forward by two years.
+Japan’s security policy took a leap forward on Friday, when the government released long-awaited [revisions](https://www.economist.com/asia/2022/09/13/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army) to its national security strategy. It codified plans to raise defence spending to 2% of GDP by 2027, up from around 1% today. At current levels, that would make Japan the world’s third-largest defence spender in absolute terms. The government also plans to acquire long-range missiles that would allow it to strike targets in enemy territory. Both moves represent breaks in precedent in a country where pacifism has been dominant since the end of the second world war. 
 
-But the pair’s NATO applications have been held up by Hungary and Turkey, two other members of the alliance. On Tuesday, after the EU agreed to let it access billions in aid, Hungary lifted its veto and confirmed its parliament would debate Swedish and Finnish accession in February. Meanwhile, Sweden has been courting Turkey. In September it lifted an informal ban on selling military equipment to the country. And reports emerged this month that Sweden’s government has deported people to Turkey suspected of ties to the [PKK](https://www.economist.com/the-economist-explains/2022/06/28/what-is-the-pkk), a Kurdish rebel group that has long been a thorn in the side of Turkish leaders. It remains unclear if the concessions will do the trick. 
+Big questions remain. One is what exactly the new money will be spent on. The other is where it will come from. Yet, strikingly, there has been no major domestic opposition to the government’s proposals. A combination of China’s aggressive posture, North Korea’s increasingly brazen missile programme and Russia’s invasion of Ukraine have convinced the Japanese that they can no longer afford to skimp on security.
 
 ## Life is still too dangerous for Indian women
 
@@ -66,7 +66,7 @@ The sequel continues the adventures of Jake Sully (played by Sam Worthington), a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7726021e0d32040705120404183712141819181a1e04035914181a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> What hollow snack is often handed out to guests in Chinese restaurants after a meal?
 
