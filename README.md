@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-12-15</p>
+# <p align="center">The world in brief 2022-12-16</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -64,7 +64,7 @@ It is [not obvious](https://te.arielherself.xyz/the-economist-explains/2022/12/1
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0c5d796576497f7c7e697f7f634c696f63626361657f78226f6361">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday: </strong>Which lyricist collaborated with Richard Rodgers on the musicals “Oklahoma!” and “South Pacific”?
 
