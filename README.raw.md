@@ -14,7 +14,7 @@
 
 Russia launched more than 70 missiles on Ukraine in its second mass strike in a matter of days, damaging energy infrastructure in Kyiv, the capital, and elsewhere, killing two. Kherson, in southern Ukraine, was left without power and Kharkiv, in the east, saw its electricity, heating and water supplies cut. Meanwhile, General Valery Zaluzhny, the head of Ukraine’s armed forces, told The Economist that the Russians are preparing for a major Russian offensive in the next few months, including “another go at Kyiv”.
 
-A congressional committee charged with investigating the Capitol riot of January 6th 2021 will reportedly recommend that former-president <strong>Donald Trump</strong> be charged with insurrection. The Department of Justice, who would handle such a prosecution and is conducting its own probe, is not obliged to follow the suggestion. Mr Trump denies any wrongdoing; a spokesperson called [the proceedings](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) “show trials”.
+A congressional committee tasked with investigating the Capitol riot of January 6th 2021 will reportedly recommend that former-president <strong>Donald Trump</strong> be charged with insurrection. The Department of Justice, which would handle such a prosecution and is conducting its own probe, is not obliged to follow the suggestion. Mr Trump denies any wrongdoing; a spokesperson called [the proceedings](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) “show trials”.
 
 <strong>Goldman Sachs</strong> will reportedly [lay off several thousand employees](https://www.economist.com/business/2022/12/04/is-a-white-collar-recession-looming) and slash bonuses as it retreats from its planned consumer business. Semafor, a news site, reported that the firm could shed 8% of its staff, a more substantial cut than rival banks. Its consumer-facing unit, Marcus, is not profitable, and Goldman’s share price has fallen by nearly a tenth this year.
 
@@ -66,7 +66,7 @@ The sequel continues the adventures of Jake Sully (played by Sam Worthington), a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2e7f5b47546b5d5e5c4b5d5d416e4b4d41404143475d5a004d4143">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4b1a3e22310e383b392e3838240b2e282425242622383f65282426">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> What hollow snack is often handed out to guests in Chinese restaurants after a meal?
 
