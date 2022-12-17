@@ -22,7 +22,7 @@ Polls opened in <strong>Tunisia’s</strong> first parliamentary elections since
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Uganda </strong>ended a two-month long lockdown amid cautious optimism that its Ebola outbreak is improving. President Yoweri Museveni ended restrictions in Mubende and Kassanda, two of the hardest hit regions. Since authorities declared an Ebola outbreak in September, the east African country has recorded 142 cases and 56 deaths from the disease.
+<strong>Uganda </strong>lifted a two-month long lockdown amid cautious optimism that its Ebola outbreak is improving. President Yoweri Museveni ended restrictions in Mubende and Kassanda, two of the hardest hit regions. Since authorities declared an Ebola outbreak in September, the east African country has recorded 142 cases and 56 deaths from the disease.
 
 <strong>Croatia</strong> beat <strong>Morocco</strong> 2-1 to claim third place in the football World Cup. Romantics were probably hoping for a win for the Moroccans, who had become [the first African or Arab squad](https://www.economist.com/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity) to reach the semi-finals. But a Croatian team led by one of the modern game’s great players, Luka Modric, secured another impressive result, four years after being runners-up. The reigning champions, France, take on Argentina in [Sunday’s final](https://www.economist.com/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe).
 
