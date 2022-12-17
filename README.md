@@ -14,7 +14,7 @@
 
 <strong>Russia</strong> launched more than 70 missiles on Ukraine in its second strike in a matter of days, damaging energy infrastructure in Kyiv, the capital, and elsewhere, killing at least three. Kherson, in southern Ukraine, was left without power and Kharkiv, in the east, saw its electricity, heating and water supplies cut. General Valery Zaluzhny, the head of Ukraine’s armed forces, [has told <em>The Economist</em>](https://te.arielherself.xyz/ukraines-fateful-winter) that the Russians are preparing for a major Russian offensive in the next few months, including “another go at Kyiv”.
 
-A congressional committee tasked with investigating the Capitol riot of January 6th 2021 will reportedly recommend that former-president <strong>Donald Trump</strong> be charged with insurrection. The Department of Justice, which would handle such a prosecution and is conducting its own probe, is not obliged to follow the suggestion. Mr Trump denies any wrongdoing; a spokesperson called [the proceedings](https://te.arielherself.xyz/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) “show trials”.
+A congressional committee charged with investigating the Capitol riot of January 6th 2021 will reportedly recommend that <strong>Donald Trump</strong> be charged with insurrection. The Department of Justice, which would handle such a prosecution and is conducting its own probe, is not obliged to follow the suggestion. The former president denies any wrongdoing; a spokesperson called [the proceedings](https://te.arielherself.xyz/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) “show trials”.
 
 Polls opened in <strong>Tunisia’s</strong> first parliamentary elections since the legislature was closed by Kais Saied, the country’s president, in July 2021. The opposition is boycotting the vote, decrying it as a farce designed to cement Mr Saied’s control. It is unclear how many Tunisians will turn out—a referendum on [constitutional reforms](https://te.arielherself.xyz/international/2022/08/25/dictators-and-utopians-are-fond-of-fiddling-with-constitutions) granting the president unchecked power attracted only 28% of eligible voters.
 
@@ -28,59 +28,81 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Peru’s</strong> congress rejected legislation by the new president to bring forward elections by more than two years, to December 2023—a proposal intended to quell protests over the ouster of [Pedro Castillo](https://te.arielherself.xyz/the-americas/2022/12/07/after-a-bungled-coup-attempt-perus-president-falls), the president. At least 20 people have died in the clashes; two cabinet ministers have resigned. About 5,000 tourists have been stranded in Cusco, near Machu Picchu, after protesters stormed the airport.
 
-<strong>Fact of the day: </strong>12,000, the number of new regulations introduced by the American government in 2021, a rise on recent years. [Read the full story](https://te.arielherself.xyz/leaders/2022/12/14/why-are-the-rich-worlds-politicians-giving-up-on-economic-growth).
+<strong>Word of the week: </strong>friendshoring, a kind of reverse offshoring in which supply chains are redirected to stable, ideally allied countries. [Read the full story](https://te.arielherself.xyz/culture/2022/12/14/and-the-word-of-2022-is).
 
 ----------
 
-## Beefing up Japan’s defences
+## Germany shores up its gas supply
 
-Japan’s security policy took a leap forward on Friday, when the government released long-awaited [revisions](https://te.arielherself.xyz/asia/2022/09/15/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army) to its national security strategy. It codified plans to raise defence spending to 2% of GDP by 2027, up from around 1% today. At current levels, that would make Japan the world’s third-largest defence spender in absolute terms. The government also plans to acquire long-range missiles that would allow it to strike targets in enemy territory. Both moves represent breaks in precedent in a country where pacifism has been dominant since the end of the second world war. 
+On Saturday Olaf Scholz, Germany’s chancellor, and Robert Habeck, his economy minister, will inaugurate the country’s first import terminal for liquid natural gas (LNG) in Wilhelmshaven, on the North Sea coast. On Thursday the <em>Hoegh Esperanza</em>, a specialised vessel that can regasify liquid gas, arrived in the town. 
 
-Big questions remain. One is what exactly the new money will be spent on. The other is where it will come from. Yet, strikingly, there has been no major domestic opposition to the government’s proposals. A combination of China’s aggressive posture, North Korea’s increasingly brazen missile programme and Russia’s invasion of Ukraine have convinced the Japanese that they can no longer afford to skimp on security.
+The deliveries come as Germany wrestles with a [cut in gas imports from Russia](https://te.arielherself.xyz/europe/can-germany-cope-without-russian-gas/21808482) following its invasion of Ukraine. The new equipment will feed at least 5bn cubic metres of natural gas per year into Germany’s gas grid. That is around 6% of the country’s demand, and will replace approximately 11% of imports from Russia, according to Uniper, a utility. (After Russia, Norway and the Netherlands are the next biggest gas suppliers to Germany; LNG deliveries will flow from Qatar in 2026 under a recently inked deal.) Uniper expects the first LNG tanker to dock at the <em>Hoegh Esperanza</em> in early January. Germany will inaugurate two further LNG terminals before the end of the year. They can’t come soon enough.
 
-## The ANC’s big meeting in Johannesburg
+## Ireland’s previous prime minister returns
 
-When the African National Congress begins its national conference on Friday, the arena will reverberate with old songs about fighting apartheid. Indeed, there is more to celebrate in the past of [South Africa’s ruling party](https://te.arielherself.xyz/middle-east-and-africa/2022/12/08/cyril-ramaphosa-is-contesting-efforts-to-oust-him) than in its present—or future. After 28 years of ANC governments South Africans are increasingly fed up with the party, which is expected to lose its majority at the next general election in 2024. 
+Leo Varadkar, the leader of Fine Gael, one of Ireland’s two dominant political parties, will become taoiseach (prime minister) for a second time on Saturday. Under a “rotating taoiseach” deal thrashed out in 2020 Michael Martin, the leader of Fianna Fail, with which Fine Gael rules in coalition, held the job for the first half of the current parliament. Now it is Mr Varadkar’s turn again (he previously served from 2017 to 2020). He is already off to a rocky start, even before he officially takes office.
 
-At the conference the party will choose its leadership to fight that election. Despite a recent [corruption scandal](https://te.arielherself.xyz/middle-east-and-africa/2022/06/23/allegations-of-impropriety-weaken-south-africas-president) Cyril Ramaphosa, president of both party and country, is expected to hold on to power. His supporters say that if he can muster enough allies in top party positions, he will finally be able to pursue economic reforms and clean up corruption. Yet that is naive. Not even Nelson Mandela, the ANC’s most famous leader, would be able to renew the party today. It is a machine for patronage, not for progress.
+Last month, following surveys suggesting that many of Ireland’s young renters are considering emigrating in order to find affordable housing, Mr Varadkar harrumphed that they couldn’t expect to do better abroad. His dismissive comments provoked derision from emigrants who reported finding [cheaper](https://te.arielherself.xyz/graphic-detail/2022/11/30/the-worlds-most-and-least-expensive-cities) rents in Amsterdam, Berlin and Paris. A recent poll finds waning support for both ruling parties. [Sinn Fein](https://te.arielherself.xyz/britain/2021/12/04/the-quest-for-respectability-and-votes-has-transformed-sinn-fein), an insurgent outfit, will probably win the most seats at Ireland’s next election.
 
-## Sweden inches towards NATO
+## Why understanding biodiversity is hard stuff
 
-On Friday the Riksdag, Sweden’s parliament, will discuss the country’s defence budget. Sweden [applied this year](https://te.arielherself.xyz/europe/2022/05/12/sweden-is-following-finlands-lead-on-joining-nato) to join NATO alongside Finland, its Nordic neighbour, following Russia’s attack on Ukraine. Sweden had planned to reach the alliance’s defence-spending target of 2% of GDP by 2028, but may now bring that target forward by two years.
+This week the Mexican delegation at the [UN biodiversity summit](https://te.arielherself.xyz/the-economist-explains/2022/12/09/why-is-there-another-cop-happening) in Montreal began offering a bottle of tequila for every point on which negotiators found agreement in one of the texts. The objective of COP15 (not to be confused with COP26, the climate conference in November) is to hash out a [global agreement](https://te.arielherself.xyz/science-and-technology/2022/12/14/a-un-biodiversity-meeting-is-slugging-it-out-in-montreal) to reverse the worst damage that humans have inflicted on nature. ​​That is hard, for both scientific and political reasons.
 
-But the pair’s NATO applications have been held up by Hungary and Turkey, two other members of the alliance. On Tuesday, after the EU agreed to let it access billions in aid, Hungary lifted its veto and confirmed its parliament would debate Swedish and Finnish accession in February. Meanwhile, Sweden has been courting Turkey. In September it lifted an informal ban on selling military equipment to the country. And reports emerged this month that Sweden’s government has deported people to Turkey suspected of ties to the [PKK](https://te.arielherself.xyz/the-economist-explains/2022/06/28/what-is-the-pkk), a Kurdish rebel group that has long been a thorn in the side of Turkish leaders. It remains unclear if the concessions will do the trick. 
+The climate system, while complex, is mostly governed by physics and can be simulated using models. [Ecosystem modelling](https://te.arielherself.xyz/technology-quarterly/2021/06/15/compared-with-climate-modelling-of-ecosystems-is-at-an-early-stage), however, is in its infancy. Ecosystems are composed of vast networks of organisms interacting in complicated ways. More funding for scientific research worldwide would help. So would action to address the drivers of biodiversity loss, like pollution and land use. Both are under discussion in Montreal, though neither debate will go down smoothly.
 
-## Life is still too dangerous for Indian women
+## An immigrant babysitter’s disquiet in “Nanny”
 
-Friday marks ten years to the day since Jyoti Singh, a 23-year-old physiotherapy student, was raped and mutilated by a group of men on a bus in Delhi. She later died of her injuries. 
+“Nanny”, a film that arrived on Amazon Prime on Friday, is a vivid psychological thriller about Aisha (Anna Diop), a Senegalese woman who works for a white family in New York. The child she looks after is sweet, but the mother doesn’t pay on time, and the father is a bit of a creep. Aisha stands up to her privileged employers, yet her discomfort grows like a storm, triggering nerve-jangling hallucinations.
 
-A decade on, [not enough has changed](https://te.arielherself.xyz/asia/2022/11/29/what-two-crimes-reveal-about-violence-against-indian-women). In May Shraddha Walkar, a call-centre worker, vanished in Delhi. She had previously told police that her partner, with whom she lived, beat and threatened to dismember her. He confessed to ultimately doing so last month. Most violence against Indian women happens at home: in a survey 30% of married or previously married women said they had been subject to domestic abuse.
+The American director, Nikyatu Jusu, drew on her own experiences to evoke her character’s alienation (Ms Jusu’s parents hail from Sierra Leone). Aisha sends money to her son in Senegal, and though she finds glimpses of community in New York, the boy’s absence haunts her room in her employers’ sleek apartment. The first horror film to take the top jury prize for an American drama at the Sundance film festival, “Nanny” touches on class, race, labour and immigration, building slow-burn menace from Aisha’s growing dread.
 
-Jyoti Singh’s case did prompt change. Several new laws make the prosecution of sexual-assault cases easier, the Supreme Court strengthened women’s rights in several areas and the share of victims who reported sex crimes rose somewhat. But much more work is needed. Half of Indians still say it is acceptable for husbands to beat their wives. Until [social attitudes](https://te.arielherself.xyz/graphic-detail/2019/02/05/how-indias-men-can-learn-to-treat-women-better) change, women will remain in peril.
+## Weekend profile: Ekrem Imamoglu, the mayor of Istanbul facing prosecution
 
-## The sequel to “Avatar” finally arrives
+As the former head of his family’s construction company, Ekrem Imamoglu says he often saw projects get bogged down by politics. He says he entered politics to untangle the red tape. That line got him elected mayor of a suburb of Istanbul in 2014 as a member of Turkey’s main opposition outfit, the Republican People’s Party (CHP). Five years later Mr Imamoglu was elected mayor of the whole city, but only after Justice and Development (AK), the party of Recep Tayyip Erdogan, Turkey’s president, contested the initial vote. Mr Imamoglu [won the rerun election by a landslide](https://te.arielherself.xyz/europe/2019/06/24/the-oppositions-new-star-deals-turkeys-president-a-stinging-blow). His victory was a heavy blow for Mr Erdogan, himself a former mayor of Istanbul who is fond of saying that “whoever wins Istanbul wins Turkey”. 
 
-On Friday the long-awaited sequel to “Avatar”, a science-fiction blockbuster released in 2009, will finally hit the screens. Its director, James Cameron, has an impressive record. The first “Avatar” is the highest-grossing film ever made; another of Mr Cameron’s efforts, “[Titanic](https://te.arielherself.xyz/culture/2022/11/23/twenty-five-years-on-titanic-feels-like-a-prophecy)”, is in third place. But “Avatar: The Way of Water” may struggle to make such a big splash. 
+As mayor Mr Imamoglu has focused on quality-of-life issues in Europe’s most populous city, expanding the metro to ease traffic and improving storm-drainage to reduce flash-flooding. The president knows that the opposition’s successful management of Istanbul poses risks to his 20-year tenure in office, given that presidential elections are expected by June 2023. The CHP has yet to name a candidate to take on Mr Erdogan, and Mr Imamoglu has stayed mum on his ambitions for higher office. But polls suggest that he is one of the opposition politicians best placed to unseat Mr Erdogan at the ballot box.
 
-The sequel continues the adventures of Jake Sully (played by Sam Worthington), an American Marine whose mind has been zapped into a cloned alien body. He now defends his Edenic adopted home world, Pandora, from invading human colonists. The computer-generated imagery is spectacular. Yet the action doesn’t merit the film’s running time of over three hours. The protagonist spends half of that on a tropical island, bonding with local sea creatures. Mr Cameron may be saving his best story ideas for later: three more instalments of the franchise are due before 2030. Fans must hope they are worth the wait.
+Naturally charismatic, Mr Imamoglu is a rare unifying figure in Turkey’s polarised political landscape. He is religious and progressive. He is a Turk from the ultra-nationalist Black Sea region, but also appeals to minority voters like Kurds and Alevis. His appeal makes him a highly [dangerous rival to Mr Erdogan](https://te.arielherself.xyz/europe/2022/06/09/as-elections-approach-turkeys-president-finds-enemies-everywhere). On December 14th a court in Istanbul convicted Mr Imamoglu of “insulting” the officials who had ordered the rerun of the Istanbul mayoral election, whom he had called “fools”. He was sentenced to two years and seven months in prison, and banned from holding political office. An appeal is under way, but if it fails the ruling could bar Mr Imamoglu from challenging Mr Erdogan and AK at any level.
 
-## Daily quiz
+Supporters of Mr Imamoglu think the case is politically motivated. But most analysts reckon that, if his conviction is overturned, it could rally voters behind him. After all, Mr Erdogan was catapulted to power after serving four months in prison for reading a religious poem. A ruling in Mr Imamoglu’s favour by the appeals court could just see him follow suit. 
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4f1e3a26350a3c3f3d2a3c3c200f2a2c20212022263c3b612c2022">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+## Weekly crossword
 
-<strong>Friday:</strong> What hollow snack is often handed out to guests in Chinese restaurants after a meal?
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-<strong>Thursday: </strong>Which lyricist collaborated with Richard Rodgers on the musicals “Oklahoma!” and “South Pacific”?
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
-## The winners of last week’s crossword
+<strong>Cryptic clues</strong>
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+<em>1 down </em>Writer’s washroom redesigned. Clearer! (4, 2, 5)
 
-<strong>Yumi Arima</strong>, Tokyo, Japan  
-<strong>Mark Westin</strong>, Warsaw, Poland  
-<strong>Trevor Ford</strong>, Thirlmere, Australia
+<em>1 across</em> Confusing terminology that’s just a little chemical (6) 
 
-They all gave the correct answers of [South Africa](https://te.arielherself.xyz/middle-east-and-africa/2022/12/08/cyril-ramaphosa-is-contesting-efforts-to-oust-him), [sharia](https://te.arielherself.xyz/middle-east-and-africa/2022/12/04/irans-rattled-government-may-be-backing-down), [asset](https://te.arielherself.xyz/leaders/2022/12/08/investing-in-an-era-of-higher-interest-rates-and-scarcer-capital) and [asylum](https://te.arielherself.xyz/britain/2022/12/08/asylum-claims-by-albanians-spark-debate-over-a-landmark-british-law). Check back tomorrow for this week’s crossword.
+<em>2 across </em>Energy and light, we hear, are powerful (5) 
+
+<em>3 across</em> Former lover left, is headed elsewhere (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>Someone who might have imagined the scandals around Cyril Ramaphosa (4, 2, 5) 
+
+<em>1 across</em> Business, economics and finance are perennial sources of this (6)
+
+<em>2 across </em>A group preoccupied with imperialism and greatness (5) 
+
+<em>3 across</em> Grain is Ukraine’s biggest (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were:
+
+<strong>Sebastián Cova</strong>, Caracas, Venezuela
+
+<strong>Martha Baker</strong>, Uberlingen, Germany
+
+<strong>Martin Luebke</strong>, Petawawa, Canada
+
+They all gave the correct answers of The Count of Monte Cristo, Larry Bird, Bert, Oscar Hammerstein and fortune cookies. The theme is Sesame Street characters: Count von Count, Big Bird, Bert, Oscar the Grouch and Cookie Monster.
 
 ----------
 
