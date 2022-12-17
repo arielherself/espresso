@@ -50,11 +50,11 @@ At any given time, about 300m of the world’s women are menstruating. Of these,
 
 Yet rigorous studies into the composition of menstrual products are remarkably patchy. Official reports have found few dangers, and any serious health hazards would probably have come to light by now. Even a small risk, though, would affect many people. And in some parts of the world, from America to Kenya and South Korea, women have reported symptoms including shorter periods, cramps and rashes when using certain pads. The two largest makers of menstrual products say they give priority to safety, and deny using harmful chemicals. But companies’ verdicts on their own products can’t be taken as gospel. The onus is on scientists, regulators and public-health agencies to fill in the gaps in knowledge.
 
-## An immigrant babysitter’s disquiet in “Nanny”
+## “His Dark Materials” on the small screen
 
-“Nanny”, a film that arrived on Amazon Prime on Friday, is a vivid psychological thriller about Aisha (Anna Diop), a Senegalese woman who works for a white family in New York. The child she looks after is sweet, but the mother doesn’t pay on time, and the father is a bit of a creep. Aisha stands up to her privileged employers, yet her discomfort grows like a storm, triggering nerve-jangling hallucinations.
+“His Dark Materials” has all the right ingredients. The television show is adapted from [Philip Pullman’s](https://www.economist.com/1843/2007/12/01/philip-pullmans-dark-arts) beloved fantasy novels, which have sold more than 17m copies worldwide. Jack Thorne, one of the screenwriters, is a BAFTA winner. The BBC and HBO have reached deep into their pockets—it is reportedly the BBC’s most expensive show ever—to fund the whizzy special effects. And it features a starry cast, including Ruth Wilson, Andrew Scott, Lin-Manuel Miranda and James McAvoy.
 
-The American director, Nikyatu Jusu, drew on her own experiences to evoke her character’s alienation (Ms Jusu’s parents hail from Sierra Leone). Aisha sends money to her son in Senegal, and though she finds glimpses of community in New York, the boy’s absence haunts her room in her employers’ sleek apartment. The first horror film to take the top jury prize for an American drama at the Sundance film festival, “Nanny” touches on class, race, labour and immigration, building slow-burn menace from Aisha’s growing dread.
+Yet although audiences enjoyed the first two seasons, most will probably find the third and final instalment, released in Britain on Sunday, and already streaming on HBO Max in America, more challenging. The first two followed Lyra (Dafne Keen) as she searched for a missing friend and learned about the Magisterium, a forbidding religious authority. The third tells a complex allegorical tale tracing several characters and requiring lots of exposition. Some stories, it seems, work best on the page.
 
 ## Weekend profile: Ekrem Imamoglu, the mayor of Istanbul facing prosecution
 
