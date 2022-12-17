@@ -22,7 +22,7 @@ Polls opened in <strong>Tunisia’s</strong> first parliamentary elections since
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Uganda </strong>lifted a two-month long lockdown amid cautious optimism that its Ebola outbreak is improving. President Yoweri Museveni ended restrictions in Mubende and Kassanda, two of the hardest hit regions. Since authorities declared an Ebola outbreak in September, the east African country has recorded 142 cases and 56 deaths from the disease.
+<strong>Uganda </strong>lifted a two-month lockdown amid cautious optimism that its Ebola outbreak is improving. The east African country’s president, Yoweri Museveni, ended restrictions in Mubende and Kassanda, two of the hardest-hit regions. Since authorities declared the outbreak in September, Uganda has recorded 142 cases and 56 deaths from the disease.
 
 <strong>Croatia</strong> beat <strong>Morocco</strong> 2-1 to claim third place in the football World Cup. Romantics were probably hoping for a win for the Moroccans, who had become [the first African or Arab squad](https://te.arielherself.xyz/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity) to reach the semi-finals. But a Croatian team led by one of the modern game’s great players, Luka Modric, secured another impressive result, four years after being runners-up. The reigning champions, France, take on Argentina in [Sunday’s final](https://te.arielherself.xyz/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe).
 
@@ -49,6 +49,12 @@ Now they have further reason to be angry. Earlier this month leaders of the civi
 At any given time, about 300m of the world’s women are menstruating. Of these, three-quarters will be using a menstrual product—tampons, pads, pantyliners and so on—to regulate their flow. A typical woman who employs such devices will use around 15,000 of them during her life.
 
 Yet rigorous studies into the composition of menstrual products are [remarkably patchy](https://te.arielherself.xyz/science-and-technology/2022/12/14/not-enough-is-known-about-the-science-of-pads-and-tampons). Official reports have found few dangers, and any serious health hazards would probably have come to light by now. Even a small risk, though, would affect many people. And in some parts of the world, from America to Kenya and South Korea, women have reported symptoms including shorter periods, cramps and rashes when using certain pads. The two largest makers of menstrual products say they give priority to safety, and deny using harmful chemicals. But companies’ verdicts on their own products can’t be taken as gospel. The onus is on scientists, regulators and public-health agencies to fill in the gaps in knowledge.
+
+## A clash of superstars in the World Cup final
+
+For some, this year’s World Cup in Qatar has been [marred by concerns](https://te.arielherself.xyz/culture/2022/11/10/the-world-cup-is-tarnished-should-fans-enjoy-it-anyway) about human rights. On the pitch the tournament will be remembered for major [upsets,](https://te.arielherself.xyz/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even) as teams such as Morocco and Japan bested European giants. Yet Sunday’s final, between Argentina and France, has a familiar feel. Over the past 40 years, just five countries account for 19 of the 22 World Cup finalists: Brazil, Germany (West Germany before 1990), Italy and this year’s pair. 
+
+France have recent pedigree, winning the cup in 1998 and 2018. Argentina’s last win was in 1986, though they were defeated finalists in 1990 and 2014. Both sides boast [superstars](https://te.arielherself.xyz/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe): Kylian Mbappé, France’s young talisman, and Lionel Messi, one of the world’s [greatest-ever players](https://te.arielherself.xyz/culture/2022/11/17/lionel-messi-and-cristiano-ronaldo-have-forged-modern-football). And in attack the teams look evenly matched. Argentina have created 11.8 “expected goals”, a measure of goalscoring intent, in the tournament so far, and France 11.6. But Argentina have a stronger defensive record. That could give them the edge.
 
 ## “His Dark Materials” on the small screen
 
