@@ -34,7 +34,7 @@ The Biden administration said it would buy 3m barrels of <strong>oil</strong> in
 
 ## Beefing up Japan’s defences
 
-Japan’s security policy took a leap forward on Friday, when the government released long-awaited [revisions](https://te.arielherself.xyz/asia/2022/09/13/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army) to its national security strategy. It codified plans to raise defence spending to 2% of GDP by 2027, up from around 1% today. At current levels, that would make Japan the world’s third-largest defence spender in absolute terms. The government also plans to acquire long-range missiles that would allow it to strike targets in enemy territory. Both moves represent breaks in precedent in a country where pacifism has been dominant since the end of the second world war. 
+Japan’s security policy took a leap forward on Friday, when the government released long-awaited [revisions](https://te.arielherself.xyz/asia/2022/09/15/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army) to its national security strategy. It codified plans to raise defence spending to 2% of GDP by 2027, up from around 1% today. At current levels, that would make Japan the world’s third-largest defence spender in absolute terms. The government also plans to acquire long-range missiles that would allow it to strike targets in enemy territory. Both moves represent breaks in precedent in a country where pacifism has been dominant since the end of the second world war. 
 
 Big questions remain. One is what exactly the new money will be spent on. The other is where it will come from. Yet, strikingly, there has been no major domestic opposition to the government’s proposals. A combination of China’s aggressive posture, North Korea’s increasingly brazen missile programme and Russia’s invasion of Ukraine have convinced the Japanese that they can no longer afford to skimp on security.
 
@@ -66,7 +66,7 @@ The sequel continues the adventures of Jake Sully (played by Sam Worthington), a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cf9ebaa6b58abcbfbdaabcbca08faaaca0a1a0a2a6bcbbe1aca0a2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="b0e1c5d9caf5c3c0c2d5c3c3dff0d5d3dfdedfddd9c3c49ed3dfdd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> What hollow snack is often handed out to guests in Chinese restaurants after a meal?
 
