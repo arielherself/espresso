@@ -22,7 +22,7 @@ Polls opened in <strong>Tunisia’s</strong> first parliamentary elections since
 
 Listen to an abridged version of the subscriber-only briefing.
 
-A congressional committee charged with investigating the Capitol riot of January 6th 2021 will reportedly recommend that <strong>Donald Trump</strong> be charged with insurrection. The Department of Justice, which would handle such a prosecution and is conducting its own probe, is not obliged to follow the suggestion. The former president denies any wrongdoing; a spokesperson called [the proceedings](https://te.arielherself.xyz/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) “show trials”.
+<strong>Uganda </strong>ended a two-month long lockdown amid cautious optimism that its Ebola outbreak is improving. President Yoweri Museveni ended restrictions in Mubende and Kassanda, two of the hardest hit regions. Since authorities declared an Ebola outbreak in September, the east African country has recorded 142 cases and 56 deaths from the disease.
 
 <strong>Croatia</strong> beat <strong>Morocco</strong> 2-1 to claim third place in the football World Cup. Romantics were probably hoping for a win for the Moroccans, who had become [the first African or Arab squad](https://te.arielherself.xyz/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity) to reach the semi-finals. But a Croatian team led by one of the modern game’s great players, Luka Modric, secured another impressive result, four years after being runners-up. The reigning champions, France, take on Argentina in [Sunday’s final](https://te.arielherself.xyz/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe).
 
