@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Russia launched more than 70 missiles on Ukraine in its second mass strike in a matter of days, damaging energy infrastructure in Kyiv, the capital, and elsewhere, killing two. Kherson, in southern Ukraine, was left without power and Kharkiv, in the east, saw its electricity, heating and water supplies cut. Meanwhile, General Valery Zaluzhny, the head of Ukraine’s armed forces, told The Economist that the Russians are preparing for a major Russian offensive in the next few months, including “another go at Kyiv”.
+<strong>Russia</strong> launched more than 70 missiles on Ukraine in its second strike in a matter of days, damaging energy infrastructure in Kyiv, the capital, and elsewhere, killing at least three. Kherson, in southern Ukraine, was left without power and Kharkiv, in the east, saw its electricity, heating and water supplies cut. General Valery Zaluzhny, the head of Ukraine’s armed forces, [has told <em>The Economist</em>](https://te.arielherself.xyz/ukraines-fateful-winter) that the Russians are preparing for a major Russian offensive in the next few months, including “another go at Kyiv”.
 
 A congressional committee tasked with investigating the Capitol riot of January 6th 2021 will reportedly recommend that former-president <strong>Donald Trump</strong> be charged with insurrection. The Department of Justice, which would handle such a prosecution and is conducting its own probe, is not obliged to follow the suggestion. Mr Trump denies any wrongdoing; a spokesperson called [the proceedings](https://te.arielherself.xyz/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) “show trials”.
 
@@ -66,7 +66,7 @@ The sequel continues the adventures of Jake Sully (played by Sam Worthington), a
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="2e7f5b47546b5d5e5c4b5d5d416e4b4d41404143475d5a004d4143">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9ccde9f5e6d9efeceef9efeff3dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> What hollow snack is often handed out to guests in Chinese restaurants after a meal?
 
