@@ -24,13 +24,19 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Uganda </strong>lifted a two-month lockdown amid cautious optimism that its Ebola outbreak is improving. The east African country’s president, Yoweri Museveni, ended restrictions in Mubende and Kassanda, two of the hardest-hit regions. Since authorities declared the outbreak in September, Uganda has recorded 142 cases and 56 deaths from the disease.
 
-<strong>Croatia</strong> beat <strong>Morocco</strong> 2-1 to claim third place in the football World Cup. Romantics were probably hoping for a win for the Moroccans, who had become [the first African or Arab squad](https://www.economist.com/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity) to reach the semi-finals. But a Croatian team led by one of the modern game’s great players, Luka Modric, secured another impressive result, four years after being runners-up. The reigning champions, France, take on Argentina in [Sunday’s final](https://www.economist.com/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe).
-
 <strong>German</strong> police said they had recovered 31 objects from a <strong>jewellery heist</strong> in 2019 at the Royal Palace in Dresden, a state museum. Lavishly encrusted treasures then valued at €114m ($125m) were stolen from a collection assembled in the 18th century by Augustus the Strong, Elector of Saxony. Six men are on trial for the robbery. The recovery followed discussions between prosecutors and the defence team.
+
+<strong>Croatia</strong> beat <strong>Morocco</strong> 2-1 to claim third place in the football World Cup. Romantics were probably hoping for a win for the Moroccans, who had become [the first African or Arab squad](https://www.economist.com/middle-east-and-africa/2022/12/13/moroccos-world-cup-success-sparks-a-debate-about-arab-identity) to reach the semi-finals. But a Croatian team led by one of the modern game’s great players, Luka Modric, secured another impressive result, four years after being runners-up. The reigning champions, France, take on Argentina in [Sunday’s final](https://www.economist.com/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe).
 
 <strong>Word of the week: </strong>friendshoring, a kind of reverse offshoring in which supply chains are redirected to stable, ideally allied countries. [Read the full story](https://www.economist.com/culture/2022/12/14/and-the-word-of-2022-is).
 
 ----------
+
+## What lies ahead in Ukraine
+
+In the past week Russia launched a further barrage of rockets on Ukrainian infrastructure, as it seeks to disable the country’s power grid amid freezing winter temperatures. More will surely follow. But the strikes could also precede Russian moves on the battlefield. Ukraine’s top generals believe Russia is preparing [another big offensive](https://www.economist.com/ukraines-fateful-winter), possibly to begin as soon as January, that could come anywhere in the country. The question facing them is whether to launch a pre-emptive strike or wait to counter-attack.
+
+Ukraine insists that the only way to conclude the war is a complete Russian retreat, from land seized this year and from territory it has occupied since 2014, including Crimea. But in private officials admit to other possible outcomes, with Ukrainian military advances leading to diplomacy. A European official says that ideally Vladimir Putin, Russia’s president, would be persuaded that the war is unwinnable, and that prolonging it would risk even his pre-war holdings—Crimea and one-third of the eastern Donbas region—forcing him into talks. Yet compromise over Crimea in particular will be hard to swallow for an increasingly optimistic Ukraine.
 
 ## Sudan’s fitful democratic transition
 
@@ -97,12 +103,6 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Martin Luebke</strong>, Petawawa, Canada
 
 They all gave the correct answers of The Count of Monte Cristo, Larry Bird, Bert, Oscar Hammerstein and fortune cookies. The theme is Sesame Street characters: Count von Count, Big Bird, Bert, Oscar the Grouch and Cookie Monster.
-
-## What lies ahead in Ukraine
-
-In the past week Russia launched a further barrage of rockets on Ukrainian infrastructure, as it seeks to disable the country’s power grid amid freezing winter temperatures. More will surely follow. But the strikes could also precede Russian moves on the battlefield. Ukraine’s top generals believe Russia is preparing [another big offensive](https://www.economist.com/ukraines-fateful-winter), possibly to begin as soon as January, that could come anywhere in the country. The question facing them is whether to launch a pre-emptive strike or wait to counter-attack.
-
-Ukraine insists that the only way to conclude the war is a complete Russian retreat, from land seized this year and from territory it has occupied since 2014, including Crimea. But in private officials admit to other possible outcomes, with Ukrainian military advances leading to diplomacy. A European official says that ideally Vladimir Putin, Russia’s president, would be persuaded that the war is unwinnable, and that prolonging it would risk even his pre-war holdings—Crimea and one-third of the eastern Donbas region—forcing him into talks. Yet compromise over Crimea in particular will be hard to swallow for an increasingly optimistic Ukraine.
 
 ----------
 
