@@ -32,12 +32,6 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ----------
 
-## What lies ahead in Ukraine
-
-In the past week Russia launched a further barrage of rockets on Ukrainian infrastructure, as it seeks to disable the country’s power grid amid freezing winter temperatures. More will surely follow. But the strikes could also precede Russian moves on the battlefield. Ukraine’s top generals believe Russia is preparing [another big offensive](https://te.arielherself.xyz/ukraines-fateful-winter), possibly to begin as soon as January, that could come anywhere in the country. The question facing them is whether to launch a pre-emptive strike or wait to counter-attack.
-
-Ukraine insists that the only way to conclude the war is a complete Russian retreat, from land seized this year and from territory it has occupied since 2014, including Crimea. But in private officials admit to other possible outcomes, with Ukrainian military advances leading to diplomacy. A European official says that ideally Vladimir Putin, Russia’s president, would be persuaded that the war is unwinnable, and that prolonging it would risk even his pre-war holdings—Crimea and one-third of the eastern Donbas region—forcing him into talks. Yet compromise over Crimea in particular will be hard to swallow for an increasingly optimistic Ukraine.
-
 ## Sudan’s fitful democratic transition
 
 Monday marks the fourth anniversary of the outbreak of protests that eventually toppled Omar al-Bashir, a genocidal dictator who ruled Sudan for three decades. The country’s indefatigable democracy activists will again take to the streets in a show of commemoration and defiance. After the revolution, the army accepted a power-sharing deal with civilians; three years later, as elections loomed, the generals [staged a coup](https://te.arielherself.xyz/middle-east-and-africa/sudans-democratic-transition-is-upended-by-a-second-coup-in-two-years/21805857). Protesters have been on the streets [every week since](https://te.arielherself.xyz/middle-east-and-africa/2022/04/09/sudan-faces-collapse-three-years-after-the-fall-of-its-dictator).
