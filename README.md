@@ -38,12 +38,6 @@ Monday marks the fourth anniversary of the outbreak of protests that eventually 
 
 Now they have further reason to be angry. Earlier this month leaders of the civilian bloc and the junta signed a new accord promising a fully civilian government and elections in two years. Activists are suspicious: the agreement was negotiated behind closed doors by a coterie of politicians and generals who are widely mistrusted. The most contentious issue—prosecution of the generals for genocide and crimes against humanity—will supposedly be dealt with later, sparking fears that it never will be.
 
-## The science of pads and tampons
-
-At any given time, about 300m of the world’s women are menstruating. Of these, three-quarters will be using a menstrual product—tampons, pads, pantyliners and so on—to regulate their flow. A typical woman who employs such devices will use around 15,000 of them during her life.
-
-Yet rigorous studies into the composition of menstrual products are [remarkably patchy](https://te.arielherself.xyz/science-and-technology/2022/12/14/not-enough-is-known-about-the-science-of-pads-and-tampons). Official reports have found few dangers, and any serious health hazards would probably have come to light by now. Even a small risk, though, would affect many people. And in some parts of the world, from America to Kenya and South Korea, women have reported symptoms including shorter periods, cramps and rashes when using certain pads. The two largest makers of menstrual products say they give priority to safety, and deny using harmful chemicals. But companies’ verdicts on their own products can’t be taken as gospel. The onus is on scientists, regulators and public-health agencies to fill in the gaps in knowledge.
-
 ## A clash of superstars in the World Cup final
 
 For some, this year’s World Cup in Qatar has been [marred by concerns](https://te.arielherself.xyz/culture/2022/11/10/the-world-cup-is-tarnished-should-fans-enjoy-it-anyway) about human rights. On the pitch the tournament will be remembered for major [upsets,](https://te.arielherself.xyz/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even) as teams such as Morocco and Japan bested European giants. Yet Sunday’s final, between Argentina and France, has a familiar feel. Over the past 40 years, just five countries account for 19 of the 22 World Cup finalists: Brazil, Germany (West Germany before 1990), Italy and this year’s pair. 
@@ -103,6 +97,12 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Martin Luebke</strong>, Petawawa, Canada
 
 They all gave the correct answers of The Count of Monte Cristo, Larry Bird, Bert, Oscar Hammerstein and fortune cookies. The theme is Sesame Street characters: Count von Count, Big Bird, Bert, Oscar the Grouch and Cookie Monster.
+
+## What lies ahead in Ukraine
+
+In the past week Russia launched a further barrage of rockets on Ukrainian infrastructure, as it seeks to disable the country’s power grid amid freezing winter temperatures. More will surely follow. But the strikes could also precede Russian moves on the battlefield. Ukraine’s top generals believe Russia is preparing [another big offensive](https://te.arielherself.xyz/ukraines-fateful-winter), possibly to begin as soon as January, that could come anywhere in the country. The question facing them is whether to launch a pre-emptive strike or wait to counter-attack.
+
+Ukraine insists that the only way to conclude the war is a complete Russian retreat, from land seized this year and from territory it has occupied since 2014, including Crimea. But in private officials admit to other possible outcomes, with Ukrainian military advances leading to diplomacy. A European official says that ideally Vladimir Putin, Russia’s president, would be persuaded that the war is unwinnable, and that prolonging it would risk even his pre-war holdings—Crimea and one-third of the eastern Donbas region—forcing him into talks. Yet compromise over Crimea in particular will be hard to swallow for an increasingly optimistic Ukraine.
 
 ----------
 
