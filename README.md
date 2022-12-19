@@ -12,97 +12,57 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukrainian</strong> officials said that electricity supplies had been restored in Kharkiv, the country’s second-biggest city, and water and heat were back on in Kyiv, the capital, after a wave of <strong>Russian</strong> missile attacks on the country’s infrastructure on Friday. An 18-month-old boy was among four people killed by the strikes in Kryvyi Rih, in the south. General Valery Zaluzhny, the head of Ukraine’s armed forces, [told <em>The Economist</em>](https://te.arielherself.xyz/ukraines-fateful-winter) this week that the Russians were preparing for a major offensive in the next few months, including “another go at Kyiv”.
+<strong>Russian forces</strong> launched a drone attack on Kyiv as they continue [to target](https://te.arielherself.xyz/ukraines-fateful-winter) Ukrainian infrastructure. Ukraine’s air force said it had shot down 30 Iranian-made drones over the capital. Earlier Volodymyr Zelensky, Ukraine’s president, said his country was ready for “all possible defence scenarios” as Russian troops prepared to conduct exercises in neighbouring Belarus. Vladimir Putin, Russia’s president, will travel to Belarus on Monday for the first time in more than three years as part of a broad “working visit”. 
 
-<strong>Argentina </strong>beat <strong>France </strong>to win the [World Cup](https://te.arielherself.xyz/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe), winning a penalty shoot-out after a thrilling 3-3 draw. France’s Kylian Mbappé scored three goals, a feat achieved only once before in the final. Argentina’s victory gives them their third title—and means that Lionel Messi, widely considered the best player in the world in recent years, has at last secured a prize that had long eluded him.
+<strong>COP15</strong>, the UN’s [biodiversity summit](https://te.arielherself.xyz/the-economist-explains/2022/12/09/why-is-there-another-cop-happening), concluded with a historic deal to protect 30% of the planet’s ecosystems by 2030 and raise up to $30bn in annual conservation aid for developing countries. The chair of the summit, Huang Runqiu, China’s environment minister, overruled an objection from the Democratic Republic of Congo, which wanted more support for developing countries, to push through the deal.
 
-The <strong>EU</strong> reached an agreement to strengthen its carbon market, extending emissions trading to heating, road transport and shipping. The bloc will also increase the pace at which it requires companies to reduce pollution. The reforms are part of the EU’s [Green Deal](https://te.arielherself.xyz/the-economist-explains/2021/06/01/what-is-the-european-green-deal), which is intended to bring about net-zero emissions by 2050.
+The <strong>African National Congress</strong>, South Africa’s governing party, re-elected <strong>Cyril Ramaphosa</strong>, the country’s [scandal-struck president](https://te.arielherself.xyz/leaders/2022/12/15/how-to-save-south-africa), as its leader. He faced a tough contest from Zweli Mkhize, an ex-health minister, but won the run-off by 2,476 votes to 1,897. Mr Ramphosa will now lead his party into the general election in 2024, when pollsters expect the ANC to lose its majority in parliament.
 
-<strong>Japan</strong> weathered a weekend of military threats, as <strong>North Korea</strong> fired two ballistic missiles towards the archipelago and a fleet of Chinese warships was detected near the island of Okidaitojima. On Friday Japan adopted a new [national security strategy](https://te.arielherself.xyz/asia/2022/12/12/east-asias-big-beasts-are-getting-on-badly) designed to put it on a more offensive footing towards China and North Korea. Its previous policy emphasised self-defence and the possibility of co-operation with China.
+<strong>China</strong> reported its first two deaths since it began dismantling its zero-covid policy. The true death toll is likely to be [far higher](https://te.arielherself.xyz/china/2022/12/15/our-model-shows-that-chinas-covid-death-toll-could-be-massive). According to reports from Beijing, the capital, hospitals are overwhelmed and funeral homes are cremating more people than usual. Meanwhile an index capturing business confidence in China fell to its lowest level in a decade in November. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Less than 9% of <strong>Tunisians</strong> took part in the country’s first parliamentary elections since the legislature was closed by Kais Saied, the country’s president, in July 2021. That is perhaps unsurprising—the opposition boycotted the vote and a referendum earlier this year on [constitutional reforms](https://te.arielherself.xyz/international/2022/08/25/dictators-and-utopians-are-fond-of-fiddling-with-constitutions) that would hand Mr Saied virtually unchecked power attracted only 28% of eligible voters.
+Elon Musk asked users on <strong>Twitter</strong> if he should step down as the head of the social-media platform. Mr Musk has faced criticism for several decisions he’s made since [purchasing the firm in October](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last). The poll is scheduled to end on Monday and Mr Musk has promised to abide by the results.
 
-<strong>Qatar </strong>denied being involved in a [corruption scandal](https://te.arielherself.xyz/europe/2022/12/15/a-corruption-scandal-leaves-the-eu-reeling) embroiling the <strong>EU</strong>. Last week Belgian authorities charged four people with corruption and money laundering, after more than €1.5m ($1.6m) in cash, allegedly paid by Qatar, was recovered from sitting or former MEPs and their staff. The EU suspended all work on legislation relating to Qatar, which a Qatari diplomat described as “discriminatory”.
+The <strong>Thai navy</strong> announced that one of its warships sank during a storm in the Gulf of Thailand. Seventy five of the crew were rescued, but 31 are still missing. The ship lost power and capsized after water flooded its hull. The navy launched an investigation into the disaster.
 
-The mayor of El Paso, a city in <strong>Texas</strong> on the Mexican border, declared a state of emergency owing to the thousands of migrants being apprehended every day. Oscar Leeser, the Democrat mayor, said that the emergency designation would enable authorities to provide better shelter for people crossing the border. More are expected after the expiry of covid-related border restrictions known as [Title 42](https://te.arielherself.xyz/united-states/2022/05/22/the-title-42-furore-highlights-americas-broken-immigration-system), which is due by December 21st.
+<strong>Argentina </strong>beat <strong>France </strong>to win the [World Cup](https://te.arielherself.xyz/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe) through a penalty shoot-out, after a thrilling 3-3 draw. France’s Kylian Mbappé scored three goals, a feat achieved only once before in the final. Argentina’s victory gives them their third title—and means that Lionel Messi, widely considered the best player in the world in recent years, has at last secured a prize that had long eluded him.
 
-<strong>Word of the week: </strong>friendshoring, a kind of reverse offshoring in which supply chains are redirected to stable, ideally allied countries. [Read the full story](https://te.arielherself.xyz/culture/2022/12/14/and-the-word-of-2022-is).
+<strong>Fact of the day: </strong> 52,000, the number of reported thefts of catalytic converters in America in 2021, 13 times more than in 2020. [Read the full story](https://te.arielherself.xyz/united-states/2022/12/15/why-catalytic-converter-theft-has-soared-in-america).
 
 ----------
 
-## What lies ahead in Ukraine
+## 2022 in review: war returns to Europe
 
-In the past week Russia launched a further barrage of rockets on Ukrainian infrastructure, as it seeks to disable the country’s power grid amid freezing winter temperatures. More will surely follow. But the strikes could also precede Russian moves on the battlefield. Ukraine’s top generals believe Russia is preparing [another big offensive](https://te.arielherself.xyz/ukraines-fateful-winter), possibly to begin as soon as January, that could come anywhere in the country. The question facing them is whether to launch a pre-emptive strike or wait to counter-attack.
+<em>This week we are looking back on 2022. Today, the Ukraine war.</em>
 
-Ukraine insists that the only way to conclude the war is a complete Russian retreat, from land seized this year and from territory it has occupied since 2014, including Crimea. But in private officials admit to other possible outcomes, with Ukrainian military advances leading to diplomacy. A European official says that ideally Vladimir Putin, Russia’s president, would be persuaded that the war is unwinnable, and that prolonging it would risk even his pre-war holdings—Crimea and one-third of the eastern Donbas region—forcing him into talks. Yet compromise over Crimea in particular will be hard to swallow for an increasingly optimistic Ukraine.
+When Russian tanks rolled into Ukraine at dawn on February 24th, most Western officials thought Kyiv, the capital, would be overrun in days. In fact, Russia’s army was forced to retreat from the north of Ukraine after little over a month. It turned instead to the eastern Donbas region, which over the summer saw the most intense artillery duels since the second world war. By early July Russia had conquered almost all of Luhansk province, but ran out of steam in next-door Donetsk.
 
-## Sudan’s fitful democratic transition
+The next month Ukraine, armed with American and European artillery and fresh supplies of ammunition, went on the offensive in Kherson province. Ukraine’s army liberated Kharkiv province in September and Kherson city in November, forcing Russia to conduct a partial mobilisation and turn to aerial bombardment of Ukraine’s [power grid](https://te.arielherself.xyz/europe/2022/12/14/despite-power-cuts-and-blockades-ukraines-economy-is-coping). Both sides are [now rearming](https://te.arielherself.xyz/ukraines-fateful-winter) for large battles early next year.
 
-Monday marks the fourth anniversary of the outbreak of protests that eventually toppled Omar al-Bashir, a genocidal dictator who ruled Sudan for three decades. The country’s indefatigable democracy activists will again take to the streets in a show of commemoration and defiance. After the revolution, the army accepted a power-sharing deal with civilians; three years later, as elections loomed, the generals [staged a coup](https://te.arielherself.xyz/middle-east-and-africa/sudans-democratic-transition-is-upended-by-a-second-coup-in-two-years/21805857). Protesters have been on the streets [every week since](https://te.arielherself.xyz/middle-east-and-africa/2022/04/09/sudan-faces-collapse-three-years-after-the-fall-of-its-dictator).
+## 2022 in review: the year economic woes kept piling up
 
-Now they have further reason to be angry. Earlier this month leaders of the civilian bloc and the junta signed a new accord promising a fully civilian government and elections in two years. Activists are suspicious: the agreement was negotiated behind closed doors by a coterie of politicians and generals who are widely mistrusted. The most contentious issue—prosecution of the generals for genocide and crimes against humanity—will supposedly be dealt with later, sparking fears that it never will be.
+Before the war in Ukraine began, the global economy was suffering from the after-effects of covid-19. A boom triggered by the West’s lifting of pandemic restrictions had started to fade. At the same time, fiscal-stimulus programmes and supply-chain disruptions caused by the sudden recovery in demand pushed up inflation. China did not begin to reopen until the end of 2022: its zero-covid policy hampered growth both there and elsewhere.
 
-## A clash of superstars in the World Cup final
+The energy-price jump that followed Russia’s invasion led to another bout of inflation while central banks were still busy fighting the last one. Governments in rich countries spent billions to protect households and businesses from sharply higher prices, pushing up public debt. Higher interest rates in the rich world forced up rates in poorer countries, where the hardship caused by rising food prices is greatest. In 2023, the global economy will struggle to recover.
 
-For some, this year’s World Cup in Qatar has been [marred by concerns](https://te.arielherself.xyz/culture/2022/11/10/the-world-cup-is-tarnished-should-fans-enjoy-it-anyway) about human rights. On the pitch the tournament will be remembered for major [upsets,](https://te.arielherself.xyz/culture/2022/12/02/why-the-world-cups-first-stage-has-been-surprisingly-even) as teams such as Morocco and Japan bested European giants. Yet Sunday’s final, between Argentina and France, has a familiar feel. Over the past 40 years, just five countries account for 19 of the 22 World Cup finalists: Brazil, Germany (West Germany before 1990), Italy and this year’s pair. 
+## 2022 in review: Europe’s biggest refugee movements in decades
 
-France have recent pedigree, winning the cup in 1998 and 2018. Argentina’s last win was in 1986, though they were defeated finalists in 1990 and 2014. Both sides boast [superstars](https://te.arielherself.xyz/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe): Kylian Mbappé, France’s young talisman, and Lionel Messi, one of the world’s [greatest-ever players](https://te.arielherself.xyz/culture/2022/11/17/lionel-messi-and-cristiano-ronaldo-have-forged-modern-football). And in attack the teams look evenly matched. Argentina have created 11.8 “expected goals”, a measure of goalscoring intent, in the tournament so far, and France 11.6. But Argentina have a stronger defensive record. That could give them the edge.
+Russia’s invasion of Ukraine caused the largest exodus of people in Europe since the second world war. Millions [returned home](https://te.arielherself.xyz/europe/2022/05/24/as-russias-invasion-stalls-ukraines-refugees-return-home) when it became clear that Russia could not quickly conquer the whole country. But as the war has dragged on into the winter, people continue to trickle out of Ukraine: by December 6th more than 4.8m Ukrainians, almost all of them women and children, had registered for refugee-support schemes in Europe. 
 
-## “His Dark Materials” on the small screen
+The EU gave all Ukrainians immediate permission to work and receive social benefits. (Syrians have had to spend months or years applying for asylum first.) Many found jobs and settled in quickly, especially in [Poland](https://te.arielherself.xyz/europe/2022/09/01/ukrainian-refugees-are-making-poland-multicultural-again), which took in the largest number. But many refugee children are attending online classes given by Ukrainian schools. And generosity has its limits: in March, Poland will start charging refugees for government housing. Meanwhile, Russia claims that 2.9m Ukrainians have come there; many had no other way out of war zones. Thousands of Ukrainian children have been seized and placed with Russian foster parents.
 
-“His Dark Materials” has all the right ingredients. The television show is adapted from [Philip Pullman’s](https://te.arielherself.xyz/1843/2007/12/01/philip-pullmans-dark-arts) beloved fantasy novels, which have sold more than 17m copies worldwide. Jack Thorne, one of the screenwriters, is a BAFTA winner. The BBC and HBO have reached deep into their pockets—it is reportedly the BBC’s most expensive show ever—to fund the whizzy special effects. And it features a starry cast, including Ruth Wilson, Andrew Scott, Lin-Manuel Miranda and James McAvoy.
+## 2022 in review: the start of a new geopolitical era
 
-Yet although audiences enjoyed the first two seasons, most will probably find the third and final instalment, released in Britain on Sunday, and already streaming on HBO Max in America, more challenging. The first two followed Lyra (Dafne Keen) as she searched for a missing friend and learned about the Magisterium, a forbidding religious authority. The third tells a complex allegorical tale tracing several characters and requiring lots of exposition. Some stories, it seems, work best on the page.
+The war in Ukraine, and the intensifying [Sino-American rivalry](https://te.arielherself.xyz/leaders/2022/11/10/america-and-china-must-talk), herald a new geopolitical era. Russia shattered the norm that borders should not be changed by force and revived the spectre of nuclear war. America has rallied Western allies to help Ukraine. Even so, it regards China, whose shadow looms ever-larger over Taiwan, as a bigger foe than Russia. China’s growing nuclear stockpile may yet lead to a new arms race and jittery [three-way deterrence](https://te.arielherself.xyz/united-states/2022/11/29/how-will-america-deal-with-three-way-nuclear-deterrence). 
 
-## Weekend profile: Ekrem Imamoglu, the mayor of Istanbul facing prosecution
+Economic weapons are being wielded with new ferocity: Russia is starving Europe of fuel; the West is trying to [squeeze Russia’s revenues](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) through sanctions and embargoes. America, meanwhile, is working to constrain China’s industries and build up its own, to the ire of many allies. As cleavages deepen between [democracies and autocracies](https://te.arielherself.xyz/leaders/2022/07/28/how-to-deal-with-despots), much is uncertain—even the name of this post-post-cold-war era. “Great-power competition” is too bloodless; the “new cold war” too reductive. And the “decisive decade”—President Joe Biden’s phrase—won’t stick.
 
-As the former head of his family’s construction company, Ekrem Imamoglu says he often saw projects get bogged down by politics. He says he entered politics to untangle the red tape. That line got him elected mayor of a suburb of Istanbul in 2014 as a member of Turkey’s main opposition outfit, the Republican People’s Party (CHP). Five years later Mr Imamoglu was elected mayor of the whole city, but only after Justice and Development (AK), the party of Recep Tayyip Erdogan, Turkey’s president, contested the initial vote. Mr Imamoglu [won the rerun election by a landslide](https://te.arielherself.xyz/europe/2019/06/24/the-oppositions-new-star-deals-turkeys-president-a-stinging-blow). His victory was a heavy blow for Mr Erdogan, himself a former mayor of Istanbul who is fond of saying that “whoever wins Istanbul wins Turkey”. 
+## Daily quiz
 
-As mayor Mr Imamoglu has focused on quality-of-life issues in Europe’s most populous city, expanding the metro to ease traffic and improving storm-drainage to reduce flash-flooding. The president knows that the opposition’s successful management of Istanbul poses risks to his 20-year tenure in office, given that presidential elections are expected by June 2023. The CHP has yet to name a candidate to take on Mr Erdogan, and Mr Imamoglu has stayed mum on his ambitions for higher office. But polls suggest that he is one of the opposition politicians best placed to unseat Mr Erdogan at the ballot box.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ca9bbfa3b08fb9bab8afb9b9a58aafa9a5a4a5a7a3b9bee4a9a5a7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-Naturally charismatic, Mr Imamoglu is a rare unifying figure in Turkey’s polarised political landscape. He is religious and progressive. He is a Turk from the ultra-nationalist Black Sea region, but also appeals to minority voters like Kurds and Alevis. His appeal makes him a highly [dangerous rival to Mr Erdogan](https://te.arielherself.xyz/europe/2022/06/09/as-elections-approach-turkeys-president-finds-enemies-everywhere). On December 14th a court in Istanbul convicted Mr Imamoglu of “insulting” the officials who had ordered the rerun of the Istanbul mayoral election, whom he had called “fools”. He was sentenced to two years and seven months in prison, and banned from holding political office. An appeal is under way, but if it fails the ruling could bar Mr Imamoglu from challenging Mr Erdogan and AK at any level.
-
-Supporters of Mr Imamoglu think the case is politically motivated. But most analysts reckon that, if his conviction is overturned, it could rally voters behind him. After all, Mr Erdogan was catapulted to power after serving four months in prison for reading a religious poem. A ruling in Mr Imamoglu’s favour by the appeals court could just see him follow suit. 
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Writer’s washroom redesigned. Clearer! (4, 2, 5)
-
-<em>1 across</em> Confusing terminology that’s just a little chemical (6) 
-
-<em>2 across </em>Energy and light, we hear, are powerful (5) 
-
-<em>3 across</em> Former lover left, is headed elsewhere (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>Someone who might have imagined the scandals around Cyril Ramaphosa (4, 2, 5) 
-
-<em>1 across</em> Business, economics and finance are perennial sources of this (6)
-
-<em>2 across </em>A group preoccupied with imperialism and greatness (5) 
-
-<em>3 across</em> Grain is Ukraine’s biggest (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were:
-
-<strong>Sebastián Cova</strong>, Caracas, Venezuela
-
-<strong>Martha Baker</strong>, Uberlingen, Germany
-
-<strong>Martin Luebke</strong>, Petawawa, Canada
-
-They all gave the correct answers of The Count of Monte Cristo, Larry Bird, Bert, Oscar Hammerstein and fortune cookies. The theme is Sesame Street characters: Count von Count, Big Bird, Bert, Oscar the Grouch and Cookie Monster.
+<strong>Monday: </strong>Which musical is based on the story of passengers stranded in Canada after the September 11th attacks?
 
 ----------
 
