@@ -26,7 +26,7 @@ The <strong>African National Congress</strong>, South Africa’s governing party
 
 The High Court in London ruled that plans by <strong>Britain’s government</strong> to [deport asylum seekers](https://te.arielherself.xyz/britain/2022/11/02/why-small-boats-are-a-big-problem-for-britain) to <strong>Rwanda</strong> are legal. The court also decided that eight people set to be deported to the African country must have their cases reviewed. In June an intervention by the European Court of Human Rights stopped a British deportation flight to Rwanda minutes before departure.
 
-<strong>Twitter </strong>users voted for <strong>Elon Musk </strong>to step down as head of the social-media platform by a margin of 57.5% to 42.5%, in a poll that the billionaire launched himself. Over 17m people took part in the vote, the result of which Mr Musk promised to honour. He has faced criticism for several of his decisions since [purchasing the firm](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) in October. 
+<strong>Binance</strong>, the world’s largest <strong>cryptocurrency</strong> exchange, purchased the assets of Voyager Digital, a bankrupt cryptocurrency lender, for $1bn. Confidence in crypto is at a low ebb following the [implosion of FTX](https://te.arielherself.xyz/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars), a Bahamas-based crypto exchange. Undeterred, however, Binance is still expanding. The company also bought Tokocrypto, an Indonesian crypto exchange. 
 
 <strong>Fact of the day: </strong> 52,000, the number of reported thefts of catalytic converters in America in 2021, 13 times more than in 2020. [Read the full story](https://te.arielherself.xyz/united-states/2022/12/15/why-catalytic-converter-theft-has-soared-in-america).
 
@@ -66,7 +66,7 @@ Economic weapons are being wielded with new ferocity: Russia is starving Europe 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5e0f2b37241b2d2e2c3b2d2d311e3b3d31303133372d2a703d3133">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which musical is based on the story of passengers stranded in Canada after the September 11th attacks?
 
