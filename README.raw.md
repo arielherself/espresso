@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Russian forces</strong> launched a drone attack on Kyiv as they continued [to target](https://www.economist.com/ukraines-fateful-winter) Ukrainian infrastructure. Ukraine’s air force said it had shot down 30 Iranian-made drones over the capital. Earlier Volodymyr Zelensky, Ukraine’s president, said his country was ready for “all possible defence scenarios” as Russian troops prepared to conduct exercises in neighbouring Belarus. Vladimir Putin, Russia’s president, will travel to Belarus on Monday for the first time in more than three years as part of a broad “working visit”. 
+<strong>Russian forces</strong> launched a drone attack on Kyiv as it continues [to target](https://www.economist.com/ukraines-fateful-winter) Ukrainian infrastructure. Ukraine’s air force said it had shot down 30 Iranian-made drones over the capital. Earlier Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said his country was ready for “all possible defence scenarios” as Russian troops prepared to conduct exercises in neighbouring <strong>Belarus</strong>. Vladimir Putin, Russia’s president, arrived in Belarus on Monday for the first time in more than three years as part of a broad “working visit”.
 
 <strong>COP15</strong>, the UN’s [biodiversity summit](https://www.economist.com/the-economist-explains/2022/12/09/why-is-there-another-cop-happening), concluded with a historic deal to protect 30% of the planet’s ecosystems by 2030 and raise up to $30bn in annual conservation aid for developing countries. The chair of the summit, Huang Runqiu, China’s environment minister, overruled an objection from the Democratic Republic of Congo, which wanted more support for developing countries, to push through the deal.
 
@@ -60,7 +60,7 @@ Economic weapons are being wielded with new ferocity: Russia is starving Europe 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c998bca0b38cbab9bbacbabaa689acaaa6a7a6a4a0babde7aaa6a4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0f5e7a66754a7c7f7d6a7c7c604f6a6c60616062667c7b216c6062">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which musical is based on the story of passengers stranded in Canada after the September 11th attacks?
 
