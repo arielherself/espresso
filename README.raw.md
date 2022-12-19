@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The House committee [investigating the Capitol riot](https://www.economist.com/united-states/2022/06/29/donald-trumps-shameful-role-in-the-storming-of-the-capitol) of <strong>January 6th 2021</strong> recommended that the Justice Department charge <strong>Donald Trump</strong> with four federal crimes. They include obstruction of justice, conspiracy to defraud the United States, aid for an insurrection and making false statements to the government. The referrals carry no legal weight; prosecutors are conducting their own probe of the former president’s [efforts to overturn the 2020 election](https://www.economist.com/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump). 
+The House committee [investigating the Capitol riot](https://www.economist.com/united-states/2022/06/29/donald-trumps-shameful-role-in-the-storming-of-the-capitol) of <strong>January 6th 2021</strong> recommended that the Justice Department charge <strong>Donald Trump</strong> with four federal crimes. They are obstruction of justice, conspiracy to defraud the United States, aid to an insurrection and making false statements to the government. The referrals carry no legal weight; prosecutors are conducting their own probe of the former president’s [efforts to overturn the 2020 election](https://www.economist.com/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump). 
 
 <strong>EU </strong>energy ministers agreed to a <strong>cap on gas prices</strong>. Gas may not be bought or sold for more than €180 ($191) per MWh if contracts exceed that price for three consecutive days, which is far lower than the European Commission’s earlier proposal to [cap prices](https://www.economist.com/graphic-detail/2022/09/27/the-wrong-way-to-solve-europes-energy-crisis) when they hit €275 per MWh for ten days. The cap, which still needs to be legally approved, is due to come into force next February.
 
@@ -66,7 +66,7 @@ Economic weapons are being wielded with new ferocity: Russia is starving Europe 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f4a5819d8eb18784869187879bb491979b9a9b999d8780da979b99">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bbeaced2c1fec8cbc9dec8c8d4fbded8d4d5d4d6d2c8cf95d8d4d6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which musical is based on the story of passengers stranded in Canada after the September 11th attacks?
 
