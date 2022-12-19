@@ -22,7 +22,7 @@ The <strong>African National Congress</strong>, South Africa’s governing party
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Elon Musk asked users on <strong>Twitter</strong> if he should step down as the head of the social-media platform. Mr Musk has faced criticism for several decisions he’s made since [purchasing the firm in October](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last). The poll is scheduled to end on Monday and Mr Musk has promised to abide by the results.
+<strong>Twitter </strong>users voted for <strong>Elon Musk </strong>to step down as head of the social-media platform by a margin of 57.5% to 42.5%, in a poll that the billionaire launched himself. Over 17m people took part in the vote, the result of which Mr Musk promised to honour. He has faced criticism for several of his decisions since [purchasing the firm](https://www.economist.com/business/2022/10/28/elon-musk-buys-twitter-at-last) in October. 
 
 The <strong>Thai navy</strong> announced that one of its warships sank during a storm in the Gulf of Thailand. Seventy five of the crew were rescued, but 31 are still missing. The ship lost power and capsized after water flooded its hull. The navy launched an investigation into the disaster.
 
@@ -60,7 +60,7 @@ Economic weapons are being wielded with new ferocity: Russia is starving Europe 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1c4d697566596f6c6e796f6f735c797f73727371756f68327f7371">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which musical is based on the story of passengers stranded in Canada after the September 11th attacks?
 
