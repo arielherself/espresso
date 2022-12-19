@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Russian forces</strong> launched a drone attack on Kyiv as they continue [to target](https://te.arielherself.xyz/ukraines-fateful-winter) Ukrainian infrastructure. Ukraine’s air force said it had shot down 30 Iranian-made drones over the capital. Earlier Volodymyr Zelensky, Ukraine’s president, said his country was ready for “all possible defence scenarios” as Russian troops prepared to conduct exercises in neighbouring Belarus. Vladimir Putin, Russia’s president, will travel to Belarus on Monday for the first time in more than three years as part of a broad “working visit”. 
+<strong>Russian forces</strong> launched a drone attack on Kyiv as they continued [to target](https://te.arielherself.xyz/ukraines-fateful-winter) Ukrainian infrastructure. Ukraine’s air force said it had shot down 30 Iranian-made drones over the capital. Earlier Volodymyr Zelensky, Ukraine’s president, said his country was ready for “all possible defence scenarios” as Russian troops prepared to conduct exercises in neighbouring Belarus. Vladimir Putin, Russia’s president, will travel to Belarus on Monday for the first time in more than three years as part of a broad “working visit”. 
 
 <strong>COP15</strong>, the UN’s [biodiversity summit](https://te.arielherself.xyz/the-economist-explains/2022/12/09/why-is-there-another-cop-happening), concluded with a historic deal to protect 30% of the planet’s ecosystems by 2030 and raise up to $30bn in annual conservation aid for developing countries. The chair of the summit, Huang Runqiu, China’s environment minister, overruled an objection from the Democratic Republic of Congo, which wanted more support for developing countries, to push through the deal.
 
@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Twitter </strong>users voted for <strong>Elon Musk </strong>to step down as head of the social-media platform by a margin of 57.5% to 42.5%, in a poll that the billionaire launched himself. Over 17m people took part in the vote, the result of which Mr Musk promised to honour. He has faced criticism for several of his decisions since [purchasing the firm](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last) in October. 
 
-The <strong>Thai navy</strong> announced that one of its warships sank during a storm in the Gulf of Thailand. Seventy five of the crew were rescued, but 31 are still missing. The ship lost power and capsized after water flooded its hull. The navy launched an investigation into the disaster.
+The <strong>Thai navy</strong> announced that one of its warships sank during a storm in the Gulf of Thailand. Seventy-five of the crew were rescued, but 31 are still missing. The ship lost power and capsized after water flooded its hull. The navy launched an investigation into the disaster.
 
 <strong>Argentina </strong>beat <strong>France </strong>to win the [World Cup](https://te.arielherself.xyz/culture/2022/12/16/the-world-cup-final-pits-messi-against-mbappe) through a penalty shoot-out, after a thrilling 3-3 draw. France’s Kylian Mbappé scored three goals, a feat achieved only once before in the final. Argentina’s victory gives them their third title—and means that Lionel Messi, widely considered the best player in the world in recent years, has at last secured a prize that had long eluded him.
 
@@ -60,7 +60,7 @@ Economic weapons are being wielded with new ferocity: Russia is starving Europe 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1c4d697566596f6c6e796f6f735c797f73727371756f68327f7371">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6637130f1c23151614031515092603050908090b0f15124805090b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which musical is based on the story of passengers stranded in Canada after the September 11th attacks?
 
