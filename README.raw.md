@@ -34,7 +34,7 @@ The <strong>Thai navy</strong> announced that one of its warships sank during a 
 
 ## 2022 in review: war returns to Europe
 
-<em>This week we are looking back on 2022. Today, the Ukraine war.</em>
+<em>This week we are looking back on 2022. Today, the war in Ukraine.</em>
 
 When Russian tanks rolled into Ukraine at dawn on February 24th, most Western officials thought Kyiv, the capital, would be overrun in days. In fact, Russia’s army was forced to retreat from the north of Ukraine after little over a month. It turned instead to the eastern Donbas region, which over the summer saw the most intense artillery duels since the second world war. By early July Russia had conquered almost all of Luhansk province, but ran out of steam in next-door Donetsk.
 
@@ -42,11 +42,15 @@ The next month Ukraine, armed with American and European artillery and fresh sup
 
 ## 2022 in review: the year economic woes kept piling up
 
+<em>This week we are looking back on 2022. Today, the war in Ukraine.</em>
+
 Before the war in Ukraine began, the global economy was suffering from the after-effects of covid-19. A boom triggered by the West’s lifting of pandemic restrictions had started to fade. At the same time, fiscal-stimulus programmes and supply-chain disruptions caused by the sudden recovery in demand pushed up inflation. China did not begin to reopen until the end of 2022: its zero-covid policy hampered growth both there and elsewhere.
 
 The energy-price jump that followed Russia’s invasion led to another bout of inflation while central banks were still busy fighting the last one. Governments in rich countries spent billions to protect households and businesses from sharply higher prices, pushing up public debt. Higher interest rates in the rich world forced up rates in poorer countries, where the hardship caused by rising food prices is greatest. In 2023, the global economy will struggle to recover.
 
 ## 2022 in review: Europe’s biggest refugee movements in decades
+
+<em>This week we are looking back on 2022. Today, the war in Ukraine.</em>
 
 Russia’s invasion of Ukraine caused the largest exodus of people in Europe since the second world war. Millions [returned home](https://www.economist.com/europe/2022/05/24/as-russias-invasion-stalls-ukraines-refugees-return-home) when it became clear that Russia could not quickly conquer the whole country. But as the war has dragged on into the winter, people continue to trickle out of Ukraine: by December 6th more than 4.8m Ukrainians, almost all of them women and children, had registered for refugee-support schemes in Europe. 
 
@@ -54,13 +58,15 @@ The EU gave all Ukrainians immediate permission to work and receive social benef
 
 ## 2022 in review: the start of a new geopolitical era
 
+<em>This week we are looking back on 2022. Today, the war in Ukraine.</em>
+
 The war in Ukraine, and the intensifying [Sino-American rivalry](https://www.economist.com/leaders/2022/11/10/america-and-china-must-talk), herald a new geopolitical era. Russia shattered the norm that borders should not be changed by force and revived the spectre of nuclear war. America has rallied Western allies to help Ukraine. Even so, it regards China, whose shadow looms ever-larger over Taiwan, as a bigger foe than Russia. China’s growing nuclear stockpile may yet lead to a new arms race and jittery [three-way deterrence](https://www.economist.com/united-states/2022/11/29/how-will-america-deal-with-three-way-nuclear-deterrence). 
 
 Economic weapons are being wielded with new ferocity: Russia is starving Europe of fuel; the West is trying to [squeeze Russia’s revenues](https://www.economist.com/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) through sanctions and embargoes. America, meanwhile, is working to constrain China’s industries and build up its own, to the ire of many allies. As cleavages deepen between [democracies and autocracies](https://www.economist.com/leaders/2022/07/28/how-to-deal-with-despots), much is uncertain—even the name of this post-post-cold-war era. “Great-power competition” is too bloodless; the “new cold war” too reductive. And the “decisive decade”—President Joe Biden’s phrase—won’t stick.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0455716d7e417774766177776b4461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="f7a6829e8db284878592848498b792949899989a9e8483d994989a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which musical is based on the story of passengers stranded in Canada after the September 11th attacks?
 
