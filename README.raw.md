@@ -18,15 +18,15 @@
 
 The <strong>Bank of Japan</strong> adjusted its yield cap in a [surprise tweak](https://www.economist.com/finance-and-economics/2022/12/20/the-bank-of-japan-shocks-investors) to its ultra-loose monetary policy. Yields on ten-year bonds will now have an upper limit of 0.5%, up from 0.25%. Forecasters had predicted no such change. The BoJ’s commitment to maintaining its yield cap is seen as an anchor helping to keep borrowing costs low around the world. The yen surged against the dollar in response.
 
-Members of <strong>Congress</strong>, [America’s legislature](https://www.economist.com/leaders/2022/11/23/a-wish-list-of-centrist-proposals-for-the-lame-duck-congress), unveiled an “omnibus” <strong>spending bill </strong>worth $1.7trn. The bill is the outcome of negotiations between top Democrats and Republicans and funds the American government for the 2023 fiscal year. It also provides $44.9bn in additional assistance to Ukraine and NATO, and bans TikTok, a Chinese-owned social-media platform, on government phones. Congress must pass the bill by Friday to avoid a government shutdown. 
+The <strong>Taliban</strong> barred <strong>women</strong> from attending university in Afghanistan. The edict, issued in a letter by the higher-education minister, adds to the many schooling-related [obstacles](https://www.economist.com/leaders/the-taliban-are-shackling-half-the-afghan-population/21808483) the Taliban have imposed on Afghan women since regaining power in 2021. They in effect banned girls from secondary school after taking over, and in October severely restricted the subjects women could study at university.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+Members of <strong>Congress</strong>, [America’s legislature](https://www.economist.com/leaders/2022/11/23/a-wish-list-of-centrist-proposals-for-the-lame-duck-congress), unveiled an “omnibus” <strong>spending bill </strong>worth $1.7trn. The bill is the outcome of negotiations between top Democrats and Republicans and funds the American government for the 2023 fiscal year. It also provides $44.9bn in additional assistance to Ukraine and NATO, and bans TikTok, a Chinese-owned social-media platform, on government phones. Congress must pass the bill by Friday to avoid a government shutdown. 
 
 <strong>Amazon</strong> [reached a settlement](https://www.economist.com/europe/2022/09/01/is-the-eu-overreaching-with-new-digital-regulations) with <strong>EU regulators</strong> to end an antitrust probe, avoiding a potential fine of 10% of global revenues. Regulators accused Amazon of abusing its position to give its own products an unfair advantage on its online marketplace. The American tech firm agreed to display competing goods more prominently and allow sellers to use logistics companies other than those it approved.
 
 A court in <strong>Germany </strong>found a 97-year-old woman guilty of complicity in the murders of more than 10,500 people at a <strong>Nazi concentration camp</strong>. Irmgard Furchner worked as a secretary for the commander of the Stutthof camp near Gdansk, now in Poland. She was given a two-year suspended sentence. The trial may be one of the last to investigate Nazi-era crimes in Germany. 
-
-The <strong>Taliban</strong> barred <strong>women</strong> from attending university in Afghanistan. The edict, issued in a letter by the higher-education minister, adds to the many schooling-related [obstacles](https://www.economist.com/leaders/the-taliban-are-shackling-half-the-afghan-population/21808483) the Taliban have imposed on Afghan women since regaining power in 2021. They effectively banned girls from secondary school after taking over, and in October severely restricted the subjects women could study at university.
 
 <strong>Fact of the day: </strong>$1.6trn, the potential loss in children’s lifetime earnings caused by pre-school closures during 2020, according to UNICEF. [Read the full story](https://www.economist.com/international/2022/12/15/the-pandemics-indirect-effects-on-small-children-could-last-a-lifetime).
 
@@ -66,7 +66,7 @@ Three weeks later Mr Bolsonaro [challenged the results](https://www.economist.co
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> What Wyoming attraction erupts every one to two hours?
 
