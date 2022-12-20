@@ -22,11 +22,11 @@ The <strong>Taliban</strong> barred <strong>women</strong> from attending univer
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Mexico</strong> granted asylum to family members of <strong>Peru’s</strong> former president, Pedro Castillo, who faces prosecution for his attempt to [dissolve the legislature](https://www.economist.com/the-americas/2022/12/07/after-a-bungled-coup-attempt-perus-president-falls). Mexico did not say which of his relatives or how many had sought refuge at its embassy in Lima. Several, including his wife, are being investigated for corruption. Mexico’s president continues to acknowledge Mr Castillo, a fellow leftist, as Peru’s rightful leader.
+
 Members of <strong>Congress</strong>, [America’s legislature](https://www.economist.com/leaders/2022/11/23/a-wish-list-of-centrist-proposals-for-the-lame-duck-congress), unveiled an “omnibus” <strong>spending bill </strong>worth $1.7trn. The bill is the outcome of negotiations between top Democrats and Republicans and funds the American government for the 2023 fiscal year. It also provides $44.9bn in additional assistance to Ukraine and NATO, and bans TikTok, a Chinese-owned social-media platform, on government phones. Congress must pass the bill by Friday to avoid a government shutdown. 
 
 <strong>Amazon</strong> [reached a settlement](https://www.economist.com/europe/2022/09/01/is-the-eu-overreaching-with-new-digital-regulations) with <strong>EU regulators</strong> to end an antitrust probe, avoiding a potential fine of 10% of global revenues. Regulators accused Amazon of abusing its position to give its own products an unfair advantage on its online marketplace. The American tech firm agreed to display competing goods more prominently and allow sellers to use logistics companies other than those it approved.
-
-A court in <strong>Germany </strong>found a 97-year-old woman guilty of complicity in the murders of more than 10,500 people at a <strong>Nazi concentration camp</strong>. Irmgard Furchner worked as a secretary for the commander of the Stutthof camp near Gdansk, now in Poland. She was given a two-year suspended sentence. The trial may be one of the last to investigate Nazi-era crimes in Germany. 
 
 <strong>Fact of the day: </strong>$1.6trn, the potential loss in children’s lifetime earnings caused by pre-school closures during 2020, according to UNICEF. [Read the full story](https://www.economist.com/international/2022/12/15/the-pandemics-indirect-effects-on-small-children-could-last-a-lifetime).
 
@@ -66,7 +66,7 @@ Three weeks later Mr Bolsonaro [challenged the results](https://www.economist.co
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="015074687b447271736472726e4164626e6f6e6c6872752f626e6c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="5f0e2a36251a2c2f2d3a2c2c301f3a3c30313032362c2b713c3032">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> What Wyoming attraction erupts every one to two hours?
 
