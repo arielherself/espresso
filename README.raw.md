@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Volodymyr Zelensky</strong>, Ukraine’s president, made a surprise visit to <strong>Bakhmut</strong>, a town in eastern Ukraine that Russia has been [attempting to seize](https://www.economist.com/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut) for months. Mr Zelensky met with soldiers and handed out medals. Meanwhile <strong>Vladimir Putin</strong> admitted that the situation in the [four regions of Ukraine](https://www.economist.com/zaluzhny-transcript) that his country claimed to have annexed in September is “extremely difficult”. Mr Putin also called for increased surveillance in Russia.
+<strong>Volodymyr Zelensky</strong>, Ukraine’s president, made a surprise visit to <strong>Bakhmut</strong>, a town in eastern Ukraine that Russia has been [attempting to seize](https://www.economist.com/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut) for months. Mr Zelensky met with soldiers and handed out medals. <strong>Vladimir Putin</strong> admitted that the situation in the [four regions of Ukraine](https://www.economist.com/zaluzhny-transcript) that his country claimed to have annexed in September is “extremely difficult”. Meanwhile, the Kremlin moved to shut down the Moscow Helsinki Group, one of Russia’s most prominent human-rights organisations.
 
 <strong>Wells Fargo</strong> agreed to a $3.7bn settlement with America’s Consumer Financial Protection Bureau over mismanagement tied to mortgages and loans. The CFPB ordered America’s [fourth-largest bank](https://www.economist.com/finance-and-economics/2019/10/26/what-kind-of-bank-will-wells-fargo-be) to pay $2bn to redress harm done to customers and fined the bank $1.7bn—a record amount. Wells Fargo has been scandal-stricken since 2016, when it emerged that it had opened fraudulent customer accounts.
 
@@ -66,7 +66,7 @@ Three weeks later Mr Bolsonaro [challenged the results](https://www.economist.co
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="87d6f2eefdc2f4f7f5e2f4f4e8c7e2e4e8e9e8eaeef4f3a9e4e8ea">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4d1c382437083e3d3f283e3e220d282e22232220243e39632e2220">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> What Wyoming attraction erupts every one to two hours?
 
