@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 A court in <strong>Germany </strong>found a 97-year-old woman guilty of complicity in the murders of more than 10,500 people at a <strong>Nazi concentration camp</strong>. Irmgard Furchner worked as a secretary for the commander of the Stutthof camp near Gdansk, now in Poland. She was given a two-year suspended sentence. The trial may be one of the last to investigate Nazi-era crimes in Germany. 
 
-<strong>China</strong> is scrambling to strengthen its [health-care system](https://te.arielherself.xyz/china/2022/12/19/a-wave-of-covid-19-reveals-flaws-in-chinas-health-system) as covid-19 spreads through the country. Officials in several cities are building “fever clinics” at hospitals to treat patients. Five covid-related deaths were reported on Tuesday, but the true figure is likely [to be far higher](https://te.arielherself.xyz/china/2022/12/15/our-model-shows-that-chinas-covid-death-toll-could-be-massive). State media said the country should return to “normalcy” within a few months.
+The <strong>Taliban</strong> barred <strong>women</strong> from attending university in Afghanistan. The edict, issued in a letter by the higher-education minister, adds to the many schooling-related [obstacles](https://te.arielherself.xyz/leaders/the-taliban-are-shackling-half-the-afghan-population/21808483) the Taliban have imposed on Afghan women since regaining power in 2021. They effectively banned girls from secondary school after taking over, and in October severely restricted the subjects women could study at university.
 
 <strong>Fact of the day: </strong>$1.6trn, the potential loss in children’s lifetime earnings caused by pre-school closures during 2020, according to UNICEF. [Read the full story](https://te.arielherself.xyz/international/2022/12/15/the-pandemics-indirect-effects-on-small-children-could-last-a-lifetime).
 
@@ -66,7 +66,7 @@ Three weeks later Mr Bolsonaro [challenged the results](https://te.arielherself.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6d3c180417281e1d1f081e1e022d080e02030200041e19430e0200">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> What Wyoming attraction erupts every one to two hours?
 
