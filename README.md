@@ -18,7 +18,7 @@ The <strong>Bank of Japan</strong> adjusted its yield cap in a surprise tweak to
 
 Members of <strong>Congress</strong>, [America’s legislature](https://te.arielherself.xyz/leaders/2022/11/23/a-wish-list-of-centrist-proposals-for-the-lame-duck-congress), unveiled an “omnibus” <strong>spending bill </strong>worth $1.7trn. The bill is the outcome of negotiations between top Democrats and Republicans and funds the American government for the 2023 fiscal year. It also provides $44.9bn in additional assistance to Ukraine and NATO, and bans TikTok, a Chinese-owned social-media platform, on government phones. Congress must pass the bill by Friday to avoid a government shutdown. 
 
-<strong>Vladimir Putin</strong>, Russia’s president, admitted that the situation in the [four regions of Ukraine](https://te.arielherself.xyz/zaluzhny-transcript) that his country annexed in September is “extremely difficult”. Mr Putin also called for increased surveillance in Russia and its borders to tackle the “emergence of new threats”. On Monday Mr Putin travelled to Belarus to meet Alexander Lukashenko, his thuggish counterpart there.
+<strong>Volodymyr Zelensky</strong>, Ukraine’s president, made a surprise visit to Bakhmut, a tiny town in eastern Ukraine that Russia has been [attempting to seize](https://te.arielherself.xyz/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut) for months. Mr Zelensky met with soldiers and handed out medals. Meanwhile <strong>Vladimir Putin</strong> admitted that the situation in the [four regions of Ukraine](https://te.arielherself.xyz/zaluzhny-transcript) that his country annexed in September is “extremely difficult”. Mr Putin also called for increased surveillance in Russia.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ Three weeks later Mr Bolsonaro [challenged the results](https://te.arielherself.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d283a7bba897a1a2a0b7a1a1bd92b7b1bdbcbdbfbba1a6fcb1bdbf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> What Wyoming attraction erupts every one to two hours?
 
