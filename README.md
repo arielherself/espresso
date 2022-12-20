@@ -16,9 +16,9 @@
 
 The <strong>Bank of Japan</strong> adjusted its yield cap in a surprise tweak to its [ultra-loose monetary policy](https://te.arielherself.xyz/finance-and-economics/2022/09/29/japans-monetary-policymakers-are-sticking-to-their-guns). Yields on ten-year bonds will now have an upper limit of 0.5%, up from 0.25%. Forecasters had predicted no such change. The BoJ’s commitment to maintaining its yield cap is seen as an anchor helping to keep borrowing costs low around the world. The yen surged against the dollar in response.
 
-The House committee [investigating the Capitol riot](https://te.arielherself.xyz/united-states/2022/06/29/donald-trumps-shameful-role-in-the-storming-of-the-capitol) of <strong>January 6th 2021</strong> recommended that the Justice Department charge <strong>Donald Trump</strong> with four federal crimes. They are obstruction of justice, conspiracy to defraud the United States, aid to an insurrection and making false statements to the government. The referrals carry no legal weight; prosecutors are conducting their own probe of the former president’s [efforts to overturn the 2020 election](https://te.arielherself.xyz/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump).
-
 Members of <strong>Congress</strong>, [America’s legislature](https://te.arielherself.xyz/leaders/2022/11/23/a-wish-list-of-centrist-proposals-for-the-lame-duck-congress), unveiled an “omnibus” <strong>spending bill </strong>worth $1.7trn. The bill is the outcome of negotiations between top Democrats and Republicans and funds the American government for the 2023 fiscal year. It also provides $44.9bn in additional assistance to Ukraine and NATO, and bans TikTok, a Chinese-owned social-media platform, on government phones. Congress must pass the bill by Friday to avoid a government shutdown. 
+
+The House committee [investigating the Capitol riot](https://te.arielherself.xyz/united-states/2022/06/29/donald-trumps-shameful-role-in-the-storming-of-the-capitol) of <strong>January 6th 2021</strong> recommended that the Justice Department charge <strong>Donald Trump</strong> with four federal crimes. They are obstruction of justice, conspiracy to defraud the United States, aid to an insurrection and making false statements to the government. The referrals carry no legal weight; prosecutors are conducting their own probe of the former president’s [efforts to overturn the 2020 election](https://te.arielherself.xyz/united-states/2022/07/21/the-january-6th-committee-has-hobbled-donald-trump).
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ Three weeks later Mr Bolsonaro [challenged the results](https://te.arielherself.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4716322e3d02343735223434280722242829282a2e34336924282a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3b6a4e52417e484b495e4848547b5e585455545652484f15585456">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> What Wyoming attraction erupts every one to two hours?
 
