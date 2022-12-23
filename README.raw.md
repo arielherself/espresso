@@ -12,13 +12,13 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The committee [investigating the assault](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) on <strong>America’s Capitol</strong> in 2021 released its final report, blaming the attack on “one man”—<strong>Donald Trump</strong>. The former president is accused of carrying out “a multi-part plan to overturn the 2020 presidential election”. The report’s release is the culmination of an 18-month-long investigation and comes days after the committee recommended that Mr Trump be charged with federal crimes.
+America’s <strong>House of Representatives</strong> averted a partial government shutdown by passing a $1.7trn <strong>spending bill</strong>, which includes $45bn in further [aid to Ukraine](https://www.economist.com/united-states/2022/12/21/volodymyr-zelensky-brings-his-message-to-washington). President Joe Biden is expected to sign the bill in the coming days. Lawmakers rushed to get the legislation through before midnight on Friday, when current funding for federal agencies was due to run out.
 
 Three people were killed, and several injured, by a gunman who opened fire in central <strong>Paris</strong>. Witnesses said the attacker seemed to be targeting a Kurdish community centre. One suspect, aged 69, was detained by police. The man had previously been arrested for attacking tents in a migrant camp. Gérald Darmanin, the interior minister, said that the gunman was “clearly targeting foreigners”.
 
 <strong>Russia</strong> may cut oil output by up to 7% in early 2023, said Alexander Novak, a deputy prime minister. This month the EU, the G7 and Australia imposed a $60-a-barrel [price cap](https://www.economist.com/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) on Russian seaborne oil. But Mr Novak said that Russia had diversified its buyers and would not sell to any country that applied the cap.
 
-<strong>North Korea </strong>denied supplying arms to [the Wagner Group](https://www.economist.com/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a<strong> Russian</strong> mercenary organisation fighting in <strong>Ukraine</strong>. John Kirby, the <strong>White House</strong>’s national-security spokesman, said that, “North Korea has completed an initial arms delivery to Wagner, which paid for that equipment”. Wagner, run by a close associate of Vladimir Putin, is estimated to be spending $100m per month in Ukraine.
+The committee [investigating the assault](https://www.economist.com/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) on <strong>America’s Capitol</strong> in 2021 released its final report, blaming the attack on “one man”—<strong>Donald Trump</strong>. The former president is accused of carrying out “a multi-part plan to overturn the 2020 presidential election”. The report’s release is the culmination of an 18-month-long investigation and comes days after the committee recommended that Mr Trump be charged with federal crimes.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The JWST was launched on Christmas Day 2021, after 11 years of delays and at a c
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ecbd998596a99f9c9e899f9f83ac898f83828381859f98c28f8381">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3d6c485447784e4d4f584e4e527d585e52535250544e49135e5250">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday: </strong>What term was popularised by Richard Nixon to describe the many millions of people who did not take part in anti-war demonstrations, but agreed with him?
 
