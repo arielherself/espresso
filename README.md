@@ -16,7 +16,7 @@ The committee [investigating the assault](https://te.arielherself.xyz/united-sta
 
 <strong>North Korea </strong>denied supplying arms to [the Wagner Group](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a<strong> Russian</strong> mercenary organisation fighting in <strong>Ukraine</strong>. John Kirby, the <strong>White House</strong>’s national-security spokesman, said that, “North Korea has completed an initial arms delivery to Wagner, which paid for that equipment”. Wagner, run by a close associate of Vladimir Putin, is estimated to be spending $100m per month in Ukraine.
 
-Two people were killed, and several injured, by a gunman who opened fire in central <strong>Paris</strong>. The attack happened near Gare de l’Est, a major train station in the east of the city. One suspect, aged 69, has been detained by police.
+Two people were killed, and four injured, by a gunman who opened fire in central <strong>Paris</strong>. The attack happened near the Gare de l’Est train station. One suspect, aged 69, has been detained by police.
 
 <strong>Inflation</strong> in <strong>Japan</strong> rose to a four-decade high in November. The core consumer price index, which excludes food prices, increased by 3.7% year on year, well above the Bank of Japan’s target of 2%. Meanwhile, on Friday the cabinet approved a budget that will increase [defence spending](https://te.arielherself.xyz/asia/2022/12/12/east-asias-big-beasts-are-getting-on-badly) by $51.4bn in 2023, amid rising threats from China, North Korea and Russia.
 
@@ -42,11 +42,15 @@ But the summit may have tipped the balance of debate on “[loss and damage](htt
 
 ## 2022 in review: The spectre of covid-19
 
+<em>This week we are looking back on 2022. Today, science and technology</em>
+
 For many in the West covid-19 has finally begun to fade from view this year—and more is being revealed about how it has changed public health. Efforts put into rapidly producing effective vaccines and tests could transform approaches to the treatment of other diseases, such as [tuberculosis](https://te.arielherself.xyz/international/2022/10/27/how-one-pandemic-made-another-one-worse). Moreover, scientists’ success in tracking covid-19 in cities’ sewers has renewed interest in the ways [wastewater](https://te.arielherself.xyz/international/2022/09/07/how-covid-19-spurred-governments-to-snoop-on-sewage) can help to monitor other illnesses.
 
 The pandemic’s deadly consequences are becoming clearer, too. While the official global death toll stands around 6.6m, <em>The Economist</em>’s [model](https://te.arielherself.xyz/graphic-detail/coronavirus-excess-deaths-estimates) puts the true number of excess deaths around three times as high, 20.6m by early December. And the economic and political costs of the virus continue to be felt, especially in China, where a zero-covid policy recently sparked rare [protests](https://te.arielherself.xyz/china/2022/12/01/lessons-from-a-chinese-protest). The authorities have now largely ditched the policy, [unleashing](https://te.arielherself.xyz/china/2022/12/13/how-chinese-people-are-dealing-with-the-spread-of-covid-19) a wave of cases across a population almost entirely new to the virus. For some, the pandemic’s shadow still looks dark indeed.
 
 ## 2022 in review: Making strides towards a circular economy
+
+<em>This week we are looking back on 2022. Today, science and technology</em>
 
 The “gigafactories”, in which [batteries](https://te.arielherself.xyz/science-and-technology/2022/10/26/gigafactories-are-recycling-old-ev-batteries-into-new-ones) for electric vehicles are made are in the vanguard of an economic revolution. Battery-makers increasingly pursue “circular manufacturing”, a long-held dream in which firms make new products by recycling their old ones, thus reducing their environmental footprints. Sweden’s Northvolt, for instance, aims to obtain half its raw materials, including lithium and cobalt, from recycled batteries by 2030.
 
@@ -54,13 +58,15 @@ The challenges are complex. A lot of cobalt, for example, comes from the Democra
 
 ## 2022 in review: How the James Webb Space Telescope is changing astronomy
 
+<em>This week we are looking back on 2022. Today, science and technology</em>
+
 In July the first images emerged from the[ James Webb Space Telescope](https://te.arielherself.xyz/science-and-technology/2022/07/11/the-james-webb-space-telescope-opens-for-business), the largest space telescope ever built. One of their subjects was the “Cosmic Cliffs”—stunning, textured peaks of dust and gas in the Carina nebula. The JWST’s predecessor, the Hubble Space Telescope, snapped the same region in 2005. But the difference between the vistas could not be more striking. The JWST had already spotted baby stars among the peaks that no previous observatory could see.
 
 The JWST was launched on Christmas Day 2021, after 11 years of delays and at a cost of $9.7bn. It has given astronomers their [most powerful tool yet](https://te.arielherself.xyz/the-economist-explains/2022/07/29/how-is-the-james-webb-space-telescope-changing-astronomy) for scanning the cosmos in infrared frequencies of light. That will let them study many things they have struggled to examine in the past—in particular, the formation of stars and planets, from the universe’s youth to the present day. There will be a lengthy queue of astronomers eager to explore its startling potential.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="edbc988497a89e9d9f889e9e82ad888e82838280849e99c38e8280">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday: </strong>What term was popularised by Richard Nixon to describe the many millions of people who did not take part in anti-war demonstrations, but agreed with him?
 
