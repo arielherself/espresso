@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Meta</strong>, Facebook’s parent company, agreed to pay $725m to settle a class-action lawsuit in America, which accused the social-media platform of allowing third parties, including <strong>Cambridge Analytica</strong>, a British consultancy, to access users’ data. The plaintiffs’ lawyers said the settlement is the largest ever obtained in a data-privacy class-action suit in America. The settlement still needs to be approved by a federal judge in San Francisco.
 
-More than 1m <strong>Americans</strong> were left without power as huge swathes of the country, particularly the midwest and north-east, battled Arctic temperatures, high winds, snow and heavy rain. Meteorologists said the winter storm had developed into a <strong>“bomb cyclone”⁠</strong>—a storm that rapidly intensifies—⁠⁠over the Great Lakes region. Thousands of flights were cancelled. 
+More than 1.5m <strong>Americans</strong> were left without power as huge swathes of the country, particularly the midwest and north-east, battled Arctic temperatures, high winds, snow and heavy rain. Meteorologists said the winter storm had developed into a <strong>“bomb cyclone”⁠</strong>—a storm that rapidly intensifies—⁠⁠over the Great Lakes region. Thousands of flights were cancelled. 
 
 <strong>Fact of the day:</strong> 6m, the number of people that the Saudi Arabian government wants to attend the <em>haj</em>, the Muslim pilgrimage, each year by 2030. [Read the full story](https://te.arielherself.xyz/interactive/christmas-specials/2022/12/20/how-will-the-haj-change-as-global-temperatures-rise).
 
@@ -66,7 +66,7 @@ The JWST was launched on Christmas Day 2021, after 11 years of delays and at a c
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="015074687b447271736472726e4164626e6f6e6c6872752f626e6c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday: </strong>What term was popularised by Richard Nixon to describe the many millions of people who did not take part in anti-war demonstrations, but agreed with him?
 
