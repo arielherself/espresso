@@ -18,15 +18,15 @@ Three people were killed, and four injured, by a gunman who opened fire in centr
 
 <strong>North Korea </strong>denied supplying arms to [the Wagner Group](https://www.economist.com/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a<strong> Russian</strong> mercenary organisation fighting in <strong>Ukraine</strong>. John Kirby, the <strong>White House</strong>’s national-security spokesman, said that, “North Korea has completed an initial arms delivery to Wagner, which paid for that equipment”. Wagner, run by a close associate of Vladimir Putin, is estimated to be spending $100m per month in Ukraine.
 
-<strong>Inflation</strong> in <strong>Japan</strong> rose to a four-decade high in November. The core consumer price index, which excludes food prices, increased by 3.7% year on year, well above the Bank of Japan’s target of 2%. Meanwhile, on Friday the cabinet approved a budget that will increase [defence spending](https://www.economist.com/asia/2022/12/12/east-asias-big-beasts-are-getting-on-badly) by $51.4bn in 2023, amid rising threats from China, North Korea and Russia.
+<strong>Russia</strong> may cut oil output by up to 7% in early 2023, in response to a [price cap](https://www.economist.com/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) imposed by the EU, the G7 and Australia. Since December 5th there has been a $60-a-barrel cap on shipments of Russian oil in the West. But Alexander Novak, Russia’s deputy prime minister, said that Russia had diversified its buyers and would not sell to any country that joined the price cap.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Inflation</strong> in <strong>Japan</strong> rose to a four-decade high in November. The core consumer price index, which excludes food prices, increased by 3.7% year on year, well above the Bank of Japan’s target of 2%. Meanwhile, on Friday the cabinet approved a budget that will increase [defence spending](https://www.economist.com/asia/2022/12/12/east-asias-big-beasts-are-getting-on-badly) by $51.4bn in 2023, amid rising threats from China, North Korea and Russia.
 
 <strong>Meta</strong>, Facebook’s parent company, agreed to pay $725m to settle a class-action lawsuit in America, which accused the social-media platform of allowing third parties, including <strong>Cambridge Analytica</strong>, a British consultancy, to access users’ data. The plaintiffs’ lawyers said the settlement is the largest ever obtained in a data-privacy class-action suit in America. The settlement still needs to be approved by a federal judge in San Francisco.
 
 <strong>ByteDance </strong>sacked four employees who accessed user data of two journalists on <strong>TikTok</strong>, the social-media platform it owns. The employees had been investigating leaks of company information to the press. The revelation will increase America’s [security concerns](https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver) about TikTok’s user data. Earlier this week the Senate passed a bill banning the app from all government devices.
-
-<strong>America</strong>’s Senate passed a<strong> $1.7trn spending bill</strong> to finance federal agencies until next September and provide further [aid to Ukraine](https://www.economist.com/united-states/2022/12/21/volodymyr-zelensky-brings-his-message-to-washington). The bill must now go to the House of Representatives for a final vote before being signed by President Joe Biden. Lawmakers are rushing to get the legislation through before midnight on Friday, when current funding will run out and trigger a partial government shutdown.
 
 <strong>Fact of the day:</strong> 6m, the number of people that the Saudi Arabian government wants to attend the <em>haj</em>, the Muslim pilgrimage, each year by 2030. [Read the full story](https://www.economist.com/interactive/christmas-specials/2022/12/20/how-will-the-haj-change-as-global-temperatures-rise).
 
@@ -66,7 +66,7 @@ The JWST was launched on Christmas Day 2021, after 11 years of delays and at a c
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="83d2f6eaf9c6f0f3f1e6f0f0ecc3e6e0ecedeceeeaf0f7ade0ecee">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="19486c70635c6a696b7c6a6a76597c7a76777674706a6d377a7674">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday: </strong>What term was popularised by Richard Nixon to describe the many millions of people who did not take part in anti-war demonstrations, but agreed with him?
 
