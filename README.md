@@ -14,11 +14,11 @@
 
 The committee [investigating the assault](https://te.arielherself.xyz/united-states/2022/06/10/congresss-capitol-riot-hearing-confirms-donald-trumps-complicity) on <strong>America’s Capitol</strong> in 2021 released its final report, blaming the attack on “one man”—<strong>Donald Trump</strong>. The former president is accused of carrying out “a multi-part plan to overturn the 2020 presidential election”. The report’s release is the culmination of an 18-month-long investigation and comes days after the committee recommended that Mr Trump be charged with federal crimes.
 
-Three people were killed, and several injured, by a gunman who opened fire in central <strong>Paris</strong>. Witnesses said the attacker seemed to be targeting a Kurdish community centre. One suspect, aged 69, was detained by police. The man had previously been arrested for attacking tents in a migrant camp.
+Three people were killed, and several injured, by a gunman who opened fire in central <strong>Paris</strong>. Witnesses said the attacker seemed to be targeting a Kurdish community centre. One suspect, aged 69, was detained by police. The man had previously been arrested for attacking tents in a migrant camp. Gérald Darmanin, the interior minister, said that the gunman was “clearly targeting foreigners”.
+
+<strong>Russia</strong> may cut oil output by up to 7% in early 2023, said Alexander Novak, a deputy prime minister. This month the EU, the G7 and Australia imposed a $60-a-barrel [price cap](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) on Russian seaborne oil. But Mr Novak said that Russia had diversified its buyers and would not sell to any country that applied the cap.
 
 <strong>North Korea </strong>denied supplying arms to [the Wagner Group](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a<strong> Russian</strong> mercenary organisation fighting in <strong>Ukraine</strong>. John Kirby, the <strong>White House</strong>’s national-security spokesman, said that, “North Korea has completed an initial arms delivery to Wagner, which paid for that equipment”. Wagner, run by a close associate of Vladimir Putin, is estimated to be spending $100m per month in Ukraine.
-
-<strong>Russia</strong> may cut oil output by up to 7% in early 2023, in response to a [price cap](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) imposed by the EU, the G7 and Australia. Since December 5th there has been a $60-a-barrel cap on shipments of Russian oil in the West. But Alexander Novak, Russia’s deputy prime minister, said that Russia had diversified its buyers and would not sell to any country that joined the price cap.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The JWST was launched on Christmas Day 2021, after 11 years of delays and at a c
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e4b5918d9ea19794968197978ba481878b8a8b898d9790ca878b89">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday: </strong>What term was popularised by Richard Nixon to describe the many millions of people who did not take part in anti-war demonstrations, but agreed with him?
 
