@@ -18,15 +18,15 @@ Nearly 250m people in <strong>China</strong> may have been infected with <strong
 
 Seven people were killed, dozens more injured and several buildings damaged as <strong>Russia</strong> bombarded <strong>Kherson</strong>, a city in southern Ukraine. Kherson, which was liberated in November, had been the only Ukrainian regional capital captured by Russia during its invasion. Volodymyr Zelensky, Ukraine’s president, described the attacks as “killing for the sake of intimidation and pleasure”.
 
-<strong>America’s </strong>House of Representatives averted a partial government shutdown by passing a $1.7trn spending bill, which includes $45bn in further [aid to Ukraine](https://te.arielherself.xyz/united-states/2022/12/21/volodymyr-zelensky-brings-his-message-to-washington). President Joe Biden is expected to sign the bill in the coming days. Lawmakers rushed to get the legislation through before midnight on Friday, when current funding for federal agencies was due to run out.
+The <strong>Taliban</strong> barred women from working for non-governmental organisations (NGOs). <strong>Afghanistan</strong>’s rulers reportedly accused female employees at NGOs of breaking Sharia law by not wearing the hijab. [The Taliban](https://te.arielherself.xyz/graphic-detail/2022/12/05/life-under-the-taliban-has-hit-rock-bottom) have grown increasingly repressive since returning to power in August 2021: earlier this week women were banned from attending university, sparking protests across the country.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>America’s </strong>House of Representatives averted a partial government shutdown by passing a $1.7trn spending bill, which includes $45bn in further [aid to Ukraine](https://te.arielherself.xyz/united-states/2022/12/21/volodymyr-zelensky-brings-his-message-to-washington). President Joe Biden is expected to sign the bill in the coming days. Lawmakers rushed to get the legislation through before midnight on Friday, when current funding for federal agencies was due to run out.
 
 Three people were killed, and several injured, by a gunman who opened fire in central <strong>Paris</strong>. Witnesses said the attacker seemed to be targeting a Kurdish community centre. One suspect, aged 69, was detained by police. The man had previously been arrested for attacking tents in a migrant camp. Gérald Darmanin, the interior minister, said that the gunman was “clearly targeting foreigners”.
 
 <strong>Russia</strong> may cut oil output by up to 7% in early 2023, said Alexander Novak, a deputy prime minister. This month the EU, the G7 and Australia imposed a $60-a-barrel [price cap](https://te.arielherself.xyz/leaders/2022/11/30/the-wests-proposed-price-cap-on-russian-oil-is-no-magic-weapon) on Russian seaborne oil. But Mr Novak said that Russia had diversified its buyers and would not sell to any country that applied the cap.
-
-<strong>Meta</strong>, Facebook’s parent company, agreed to pay $725m to settle a class-action lawsuit in America, which accused the social-media platform of allowing third parties, including <strong>Cambridge Analytica</strong>, a British consultancy, to access users’ data. The plaintiffs’ lawyers said the settlement is the largest ever obtained in a data-privacy class-action suit in America. The settlement still needs to be approved by a federal judge in San Francisco.
 
 <strong>Word of the week:</strong> <em>sa bo de, </em>meaning “three knives” in Wenzhounese, referring to the industries in which people from Wenzhou have made their mark on Europe. [Read the full story](https://te.arielherself.xyz/christmas-specials/2022/12/20/emigrants-from-a-small-corner-of-china-are-making-an-outsize-mark-abroad).
 
