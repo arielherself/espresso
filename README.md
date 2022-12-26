@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>China’s National Health Commission </strong>estimates that nearly 250m citizens were infected with <strong>covid-19 </strong>during the first 20 days of December, according to a leaked memo. That is [far more](https://te.arielherself.xyz/china/2022/12/15/our-model-shows-that-chinas-covid-death-toll-could-be-massive) than in any official report. The NHC has now stopped publishing any covid-related figures—leaving that to a lesser-ranking body which acknowledged no covid deaths in the six days through Sunday, despite reports of overwhelmed morgues. Provincial health authorities predicted the current wave would last about three months, peaking in January.
+China’s president, <strong>Xi Jinping</strong>, said that more targeted “patriotic health campaigns” are needed during the latest phase of the covid-19 epidemic. State media reported [Mr Xi’s](https://te.arielherself.xyz/china/2022/12/15/the-politics-of-xi-jinpings-covid-retreat) statement as the country’s hospitals are reportedly becoming overwhelmed after the abrupt ending of many restrictions. China’s National Health Commission estimates that nearly 250m citizens were infected during the first 20 days of December, [far more](https://te.arielherself.xyz/china/2022/12/15/our-model-shows-that-chinas-covid-death-toll-could-be-massive) than official reports—which have recorded no recent deaths.
 
 <strong>Taiwan’s </strong>defence ministry said <strong>China </strong>sent 71 warplanes and seven naval vessels on “strike drills”⁠—rehearsals for conflict⁠—into its air-defence zone on Sunday. China had condemned an American spending bill that included military assistance for Taiwan, accusing both countries of escalating their “collusion and provocation”. Tensions have been especially high since Nancy Pelosi, the speaker of America’s House of Representatives, [visited the island](https://te.arielherself.xyz/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning) in August.
 
@@ -72,7 +72,7 @@ Although these voices are not expected to prevail, they will cause discord and t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="4a1b3f23300f393a382f3939250a2f292524252723393e64292527">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0455716d7e417774766177776b4461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which of the 50 US states is sometimes known as the “copper state”?
 
