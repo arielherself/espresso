@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Toyota</strong> produced 833,104 vehicles in November, a record for the month, with global production at the Japanese carmaker 1.5% higher than in November last year. Although the supply-chain crunch of car parts caused by the pandemic has eased somewhat, the rising cost of materials, covid in China and a shortage of[ semiconductors](https://www.economist.com/business/2022/09/29/why-some-chipmakers-are-hurting-much-more-than-others) is still restraining production.
 
-Electricity returned to most of the <strong>American homes </strong>plunged into blackouts by <strong>winter storms </strong>over the weekend: at its worst, 1.8m households were without power. The harshest toll was counted in upstate New York, where at least 13 people were killed by extreme cold and [related disruptions](https://www.economist.com/finance-and-economics/2022/11/24/weather-is-again-determining-economic-outcomes) around Buffalo. Dozens are believed to have died around the country.
+Electricity returned to most of the <strong>American homes </strong>plunged into blackouts by <strong>winter storms </strong>over the weekend: at its worst, 1.8m households were without power. Around 50 people have died during the storm. The harshest toll was counted in upstate New York, where at least 25 people were killed by extreme cold and [related disruptions](https://www.economist.com/finance-and-economics/2022/11/24/weather-is-again-determining-economic-outcomes) around Buffalo.
 
 <strong>Iran’s </strong>Revolutionary Guards arrested seven people linked to [anti-government protests](https://www.economist.com/middle-east-and-africa/2022/12/04/irans-rattled-government-may-be-backing-down), including some British dual nationals who were trying to leave the country. Meanwhile, the country’s Supreme Court commuted the death sentence of Saman Seydi Yasin, a rapper, who had been convicted in a sham trial of attempting to kill security forces. Two protesters have been executed this month.
 
@@ -72,7 +72,7 @@ Although these voices are not expected to prevail, they will cause discord and t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="712004180b340201031402021e3114121e1f1e1c1802055f121e1c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3f6e4a56457a4c4f4d5a4c4c507f5a5c50515052564c4b115c5052">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which of the 50 US states is sometimes known as the “copper state”?
 
