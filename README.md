@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-China’s president, <strong>Xi Jinping</strong>, said that more targeted “patriotic health campaigns” are needed during the latest phase of the covid-19 epidemic. State media reported [Mr Xi’s](https://te.arielherself.xyz/china/2022/12/15/the-politics-of-xi-jinpings-covid-retreat) statement as the country’s hospitals are reportedly becoming overwhelmed after the abrupt ending of many restrictions. China’s National Health Commission estimates that nearly 250m citizens were infected during the first 20 days of December, [far more](https://te.arielherself.xyz/china/2022/12/15/our-model-shows-that-chinas-covid-death-toll-could-be-massive) than official reports—which have recorded no recent deaths.
+<strong>China</strong> announced a plan to end mandatory quarantine for inbound travellers, beginning on January 8th, as part of an official downgrade of its level of response to the covid-19 pandemic. China’s president, <strong>Xi Jinping</strong>, earlier said that more targeted “patriotic health campaigns” are needed during the latest phase. The country’s [hospitals](https://te.arielherself.xyz/china/2022/12/15/our-model-shows-that-chinas-covid-death-toll-could-be-massive) are reportedly becoming overwhelmed after the abrupt ending of many restrictions.
 
 <strong>Taiwan’s </strong>defence ministry said <strong>China </strong>sent 71 warplanes and seven naval vessels on “strike drills”⁠—rehearsals for conflict⁠—into its air-defence zone on Sunday. China had condemned an American spending bill that included military assistance for Taiwan, accusing both countries of escalating their “collusion and provocation”. Tensions have been especially high since Nancy Pelosi, the speaker of America’s House of Representatives, [visited the island](https://te.arielherself.xyz/asia/2022/08/03/nancy-pelosi-has-left-taiwan-the-real-crisis-may-be-just-beginning) in August.
 
@@ -72,7 +72,7 @@ Although these voices are not expected to prevail, they will cause discord and t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a5f4d0ccdfe0d6d5d7c0d6d6cae5c0c6cacbcac8ccd6d18bc6cac8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which of the 50 US states is sometimes known as the “copper state”?
 
