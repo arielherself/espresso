@@ -22,11 +22,11 @@ Sergei Lavrov, <strong>Russia’s</strong> foreign minister, told <strong>Ukrain
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>Spain </strong>announced its third support package of the year for those struggling with [high energy](https://www.economist.com/briefing/2022/11/24/the-costs-and-consequences-of-europes-energy-crisis-are-growing) and food bills. Worth a total of €10bn ($10.7bn), the measures include a one-off payment of €200 for about 4.2m poorer households and further cuts in energy taxes, lasting into the first half of next year. Value-added tax on essential foods will also be abolished.
+
 At least 55 people have died in weather-related incidents after one of the most powerful blizzards to hit <strong>America </strong>in decades sent chills down the east coast. More than 17,000 flights have been cancelled since Wednesday, in the latest blow to the airline industry. Meanwhile, Bloomberg reported that production of natural gas is around 10% below average, as wells and pipes freeze over.
 
 Yoon Suk-yeol, <strong>South Korea’s</strong> leader, pardoned Lee Myung-bak, a former conservative president serving a 17-year sentence for corruption. Mr Lee was in office between 2008 and 2013 in a term marked by protests and tensions with North Korea. He is the [fourth former leader](https://www.economist.com/asia/2022/01/01/a-presidential-pardon-catches-south-korea-by-surprise) to be issued a presidential pardon since 1987. 
-
-<strong>Toyota</strong> produced 833,104 vehicles in November, a record for the month, with global production at the Japanese carmaker 1.5% higher than in November last year. Although the supply-chain crunch of car parts caused by the pandemic has eased somewhat, the rising cost of materials, covid in China and a shortage of[ semiconductors](https://www.economist.com/business/2022/09/29/why-some-chipmakers-are-hurting-much-more-than-others) is still restraining production.
 
 <strong>Fact of the day:</strong> $3trn, the collective market value lost by America’s five tech giants in 2022.[ Read the full story.](https://www.economist.com/business/2022/12/24/how-techs-defiance-of-economic-gravity-came-to-an-abrupt-end)
 
@@ -73,7 +73,7 @@ But he faces a polarised population and a tough economy. <em>Bolsonarismo</em> w
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="6637130f1c23151614031515092603050908090b0f15124805090b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Who is currently chief executive of the Blackrock fund management group?  
   
