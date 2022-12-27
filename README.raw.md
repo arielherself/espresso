@@ -73,7 +73,7 @@ But he faces a polarised population and a tough economy. <em>Bolsonarismo</em> w
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="beefcbd7c4fbcdceccdbcdcdd1fedbddd1d0d1d3d7cdca90ddd1d3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="58092d31221d2b282a3d2b2b37183d3b37363735312b2c763b3735">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Who is currently chief executive of the Blackrock fund management group?  
   
