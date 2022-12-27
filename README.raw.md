@@ -18,7 +18,7 @@ Sergei Lavrov, <strong>Russia’s</strong> foreign minister, told <strong>Ukrain
 
 <strong>Serbia’s</strong> army said it was at its “highest level of of combat readiness” amid escalating tensions with <strong>Kosovo.</strong> On Monday peacekeepers said they were investigating a shooting incident in northern Kosovo. The region has been on edge since November when representatives of Kosovo’s Serb minority [withdrew from the country’s government institutions](https://www.economist.com/europe/2022/12/20/kosovo-and-serbia-are-on-the-verge-of-conflict-again). Aleksandar Vucic, Serbia’s president, said he will “take all measures to protect our people and preserve Serbia”.
 
-Yoon Suk Yeol, <strong>South Korea’s</strong> leader, pardoned Lee Myung-bak, a former conservative president serving a 17-year sentence for corruption. Mr Lee was in office between 2008 and 2013 in a term marked by protests and tensions with North Korea. He is the [fourth former leader](https://www.economist.com/asia/2022/01/01/a-presidential-pardon-catches-south-korea-by-surprise) to be issued a presidential pardon since 1987. 
+Yoon Suk-yeol, <strong>South Korea’s</strong> leader, pardoned Lee Myung-bak, a former conservative president serving a 17-year sentence for corruption. Mr Lee was in office between 2008 and 2013 in a term marked by protests and tensions with North Korea. He is the [fourth former leader](https://www.economist.com/asia/2022/01/01/a-presidential-pardon-catches-south-korea-by-surprise) to be issued a presidential pardon since 1987. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -72,7 +72,7 @@ Although these voices are not expected to prevail, they will cause discord and t
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="3f6e4a56457a4c4f4d5a4c4c507f5a5c50515052564c4b115c5052">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e4b5918d9ea19794968197978ba481878b8a8b898d9790ca878b89">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which of the 50 US states is sometimes known as the “copper state”?
 
@@ -86,7 +86,7 @@ Sergei Lavrov, <strong>Russia’s</strong> foreign minister, told <strong>Ukrain
 
 At least 55 people have died in weather-related incidents after one of the most powerful blizzards to hit <strong>America </strong>in decades sent chills down the east coast. More than 17,000 flights have been cancelled since Wednesday, in the latest blow to the airline industry. Meanwhile, Bloomberg reported that production of natural gas is around 10% below average, as wells and pipes freeze over.
 
-Yoon Suk Yeol, <strong>South Korea’s</strong> leader, pardoned Lee Myung-bak, a former conservative president serving a 17-year sentence for corruption. Mr Lee was in office between 2008 and 2013 in a term marked by protests and tensions with North Korea. He is the [fourth former leader](https://www.economist.com/asia/2022/01/01/a-presidential-pardon-catches-south-korea-by-surprise) to be issued a presidential pardon since 1987. 
+Yoon Suk-yeol, <strong>South Korea’s</strong> leader, pardoned Lee Myung-bak, a former conservative president serving a 17-year sentence for corruption. Mr Lee was in office between 2008 and 2013 in a term marked by protests and tensions with North Korea. He is the [fourth former leader](https://www.economist.com/asia/2022/01/01/a-presidential-pardon-catches-south-korea-by-surprise) to be issued a presidential pardon since 1987. 
 
 <strong>Binyamin Netanyahu</strong>, whose right-wing coalition won a clear majority in <strong>Israel’s </strong>election last month, called a parliamentary vote on his new government for Thursday December 29th. The vote would end weeks of political wrangling between his coalition partners. The bloc will be the most [right-wing government ](https://www.economist.com/leaders/2022/11/10/israels-centrists-should-back-binyamin-netanyahu)in the country’s history and could further raise tensions in the [West Bank](https://www.economist.com/middle-east-and-africa/2022/11/10/a-netanyahu-government-may-raise-the-temperature-in-a-boiling-west-bank). 
 
