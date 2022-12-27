@@ -47,6 +47,8 @@ Americans fear for the health of their democracy, but if each party has a new ge
 
 ## 2023 in preview: America’s economy is set for a downturn, not a crisis
 
+<em>This week we are looking ahead to next year’s big stories. Today, what will be shaping the Americas?</em>
+
 Start with the bad news: America is heading for a recession. Over the past half-century, whenever inflation has reached an annual rate of more than 5%, a downturn has been needed to suppress it. 
 
 But [unemployment](https://te.arielherself.xyz/finance-and-economics/2022/11/24/why-american-unemployment-needs-to-rise) is exceptionally low, which means that the coming recession could be relatively mild. And the picture for the economy will change markedly over the year. [Disinflation](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) will eventually take hold. By the end of 2023 talk will turn to when the Federal Reserve might start cutting interest rates.
@@ -55,11 +57,15 @@ Meanwhile, the government will have its hands full implementing the giant invest
 
 ## 2023 in preview: An end to the war on drugs in Latin America?
 
+<em>This week we are looking ahead to next year’s big stories. Today, what will be shaping the Americas?</em>
+
 The relationship between Latin America and the superpower to the north has never been easy. In 2023, as recently elected leftist leaders begin to implement their policies, tensions could mount over perennial questions of security and migration, [especially](https://te.arielherself.xyz/the-world-ahead/2022/11/18/is-it-the-end-of-the-war-on-drugs-in-latin-america) over the “war on drugs”, launched by President Richard Nixon in 1971. 
 
 Ideas about liberalising cocaine are gaining traction in Colombia. The country’s first leftist president, Gustavo Petro, has advocated negotiating with gangs, protecting poor farmers who plant coca and regulating cocaine consumption for medical use. Even a small experiment in decriminalising the drug’s production there could have huge implications for America’s “prohibition model”. Colombia[ produces 60%](https://te.arielherself.xyz/international/2022/10/13/booming-cocaine-production-suggests-the-war-on-drugs-has-failed) of the world’s supply of cocaine, and North America is the largest consumer. The Mexican government, meanwhile, has made it hard for the US Drug Enforcement Administration to operate, according to a former American official. Five decades after Nixon launched his war, Latin America is listening to its northern neighbour less than ever.
 
 ## 2023 in preview: Lula’s return will be difficult
+
+<em>This week we are looking ahead to next year’s big stories. Today, what will be shaping the Americas?</em>
 
 After four disastrous years under Jair Bolsonaro, Brazil will have a [new president](https://te.arielherself.xyz/the-world-ahead/2022/11/18/lulas-second-term-as-brazils-president-will-be-difficult) in 2023: Luiz Inácio Lula da Silva, a leftist who held the job between 2003 and 2010. Lula wants to fight climate change, restore legitimacy to Brazil’s embattled institutions and pursue left-wing economic and social agendas.
 
@@ -67,7 +73,7 @@ But he faces a polarised population and a tough economy. <em>Bolsonarismo</em> w
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="702105190a350300021503031f3015131f1e1f1d1903045e131f1d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e6b7938f9ca395969483959589a683858988898b8f9592c885898b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday: </strong>Who is currently chief executive of the Blackrock fund management group?  
   
