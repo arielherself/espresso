@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 The Chinese government criticised plans by <strong>Taiwan</strong> to lengthen compulsory military service on the island, calling conscripts “cannon fodder”. On Tuesday Tsai Ing-wen, Taiwan’s president, announced that from 2024 all men would be expected to serve for one year, up from four months currently. The move is in response to the [rising threat](https://www.economist.com/the-world-ahead/2022/11/18/will-taiwan-be-the-ukraine-of-asia) from <strong>China</strong>, which claims Taiwan as its own territory.
 
-<strong>America’s</strong> <strong>Supreme Court </strong>prevented the expiry of a public-health measure that has been used to quickly <strong>expel migrants </strong>caught entering the country from Mexico. Nineteen mostly Republican-led states had [sued](https://www.economist.com/united-states/2022/12/20/title-42-might-be-nixed) to extend the policy, known as Title 42, citing a surge in illegal border-crossings. The court found in their favour; they may rely on the law at least until February.
+<strong>America’s</strong> <strong>Supreme Court </strong>prevented the expiry of a public-health measure that has been used to quickly <strong>expel migrants </strong>caught entering the country from Mexico. Nineteen mostly Republican-led states had [sued](https://www.economist.com/united-states/2022/12/20/title-42-might-be-nixed) to extend the policy, known as Title 42, citing a surge in illegal border-crossings. The policy will remain until at least February, when the Court will hear arguments in the case.
 
 The Kremlin banned the sale of <strong>Russian oil</strong> and petroleum products to Western countries that have imposed a [price cap](https://www.economist.com/finance-and-economics/2022/11/30/how-the-wests-price-cap-on-russian-oil-could-roil-energy-markets) on them. The long-expected retaliatory measure will last for five months, starting on February 1st. It targets G7 countries as well as the EU as a whole and Australia, which all agreed to set a price cap of $60 per barrel to punish Russia for its invasion of Ukraine.
 
@@ -70,7 +70,7 @@ The growth in India’s working-age population should help its economy narrow th
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="8fdefae6f5cafcfffdeafcfce0cfeaece0e1e0e2e6fcfba1ece0e2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="1445617d6e516764667167677b5471777b7a7b797d67603a777b79">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> Which rock group is best known for the songs “Alive and Kicking” and “Don’t You (Forget About Me)”?
 
