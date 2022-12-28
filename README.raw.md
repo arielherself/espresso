@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Binyamin Netanyahu</strong>, the incoming prime minister of <strong>Israel</strong>, finalised deals to form a coalition, according to the parties involved. Mr Netanyahu is now expected to swear in his [new government](https://www.economist.com/middle-east-and-africa/2022/11/10/a-netanyahu-government-may-raise-the-temperature-in-a-boiling-west-bank)—one of the most right-wing in Israeli history—on Thursday. On Tuesday the country’s parliament passed controversial legislation which will allow Mr Netanyahu’s allies to take up important government positions.
 
-The Kremlin banned the sale of <strong>Russian oil</strong> and petroleum products to Western countries that have imposed a [price cap](https://www.economist.com/finance-and-economics/2022/11/30/how-the-wests-price-cap-on-russian-oil-could-roil-energy-markets) on them. The long-expected retaliatory measure will last for five months, starting on February 1st. It targets G7 countries as well as the EU as a whole and Australia, which all agreed to set a price cap of $60 per barrel to punish Russia for its invasion of Ukraine.
+A Supreme Court judge in <strong>Brazil </strong>issued a ban on carrying firearms in Brasilia, the capital, ahead of the presidential inauguration of [Luiz Inácio “Lula” da Silva](https://www.economist.com/the-world-ahead/2022/11/18/lulas-second-term-as-brazils-president-will-be-difficult). The order prohibits registered gun owners from carrying firearms until January 2nd—the day after the inauguration. Political violence has surged in Brazil since leftist Lula defeated far-right incumbent Jair Bolsonaro in October’s presidential election.
 
 <strong>Fact of the day:</strong> 47,496, the number of nursing vacancies in Britain’s NHS, currently gripped by strikes. [Read the full story](https://www.economist.com/britain/2022/12/19/british-nurses-launch-unprecedented-strikes).
 
@@ -70,7 +70,7 @@ The growth in India’s working-age population should help its economy narrow th
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d988acb0a39caaa9abbcaaaab699bcbab6b7b6b4b0aaadf7bab6b4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ebba9e8291ae989b998e989884ab8e888485848682989fc5888486">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> Which rock group is best known for the songs “Alive and Kicking” and “Don’t You (Forget About Me)”?
 
