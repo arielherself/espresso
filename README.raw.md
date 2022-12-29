@@ -16,17 +16,17 @@
 
 <strong>Ukrainian </strong>officials said scores of Russian missiles had been launched at the country’s cities but that air defences had intercepted 54 out of 69 of them before they landed. The capital Kyiv was targeted, as well as Kharkiv, Lviv, Odessa and Zhytomyr. On the southern front Ukrainian officials urged residents of [Kherson](https://www.economist.com/graphic-detail/2022/11/15/the-battle-for-kherson-in-maps), which they liberated just six weeks ago, to evacuate their city as Russian forces escalated mortar and artillery attacks. 
 
+<strong>Pelé</strong>, the [Brazilian superstar footballer](https://www.economist.com/the-americas/2022/12/29/pele-king-of-the-beautiful-game), died aged 82 at a hospital in São Paulo after a long battle with cancer. He was perhaps the best footballer to have ever played. Pelé (whose full name was Edson Arantes do Nascimento) won three World Cups for Brazil and six national titles with Santos, his club team. His 1,279 goals in 1,363 matches is a world record that is unlikely to be surpassed.
+
 <strong>Binyamin Netanyahu </strong>was sworn in as<strong> Israel’s</strong> prime minister after the Knesset passed a vote of confidence in his new government. He leads a right-wing [coalition](https://www.economist.com/middle-east-and-africa/2022/11/10/the-changing-nature-of-israeli-politics) of his own Likud party together with smaller ultra-nationalist and ultra-Orthodox parties. Many fear that their policies could inflame relations with the Palestinians, particularly over settlements. It is Mr Netanyahu’s sixth term as prime minister, a record.
 
-<strong>America’s</strong> Department of Labour announced a slight rise in the number of first-time <strong>benefits claimants</strong>, up by 9,000 to 225,000 in the week ending on December 24th. The figures suggest a modest softening in a tight labour market, raising hopes that a slowing economy might persuade the Fed not to raise interest rates again by as much as had been feared.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>America’s</strong> Department of Labour announced a slight rise in the number of first-time <strong>benefits claimants</strong>, up by 9,000 to 225,000 in the week ending on December 24th. The figures suggest a modest softening in a tight labour market, raising hopes that a slowing economy might persuade the Fed not to raise interest rates again by as much as had been feared.
 
 With two days to spare, the <strong>Italian</strong> Senate approved a budget for next year—the first from [Giorgia Meloni’s](https://www.economist.com/the-world-ahead/2022/11/18/italians-will-soon-discover-who-the-real-giorgia-meloni-is) right-wing government. To ensure it passed, her cabinet made the crucial vote one of confidence in the government. The budget provides more than €21bn ($22bn) for offsetting the effects of the energy crisis. More controversially, it curbs Italy’s main poverty relief scheme, paving the way for its abolition.
 
 Police in <strong>Bolivia</strong> arrested Luis Fernando Camacho, a prominent opposition leader, on charges of “terrorism”. The right-wing governor of the wealthy state of Santa Cruz has been leading demonstrations against the leftist government of President [Luis Arce](https://www.economist.com/the-americas/2020/10/24/dont-mess-up-bolivias-miracle). Mr Camacho’s supporters claim that he has been “kidnapped”; his arrest sparked violent protests in Santa Cruz.
-
-<strong>Vietnam </strong>posted a growth rate of more than 8% for 2022, easily surpassing even its own official target of 6-6.5%. [Its economy](https://www.economist.com/asia/2022/09/22/vietnam-is-emerging-as-a-winner-from-the-era-of-deglobalisation) had grown by 2.6% the year before, despite strict lockdowns and shortages at factories. The new figure is even more astonishing in light of reduced global demand for Vietnam’s exports—and owes much to supply chains’ migration from China.
 
 <strong>Fact of the day:</strong> 10%, the reduction in salary earned by obese women in America, Britain, Canada and Denmark. [Read the full story](https://www.economist.com/christmas-specials/2022/12/20/the-economics-of-thinness).
 
@@ -66,7 +66,7 @@ So far, however, the world is proving to be even less innovative than it was bef
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e3b2968a99a69093918690908ca386808c8d8c8e8a9097cd808c8e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="98c9edf1e2ddebe8eafdebebf7d8fdfbf7f6f7f5f1ebecb6fbf7f5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday:</strong> What term, which refers to passing a point of no return, relates to an incident in the career of Julius Caesar?
 
