@@ -18,15 +18,15 @@ Residents of Kyiv, <strong>Ukraine’s</strong> capital, were told to head to ai
 
 European health officials said <strong>covid-19 restrictions</strong> on travellers from <strong>China</strong> were unjustified. According to the European Centre for Disease Prevention and Control, Europeans have high levels of protection against covid and the risk of imported infections is low. Several countries, including America, Japan and Italy, have announced that travellers from [China](https://www.economist.com/china/2022/12/28/covid-19-is-tearing-through-china) will have to produce a negative covid-19 test on arrival.
 
-Digital assets worth $3.5bn belonging to <strong>FTX</strong>, a bankrupt crypto exchange, are being held by the Securities Commission of the Bahamas. The tokens were transferred to the commission in November to be redistributed to customers and creditors, according to a statement released by the SCB on Thursday. FTX’s boss, <strong>Sam Bankman-Fried</strong>, faces eight [criminal charges](https://www.economist.com/finance-and-economics/2022/12/13/the-game-is-up-for-sam-bankman-fried) including defrauding investors.
+<strong>Donald Trump’s tax returns</strong> for 2015-21 will be made public on Friday. Last week the Democrat-controlled House Ways and Means Committee voted to release them before Republicans take control of the chamber on January 3rd. As president Mr Trump broke precedent by refusing to share details of his tax affairs. The committee says releasing them is a necessary step towards reforming legislation on presidential disclosure.
 
 Listen to an abridged version of the subscriber-only briefing.
+
+Digital assets worth $3.5bn belonging to <strong>FTX</strong>, a bankrupt crypto exchange, are being held by the Securities Commission of the Bahamas. The tokens were transferred to the commission in November to be redistributed to customers and creditors, according to a statement released by the SCB on Thursday. FTX’s boss, <strong>Sam Bankman-Fried</strong>, faces eight [criminal charges](https://www.economist.com/finance-and-economics/2022/12/13/the-game-is-up-for-sam-bankman-fried) including defrauding investors.
 
 <strong>Aung San Suu Kyi</strong>, Myanmar’s former leader, had seven years added to her prison sentence, bringing the total to [33](https://www.economist.com/asia/2021/12/11/myanmars-generals-want-aung-san-suu-kyi-locked-up-forever). Since a military coup [ousted](https://www.economist.com/asia/2021/02/01/aung-san-suu-kyi-is-arrested-as-myanmars-generals-seize-power) the democratically elected Ms Suu Kyi in February 2021, she has been convicted of a variety of [trumped-up](https://www.economist.com/asia/2021/12/11/myanmars-generals-want-aung-san-suu-kyi-locked-up-forever) offences, most recently corruption. The UN Security Council recently passed a resolution calling for her release.
 
 <strong>Canada’s </strong>competition tribunal approved a merger between Rogers Communications and Shaw Communications that would create the country’s second-biggest <strong>telecom provider</strong>. The proposed deal, worth $14.8bn, had been blocked initially because of fears over decreased competition and higher prices, but the tribunal dismissed such concerns. The transaction will still require approval from Canada’s government.
-
-<strong>Pelé</strong>, the [Brazilian superstar footballer](https://www.economist.com/the-americas/2022/12/29/pele-king-of-the-beautiful-game), died aged 82 at a hospital in São Paulo after a long battle with cancer. He was perhaps the best footballer to have ever played. Pelé (whose full name was Edson Arantes do Nascimento) won three World Cups for Brazil and six national titles with Santos, his club team. His 1,279 goals in 1,363 matches is a world record that is unlikely to be surpassed.
 
 <strong>Fact of the day:</strong> 1m, the number of new covid infections being recorded every day in China’s eastern province of Zhejiang, with a population of 65m. [Read the full article. ](https://www.economist.com/china/2022/12/28/covid-19-is-tearing-through-china)
 
@@ -66,7 +66,7 @@ The second is the metaverse, which many hope will replace the internet with a th
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="78290d11023d0b080a1d0b0b17381d1b17161715110b0c561b1715">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="ce9fbba7b48bbdbebcabbdbda18eabada1a0a1a3a7bdbae0ada1a3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> Which best-selling book, written by Angela Duckworth, explains how success can be achieved by a combination of passion and persistence?
 
