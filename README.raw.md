@@ -66,7 +66,7 @@ So far, however, the world is proving to be even less innovative than it was bef
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="316044584b744241435442425e7154525e5f5e5c5842451f525e5c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday:</strong> What term, which refers to passing a point of no return, relates to an incident in the career of Julius Caesar?
 
