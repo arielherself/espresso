@@ -18,7 +18,7 @@ Residents of Kyiv, <strong>Ukraine’s</strong> capital, were told to head to ai
 
 European health officials said <strong>covid-19 restrictions</strong> on travellers from <strong>China</strong> were unjustified. According to the European Centre for Disease Prevention and Control, Europeans have high levels of protection against covid and the risk of imported infections is low. Several countries, including America, Japan and Italy, have announced that travellers from [China](https://www.economist.com/china/2022/12/28/covid-19-is-tearing-through-china) will have to produce a negative covid-19 test on arrival.
 
-<strong>Donald Trump’s tax returns</strong> for 2015-20 will be made public on Friday. Last week the Democrat-controlled House Ways and Means Committee voted to release them before Republicans take control of the chamber on January 3rd. As president Mr Trump broke precedent by refusing to share details of his tax affairs. The committee says releasing them is a necessary step towards reforming legislation on presidential disclosure.
+<strong>Donald Trump’s tax returns</strong> for 2015-20 were made public on Friday. Last week the Democrat-controlled House Ways and Means Committee voted to release them before Republicans take control of the chamber on January 3rd. As president Mr Trump broke precedent by refusing to share details of his tax affairs. The committee says releasing them is a necessary step towards reforming legislation on presidential disclosure.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The second is the metaverse, which many hope will replace the internet with a th
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0657736f7c43757674637575694663656968696b6f75722865696b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> Which best-selling book, written by Angela Duckworth, explains how success can be achieved by a combination of passion and persistence?
 
