@@ -12,13 +12,13 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Donald Trump’s tax returns</strong> for 2015-20 were made public on Friday. Last week the Democrat-controlled House Ways and Means Committee voted to release them before Republicans take control of the chamber on January 3rd. As president Mr Trump broke precedent by refusing to share details of his tax affairs. The committee says releasing them is a necessary step towards reforming legislation on presidential disclosure. Mr Trump, who plans to run for president again in 2024, called the release an “outrageous abuse of power” and “completely unconstitutional.”
+
 Residents of Kyiv, <strong>Ukraine’s</strong> capital, were told to head to air-raid shelters amid a <strong>Russian</strong> aerial [assault](https://te.arielherself.xyz/ukraine-crisis). According to the region’s governor, Russia launched an “attack by drones” in the early hours of Friday morning. Volodymyr Zelensky, Ukraine’s president, said his country’s forces had shot down 54 Russian missiles on Thursday. Meanwhile Mr Zelensky’s adviser said Russia is holding more than 3,000 prisoners of war.
 
 <strong>Belarus</strong> summoned Ukraine’s ambassador after a missile was downed 15km inside Belarusian territory. Belarus, a Russian ally, demanded an inquiry. Ukraine’s army said the missile was part of its air defences. But the defence ministry did not rule out a “deliberate provocation” by Russia. In November NATO concluded that a missile that [hit a farm in Poland](https://te.arielherself.xyz/podcasts/2022/11/16/anything-exploding-on-nato-soil-during-a-war-is-a-big-deal-fears-rise-after-a-missile-lands-in-poland) was fired by Ukraine.
 
 European health officials said <strong>covid-19 restrictions</strong> on travellers from <strong>China</strong> were unjustified. According to the European Centre for Disease Prevention and Control, Europeans have high levels of protection against covid and the risk of imported infections is low. Several countries, including America, Japan and Italy, have announced that travellers from [China](https://te.arielherself.xyz/china/2022/12/28/covid-19-is-tearing-through-china) will have to produce a negative covid-19 test on arrival.
-
-<strong>Donald Trump’s tax returns</strong> for 2015-20 were made public on Friday. Last week the Democrat-controlled House Ways and Means Committee voted to release them before Republicans take control of the chamber on January 3rd. As president Mr Trump broke precedent by refusing to share details of his tax affairs. The committee says releasing them is a necessary step towards reforming legislation on presidential disclosure.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The second is the metaverse, which many hope will replace the internet with a th
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9bcaeef2e1dee8ebe9fee8e8f4dbfef8f4f5f4f6f2e8efb5f8f4f6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> Which best-selling book, written by Angela Duckworth, explains how success can be achieved by a combination of passion and persistence?
 
