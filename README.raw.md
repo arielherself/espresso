@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Thousands of pages of <strong>Donald Trump’s tax returns</strong> for 2015-20 were made public on Friday, providing detail about the finances of Mr Trump and his businesses while he was president. Mr Trump and his wife paid net income taxes of $641,931 in 2015; $750 in 2016; $750 in 2017; $999,466 in 2018; $133,445 in 2019; and $0 in 2020. Last week the Democrat-controlled House Ways and Means Committee voted to release the records before Republicans take control of the chamber on January 3rd. As president Mr Trump broke precedent by refusing to share details of his tax affairs.
+Thousands of pages of <strong>Donald Trump’s tax returns</strong> for 2015-20 were made public on Friday, providing detail about the finances of Mr Trump and businesses family while he was president. Mr Trump and his wife paid net income taxes of $641,931 in 2015; $750 in 2016; $750 in 2017; $999,466 in 2018; $133,445 in 2019; and $0 in 2020. Last week the Democrat-controlled House Ways and Means Committee voted to release the records before Republicans take control of the chamber on January 3rd. As president Mr Trump broke precedent by refusing to share details of his tax affairs.
 
 Residents of Kyiv, <strong>Ukraine’s</strong> capital, were told to head to air-raid shelters amid a <strong>Russian</strong> aerial [assault](https://www.economist.com/ukraine-crisis). According to the region’s governor, Russia launched an “attack by drones” in the early hours of Friday morning. Volodymyr Zelensky, Ukraine’s president, said his country’s forces had shot down 54 Russian missiles on Thursday. Meanwhile Mr Zelensky’s adviser said Russia is holding more than 3,000 prisoners of war.
 
@@ -66,7 +66,7 @@ The second is the metaverse, which many hope will replace the internet with a th
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="bcedc9d5c6f9cfccced9cfcfd3fcd9dfd3d2d3d1d5cfc892dfd3d1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="e5b4908c9fa09695978096968aa580868a8b8a888c9691cb868a88">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> Which best-selling book, written by Angela Duckworth, explains how success can be achieved by a combination of passion and persistence?
 
