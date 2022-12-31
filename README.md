@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Pope Benedict XVI</strong>, the head of the Roman Catholic Church from 2005 until his resignation in 2013, died aged 95. He was the first pontiff in 600 years to stand down, and styled himself the “pope emeritus”. On December 28th Pope Francis had called for a “special prayer” for his predecessor, an early indication that Benedict’s health was failing.
+<strong>Pope Benedict XVI</strong>, the head of the Roman Catholic Church from 2005 until his resignation in 2013, [died aged 95](https://te.arielherself.xyz/news/2022/12/31/pope-benedict-xvi-was-an-iron-fist-in-a-white-glove). He was the first pontiff in 600 years to stand down, and styled himself the “pope emeritus”. On December 28th Pope Francis had called for a “special prayer” for his predecessor, an early indication that Benedict’s health was failing.
 
 At least one person died and several were injured in the third consecutive day of Russian [strikes](https://te.arielherself.xyz/ukraine-crisis) on Kyiv, Ukraine’s capital. Volodymyr Zelensky, Ukraine’s president, had warned that Russia might continue aerial attacks so that his country would “celebrate the new year in darkness”. Meanwhile Sergei Shoigu, <strong>Russia’s </strong>defence minister, claimed that victory over Ukraine was “inevitable”, but admitted that Russia would begin 2023 in a “difficult military-political situation”.
 
