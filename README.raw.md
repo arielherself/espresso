@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2022-12-31</p>
+# <p align="center">The world in brief 2023-01-01</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -16,7 +16,7 @@
 
 At least one person died and several were injured in the third consecutive day of Russian [strikes](https://www.economist.com/ukraine-crisis) on Kyiv, Ukraine’s capital. Recalling attacks also at Christmas and Easter, Volodymyr Zelensky, Ukraine’s president, claimed that Russia was “for the devil”. Sergei Shoigu, <strong>Russia’s </strong>defence minister, claimed that victory over Ukraine was “inevitable”, but admitted that Russia would begin 2023 in a “difficult military-political situation”.
 
-The <strong>New Year </strong>has been celebrated around the world—in many places, without restrictions for the first time since the coronavirus pandemic began. Crowds gathered in China despite the sharp rise in coronavirus infections. But the turn of the year passed without the usual fireworks in Red Square, in Moscow; and the streets of Kyiv, a city under curfew, were quiet. Malaysia’s government cancelled an event in Kuala Lumpur after a landslide in the country killed dozens and displaced thousands.
+The <strong>New Year </strong>has been celebrated around the world—in many places, without restrictions for the first time since the coronavirus pandemic began. Crowds gathered in China despite the sharp rise in coronavirus infections. But the turn of the year passed without the usual fireworks in Red Square, in Moscow; and the streets of Kyiv, a city under curfew, were empty. Malaysia’s government cancelled an event in Kuala Lumpur after a landslide in the country killed dozens and displaced thousands.
 
 Xi Jinping, <strong>China’s </strong>president, said his country “unswervingly stands on the right side of history”. In a televised New Year’s Eve address Mr Xi also acknowledged that his country had “entered a new phase” in its response to the [covid-19 pandemic](https://www.economist.com/china/2022/12/28/covid-19-is-tearing-through-china) and faced “tough challenges”. Meanwhile the Philippines became the latest country to restrict or increase checks on travellers from China.
 
