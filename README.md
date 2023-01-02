@@ -12,77 +12,67 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Luiz Inácio Lula da Silva </strong>was sworn in as [Brazil’s president](https://te.arielherself.xyz/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress) in Brasília, the country’s capital. The left-leaning politician was previously president from 2003 to 2010. He defeated Jair Bolsonaro, the far-right incumbent, in October in the closest election in Brazil’s recent history. Tens of thousands of Lula’s supporters thronged the streets of Brasília. Breaking with past practice, Mr Bolsonaro did not attend the ceremony.
+<strong>Luiz Inácio Lula da Silva </strong>was sworn in as [Brazil’s president](https://te.arielherself.xyz/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress). In a fiery speech the left-leaning politician slammed his predecessor, Jair Bolsonaro, whom he narrowly defeated in an October election, for mishandling the covid-19 pandemic and leaving the country in “terrible ruins”. Tens of thousands of Lula’s supporters thronged the streets of Brasília for the ceremony. Breaking with past practice, Mr Bolsonaro did not attend.
 
-A third of the <strong>world economy</strong> will be hit by a recession in 2023, according to the head of the IMF. Kristalina Georgieva said that [global growth](https://te.arielherself.xyz/podcasts/2022/12/05/what-are-the-prospects-for-the-world-economy-in-2023) will be dragged down by the economies of America, China and the EU which are all “slowing simultaneously”. She predicted that half of the EU would be in a recession, but America “may avoid” one.
+A third of the <strong>world economy</strong> will fall into recession in 2023, according to the head of the IMF. Kristalina Georgieva said that [global growth](https://te.arielherself.xyz/podcasts/2022/12/05/what-are-the-prospects-for-the-world-economy-in-2023) will be dragged down by the economies of America, China and the EU, which are “slowing simultaneously”. She predicted that half of the EU would enter a recession, but added that America “may avoid” one.
 
 <strong>Russia</strong> continued to bombard <strong>Kyiv</strong>, [Ukraine’s](https://te.arielherself.xyz/leaders/2022/12/20/our-country-of-the-year-for-2022-can-only-be-ukraine) capital, and other major cities following a wave of strikes on New Year’s Day. Ukraine’s army said it had shot down 20 objects above Kyiv on Monday morning. Earlier in a New Year speech Vladimir Putin, Russia’s president, accused the West of provoking Russia’s invasion of Ukraine and of trying to “weaken and split” his country. 
 
-<strong>Syria’s</strong> army said that <strong>Israeli </strong>missile strikes had killed two soldiers and put the international airport in Damascus, the capital, out of service. It was the second attack on the airport in seven months. The strikes, which targeted [Iranian-backed groups in Syria](https://te.arielherself.xyz/the-world-ahead/2022/11/18/the-middle-easts-complex-web-of-alliances-is-evolving), came days after a new, right-wing coalition government took office in Israel.
+The lying-in-state of <strong>Pope Benedict XVI</strong> began in the Vatican. His body is displayed in an open casket in St Peter’s Basilica. Benedict, head of the Roman Catholic church from 2005 until his resignation in 2013, died on Saturday. His funeral service will be on Thursday. It is the first time that a serving pope will oversee the burial of one of his predecessors.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-At midnight on Sunday <strong>Croatia</strong> adopted the <strong>euro</strong> as its currency and joined the Schengen passport-free travel area. The country became part of the EU in 2013 but was only given permission to join the single currency this summer, after the European Central Bank ruled that its [economy](https://te.arielherself.xyz/finance-and-economics/2022/12/21/five-financial-trends-that-2022-killed) was sufficiently aligned with others in the euro zone.
+About 24 prisoners escaped from a prison in northern <strong>Mexico</strong> after it was attacked by heavily armed gunmen, probably members of a drugs cartel. At least ten guards and four inmates were killed during the assault on the Chihuahua state prison in Ciudad Juarez; fighting within the prison also left 13 injured. The border city has seen thousands of deaths from [drugs-related violence](https://te.arielherself.xyz/leaders/2022/06/30/staggering-numbers-of-mexicans-are-vanishing-heres-how-to-save-them) in recent years.
+
+<strong>Syria’s</strong> army said that <strong>Israeli </strong>missile strikes had killed two soldiers and put the international airport in Damascus, the capital, out of service. It was the second attack on the airport in seven months. The strikes, which targeted [Iranian-backed groups in Syria](https://te.arielherself.xyz/the-world-ahead/2022/11/18/the-middle-easts-complex-web-of-alliances-is-evolving), came days after a new, right-wing coalition government took office in Israel.
 
 Factory activity in <strong>South Korea</strong> fell for the sixth consecutive month in December, according to a business survey. Manufacturing firms were hit hard by the global economic slowdown and a strike by truckers. Meanwhile in <strong>Indonesia </strong>the annual inflation rate rose slightly in December to 5.51%, remaining well above the central bank’s upper limit of 4% for the seventh consecutive month.
 
-<strong>Kim Jong Un</strong> ordered an “exponential” expansion of <strong>North Korea’s</strong> nuclear arsenal. He also decreed that his country should launch its first spy satellite and develop new intercontinental ballistic missiles. North Korea rounded out 2022—a year in which it conducted a record number of [weapons tests](https://te.arielherself.xyz/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many)—by launching three ballistic <strong>missiles</strong> towards the Sea of Japan, according to South Korea.
-
-<strong>Word of the week:</strong> <em>masyarakat adat</em>, an Indonesian word for ethnic groups, such as the Baduy, who shun modernity. [Read the full story](https://te.arielherself.xyz/christmas-specials/2022/12/20/in-a-corner-of-java-live-the-amish-of-indonesia).
+<strong>Fact of the day:</strong> 50m, the number of people who may be beginning 2023 on the brink of famine, according to the UN’s World Food Programme. [Read the full article](https://te.arielherself.xyz/the-world-ahead/2022/11/18/global-hunger-is-now-more-a-problem-of-price-than-availability).
 
 ----------
 
-## 2023 in preview: A feast of great art shows
+## Electric pickup trucks could change attitudes in America
 
-<em>This week we have been looking ahead to the big stories of 2023. This weekend, culture. Regular Espresso service will resume on Tuesday</em>
+<em>Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday</em>
 
-The blockbuster [art shows of 2023](https://te.arielherself.xyz/the-world-ahead/2022/11/18/after-the-pandemic-a-feast-of-great-art-shows-is-coming) will be in Amsterdam and London. In February the [Rijksmuseum](https://te.arielherself.xyz/prospero/2013/04/13/the-opening-of-the-rijksmuseum) will put on the largest-ever show of Johannes Vermeer’s work, bringing together 27 of his 35 surviving paintings. The show will also reveal the master’s method through scientific studies of [“The Milkmaid”](https://te.arielherself.xyz/books-and-arts/2009/09/17/a-dutch-treat), painted in 1660. In March, meanwhile, “After Impressionism” opens at the National Gallery, bringing together Cézanne, Van Gogh, Klimt, Matisse, Munch, Picasso and Rodin to explore how styles such as Cubism and Expressionism developed in cities across Europe. 
+America is a laggard when it comes to [adopting electric vehicles](https://te.arielherself.xyz/graphic-detail/2022/06/02/the-electric-vehicle-revolution-is-not-happening-fast-enough). But the electrification of the pickup truck—the practical, no-nonsense vehicle that embodies ruggedness—should help change attitudes to battery power. In 2023 a fleet of new models will join Ford’s F-150 Lightning and the R1T from Rivian (an EV-only startup), including an electric Chevrolet Silverado and Tesla’s much-delayed Cybertruck. Electric sceptics should be won over by white-knuckle performance, decent ranges and competitive prices in vehicles marketed as being just as practical and sturdy as petrol-powered alternatives.
 
-New institutions are opening, too. Seoul gets the Robot &amp; AI Museum: as well as being exhibited, robots have been involved in the building’s design, manufacturing and construction. In January the International African-American Museum will open in Charleston, South Carolina, on the site of a wharf where 100,000 enslaved Africans disembarked from ships. A spiritual sibling, the Pan African Heritage Museum, in Ghana, will also open in 2023. Its design resembles a horn, an instrument often used to herald the arrival of something, or someone, special.
+But it will take more than nifty pickups for EVs to displace combustion-engine vehicles in America. Fuel is cheaper and emissions rules laxer than in greener Europe, where EVs accounted for almost one in five sales compared with around one in 20 across the Atlantic in 2021. America’s love affair with internal combustion is an enduring passion, meaning that the road to electrification will be long and winding.
 
-## 2023 in preview: An enticing variety of new films
+## The repairs business takes off
 
-Film buffs will have plenty to watch in 2023. There are adaptations of Alice Walker’s “The Color Purple”, Kristin Hannah’s “The Nightingale” and Roald Dahl’s “The Wonderful Story of Henry Sugar”. Martin Scorsese will direct Leonardo DiCaprio and Robert De Niro in “Killers of the Flower Moon”, about the murders of Osage tribespeople in Oklahoma in the 1920s. For action fans a doddery Harrison Ford, now in his 80s, will return for a fifth “Indiana Jones” film. 
+<em>Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday</em>
 
-There will be a surfeit of biographical drama, too. Dustin Lance Black has written the script for “Rustin”, a film about Bayard Rustin, a gay civil-rights activist who organised the March on Washington in 1963. Bradley Cooper will star as Leonard Bernstein, a revered composer and conductor, in “Maestro”. And Cillian Murphy will take on the role of Robert Oppenheimer, the father of the atomic bomb. Meanwhile, Margot Robbie plays one of the world’s most famous fictional women, in “Barbie”.
+In 2023, many fashion brands will ramp up their repair services to encourage customers to mend damaged pieces of clothing instead of throwing them away. It is part of an industry-wide move to become more sustainable. LVMH, the world’s biggest luxury group, has promised it will announce new “sophisticated” after-care services.
 
-## 2023 in preview: The cricket World Cup
+Venture capitalists are thus throwing money into repairs. In 2022 Sojo, a London-based app which arranges drivers to ferry garments between tailor and customer, raised €2.2m ($2.2m). Save Your Wardrobe, another startup, secured $3m. It has teamed up with Zalando, Europe’s biggest online clothes retailer, which plans to extend the life of at least 50m products through resale and reuse by 2023.
 
-In October, ten teams will meet in India for cricket’s one-day game World Cup. It will be one of the glitziest events the sport has ever seen. 
+Fast fashion is not about to release its stranglehold on the market: one study reckons it will be worth over $200bn by 2030, up from nearly $69bn in 2020. But in 2023 you may find yourself delving deep into your wardrobe to find something that can be given new life.
 
-The millions of Indians who watch televised cricket make for a hugely valuable audience. In 2022 online streaming rights alone to the domestic [Indian Premier League](https://te.arielherself.xyz/asia/2022/03/26/how-the-ipl-reflects-indias-strengths-and-weaknesses) cost Reliance, an Indian oil-to-retail behemoth, [$2.6bn](https://te.arielherself.xyz/business/2022/06/16/disney-loses-its-indian-premier-league-streaming-rights). Players are paid handsomely, too. So for foreign cricketers, including those from England, which won the last tournament in 2019, the World Cup will be both an opportunity for national glory and an audition for a life-changing contract.  
-  
- Indian money is changing how the game is played as well as watched. Many Indian fans prefer the two-hour “T20” format used in the IPL to the one-day cricket played at the World Cup, or to traditional five-day Test matches. The longer formats are therefore retreating before the juggernaut of Indian-organised T20 tournaments. Two T20 leagues will launch (with Indian-owned teams) in 2023. Many fans of the older, more stately versions of the game dread such developments.
+## Who will be tech&#x27;s winners and losers of 2023?
 
-## 2023 in preview: Words of the year
+<em>Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday</em>
 
-What coinages might you expect to hear in 2023? For more, read the [full story](https://te.arielherself.xyz/the-world-ahead/2022/11/14/23-items-of-vital-vocabulary-youll-need-to-know-in-2023)
+For technology firms, 2022 was a torrid year. [Soaring inflation](https://te.arielherself.xyz/finance-and-economics/2022/12/21/2022-has-been-a-year-of-brutal-inflation), rising interest rates and geopolitical turmoil saw the value of high-growth firms plummet. The Nasdaq Composite, a tech-heavy index, climbed by 21% in 2021, during lockdown, but sank by over 40% in 2020. What will 2023 bring?
 
-<strong>eSIM: </strong>technology that replaces the physical SIM in your phone with digital codes that can be zapped from an old handset to a new one.
+The answer will vary by sector, and company size. Consumer-facing tech firms were the first to see their sales fall in 2022. Some of that is likely to continue. Outfits that make their money by selling ads, such as Google and Meta, have also struggled, as marketing budgets were squeezed. Makers of business software, such as Adobe and Oracle, will probably fare better. 
 
-<strong>Mixed reality: </strong>technology that allows real and virtual items to interact, such as a game of table tennis with real paddles and a computer generated ball. 
+Big firms tend to be more resilient in a downturn, partly because they hold plenty of cash. That can help them retain talent and acquire firms at bargain-bin prices. Tech’s big shake-up, in other words, may help the sector’s giants grow even bigger in 2023.
 
-<strong>Aridification: </strong>the long-term drying of a region; a term applied when “drought,” or even “megadrought,” are no longer sufficient.
+## Expect more corporate activism
 
-<strong>Synfuels and e-fuels:</strong> replacements for conventional hydrocarbons that are produced artificially rather than from oil. 
+<em>Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday</em>
 
-<strong>Productivity paranoia:</strong> an affliction of home workers afraid of being seen as shirkers, and bosses afraid that home-workers are indeed shirking. 
+When America’s Supreme Court [overturned](https://te.arielherself.xyz/leaders/2022/06/24/the-supreme-courts-rejection-of-roe-will-hurt-the-poorest-most) <em>Roe v Wade</em> in June 2022, the ruling that in 1973 declared abortion a constitutional right, hundreds of companies responded by, for example, expanding reproductive health-care options for female employees. It was a good example of a new wave of corporate activism, encouraged by consumers, employees and shareholders alike. Investors know that markets respond when companies take a stance. A study by the Yale School of Management found that the shares of companies that pulled out of Russia soon after it invaded Ukraine outperformed those of companies that dawdled, or chose to stay.
 
-<strong>TWaT city: </strong>one where many commuters travel to the office only on Tuesdays, Wednesdays and Thursdays. 
+As well as abortion, in 2023 companies may be judged on their approaches to climate change and the energy transition, gay and transgender rights, racial diversity and ethical labour practices. And getting more political does not oblige companies to be progressive. Activist consumers tend to reward companies that show consistency in sticking to principles of any hue, rather than just pandering to the latest fad.
 
-<strong>Battery belt: </strong>a green-friendly revitalised form of America’s “Rust Belt” through investment in industries such as electric-car manufacturing and “gigafactories” that make batteries for electric cars.   
-  
-<strong>Vertiport: </strong>where multirotor drones that are large enough to carry people, also known as flying cars, take off and land.
+## Daily quiz
 
-## The winners of this week’s quiz
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="0455716d7e417774766177776b4461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were:
-
-<strong>Irene Swil and Symmie Swil</strong>, Sydney, Australia  
-<strong>Jennifer Stapleton</strong>, Cheltenham, England  
-<strong>Barry McDonald</strong>, Burlington, Canada
-
-They gave the correct answers of Arizona, Larry Fink, Simple Minds, crossing the Rubicon, and “Grit”. The theme is Coen Brothers films: “Raising Arizona”, “Barton Fink”, “Blood Simple”, “Miller’s Crossing” and “True Grit”.
+<strong>Monday: </strong>Which character in “Pride and Prejudice” proposes marriage to Elizabeth Bennet before marrying her best friend?
 
 ----------
 
