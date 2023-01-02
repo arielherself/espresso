@@ -70,7 +70,7 @@ As well as abortion, in 2023 companies may be judged on their approaches to clim
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="9acbeff3e0dfe9eae8ffe9e9f5dafff9f5f4f5f7f3e9eeb4f9f5f7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="c899bda1b28dbbb8baadbbbba788adaba7a6a7a5a1bbbce6aba7a5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which character in “Pride and Prejudice” proposes marriage to Elizabeth Bennet before marrying her best friend?
 
