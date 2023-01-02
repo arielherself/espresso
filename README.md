@@ -16,7 +16,7 @@
 
 A third of the <strong>world economy</strong> will fall into recession in 2023, according to the head of the IMF. Kristalina Georgieva said that [global growth](https://te.arielherself.xyz/podcasts/2022/12/05/what-are-the-prospects-for-the-world-economy-in-2023) will be dragged down by the economies of America, China and the EU, which are “slowing simultaneously”. She predicted that half of the EU would enter a recession, but added that America “may avoid” one.
 
-<strong>Russia</strong> continued to bombard <strong>Kyiv</strong>, [Ukraine’s](https://te.arielherself.xyz/leaders/2022/12/20/our-country-of-the-year-for-2022-can-only-be-ukraine) capital, and other major cities following a wave of strikes on New Year’s Day. Ukraine’s army said it had shot down 20 objects above Kyiv on Monday morning. Earlier in a New Year speech Vladimir Putin, Russia’s president, accused the West of provoking Russia’s invasion of Ukraine and of trying to “weaken and split” his country. 
+The latest barrage of <strong>Russian </strong>strikes on Kyiv, Ukraine’s capital, caused electricity and heating shortages, according to Vitali Klitschko, the mayor. Ukraine’s defence ministry said the air force had shot down nearly 40 drones overnight. Meanwhile there were competing claims over a Ukrainian attack on Makiivka, a Russian-occupied town in the Donbas region. Unverified reports suggested there may have been “hundreds” of Russian casualties, although Russian state media said 15 people were hurt.
 
 The lying-in-state of <strong>Pope Benedict XVI</strong> began in the Vatican. His body is displayed in an open casket in St Peter’s Basilica. Benedict, head of the Roman Catholic church from 2005 until his resignation in 2013, died on Saturday. His funeral service will be on Thursday. It is the first time that a serving pope will oversee the burial of one of his predecessors.
 
@@ -70,7 +70,7 @@ As well as abortion, in 2023 companies may be judged on their approaches to clim
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a6f7d3cfdce3d5d6d4c3d5d5c9e6c3c5c9c8c9cbcfd5d288c5c9cb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="59082c30231c2a292b3c2a2a36193c3a36373634302a2d773a3634">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which character in “Pride and Prejudice” proposes marriage to Elizabeth Bennet before marrying her best friend?
 
