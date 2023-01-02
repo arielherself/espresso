@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 About 24 prisoners escaped from a prison in northern <strong>Mexico</strong> after it was attacked by heavily armed gunmen, probably members of a drugs cartel. At least ten guards and four inmates were killed during the assault on the Chihuahua state prison in Ciudad Juarez; fighting within the prison also left 13 injured. The border city has seen thousands of deaths from [drugs-related violence](https://te.arielherself.xyz/leaders/2022/06/30/staggering-numbers-of-mexicans-are-vanishing-heres-how-to-save-them) in recent years.
 
-<strong>Syria’s</strong> army said that <strong>Israeli </strong>missile strikes had killed two soldiers and put the international airport in Damascus, the capital, out of service. It was the second attack on the airport in seven months. The strikes, which targeted [Iranian-backed groups in Syria](https://te.arielherself.xyz/the-world-ahead/2022/11/18/the-middle-easts-complex-web-of-alliances-is-evolving), came days after a new, right-wing coalition government took office in Israel.
+The <strong>Israeli </strong>army launched a missile strike on Syria’s international airport in <strong>Damascus</strong>, killing four people, including two soldiers, according to a British-based human rights monitor. The attack put the airport out of service. It was the second attack on the airport in seven months. The strikes, which targeted [Iranian-backed groups in Syria](https://te.arielherself.xyz/the-world-ahead/2022/11/18/the-middle-easts-complex-web-of-alliances-is-evolving), came days after a new, right-wing coalition government took office in Israel.
 
 Factory activity in <strong>South Korea</strong> fell for the sixth consecutive month in December, according to a business survey. Manufacturing firms were hit hard by the global economic slowdown and a strike by truckers. Meanwhile in <strong>Indonesia </strong>the annual inflation rate rose slightly in December to 5.51%, remaining well above the central bank’s upper limit of 4% for the seventh consecutive month.
 
@@ -70,7 +70,7 @@ As well as abortion, in 2023 companies may be judged on their approaches to clim
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="a9f8dcc0d3ecdad9dbccdadac6e9cccac6c7c6c4c0dadd87cac6c4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on <strong>Friday</strong> to [<span class="__cf_email__" data-cfemail="d382a6baa996a0a3a1b6a0a0bc93b6b0bcbdbcbebaa0a7fdb0bcbe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which character in “Pride and Prejudice” proposes marriage to Elizabeth Bennet before marrying her best friend?
 
