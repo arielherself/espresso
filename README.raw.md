@@ -22,11 +22,11 @@ Some <strong>Russian</strong> lawmakers demanded punishment for the country’s 
 
 Listen to an abridged version of the subscriber-only briefing.
 
+Investors on <strong>Wall Street</strong> had a gloomy first [trading day](https://www.economist.com/briefing/2022/12/08/rising-interest-rates-and-inflation-have-upended-investing) of the new year. <strong>Tesla</strong> saw its share price plunge by 12% a day after the electric-vehicle company reported lower-than-expected deliveries in the fourth quarter of 2022. <strong>Apple’s</strong>, meanwhile, dipped by nearly 4%, sending the iPhone-maker’s market capitalisation below $2trn for the first time since May.
+
 Inflation in <strong>Germany </strong>slowed more than expected in December and unemployment dipped, assuaging fears of the severity of an impending recession. Annualised inflation fell from 11.3% in November to 9.6% last month, partly thanks to [government](https://www.economist.com/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary) subsidies for household energy bills. Meanwhile, the number of unemployed people unexpectedly dropped by 13,000 in seasonally adjusted terms to 2.52m.
 
 The <strong>EU </strong>was reported to have offered <strong>free covid-19 vaccines to China </strong>to help manage the [vast outbreaks](https://www.economist.com/china/2022/12/28/covid-19-is-tearing-through-china) that surged as it relinquished its covid-zero policy. Officials from the European Commission told the <em>Financial Times</em> that it would contribute variant-optimised doses to supplement China’s response, which relies on [less-effective](https://www.economist.com/graphic-detail/2022/04/19/how-chinas-sinovac-compares-with-biontechs-mrna-vaccine) Chinese vaccines. The WHO has deemed the country’s [vaccination coverage](https://www.economist.com/china/2022/12/08/getting-chinas-old-people-vaccinated-has-been-slow-work) insufficient.
-
-Luiz Inácio Lula da Silva, <strong>Brazil’s</strong> [newly elected president](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress), tightened gun controls and curbed gold-mining in the Amazon rainforest by revoking decrees introduced by his predecessor, Jair Bolsonaro. Lula also shut down an ongoing study about the viability of privatising Petrobras, the state-owned oil company. In his first address to Congress, he said Mr Bolsonaro’s policies had caused “national destruction”.
 
 <strong>Fact of the day:</strong> 16%. The share of Brazilians who do not get enough to eat, up from 6% just four years ago. [Read the full article.](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress)
 
@@ -64,7 +64,7 @@ The show shares themes with the television series of Ms Ferrante’s previous no
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d382a6baa996a0a3a1b6a0a0bc93b6b0bcbdbcbebaa0a7fdb0bcbe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="bbeaced2c1fec8cbc9dec8c8d4fbded8d4d5d4d6d2c8cf95d8d4d6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which novel by W. Somerset Maugham is based, in part, on the life of Paul Gauguin?
 
