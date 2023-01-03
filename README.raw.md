@@ -62,6 +62,14 @@ The coming-of-age tale is a literary staple. Fans of Elena Ferrante, an Italian 
 
 The show shares themes with the television series of Ms Ferrante’s previous novels, a quartet beginning with “My Brilliant Friend”, which depicted the heroines Elena and Lila. It strips bare the ugliness of male entitlement and female rage, and seesaws between a poor working-class neighbourhood and the posh homes of wealthy intellectuals. But stylistically the programmes could not be more different. Whereas the first show was straightforward Hollywood, Giovanna’s story is more Italian new wave: fragmented and cryptic. Watch it for the visual treat and Ms Ferrante’s harsh truths: men are monsters—but women can be, too.
 
+## Daily quiz
+
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6534100c1f201615170016160a2500060a0b0a080c16114b060a08">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+
+<strong>Tuesday: </strong>Which novel by W. Somerset Maugham is based, in part, on the life of Paul Gauguin?
+
+<strong>Monday: </strong>Which character in “Pride and Prejudice” proposes marriage to Elizabeth Bennet before marrying her best friend?
+
 ----------
 
 *Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*
