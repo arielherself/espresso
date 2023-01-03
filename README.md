@@ -52,7 +52,7 @@ Admittedly, there is evidence that labour demand is starting to weaken in some p
 
 ## Xi and Marcos smile for the cameras
 
-On Tuesday Ferdinand “Bongbong” [Marcos](https://te.arielherself.xyz/asia/2022/08/04/is-bongbong-marcoss-early-pragmatism-a-paradox-or-an-illusion), president of the Philippines, begins a state visit to China. Mr Marcos and Xi Jinping, China’s president, will stress the friendlier, commercial aspects of their countries’ relations, rather than their overlapping claims to parts of the[ South China Sea](https://te.arielherself.xyz/asia/2022/01/15/china-does-not-have-it-all-its-way-in-the-south-china-sea). There, fishing vessels crewed by Chinese militiamen persist in obstructing access to waters where international law gives the Philippines exclusive rights to catch fish, and to tap any oil and natural gas that may be found. 
+On Tuesday Ferdinand “Bongbong” [Marcos](https://te.arielherself.xyz/asia/2022/08/04/is-bongbong-marcoss-early-pragmatism-a-paradox-or-an-illusion), president of the Philippines, began a state visit to China. Mr Marcos and Xi Jinping, China’s president, will stress the friendlier, commercial aspects of their countries’ relations, rather than their overlapping claims to parts of the[ South China Sea](https://te.arielherself.xyz/asia/2022/01/15/china-does-not-have-it-all-its-way-in-the-south-china-sea). There, fishing vessels crewed by Chinese militiamen persist in obstructing access to waters where international law gives the Philippines exclusive rights to catch fish, and to tap any oil and natural gas that may be found. 
 
 If these spats were to escalate into violence, America, as the Philippines’s ally, could be dragged in. Nobody wants war over seafood and what, for now, is the mere promise of gas, so Mr Xi and Mr Marcos will keep up the appearance of friendship. The pretence will last as long as the Philippines muffles its protests about Chinese bullying—and China moderates its strong-arm tactics. 
 
@@ -64,7 +64,7 @@ The show shares themes with the television series of Ms Ferrante’s previous no
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d786a2bead92a4a7a5b2a4a4b897b2b4b8b9b8babea4a3f9b4b8ba">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="207155495a655350524553534f6045434f4e4f4d4953540e434f4d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which novel by W. Somerset Maugham is based, in part, on the life of Paul Gauguin?
 
