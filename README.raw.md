@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Kevin McCarthy</strong> lost the first vote to become speaker of America’s <strong>House of Representatives</strong>, after 19 hard-right Republicans withheld their support. It marks the first time in a century that the lower chamber of Congress failed to elect a leader in an initial poll. The rebels have yet to coalesce behind a challenger. Before the second ballot [Mr McCarthy](https://www.economist.com/united-states/kevin-mccarthys-accidental-truthfulness/21808964) will offer concessions to win some of their support—he can afford to lose only four Republican votes.
+<strong>Kevin McCarthy</strong> lost the first two votes to become Speaker of America’s <strong>House of Representatives</strong>, after 19 hard-right Republicans withheld their support. It marks the first time in a century that the lower chamber of Congress failed to elect a leader in an initial poll. The rebels have coalesced behind Jim Jordan. Before the third ballot [Mr McCarthy](https://www.economist.com/united-states/kevin-mccarthys-accidental-truthfulness/21808964) will offer concessions to win some of their support—he can afford to lose only four Republican votes.
 
 Some <strong>Russian</strong> lawmakers demanded punishment for the country’s military commanders after at least 63 servicemen were killed by a <strong>Ukrainian</strong> attack in Makiivka, a Russian-occupied town in the Donbas region. Some Ukrainian reports put that figure in the hundreds. Meanwhile Volodymyr Zelensky, Ukraine’s president, said that Russia was planning a prolonged attack using [Iranian-made drones](https://www.economist.com/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine), to “exhaust” his country. On Monday he said Ukraine’s air force had [shot down](https://www.economist.com/europe/2022/11/06/western-air-defence-systems-help-ukraine-shoot-down-more-missiles) nearly 90 such drones in two days.
 
@@ -64,7 +64,7 @@ The show shares themes with the television series of Ms Ferrante’s previous no
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="84d5f1edfec1f7f4f6e1f7f7ebc4e1e7ebeaebe9edf7f0aae7ebe9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5607233f2c13252624332525391633353938393b3f25227835393b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>Which novel by W. Somerset Maugham is based, in part, on the life of Paul Gauguin?
 
