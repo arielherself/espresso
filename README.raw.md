@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-01-03</p>
+# <p align="center">The world in brief 2023-01-04</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
