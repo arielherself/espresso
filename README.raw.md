@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The stalemate in America’s House of Representatives continued as <strong>Kevin McCarthy </strong>lost a [fourth ballot](https://www.economist.com/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) to become Speaker. This time 20 rebel Republicans supported Byron Donalds, a second-term congressman. To win, any Republican contender can afford to lose just four Republican votes. Voting will continue until a Speaker is chosen. Earlier<strong> Donald Trump </strong>endorsed Mr McCarthy.
+The stalemate in America’s House of Representatives continued as <strong>Kevin McCarthy </strong>lost a [fifth ballot](https://www.economist.com/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) to become Speaker. Twenty rebel Republicans supported Byron Donalds, a second-term congressman. To win, any Republican contender can afford to lose just four Republican votes. Voting will continue until a Speaker is chosen. Earlier<strong> Donald Trump </strong>endorsed Mr McCarthy.
 
 <strong>EU</strong> regulators judged that <strong>Meta</strong> broke European law by in effect compelling users of its social-media platforms such as Facebook and Instagram to accept personalised advertisements. The ruling includes a fine of €390m ($414m), but could prove far more costly for the American tech giant if it forces changes to its advertising model. The judgment is one of the most significant since the EU introduced new [data-privacy laws](https://www.economist.com/business/2018/04/05/europes-tough-new-data-protection-law) in 2018. 
 
@@ -66,7 +66,7 @@ There are unlikely to be startling revelations. Nevertheless, the story of New Y
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which area of Los Angeles was stricken by violent riots in August 1965?
 
