@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Donald Trump </strong>endorsed <strong>Kevin McCarthy’s </strong>beleaguered bid to become Speaker of America’s <strong>House of Representatives</strong>. The former president wrote on his social-networking platform, Truth Social, that Republican members should “vote for Kevin” and “take victory”. Mr McCarthy [lost three successive votes](https://te.arielherself.xyz/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) on Tuesday, as 20 right-wing Republicans withheld their support. It marks the first time in a century that the lower chamber of Congress failed to elect a leader in a single poll. Voting resumed on Wednesday and will continue until a Speaker is chosen.
+The stalemate in America’s House of Representatives continued as <strong>Kevin McCarthy </strong>lost a [fourth ballot](https://te.arielherself.xyz/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) to become Speaker. This time 20 rebel Republicans supported Byron Donalds, a second-term congressman. To win, any Republican contender can afford to lose just four Republican votes. Voting will continue until a Speaker is chosen. Earlier<strong> Donald Trump </strong>endorsed Mr McCarthy.
 
 <strong>EU</strong> regulators judged that <strong>Meta</strong> broke European law by in effect compelling users of its social-media platforms such as Facebook and Instagram to accept personalised advertisements. The ruling includes a fine of €390m ($414m), but could prove far more costly for the American tech giant if it forces changes to its advertising model. The judgment is one of the most significant since the EU introduced new [data-privacy laws](https://te.arielherself.xyz/business/2018/04/05/europes-tough-new-data-protection-law) in 2018. 
 
@@ -66,7 +66,7 @@ There are unlikely to be startling revelations. Nevertheless, the story of New Y
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e9b89c8093ac9a999b8c9a9a86a98c8a86878684809a9dc78a8684">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c293b7abb887b1b2b0a7b1b1ad82a7a1adacadafabb1b6eca1adaf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which area of Los Angeles was stricken by violent riots in August 1965?
 
