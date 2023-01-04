@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Kevin McCarthy</strong> promised to stay in the race to become Speaker of America’s <strong>House of Representatives</strong>. He [lost three successive votes](https://te.arielherself.xyz/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) on Tuesday as 20 right-wing Republicans withheld their support. It marks the first time in a century that the lower chamber of Congress failed to elect a leader in a single poll. The rebels have coalesced behind Jim Jordan, though he lacks the support of the rest of the caucus. With their narrow majority, any Republican would need all but four of his party’s votes. Voting is to resume on Wednesday and will continue until a Speaker is chosen.
+<strong>Donald Trump </strong>endorsed <strong>Kevin McCarthy’s </strong>beleaguered bid to become Speaker of America’s <strong>House of Representatives</strong>. The former president wrote on his social-networking platform, Truth Social, that Republican members should “vote for Kevin” and “take victory”. Mr McCarthy [lost three successive votes](https://te.arielherself.xyz/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) on Tuesday, as 20 right-wing Republicans withheld their support. It marks the first time in a century that the lower chamber of Congress failed to elect a leader in a single poll. Voting is to resume on Wednesday and will continue until a Speaker is chosen.
 
 <strong>Russia</strong> blamed a <strong>Ukrainian missile attack </strong>that killed at least 89 Russian troops on Sunday on its own soldiers’ use of mobile phones. The defence ministry said the “mass use” of personal mobiles, which is banned, helped Ukrainian forces locate the troops in Makiivka, a [Russian-occupied](https://te.arielherself.xyz/europe/2022/12/23/making-sense-of-vladimir-putins-war) town in the Donbas region. Ukraine, and some Russian military bloggers, have claimed the casualty count was far higher.
 
@@ -66,7 +66,7 @@ There are unlikely to be startling revelations. Nevertheless, the story of New Y
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7726021e0d32040705120404183712141819181a1e04035914181a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which area of Los Angeles was stricken by violent riots in August 1965?
 
