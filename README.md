@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-The stalemate in America’s House of Representatives continued as <strong>Kevin McCarthy </strong>lost a [fifth ballot](https://te.arielherself.xyz/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) to become Speaker. Twenty rebel Republicans supported Byron Donalds, a second-term congressman. To win, any Republican contender can afford to lose just four Republican votes. Voting will continue until a Speaker is chosen. Earlier<strong> Donald Trump </strong>endorsed Mr McCarthy.
+The stalemate in America’s House of Representatives continued as <strong>Kevin McCarthy </strong>[lost a sixth ballot](https://te.arielherself.xyz/leaders/2023/01/04/what-the-kevin-mccarthy-saga-means-for-americas-congress) to become Speaker. Twenty rebel Republicans supported Byron Donalds, a second-term congressman. To win, any Republican contender can afford to lose just four Republican votes. Voting will continue until a Speaker is chosen. Earlier<strong> Donald Trump </strong>endorsed Mr McCarthy.
 
 <strong>EU</strong> regulators judged that <strong>Meta</strong> broke European law by in effect compelling users of its social-media platforms such as Facebook and Instagram to accept personalised advertisements. The ruling includes a fine of €390m ($414m), but could prove far more costly for the American tech giant if it forces changes to its advertising model. The judgment is one of the most significant since the EU introduced new [data-privacy laws](https://te.arielherself.xyz/business/2018/04/05/europes-tough-new-data-protection-law) in 2018. 
 
@@ -66,7 +66,7 @@ There are unlikely to be startling revelations. Nevertheless, the story of New Y
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="09587c60734c7a797b6c7a7a66496c6a66676664607a7d276a6664">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="ecbd998596a99f9c9e899f9f83ac898f83828381859f98c28f8381">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which area of Los Angeles was stricken by violent riots in August 1965?
 
