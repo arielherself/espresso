@@ -22,7 +22,7 @@ Though American <strong>inflation</strong> eased in the past few months, rate-se
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>The BMW group’s </strong>sales fell by around 100,000 to 2.4m cars in 2022 as the effects of China’s now-ditched zero-covid strategy and a difficult economic climate in Europe slowed the automobile market. The [German carmaker](https://www.economist.com/special-report/2021/09/20/a-troubled-road-lies-ahead) also said it more than doubled the proportion of electric cars among its sales to almost 10%. The company hopes to raise that figure to 15% this year. 
+<strong>Stellantis</strong> inked a deal to help <strong>Archer Aviation</strong>, an American startup, manufacture a [flying taxi](https://www.economist.com/science-and-technology/flying-taxis-are-lining-up-for-certification/21807390). Archer plans to produce the electric aircraft—which it says will ferry five people 100 miles (160km) on a single charge—at an as-yet-unbuilt factory in Georgia in 2024. Archer has been backed by United Airlines, but this investment—of up to $150m—by a carmaker is unusual.
 
 <strong>Inflation in France</strong> unexpectedly slowed in December, according to provisional figures, as energy prices eased. INSEE, the national statistics office, said annualised [inflation](https://www.economist.com/by-invitation/2022/10/28/frances-finance-minister-on-how-to-fight-inflation-and-preserve-stability) fell from 7.1% in November to 6.7% in December; economists had expected a small rise. The figures provide more welcome economic news in the euro zone after a similar fall in German inflation for December was announced on Tuesday.
 
@@ -66,7 +66,7 @@ There are unlikely to be startling revelations. Nevertheless, the story of New Y
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="ca9bbfa3b08fb9bab8afb9b9a58aafa9a5a4a5a7a3b9bee4a9a5a7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday:</strong> Which area of Los Angeles was stricken by violent riots in August 1965?
 
