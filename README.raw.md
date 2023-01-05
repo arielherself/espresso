@@ -18,7 +18,7 @@ The stalemate in America’s House of Representatives dragged on as <strong>Kevi
 
 <strong>Amazon</strong> said it would sack more than 18,000 employees, up from the 10,000 it had previously planned. That represents just 1% of Amazon’s workforce, but counts as the biggest purge yet for a tech firm during a deepening [slump](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place) in the sector. Andy Jassy, the e-commerce giant’s boss, blamed the “uncertain economy” and excessive hiring in recent years. [Salesforce](https://www.economist.com/business/2020/12/05/salesforce-gets-some-slack), a big software firm, meanwhile cut 10% of its workforce.
 
-The funeral of <strong>Benedict XVI</strong>, pope from 2005 until his resignation in 2013, began in the Vatican, presided over by his successor Pope Francis. Before the ceremony, about 200,000 people had queued to see [Benedict’s](https://www.economist.com/international/2022/12/31/pope-benedict-xvi-was-an-iron-fist-in-a-white-glove) body lying in state. He will be buried in a crypt beneath St Peter’s Basilica. 
+The funeral of <strong>Benedict XVI</strong>, pope from 2005 until his resignation in 2013, took place in the Vatican, presided over by his successor Pope Francis. Before the ceremony, about 200,000 people had queued to see [Benedict’s](https://www.economist.com/international/2022/12/31/pope-benedict-xvi-was-an-iron-fist-in-a-white-glove) body lying in state. He will be buried in a crypt beneath St Peter’s Basilica. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ But organisers face a backlash against newly introduced ticket prices. And criti
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2475514d5e615754564157574b6441474b4a4b494d57500a474b49">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="78290d11023d0b080a1d0b0b17381d1b17161715110b0c561b1715">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which city in Oxfordshire hosts an annual rowing regatta?
 
