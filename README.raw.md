@@ -16,7 +16,7 @@
 
 <strong>Vladimir Putin</strong> told Russia’s defence minister, Sergei Shoigu, to implement a ceasefire between noon on Friday and midnight Saturday to mark Orthodox Christmas. The move follows a call from [Patriarch Kirill](https://www.economist.com/europe/2022/03/21/russias-orthodox-church-paints-the-conflict-in-ukraine-as-a-holy-war), head of the Russian Orthodox Church and a fierce supporter of Mr Putin, to introduce the temporary reprieve. An advisor to Ukraine’s president dismissed Mr Putin’s apparent gesture as “hypocrisy”.
 
-<strong>Kevin McCarthy </strong>offered concessions to the 20 right-wing Republicans blocking his election as the Speaker of America’s House of Representatives as the stalemate entered its third day. But still Mr McCarthy [lost a ninth ballot](https://www.economist.com/leaders/2023/01/04/what-the-kevin-mccarthy-saga-means-for-americas-congress) of House members, with the rebels mostly supporting Byron Donalds, a second-term congressman. Mr McCarthy needs to win over at least 16 of them.
+<strong>Kevin McCarthy </strong>was no closer to becoming Speaker of America’s House of Representatives after failing a [ninth vote](https://www.economist.com/leaders/2023/01/04/what-the-kevin-mccarthy-saga-means-for-americas-congress)—making this the most protracted election since 1859. Twenty right-wing Republican holdouts have refused to accept his concessions. “The deal is over with him. He does not have the votes”, said Lauren Boebert, one of the rebels. Mr McCarthy needs to win over at least sixteen.
 
 The <strong>Biden administration</strong> said it would begin [rapidly expelling](https://www.economist.com/united-states/2022/12/20/title-42-might-be-nixed) <strong>migrants</strong>, including asylum-seekers, from Cuba, Haiti and Nicaragua at its border with Mexico. Until now they were exempt from expulsion, unlike citizens from other countries, since Mexico had refused to accept them. But Mexico will now take 30,000 from each country a month. The same number can apply to enter America if sponsored by an American.
 
@@ -66,7 +66,7 @@ But organisers face a backlash against newly introduced ticket prices. And criti
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a8f9ddc1d2eddbd8dacddbdbc7e8cdcbc7c6c7c5c1dbdc86cbc7c5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which city in Oxfordshire hosts an annual rowing regatta?
 
