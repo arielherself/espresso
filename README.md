@@ -12,21 +12,21 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>America</strong> and <strong>Germany</strong> agreed to send armoured combat vehicles to <strong>Ukraine</strong>, after long resisting such aid for fear that Russia would view it as [escalatory](https://te.arielherself.xyz/europe/giving-ukraine-heavy-weapons-does-not-mean-nato-is-at-war-with-russia/21808835). America will supply Bradley vehicles; Germany will send Marders and also donate a Patriot missile-defence system. A day earlier [France](https://te.arielherself.xyz/europe/2022/10/18/france-is-sending-weapons-and-air-defence-systems-to-ukraine) had said it would deliver its own armoured vehicles. The donations may signal a readiness to supply heavy tanks in future.
-
-<strong>Vladimir Putin</strong> told Russia’s defence minister, Sergei Shoigu, to implement a ceasefire between noon on Friday and midnight Saturday to mark Orthodox Christmas. The move follows a call from [Patriarch Kirill](https://te.arielherself.xyz/europe/2022/03/21/russias-orthodox-church-paints-the-conflict-in-ukraine-as-a-holy-war), head of the Russian Orthodox Church and a fierce supporter of Mr Putin, to introduce the temporary reprieve. An advisor to Ukraine’s president dismissed Mr Putin’s apparent gesture as “hypocrisy”.
+<strong>America</strong> and <strong>Germany</strong> agreed to send armoured combat vehicles to <strong>Ukraine</strong>, after long resisting such aid for fear that Russia would view it as [escalatory](https://te.arielherself.xyz/europe/giving-ukraine-heavy-weapons-does-not-mean-nato-is-at-war-with-russia/21808835). America will supply Bradley vehicles; Germany will send Marders and also donate a Patriot missile-defence system. Separately, <strong>Vladimir Putin</strong> ordered a unilateral ceasefire between noon on Friday and midnight Saturday to mark Orthodox Christmas. An advisor to Ukraine’s president dismissed the gesture as “hypocrisy”.
 
 <strong>Kevin McCarthy </strong>was no closer to becoming Speaker of America’s House of Representatives after failing a [ninth vote](https://te.arielherself.xyz/leaders/2023/01/04/what-the-kevin-mccarthy-saga-means-for-americas-congress)—making this the most protracted election since 1859. Twenty right-wing Republican holdouts have refused to accept his concessions. “The deal is over with him. He does not have the votes”, said Lauren Boebert, one of the rebels. Mr McCarthy needs to win over at least sixteen.
 
 The <strong>Biden administration</strong> said it would begin [rapidly expelling](https://te.arielherself.xyz/united-states/2022/12/20/title-42-might-be-nixed) <strong>migrants</strong>, including asylum-seekers, from Cuba, Haiti and Nicaragua at its border with Mexico. Until now they were exempt from expulsion, unlike citizens from other countries, since Mexico had refused to accept them. But Mexico will now take 30,000 from each country a month. The same number can apply to enter America if sponsored by an American.
 
-Listen to an abridged version of the subscriber-only briefing.
-
 <strong>Ales Bialiatski</strong>, a Belarusian human-rights activist who shared the [Nobel Peace prize](https://te.arielherself.xyz/europe/2022/10/07/the-nobel-peace-prize-recognises-human-rights-groups-that-spoke-truth-to-putinism) in 2022, went on trial in Minsk, Belarus’s capital. Mr Bialiatski was arrested during protests against Alexander Lukashenko, Belarus’s dictatorial president, in 2021. He is accused of smuggling money, charges his supporters say are simply designed to quash dissent. He could face 12 years in prison. 
+
+Listen to an abridged version of the subscriber-only briefing.
 
 <strong>China </strong>said it had [shared data](https://te.arielherself.xyz/science-and-technology/2023/01/04/all-around-the-world-covid-surveillance-is-faltering) on the covid wave sweeping the country in recent weeks with “openness and transparency” amid international criticism. On Wednesday the World Health Organisation cautioned that China is underrepresenting the scale of its outbreak since its zero-covid policy was relaxed in December. President Joe Biden also expressed concerns, commenting that China is “very sensitive” when challenged on the issue of data-sharing. 
 
 <strong>Mexico’s</strong> army arrested <strong>Ovidio Guzmán L</strong><strong>ó</strong><strong>pez</strong>, a son of [Joaquin “El Chapo” Guzmán](https://te.arielherself.xyz/the-americas/2018/11/16/the-trial-of-el-chapo-and-the-crime-fighting-plan-of-amlo) and an alleged fentanyl trafficker, in the state of Sinaloa. A high-ranking member of the drug cartel that his father once ran, Mr Guzmán López was briefly captured in 2019. But after his gang retaliated violently, President Andrés Manuel López Obrador ordered his release in an embarrassing reversal. 
+
+The funeral of <strong>Benedict XVI</strong>, pope from 2005 until his resignation in 2013, took place in the Vatican, presided over by his successor Pope Francis. Before the ceremony, about 200,000 people had queued to see [Benedict’s](https://te.arielherself.xyz/international/2022/12/31/pope-benedict-xvi-was-an-iron-fist-in-a-white-glove) body lying in state. He will be buried in a crypt beneath St Peter’s Basilica.
 
 <strong>Fact of the day:</strong> 46%, the share of people in Britain saying that immigration has a positive effect on the country, up from around 35% in 2015. [Read the full story](https://te.arielherself.xyz/britain/2023/01/03/the-impact-of-brexit-in-charts). 
 
@@ -66,7 +66,7 @@ But organisers face a backlash against newly introduced ticket prices. And criti
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d283a7bba897a1a2a0b7a1a1bd92b7b1bdbcbdbfbba1a6fcb1bdbf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which city in Oxfordshire hosts an annual rowing regatta?
 
