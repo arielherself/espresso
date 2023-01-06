@@ -14,11 +14,11 @@
 
 Volodymyr Zelensky, <strong>Ukraine’s</strong> president, rejected Russian calls for a <strong>temporary ceasefire</strong> to mark Orthodox Christmas, calling it a tactical ploy. Vladimir Putin ordered the unilateral ceasefire between noon on Friday and midnight Saturday. The announcement did not include a time zone, but at midday Moscow time fighting was still raging in eastern Ukraine. Separately, <strong>America</strong>,<strong> France</strong> and <strong>Germany</strong> agreed to [send armoured combat vehicles](https://te.arielherself.xyz/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) to Ukraine. America will supply Bradley fighting vehicles, France will send AMX-10RCs and Germany is donating Marders and a Patriot missile-defence system.
 
+On the fourth day of voting, Kevin McCarthy lost a [12th ballot](https://www.nytimes.com/live/2023/01/06/us/house-speaker-vote-mccarthy) to become <strong>Speaker of America’s House of Representatives</strong> but improved over previous rounds, flipping 14 hard-line Republicans. The development came after Mr McCarthy offered concessions, including allowing a single lawmaker to force a vote ousting the speaker. Seven right-wing Republican holdouts still voted against him.
+
 <strong>Euro-zone inflation </strong>slowed more than anticipated in December, helped by a drop in gas prices. Headline annual inflation fell for a second consecutive month, down from 10.1% in November to 9.2% in December. But core inflation, which omits volatile energy and food prices, rose from 5% to 5.2%, signalling more underlying [inflationary pressures](https://te.arielherself.xyz/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation). François Villeroy de Galhau, France’s central bank governor, warned of further European interest-rate rises.
 
 <strong>American jobs growth</strong> fell in December as high interest rates cooled the labour market, a consequence of the Federal Reserve’s [ongoing battle](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) against high inflation. America added 223,000 jobs last month, official statistics showed, compared with 256,000 in November. Still, the unemployment rate dipped from 3.6% to 3.5%. That means the Fed is likely to continue its aggressive monetary policy. 
-
-On the fourth day of voting, Kevin McCarthy lost a [12th ballot](https://www.nytimes.com/live/2023/01/06/us/house-speaker-vote-mccarthy) to become <strong>Speaker of America’s House of Representatives</strong> but improved over previous rounds, flipping 14 hard-line Republicans. The development came after Mr McCarthy offered concessions, including allowing a single lawmaker to force a vote ousting the speaker. Seven right-wing Republican holdouts still voted against him.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -68,7 +68,7 @@ Notably absent, however, is an English-language remake. The rights to “Perfect
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a5f4d0ccdfe0d6d5d7c0d6d6cae5c0c6cacbcac8ccd6d18bc6cac8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2d7c584457685e5d5f485e5e426d484e42434240445e59034e4240">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which American lawyer headed the Whitewater investigation into Bill and Hillary Clintons’ finances?
 
