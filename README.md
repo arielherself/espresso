@@ -22,7 +22,7 @@ On the fourth day of voting, Kevin McCarthy lost a [12th ballot](https://www.nyt
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Euro-zone inflation </strong>slowed more than anticipated in December, helped by a drop in gas prices. Headline annual inflation fell for a second consecutive month, down from 10.1% in November to 9.2% in December. But core inflation, which omits volatile energy and food prices, rose from 5% to 5.2%, signalling more underlying [inflationary pressures](https://te.arielherself.xyz/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation). François Villeroy de Galhau, France’s central bank governor, warned of further European interest-rate rises.
+<strong>Euro zone inflation </strong>slowed more than anticipated in December, helped by a drop in gas prices. Headline annual inflation fell for a second consecutive month, down from 10.1% in November to 9.2% in December. But core inflation, which omits volatile energy and food prices, rose from 5% to 5.2%, signalling more underlying [inflationary pressures](https://te.arielherself.xyz/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation). François Villeroy de Galhau, France’s central bank governor, warned of further European interest-rate rises.
 
 <strong>Britain’s </strong>government announced a plan to support research into <strong>mRNA vaccines</strong> for cancer treatment, in partnership with [BioNTech](https://te.arielherself.xyz/podcasts/2023/01/04/biontechs-founder-on-the-future-of-mrna-technology), a German company that used the technology to create a covid-19 vaccine. The plan aims to accelerate clinical trials for the vaccines, with the goal of delivering treatments to 10,000 patients by 2030. BioNTech’s co-founder, Ozlem Tureci, said that [Britain](https://te.arielherself.xyz/britain/2022/12/26/what-if-things-in-britain-go-right-in-2023) was a “great partner” for the project.
 
@@ -68,7 +68,7 @@ Notably absent, however, is an English-language remake. The rights to “Perfect
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which American lawyer headed the Whitewater investigation into Bill and Hillary Clintons’ finances?
 
