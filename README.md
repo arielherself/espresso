@@ -12,79 +12,99 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine’s</strong> president, rejected Russian calls for a <strong>temporary ceasefire</strong> to mark Orthodox Christmas, calling it a tactical ploy. Vladimir Putin ordered the unilateral ceasefire between noon on Friday and midnight Saturday. The announcement did not include a time zone, but at midday Moscow time fighting was still raging in eastern Ukraine. Separately, <strong>America</strong>,<strong> France</strong> and <strong>Germany</strong> agreed to [send armoured combat vehicles](https://te.arielherself.xyz/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) to Ukraine. America will supply a weapons package worth just over $3bn that includes Bradley fighting vehicles, France will send AMX-10RCs and Germany is donating Marders and a Patriot missile-defence system. 
+After four days and 15 rounds of voting <strong>Kevin McCarthy’s </strong>[humiliating wait](https://te.arielherself.xyz/united-states/2023/01/04/republicans-struggle-to-elect-a-speaker-of-the-house) to become <strong>Speaker of America’s House of Representatives </strong>ended. A caucus of 20 hard-right Republicans had initially blocked his path, but a swathe of concessions, including allowing a single lawmaker to force a vote on ousting the speaker, eventually persuaded enough of them to drop their opposition.
 
-On the fourth day of voting, Kevin McCarthy lost a [12th ballot](https://www.nytimes.com/live/2023/01/06/us/house-speaker-vote-mccarthy) to become <strong>Speaker of America’s House of Representatives</strong> but improved over previous rounds, flipping 14 hard-line Republicans. The development came after Mr McCarthy offered concessions, including allowing a single lawmaker to force a vote ousting the speaker. Seven right-wing Republican holdouts still voted against him.
+There appeared little sign that a unilateral 36-hour <strong>ceasefire in Ukraine</strong>, announced by [the Kremlin](https://te.arielherself.xyz/europe/2022/12/23/making-sense-of-vladimir-putins-war) to mark Orthodox Christmas, was holding. Shelling by Russian troops in occupied territories was reported in the east. Volodymyr Zelensky, Ukraine’s president, called the promised cessation a tactical ploy. Meanwhile a Ukrainian military chief told the <em>Guardian</em> that Russia was planning to mobilise another 500,000 conscripts for a summer assault.
 
-<strong>American jobs growth</strong> fell in December as high interest rates cooled the labour market, a consequence of the Federal Reserve’s [ongoing battle](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) against high inflation. America added 223,000 jobs last month, official statistics showed, compared with 256,000 in November. Still, the unemployment rate dipped from 3.6% to 3.5%. That means the Fed is likely to continue its aggressive monetary policy. 
+<strong>Jack Ma</strong> will give up control of <strong>Ant Group</strong>, the Chinese fintech group he founded, as the firm sets its sights on a public listing. Mr Ma fell foul of the Communist Party in 2020 after criticising its industrial policy—the tycoon then disappeared from public view for months. A new listing would suggest the government’s subsequent [tech crackdown](https://te.arielherself.xyz/leaders/2021/08/14/xi-jinpings-assault-on-tech-will-change-chinas-trajectory) is being relaxed.
 
-<strong>America’s</strong> Food and Drug Administration conditionally approved a new <strong>Alzheimer’s treatment</strong> that may slow the disease’s progress, following an 18-month clinical trial that [showed ](https://te.arielherself.xyz/science-and-technology/2022/11/30/a-drug-for-alzheimers-disease-that-seems-to-work)promising results. The regulator directed the drug, called lecanemab, to be labelled for patients in early and mild stages of Alzheimer’s. In 2021 the FDA approved a different Alzheimer’s drug and was widely [criticised](https://te.arielherself.xyz/leaders/2021/06/12/americas-approval-of-an-alzheimers-drug-is-premature) for doing so prematurely.
+<strong>American jobs growth</strong> fell in December as high interest rates cooled the labour market, a consequence of the Federal Reserve’s [ongoing battle](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) against high inflation. America added 223,000 jobs last month, official statistics showed, compared with 256,000 in November. Still, the unemployment rate dipped from 3.6% to 3.5%. That means the Fed is likely to continue its aggressive monetary policy.
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>America’s</strong> Food and Drug Administration conditionally approved a new <strong>Alzheimer’s treatment</strong> that may slow the disease’s progress, following an 18-month clinical trial that [showed ](https://te.arielherself.xyz/science-and-technology/2022/11/30/a-drug-for-alzheimers-disease-that-seems-to-work)promising results. The regulator directed the drug, called lecanemab, to be labelled for patients in early and mild stages of Alzheimer’s. In 2021 the FDA approved a different Alzheimer’s drug and was widely [criticised](https://te.arielherself.xyz/leaders/2021/06/12/americas-approval-of-an-alzheimers-drug-is-premature) for doing so prematurely.
+
 <strong>Euro zone inflation </strong>slowed more than anticipated in December, helped by a drop in gas prices. Headline annual inflation fell for a second consecutive month, down from 10.1% in November to 9.2% in December. But core inflation, which omits volatile energy and food prices, rose from 5% to 5.2%, signalling more underlying [inflationary pressures](https://te.arielherself.xyz/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation). François Villeroy de Galhau, France’s central bank governor, warned of further European interest-rate rises.
 
-<strong>Britain’s </strong>government announced a plan to support research into <strong>mRNA vaccines</strong> for cancer treatment, in partnership with [BioNTech](https://te.arielherself.xyz/podcasts/2023/01/04/biontechs-founder-on-the-future-of-mrna-technology), a German company that used the technology to create a covid-19 vaccine. The plan aims to accelerate clinical trials for the vaccines, with the goal of delivering treatments to 10,000 patients by 2030. BioNTech’s co-founder, Ozlem Tureci, said that [Britain](https://te.arielherself.xyz/britain/2022/12/26/what-if-things-in-britain-go-right-in-2023) was a “great partner” for the project.
+<strong>Britain’s </strong>government announced a plan to support research into <strong>mRNA vaccines</strong> for cancer treatment, in partnership with [BioNTech](https://te.arielherself.xyz/podcasts/2023/01/04/biontechs-founder-on-the-future-of-mrna-technology), a German company that used the technology to create a covid-19 vaccine. The plan aims to accelerate clinical trials for the vaccines, with the goal of delivering treatments to 10,000 patients by 2030. BioNTech’s co-founder, Ozlem Tureci, said that [Britain](https://te.arielherself.xyz/britain/2022/12/26/what-if-things-in-britain-go-right-in-2023) was a “great partner” for the project. 
 
-An American warship sailed through the <strong>Taiwan Strait</strong>, sparking ire from China, which [claims Taiwan](https://te.arielherself.xyz/the-world-ahead/2022/11/18/will-taiwan-be-the-ukraine-of-asia) as its territory. <strong>America</strong>, which is committed to helping the self-governing island defend itself, intermittently sends ships through the strait as part of what it considers routine military exercises. China said the latest move undermined the region’s “peace and stability”. 
-
-<strong>Fact of the day:</strong> 71%, the drop in Tesla’s market value over the past year. [Read the full story](https://te.arielherself.xyz/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm).
+<strong>Word of the Week: </strong><em>mauj</em>, the name of a sex-education website run by Arab women, meaning “wave” (of sexual pleasure) in Arabic. [Read the full story](https://te.arielherself.xyz/middle-east-and-africa/2023/01/05/women-in-the-middle-east-are-leading-a-revolt-against-prudish-men). 
 
 ----------
 
-## The divisive anniversary of the Capitol riot
+## A divided Orthodox Christmas
 
-On Friday President Joe Biden hosts a ceremony at the White House to mark two years since Donald Trump’s supporters stormed the Capitol in Washington. The [reckoning](https://te.arielherself.xyz/united-states/the-insurrection-one-year-on/21807018) continues after a congressional committee dominated by Democrats published its [800-page investigation](https://te.arielherself.xyz/united-states/2022/12/23/the-house-delivers-its-800-page-report-on-the-january-6th-riot) into the unrest, which recommended the prosecution of Mr Trump for four federal crimes, including aiding insurrection. A conviction, though unlikely, would bar him from holding federal office again.
+For most Christians, the last traces of Christmas will be gone by Saturday. Some consider it bad luck to keep up decorations after Epiphany, on Friday. But members of the Orthodox Church, the dominant religion in Russia and Ukraine, will be celebrating. They follow the Julian calendar, rather than the more-popular Gregorian, so Christmas Day falls on Saturday. Russia ordered a brief ceasefire in its war to mark the occasion, though fighting has continued.
 
-In response, some Republicans are proposing to reroute the committee’s evidence away from the National Archives, where it could be stored for decades, to a separate, and newly Republican-controlled, committee. That could lay the groundwork for a counter-report casting the blame elsewhere.
+But many Ukrainians have already celebrated the nativity. For the first time, the Orthodox Church of Ukraine (OCU), one of [two main Orthodox churches](https://te.arielherself.xyz/the-economist-explains/2022/01/06/why-did-the-russian-and-ukrainian-orthodox-churches-split) in the country, allowed the faithful to mark Christmas on December 25th.
 
-The ongoing divisions make healing harder. At an event last month honouring law-enforcement officers who stepped up on January 6th some refused to shake hands with Republican congressional leaders. And yet neither Mitch McConnell nor [Kevin McCarthy](https://te.arielherself.xyz/leaders/2023/01/04/what-the-kevin-mccarthy-saga-means-for-americas-congress) has ruled out supporting Mr Trump, should he become their party’s presidential nominee in 2024.
+That sets the OCU at odds with the Russian Orthodox Church and with the Ukrainian Orthodox Church (UOC), the country’s other main church. Until May the UOC fell under the authority of the Russian church. Many still view it as a [fifth column](https://te.arielherself.xyz/europe/2022/12/11/ukraines-orthodox-churches-and-the-fight-for-the-countrys-soul). This Christmas is unlikely to bring much unity.
 
-## Europe’s cooling inflation
+## Facebook’s de-platforming decision
 
-A new year heatwave brought respite from winter frost in Europe—temperatures reached 25°C in Bilbao—and tumbling gas prices offer further relief. They are now lower than on the eve of Russia’s invasion of Ukraine. That will bolster the efforts of the European Central Bank to bring down inflation, too. Euro-zone [inflation](https://te.arielherself.xyz/finance-and-economics/2022/12/21/2022-has-been-a-year-of-brutal-inflation) figures for December, published on Friday, show that some progress has been made.
+The morning after the [Capitol riot](https://te.arielherself.xyz/united-states/2021/01/06/trumps-supporters-storm-the-capitol-to-block-the-transfer-of-power), Mark Zuckerberg indefinitely suspended Donald Trump’s Facebook and Instagram accounts. Mr Trump had used the sites to “condone rather than condemn” that day’s violence, said the social-media firms’ boss. The ban was later shortened to two years, with the possibility of his re-platforming if the “risk to public safety” had diminished. The two-year mark comes on Saturday; a verdict about whether to reinstate Mr Trump is expected later this month.
 
-The new numbers suggest that headline inflation has probably peaked in Europe. Annual inflation slowed from 10.1% in November, compared with the previous year, to 9.2% in December. Still, strip away volatile energy prices, and inflation is still rising, from 7% to 7.2%. Peaking headline inflation is a relief, but the enduring effects of the post-pandemic bout of inflation and tight labour markets will be a tough nut to crack for the ECB.
+The choice is thorny, though arguably less consequential than one might think. First, the former president may choose not to post, preferring Truth Social, his own platform. Mr Trump has stayed mum on Twitter since Elon Musk welcomed him back to that site in November. Second, he is [much diminished](https://te.arielherself.xyz/united-states/2022/12/18/donald-trumps-popularity-with-republican-voters-is-sinking) as a political figure, especially after his chosen candidates’ [dismal showing](https://te.arielherself.xyz/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger) at the midterm elections. His pronouncements, put simply, matter less than they once did. 
 
-## America’s annual economic gabfest
+## Covid surveillance is faltering
 
-Economists will gather in New Orleans this weekend for the annual meeting of the American Economic Association (AEA), the premier society for scholars of the dismal science. The profession has had a bruising couple of years after its models failed to predict surging [inflation](https://te.arielherself.xyz/finance-and-economics/2022/08/03/does-high-inflation-matter). Attendees will pore over new evidence on the drivers of prices, and analyse the pros and cons of the economic policies pursued during the pandemic.
+Three years ago this week scientists in China isolated the first strain of the novel coronavirus that would spawn the covid-19 pandemic. Again all eyes are on China: the country has stopped reporting reliable data on cases and deaths, just as it faces the [world’s biggest wave of infections](https://te.arielherself.xyz/china/2023/01/05/china-is-overwhelmed-yet-an-even-bigger-covid-wave-may-be-coming). That is stoking worries that if a scary new variant emerges there, other countries will be unaware until their hospitals fill up.
 
-The AEA also faces mounting tension internally. The economics profession is confronting a resurgence of #MeToo-style [allegations of sexual misconduct](https://te.arielherself.xyz/finance-and-economics/2022/12/08/tackling-sexual-harassment-could-bring-sizeable-economic-dividends) by male professors. At the same time, conservative academics grumble that the association has become excessively focused on research regarding progressive social causes. Meanwhile, newly minted PhDs, who in the past would attend scores of interviews with academic departments during the event, now get hired online. And strangely, physical attendees of the AEA are still required to wear masks—a decision that seems unlikely to have passed a cost-benefit analysis.
+But variants can appear anywhere. More infections increase the chances of that, and covid is spreading freely around the world. About 2% of people in Britain, for example, had covid on any given day in recent months. The latest—and most contagious—offshoot of the Omicron variant, called XBB.1.5, probably originated in America. Sharing genomic sequences is the first step to dealing with new variants. But as [countries abandon testing](https://te.arielherself.xyz/science-and-technology/2023/01/04/all-around-the-world-covid-surveillance-is-faltering), such surveillance is winding down. That is what the world should worry about most.
 
-## Rishi Sunak’s winter of discontent
+## Prince Harry’s agonistes
 
-In Britain, nothing much is moving. A [winter of strikes](https://te.arielherself.xyz/britain/2022/11/03/britain-faces-a-wave-of-industrial-action-this-winter) grinds on in the public sector. On Friday railway workers in the RMT union, and civil servants in agencies handling driving licences, farm payments and highway management, are all off work in protest. Later this month walkouts are also planned by unions representing [nurses](https://te.arielherself.xyz/britain/2022/12/19/british-nurses-launch-unprecedented-strikes), teachers and bus workers. The proximate cause for the strikes is pay settlements failing to keep up with inflation, but they follow years of low morale and pay constraints in much of the state sector.
+There must be some very irritated Netflix executives. [Six agonising hours](https://te.arielherself.xyz/britain/2022/12/15/why-do-harry-and-meghan-wind-people-up) of their royal docusoap offered little more than cashmere, California and platitudes. By contrast, even before its official publication on Tuesday, leaks from Prince Harry’s new book, “Spare”, have offered revelations about him losing his virginity to an older woman in a field (he “mounted her quickly”; she “spanked” him); tripping on magic mushrooms (he imagined that a pedal bin spoke); and a description of how his father broke the news about Diana’s death (there was no hug).
 
-Taming the [endless strikes](https://te.arielherself.xyz/britain/2022/12/13/the-british-government-and-the-unions-dig-in-on-train-strikes) is a major task for Rishi Sunak, Britain’s prime minister. He hopes that tackling inflation, which he says he will halve in a year (roughly economists’ consensus forecast), will take some pressure off wage demands. But in the meantime, he needs to keep the country running. A new anti-strike law designed to maintain a minimum level of service in key sectors during strikes is in the works.
+Perhaps most sensationally, Harry has revealed that during a fight in which Prince William called his wife Meghan “difficult” and “rude”, his brother grabbed him “by the collar, ripping my necklace, and…knocked me to the floor.” Until that moment, few had probably realised that the fifth in line to the throne still wore a necklace.
 
-## Iceland remakes “Perfect Strangers”
+## Weekend Profile: Andriy Kostin, Ukraine’s prosecutor with a plan
 
-In [“Perfect Strangers”](https://te.arielherself.xyz/culture/2023/01/03/perfect-strangers-has-been-remade-more-than-20-times-since-2016), an Italian box-office hit from 2016, old friends gathered for dinner to play a game: each pledges to share any incoming phone call or text message with the whole group. The friends claim they have nothing to hide. Yet the exercise reveals love affairs, an accidental pregnancy and closeted homosexuality.
+Few would envy Andriy Kostin, Ukraine’s newish prosecutor-general. His office is short on armoured vehicles, bulletproof vests and kit to detect landmines, which he calls “a real threat” to his officers in the field. His office has nonetheless recorded more than 60,000 alleged Russian [war crimes](https://te.arielherself.xyz/europe/2022/04/08/as-russian-soldiers-retreat-they-leave-evidence-of-war-crimes), ranging from torture and executions to strikes on over 400 medical facilities. Allies have lent him investigators, but with only about 200 Ukrainian war-crimes prosecutors, the team is stretched thin. 
 
-The film has since been remade in more than 20 countries—perhaps the highest tally in history. The latest, from Iceland, is released on Friday. What makes “Perfect Strangers” the perfect remake? Its theme of reliance on personal technology and expectations of privacy cuts across cultures, whether considered over gnocchi or reindeer.
+An inauspicious discovery led to Mr Kostin’s appointment, in July. His predecessor was dismissed after numerous prosecutorial officials were suspected of collaborating with Russia. But Mr Kostin, a law graduate of Odessa National University, is himself not entirely free of controversy. In 2021 Mr Kostin’s candidacy to lead an anti-corruption arm of the institution he now runs failed. Watchdogs saw “significant violations” in his ethical conduct, including two visits to occupied Crimea, failure to report a sale of real estate to a different anti-corruption body, and “possible nepotism”. 
 
-Notably absent, however, is an English-language remake. The rights to “Perfect Strangers” have only recently been freed up when the film company of the imprisoned Harvey Weinstein became defunct. Hollywood often exports its remakes, which dissuades other countries from releasing their own. But this time it has left a gap in the market.
+Mr Kostin now dismisses the matter as a “historical question”; in the present, he is crafting a bold agenda. He describes Russia’s war as genocide, noting that Russian officials have spoken of “de-Ukrainisation”. He says some 14,000 cases of Ukrainian children being forcibly taken to Russia and Belarus amount to “stealing” Ukraine’s future. Mr Kostin believes that most cases of Russian war crimes can be tried in Ukrainian courts. They have already convicted 21 people of war crimes, some in absentia. 
 
-## Daily quiz
+More ambitiously, Mr Kostin would also like to see Russia’s top leaders tried for aggression against Ukraine, but neither Ukraine nor the International Criminal Court have the [legal authority](https://te.arielherself.xyz/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine) to do so. Mr Kostin is therefore lobbying hard for the creation of a special international tribunal, possibly by a vote of the UN’s general assembly—no small undertaking. The tribunal’s priority would be to try Vladimir Putin, Russia’s president. Many countries will hesitate to lend support. But outrage over Russia’s war, Mr Kostin says, is steadily building the necessary political capital. If Mr Kostin succeeds, he will have made his mark on history.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1342667a69566063617660607c5376707c7d7c7e7a60673d707c7e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+## Weekly crossword
 
-<strong>Friday: </strong>Which American lawyer headed the Whitewater investigation into Bill and Hillary Clintons’ finances?
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-<strong>Thursday: </strong>Which city in Oxfordshire hosts an annual rowing regatta?
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
-## Crossword winners
+<strong>Cryptic clues</strong>
 
-Thank you to everyone who took part in our weekly crossword, published in the weekend edition of Espresso. The previous edition was published on December 17th. The winners, chosen at random, were: 
+<em>1 down </em>Holy father ordered bishop outside poetic eden (4, 8) 
 
-<strong>Chin Shew Loh</strong>, Singapore 
+<em>1 across</em> Odd people with a lot of land in part of Europe (6) 
 
-<strong>Paula Schmit</strong>, St. Louis, United States
+<em>2 across </em>The opposition has energy, revolutionary troops, and something unknown (5) 
 
-<strong>Peter Rainford</strong>, Birkenhead, Britain
+<em>3 across</em> Little outlaw even ignored carmaker (6)
 
-They all gave the correct answers of [John le Carré](https://te.arielherself.xyz/leaders/2022/12/15/how-to-save-south-africa), [jargon](https://te.arielherself.xyz/culture/2022/12/14/and-the-word-of-2022-is), [elite](https://te.arielherself.xyz/britain/2022/12/12/the-strange-case-of-britains-demise) and [export](https://te.arielherself.xyz/europe/2022/12/14/despite-power-cuts-and-blockades-ukraines-economy-is-coping). Check back tomorrow for this week’s crossword.
+<strong>Factual clues</strong>
+
+<em>1 down </em>An iron fist in a white glove (4, 8)
+
+<em>1 across</em> Germany’s unhappy neighbour (6)
+
+<em>2 across </em>What Ukraine needs resources to repel (5)
+
+<em>3 across</em> What has been overtaken by Tesla (6)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+<strong>Alexa Baker</strong>, Berlin, Germany 
+
+<strong>Mike Soar</strong>, Philadelphia, United States
+
+<strong>Peter Nicklin</strong>, Naivasha, Kenya
+
+They all gave the correct answers of <em>the Reverend Collins, The Moon and Sixpence, Watts, Henley-on-Thames</em> and<em> Kenneth Starr. </em>The theme is famous drummers: <em>Phil Collins, Keith Moon, Charlie Watts, Don Henley </em>and<em> Ringo Starr. </em>
 
 ----------
 
