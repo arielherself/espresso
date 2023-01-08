@@ -48,7 +48,7 @@ For now, Mr Prigozhin remains under Mr Putin’s thumb. But doubts about the pre
 
 ## Benin’s brittle democracy
 
-The people of Benin have had much to celebrate lately. Many of their centuries-old bronze sculptures, which were looted by the British in 1897, are being returned. But that will not assuage the worries of many Beninois—who vote in parliamentary elections on Sunday—about [growing cracks](https://www.economist.com/middle-east-and-africa/2021/04/08/benins-democratic-beacon-dims) in their achievement of helping to lead Africa’s wave of democratisation in the 1990s.
+Benin was once a pioneer of African democracy. In the 1990s, it became one of the first sub-Saharan countries to see a peaceful transfer of power from incumbent to opposition via the ballot box. But now many Beninois—who vote in parliamentary elections on Sunday—are worried.
 
 The last such election in 2019 was a sham: no opposition parties were on the ballot, leading to a woefully low turnout and days of violent protests. This time the Constitutional Court has allowed three such parties to run, though prominent opponents of Patrice Talon, the president since 2016, are still in jail on trumped-up charges. Mr Talon, who won re-election in a flawed presidential poll in 2021, promised at the time not to unconstitutionally seek a third term. But many Beninois will have noted his more recent assertions that authoritarian measures are necessary, and that democratic freedoms “flirt with anarchy”.
 
