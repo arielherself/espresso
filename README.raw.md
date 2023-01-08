@@ -18,7 +18,7 @@
 
 Thousands of <strong>Israelis</strong> took to the streets of Tel Aviv to protest against policies proposed by the country’s [new right-wing government](https://www.economist.com/middle-east-and-africa/2022/12/29/israels-new-government-is-the-most-right-wing-ever), led by <strong>Binyamin Netanyahu</strong>. Left-wing and Arab members of Israel’s parliament led the demonstrations. Their concerns centred on a planned overhaul of the country’s judicial system, which critics say will weaken checks on the government’s power. An anti-Netanyahu group vowed to demonstrate again next Saturday. 
 
-<strong>Iran </strong>hanged two men accused of killing a member of the Basij, a volunteer militia that is part of the Islamic Revolutionary Guard Corps, according to state-affiliated media. Iran has now executed four demonstrators involved in the [months-long protests](https://www.economist.com/graphic-detail/2022/12/08/protest-movements-as-deadly-as-irans-often-end-in-revolution-or-civil-war) sparked by the killing of <strong>Mahsa Amini</strong>, a Kurdish woman, in police custody. As many as 41 others have also been sentenced to death.
+In <strong>Western Australia</strong> army helicopters evacuated people endangered by flooding in the remote Kimberley region, home to many Aboriginal communities. A week of heavy rain has caused the worst flooding in the region’s recent history, with the town of Fitzroy Crossing among the most affected. Climate change and the prolonged [La Niña](https://www.economist.com/interactive/the-world-ahead/2022/11/18/the-weather-system-that-influences-the-world) weather system have increased rainfall across Australia in recent years.
 
 Listen to an abridged version of the subscriber-only briefing.
 
