@@ -32,6 +32,32 @@ Around 200 furious customers gathered outside <strong>Tesla </strong>showrooms i
 
 ----------
 
+## China reopens to the world
+
+For nearly three years, China isolated itself to stop the spread of covid-19. The number of international flights tumbled, visas were denied, and those who did manage to enter the country faced onerous quarantines. But the raging spread of covid across China has now rendered these restrictions pointless. They were, mostly, [dismantled](https://te.arielherself.xyz/leaders/2023/01/05/how-chinas-reopening-will-disrupt-the-world-economy) on Sunday.
+
+That will allow many Chinese to take their first overseas trip in years. Tourist hotspots in South-East Asia, starved of Chinese cash, will celebrate. Foreign executives will also be keen to visit their firms’ factories in China (although tourist visas for foreigners remain unavailable). And as China’s economy recovers, demand for foreign commodities will probably surge.
+
+But the [years of isolation](https://te.arielherself.xyz/china/2022/12/06/china-is-dismantling-its-zero-covid-machine) have left deep scars. Investors have grown wearier of China and more open to moving supply chains elsewhere. And distrust between China and the West has festered. China recently refused offers of more effective covid vaccines from America and the EU, even as its death toll mounts. 
+
+## Problems mount for Vladimir Putin
+
+At midnight on Saturday, Russia’s purported temporary ceasefire in Ukraine, marking Orthodox Christmas, ended. In truth, the fighting never stopped. Vladimir Putin ordered the unilateral truce at the behest of Patriarch Kirill, head of the Russian Orthodox Church and [fierce supporter of the president](https://te.arielherself.xyz/europe/2022/03/21/russias-orthodox-church-paints-the-conflict-in-ukraine-as-a-holy-war). Mr Putin needs to keep his allies close amid his faltering invasion. The latest setback—a deadly [strike](https://te.arielherself.xyz/europe/2023/01/04/a-russian-warlords-savagery-is-sending-a-loud-message-to-moscow) on a Russian barracks in the Donetsk region that killed at least 89 soldiers—has brought more public criticism of Russia’s generals. And shadowy figures such as [Yevgeny Prigozhin](https://te.arielherself.xyz/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), the head of Wagner Group, a private militia, are gaining more influence on the battlefield as a result.
+
+For now, Mr Prigozhin remains under Mr Putin’s thumb. But doubts about the president’s military acumen persist. Moreover, Ukraine insists that Russia will shortly launch another mobilisation in preparation for a large offensive. The first recruitment drive incited [widespread protests](https://te.arielherself.xyz/graphic-detail/2022/09/29/protests-erupt-across-russia) in Russia in September. Repeating the move would chip away further at the president’s authority.
+
+## Benin’s brittle democracy
+
+The people of Benin have had much to celebrate lately. Many of their centuries-old bronze sculptures, which were looted by the British in 1897, are being returned. But that will not assuage the worries of many Beninois—who vote in parliamentary elections on Sunday—about [growing cracks](https://te.arielherself.xyz/middle-east-and-africa/2021/04/08/benins-democratic-beacon-dims) in their achievement of helping to lead Africa’s wave of democratisation in the 1990s.
+
+The last such election in 2019 was a sham: no opposition parties were on the ballot, leading to a woefully low turnout and days of violent protests. This time the Constitutional Court has allowed three such parties to run, though prominent opponents of Patrice Talon, the president since 2016, are still in jail on trumped-up charges. Mr Talon, who won re-election in a flawed presidential poll in 2021, promised at the time not to unconstitutionally seek a third term. But many Beninois will have noted his more recent assertions that authoritarian measures are necessary, and that democratic freedoms “flirt with anarchy”.
+
+## South Africa’s new cricket league
+
+Ever since the wildly successful Indian Premier League was launched in 2008, other cricketing nations have rushed to get their own tournament in the fast-paced [Twenty20](https://te.arielherself.xyz/graphic-detail/2021/10/20/cricket-looks-set-to-become-a-global-game) (T20) format. In 2018 South Africa inaugurated its Mzansi Super League, but the tournament folded when the pandemic forced the crowds away. With covid-19 in abeyance, the country has decided that if you can’t beat [India](https://te.arielherself.xyz/culture/2022/10/13/india-ought-to-win-crickets-twenty20-world-cup-but-probably-wont), you may as well join it.
+
+And so on Tuesday, South Africa will launch SA20, a successor to the Super League with one big difference: all six teams are owned by IPL franchises, rather than private investors. South Africa hopes to draw on the Indian experience of running a lucrative league. But SA20 will have other competitors: the established T20 Big Bash League, ongoing in Australia, and another new league soon to begin in the United Arab Emirates. Whether fans crave yet more whirlwind cricket remains to be seen.
+
 ## Weekend Profile: Andriy Kostin, Ukraine’s prosecutor with a plan
 
 Few would envy Andriy Kostin, Ukraine’s newish prosecutor-general. His office is short on armoured vehicles, bulletproof vests and kit to detect landmines, which he calls “a real threat” to his officers in the field. His office has nonetheless recorded more than 60,000 alleged Russian [war crimes](https://te.arielherself.xyz/europe/2022/04/08/as-russian-soldiers-retreat-they-leave-evidence-of-war-crimes), ranging from torture and executions to strikes on over 400 medical facilities. Allies have lent him investigators, but with only about 200 Ukrainian war-crimes prosecutors, the team is stretched thin. 
@@ -79,32 +105,6 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Peter Nicklin</strong>, Naivasha, Kenya
 
 They all gave the correct answers of <em>the Reverend Collins, The Moon and Sixpence, Watts, Henley-on-Thames</em> and<em> Kenneth Starr. </em>The theme is famous drummers: <em>Phil Collins, Keith Moon, Charlie Watts, Don Henley </em>and<em> Ringo Starr. </em>
-
-## China reopens to the world
-
-For nearly three years, China isolated itself to stop the spread of covid-19. The number of international flights tumbled, visas were denied, and those who did manage to enter the country faced onerous quarantines. But the raging spread of covid across China has now rendered these restrictions pointless. They were, mostly, [dismantled](https://te.arielherself.xyz/leaders/2023/01/05/how-chinas-reopening-will-disrupt-the-world-economy) on Sunday.
-
-That will allow many Chinese to take their first overseas trip in years. Tourist hotspots in South-East Asia, starved of Chinese cash, will celebrate. Foreign executives will also be keen to visit their firms’ factories in China (although tourist visas for foreigners remain unavailable). And as China’s economy recovers, demand for foreign commodities will probably surge.
-
-But the [years of isolation](https://te.arielherself.xyz/china/2022/12/06/china-is-dismantling-its-zero-covid-machine) have left deep scars. Investors have grown wearier of China and more open to moving supply chains elsewhere. And distrust between China and the West has festered. China recently refused offers of more effective covid vaccines from America and the EU, even as its death toll mounts. 
-
-## Problems mount for Vladimir Putin
-
-At midnight on Saturday, Russia’s purported temporary ceasefire in Ukraine, marking Orthodox Christmas, ended. In truth, the fighting never stopped. Vladimir Putin ordered the unilateral truce at the behest of Patriarch Kirill, head of the Russian Orthodox Church and [fierce supporter of the president](https://te.arielherself.xyz/europe/2022/03/21/russias-orthodox-church-paints-the-conflict-in-ukraine-as-a-holy-war). Mr Putin needs to keep his allies close amid his faltering invasion. The latest setback—a deadly [strike](https://te.arielherself.xyz/europe/2023/01/04/a-russian-warlords-savagery-is-sending-a-loud-message-to-moscow) on a Russian barracks in the Donetsk region that killed at least 89 soldiers—has brought more public criticism of Russia’s generals. And shadowy figures such as [Yevgeny Prigozhin](https://te.arielherself.xyz/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), the head of Wagner Group, a private militia, are gaining more influence on the battlefield as a result.
-
-For now, Mr Prigozhin remains under Mr Putin’s thumb. But doubts about the president’s military acumen persist. Moreover, Ukraine insists that Russia will shortly launch another mobilisation in preparation for a large offensive. The first recruitment drive incited [widespread protests](https://te.arielherself.xyz/graphic-detail/2022/09/29/protests-erupt-across-russia) in Russia in September. Repeating the move would chip away further at the president’s authority.
-
-## Benin’s brittle democracy
-
-The people of Benin have had much to celebrate lately. Many of their centuries-old bronze sculptures, which were looted by the British in 1897, are being returned. But that will not assuage the worries of many Beninois—who vote in parliamentary elections on Sunday—about [growing cracks](https://te.arielherself.xyz/middle-east-and-africa/2021/04/08/benins-democratic-beacon-dims) in their achievement of helping to lead Africa’s wave of democratisation in the 1990s.
-
-The last such election in 2019 was a sham: no opposition parties were on the ballot, leading to a woefully low turnout and days of violent protests. This time the Constitutional Court has allowed three such parties to run, though prominent opponents of Patrice Talon, the president since 2016, are still in jail on trumped-up charges. Mr Talon, who won re-election in a flawed presidential poll in 2021, promised at the time not to unconstitutionally seek a third term. But many Beninois will have noted his more recent assertions that authoritarian measures are necessary, and that democratic freedoms “flirt with anarchy”.
-
-## South Africa’s new cricket league
-
-Ever since the wildly successful Indian Premier League was launched in 2008, other cricketing nations have rushed to get their own tournament in the fast-paced [Twenty20](https://te.arielherself.xyz/graphic-detail/2021/10/20/cricket-looks-set-to-become-a-global-game) (T20) format. In 2018 South Africa inaugurated its Mzansi Super League, but the tournament folded when the pandemic forced the crowds away. With covid-19 in abeyance, the country has decided that if you can’t beat [India](https://te.arielherself.xyz/culture/2022/10/13/india-ought-to-win-crickets-twenty20-world-cup-but-probably-wont), you may as well join it.
-
-And so on Tuesday, South Africa will launch SA20, a successor to the Super League with one big difference: all six teams are owned by IPL franchises, rather than private investors. South Africa hopes to draw on the Indian experience of running a lucrative league. But SA20 will have other competitors: the established T20 Big Bash League, ongoing in Australia, and another new league soon to begin in the United Arab Emirates. Whether fans crave yet more whirlwind cricket remains to be seen.
 
 ----------
 
