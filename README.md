@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-01-07</p>
+# <p align="center">The world in brief 2023-01-08</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -18,7 +18,7 @@ There was little sign that a unilateral 36-hour <strong>ceasefire in Ukraine</st
 
 <strong>Jack Ma</strong> will give up control of <strong>Ant Group</strong>, the Chinese fintech group he founded, as the firm sets its sights on a public listing. Mr Ma fell foul of the Communist Party in 2020 after criticising its industrial policy—the tycoon then disappeared from public view for months. A new listing would suggest the government’s subsequent [tech crackdown](https://te.arielherself.xyz/leaders/2021/08/14/xi-jinpings-assault-on-tech-will-change-chinas-trajectory) is being relaxed.
 
-<strong>American jobs growth</strong> fell in December as high interest rates cooled the labour market, a consequence of the Federal Reserve’s [ongoing battle](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) against high inflation. America added 223,000 jobs last month, official statistics showed, compared with 256,000 in November. Still, the unemployment rate dipped from 3.6% to 3.5%. That means the Fed is likely to continue its aggressive monetary policy.
+Thousands of <strong>Israelis</strong> took to the streets of Tel Aviv to protest against policies proposed by the country’s [new right-wing government](https://te.arielherself.xyz/middle-east-and-africa/2022/12/29/israels-new-government-is-the-most-right-wing-ever), led by <strong>Binyamin Netanyahu</strong>. Left-wing and Arab members of Israel’s parliament led the demonstrations. Their concerns centred on a planned overhaul of the country’s judicial system, which critics say will weaken checks on the government’s power. An anti-Netanyahu group vowed to demonstrate again next Saturday. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
