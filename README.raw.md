@@ -32,26 +32,6 @@ Around 200 furious customers gathered outside <strong>Tesla </strong>showrooms i
 
 ----------
 
-## Covid surveillance is faltering
-
-Three years ago this week scientists in China isolated the first strain of the novel coronavirus that would spawn the covid-19 pandemic. Again all eyes are on China: the country has stopped reporting reliable data on cases and deaths, just as it faces the [world’s biggest wave of infections](https://www.economist.com/china/2023/01/05/china-is-overwhelmed-yet-an-even-bigger-covid-wave-may-be-coming). That is stoking worries that if a scary new variant emerges there, other countries will be unaware until their hospitals fill up.
-
-But variants can appear anywhere. More infections increase the chances of that, and covid is spreading freely around the world. About 2% of people in Britain, for example, had covid on any given day in recent months. The latest—and most contagious—offshoot of the Omicron variant, called XBB.1.5, probably originated in America. Sharing genomic sequences is the first step to dealing with new variants. But as [countries abandon testing](https://www.economist.com/science-and-technology/2023/01/04/all-around-the-world-covid-surveillance-is-faltering), such surveillance is winding down. That is what the world should worry about most.
-
-## Facebook’s de-platforming decision
-
-The morning after the [Capitol riot](https://www.economist.com/united-states/2021/01/06/trumps-supporters-storm-the-capitol-to-block-the-transfer-of-power), Mark Zuckerberg indefinitely suspended Donald Trump’s Facebook and Instagram accounts. Mr Trump had used the sites to “condone rather than condemn” that day’s violence, said the social-media firms’ boss. The ban was later shortened to two years, with the possibility of his re-platforming if the “risk to public safety” had diminished. The two-year mark comes on Saturday; a verdict about whether to reinstate Mr Trump is expected later this month.
-
-The choice is thorny, though arguably less consequential than one might think. First, the former president may choose not to post, preferring Truth Social, his own platform. Mr Trump has stayed mum on Twitter since Elon Musk welcomed him back to that site in November. Second, he is [much diminished](https://www.economist.com/united-states/2022/12/18/donald-trumps-popularity-with-republican-voters-is-sinking) as a political figure, especially after his chosen candidates’ [dismal showing](https://www.economist.com/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger) at the midterm elections. His pronouncements, put simply, matter less than they once did. 
-
-## A divided Orthodox Christmas
-
-For most Christians, the last traces of Christmas will be gone by Saturday. Some consider it bad luck to keep up decorations after Epiphany, on Friday. But members of the Orthodox Church, the dominant religion in Russia and Ukraine, will be celebrating. They follow the Julian calendar, rather than the more-popular Gregorian, so Christmas Day falls on Saturday. Russia ordered a brief ceasefire in its war to mark the occasion, though fighting has continued.
-
-But many Ukrainians have already celebrated the nativity. For the first time, the Orthodox Church of Ukraine (OCU), one of [two main Orthodox churches](https://www.economist.com/the-economist-explains/2022/01/06/why-did-the-russian-and-ukrainian-orthodox-churches-split) in the country, allowed the faithful to mark Christmas on December 25th.
-
-That sets the OCU at odds with the Russian Orthodox Church and with the Ukrainian Orthodox Church (UOC), the country’s other main church. Until May the UOC fell under the authority of the Russian church. Many still view it as a [fifth column](https://www.economist.com/europe/2022/12/11/ukraines-orthodox-churches-and-the-fight-for-the-countrys-soul). This Christmas is unlikely to bring much unity. 
-
 ## Weekend Profile: Andriy Kostin, Ukraine’s prosecutor with a plan
 
 Few would envy Andriy Kostin, Ukraine’s newish prosecutor-general. His office is short on armoured vehicles, bulletproof vests and kit to detect landmines, which he calls “a real threat” to his officers in the field. His office has nonetheless recorded more than 60,000 alleged Russian [war crimes](https://www.economist.com/europe/2022/04/08/as-russian-soldiers-retreat-they-leave-evidence-of-war-crimes), ranging from torture and executions to strikes on over 400 medical facilities. Allies have lent him investigators, but with only about 200 Ukrainian war-crimes prosecutors, the team is stretched thin. 
@@ -99,6 +79,32 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Peter Nicklin</strong>, Naivasha, Kenya
 
 They all gave the correct answers of <em>the Reverend Collins, The Moon and Sixpence, Watts, Henley-on-Thames</em> and<em> Kenneth Starr. </em>The theme is famous drummers: <em>Phil Collins, Keith Moon, Charlie Watts, Don Henley </em>and<em> Ringo Starr. </em>
+
+## China reopens to the world
+
+For nearly three years, China isolated itself to stop the spread of covid-19. The number of international flights tumbled, visas were denied, and those who did manage to enter the country faced onerous quarantines. But the raging spread of covid across China has now rendered these restrictions pointless. They were, mostly, [dismantled](https://www.economist.com/leaders/2023/01/05/how-chinas-reopening-will-disrupt-the-world-economy) on Sunday.
+
+That will allow many Chinese to take their first overseas trip in years. Tourist hotspots in South-East Asia, starved of Chinese cash, will celebrate. Foreign executives will also be keen to visit their firms’ factories in China (although tourist visas for foreigners remain unavailable). And as China’s economy recovers, demand for foreign commodities will probably surge.
+
+But the [years of isolation](https://www.economist.com/china/2022/12/06/china-is-dismantling-its-zero-covid-machine) have left deep scars. Investors have grown wearier of China and more open to moving supply chains elsewhere. And distrust between China and the West has festered. China recently refused offers of more effective covid vaccines from America and the EU, even as its death toll mounts. 
+
+## Problems mount for Vladimir Putin
+
+At midnight on Saturday, Russia’s purported temporary ceasefire in Ukraine, marking Orthodox Christmas, ended. In truth, the fighting never stopped. Vladimir Putin ordered the unilateral truce at the behest of Patriarch Kirill, head of the Russian Orthodox Church and [fierce supporter of the president](https://www.economist.com/europe/2022/03/21/russias-orthodox-church-paints-the-conflict-in-ukraine-as-a-holy-war). Mr Putin needs to keep his allies close amid his faltering invasion. The latest setback—a deadly [strike](https://www.economist.com/europe/2023/01/04/a-russian-warlords-savagery-is-sending-a-loud-message-to-moscow) on a Russian barracks in the Donetsk region that killed at least 89 soldiers—has brought more public criticism of Russia’s generals. And shadowy figures such as [Yevgeny Prigozhin](https://www.economist.com/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), the head of Wagner Group, a private militia, are gaining more influence on the battlefield as a result.
+
+For now, Mr Prigozhin remains under Mr Putin’s thumb. But doubts about the president’s military acumen persist. Moreover, Ukraine insists that Russia will shortly launch another mobilisation in preparation for a large offensive. The first recruitment drive incited [widespread protests](https://www.economist.com/graphic-detail/2022/09/29/protests-erupt-across-russia) in Russia in September. Repeating the move would chip away further at the president’s authority.
+
+## Benin’s brittle democracy
+
+The people of Benin have had much to celebrate lately. Many of their centuries-old bronze sculptures, which were looted by the British in 1897, are being returned. But that will not assuage the worries of many Beninois—who vote in parliamentary elections on Sunday—about [growing cracks](https://www.economist.com/middle-east-and-africa/2021/04/08/benins-democratic-beacon-dims) in their achievement of helping to lead Africa’s wave of democratisation in the 1990s.
+
+The last such election in 2019 was a sham: no opposition parties were on the ballot, leading to a woefully low turnout and days of violent protests. This time the Constitutional Court has allowed three such parties to run, though prominent opponents of Patrice Talon, the president since 2016, are still in jail on trumped-up charges. Mr Talon, who won re-election in a flawed presidential poll in 2021, promised at the time not to unconstitutionally seek a third term. But many Beninois will have noted his more recent assertions that authoritarian measures are necessary, and that democratic freedoms “flirt with anarchy”.
+
+## South Africa’s new cricket league
+
+Ever since the wildly successful Indian Premier League was launched in 2008, other cricketing nations have rushed to get their own tournament in the fast-paced [Twenty20](https://www.economist.com/graphic-detail/2021/10/20/cricket-looks-set-to-become-a-global-game) (T20) format. In 2018 South Africa inaugurated its Mzansi Super League, but the tournament folded when the pandemic forced the crowds away. With covid-19 in abeyance, the country has decided that if you can’t beat [India](https://www.economist.com/culture/2022/10/13/india-ought-to-win-crickets-twenty20-world-cup-but-probably-wont), you may as well join it.
+
+And so on Tuesday, South Africa will launch SA20, a successor to the Super League with one big difference: all six teams are owned by IPL franchises, rather than private investors. South Africa hopes to draw on the Indian experience of running a lucrative league. But SA20 will have other competitors: the established T20 Big Bash League, ongoing in Australia, and another new league soon to begin in the United Arab Emirates. Whether fans crave yet more whirlwind cricket remains to be seen.
 
 ----------
 
