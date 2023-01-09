@@ -106,6 +106,12 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 
 They all gave the correct answers of <em>the Reverend Collins, The Moon and Sixpence, Watts, Henley-on-Thames</em> and<em> Kenneth Starr. </em>The theme is famous drummers: <em>Phil Collins, Keith Moon, Charlie Watts, Don Henley </em>and<em> Ringo Starr. </em>
 
+## America’s aiming at Mexican officials
+
+As American and Mexican leaders meet, Genaro García Luna, a former federal security minister in Mexico, will stand trial in New York on Monday accused of colluding with drug lords. Mr García Luna, who from 2006 to 2012 was a leading figure in Mexico’s “war on drugs” under then-president Felipe Calderón, is accused of taking bribes from the Sinaloa Cartel. American prosecutors allege that he laundered $50m, hiding it in tax havens. He is expected to plead not guilty to all charges.
+
+America’s strategy of going after Mexican officials who work with organised crime rather than gangsters themselves has had mixed results. It was dealt a high-profile blow recently. In 2021 the American government returned to Mexico Salvador Cienfuegos, a former defence chief whom they had arrested in 2020 on charges of drug trafficking, after Mexico threatened to make it harder for American security officials to collaborate with their Mexican counterparts. Mr Cienfuegos was subsequently set free by Mexico’s government.
+
 ----------
 
 *Owing to the difference between time zones of servers in which our auto-update script is running, content above probably doesn't match the one in your region.*
