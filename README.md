@@ -22,11 +22,11 @@ In <strong>Brazil</strong> thousands of far-right supporters of <strong>Jair Bol
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Joe Biden travelled to El Paso, Texas—his first trip to <strong>America’s southern border</strong> since taking office—and inspected a port of entry. The state’s Republican governor, a [vocal critic](https://te.arielherself.xyz/united-states/2022/08/25/americas-border-crisis-reaches-new-york-by-bus) of Mr Biden’s border policies, had complained that the president’s visit was “two years too late”. Earlier Mr Biden announced plans to send migrants from Cuba, Haiti, Nicaragua and Venezuela back to Mexico to stem record [migration](https://te.arielherself.xyz/united-states/2022/05/22/the-title-42-furore-highlights-americas-broken-immigration-system) flows.
-
 Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said that Ukrainian troops were “repelling constant Russian attempts to advance” on Bakhmut, a city in the east. Earlier Ukraine denied Russia’s claim that its strike on a dormitory in Kramatorsk, another eastern city, had killed at least 600 Ukrainian soldiers. A spokesperson for the Ukrainian army said only civilian infrastructure had been damaged.
 
 <strong>Israel’s </strong>new far-right minister for national security, Itamar Ben-Gvir, declared that the <strong>Palestinian flag </strong>was to be barred from public display within Israeli territory. The security forces already enjoyed the right to take it down during police actions; Mr Ben-Gvir went further by saying that even [waving the flag](https://te.arielherself.xyz/1843/2021/05/19/the-illusion-of-citizenship-has-gone-israels-arabs-look-to-the-future) should count as an “act in support of terrorism” and “incitement against Israel”.
+
+A shortage of <strong>onions in the Philippines</strong> has sent their price to eye-watering heights, at more than 600 pesos ($10.88) per kilogram, or three times that of chicken. The country plans to import 22,000 tonnes of the staple to ease pressure on inflation, which reached a 14-year high of 8.1% in December. Of that, [onions](https://te.arielherself.xyz/special-report/2019/10/10/why-onions-and-pigs-can-give-economists-a-headache) accounted for 0.3 percentage points.
 
 <strong>Fact of the day:</strong> 56%, the percentage of people in Latin America who identify as Catholic, down from 80% in 1995. [Read the full story.](https://te.arielherself.xyz/international/2023/01/02/the-death-of-pope-benedict-removes-a-problem-for-liberal-catholics)
 
@@ -72,7 +72,7 @@ What makes for a happy, fulfilling life? In an upcoming book Robert Waldinger an
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3766425e4d72444745524444587752545859585a5e44431954585a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0352766a79467073716670706c4366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which novel was the first in the historical series about the British Navy, written by Patrick O’Brian?
 
