@@ -46,7 +46,7 @@ Still, announcements before the summit—from Mexico of a capture of a drug baro
 
 Brazil’s capital was [thrust into chaos](https://www.economist.com/the-americas/2023/01/09/supporters-of-jair-bolsonaro-mount-an-insurrection-in-brazil) on Sunday as thousands of supporters of a former president, [Jair Bolsonaro](https://www.economist.com/the-americas/2022/11/23/jair-bolsonaros-challenge-to-brazils-election-was-rejected), invaded their country’s Congress, the presidential palace and the Supreme Court. The rampage bore striking similarities to the [storming of America’s Capitol](https://www.economist.com/united-states/2022/12/23/the-house-delivers-its-800-page-report-on-the-january-6th-riot) on January 6th 2021 by followers of Donald Trump. The insurrectionists broke windows and damaged furniture; in the Senate, they climbed onto the stage and slid down it as if it were a slide. 
 
-The current president, Luiz Inácio Lula da Silva, declared a federal security intervention in the district of Brasília, and condemned the police for acting too slowly. Some officers were filmed chatting with protesters and taking selfies rather than intervening. Police eventually retook control of the three buildings, arrested some 400 protesters and seized 40 buses that had been used to transport them. Now the government must clean up the damage—and the police forces too, which will take much longer.
+The current president, Luiz Inácio Lula da Silva, declared a federal security intervention in the district of Brasília, and condemned the police for acting too slowly. Some officers were filmed chatting with protesters and taking selfies rather than intervening. Police eventually retook control of the three buildings, arrested more than 1,000 protesters and seized 40 buses that had been used to transport them. Now the government must clean up the damage—and the police forces too, which will take much longer.
 
 ## Europe holds on to its workers
 
@@ -72,7 +72,7 @@ What makes for a happy, fulfilling life? In an upcoming book Robert Waldinger an
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0352766a79467073716670706c4366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="83d2f6eaf9c6f0f3f1e6f0f0ecc3e6e0ecedeceeeaf0f7ade0ecee">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which novel was the first in the historical series about the British Navy, written by Patrick O’Brian?
 
