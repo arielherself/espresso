@@ -12,105 +12,69 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-In <strong>Brazil</strong> thousands of supporters of former president Jair Bolsonaro stormed the presidential palace, Congress building and Supreme Court in the capital, Brasília. The police and the army cleared out crowds from government buildings with tear gas, and police arrested 170 protestors. President [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress), who was in São Paulo on official business, said he would return to the capital and invoked emergency powers to allow “any measures necessary” to restore order. Some <em>bolsonaristas</em> do not accept that the former president lost the general election in October. 
+In <strong>Brazil</strong> thousands of far-right supporters of <strong>Jair Bolsonaro</strong>, a former president, [stormed the presidential palace](https://www.economist.com/the-americas/2023/01/09/supporters-of-jair-bolsonaro-mount-an-insurrection-in-brazil), Congress building and Supreme Court in the capital, Brasília. The police and the army cleared crowds from government buildings with tear-gas and arrested around 400 rioters. President [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress) blamed Mr Bolsonaro for “encouraging” the mob. Mr Bolsonaro, who is currently in Florida, denied the accusation and condemned the violence. A Supreme Court judge ordered the removal of Brasília’s governor for 90 days, blaming him for security failures.
 
-<strong>China</strong> reopened to the world after three gruelling years of covid isolation. Travellers can now mostly go in and out of the country freely, without the need to quarantine—although, unlike foreign business folk, international tourists are still barred. Thousands crossed at the border with Hong Kong on Sunday morning and Chinese travel sites have been swamped. However, a [huge, under-reported covid wave](https://www.economist.com/china/2023/01/05/china-is-overwhelmed-yet-an-even-bigger-covid-wave-may-be-coming) means many other countries now require travellers departing from China to prove they are uninfected.
+<strong>China</strong> conducted its second round of military exercises around <strong>Taiwan</strong> in less than a month. Taiwan’s government said that four Chinese warships and 57 planes had passed near the island. Around half the aircraft breached Taiwan’s ​​air-defence identification zone. The show of force comes as a delegation of German politicians arrived in Taiwan, which [China calls its own](https://www.economist.com/leaders/2021/05/01/the-most-dangerous-place-on-earth).
 
-President Joe Biden landed in El Paso, Texas—his first trip to <strong>America’s southern border</strong> since taking office. The state’s Republican governor, a [vocal critic](https://www.economist.com/united-states/2022/08/25/americas-border-crisis-reaches-new-york-by-bus) of Mr Biden’s border policies, met him off the plane to deliver a letter in which he said the president’s visit was “two years too late”. Earlier Mr Biden announced plans to send migrants from Cuba, Haiti, Nicaragua and Venezuela back to Mexico to stem record [migration](https://www.economist.com/united-states/2022/05/22/the-title-42-furore-highlights-americas-broken-immigration-system) flows.
+<strong>Goldman Sachs</strong> reportedly plans to sack about 3,200 employees this week as it seeks to cut costs amid uncertainty in the capital markets. Bloomberg reported that more than a third of the lay-offs will come from the [investment bank’s](https://www.economist.com/finance-and-economics/2022/10/18/goldman-sachss-disastrous-main-street-gamble) trading and banking units. It would be the biggest purge since the global financial crisis in 2008.
 
-<strong>Russia </strong>claimed that missiles fired at a dormitory in Kramatorsk had killed at least 600 <strong>Ukrainian soldiers</strong>, although this was disputed by the mayor of the city. According to Russia’s defence ministry the [attack was revenge](https://www.economist.com/europe/2022/12/23/making-sense-of-vladimir-putins-war) for the killing of dozens of Russian soldiers on January 1st. Earlier on Sunday local puppet officials installed by Russia claimed that Ukraine had damaged two power plants in the east with a rocket attack.
+<strong>AstraZeneca</strong>, an Anglo-Swedish pharmaceutical giant, agreed to buy <strong>CinCor Pharma</strong>, an American biotech company for $1.8bn. The acquisition will boost AstraZeneca’s development of heart and kidney drugs, its second most-lucrative after its cancer treatments. CinCor faced a sell-off in November after a trial of baxdrostat, a drug designed to lower blood pressure, fell short of expectations.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Sweden’s</strong> prime minister, Ulf Kristersson, said he was confident that Turkey would allow his country to join <strong>NATO</strong>, despite not meeting all of Turkey’s demands. Turkey initially objected to Sweden and Finland’s applications to join the defence alliance, saying that both countries were harbouring anti-Turkish terrorists. In June the three [agreed conditions](https://www.economist.com/europe/2022/06/28/turkey-lifts-its-block-on-letting-sweden-and-finland-join-nato) to lift the veto, but Mr Kristersson says Turkey is now asking for more.
+Joe Biden travelled to El Paso, Texas—his first trip to <strong>America’s southern border</strong> since taking office—and inspected a port of entry. The state’s Republican governor, a [vocal critic](https://www.economist.com/united-states/2022/08/25/americas-border-crisis-reaches-new-york-by-bus) of Mr Biden’s border policies, had complained that the president’s visit was “two years too late”. Earlier Mr Biden announced plans to send migrants from Cuba, Haiti, Nicaragua and Venezuela back to Mexico to stem record [migration](https://www.economist.com/united-states/2022/05/22/the-title-42-furore-highlights-americas-broken-immigration-system) flows.
 
-The<strong> IMF</strong> announced a meeting with <strong>Pakistan</strong>, to be held on Monday, to discuss a stalled bailout. Talks will happen on the sidelines of a UN conference in Geneva aimed at raising international funds to repair the damage caused during [extreme flooding](https://www.economist.com/graphic-detail/2022/09/15/devastating-floods-like-pakistans-will-be-more-common-in-a-warming-world) last year. The cost of rebuilding millions of homes and broken infrastructure has been estimated at around $16.3bn.
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, said that Ukrainian troops were “repelling constant Russian attempts to advance” on Bakhmut, a city in the east. Earlier Ukraine denied Russia’s claim that its strike on a dormitory in Kramatorsk, another eastern city, had killed at least 600 Ukrainian soldiers. A spokesperson for the Ukrainian army said only civilian infrastructure had been damaged.
 
-<strong>Ana Montes</strong>, a double agent who spied for Cuba while working as an American intelligence analyst, was released from prison after spending 20 years behind bars. By the time of her [arrest](https://www.economist.com/united-states/2001/09/27/low-fidelity) in 2001 she had spent close to two decades divulging secrets about American operations on the communist island. She said she had felt “morally obligated” to help Cuba defend itself.
+<strong>Israel’s </strong>new far-right minister for national security, Itamar Ben-Gvir, declared that the <strong>Palestinian flag </strong>was to be barred from public display within Israeli territory. The security forces already enjoyed the right to take it down during police actions; Mr Ben-Gvir went further by saying that even [waving the flag](https://www.economist.com/1843/2021/05/19/the-illusion-of-citizenship-has-gone-israels-arabs-look-to-the-future) should count as an “act in support of terrorism” and “incitement against Israel”.
 
-<strong>Word of the Week: </strong><em>mauj</em>, the name of a sex-education website run by Arab women, meaning “wave” (of sexual pleasure) in Arabic. [Read the full story](https://www.economist.com/middle-east-and-africa/2023/01/05/women-in-the-middle-east-are-leading-a-revolt-against-prudish-men). 
+<strong>Fact of the day:</strong> 56%, the percentage of people in Latin America who identify as Catholic, down from 80% in 1995. [Read the full story.](https://www.economist.com/international/2023/01/02/the-death-of-pope-benedict-removes-a-problem-for-liberal-catholics)
+
+<strong>Correction</strong>: In Saturday’s edition of World in Brief we said that Jack Ma was giving up control of Alibaba, rather than Ant Group. Sorry.
 
 ----------
 
-## China reopens to the world
+## The North American Leaders’ Summit
 
-For nearly three years, China isolated itself to stop the spread of covid-19. The number of international flights tumbled, visas were denied, and those who did manage to enter the country faced onerous quarantines. But the raging spread of covid across China has now rendered these restrictions pointless. They were, mostly, [dismantled](https://www.economist.com/leaders/2023/01/05/how-chinas-reopening-will-disrupt-the-world-economy) on Sunday.
+On Monday the presidents of America and Mexico and the prime minister of Canada will meet in Mexico City. Talks between Joe Biden, Andrés Manuel López Obrador and Justin Trudeau will focus on regional integration, especially how to take advantage of “nearshoring”—the trend for companies to bring production closer to home. North America already accounts for around a third of global GDP, but there is the potential for growth.
 
-That will allow many Chinese to take their first overseas trip in years. Tourist hotspots in South-East Asia, starved of Chinese cash, will celebrate. Foreign executives will also be keen to visit their firms’ factories in China (although tourist visas for foreigners remain unavailable). And as China’s economy recovers, demand for foreign commodities will probably surge.
+But for every positive agenda item there is a tricky counterpart. America and Canada are concerned about Mexican energy policies that favour its national companies and are being disputed under [USMCA](https://www.economist.com/the-americas/2018/10/04/canada-joins-north-americas-revised-trade-deal), the regional free-trade agreement. America wants Mexico to crack down on drugs coming north, while Mexico has asked America to curb guns flowing the other way. 
 
-But the [years of isolation](https://www.economist.com/china/2022/12/06/china-is-dismantling-its-zero-covid-machine) have left deep scars. Investors have grown wearier of China and more open to moving supply chains elsewhere. And distrust between China and the West has festered. China recently refused offers of more effective covid vaccines from America and the EU, even as its death toll mounts. 
+Still, announcements before the summit—from Mexico of a capture of a drug baron and new immigration proposals from America that may stop so many migrants crossing through Mexico—suggest the “three amigos” want to keep it as friendly as possible.
 
-## Problems mount for Vladimir Putin
+## Bolsonaristas run wild in Brasília
 
-At midnight on Saturday, Russia’s purported temporary ceasefire in Ukraine, marking Orthodox Christmas, ended. In truth, the fighting never stopped. Vladimir Putin ordered the unilateral truce at the behest of Patriarch Kirill, head of the Russian Orthodox Church and [fierce supporter of the president](https://www.economist.com/europe/2022/03/21/russias-orthodox-church-paints-the-conflict-in-ukraine-as-a-holy-war). Mr Putin needs to keep his allies close amid his faltering invasion. The latest setback—a deadly [strike](https://www.economist.com/europe/2023/01/04/a-russian-warlords-savagery-is-sending-a-loud-message-to-moscow) on a Russian barracks in the Donetsk region that killed at least 89 soldiers—has brought more public criticism of Russia’s generals. And shadowy figures such as [Yevgeny Prigozhin](https://www.economist.com/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), the head of Wagner Group, a private militia, are gaining more influence on the battlefield as a result.
+Brazil’s capital was [thrust into chaos](https://www.economist.com/the-americas/2023/01/09/supporters-of-jair-bolsonaro-mount-an-insurrection-in-brazil) on Sunday as thousands of supporters of a former president, [Jair Bolsonaro](https://www.economist.com/the-americas/2022/11/23/jair-bolsonaros-challenge-to-brazils-election-was-rejected), invaded their country’s Congress, the presidential palace and the Supreme Court. The rampage bore striking similarities to the [storming of America’s Capitol](https://www.economist.com/united-states/2022/12/23/the-house-delivers-its-800-page-report-on-the-january-6th-riot) on January 6th 2021 by followers of Donald Trump. The insurrectionists broke windows and damaged furniture; in the Senate, they climbed onto the stage and slid down it as if it were a slide. 
 
-For now, Mr Prigozhin remains under Mr Putin’s thumb. But doubts about the president’s military acumen persist. Moreover, Ukraine insists that Russia will shortly launch another mobilisation in preparation for a large offensive. The first recruitment drive incited [widespread protests](https://www.economist.com/graphic-detail/2022/09/29/protests-erupt-across-russia) in Russia in September. Repeating the move would chip away further at the president’s authority.
+The current president, Luiz Inácio Lula da Silva, declared a federal security intervention in the district of Brasília, and condemned the police for acting too slowly. Some officers were filmed chatting with protesters and taking selfies rather than intervening. Police eventually retook control of the three buildings, arrested some 400 protesters and seized 40 buses that had been used to transport them. Now the government must clean up the damage—and the police forces too, which will take much longer.
 
-## Benin’s brittle democracy
+## Europe holds on to its workers
 
-Benin was once a pioneer of African democracy. In the 1990s, it became one of the first sub-Saharan countries to see a peaceful transfer of power from incumbent to opposition via the ballot box. But now many Beninois—who vote in parliamentary elections on Sunday—are worried.
+There is one big bright spot in [Europe’s economic malaise](https://www.economist.com/leaders/2022/11/24/europe-faces-an-enduring-crisis-of-energy-and-geopolitics): the labour market. Unemployment is at record lows, despite the energy and inflation crunch that is hitting households and businesses. Labour market data from [the EU](https://www.economist.com/europe/2023/01/05/fifty-years-ago-the-eu-cracked-the-secret-of-its-current-success), released on Monday, showed that employment has remained strong.
 
-The last such election in 2019 was a sham: no opposition parties were on the ballot, leading to a woefully low turnout and days of violent protests. This time the Constitutional Court has allowed three such parties to run, though prominent opponents of Patrice Talon, the president since 2016, are still in jail on trumped-up charges. Mr Talon, who won re-election in a flawed presidential poll in 2021, promised at the time not to unconstitutionally seek a third term. But many Beninois will have noted his more recent assertions that authoritarian measures are necessary, and that democratic freedoms “flirt with anarchy”.
+Businesses’ and consumers’ view of the economy is still more negative than the long-term average. However, many businesses still say they expect to hire more workers. Since this current crisis is expected to be short-lived, that seems sensible. But it is also because demographic change is about to hit the economy, hard. 
 
-## South Africa’s new cricket league
+The share of the EU population who will soon retire (aged 60-64 years) is 6.5%, more than a percentage point higher than the share of youngsters entering the labour market (aged 15-19) at 5.2%, sapping the economy of working-age adults. In such a tight labour market recruiting and retaining workers will be a growing challenge.
 
-Ever since the wildly successful Indian Premier League was launched in 2008, other cricketing nations have rushed to get their own tournament in the fast-paced [Twenty20](https://www.economist.com/graphic-detail/2021/10/20/cricket-looks-set-to-become-a-global-game) (T20) format. In 2018 South Africa inaugurated its Mzansi Super League, but the tournament folded when the pandemic forced the crowds away. With covid-19 in abeyance, the country has decided that if you can’t beat [India](https://www.economist.com/culture/2022/10/13/india-ought-to-win-crickets-twenty20-world-cup-but-probably-wont), you may as well join it.
+## Britain’s cost-of-living crisis
 
-And so on Tuesday, South Africa will launch SA20, a successor to the Super League with one big difference: all six teams are owned by IPL franchises, rather than private investors. South Africa hopes to draw on the Indian experience of running a lucrative league. But SA20 will have other competitors: the established T20 Big Bash League, ongoing in Australia, and another new league soon to begin in the United Arab Emirates. Whether fans crave yet more whirlwind cricket remains to be seen.
+The political turmoil may have eased, but Britain is still a [country in crisis](https://www.economist.com/britain/2022/12/15/britains-economic-record-since-2007-ranks-near-the-bottom-among-peer-countries). A new report by the Resolution Foundation, a think-tank, makes gloomy reading.
 
-## Weekend Profile: Andriy Kostin, Ukraine’s prosecutor with a plan
+Food prices continue to rise at record rates, as real wages are falling. Although inflation and energy prices should ease this year, the latter will be offset by a drop in government support. Rising interest rates will continue to hurt those with mortgages, and those who rent from mortgage-holders. The report finds that, after housing costs are accounted for, the disposable income of a typical British working family is set to fall by £2,100 ($2,554) in 2023.
 
-Few would envy Andriy Kostin, Ukraine’s newish prosecutor-general. His office is short on armoured vehicles, bulletproof vests and kit to detect landmines, which he calls “a real threat” to his officers in the field. His office has nonetheless recorded more than 60,000 alleged Russian [war crimes](https://www.economist.com/europe/2022/04/08/as-russian-soldiers-retreat-they-leave-evidence-of-war-crimes), ranging from torture and executions to strikes on over 400 medical facilities. Allies have lent him investigators, but with only about 200 Ukrainian war-crimes prosecutors, the team is stretched thin. 
+The economy looks brighter for older, richer households, whose savings will be boosted by rising rates. But they may have other worries. A [crisis in the National Health Service](https://www.economist.com/the-world-ahead/2022/11/18/britains-nhs-faces-huge-challenges-in-2023), exacerbated by a winter spike in covid-19 and flu, is contributing to levels of excess deaths higher than all but the worst weeks of the pandemic.
 
-An inauspicious discovery led to Mr Kostin’s appointment, in July. His predecessor was dismissed after numerous prosecutorial officials were suspected of collaborating with Russia. But Mr Kostin, a law graduate of Odessa National University, is himself not entirely free of controversy. In 2021 Mr Kostin’s candidacy to lead an anti-corruption arm of the institution he now runs failed. Watchdogs saw “significant violations” in his ethical conduct, including two visits to occupied Crimea, failure to report a sale of real estate to a different anti-corruption body, and “possible nepotism”. 
+## The secret to a happy life
 
-Mr Kostin now dismisses the matter as a “historical question”; in the present, he is crafting a bold agenda. He describes Russia’s war as genocide, noting that Russian officials have spoken of “de-Ukrainisation”. He says some 14,000 cases of Ukrainian children being forcibly taken to Russia and Belarus amount to “stealing” Ukraine’s future. Mr Kostin believes that most cases of Russian war crimes can be tried in Ukrainian courts. They have already convicted 21 people of war crimes, some in absentia. 
+What makes for a happy, fulfilling life? In an upcoming book Robert Waldinger and Marc Schulz, directors of the Harvard Study of Adult Development, which for more than 80 years has conducted a scientific study of adult life and happiness, answer this question with a mixture of gentle anecdote and statistical rigour.  
+  
+ With more than 80 years of surveys, brain scans and blood tests at their disposal—to identify the factors that influence happiness—the authors are a cross between data-savvy psychologists and Stoic philosophers. The pair are keen on graphs but also on sage maxims: attention is the most valuable possession since wandering minds are unhappy, for example. As for their fundamental question of what makes a happy life, the short answer is “good relationships”, whether defined by love or less ethereal feelings. The good news is that it is never too late to form them.
 
-More ambitiously, Mr Kostin would also like to see Russia’s top leaders tried for aggression against Ukraine, but neither Ukraine nor the International Criminal Court have the [legal authority](https://www.economist.com/international/2022/04/04/how-if-at-all-might-russia-be-punished-for-its-war-crimes-in-ukraine) to do so. Mr Kostin is therefore lobbying hard for the creation of a special international tribunal, possibly by a vote of the UN’s general assembly—no small undertaking. The tribunal’s priority would be to try Vladimir Putin, Russia’s president. Many countries will hesitate to lend support. But outrage over Russia’s war, Mr Kostin says, is steadily building the necessary political capital. If Mr Kostin succeeds, he will have made his mark on history.
+## Daily quiz
 
-## Weekly crossword
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Holy father ordered bishop outside poetic eden (4, 8) 
-
-<em>1 across</em> Odd people with a lot of land in part of Europe (6) 
-
-<em>2 across </em>The opposition has energy, revolutionary troops, and something unknown (5) 
-
-<em>3 across</em> Little outlaw even ignored carmaker (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>An iron fist in a white glove (4, 8)
-
-<em>1 across</em> Germany’s unhappy neighbour (6)
-
-<em>2 across </em>What Ukraine needs resources to repel (5)
-
-<em>3 across</em> What has been overtaken by Tesla (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>Alexa Baker</strong>, Berlin, Germany 
-
-<strong>Mike Soar</strong>, Philadelphia, United States
-
-<strong>Peter Nicklin</strong>, Naivasha, Kenya
-
-They all gave the correct answers of <em>the Reverend Collins, The Moon and Sixpence, Watts, Henley-on-Thames</em> and<em> Kenneth Starr. </em>The theme is famous drummers: <em>Phil Collins, Keith Moon, Charlie Watts, Don Henley </em>and<em> Ringo Starr. </em>
-
-## America’s aiming at Mexican officials
-
-As American and Mexican leaders meet, Genaro García Luna, a former federal security minister in Mexico, will stand trial in New York on Monday accused of colluding with drug lords. Mr García Luna, who from 2006 to 2012 was a leading figure in Mexico’s “war on drugs” under then-president Felipe Calderón, is accused of taking bribes from the Sinaloa Cartel. American prosecutors allege that he laundered $50m, hiding it in tax havens. He is expected to plead not guilty to all charges.
-
-America’s strategy of going after Mexican officials who work with organised crime rather than gangsters themselves has had mixed results. It was dealt a high-profile blow recently. In 2021 the American government returned to Mexico Salvador Cienfuegos, a former defence chief whom they had arrested in 2020 on charges of drug trafficking, after Mexico threatened to make it harder for American security officials to collaborate with their Mexican counterparts. Mr Cienfuegos was subsequently set free by Mexico’s government.
+<strong>Monday: </strong>Which novel was the first in the historical series about the British Navy, written by Patrick O’Brian?
 
 ----------
 
