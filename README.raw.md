@@ -6,13 +6,13 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-01-08</p>
+# <p align="center">The world in brief 2023-01-09</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-In <strong>Brazil</strong> thousands of supporters of former president Jair Bolsonaro stormed the presidential palace, Congress building and Supreme Court in the capital, Brasília. The police and the army cleared out crowds from presidential offices with tear gas. President [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress), who was in São Paulo on official business, said he would return to the capital and invoked emergency powers to allow “any measures necessary” to restore order. Some <em>bolsonaristas</em> do not accept that the former president lost the general election in October. Mr Bolsonaro’s attempt to [dispute the result](https://www.economist.com/the-americas/2022/11/23/jair-bolsonaros-challenge-to-brazils-election-was-rejected) was rejected by the courts in November.
+In <strong>Brazil</strong> thousands of supporters of former president Jair Bolsonaro stormed the presidential palace, Congress building and Supreme Court in the capital, Brasília. The police and the army cleared out crowds from government buildings with tear gas, and police arrested 170 protestors. President [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress), who was in São Paulo on official business, said he would return to the capital and invoked emergency powers to allow “any measures necessary” to restore order. Some <em>bolsonaristas</em> do not accept that the former president lost the general election in October. 
 
 <strong>China</strong> reopened to the world after three gruelling years of covid isolation. Travellers can now mostly go in and out of the country freely, without the need to quarantine—although, unlike foreign business folk, international tourists are still barred. Thousands crossed at the border with Hong Kong on Sunday morning and Chinese travel sites have been swamped. However, a [huge, under-reported covid wave](https://www.economist.com/china/2023/01/05/china-is-overwhelmed-yet-an-even-bigger-covid-wave-may-be-coming) means many other countries now require travellers departing from China to prove they are uninfected.
 
