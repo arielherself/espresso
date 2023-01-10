@@ -70,7 +70,7 @@ What a difference a year makes. Last year’s ceremony took place in private, wi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="97c6e2feedd2e4e7e5f2e4e4f8d7f2f4f8f9f8fafee4e3b9f4f8fa">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="ecbd998596a99f9c9e899f9f83ac898f83828381859f98c28f8381">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name did Plato give to the group of people who would rule his ideal republics?  
 <strong>Monday: </strong>Which novel was the first in the historical series about the British Navy, written by Patrick O’Brian?
