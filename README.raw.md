@@ -50,9 +50,9 @@ Regulators are also concerned about privacy, particularly transfers of personal 
 
 ## Bed Bath &amp; Beyond buckles
 
-Investors expect more bad news when Bed Bath &amp; Beyond, an American homewares giant with around 700 shops, reports its quarterly results on Tuesday. Last week the company warned that sales had been hurt. Wary suppliers have reduced deliveries to BB&amp;B outlets, emptying its shelves, after the company fell behind on payments.
+Investors received more bad news on Tuesday when Bed Bath &amp; Beyond, an American homewares giant with around 700 shops, reported a quarterly loss of about $393m. Last week the company warned that sales had been hurt. Wary suppliers have reduced deliveries to BB&amp;B outlets, emptying its shelves, after the company fell behind on payments.
 
-The news followed a painful few years. An underinvestment in e-commerce saw BB&amp;B’s sales start to slump in 2018. An attempted turnaround was derailed by an unsuccessful shift toward own-brand products at the expense of those from recognised firms. Hopes were lifted last year when Ryan Cohen, an activist investor beloved by amateur traders, took a stake in the business and the chief executive was shown the door. But they were dashed again when Mr Cohen sold out in August. Although BB&amp;B raised fresh funds last year and shuttered around 150 shops, its mounting losses and shrinking cash reserves have inspired rumours of a pending bankruptcy.
+The news follows a painful few years. An underinvestment in e-commerce saw BB&amp;B’s sales start to slump in 2018. An attempted turnaround was derailed by an unsuccessful shift toward own-brand products at the expense of those from recognised firms. Hopes were lifted last year when Ryan Cohen, an activist investor beloved by amateur traders, took a stake in the business and the chief executive was shown the door. But they were dashed again when Mr Cohen sold out in August. Although BB&amp;B raised fresh funds last year and shuttered around 150 shops, its mounting losses and shrinking cash reserves have inspired rumours of a pending bankruptcy.
 
 ## Turkey’s largest Kurdish party under threat
 
@@ -70,7 +70,7 @@ What a difference a year makes. Last year’s ceremony took place in private, wi
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="9fceeaf6e5daecefedfaececf0dffafcf0f1f0f2f6ecebb1fcf0f2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c495b1adbe81b7b4b6a1b7b7ab84a1a7abaaaba9adb7b0eaa7aba9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name did Plato give to the group of people who would rule his ideal republics?  
 <strong>Monday: </strong>Which novel was the first in the historical series about the British Navy, written by Patrick O’Brian?
