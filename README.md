@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-A judge on <strong>Brazil’s</strong> Supreme Court ordered the arrest of two security officials, one of them a former justice minister, in Brasília, where supporters of <strong>Jair Bolsonaro</strong>, a former president, [stormed the seat of government](https://te.arielherself.xyz/the-americas/2023/01/09/supporters-of-jair-bolsonaro-mount-an-insurrection-in-brazil) on January 8th. The order comes as officials investigate the police response to the protests. President [Luiz Inácio Lula da Silva](https://te.arielherself.xyz/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress) earlier accused Brasília’s police and intelligence of “explicit connivance” with protesters.
-
 The <strong>Wagner Group</strong>, a private militia working for Vladimir Putin, claimed to have taken the town of Soledar in [eastern Ukraine](https://te.arielherself.xyz/europe/2023/01/04/a-russian-warlords-savagery-is-sending-a-loud-message-to-moscow). Ukraine’s defence ministry insisted that fighting in the town is continuing, although Britain’s ministry of defence said that its fall appeared imminent. Meanwhile, Russia’s human-rights commissioner said that Russia and Ukraine agreed to [swap](https://te.arielherself.xyz/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work) 40 prisoners-of-war.
+
+A judge on <strong>Brazil’s</strong> Supreme Court ordered the arrest of two security officials, one of them a former justice minister, in Brasília, where supporters of <strong>Jair Bolsonaro</strong>, a former president, [stormed the seat of government](https://te.arielherself.xyz/the-americas/2023/01/09/supporters-of-jair-bolsonaro-mount-an-insurrection-in-brazil) on January 8th. The order comes as officials investigate the police response to the protests. President [Luiz Inácio Lula da Silva](https://te.arielherself.xyz/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress) earlier accused Brasília’s police and intelligence of “explicit connivance” with protesters.
 
 A major fault in America’s <strong>Federal Aviation Administration</strong>’s computer system [grounded hundreds of planes](https://te.arielherself.xyz/business/2023/01/05/how-to-avoid-flight-chaos) on Wednesday. The FAA said that its “Notice to Air Missions” system, which alerts pilots to potential hazards, had “failed” and that they were working to restore it. No flights will take off before 9am EST.
 
@@ -64,7 +64,7 @@ Before Islamic State was defeated in 2019, more than 41,000 foreigners travelled
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6435110d1e211714160117170b2401070b0a0b090d17104a070b09">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c899bda1b28dbbb8baadbbbba788adaba7a6a7a5a1bbbce6aba7a5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>In Greek mythology what was the collective name given to the children of Uranus and Gaea?
 
