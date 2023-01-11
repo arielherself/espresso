@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 The <strong>Egyptian pound </strong>fell to a record low against the dollar as the country devalued its currency for the third time in ten months. As part of a $3bn bail-out from the <strong>IMF </strong>in October, Egypt agreed to stop using foreign reserves to prop up the pound’s value. Russia&#x27;s invasion of Ukraine led foreign investors [to flee risky assets](https://www.economist.com/finance-and-economics/2022/11/03/the-growing-popularity-of-a-strange-form-of-debt-diplomacy), putting downward pressure on the Egyptian currency.
 
-<strong>Sun Cable</strong>, an energy firm planning a $21bn submarine cable to send solar power from <strong>Australia</strong> to <strong>Singapore</strong>, is entering voluntary administration. Its collapse comes after shareholders—including Andrew Forrest, one of Australia’s richest men—failed to agree on a new fundraising plan. Sun Cable, among the world’s largest [renewable-energy projects](https://www.economist.com/asia/2022/10/13/how-to-get-asia-to-net-zero), will now seek to raise more money or sell the business outright.
+America’s <strong>Supreme Court</strong> refused to block New York’s firearms law while a lower court considers challenges from gun owners that its regulations violate their constitutional rights. Among other provisions, the ban on carrying guns in “sensitive” places such as medical offices, playgrounds and churches remains in effect–but two justices wrote that the law raises “novel and serious questions”. 
 
 “The Banshees of Inisherin”, a film about an estranged friendship in rural Ireland, clinched three prizes at the <strong>Golden Globes</strong>. The awards took place in Los Angeles in a glitzy ceremony that marked a return to Hollywood’s good graces. Last year’s event was held [in private](https://www.economist.com/culture/2022/01/10/the-hollywood-foreign-press-association-does-penance-for-its-sins) after criticism that its organising body lacked diversity saw television broadcasters pull out. Steven Spielberg’s semi-autobiographical film “The Fabelmans” picked up best drama.
 
@@ -64,7 +64,7 @@ Before Islamic State was defeated in 2019, more than 41,000 foreigners travelled
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a8f9ddc1d2eddbd8dacddbdbc7e8cdcbc7c6c7c5c1dbdc86cbc7c5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7425011d0e310704061107071b3411171b1a1b191d07005a171b19">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>In Greek mythology what was the collective name given to the children of Uranus and Gaea?
 
