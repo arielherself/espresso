@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 The <strong>Egyptian pound </strong>fell to a record low against the dollar as the country devalued its currency for the third time in ten months. As part of a $3bn bail-out from the <strong>IMF </strong>in October, Egypt agreed to stop using foreign reserves to prop up the pound’s value. Russia&#x27;s invasion of Ukraine led foreign investors [to flee risky assets](https://te.arielherself.xyz/finance-and-economics/2022/11/03/the-growing-popularity-of-a-strange-form-of-debt-diplomacy), putting downward pressure on the Egyptian currency.
 
-<strong>Britain’s</strong> foreign minister demanded that <strong>Iran</strong> halt its planned execution of a British-Iranian man convicted of spying for MI6. Alireza Akbari served as Iran’s deputy-defence minister about two decades ago, then settled in Britain and obtained citizenship there. His family and the British foreign ministry avoided publicising his plight for fear of upsetting his legal case, but now his execution seems imminent.
+<strong>Britain’s</strong> foreign minister demanded that <strong>Iran</strong> halt its planned execution of a British-Iranian man convicted of spying for MI6. Alireza Akbari served as Iran’s deputy-defence minister about two decades ago, then settled in Britain and obtained citizenship there. His family avoided publicising his plight for fear of upsetting his legal case, but now it says that his execution appears imminent.
 
 <strong>Domestic flights</strong> are gradually resuming in America hours after the Federal Aviation Administration cancelled [departures](https://te.arielherself.xyz/business/2023/01/05/how-to-avoid-flight-chaos) due to a fault in its computer systems. The FAA said that its “Notice to Air Missions” system, which alerts pilots to potential hazards, had failed. The agency suggested it was still looking into the cause of the problem. 
 
@@ -64,7 +64,7 @@ Before Islamic State was defeated in 2019, more than 41,000 foreigners travelled
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f9a88c9083bc8a898b9c8a8a96b99c9a96979694908a8dd79a9694">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d687a3bfac93a5a6a4b3a5a5b996b3b5b9b8b9bbbfa5a2f8b5b9bb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>In Greek mythology what was the collective name given to the children of Uranus and Gaea?
 
