@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>America</strong> and <strong>Japan</strong> announced plans to strengthen their security alliance amid concerns over China’s growing influence in the “[Indo-Pacific](https://www.economist.com/asia/2023/01/04/reinventing-the-indo-pacific)”. The new initiatives include reorganising American troops based in [Okinawa](https://www.economist.com/asia/2022/05/14/fifty-years-after-america-returned-okinawa-to-japan-it-still-feels-cut-off), a Japanese island, into a new regiment equipped with anti-ship missiles. Japan also signed a defence agreement with <strong>Britain</strong>, which will allow both countries to deploy troops on each other’s territory.
+<strong>America</strong> and <strong>Japan</strong> announced plans to strengthen their security alliance amid concerns over China’s growing influence in the [Indo-Pacific region](https://www.economist.com/asia/2023/01/04/reinventing-the-indo-pacific). The new initiatives include reorganising American troops based in [Okinawa](https://www.economist.com/asia/2022/05/14/fifty-years-after-america-returned-okinawa-to-japan-it-still-feels-cut-off), a Japanese island, into a new regiment equipped with anti-ship missiles. Japan also signed a defence agreement with <strong>Britain</strong>, which will allow both countries to deploy troops on each other’s territory.
 
 For a second time in two weeks, a batch of <strong>classified documents </strong>was revealed to have been in <strong>Joe Biden’s </strong>private possession. Aides to Mr Biden had found the first batch, including briefings dating from his 2009-17 vice-presidency, at his think-tank. This is all manna for [Republicans](https://www.economist.com/leaders/2023/01/04/what-the-kevin-mccarthy-saga-means-for-americas-congress) who wish to divert attention from [Donald Trump’s documents scandal](https://www.economist.com/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations)—and to fuel investigations into the current occupant of the White House.
 
@@ -70,7 +70,7 @@ This year will probably be even more extreme. La Niña will continue, which coul
 
 <strong>Daily quiz</strong>
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2f7e5a46556a5c5f5d4a5c5c406f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3b6a4e52417e484b495e4848547b5e585455545652484f15585456">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What profession links Saruman, Severus Snape and Oz the Great and Powerful?
 
