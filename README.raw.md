@@ -34,9 +34,9 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## Inflation in America softens, but not quite enough
 
-America’s monthly [inflation](https://www.economist.com/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) reports are now awaited more with optimism than dread. On Thursday figures are expected to show that overall prices were flat in December compared with November. That would be a second straight month of diminishing inflationary pressure. Optimists think that could allow the Federal Reserve to stop raising interest rates [sooner rather than later](https://www.economist.com/the-world-ahead/2022/11/14/how-does-the-past-help-us-predict-policy-on-inflation-in-2023), which would boost America’s chances of avoiding a serious recession.
+America’s monthly [inflation](https://www.economist.com/the-world-ahead/2022/11/14/how-does-the-past-help-us-predict-policy-on-inflation-in-2023) reports are now awaited more with optimism than dread. On Thursday figures confirmed that bias: overall prices edged down by 0.1% in December compared with November. In year-on-year terms, it was the sixth straight month of diminishing inflationary pressure. Optimists think that could allow the Federal Reserve to stop raising interest rates sooner rather than later, which would boost America’s chances of avoiding a serious recession.
 
-Alas, pessimists may have a more downbeat interpretation. The main reason for milder inflation has been a fall in prices for energy and some consumer goods, as supply chains recover from the disruption caused by the pandemic. But the Fed has made it clear that it is now most concerned about how rising wages are feeding into higher prices for services such as entertainment and travel. Until there is ample evidence that the labour market is weakening, the Fed is likely to stay on the warpath against inflation.
+Alas, pessimists have a more downbeat interpretation. The main reason for milder inflation has been a fall in prices for energy and some consumer goods, as supply chains recover from the disruption caused by the pandemic. But the Fed has made it clear that it is now most concerned about how rising wages are feeding into higher prices for services such as transportation and medical care. Until there is ample evidence that the labour market is weakening, the Fed is likely to stay on the warpath against inflation.
 
 ## Indian tech braces for a global recession
 
@@ -70,7 +70,7 @@ This year will probably be even more extreme. La Niña will continue, which coul
 
 <strong>Daily quiz</strong>
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7f2e0a16053a0c0f0d1a0c0c103f1a1c10111012160c0b511c1012">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="78290d11023d0b080a1d0b0b17381d1b17161715110b0c561b1715">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What profession links Saruman, Severus Snape and Oz the Great and Powerful?
 
