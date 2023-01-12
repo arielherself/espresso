@@ -14,9 +14,9 @@
 
 America’s attorney-general named a <strong>special counsel </strong>to investigate how <strong>classified documents</strong> from <strong>Joe Biden’s</strong> tenure as vice-president during the Obama administration remained in his private possession. Two batches of documents have been discovered, at Mr Biden’s think-tank and in the garage of his Delaware home. Congressional Republicans, seeking to divert attention from [Donald Trump’s documents scandal](https://te.arielherself.xyz/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations), an investigation with its own special counsel, have promised their own inquiry.
 
-<strong>America</strong> and <strong>Japan</strong> announced plans to strengthen their security alliance amid concerns over China’s growing influence in the [Indo-Pacific region](https://te.arielherself.xyz/asia/2023/01/04/reinventing-the-indo-pacific). The new initiatives include reorganising American troops based in [Okinawa](https://te.arielherself.xyz/asia/2022/05/14/fifty-years-after-america-returned-okinawa-to-japan-it-still-feels-cut-off), a Japanese island, into a new regiment equipped with anti-ship missiles. Japan also signed a defence agreement with <strong>Britain</strong>, which will allow both countries to deploy troops on each other’s territory.
-
 <strong>Consumer prices</strong> in America fell by 0.1% in December, the first monthly decline since May 2020. The drop is attributable to a reduction in the price of fuel and lower consumer demand. Annual inflation to December remains at 6.5%, higher than the Federal Reserve’s 2% target, but well below a peak of 9.1% in June.
+
+<strong>Argentina</strong> was less fortunate—in December its annual <strong>inflation</strong> rate hit 95%, a three-decade high. Prices rose by 5.1% from the previous month. Last year only Zimbabwe, Lebanon, Venezuela, Syria and Sudan saw higher inflation, all in the triple digits. In 1989, when Argentina endured a bout of severe [hyperinflation](https://te.arielherself.xyz/finance-and-economics/2019/01/31/hyperinflations-can-end-quickly-given-the-right-sort-of-regime-change), prices rocketed by more than 3,000%.
 
 <strong>Russia</strong> released <strong>Taylor Dudley</strong>, an American navy veteran whom it detained after he entered the Russian exclave of Kaliningrad in April. Mr Dudley is the second American citizen [freed](https://te.arielherself.xyz/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work) from Russian prisons in just over a month. Meanwhile, 500 Ukrainian civilians remain trapped in Soledar, a town in eastern Ukraine that is being fiercely fought over, according to local officials.
 
@@ -70,7 +70,7 @@ The year ahead will probably be even more extreme. La Niña—which is now in a 
 
 <strong>Daily quiz</strong>
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d584a0bcaf90a6a5a7b0a6a6ba95b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What profession links Saruman, Severus Snape and Oz the Great and Powerful?
 
