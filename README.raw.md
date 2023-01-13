@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-01-12</p>
+# <p align="center">The world in brief 2023-01-13</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -18,13 +18,13 @@ America’s attorney-general named a <strong>special counsel </strong>to investi
 
 <strong>Argentina</strong> was less fortunate—in December its annual <strong>inflation</strong> rate hit 95%, a three-decade high. Prices rose by 5.1% from the previous month. Last year only Zimbabwe, Lebanon, Venezuela, Syria and Sudan saw higher inflation, all in the triple digits. In 1989, when Argentina endured a bout of severe [hyperinflation](https://www.economist.com/finance-and-economics/2019/01/31/hyperinflations-can-end-quickly-given-the-right-sort-of-regime-change), prices rocketed by more than 3,000%.
 
-<strong>Russia</strong> released <strong>Taylor Dudley</strong>, an American navy veteran whom it detained after he entered the Russian exclave of Kaliningrad in April. Mr Dudley is the second American citizen [freed](https://www.economist.com/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work) from Russian prisons in just over a month. Meanwhile, 500 Ukrainian civilians remain trapped in Soledar, a town in eastern Ukraine that is being fiercely fought over, according to local officials.
+Recep Tayyip Erdogan, <strong>Turkey’s</strong> president, summoned the <strong>Swedish </strong>ambassador after a Kurdish group in Stockholm hanged an effigy of Mr Erdogan and likened him to Mussolini. Relations between the two countries are tense as they negotiate Sweden’s accession to NATO, which Turkey [agreed](https://www.economist.com/europe/2022/06/28/turkey-lifts-its-block-on-letting-sweden-and-finland-join-nato) to but has yet to ratify. Mr Erdogan has [accused ](https://www.economist.com/by-invitation/2022/05/30/recep-tayyip-erdogan-on-nato-expansion)Sweden of “supporting” the PKK, a Kurdish group that he considers a terrorist organisation.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Taiwan Semiconductor Manufacturing Co</strong>, one of the world’s [largest chipmakers](https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown), reported a record quarterly profit of NT$295.9bn ($9.4bn). Strong demand for high-performance chips for 5G infrastructure and gadgets meant that TSMC bucked the trend of collapsing profits for technology firms.
+<strong>Russia</strong> released <strong>Taylor Dudley</strong>, an American navy veteran whom it detained after he entered the Russian exclave of Kaliningrad in April. Mr Dudley is the second American citizen [freed](https://www.economist.com/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work) from Russian prisons in just over a month. Meanwhile, 500 Ukrainian civilians remain trapped in Soledar, a town in eastern Ukraine that is being fiercely fought over, according to local officials.
 
-<strong>Benin’s</strong> main opposition party, Les Democrates, rejected the results of [last week’s election](https://www.economist.com/graphic-detail/2022/12/16/african-voters-increasingly-want-change), accusing supporters of Patrice Talon, Benin’s president, of “flagrant” cheating. Parties allied with Mr Talon won 81 out of 109 seats, with Les Democrates winning the remainder. Once a pioneer of African democracy, Benin has moved towards one-party rule in recent years. No opposition candidates were permitted to run in the previous parliamentary election in 2019.
+<strong>Taiwan Semiconductor Manufacturing Co</strong>, one of the world’s [largest chipmakers](https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown), reported a record quarterly profit of NT$295.9bn ($9.4bn). Strong demand for high-performance chips for 5G infrastructure and gadgets meant that TSMC bucked the trend of collapsing profits for technology firms.
 
 <strong>Georg Gänswein</strong>, a catholic archbishop and friend to the [late Pope Benedict XVI](https://www.economist.com/international/2023/01/02/the-death-of-pope-benedict-removes-a-problem-for-liberal-catholics), released his long-awaited memoir. In “Nothing But the Truth: My Life Beside Pope Benedict XVI” Archbishop Gänswein, nicknamed “Gorgeous George”, makes public the tense relationship between <strong>Pope Benedict</strong> and his successor <strong>Pope Francis</strong>. During an interview, Archbishop Gänswein said Pope Francis’s restrictions on Latin Mass “pained Benedict&#x27;s heart”. 
 
@@ -70,7 +70,7 @@ The year ahead will probably be even more extreme. La Niña—which is now in a 
 
 <strong>Daily quiz</strong>
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a1f0d4c8dbe4d2d1d3c4d2d2cee1c4c2cecfceccc8d2d58fc2cecc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What profession links Saruman, Severus Snape and Oz the Great and Powerful?
 
