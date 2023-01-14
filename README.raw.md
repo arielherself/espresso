@@ -12,79 +12,97 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Russia’s </strong>ministry of defence said its forces had captured <strong>Soledar</strong> after months of hurling regular troops and mercenaries at the eastern Ukrainian town. Ukraine’s spokesperson for its troops in the east, however, said that [fighting continued](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) and accused Russia of “dispersing information noise”. A Russian success would mark the country’s first victory in half a year and pave the way to cut off the [nearby city of Bakhmut](https://www.economist.com/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut).
+<strong>Brazil’s</strong> Supreme Court agreed to prosecutors’ request that <strong>Jair Bolsonaro</strong>, the former president, be included as a subject of their investigation into the [riots in Brasília](https://www.economist.com/the-americas/2023/01/12/a-copycat-insurrection-in-brazil-and-its-troubling-aftermath) on January 8th. Afterwards Mr Bolsonaro had posted a video questioning the legitimacy of the election he lost in October 2022, giving them reason to argue that he may have conspired to incite the violence. The justice minister said he would request that America extradite his predecessor, Anderson Torres, on Monday if Mr Torres fails to turn himself in. Messrs Torres and Bolsonaro are both in Florida.
 
-<strong>America’s</strong> treasury secretary warned that the government will be unable to service its <strong>debt</strong> by June unless Congress raises the statutory <strong>borrowing limit</strong>. Janet Yellen said that, starting on Thursday, the government will have to start repurposing funds to pay its bills. Raising the [debt ceiling](https://www.economist.com/finance-and-economics/2021/09/25/americas-debt-ceiling-is-a-disaster-though-fiscal-rules-can-help) from $31.4trn is needed to avoid a sovereign default. With Republican fiscal hawks [newly empowered in Congress](https://www.economist.com/the-economist-explains/2023/01/09/what-is-the-house-freedom-caucus), brinkmanship awaits.
+<strong>Iran </strong>put to death a <strong>British national</strong>, Alireza Akbari, who was also a citizen of [Iran](https://www.economist.com/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory). Mr Akbari served as Iran’s deputy defence minister from 2000-08, before relocating to Britain. He was arrested in Iran in 2019 and convicted [of espionage](https://www.economist.com/britain/2022/03/17/after-years-in-jail-nazanin-zaghari-ratcliffe-returns-to-britain). Britain’s prime minister, Rishi Sunak, condemned the execution as a “callous and cowardly act” by “a barbaric regime”.
+
+<strong>America’s</strong> Treasury secretary warned that the government will be unable to service its <strong>debt</strong> by June unless Congress raises the statutory <strong>borrowing limit</strong>. Janet Yellen said that, starting on Thursday, the government will have to start repurposing funds to pay its bills. Raising the [debt ceiling](https://www.economist.com/finance-and-economics/2021/09/25/americas-debt-ceiling-is-a-disaster-though-fiscal-rules-can-help) from $31.4trn is needed to avoid a sovereign default. With Republican fiscal hawks [newly empowered in Congress](https://www.economist.com/the-economist-explains/2023/01/09/what-is-the-house-freedom-caucus), brinkmanship awaits.
 
 <strong>JPMorgan Chase</strong>, America’s largest bank by assets, reported that profit in the fourth quarter of 2022 grew by 6% year on year, to $11bn. That [owed much to higher interest rates](https://www.economist.com/finance-and-economics/2022/07/18/how-american-banks-are-responding-to-rising-interest-rates) and an increase of 48% in net interest income (the gap between lending revenues and borrowing costs). But the bank set aside $1.4bn in anticipation of credit losses and predicted a “mild recession” ahead.
 
-The Biden administration will seek congressional approval to sell <strong>F-16 fighter jets</strong> to <strong>Turkey</strong>, according to the <em>Wall Street Journal</em>. The $20bn sale, of 40 aircraft, will be conditional on Turkey ratifying [Sweden and Finland’s bids](https://www.economist.com/europe/2022/06/28/turkey-lifts-its-block-on-letting-sweden-and-finland-join-nato) to join NATO. Turkey recently put its Russian-made S-400 missile system in storage; in 2019 America had [cancelled a separate aircraft sale](https://www.economist.com/the-economist-explains/2019/07/26/turkeys-row-with-america-over-russian-military-hardware) to Turkey in protest over that purchase.
-
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Brazil’s</strong> justice minister said the federal police would request that America extradite his predecessor, Anderson Torres, on Monday if Mr Torres fails to turn himself in. Mr Torres was in charge of public security during the [Brasília riots](https://www.economist.com/the-americas/2023/01/12/a-copycat-insurrection-in-brazil-and-its-troubling-aftermath) on January 8th, though he was in Florida at the time and remains there. He has been stripped of that job; there is an order out for his arrest.
+<strong>Czechs </strong>cast ballots on the second and final day of voting in their presidential election. Andrej Babis, a billionaire and populist, leads the field. Mr Babis, who was prime minister between 2017 and 2021, was acquitted of fraud this week. If no candidate wins more than half the vote, the top two will face a run off for the largely ceremonial position in a fortnight.
 
-A New York City judge has fined [two companies](https://www.economist.com/united-states/2022/12/07/two-trump-organisation-companies-are-found-guilty-of-tax-fraud) belonging to <strong>Donald Trump </strong>a total of $1.6m for committing 17 felonies, including tax fraud. The businesses were convicted last month of paying their top executives with untaxed perks such as apartments and Mercedes-Benz cars. Mr Trump himself was not on trial.
+The Biden administration will seek congressional approval to sell <strong>F-16 fighter jets</strong> to <strong>Turkey</strong>, according to the <em>Wall Street Journal</em>. The $20bn sale, of 40 aircraft, will be conditional on Turkey ratifying [Sweden and Finland’s bids](https://www.economist.com/europe/2022/06/28/turkey-lifts-its-block-on-letting-sweden-and-finland-join-nato) to join NATO. Turkey recently put its Russian-made S-400 missile system in storage; in 2019 America had [cancelled a separate aircraft sale](https://www.economist.com/the-economist-explains/2019/07/26/turkeys-row-with-america-over-russian-military-hardware) to Turkey in protest over that purchase.
 
-<strong>Britain’s economy</strong> unexpectedly grew by 0.1% from October to November as pubs and restaurants filled up with people watching the World Cup. The figures suggest that Britain could narrowly [avoid recession](https://www.economist.com/the-economist-explains/2022/08/12/what-is-a-recession), defined as two quarters of contracting GDP, at the end of 2022. But strikes continue to weigh down the economy, which is still smaller than it was before the covid-19 pandemic.
+<strong>Russian</strong> missiles struck Kyiv in the first attack on <strong>Ukraine’s </strong>capital in two weeks. A Ukrainian official said critical infrastructure had been targeted, but no casualties were reported. A Russian strike also hit Kharkiv, the country’s second-largest city. The aerial assault comes amid heavy fighting in Soledar, a town in Donetsk province. Russia claims to have captured it; Ukraine says it is still holding out.
 
-<strong>Fact of the day:</strong> 40%, the percentage of elephant deaths that were the result of poaching in 2021, according to Monitoring the Illegal Killing of Elephants, a conservation programme. [Read the full story](https://www.economist.com/science-and-technology/2023/01/11/what-causes-elephant-poaching).
+<strong>Word of the week:</strong> <em>narcocorrido</em>, Spanish for “drug ballad”, these are songs about crime bosses and their activities, and are performed by some of Mexico’s most popular bands. [Read the full story](https://www.economist.com/culture/2023/01/11/to-their-critics-mexican-drug-ballads-glorify-violence).
 
 ----------
 
-## America and Japan buddy up in defence
+## America and Taiwan talk trade
 
-On Friday Kishida Fumio, Japan’s prime minister, visits the White House. His meeting with Joe Biden bookends a whirlwind tour of countries, including France, Italy, Britain and Canada, as Japan prepares to host a G7 summit in Hiroshima in May. In Washington, climate and trade issues, especially American curbs on semiconductor exports to China, will be on the agenda. But the two leaders will also focus on [security](https://www.economist.com/asia/2022/09/15/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army). On Wednesday their governments announced a commitment to strengthen their bilateral security alliance, faced with an increasingly assertive China. 
+On Saturday American officials will make a rare visit to Taiwan to resume talks on trade. In some ways, this is a trade negotiation like any other. The Americans, led by Terry McCartin, an assistant trade representative, will raise familiar concerns about Taiwan’s import barriers (especially against pork and beef), labour standards and state-owned enterprises. But the geopolitical context is unique. 
 
-This move comes at a time of upheaval for Japan’s security policy. Under a plan released in December, the country will nearly double its defence spending and acquire new weapons systems, including long-range missiles. The Biden administration has praised the initiative, seeing Japan’s build-up as essential to deterring Chinese aggression. And thus a means to ensure the [security of the Indo-Pacific](https://www.economist.com/asia/2023/01/04/reinventing-the-indo-pacific).
+Taiwan, which China regards as a renegade province, is feeling diplomatically isolated. It is not a member of either of the big trade agreements in the region, [RCEP](https://www.economist.com/finance-and-economics/2020/11/15/the-meaning-of-rcep-the-worlds-biggest-trade-agreement) (which includes China) and the [CPTPP](https://www.economist.com/asia/2022/02/19/asias-premier-trade-pact-needs-stronger-foundations) (which does not). Nor was it included in America’s new [Indo-Pacific Economic Framework](https://www.economist.com/asia/2022/06/09/what-is-the-point-of-the-indo-pacific-economic-framework), which aims to increase America’s commercial appeal in a part of the world falling under China’s economic spell. Taiwan thus welcomes the negotiations as a sign of America’s commitment to the island. Trade negotiations can be bruising. But Taiwan will prefer tough talks to silence.
 
-## The calm before the storm for America’s banks
+## Germany weans itself off Russian gas
 
-On the surface, the ripples look calm enough. Four of America’s biggest lenders—Bank of America, Citigroup, JPMorgan Chase and Wells Fargo—report fourth-quarter and full-year earnings on Friday. The expectation is that they, along with [Goldman Sachs](https://www.economist.com/finance-and-economics/2022/10/18/goldman-sachss-disastrous-main-street-gamble) and Morgan Stanley who report next week, will make a similar level of profit as they did in the second or third quarters of 2022.
+On Saturday Olaf Scholz, Germany’s chancellor, and Robert Habeck, the economy minister, will travel to Lubmin on the Baltic coast to open the country’s second floating terminal for [liquefied natural gas](https://www.economist.com/the-economist-explains/2022/02/26/if-the-supply-of-russian-gas-to-europe-were-cut-off-could-lng-plug-the-gap) (LNG). It is another milestone in the country’s effort to reduce its consumption of Russian gas. 
 
-Yet those gentle undulations hide a frantic churn in bank-business revenues. Net interest income—the money banks collect on loans, less the money they pay out on deposits—is soaring as the Federal Reserve raises interest rates. Meanwhile, the risk of a slowing economy may force borrowers to default, so banks are setting aside loan-loss provisions. The shock of much higher interest rates has killed off dealmaking activity, while leading to banner years for trading desks. These pressures are expected to balance out for now. But choppier waters may lie ahead.
+Until the end of last year Germany had no infrastructure to import LNG. Its other terminal opened on the North Sea coast in December. A third will soon open there too. By the end of this year Germany will have inaugurated half a dozen, providing enough import capacity to cover a third of Germany’s total gas needs. To build LNG terminals at such speed has cost the taxpayer billions of euros, but it will help ensure Germany can [get through the next winter](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck) without gas shortages.
 
-## Germany’s economy slightly rebounds
+## “Big Brother” returns to Africa
 
-On Friday Germany’s statistics agency announced that the country’s economy expanded by 1.9% in 2022. This was more than analysts expected, but slower than the increase of 2.6% recorded last year, one of the most difficult for the German economy in recent history. Vladimir Putin’s invasion of Ukraine radically reduced Russian deliveries of natural gas to Germany; in 2021 Russia accounted for over half of German gas imports. A rapid increase in energy prices, as well as post-pandemic challenges like supply-chain bottlenecks, posed a serious threat to Germany’s manufacturing-heavy economic model.
+One of the world’s best-known reality television shows returns to Africa’s screens on Sunday with a special edition called “Big Brother Titans”. Contestants from the rival continental powers of Nigeria and South Africa will be pitted against each other for the first time. And there’s $100,000 on the line.
 
-Yet so far the economy has weathered the storm thanks to the government’s fiscal support and milder weather that has kept energy prices down. Even so, in early 2023 Germany is expected to slip into recession, defined as two consecutive quarters of negative growth. But it is expected to be mild, as is the downturn in the rest of the euro zone.
+Spin-offs of the TV franchise have been a huge success in Africa since it first aired there in 2003. Initially there was “Big Brother Africa”. DStv, a broadcaster, has often hosted channels carrying nothing but 24/7 live-streams of the houses where contestants live together and try to avoid being voted out. (The last one standing takes the cash.) Showmax, which streams DStv’s content, reported in 2020 that Big Brother Naija (Nigeria), a national version, was its most-watched livestream ever. Nigerians made up only half its viewership. As the continent-wide edition returns, there is hope that its mix of scandal, romance and high drama will again have pan-African appeal. 
 
-## How to change Indian palates
+## Boiled peanuts used to treat allergies
 
-For Hindus, the middle of January is an auspicious time. Makar Sankranti, a festival that marks the end of the winter solstice—known as “Pongal” in south India—falls this weekend. For millions of Indian farmers it is an occasion to celebrate harvests past while praying for more bountiful ones to come. 
+Between 1 and 3% of people in most countries must scrupulously avoid peanuts or risk anaphylactic shock. And the allergy’s prevalence has [tripled in the past two decades](https://www.economist.com/graphic-detail/2019/10/03/the-prevalence-of-peanut-allergy-has-trebled-in-15-years) in America. To help sufferers, researchers have been experimenting with exposure therapy using boiled peanuts, which washes out some of their immunoreactive proteins. (This may be why peanut allergies are less prevalent in East Asia, where people usually boil their peanuts). The latest results, published in the journal<em> Clinical &amp; Experimental Allergy</em>, are promising.
 
-Rice and wheat are India’s traditional staples. But [India’s government](https://www.economist.com/asia/2022/02/05/indias-government-and-its-greens-disagree-on-what-counts-as-forest) is hoping to change that. It pushed the UN to declare 2023 the International Year of Millets. At home, it is organising events to increase consumption and production of cereals. 
+In the trial, 70 children with a peanut allergy underwent a year-long peanut training regimen. They began by eating some peanut boiled for 12 hours and escalating the dose every week. Eventually, they could nibble peanuts boiled for only two hours, and after a year most could scoff 12 roasted peanuts at a time. A slow process, but surely worth it to spare people the EpiPen or a trip to hospital. For these children at least, the label “may contain nuts” is no longer tantamount to a skull and crossbones.
 
-Their reasoning is sound. Millets, a name given to a range of small-grained cereals, require far less water than rice and wheat. They also provide more protein and fibre. Yet they remain largely unfashionable with the Indian population. Per-person consumption of millets has fallen in recent decades, as urbanisation changed consumer tastes. The government may struggle to convert Indian palates.
+## Weekend profile: J.R. Moehringer, prince of ghostwriters
 
-## A new film tackles race and gender in France
+As John Joseph (known as J.R.) Moehringer put it himself, “the midwife doesn’t go home with the baby”. Such is the lot of ghostwriters. You might expect Mr Moehringer to observe his own rule with extra rigour after he midwifed Prince Harry’s [todger-and-all memoir](https://www.economist.com/britain/2023/01/10/prince-harrys-autobiography-is-an-ill-advised-romp), “Spare”. Yet the furore surrounding the book has prompted Mr Moehringer to bend it, mainly by defending several inaccuracies on Twitter. Perhaps that’s because “Spare” is just as much Mr Moehringer’s work as Harry’s. From chimps to champs to princes, Mr Moehringer can find a written voice for anyone, especially if they have daddy issues (and a very large advance).
 
-“Saint Omer”, France’s entry for this year’s Oscars, is released in America on Friday. To describe it simply as a courtroom drama is to overlook the subtle study of motherhood, race, separation and belonging at the centre of this first feature film by Alice Diop, a French director born to Senegalese parents in the suburbs of Paris. 
+Mr Moehringer, born in 1964 in New York City, started work as a journalist at the <em>New York Times</em>. He once inhabited the voice of Cheeta, the chimp star of the 1930s Tarzan films, to write a piece marking his 75th birthday. But Mr Moehringer’s own memoir, “The Tender Bar”, published in 2005, established his real theme: how to survive dysfunctional families. Mr Moehringer writes of his absent, “brutally insensitive” father, a rock’n’roll DJ. For male role models he had to make do with the alcohol-soaked camaraderie of uncle Charlie and his mates in a bar. 
 
-The movie follows the trial of Laurence Coly (Guslagie Malanda), a Senegalese woman studying in Paris. She admits to leaving her baby daughter on a beach in northern France to be carried away by the tide and is accused of murder. The story unfolds through the eyes of Rama (Kayije Kagame), a writer whose parents also come from Senegal. The trial awakens in Rama the pain of her own maternal relationship as well as her bi-cultural anxiety, peeling back layers of racial and cultural prejudice. 
+The narrative of a lost boy striving to find his true self caught the eye of Andre Agassi, a tennis star of the 1990s with an outrageous mullet. He asked Mr Moehringer to help write his own memoir. Confronted, at first, by a “stilted, resistant” Mr Agassi, Mr Moehringer unlocked his subject, much as he must have done with Harry, with some 250 hours of interviews. The process bears a close resemblance to psychoanalysis. Harry calls Mr Moehringer his “confessor” in the acknowledgments to “Spare”. 
 
-Ms Diop has already won gongs at the [Venice Film Festival](https://www.economist.com/prospero/2017/09/05/why-it-is-significant-that-venice-film-festival-put-vr-on-the-bill) for “Saint Omer”, which is based on a true story. It is an artful account of the immigrant experience in France. And of motherhood everywhere.
+Mr Agassi’s book, “Open”, was revealing. It turned out that the Wimbledon winner hated tennis. Even the mullet was fake (to hide baldness). And, of course, there was the emotionally distant father. So, as the publishers must have realised, the Moehringer template was a perfect fit for Harry. 
 
-## Daily quiz
+But what suits publishers may not have best served the prince, who might have hoped to emerge with a bit more dignity. In an age of selfies and social-media exposure, however, dignity is not going to sell books. Prince Harry chose the right ghostwriter to do that.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c697b3afbc83b5b6b4a3b5b5a986a3a5a9a8a9abafb5b2e8a5a9ab">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+## Weekly crossword
 
-<strong>Friday: </strong>Which voracious creature is the national bird of Romania, the state bird of Louisiana and also has a publishing imprint named after it?
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-<strong>Thursday: </strong>What profession links Saruman, Severus Snape and Oz the Great and Powerful?
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
-## The winners of last week’s crossword
+<strong>Cryptic clues</strong>
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+<em>1 down </em>Strange and disheartened, Peter tormented elderly relatives (12) 
 
-<strong>Corien Kershey</strong>, Ottawa, Canada
+<em>1 across</em> Oil picked up in popular holiday destination (6) 
 
-<strong>Bernt Arne Odegaard</strong>, Fitjar, Norway
+<em>2 across </em>In part of image, nine seen in gym laughing a little (5) 
 
-<strong>Ramón Azpúrua</strong>, Caracas, Venezuela
+<em>3 across</em> Small fast creatures considered an investment (6) 
 
-They all gave the correct answers of [Pope Benedict](https://www.economist.com/international/2022/12/31/pope-benedict-xvi-was-an-iron-fist-in-a-white-glove), [Poland](https://www.economist.com/europe/2023/01/05/why-poland-loves-to-hate-germany), [enemy](https://www.economist.com/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) and [Toyota](https://www.economist.com/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm). Check back tomorrow for this week’s crossword.
+<strong>Factual clues</strong>
+
+<em>1 down </em>There are more of these than ever before (12)
+
+<em>1 across</em> Currently in a dispute with Turkey (6)
+
+<em>2 across </em>Where to look for clues that an image has been doctored (5) 
+
+<em>3 across</em> Something FTX used as collateral for borrowing (6) 
+
+## Quiz winners
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+<strong>Paul Nathanielsz</strong>, Toronto, Canada  
+<strong>Rik Mulder</strong>, Hilversum, the Netherlands  
+<strong>Chad V. Henry</strong>, Cleveland, Ohio 
+
+They all gave the correct answers of “<em>Master and Commander”</em>, <em>guardians</em>, <em>titans</em>, <em>wizards </em>and the <em>pelican</em>. The theme is sports franchises that have changed their names: the Washington Commanders (formerly Redskins), Cleveland Guardians (formerly Indians), Tennessee Titans (formerly Oilers), Washington Wizards (formerly Bullets) and New Orleans Pelicans (formerly Hornets).
 
 ----------
 
