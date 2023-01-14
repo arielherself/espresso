@@ -22,7 +22,7 @@ Meanwhile <strong>China</strong> appointed Zheng Yanxiong, the former head of <s
 
 Listen to an abridged version of the subscriber-only briefing.
 
-A <strong>Polish </strong>scientist imprisoned in <strong>Iran </strong>was released and returned home. Maciej Walczak was detained with several other foreign nationals in September 2021.<em> They were accused of offences that included taking soil samples in restricted locations.</em> Separately Iran executed a British-Iranian dual national, Alireza Akbari, who served as Iran’s deputy defence minister from 2000-08. He was arrested in 2019 and convicted of espionage.
+A <strong>Polish </strong>scientist imprisoned in <strong>Iran </strong>was released and returned home. Maciej Walczak was detained with several other foreign nationals in September 2021. They were accused of offences that included taking soil samples in restricted locations. Separately Iran executed a British-Iranian dual national, Alireza Akbari, who served as Iran’s deputy defence minister from 2000-08. He was arrested in 2019 and convicted of espionage.
 
 <strong>Czechs </strong>cast ballots on the second and final day of voting in their presidential election. Andrej Babis, a billionaire and populist, leads the field. Mr Babis, who was prime minister between 2017 and 2021, was acquitted of fraud this week. If no candidate wins more than half the vote, the top two will face a run off for the largely ceremonial position in a fortnight.
 
