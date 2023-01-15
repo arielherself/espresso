@@ -72,7 +72,7 @@ But what suits publishers may not have best served the prince, who might have ho
 
 Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection)conomist.com, along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
 <strong>Cryptic clues</strong>
 
