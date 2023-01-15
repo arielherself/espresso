@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-01-14</p>
+# <p align="center">The world in brief 2023-01-15</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -14,7 +14,7 @@
 
 Anderson Torres, who was <strong>Brazil’s </strong>justice minister under Jair Bolsonaro, the former president, was arrested in Brasília, the capital, on his return from Florida. Mr Torres was responsible for security in the city on January 8th when supporters of Mr Bolsonaro [stormed government buildings](https://te.arielherself.xyz/the-americas/2023/01/12/a-copycat-insurrection-in-brazil-and-its-troubling-aftermath). He is accused of colluding with the rioters (which he denies). Earlier Brazil’s Supreme Court agreed to prosecutors’ request that Mr Bolsonaro be included as a subject of their investigation.
 
-At least five people died and 39 were injured after a Russian missile struck an apartment block in Dnipro, a Ukrainian city. Russia unleashed two waves of strikes on Saturday. Meanwhile Rishi Sunak, <strong>Britain’s </strong>prime minister, said that his country would send Challenger 2 <strong>tanks </strong>to Ukraine. On Wednesday, Poland promised German-made Leopard 2 [battle tanks](https://te.arielherself.xyz/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine). America, France and Germany have said they will send [lighter fighting vehicles](https://te.arielherself.xyz/the-economist-explains/2023/01/05/what-is-a-tank-and-does-frances-gift-to-ukraine-fit-the-bill): Bradleys, AMX and Marders respectively. 
+At least 12 people died and 39 were injured after a Russian missile struck an apartment block in Dnipro, a Ukrainian city. Russia unleashed two waves of strikes on Saturday. Meanwhile Rishi Sunak, <strong>Britain’s </strong>prime minister, said that his country would send Challenger 2 <strong>tanks </strong>to Ukraine. On Wednesday, Poland promised German-made Leopard 2 [battle tanks](https://te.arielherself.xyz/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine). America, France and Germany have said they will send [lighter fighting vehicles](https://te.arielherself.xyz/the-economist-explains/2023/01/05/what-is-a-tank-and-does-frances-gift-to-ukraine-fit-the-bill): Bradleys, AMX and Marders respectively. 
 
 An estimated 80,000 people gathered in Tel Aviv’s Habima Square to protest against <strong>judicial reforms</strong> proposed by the government of Binyamin Netanyahu, <strong>Israel’s </strong>prime minister. The government intends to [weaken the Supreme Court](https://te.arielherself.xyz/middle-east-and-africa/2022/12/29/israels-new-government-is-the-most-right-wing-ever) by letting a majority of lawmakers in parliament overrule its decisions, among other proposals. The chief justice has warned that they would “deal a fatal blow” to Israeli democracy.
 
