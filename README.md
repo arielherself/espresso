@@ -22,9 +22,9 @@ At least 60 people were killed when an <strong>aeroplane crashed</strong> near P
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>China </strong>resumed high-speed rail links between the mainland and <strong>Hong Kong</strong>, which were halted during the pandemic. The country is removing its travel restrictions after scrapping quarantine requirements for inbound travellers on January 8th. It [abandoned its “zero-covid” policy i](https://te.arielherself.xyz/china/2023/01/10/covid-is-complicating-chinas-efforts-to-re-engage-with-the-world)n early December. The government reported that 60,000 people have died of covid-19 in hospitals since then.
-
 <strong>Punjab</strong>, the most populous state in <strong>Pakistan</strong>, dissolved its legislature on the advice of its chief minister, an ally of the former prime minister, <strong>Imran Khan</strong>. This looks like part of a scheme to trigger early national elections. Mr Khan has been trying to [disrupt Pakistani politics](https://te.arielherself.xyz/asia/2022/11/10/pakistans-political-crisis-is-also-a-dilemma-for-its-top-brass)—and agitating for fresh elections—since he was ousted from power in April.
+
+A court in <strong>Egypt</strong> sentenced 38 people to life in prison for their role in anti-government protests in September 2019. Twenty-three were tried in absentia. Among them was [Muhammad Ali](https://te.arielherself.xyz/middle-east-and-africa/2019/09/26/muhammad-ali-a-former-actor-living-abroad-is-riling-up-egyptians), a disgruntled businessman and former actor living in exile in Spain, who instigated the protests with fiery videos on YouTube. Such demonstrations are rare—Abdel-Fattah al-Sisi, Egypt’s authoritarian president, has muzzled dissent.
 
 Tens of thousands of health workers took to the streets of <strong>Madrid</strong>, Spain’s capital, to <strong>protest</strong> against cuts to the public-health system made by the regional government. Critics of Madrid’s government—which is led by the conservative [Popular Party](https://te.arielherself.xyz/europe/2022/06/23/a-stunning-victory-for-spains-conservative-opposition-in-andalucia), Spain’s main political opposition—accuse it of favouring private health providers and cutting resources for public services.
 
