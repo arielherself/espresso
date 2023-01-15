@@ -18,7 +18,7 @@ An estimated 80,000 people gathered in Tel Aviv’s Habima Square to protest aga
 
 At least 60 people were killed when an <strong>aeroplane crashed</strong> near Pokhara, a town in central <strong>Nepal</strong>. The flight—managed by Yeti Airlines, a Nepalese company—had 68 passengers and four crew members. It is thought to be the country’s deadliest air crash since 1992. The EU has banned Nepali airlines from its airspace since 2013 because of safety concerns.
 
-<strong>China </strong>resumed high-speed rail links between the mainland and <strong>Hong Kong</strong>, which were halted during the pandemic. The country is removing its travel restrictions after scrapping quarantine requirements for inbound travellers on January 8th. It [abandoned its “zero-covid” policy i](https://te.arielherself.xyz/china/2023/01/10/covid-is-complicating-chinas-efforts-to-re-engage-with-the-world)n early December. The government disclosed that 60,000 people have died of covid-19 in hospitals since then.
+<strong>China </strong>resumed high-speed rail links between the mainland and <strong>Hong Kong</strong>, which were halted during the pandemic. The country is removing its travel restrictions after scrapping quarantine requirements for inbound travellers on January 8th. It [abandoned its “zero-covid” policy i](https://te.arielherself.xyz/china/2023/01/10/covid-is-complicating-chinas-efforts-to-re-engage-with-the-world)n early December. The government reported that 60,000 people have died of covid-19 in hospitals since then.
 
 Listen to an abridged version of the subscriber-only briefing.
 
