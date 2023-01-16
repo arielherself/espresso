@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Belarus</strong> and <strong>Russia</strong> began “purely defensive” joint air-force drills on Monday—raising Ukraine’s fears that the Kremlin plans to launch a new [ground offensive](https://www.economist.com/leaders/2022/12/15/a-looming-russian-offensive) from Belarus. Meanwhile the death toll from a Russian missile strike on an apartment building in Dnipro, a Ukrainian city, climbed to over 30, according to local officials. The strike prompted Western pledges of [more heavy weapons](https://www.economist.com/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) for the embattled country.
+<strong>Belarus</strong> and <strong>Russia</strong> began “purely defensive” joint air-force drills on Monday—raising Ukraine’s fears that the Kremlin plans to launch a new [ground offensive](https://www.economist.com/leaders/2022/12/15/a-looming-russian-offensive) from Belarus. Meanwhile the death toll from a Russian missile strike on an apartment building in Dnipro, a Ukrainian city, climbed to 40, according to local officials. The strike prompted Western pledges of [more heavy weapons](https://www.economist.com/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) for the embattled country.
 
 The <strong>Republican</strong> chairman of<strong> America’s</strong> House Oversight Committee, the investigative body of the House of Representatives, demanded to see visitor logs for <strong>President Joe Biden’s </strong>home in Delaware. On January 9th news broke that [classified documents had been found there](https://www.economist.com/united-states/2023/01/13/joe-bidens-documents-mess) in November; more were discovered this week. Republicans accuse Democrats—who have insisted that Donald Trump should be prosecuted for mishandling sensitive papers—of hypocrisy.
 
@@ -64,7 +64,7 @@ The show [thrives on drama](https://www.economist.com/prospero/2018/07/31/why-do
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which band performed the 1976 hit “Play That Funky Music”?
 
