@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Police in <strong>Nepal </strong>said it is “unlikely” that anyone survived after an <strong>aeroplane crashed</strong> near the town of Pokhara. There were 72 people on board and 69 people have been confirmed dead so far. It is thought to be the country’s deadliest air crash since 1992. The EU has banned Nepali airlines from its airspace since 2013 because of safety concerns.
 
-For the first time, scientists have shown that intense laser pulses can guide <strong>lightning </strong>“over considerable distances”. To conduct their experiment, the scientists fired a series of powerful lasers into thunderclouds above a Swiss mountain in the summer of 2021. They believe that this could be a step towards the development of laser-based lightning protection for airports and large infrastructures. 
+<strong>Real-estate</strong> transactions in <strong>Dubai </strong>were worth more than a record $143bn in 2022, as the total number of units sold increased by over 60%, according to Betterhomes, a local consultancy. The surge was fuelled in part by [Russian](https://www.economist.com/finance-and-economics/2022/09/22/dubai-is-the-worlds-resurgent-entrepot) interest: facing [Western sanctions](https://www.economist.com/leaders/2022/08/25/are-sanctions-working), they were last year the emirate&#x27;s biggest foreign buyers, up from its eighth-largest in 2021. Real estate accounts for about a third of Dubai’s economy.
 
 <strong>Fact of the day:</strong> 1.5bn, the number of grandparents in the world. There were 0.5bn in 1960; the ratio of grandparents to children is now higher than ever. [Read the full story](https://www.economist.com/international/2023/01/12/the-age-of-the-grandparent-has-arrived).
 
@@ -64,7 +64,7 @@ The show [thrives on drama](https://www.economist.com/prospero/2018/07/31/why-do
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="eebf9b8794ab9d9e9c8b9d9d81ae8b8d81808183879d9ac08d8183">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="306145594a754340425543435f7055535f5e5f5d5943441e535f5d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which band performed the 1976 hit “Play That Funky Music”?
 
