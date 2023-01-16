@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Christine Lambrecht, <strong>Germany’s defence minister</strong>, announced her resignation after much criticism over a message she posted on social media on New Year’s Eve. In the video—shot with fireworks in the background—she said for her the war in Ukraine was associated with “many encounters with interesting, great people.” Ms Lambrecht, a [member of the ruling](https://www.economist.com/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary) Social Democratic Party, is also blamed for mismanaging army reforms.
 
-Police in <strong>Nepal </strong>said it is “unlikely” that anyone survived after an <strong>aeroplane crashed</strong> near the town of Pokhara. There were 72 people on board and 68 people have been confirmed dead so far. It is thought to be the country’s deadliest air crash since 1992. The EU has banned Nepali airlines from its airspace since 2013 because of safety concerns.
+Police in <strong>Nepal </strong>said it is “unlikely” that anyone survived after an <strong>aeroplane crashed</strong> near the town of Pokhara. There were 72 people on board and 69 people have been confirmed dead so far. It is thought to be the country’s deadliest air crash since 1992. The EU has banned Nepali airlines from its airspace since 2013 because of safety concerns.
 
 Bain Capital said it plans to relist <strong>Virgin Australia</strong>, the bankrupt airline it bought for A$3.5bn ($2.5bn) in 2020. The investment firm did not give a timeline. Australia’s second-largest carrier was an early victim of the country’s tough response to covid-19, when it forbade much domestic and international travel.
 
@@ -64,7 +64,7 @@ The show [thrives on drama](https://www.economist.com/prospero/2018/07/31/why-do
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="9fceeaf6e5daecefedfaececf0dffafcf0f1f0f2f6ecebb1fcf0f2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which band performed the 1976 hit “Play That Funky Music”?
 
