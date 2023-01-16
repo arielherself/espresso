@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Belarus</strong> and <strong>Russia</strong> began “purely defensive” joint air-force drills on Monday—raising Ukraine’s fears that the Kremlin plans to launch a new [ground offensive](https://www.economist.com/leaders/2022/12/15/a-looming-russian-offensive) from Belarus. Meanwhile the death toll from a Russian missile strike on an apartment building in Dnipro, a Ukrainian city, climbed to 40, according to local officials. The strike prompted Western pledges of [more heavy weapons](https://www.economist.com/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) for the embattled country.
+The death toll from a Russian <strong>missile strike</strong> on an apartment building in Dnipro, a Ukrainian city, climbed to 40, according to local officials. The strike prompted Western pledges of [more heavy weapons](https://www.economist.com/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) for the embattled country. Meanwhile <strong>Belarus</strong> and <strong>Russia</strong> began “purely defensive” joint air-force drills on Monday—raising Ukraine’s fears that the Kremlin plans to launch a new [ground offensive](https://www.economist.com/leaders/2022/12/15/a-looming-russian-offensive) from Belarus.
 
 The <strong>Republican</strong> chairman of<strong> America’s</strong> House Oversight Committee, the investigative body of the House of Representatives, demanded to see visitor logs for <strong>President Joe Biden’s </strong>home in Delaware. On January 9th news broke that [classified documents had been found there](https://www.economist.com/united-states/2023/01/13/joe-bidens-documents-mess) in November; more were discovered this week. Republicans accuse Democrats—who have insisted that Donald Trump should be prosecuted for mishandling sensitive papers—of hypocrisy.
 
@@ -26,7 +26,7 @@ Christine Lambrecht, <strong>Germany’s defence minister</strong>, announced he
 
 Police in <strong>Nepal </strong>said it is “unlikely” that anyone survived after an <strong>aeroplane crashed</strong> near the town of Pokhara. There were 72 people on board and 69 people have been confirmed dead so far. It is thought to be the country’s deadliest air crash since 1992. The EU has banned Nepali airlines from its airspace since 2013 because of safety concerns.
 
-Bain Capital said it plans to relist <strong>Virgin Australia</strong>, the bankrupt airline it bought for A$3.5bn ($2.5bn) in 2020. The investment firm did not give a timeline. Australia’s second-largest carrier was an early victim of the country’s tough response to covid-19, when it forbade much domestic and international travel.
+For the first time, scientists have shown that intense laser pulses can guide <strong>lightning </strong>“over considerable distances”. To conduct their experiment, the scientists fired a series of powerful lasers into thunderclouds above a Swiss mountain in the summer of 2021. They believe that this could be a step towards the development of laser-based lightning protection for airports and large infrastructures. 
 
 <strong>Fact of the day:</strong> 1.5bn, the number of grandparents in the world. There were 0.5bn in 1960; the ratio of grandparents to children is now higher than ever. [Read the full story](https://www.economist.com/international/2023/01/12/the-age-of-the-grandparent-has-arrived).
 
@@ -64,7 +64,7 @@ The show [thrives on drama](https://www.economist.com/prospero/2018/07/31/why-do
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5504203c2f102625273026263a1530363a3b3a383c26217b363a38">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c697b3afbc83b5b6b4a3b5b5a986a3a5a9a8a9abafb5b2e8a5a9ab">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which band performed the 1976 hit “Play That Funky Music”?
 
