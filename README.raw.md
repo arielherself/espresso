@@ -18,7 +18,7 @@ The <strong>Republican</strong> chairman of<strong> America’s</strong> House O
 
 Christine Lambrecht, <strong>Germany’s defence minister</strong>, announced her resignation after much criticism over a message she posted on social media on New Year’s Eve. In the video—shot with fireworks in the background—she said for her the war in Ukraine was associated with “many encounters with interesting, great people.” Ms Lambrecht, a [member of the ruling](https://www.economist.com/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary) Social Democratic Party, is also blamed for mismanaging army reforms.
 
-<strong>Chinese</strong> regulators allowed <strong>Didi, </strong>a ride-hailing app, to resume signing up new users. Didi was removed from online stores in 2021 after the firm ran foul of Chinese officials by publicly listing in America. It was quickly forced to delist and [subjected to a cyber-security investigation](https://www.economist.com/business/2022/06/09/the-communist-party-resuscitates-didi-global). The relaxation of restrictions suggests that the Chinese government may be ending its costly crackdown on tech companies.
+Britain’s government announced it will block a [controversial <strong>Scottish</strong> <strong>law</strong>](https://www.economist.com/britain/2023/01/05/scotlands-new-gender-reform-law-presents-rishi-sunak-with-a-dilemma) that streamlines the process for people in Scotland to change their legal <strong>gender</strong>. The move marks the first time Britain has overruled legislation passed by the Scottish parliament, which it can do if Scottish laws conflict with powers “reserved” for Westminster. Scottish nationalists swiftly criticised the decision—though the gender law is divisive in Scotland, too.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ The show [thrives on drama](https://www.economist.com/prospero/2018/07/31/why-do
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="9bcaeef2e1dee8ebe9fee8e8f4dbfef8f4f5f4f6f2e8efb5f8f4f6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="aeffdbc7d4ebdddedccbddddc1eecbcdc1c0c1c3c7ddda80cdc1c3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which band performed the 1976 hit “Play That Funky Music”?
 
