@@ -12,97 +12,61 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-A <strong>Russian missile </strong>flattened a nine-storey apartment block in Dnipro, in central <strong>Ukraine</strong>, killing at least 14 people and wounding 64. Russia unleashed two waves of aerial strikes on Saturday. Meanwhile Rishi Sunak, Britain’s prime minister, said that his country would send Challenger 2 <strong>main battle tanks </strong>to Ukraine. On Wednesday, Poland had promised German-made Leopard 2 [tanks](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine). America, France and Germany have said they will send lighter [fighting vehicles](https://www.economist.com/the-economist-explains/2023/01/05/what-is-a-tank-and-does-frances-gift-to-ukraine-fit-the-bill): Bradleys, AMX-10RCs and Marders respectively. 
+<strong>Belarus</strong> and <strong>Russia</strong> began “purely defensive” joint air-force drills on Monday—raising Ukraine’s fears that the Kremlin plans to launch a new [ground offensive](https://www.economist.com/leaders/2022/12/15/a-looming-russian-offensive) from Belarus. Meanwhile the death toll from a Russian missile strike on an apartment building in Dnipro, a Ukrainian city, climbed to over 30, according to local officials. The strike prompted Western pledges of [more heavy weapons](https://www.economist.com/europe/2023/01/06/the-west-sends-armoured-fighting-vehicles-to-ukraine) for the embattled country.
 
-The <strong>Republican</strong> chairman of<strong> America’s</strong> House Oversight Committee, the investigative body of the House of Representatives, demanded to see visitor logs for <strong>President Joe Biden’s home </strong>in Delaware. On January 9th news broke that [classified documents had been found there](https://www.economist.com/united-states/2023/01/13/joe-bidens-documents-mess) in November; more were discovered this week. Republicans are accusing Democrats—who have insisted that Donald Trump should be prosecuted for mishandling sensitive papers—of hypocrisy.
+The <strong>Republican</strong> chairman of<strong> America’s</strong> House Oversight Committee, the investigative body of the House of Representatives, demanded to see visitor logs for <strong>President Joe Biden’s </strong>home in Delaware. On January 9th news broke that [classified documents had been found there](https://www.economist.com/united-states/2023/01/13/joe-bidens-documents-mess) in November; more were discovered this week. Republicans accuse Democrats—who have insisted that Donald Trump should be prosecuted for mishandling sensitive papers—of hypocrisy.
 
-<strong>Peru</strong> declared a <strong>state of emergency</strong> in Lima, the capital, and three other regions, after more than 40 people were killed during <strong>demonstrations</strong> against Dina Boluarte, the president. The country has seen violent unrest—its worst in two decades—since Pedro Castillo was [removed from the presidency](https://www.economist.com/the-americas/2022/12/07/after-a-bungled-coup-attempt-perus-president-falls) by Congress and arrested on December 7th for alleged corruption. Protesters are demanding his release and Ms Boluarte’s resignation.
+<strong>Chinese</strong> regulators allowed <strong>Didi, </strong>a ride-hailing app, to resume signing up new users. Didi was removed from online stores in 2021 after the firm ran foul of Chinese officials by publicly listing in America. It was quickly forced to delist and [subjected to a cyber-security investigation](https://www.economist.com/business/2022/06/09/the-communist-party-resuscitates-didi-global). The relaxation of restrictions suggests that the Chinese government may be ending its costly crackdown on tech companies.
 
-At least 60 people were killed when an <strong>aeroplane crashed</strong> near Pokhara, a town in central <strong>Nepal</strong>. The flight—managed by Yeti Airlines, a Nepalese company—had 68 passengers and four crew members. It is thought to be the country’s deadliest air crash since 1992. The EU has banned Nepali airlines from its airspace since 2013 because of safety concerns.
+<strong>Matteo Messina Denaro</strong>, a notorious Italian <strong>mafia</strong> boss, has been arrested after 30 years on the run. Mr Denaro was sentenced to a life sentence in absentia for several murders, including the killing of two prominent anti-mafia prosecutors, Giovanni Falcone and Paolo Borsellino, in 1992. Giorgia Meloni, Italy’s Prime Minister, called his arrest “a great victory for the state”.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Punjab</strong>, the most populous state in <strong>Pakistan</strong>, dissolved its legislature on the advice of its chief minister, an ally of the former prime minister, <strong>Imran Khan</strong>. This looks like part of a scheme to trigger early national elections. Mr Khan has been trying to [disrupt Pakistani politics](https://www.economist.com/asia/2022/11/10/pakistans-political-crisis-is-also-a-dilemma-for-its-top-brass)—and agitating for fresh elections—since he was ousted from power in April.
+Christine Lambrecht, <strong>Germany’s defence minister</strong>, announced her resignation after much criticism over a message she posted on social media on New Year’s Eve. In the video—shot with fireworks in the background—she said for her the war in Ukraine was associated with “many encounters with interesting, great people.” Ms Lambrecht, a [member of the ruling](https://www.economist.com/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary) Social Democratic Party, is also blamed for mismanaging army reforms.
 
-A court in <strong>Egypt</strong> sentenced 38 people to life in prison for their role in anti-government protests in September 2019. Twenty-three were tried in absentia. Among them was [Muhammad Ali](https://www.economist.com/middle-east-and-africa/2019/09/26/muhammad-ali-a-former-actor-living-abroad-is-riling-up-egyptians), a disgruntled businessman and former actor living in exile in Spain, who instigated the protests with fiery videos on YouTube. Such demonstrations are rare—Abdel-Fattah al-Sisi, Egypt’s authoritarian president, has muzzled dissent.
+Police in <strong>Nepal </strong>said it is “unlikely” that anyone survived after an <strong>aeroplane crashed</strong> near the town of Pokhara. There were 72 people on board and 68 people have been confirmed dead so far. It is thought to be the country’s deadliest air crash since 1992. The EU has banned Nepali airlines from its airspace since 2013 because of safety concerns.
 
-Tens of thousands of health workers took to the streets of <strong>Madrid</strong>, Spain’s capital, to <strong>protest</strong> against cuts to the public-health system made by the regional government. Critics of Madrid’s government—which is led by the conservative [Popular Party](https://www.economist.com/europe/2022/06/23/a-stunning-victory-for-spains-conservative-opposition-in-andalucia), Spain’s main political opposition—accuse it of favouring private health providers and cutting resources for public services.
+Bain Capital said it plans to relist <strong>Virgin Australia</strong>, the bankrupt airline it bought for A$3.5bn ($2.5bn) in 2020. The investment firm did not give a timeline. Australia’s second-largest carrier was an early victim of the country’s tough response to covid-19, when it forbade much domestic and international travel.
 
-<strong>Word of the week:</strong> <em>narcocorrido</em>, Spanish for “drug ballad”. These are songs about crime bosses and their activities, and are performed by some of Mexico’s most popular bands. [Read the full story](https://www.economist.com/culture/2023/01/11/to-their-critics-mexican-drug-ballads-glorify-violence).
+<strong>Fact of the day:</strong> 1.5bn, the number of grandparents in the world. There were 0.5bn in 1960; the ratio of grandparents to children is now higher than ever. [Read the full story](https://www.economist.com/international/2023/01/12/the-age-of-the-grandparent-has-arrived).
 
 ----------
 
-## America and Taiwan talk trade
+## Why Davos is not as silly as it seems
 
-On Saturday American officials will make a rare visit to Taiwan to resume talks on trade. In some ways, this is a trade negotiation like any other. The Americans, led by Terry McCartin, an assistant trade representative, will raise familiar concerns about Taiwan’s import barriers (especially against pork and beef), labour standards and state-owned enterprises. But the geopolitical context is unique. 
+On Monday more than 2,500 of the world’s movers and shakers arrive in Davos for the World Economic Forum. The annual week-long gabfest in the Swiss Alps returns to regular programming for the first time since the pandemic began; 2022’s edition took place in May rather than in January because of the Omicron variant of covid-19. After a freakishly warm winter, some snow is back at last—as are high-powered globalists, many of whom stayed away last spring. The preoccupations have not changed much: war, covid-19 (this time [in China](https://www.economist.com/china/2023/01/10/covid-is-complicating-chinas-efforts-to-re-engage-with-the-world)), inflation and recession.
 
-Taiwan, which China regards as a renegade province, is feeling diplomatically isolated. It is not a member of either of the big trade agreements in the region, [RCEP](https://www.economist.com/finance-and-economics/2020/11/15/the-meaning-of-rcep-the-worlds-biggest-trade-agreement) (which includes China) and the [CPTPP](https://www.economist.com/asia/2022/02/19/asias-premier-trade-pact-needs-stronger-foundations) (which does not). Nor was it included in America’s new [Indo-Pacific Economic Framework](https://www.economist.com/asia/2022/06/09/what-is-the-point-of-the-indo-pacific-economic-framework), which aims to increase America’s commercial appeal in a part of the world falling under China’s economic spell. Taiwan thus welcomes the negotiations as a sign of America’s commitment to the island. Trade negotiations can be bruising. But Taiwan will prefer tough talks to silence.
+Davos is [easy to mock](https://www.economist.com/business/2022/05/26/is-this-the-end-of-davos-man). Pampered insiders pontificate on the fate of billions of less fortunate folk. The panel sessions on fixing globalisation, averting a climate catastrophe or fostering inclusive growth can be excruciating in their blandness. Yet outside the formal events Davos provides a neutral venue for frank talks: between the worlds of politics and business, the global south and north, East and West. In an increasingly fragmented world, such exchanges are valuable.
 
-## Germany weans itself off Russian gas
+## Europe divides the spoils of warm weather
 
-On Saturday Olaf Scholz, Germany’s chancellor, and Robert Habeck, the economy minister, will travel to Lubmin on the Baltic coast to open the country’s second floating terminal for [liquefied natural gas](https://www.economist.com/the-economist-explains/2022/02/26/if-the-supply-of-russian-gas-to-europe-were-cut-off-could-lng-plug-the-gap) (LNG). It is another milestone in the country’s effort to reduce its consumption of Russian gas. 
+The Eurogroup, the regular informal gathering of the euro zone’s finance ministers, will need an extra chair when it meets in Brussels on Monday. Croatia became its 20th member after adopting the euro on January 1st. The bloc has more good news to celebrate, too. The [heat wave after Christmas](https://www.economist.com/graphic-detail/2023/01/12/europes-freakish-winter-heatwave-breaks-records) caused a steep fall in energy prices. That in turn means that finance ministers will have to spend a lot less on cutting the energy bills of firms and households.
 
-Until the end of last year Germany had no infrastructure to import LNG. Its other terminal opened on the North Sea coast in December. A third will soon open there too. By the end of this year Germany will have inaugurated half a dozen, providing enough import capacity to cover a third of Germany’s total gas needs. To build LNG terminals at such speed has cost the taxpayer billions of euros, but it will help ensure Germany can [get through the next winter](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck) without gas shortages.
+What to do with that windfall? One option is to spend it protecting European business from the [effects of America’s Inflation Reduction Act](https://www.economist.com/finance-and-economics/2022/12/08/europe-and-america-put-a-brave-face-on-a-growing-economic-rift), a green investment programme with troubling protectionist elements. Margarete Vestaegar, the EU’s competition chief, is championing the idea. Ahead of their meeting she sent the Eurogroup a letter calling for urgent reforms to the rules governing state aid. Such changes might allow firms tempted by America’s subsidies to get money for staying put. If finance ministers agree, that could kick off a transatlantic subsidy race.
 
-## “Big Brother” returns to Africa
+## Britain’s migration plan returns to court
 
-One of the world’s best-known reality television shows returns to Africa’s screens on Sunday with a special edition called “Big Brother Titans”. Contestants from the rival continental powers of Nigeria and South Africa will be pitted against each other for the first time. And there’s $100,000 on the line.
+The legal dispute over the British government’s efforts to deport to Rwanda “irregular” migrants—who arrive without visas, sometimes by crossing the English Channel in dinghies—returns to the High Court on Monday. Before Christmas judges concluded that the deal, agreed with Rwanda’s government in April, is lawful. Asylum Aid, a charity, will seek those judges’ permission to launch an appeal, arguing that the original ruling fails to give people facing deportation their procedural rights.
 
-Spin-offs of the TV franchise have been a huge success in Africa since it first aired there in 2003. Initially there was “Big Brother Africa”. DStv, a broadcaster, has often hosted channels carrying nothing but 24/7 live-streams of the houses where contestants live together and try to avoid being voted out. (The last one standing takes the cash.) Showmax, which streams DStv’s content, reported in 2020 that Big Brother Naija (Nigeria), a national version, was its most-watched livestream ever. Nigerians made up only half its viewership. As the continent-wide edition returns, there is hope that its mix of scandal, romance and high drama will again have pan-African appeal. 
+The policy is [politically divisive](https://www.economist.com/britain/2022/11/02/why-small-boats-are-a-big-problem-for-britain): it delights many of the Conservative government’s supporters and horrifies its critics. (Suella Braverman, the home secretary, has described it as her “dream” and “obsession”.) The government does not mind the controversy. A prolonged fight with do-gooding lawyers in the courts could bolster support for it. Others see a policy that generates headlines but violates migrants’ rights without curbing irregular migration.
 
-## Boiled peanuts used to treat allergies
+## Russia reshuffles its command in Ukraine
 
-Between 1 and 3% of people in most countries must scrupulously avoid peanuts or risk anaphylactic shock. And the allergy’s prevalence has [tripled in the past two decades](https://www.economist.com/graphic-detail/2019/10/03/the-prevalence-of-peanut-allergy-has-trebled-in-15-years) in America. To help sufferers, researchers have been experimenting with exposure therapy using boiled peanuts, which washes out some of their immunoreactive proteins. (This may be why peanut allergies are less prevalent in East Asia, where people usually boil their peanuts). The latest results, published in the journal<em> Clinical &amp; Experimental Allergy</em>, are promising.
+As Valery Gerasimov, Russia’s top general, begins his full first week in command of the invasion of Ukraine, he may wonder if his tenure will prove fleeting. His predecessor, [Sergei Surovikin](https://www.economist.com/the-economist-explains/2022/10/13/who-is-sergei-surovikin-russias-new-commander-in-ukraine), lasted just three months. President Vladimir Putin’s decision to shuffle the pack was probably political rather than strategic. General Surovikin, now demoted to be one of General Gerasimov’s deputies, is favoured by [Yevgeny Prigozhin](https://www.economist.com/the-economist-explains/2022/09/29/who-is-yevgeny-prigozhin-the-man-behind-the-wagner-group), the shadowy head of the Wagner group of mercenaries who have become increasingly influential [on the battlefield](https://www.economist.com/europe/2023/01/04/a-russian-warlords-savagery-is-sending-a-loud-message-to-moscow). Military leaders not aligned with Mr Prigozhin, such as General Gerasimov, have been lobbying Mr Putin to put them back in control.
 
-In the trial, 70 children with a peanut allergy underwent a year-long peanut training regimen. They began by eating some peanut boiled for 12 hours and escalating the dose every week. Eventually, they could nibble peanuts boiled for only two hours, and after a year most could scoff 12 roasted peanuts at a time. A slow process, but surely worth it to spare people the EpiPen or a trip to hospital. For these children at least, the label “may contain nuts” is no longer tantamount to a skull and crossbones.
+Military analysts suspect the new leadership will lay the groundwork for a new offensive. Mr Putin will expect results. For its part, Ukraine argues the looming threat means it needs more weapons, [including tanks](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine), from the West. Its allies will meet to discuss arms deliveries in Germany on Friday.
 
-## Weekend profile: J.R. Moehringer, prince of ghostwriters
+## More love on “Love Island”
 
-As John Joseph (known as J.R.) Moehringer put it himself, “the midwife doesn’t go home with the baby”. Such is the lot of ghostwriters. You might expect Mr Moehringer to observe his own rule with extra rigour after he midwifed Prince Harry’s [todger-and-all memoir](https://www.economist.com/britain/2023/01/10/prince-harrys-autobiography-is-an-ill-advised-romp), “Spare”. Yet the furore surrounding the book has prompted Mr Moehringer to bend it, mainly by defending several inaccuracies on Twitter. Perhaps that’s because “Spare” is just as much Mr Moehringer’s work as Harry’s. From chimps to champs to princes, Mr Moehringer can find a written voice for anyone, especially if they have daddy issues (and a very large advance).
+Beneath its glossy, suntanned veneer, “[Love Island](https://www.economist.com/1843/2019/06/19/love-islands-literary-forebears-from-eden-to-the-tempest)”, a British dating show, has a dark side. Filmed constantly while locked in a luxury villa, scantily-clad contestants spend weeks without clocks, internet, mobile phones—or privacy. Ten share a bedroom. The aim is to couple up; the viewers’ favourite pair win a cash prize. But bullying is rampant. For every contestant who finds fame and fortune, another meets a barrage of abuse on social media. Two past contestants and a former presenter committed suicide.
 
-Mr Moehringer, born in 1964 in New York City, started work as a journalist at the <em>New York Times</em>. He once inhabited the voice of Cheeta, the chimp star of the 1930s Tarzan films, to write a piece marking his 75th birthday. But Mr Moehringer’s own memoir, “The Tender Bar”, published in 2005, established his real theme: how to survive dysfunctional families. Mr Moehringer writes of his absent, “brutally insensitive” father, a rock’n’roll DJ. For male role models he had to make do with the alcohol-soaked camaraderie of uncle Charlie and his mates in a bar. 
+The show [thrives on drama](https://www.economist.com/prospero/2018/07/31/why-do-people-love-love-island). But for its ninth season, which begins on Monday, producers have promised to do more to protect the islanders’ mental health. Contestants will receive training on respect. To limit trolling opportunities they will have to turn off their social-media accounts while inside (previously these were run by friends and family on the outside). Whether the show’s ratings will survive the new protocols will depend on the viewers’ appetite for healthy relationships over dysfunctional ones.
 
-The narrative of a lost boy striving to find his true self caught the eye of Andre Agassi, a tennis star of the 1990s with an outrageous mullet. He asked Mr Moehringer to help write his own memoir. Confronted, at first, by a “stilted, resistant” Mr Agassi, Mr Moehringer unlocked his subject, much as he must have done with Harry, with some 250 hours of interviews. The process bears a close resemblance to psychoanalysis. Harry calls Mr Moehringer his “confessor” in the acknowledgments to “Spare”. 
+## Daily quiz
 
-Mr Agassi’s book, “Open”, was revealing. It turned out that the Wimbledon winner hated tennis. Even the mullet was fake (to hide baldness). And, of course, there was the emotionally distant father. So, as the publishers must have realised, the Moehringer template was a perfect fit for Harry. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-But what suits publishers may not have best served the prince, who might have hoped to emerge with a bit more dignity. In an age of selfies and social-media exposure, however, dignity is not going to sell books. Prince Harry chose the right ghostwriter to do that.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Strange and disheartened, Peter tormented elderly relatives (12) 
-
-<em>1 across</em> Oil picked up in popular holiday destination (6) 
-
-<em>2 across </em>In part of image, nine seen in gym laughing a little (5) 
-
-<em>3 across</em> Small fast creatures considered an investment (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>There are more of these than ever before (12)
-
-<em>1 across</em> Currently in a dispute with Turkey (6)
-
-<em>2 across </em>Where to look for clues that an image has been doctored (5) 
-
-<em>3 across</em> Something FTX used as collateral for borrowing (6) 
-
-## Quiz winners
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>Paul Nathanielsz</strong>, Toronto, Canada  
-<strong>Rik Mulder</strong>, Hilversum, the Netherlands  
-<strong>Chad V. Henry</strong>, Cleveland, Ohio 
-
-They all gave the correct answers of “<em>Master and Commander”</em>, <em>guardians</em>, <em>titans</em>, <em>wizards </em>and the <em>pelican</em>. The theme is sports franchises that have changed their names: the Washington Commanders (formerly Redskins), Cleveland Guardians (formerly Indians), Tennessee Titans (formerly Oilers), Washington Wizards (formerly Bullets) and New Orleans Pelicans (formerly Hornets).
+<strong>Monday: </strong>Which band performed the 1976 hit “Play That Funky Music”?
 
 ----------
 
