@@ -16,7 +16,7 @@
 
 [<strong>Goldman Sachs</strong>](https://www.economist.com/finance-and-economics/2022/10/18/goldman-sachss-disastrous-main-street-gamble) reported a fall in fourth-quarter profits. Net income came to $1.3bn, down from $3.9bn in the previous year. The bank began a series of job cuts this month. <strong>Morgan Stanley</strong> also reported a drop in fourth-quarter profits, although this was smaller than expected, at 41%.
 
-[<strong>Oleksiy Arestovych</strong>](https://www.economist.com/europe/2022/04/25/an-interview-with-oleksiy-arestovych-military-adviser-to-ukraines-presidency), a senior Ukrainian presidential adviser, resigned. Mr Arestovych apologised for comments he made suggesting that the <strong>Russian missile </strong>which hit an apartment building in the Ukrainian city of Dnipro on Saturday had been struck down by Ukrainian air defences. Ukrainian officials say that the building was hit by a Russian Kh-22 missile, which their defences are not capable of shooting down. 
+[<strong>Oleksiy Arestovych</strong>](https://www.economist.com/europe/2022/04/25/an-interview-with-oleksiy-arestovych-military-adviser-to-ukraines-presidency), a senior Ukrainian presidential adviser, resigned after suggesting that Ukrainian air defences had shot down the <strong>Russian missile </strong>that hit an apartment building in Dnipro. Russian officials used his comments to blame Ukraine for the strike, which killed at least 44 people. Ukraine counters that the missile in question was a Russian Kh-22—a model that their defences cannot shoot down.
 
 [<strong>Nguyen Xuan Phuc</strong>](https://www.economist.com/asia/2021/02/04/the-surprising-choice-to-lead-vietnams-communist-party), the president of<strong> Vietnam</strong>, resigned. The ruling Communist Party accused him of being responsible for “wrongdoings” committed by senior ministers who worked for him before he became president. He is the latest in a series of officials to leave office in an anti-corruption crackdown orchestrated by the government. In 2022, 539 party members were prosecuted for corruption.
 
@@ -66,7 +66,7 @@ This intimate, unnerving sound-diary hints at the composer’s evolving moods an
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1647637f6c53656664736565795673757978797b7f65623875797b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="306145594a754340425543435f7055535f5e5f5d5943441e535f5d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which English comedian played the almost silent character, Mr Bean?  
 
