@@ -18,7 +18,7 @@
 
 Boris Pistorious will take over as <strong>Germany’s defence minister</strong> following Christine Lambrecht’s resignation on Monday. Mr Pistorious, a member of the [ruling](https://www.economist.com/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary) Social Democratic Party, previously served as the interior minister of Lower Saxony, a German state. He takes over while other European governments are calling for increased [Western armament](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) of Ukraine. His predecessor resigned after committing a series of blunders. 
 
-<strong>XPeng</strong>, a Chinese <strong>electric vehicle</strong> manufacturer, lowered the price of some of its models by up to 12.5% for the domestic market. The move comes after two competitors, Tesla and Seres, cut prices earlier this month. China churns out [more electric vehicles](https://www.economist.com/business/2022/10/13/chinese-marques-try-to-make-inroads-into-western-markets) than any other country, but Chinese EV makers may struggle to maintain sales as demand in the country is forecast to fall in the coming months.
+<strong>Xpeng</strong>, a Chinese <strong>electric vehicle</strong> manufacturer, lowered the price of some of its models by up to 12.5% for the domestic market. The move comes after two competitors, Tesla and Seres, cut prices earlier this month. China churns out [more electric vehicles](https://www.economist.com/business/2022/10/13/chinese-marques-try-to-make-inroads-into-western-markets) than any other country, but Chinese EV makers may struggle to maintain sales as demand in the country is forecast to fall in the coming months.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ This intimate, unnerving sound-diary hints at the composer’s evolving moods an
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1746627e6d52646765726464785772747879787a7e64633974787a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="bbeaced2c1fec8cbc9dec8c8d4fbded8d4d5d4d6d2c8cf95d8d4d6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which English comedian played the almost silent character, Mr Bean?  
 
