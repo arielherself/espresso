@@ -14,7 +14,7 @@
 
 <strong>China’s population</strong> fell in 2022 for the first time since 1961, when the country was in the throes of Mao’s great famine. Official statistics showed the population dropped by 850,000 last year, compared with 2021, to 1.4118bn. That may mean China has already lost its position as the world’s most populous country to India, a change that had not been expected until [later this year](https://www.economist.com/the-world-ahead/2022/11/14/india-will-become-the-worlds-most-populous-country-in-2023). The shift will fuel fears of a demographic crisis, with too few young Chinese to support an ageing population.
 
-[<strong>Goldman Sachs</strong>](https://www.economist.com/finance-and-economics/2022/10/18/goldman-sachss-disastrous-main-street-gamble) reported a fall in fourth-quarter profits. Net income came to $1.3bn, down from $3.9bn in the previous year. The bank began a series of job cuts this month. <strong>Morgan Stanley</strong> also reported a drop in fourth-quarter profits, although this was smaller than expected, at 41%.
+Big <strong>banks’</strong> fourth-quarter <strong>earnings </strong>reflected a slowdown in dealmaking activity amidst high interest rates and fears of a coming recession. Profits at [<strong>Goldman Sachs</strong>](https://www.economist.com/finance-and-economics/2022/10/18/goldman-sachss-disastrous-main-street-gamble), which recently conducted a round of lay-offs, fell by 66% from the same period a year ago. The bank’s share price slumped by 7%. <strong>Morgan Stanley’s</strong> profits fell by 40% year over year but managed to beat expectations.
 
 [<strong>Oleksiy Arestovych</strong>](https://www.economist.com/europe/2022/04/25/an-interview-with-oleksiy-arestovych-military-adviser-to-ukraines-presidency), a senior Ukrainian presidential adviser, resigned after suggesting that Ukrainian air defences had shot down the <strong>Russian missile </strong>that hit an apartment building in Dnipro. Russian officials used his comments to blame Ukraine for the strike, which killed at least 44 people. Ukraine counters that the missile in question was a Russian Kh-22—a model that their defences cannot shoot down.
 
@@ -66,7 +66,7 @@ This intimate, unnerving sound-diary hints at the composer’s evolving moods an
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d180a4b8ab94a2a1a3b4a2a2be91b4b2bebfbebcb8a2a5ffb2bebc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a9f8dcc0d3ecdad9dbccdadac6e9cccac6c7c6c4c0dadd87cac6c4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which English comedian played the almost silent character, Mr Bean?  
 
