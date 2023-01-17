@@ -18,7 +18,7 @@
 
 [<strong>Oleksiy Arestovych</strong>](https://www.economist.com/europe/2022/04/25/an-interview-with-oleksiy-arestovych-military-adviser-to-ukraines-presidency), a senior Ukrainian presidential adviser, resigned this morning. Mr Arestovych apologised for comments he made suggesting that the <strong>Russian missile </strong>which hit an apartment building in the Ukrainian city of Dnipro on Saturday had been struck down by Ukrainian air defences. Ukrainian officials say that the building was hit by a Russian Kh-22 missile, which their defences are not capable of shooting down. 
 
-[<strong>Nguyen Xuan Phuc</strong>](https://www.economist.com/asia/2021/02/04/the-surprising-choice-to-lead-vietnams-communist-party), the president of<strong> Vietnam</strong>, resigned. The ruling Communist Party accused him of being responsible for “wrongdoings” committed by senior ministers who worked for him before he became President. He is the latest in a series of officials to leave office in an anti-corruption crackdown orchestrated by the government. In 2022, 539 party members were prosecuted for corruption.
+[<strong>Nguyen Xuan Phuc</strong>](https://www.economist.com/asia/2021/02/04/the-surprising-choice-to-lead-vietnams-communist-party), the president of<strong> Vietnam</strong>, resigned. The ruling Communist Party accused him of being responsible for “wrongdoings” committed by senior ministers who worked for him before he became president. He is the latest in a series of officials to leave office in an anti-corruption crackdown orchestrated by the government. In 2022, 539 party members were prosecuted for corruption.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ This intimate, unnerving sound-diary hints at the composer’s evolving moods an
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e8b99d8192ad9b989a8d9b9b87a88d8b87868785819b9cc68b8785">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="9dcce8f4e7d8eeedeff8eeeef2ddf8fef2f3f2f0f4eee9b3fef2f0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which English comedian played the almost silent character, Mr Bean?  
 
