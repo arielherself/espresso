@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Ukraine’s president, <strong>Volodymyr Zelensky</strong>, addressed the World Economic Forum in Davos, asking the West to supply more [arms](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) and asking world leaders to respond to Russia “with speed”. Mr Zelensky’s speech came hours after his interior minister, Denys Monastyrksy, and more than a dozen other people were killed when a helicopter crashed outside Kyiv, the capital.
+Ukraine’s president, <strong>Volodymyr Zelensky</strong>, addressed the World Economic Forum in Davos, asking the West to supply more [arms](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) and asking world leaders to respond to Russia “with speed”. Mr Zelensky’s speech came hours after his interior minister, Denys Monastyrksy, and more than a dozen other people were killed when a helicopter [crashed](https://www.economist.com/europe/2023/01/18/a-helicopter-crash-has-dealt-a-heavy-blow-to-ukraines-government) outside Kyiv, the capital.
 
 <strong>America’s</strong> treasury secretary, [Janet Yellen](https://www.economist.com/culture/2022/11/03/two-new-biographies-explore-the-rise-and-reign-of-janet-yellen), met <strong>China’s</strong> vice-premier and economic tsar, [Liu He](https://www.economist.com/china/2022/09/29/who-will-be-chinas-next-economic-tsar), for the first time, in Zurich. The American treasury said that the pair had a “candid” conversation, agreeing that [better communication](https://www.economist.com/china/2022/11/17/america-and-china-try-to-get-along) between their governments would be beneficial to the global economy. Before the meeting Ms Yellen remarked that their countries shared a responsibility to “manage our differences”.
 
@@ -66,7 +66,7 @@ The play was Mr Steiner’s breakthrough work, staged when he was just 21 years 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="207155495a655350524553534f6045434f4e4f4d4953540e434f4d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cc9db9a5b689bfbcbea9bfbfa38ca9afa3a2a3a1a5bfb8e2afa3a1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Who was the leader of the migrating rabbit group in the novel Watership Down?
 
