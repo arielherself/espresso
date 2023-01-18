@@ -66,12 +66,30 @@ This intimate, unnerving sound-diary hints at the composer’s evolving moods an
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e9b89c8093ac9a999b8c9a9a86a98c8a86878684809a9dc78a8684">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="bfeecad6c5facccfcddaccccd0ffdadcd0d1d0d2d6cccb91dcd0d2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday:</strong> Which English comedian played the almost silent character, Mr Bean?  
 
 
 <strong>Monday: </strong>Which band performed the 1976 hit “Play That Funky Music”?
+
+## The world in brief, January 18th 2023
+
+Big <strong>banks’</strong> fourth-quarter <strong>earnings </strong>reflected a [slowdown in dealmaking activity](https://te.arielherself.xyz/finance-and-economics/2023/01/17/investment-banks-are-struggling-in-a-high-interest-rate-world) amidst high interest rates and fears of a coming recession. Profits at <strong>Goldman Sachs</strong>, which recently conducted a round of lay-offs, fell by 66% from the same period a year ago, to $1.3bn. The bank’s share price slumped by 6%. <strong>Morgan Stanley’s</strong> profits fell by 40% year over year, to $2.2bn, but managed to beat expectations.
+
+The <strong>yen </strong>tumbled against the dollar after the <strong>Bank of Japan</strong> sticking to its ultra-loose monetary policy framework. Markets had expected the central bank to overhaul its yield-curve control policy after it had [widened the band](https://te.arielherself.xyz/finance-and-economics/2022/12/20/the-bank-of-japan-shocks-investors) for ten-year bond yields in December amid rising inflationary pressure. Yields, which had risen in recent weeks, fell in response to the announcement.
+
+<strong>Russia’s</strong> defence minister said its <strong>army</strong> would [expand](https://te.arielherself.xyz/briefing/how-deep-does-the-rot-in-the-russian-army-go/21808989) by 30%, to 1.5m troops, in the next three years. Karelia, a region on the border with Finland, will get its own army corps. Separately, the Dutch prime minister, Mark Rutte, said the Netherlands was planning to send <strong>Ukraine </strong>a Patriot missile-defence system, as America and Germany have done.
+
+A court in the Philippines acquitted <strong>Maria Ressa</strong>, a Nobel Peace Prize laureate, of tax evasion. Many thought the charges against Ms Ressa to be politically motivated—her Rappler news site was a persistent thorn in the side of the Philippines’ previous government, led by Rodrigo Duterte. She is currently appealing against a six-year prison sentence, handed down following a [dubious](https://te.arielherself.xyz/asia/2019/02/14/yet-another-critic-of-the-president-is-arrested-in-the-philippines) libel conviction in 2020.
+
+<strong>Disney</strong> rubbished <strong>Nelson Peltz</strong>, the activist investor seeking a spot on its board, saying he “lacks a basic understanding” of the media industry. Last week Trian Partners, Mr Peltz’s fund, said Disney was a “[company in crisis](https://te.arielherself.xyz/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script)” that needed shaking up. In a presentation to investors on Tuesday, Disney retorted, in capital letters, that Mr Peltz does not have “the skill and experience to assist the board”.
+
+<strong>Brazil’s</strong> president, Luiz Inácio Lula da Silva, dismissed 40 troops who guard his official residence after criticising the country’s <strong>armed forces</strong> for failing to stop the [recent insurrection](https://te.arielherself.xyz/the-americas/2023/01/12/a-copycat-insurrection-in-brazil-and-its-troubling-aftermath). Last week Lula described security forces as “complicit” in the storming of government buildings on January 8th. The presidential-residence guards are mainly from the army.
+
+Pier Antonio Panzeri, a former MEP from Italy, agreed to a plea deal with Belgian prosecutors regarding the<strong> influence-peddling scheme</strong> involving Qatar that has gripped the <strong>European Parliament</strong>. The prosecutors’ spokesperson said he would serve a light jail sentence, of a year, in exchange for divulging [who paid whom](https://te.arielherself.xyz/europe/2022/12/15/a-corruption-scandal-leaves-the-eu-reeling). After his career as a lawmaker Mr Panzeri founded a human-rights charity called Fight Impunity.
+
+<strong>Fact of the day:</strong> 37%, the proportion of Brazilians in favour of a coup to remove President Luiz Inácio Lula da Silva, according to one poll. [Read the full story](https://te.arielherself.xyz/leaders/2023/01/12/how-brazil-should-deal-with-the-bolsonarista-insurrection).
 
 ----------
 
