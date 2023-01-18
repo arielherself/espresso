@@ -12,13 +12,13 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Ukraine’s president, <strong>Volodymyr Zelensky</strong>, addressed the World Economic Forum in Davos, asking the West to supply more [arms](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) and asking world leaders to respond to Russia “with speed”. Mr Zelensky’s speech came hours after his interior minister, Denys Monastyrksy, and more than a dozen other people were killed when a helicopter [crashed](https://www.economist.com/europe/2023/01/18/a-helicopter-crash-has-dealt-a-heavy-blow-to-ukraines-government) outside Kyiv, the capital.
+Ukraine’s president, <strong>Volodymyr Zelensky</strong>, addressed the World Economic Forum in Davos, asking the West to supply more arms. Meanwhile, <strong>Germany</strong> said it would wait for America to send tanks to Ukraine [before taking that step](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) itself. Britain earlier pledged to send 14 Challenger [tanks](https://www.economist.com/the-economist-explains/2023/01/05/what-is-a-tank-and-does-frances-gift-to-ukraine-fit-the-bill), and Poland and Finland said they are prepared to export German-made Leopard 2 tanks—though they await Berlin’s approval.
 
 <strong>American stockmarkets</strong> sank on the news that <strong>retail sales</strong> in December fell by 1.1% from November, as shoppers tightened their belts amid rising interest rates and high inflation. The Dow Jones Industrial Average dropped by 1.8% and the S&amp;P 500 by 1.6%. Monetary tightening has sapped consumer confidence even though America’s labour market [remains strong](https://www.economist.com/graphic-detail/2023/01/16/an-economic-calm-before-the-storm).
 
 <strong>America’s</strong> treasury secretary, [Janet Yellen](https://www.economist.com/culture/2022/11/03/two-new-biographies-explore-the-rise-and-reign-of-janet-yellen), met <strong>China’s</strong> vice-premier and economic tsar, [Liu He](https://www.economist.com/china/2022/09/29/who-will-be-chinas-next-economic-tsar), for the first time, in Zurich. The American treasury said that the pair had a “candid” conversation, agreeing that [better communication](https://www.economist.com/china/2022/11/17/america-and-china-try-to-get-along) between their governments would be beneficial to the global economy. Before the meeting Ms Yellen remarked that their countries shared a responsibility to “manage our differences”.
 
-<strong>Microsoft</strong> has announced that it will cut 10,000 jobs, or around 5% of its global workforce. Redundancies will cost the firm around $1.2bn. <strong>Amazon</strong> is also expected to cut 6% of its workforce today. Other [tech firms](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers) have also reduced the size of their workforce in response to signs of a slowing economy.
+<strong>Microsoft</strong> announced that it will cut 10,000 jobs, or around 5% of its global workforce. Redundancies will cost the firm around $1.2bn. <strong>Amazon</strong> is also expected to cut 6% of its workforce on Wednesday. Other [tech firms](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers) have also reduced the size of their workforce in response to signs of a slowing economy.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The play was Mr Steiner’s breakthrough work, staged when he was just 21 years 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2e7f5b47546b5d5e5c4b5d5d416e4b4d41404143475d5a004d4143">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Who was the leader of the migrating rabbit group in the novel Watership Down?
 
