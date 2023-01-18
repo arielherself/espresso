@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-At least 18 people, including <strong>Ukraine’s</strong> interior minister, Denys Monastyrksy, were killed after a helicopter crashed near a nursery in Brovary, outside Kyiv, the capital. Mr Monastyrsky’s deputy, other ministry officials and two children were among the dead; around 30 more people were injured. Ukraine’s government said it would set up a commission to investigate the cause of the crash.
+At least 16 people, including <strong>Ukraine’s</strong> interior minister, Denys Monastyrksy, were killed after a helicopter crashed near a nursery in Brovary, outside Kyiv, the capital. Mr Monastyrsky’s deputy, other ministry officials and two children were among the dead; around 30 more people were injured. Ukraine’s government said it would set up a commission to investigate the cause of the crash.
 
 <strong>America’s</strong> treasury secretary, [Janet Yellen](https://www.economist.com/culture/2022/11/03/two-new-biographies-explore-the-rise-and-reign-of-janet-yellen), met <strong>China’s</strong> vice-premier and economic tsar, [Liu He](https://www.economist.com/china/2022/09/29/who-will-be-chinas-next-economic-tsar), for the first time, in Zurich. In an effort to [maintain stable relations](https://www.economist.com/china/2022/11/17/america-and-china-try-to-get-along) the pair committed to discuss topics of mutual economic interest including trade and climate change. Before the meeting Ms Yellen remarked that their countries shared a responsibility to “manage our differences”.
 
@@ -66,7 +66,7 @@ The play was Mr Steiner’s breakthrough work, staged when he was just 21 years 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="104165796a556360627563637f5075737f7e7f7d7963643e737f7d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Who was the leader of the migrating rabbit group in the novel Watership Down?
 
