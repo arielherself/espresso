@@ -18,7 +18,7 @@ Ukraine’s president, <strong>Volodymyr Zelensky</strong>, addressed the World 
 
 <strong>America’s</strong> treasury secretary, [Janet Yellen](https://www.economist.com/culture/2022/11/03/two-new-biographies-explore-the-rise-and-reign-of-janet-yellen), met <strong>China’s</strong> vice-premier and economic tsar, [Liu He](https://www.economist.com/china/2022/09/29/who-will-be-chinas-next-economic-tsar), for the first time, in Zurich. The American treasury said that the pair had a “candid” conversation, agreeing that [better communication](https://www.economist.com/china/2022/11/17/america-and-china-try-to-get-along) between their governments would be beneficial to the global economy. Before the meeting Ms Yellen remarked that their countries shared a responsibility to “manage our differences”.
 
-<strong>Microsoft</strong> announced that it will cut 10,000 jobs, or around 5% of its global workforce. Redundancies will cost the firm around $1.2bn. <strong>Amazon</strong> is also expected to cut 6% of its workforce on Wednesday. Other [tech firms](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers) have also reduced the size of their workforce in response to signs of a slowing economy.
+<strong>Microsoft</strong> announced that it will cut 10,000 jobs, or around 5% of its global workforce. Redundancies will cost the firm around $1.2bn. <strong>Amazon</strong> will also cut 6% of its workforce by the end of Wednesday. Other [tech firms](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers) have also reduced the size of their workforce in response to signs of a slowing economy.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -66,7 +66,7 @@ The play was Mr Steiner’s breakthrough work, staged when he was just 21 years 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5b0a2e32211e282b293e2828341b3e383435343632282f75383436">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Who was the leader of the migrating rabbit group in the novel Watership Down?
 
