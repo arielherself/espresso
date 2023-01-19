@@ -26,7 +26,7 @@ In a surprise announcement, <strong>Jacinda Ardern</strong>, New Zealand’s pri
 
 <strong>China’s</strong> health authority said that demand for critical care for <strong>covid-19 patients </strong>had peaked, with 40% fewer people in hospital on January 17th than on January 5th. For the first time [since 2019](https://www.economist.com/china/2022/02/03/chinese-new-year-is-disrupted-for-a-third-year) people may [travel freely](https://www.economist.com/china/2023/01/12/many-chinese-villagers-seem-ready-to-move-on-from-covid-19) during the holidays surrounding the lunar new year on Sunday, potentially increasing infections. Meanwhile, Hong Kong announced that it will scrap mandatory quarantine from January 30th.
 
-The <strong>British Academy Film Awards</strong> announced this year’s nominations, with “All Quiet on the Western Front”, a war epic made by Netflix, scooping 14. Other frontrunners include [“The Banshees of Inisherin”](https://www.economist.com/culture/2022/11/23/the-best-films-of-2022), a black comedy about two old drinking buddies on a rural Irish island, and [“Everything Everywhere All at Once”](https://www.economist.com/culture/2022/09/01/the-rise-and-rise-of-a24-a-champion-of-storytelling-on-screen), a mind-bending fantasy. Notably, Steven Speilberg’s “The Fabelmans” received just one nomination.
+At least 145 people are missing after a <strong>boat capsized</strong> in <strong>Congo’s</strong> Lulonga River on Tuesday. About 55 survived the sinking, which was likely caused by the boat’s overweight cargo. There are [few roads](https://www.economist.com/middle-east-and-africa/2020/01/18/how-to-get-beer-around-congo-a-country-with-hardly-any-roads) in Congo; people and goods rely on the rivers to get around the country. More than 40 people died in October when a boat capsized on the Congo River.
 
 <strong>Fact of the day</strong>: 65,000, the number of pregnant women in sub-Saharan Africa who die every year from blood loss. [Read the full story](https://www.economist.com/middle-east-and-africa/2023/01/12/kenyas-blood-shortage-and-the-kicking-of-an-aid-addiction).
 
@@ -72,7 +72,7 @@ The Saudi government wants to host the World Cup, with Greece and Egypt, in 2030
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0554706c7f407675776076766a4560666a6b6a686c76712b666a68">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which right-wing pressure group was founded by Robert Welch junior in 1958?
 
