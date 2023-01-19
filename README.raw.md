@@ -12,15 +12,33 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
+In a surprise announcement, <strong>Jacinda Ardern</strong>, New Zealand’s prime minister, said she would step down within the next three weeks. Ms Ardern was widely praised for her [handling](https://www.economist.com/asia/2020/10/03/a-fairy-tale-election-result-beckons-for-new-zealands-prime-minister) of the pandemic and for her [response](https://www.economist.com/erasmus/2019/03/22/finding-a-new-equilibrium-after-christchurch-wont-be-easy) to a horrific terrorist attack on a Christchurch mosque in 2019. However her popularity has recently plummeted. In a tearful statement she said she did not have “enough in the tank” to continue leading the country. She was elected prime minister in 2017, aged just 37.
+
+President Volodymyr Zelensky’s chief-of-staff, [Andriy Yermak](https://www.economist.com/by-invitation/2022/12/15/volodymyr-zelenskys-chief-of-staff-on-how-to-end-war-in-ukraine), called for Western countries to [send tanks](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) to <strong>Ukraine</strong> “as soon as possible”. The plea comes ahead of a summit on Friday of Western and NATO allies at the Ramstein air base in Germany. There <strong>America</strong> is expected to announce a package of military aid, worth around $2.5bn, including 100 Stryker combat vehicles.
+
+<strong>American stockmarkets</strong> sank on the news that <strong>retail sales </strong>fell in December, as shoppers tightened their belts amid rising interest rates and high inflation. The Dow Jones Industrial Average dropped by 1.8% and the S&amp;P 500 by 1.6%. <strong>European stocks</strong> also slumped, with the Stoxx Europe 600 index dropping by 1.24%. Monetary tightening and signs of a [looming recession](https://www.economist.com/the-world-ahead/2022/11/18/why-a-global-recession-is-inevitable-in-2023) have sapped investor confidence.
+
+<strong>China’s</strong> health authority said that demand for critical care for <strong>covid-19 patients </strong>had peaked, with 40% fewer people in hospital on January 17th than on January 5th. For the first time [since 2019](https://www.economist.com/china/2022/02/03/chinese-new-year-is-disrupted-for-a-third-year) people may [travel freely](https://www.economist.com/china/2023/01/12/many-chinese-villagers-seem-ready-to-move-on-from-covid-19) during the holidays surrounding the lunar new year on Sunday, potentially increasing infections. Meanwhile, Hong Kong announced that it will scrap mandatory quarantine from January 30th.
+
+Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Japan</strong> logged its largest recorded annual <strong>trade deficit</strong>, of around ¥20trn ($155bn), in 2022. The main cause was high import costs, which rose by 39% as energy prices soared and the yen weakened, in part because the central bank has maintained an [ultra-loose monetary policy](https://www.economist.com/finance-and-economics/2023/01/18/japans-extraordinarily-expensive-defence-of-its-monetary-policy) while other countries have tightened theirs. [Japan](https://www.economist.com/asia/2023/01/12/japan-pivots-back-to-nuclear-power) has scant natural resources so relies heavily on imported fuel.
+
+<strong>Israel’s </strong>Supreme Court ruled against the appointment of Aryeh Deri, a close ally of the prime minister, Binyamin Netanyahu, to a senior ministerial position. The court decried Mr Deri’s elevation as unreasonable given his previous conviction for tax fraud. The decision is a blow to Mr Netanyahu’s right-wing coalition and signals [rising tensions](https://www.economist.com/middle-east-and-africa/2023/01/16/netanyahu-rushes-to-take-on-israels-supreme-court) between it and Israel’s independent judiciary.
+
+Ten <strong>Chinese snooker</strong> players were charged with <strong>match-fixing </strong>and betting-related offences by the sport’s governing body. Zhao Xintong, ranked ninth in the world, is among the accused. The scandal threatens China’s status as a [snooker](https://www.economist.com/culture/2022/06/23/in-praise-of-slow-sport) powerhouse. In recent years, several Chinese players have won major tournaments and moved to Sheffield in Britain, where the World Championships are held.
+
+<strong>Fact of the day</strong>: 65,000, the number of pregnant women in sub-Saharan Africa who die every year from blood loss. [Read the full story](https://www.economist.com/middle-east-and-africa/2023/01/12/kenyas-blood-shortage-and-the-kicking-of-an-aid-addiction).
+
+----------
+
+## America’s debt-ceiling madness
+
 On Thursday the American government is expected to hit its “[debt ceiling](https://www.economist.com/the-economist-explains/2021/09/21/what-is-americas-debt-ceiling)”—the upper limit on how much money it can borrow by issuing bonds. The ceiling, a political creation, can be lifted by a simple vote in Congress. That, however, will not happen anytime soon. 
 
 Republicans, newly in control of the House of Representatives, demand big cuts to federal spending, including to public-health insurance and other social programmes. The Democrats, who control the Senate, refuse.
 
 For now the Treasury will use special-accounting tactics to ensure that it has money to cover all obligations, from social-insurance outlays to bond payments. Analysts believe these manoeuvres will last until the third quarter, which ends in June. As that deadline nears, global markets will be on edge about the possibility of an American default. Precedent suggests that Congress will reach a last-minute compromise. But given the clout of Republican hardliners, such as those who [blocked the appointment of their speaker](https://www.economist.com/leaders/2023/01/04/what-the-kevin-mccarthy-saga-means-for-americas-congress), the dangers of an accident loom far larger than in the past.
-
-Listen to an abridged version of the subscriber-only briefing.
-
-----------
 
 ## Protests against French pension reform
 
@@ -54,7 +72,7 @@ The Saudi government wants to host the World Cup, with Greece and Egypt, in 2030
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e5b4908c9fa09695978096968aa580868a8b8a888c9691cb868a88">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday:</strong> Which right-wing pressure group was founded by Robert Welch junior in 1958?
 
