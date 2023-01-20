@@ -14,18 +14,18 @@
 
 At the end of a meeting of <strong>Ukraine’s</strong> Western and NATO allies at the Ramstein air base in Germany, [no decision was reached](https://www.economist.com/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks) on sending Leopard 2 main battle tanks to Ukraine, despite [pleas](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) from President Volodymyr Zelensky to do so. Nonetheless, several countries pledged to send more military aid. <strong>America </strong>will send a package worth around $2.5bn, including 90 Stryker combat vehicles. Britain had previously promised to send 14 Challenger 2 tanks.
 
+Chris Hipkins, who oversaw <strong>New Zealand’s</strong> pandemic response under Jacinda Ardern, will replace her as leader of the Labour Party and thus prime minister following her [surprise resignation](https://www.economist.com/asia/2023/01/19/jacinda-ardern-resigns-as-new-zealands-prime-minister). Labour lawmakers will confirm his accession on Sunday. Mr Hipkins, aged 44, currently serves as education minister and was the only candidate to stand for the job. A general election is due in October.
+
 Google’s parent company <strong>Alphabet</strong> announced that it [will cut](https://www.economist.com/business/2022/12/24/how-techs-defiance-of-economic-gravity-came-to-an-abrupt-end) 12,000 jobs, or around 6% of its workforce. Sundar Pichai, Alphabet’s CEO, said that the company, which has hired thousands of people in recent years, now faces a “different economic reality”. The announcement comes days after Microsoft, another [tech firm](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers), announced that it would lay off 10,000 of its staff. 
 
 <strong>America</strong> said it will designate the <strong>Wagner Group</strong>, a Russian [firm of private mercenaries](https://www.economist.com/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a transnational criminal organisation and level sanctions against it. America thinks Wagner has 50,000 fighters in Ukraine. The White House also released a photo, taken in November, showing Russian railcars travelling between Russia and North Korea, transporting what America said were weapons for use in Ukraine.
 
+Listen to an abridged version of the subscriber-only briefing.
+
 <strong>British retail sales</strong> volumes fell by 1% in December, as shoppers tightened their belts amid [high inflation and rising interest rates](https://www.economist.com/britain/2022/12/15/britains-economic-record-since-2007-ranks-near-the-bottom-among-peer-countries). Monthly food sales volumes fell by 0.3%, following an increase of 1% in November, as annual food inflation hit 16.9%. John Allan, the boss of Tesco, a British supermarket chain, said the government needs a “really serious” long-term growth plan.  
 
 
-Listen to an abridged version of the subscriber-only briefing.
-
 <strong>Inflation</strong> in <strong>Japan </strong>rose to a 41-year high in December. The core consumer-price index, which excludes volatile food costs, increased by 4% year on year, exceeding the Bank of Japan’s target of 2% for the ninth consecutive month. On Wednesday the central bank said it would not change its [ultra-loose monetary policy](https://www.economist.com/finance-and-economics/2023/01/18/japans-extraordinarily-expensive-defence-of-its-monetary-policy), arguing that the surge in inflation has been driven by rising energy prices and the weak yen.
-
-Thousands of demonstrators again took to the streets of Lima, <strong>Peru’s</strong> capital, demanding a general election, a new constitution and the resignation of President Dina Boluarte. They were met with a show of police force. At least 50 Peruvians have died in recent protests. Demonstrators think the accession of Ms Boluarte, after a bungled coup attempt last month by her predecessor, is [illegitimate](https://www.economist.com/the-americas/2023/01/19/perus-political-chaos-looks-likely-to-persist).
 
 The <strong>Dutch</strong> government said it would seek to ban the ownership of <strong>pet breeds</strong>, which, because of their appearance, frequently suffer health problems such as belaboured breathing. Owners, said the agriculture minister, are “unaware of the dark side of their pets’ appearance”. In 2019 the Netherlands outlawed [breeding dogs](https://www.economist.com/interactive/christmas-specials/2022/12/20/what-makes-certain-dogs-popular-in-certain-countries) with muzzles less than one-third the length of their skull, including flat-faced pekingese and French bulldogs.
 
@@ -72,7 +72,7 @@ The song appears on the soundtrack of “80 for Brady”, a film about a group o
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="ebba9e8291ae989b998e989884ab8e888485848682989fc5888486">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="db8aaeb2a19ea8aba9bea8a8b49bbeb8b4b5b4b6b2a8aff5b8b4b6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which American ski resort hosts both the Winter X games and a centre for physics?  
 <strong>Thursday:</strong> Which right-wing pressure group was founded by Robert Welch junior in 1958?
