@@ -18,18 +18,16 @@ Volodymyr Zelensky, <strong>Ukraine’s </strong>president, addressed a summit o
 
 <strong>Inflation</strong> in <strong>Japan </strong>rose to a 41-year high in December. The core consumer-price index, which excludes volatile food costs, increased by 4% year on year, exceeding the Bank of Japan’s target of 2% for the ninth consecutive month. On Wednesday the central bank said it would not change its [ultra-loose monetary policy](https://www.economist.com/finance-and-economics/2023/01/18/japans-extraordinarily-expensive-defence-of-its-monetary-policy), arguing that the surge in inflation has been driven by rising energy prices and the weak yen.
 
-<strong>British retail sales</strong> volumes fell by 1% in December, as shoppers tightened their belts amid [high inflation and rising interest rates](https://www.economist.com/britain/2022/12/15/britains-economic-record-since-2007-ranks-near-the-bottom-among-peer-countries). Monthly food sales volumes fell by 0.3%, following an increase of 1% in November, as annual food inflation hit 16.9%. John Allan, the boss of Tesco, a British supermarket chain, said the government needs a “really serious” long-term growth plan.
+<strong>British retail sales</strong> volumes fell by 1% in December, as shoppers tightened their belts amid [high inflation and rising interest rates](https://www.economist.com/britain/2022/12/15/britains-economic-record-since-2007-ranks-near-the-bottom-among-peer-countries). Monthly food sales volumes fell by 0.3%, following an increase of 1% in November, as annual food inflation hit 16.9%. John Allan, the boss of Tesco, a British supermarket chain, said the government needs a “really serious” long-term growth plan.  
+
 
 Listen to an abridged version of the subscriber-only briefing.
 
-  
-
-
-<strong>Genesis</strong> filed for bankruptcy, becoming the latest casualty of the <strong>cryptocurrency</strong> slump. In its filing the crypto-lender declared assets and liabilities in the range of $1bn-$10bn and estimated it had more than 100,000 creditors. The firm suspended withdrawals in November, after the [collapse of FTX](https://www.economist.com/finance-and-economics/2023/01/03/sam-bankman-fried-pleads-not-guilty), an exchange in which it held funds.
+<strong>Reed Hastings</strong> stepped down as chief executive of <strong>Netflix</strong>. He will remain executive chairman of the streaming firm, which he co-founded in 1997 as a mail-order DVD service. Greg Peters, the chief operating officer, will take his place alongside Ted Sarandos, who shared the job with Mr Hastings. Netflix reported a [lower-than-expected quarterly profit](https://www.economist.com/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) of $55m, down by 90% from the same period in 2021. But it added 7.7m subscribers, far surpassing its own forecasts.
 
 Thousands of demonstrators again took to the streets of Lima, <strong>Peru’s</strong> capital, demanding a general election, a new constitution and the resignation of President Dina Boluarte. They were met with a show of police force. At least 50 Peruvians have died in recent protests. Demonstrators think the accession of Ms Boluarte, after a bungled coup attempt last month by her predecessor, is [illegitimate](https://www.economist.com/the-americas/2023/01/19/perus-political-chaos-looks-likely-to-persist).
 
-<strong>Reed Hastings</strong> stepped down as chief executive of <strong>Netflix</strong>. He will remain executive chairman of the streaming firm, which he co-founded in 1997 as a mail-order DVD service. Greg Peters, the chief operating officer, will take his place alongside Ted Sarandos, who shared the job with Mr Hastings. Netflix reported a [lower-than-expected quarterly profit](https://www.economist.com/business/disney-netflix-apple-is-anyone-winning-the-streaming-wars/21807591) of $55m, down by 90% from the same period in 2021. But it added 7.7m subscribers, far surpassing its own forecasts.
+<strong>Genesis</strong> filed for bankruptcy, becoming the latest casualty of the <strong>cryptocurrency</strong> slump. In its filing the crypto-lender declared assets and liabilities in the range of $1bn-$10bn and estimated it had more than 100,000 creditors. The firm suspended withdrawals in November, after the [collapse of FTX](https://www.economist.com/finance-and-economics/2023/01/03/sam-bankman-fried-pleads-not-guilty), an exchange in which it held funds.
 
 <strong>Fact of the day</strong>: 25%, the proportion of Indian women who owned a smartphone in 2021. [Read the full story.](https://www.economist.com/asia/2023/01/12/indias-rocketing-internet-user-growth-has-stalled)
 
@@ -74,7 +72,7 @@ The song appears on the soundtrack of “80 for Brady”, a film about a group o
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="401135293a053330322533332f0025232f2e2f2d2933346e232f2d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7627031f0c33050604130505193613151918191b1f05025815191b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which American ski resort hosts both the Winter X games and a centre for physics?  
 <strong>Thursday:</strong> Which right-wing pressure group was founded by Robert Welch junior in 1958?
