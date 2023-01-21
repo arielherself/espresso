@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The foreign ministers of <strong>Estonia</strong>,<strong> Latvia </strong>and<strong> Lithuania</strong>, urged Germany to send the <strong>Leopard 2</strong> tanks it makes to Ukraine. “Germany as the leading European power has special responsibility in this regard,” they wrote, a day after Germany had confirmed to Western officials [its reluctance](https://www.economist.com/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks) to do so. Other countries could also provide Leopards, but export controls mean that German hesitation affects them too.
+The foreign ministers of <strong>Estonia</strong>,<strong> Latvia </strong>and<strong> Lithuania</strong> urged Germany to send the <strong>Leopard 2</strong> tanks it makes to Ukraine. “Germany as the leading European power has special responsibility in this regard,” they wrote, a day after Germany had confirmed to Western officials [its reluctance](https://www.economist.com/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks) to do so. Other countries could also provide Leopards, but export controls mean that German hesitation affects them too.
 
 The senior epidemiologist at <strong>China</strong>’s Centre for Disease Control and Prevention has argued that with around 80% of the population already infected with <strong>covid-19</strong> a further big wave of the virus is unlikely. But Wu Zunyou conceded on social media that the 5bn journeys around the country people are expected to make over the current Spring Festival will spread the epidemic farther afield.
 
