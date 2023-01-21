@@ -12,70 +12,97 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-At the end of a meeting of <strong>Ukraine’s</strong> Western and NATO allies at the Ramstein air base in Germany, [no decision was reached](https://www.economist.com/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks) on sending Leopard 2 main battle tanks to Ukraine, despite [pleas](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine) from President Volodymyr Zelensky to do so. Nonetheless, several countries pledged to send more military aid. <strong>America </strong>will send a package worth around $2.5bn, including 90 Stryker combat vehicles. Britain had previously promised to send 14 Challenger 2 tanks.
+No decision was reached on sending German-made Leopard 2 main battle tanks to <strong>Ukraine</strong> after a [meeting of Western and NATO leaders](https://www.economist.com/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks) in Germany. Volodymyr Zelensky, Ukraine’s president, has pled for tanks to help his forces fend off Russia. Nonetheless, several countries pledged to send more military aid. America will send a package worth around $2.5bn, including 90 Stryker combat vehicles. Britain had previously promised to send 14 Challenger 2 tanks.
 
 Chris Hipkins, who oversaw <strong>New Zealand’s</strong> pandemic response under Jacinda Ardern, will replace her as leader of the Labour Party and thus prime minister following her [surprise resignation](https://www.economist.com/asia/2023/01/19/jacinda-ardern-resigns-as-new-zealands-prime-minister). Labour lawmakers will confirm his accession on Sunday. Mr Hipkins, aged 44, currently serves as education minister and was the only candidate to stand for the job. A general election is due in October.
 
-Google’s parent company <strong>Alphabet</strong> announced that it [will cut](https://www.economist.com/business/2022/12/24/how-techs-defiance-of-economic-gravity-came-to-an-abrupt-end) 12,000 jobs, or around 6% of its workforce. Sundar Pichai, Alphabet’s CEO, said that the company, which has hired thousands of people in recent years, now faces a “different economic reality”. The announcement comes days after Microsoft, another [tech firm](https://www.economist.com/business/2022/11/10/as-tech-lay-offs-spread-meta-sacks-11000-workers), said that it would lay off 10,000 of its staff.
+<strong>Bolivia</strong> chose a consortium led by CATL, a Chinese battery-maker, to develop the country’s lithium reserves. Luis Arce, Bolivia’s president, called the deal “historic” and said the consortium would invest more than $1bn in the project’s first phase. Global demand for lithium, which is used in [electric vehicles](https://www.economist.com/business/2022/08/14/could-the-ev-boom-run-out-of-juice-before-it-really-gets-going), is expected to soar as fossil fuels are phased out.
 
 <strong>Russia</strong> could start selling <strong>oil</strong> to <strong>Pakistan</strong>, with an agreement likely to come by March, Russia’s energy minister said. Payment will be in the currency of “friendly” countries—meaning those that do not levy sanctions against Russia. Pakistan [typically imports](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets) most of its oil from the Gulf. But amid a severe balance-of-payments crisis, it is eager to take advantage of the discount for Russian crude. 
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>America</strong> said it will designate the <strong>Wagner Group</strong>, a Russian [firm of private mercenaries](https://www.economist.com/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a transnational criminal organisation and level sanctions against it. America thinks Wagner has 50,000 fighters in Ukraine. The White House also released a photo, taken in November, showing Russian railcars travelling between Russia and North Korea, transporting what America said were weapons for use in Ukraine.
+<strong>Amazon’s </strong>cloud-computing arm said it planned to spend $35bn on new data centres in Virginia. The state is a hub for internet infrastructure and has offered Amazon Web Services several incentives to expand its presence there. The world’s largest provider of cloud-computing services is hoping the investment will help it stay ahead of the competition in a [rapidly-expanding market](https://www.economist.com/business/2022/08/29/the-cloud-computing-giants-are-vying-to-protect-fat-profits).
 
-<strong>British retail sales</strong> volumes fell by 1% in December, as shoppers tightened their belts amid [high inflation and rising interest rates](https://www.economist.com/britain/2022/12/15/britains-economic-record-since-2007-ranks-near-the-bottom-among-peer-countries). Monthly food sales volumes fell by 0.3%, following an increase of 1% in November, as annual food inflation hit 16.9%. John Allan, the boss of Tesco, a British supermarket chain, said the government needs a “really serious” long-term growth plan.  
+<strong>America</strong> said it would designate the <strong>Wagner Group</strong>, a Russian [firm of private mercenaries](https://www.economist.com/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a transnational criminal organisation and impose sanctions on it. America thinks Wagner has 50,000 fighters in Ukraine. The White House also released a photo, taken in November, showing Russian railway carriages travelling between Russia and North Korea, transporting what America said were weapons for use in Ukraine.
 
+The <strong>Dutch</strong> government said it would seek to ban the ownership of <strong>pet breeds</strong> that, because of their appearance, frequently suffer health problems such as laboured breathing. Owners, said the agriculture minister, are “unaware of the dark side of their pets’ appearance”. In 2019 the Netherlands outlawed [breeding dogs](https://www.economist.com/interactive/christmas-specials/2022/12/20/what-makes-certain-dogs-popular-in-certain-countries) with muzzles less than one-third the length of their skull, including flat-faced Pekingese and French bulldogs. 
 
-The <strong>Dutch</strong> government said it would seek to ban the ownership of <strong>pet breeds</strong> that, because of their appearance, frequently suffer health problems such as belaboured breathing. Owners, said the agriculture minister, are “unaware of the dark side of their pets’ appearance”. In 2019 the Netherlands outlawed [breeding dogs](https://www.economist.com/interactive/christmas-specials/2022/12/20/what-makes-certain-dogs-popular-in-certain-countries) with muzzles less than one-third the length of their skull, including flat-faced pekingese and French bulldogs.
-
-<strong>Fact of the day</strong>: 25%, the proportion of Indian women who owned a smartphone in 2021. [Read the full story.](https://www.economist.com/asia/2023/01/12/indias-rocketing-internet-user-growth-has-stalled)
+<strong>Word of the week: </strong><em>chunyu</em>, meaning “pure desire” in Mandarin. The make-up style from China, which involves trying to look alluring and innocent all at once, is now trending in Japan. [Read the full story](https://www.economist.com/asia/2023/01/19/japanese-youngsters-want-to-look-like-chinese-starlets).
 
 ----------
 
-## Biden’s uneven anniversary
+## Florida’s Democrats look to rebuild
 
-In January 2022 Tom Hanks narrated a video celebrating Joe Biden’s first year as president. The actor’s steely optimism sent a message of improvement: covid-19 is fading and the economy is inching back. On Friday Mr Biden marks two years in office. There are still victories—including [climate legislation](https://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential), [infrastructure](https://www.economist.com/briefing/2022/10/27/joe-biden-attempts-the-biggest-overhaul-of-americas-economy-in-decades) investment and better-than-expected [midterm elections](https://www.economist.com/united-states/2022/11/09/the-democrats-have-done-better-than-expected)—but the story is no longer one of linear progress. The pandemic often feels distant, but covid-19 kills 2,000 Americans each week. Inflation is [coming down](https://www.economist.com/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last), but still high. Fears of a [recession](https://www.economist.com/business/2022/12/04/is-a-white-collar-recession-looming) loom.
+On Saturday Democrats in [Florida](https://www.economist.com/special-report/2022/03/30/like-america-the-sunshine-state-also-rises) will meet to discuss the future of their party. Resounding defeats in [America’s midterm elections](https://www.economist.com/mid-terms-2022) in 2022, in which the incumbent Republican governor Ron DeSantis won a landslide victory and carried traditionally blue counties like Miami-Dade, have prompted soul-searching among Democrats. Earlier this month Manny Diaz, the state’s Democratic Party chair, resigned after some members began the process to call a vote of no-confidence in him. 
 
-Then there are around 20 [classified documents](https://www.economist.com/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) from Mr Biden’s time as Barack Obama’s vice-president which were discovered in places they should not be. In this scandal Mr Biden cannot avoid comparison to Donald Trump, the former president who took over 300 sensitive documents home. As both men prepare bids for re-election in 2024, matching investigations into carelessness, or worse, over state secrets have added an unexpected twist—and cost Mr Biden the moral high ground.
+Building a more electable party in the Sunshine State will be no easy task. Annette Taddeo, a former state senator who ran briefly for governor, is willing to try. She has entered the contest to replace Mr Diaz; others may come forward too. But reversing Republicans’ momentum in the swing state ahead of national elections in 2024 will require more than just compelling candidates. Out-of-state Democratic donors will need to chip in with resources as well. Till then Florida will look more red than purple.
 
-## Germany’s reluctance to send Leopards
+## Protests persist in Peru
 
-A showdown looms at a meeting in Germany on Friday of the Ukraine contact group, a gathering of senior defence officials from 50-odd countries arming Ukraine. Many countries want to send Western tanks to help Ukraine regain momentum against Russia. Germany is refusing to send its (German-made) Leopard tanks, or give other countries the permission they need to send theirs. 
+On Thursday Peru’s president, Dina Boluarte, declared from the presidential palace in Lima that protests against her government were under control. The chaos unfolding a few blocks away and elsewhere in the country, however, suggested otherwise: more than 50 people were injured as protests continued on Friday. A historic building in Lima went up in flames. 
 
-Ukraine is pleading for capable [Western tanks](https://www.economist.com/leaders/2023/01/11/the-west-should-supply-tanks-to-ukraine). Britain has promised 14 Challengers. But Germany says it will release the Leopards only if America sends Abrams tanks, too. This is military nonsense: the Leopard is easier to operate than the Abrams and is plentiful, with some 2,000 in service across Europe. Germany seems caught in a political tank-trap. 
+At least 44 people have died in such clashes since Ms Boluarte took office on December 7th, after her left-wing predecessor, Pedro Castillo, was arrested for trying to stage a coup. Indigenous and rural people, his supporters, are particularly angry. They want new general elections and Ms Boluarte’s resignation. For now, however, she is [unlikely to step down](https://www.economist.com/the-americas/2023/01/19/perus-political-chaos-looks-likely-to-persist), having formed an alliance with the centrist and right-wing parties that control Congress. Dismissing her critics as “violent and radical factions” of the population, she has called for elections to be held in April 2024, two years ahead of schedule. That has failed to appease the protesters.
 
-Immediately before the meeting, the American defence secretary, Lloyd Austin, promised to send Patriot air-defence systems and armoured personnel carriers, but failed to mention tanks. It might be a long day at the Ramstein air base in Germany.
+## Losing the night sky to light pollution
 
-## Yellen and Lavrov head to Africa
+There are few sights as awesome and humbling as the pristine night sky. The nebulous band of the Milky Way has long captivated mankind. But the spread of artificial light has robbed huge swathes of the globe of this nightly spectacle. And according to new research in <em>Science</em>, a journal, the heavens are dimming faster than previously thought.
 
-January has been a busy month for red-carpet rollers in Africa. Both the Chinese and Turkish foreign ministers took five-country tours. Next week their [Russian](https://www.economist.com/middle-east-and-africa/2022/03/12/why-russia-wins-some-sympathy-in-africa-and-the-middle-east) counterpart, Sergei Lavrov, will arrive in South Africa. So when Janet Yellen meets Senegal’s president, Macky Sall, on Friday, America’s treasury secretary will be part of a global competition for influence.  
-  
- Not that America frames it that way. The Biden administration, in contrast to that of Donald Trump, talks of partnering with African countries, rather than viewing them as pawns in a struggle for influence between global powers. Following the US-Africa Summit in December American officials are keen to show they are listening to Africans’ concerns. These are mostly economic. More than half of the continent’s 35 low-income countries are in [debt distress](https://www.economist.com/middle-east-and-africa/2022/04/30/debt-repayment-costs-are-rising-fast-for-many-african-countries) or at high risk of becoming so, according to the IMF. Ms Yellen’s trip—which will also include visits to Zambia and South Africa—is well timed, but she is in a crowded field.
+Globe at Night enlists members of the public to observe the night sky with the naked eye, logging their location. Over the past dozen years stargazers have contributed more than 50,000 observations to the project. They revealed an average rise in light pollution of 10% a year, much worse than satellite imagery had suggested. Astronomers are calling for harsher restrictions on [light pollution](https://www.economist.com/leaders/2021/11/26/why-the-nights-grow-less-dark-and-what-to-do-about-it). Otherwise, the firmament will continue to fade; and perhaps with it, humanity’s sense of itself within the cosmos.
 
-## China’s economy enters a new year
+## Divining indie cinema’s future at Sundance
 
-Less than a year ago Chinese stocks, specifically those of the tech companies that once beguiled foreign investors, were deemed [“uninvestable”](https://www.economist.com/finance-and-economics/2022/05/19/is-china-uninvestible) by some analysts. They argued that these assets had become almost impossible to value, thanks to capricious regulations and febrile [geopolitics](https://www.economist.com/business/2022/12/20/america-tries-to-nobble-chinas-tech-industry-again).  
-  
- It turns out foreign investors can stomach a mercurial policy as long as it zags their way. China’s [abandonment](https://www.economist.com/china/2022/12/06/china-is-dismantling-its-zero-covid-machine) of its zero-covid regime was abrupt, ill-planned and wholeheartedly applauded by equity [markets](https://www.economist.com/films/2023/01/07/what-chinas-reopening-means-for-the-world-economy). But as the year of the tiger draws to a close, a benchmark equity index has risen by 20% since the end of October.
+Sundance, the celebrated Utah showcase for independent movies, which runs through the weekend, has returned in-person for the first time since 2020. At the virtual edition in 2021 Apple bought the rights to “CODA”, a film directed by Sian Heder, for $25m, a festival record. It became the first Sundance selection to win the [Academy Award](https://www.economist.com/culture/2022/03/28/have-the-oscars-lost-their-way) for Best Picture. But most Sundance movies are destined for the speciality film market, which is still sorting out its business model as audiences choose streaming over cinemas.
 
-Threats remain. In a survey of Asia fund managers by Bank of America, 45% said geopolitics was the biggest risk to Chinese assets. But as the year of the rabbit begins, investors have decided it is the wrong time to hide in a foxhole.
+Sundance earns its cultural cachet by eschewing big franchises and cultivating fresh film-makers. Most of the debut fiction features this year are directed by women. One buzzy title, “Drift”, stars Cynthia Erivo as a Liberian exile. The documentary slate includes “A Still Small Voice”, a sensitive portrait of a palliative-care worker. But after the prestigious premieres, these films will face a question familiar to moviegoers: what next?
 
-  
+## Weekend profile: Matteo Messina Denaro, captured mafioso
 
+“Kind, very kind” was how a fellow patient remembered the man she knew as Andrea Bonafede. In a television interview, the woman described how he had befriended her while they were undergoing chemotherapy at the Maddalena hospital in Palermo, Sicily. “Andrea”, whose colon cancer was spreading to his liver, had swapped telephone numbers not just with her but with some of her girlfriends. Then on Monday he was arrested, identified as Italy’s most wanted man, Matteo Messina Denaro, and accused of some of the most appalling crimes in Italy’s recent history. 
 
-## A new single from a female supergroup
+Nicknamed <em>U Siccu</em> (the skinny one) and more sinisterly as<em> Diabolik</em>, Mr Messina Denaro was among the Sicilian Mafia bosses who felt themselves so powerful in the early 1990s that they could take on the state. He was a leading ally of the Corleonesi clan, which originated in the market town of Corleone and which wrested control of Cosa Nostra with a campaign of unparalleled savagery. It was he and his friends who planted the bombs that killed the anti-Mafia prosecutors Giovanni Falcone and Paolo Borsellino and who mounted a campaign of terror attacks to try to bend the government of the day to their will.
 
-If you were to assemble a supergroup of songstresses, you would struggle to put together a stronger lineup than the one Diane Warren has forged. The Grammy award-winning American songwriter brought together Belinda Carlisle, Gloria Estefan, Debbie Harry, Cyndi Lauper and Dolly Parton to record “Gonna Be You”, which is released on Friday.
+Mr Messina Denaro had the reputation of a playboy—elegant and with a taste for fast cars and attractive women. Indeed. The police found that “Mr Bonafede’s” watch was worth €35,000 ($37,800). His fellow patient noted that, even in the torrid heat of a Sicilian summer, “Andrea” always arrived at the hospital in a formal, long-sleeved shirt.
 
-The song appears on the soundtrack of “80 for Brady”, a film about a group of older women (pictured) bound together by their love of American football (and a certain star quarterback named Tom in particular). Asked to write a song, Ms Warren was inspired by the film’s spirit of female friendship, and the title, to ask “some of the most iconic singers from the 80s” to perform it. In that she succeeded. Over decades in the industry the five singers have sold hundreds of millions of records between them. Few teams have benefited from so many star players.
+For many years it was assumed that he had succeeded the Corleonesi’s leader, [Salvatore Riina](https://www.economist.com/europe/2017/06/08/italy-struggles-to-deal-with-an-aged-godfather), as “Boss of Bosses”. But the latest view is that, while a symbol of the Mafia’s ability to defy the law, he was never more than the kingpin in his native province of Trapani. Still, the significance of Mr Messina Denaro’s arrest is that he was the last of those bosses still at large more than 30 years later. His capture sends a powerful message that the state always wins, eventually.
 
-## Daily quiz
+## Weekly crossword
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="96c7e3ffecd3e5e6e4f3e5e5f9d6f3f5f9f8f9fbffe5e2b8f5f9fb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-<strong>Friday: </strong>Which American ski resort hosts both the Winter X games and a centre for physics?  
-<strong>Thursday:</strong> Which right-wing pressure group was founded by Robert Welch junior in 1958?
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Victor and Natasha first met and eloped, then broke up for a change (11)
+
+<em>1 across</em> Movie-maker reflected desires (subconscious) (6) 
+
+<em>2 across </em>Wrongdoing, in some books, shows intelligence (5)
+
+<em>3 across </em>Almost change tonality of bird (6) 
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>What state-owned firms can arrest, rather than accelerate (11) 
+
+<em>1 across</em> A company celebrating its centenary (6) 
+
+<em>2 across </em>Something transforming how the world witnesses war (5) 
+
+<em>3 across </em>A country that may be on the brink of dictatorship (6) 
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+<strong>Corien Kershey,</strong> Ontario, Canada
+
+<strong>Richard H Moore,</strong> Pawleys Island, South Carolina
+
+<strong>Dave Moore,</strong> Fripp Island, South Carolina
+
+They all gave the correct answers of <em>Wild Cherry, Rowan Atkinson, Hazel, John Birch Society </em>and<em> Aspen</em>. The theme is trees: cherry, rowan, hazel, birch and aspen.
 
 ----------
 
