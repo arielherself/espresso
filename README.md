@@ -18,7 +18,7 @@ The foreign ministers of <strong>Estonia</strong>,<strong> Latvia </strong>and<s
 
 Relations between <strong>Sweden and Turkey</strong> worsened after a far-right politician burnt a copy of the Koran at a protest in Stockholm outside the Turkish embassy. The Turkish foreign ministry called the decision to permit the demonstration “completely unacceptable”. A planned visit to Ankara by Sweden’s defence minister had already been cancelled. Turkey’s objections are holding up the accession to NATO of both Sweden and Finland.
 
-Tens of thousands of <strong>Israelis</strong> took to the streets to protest against plans to [reform the country’s judiciary](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court). The recently-elected government, led by Binyamin Netanyahu, is trying to curb the powers of the Supreme Court by tightening political control over judicial appointments. Mr Netanyahu has dismissed the protests as a refusal of opponents to accept the results of the general election in November.
+Tens of thousands of <strong>Israelis</strong> took to the streets to protest against plans to [reform the country’s judiciary](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court). The recently elected government, led by Binyamin Netanyahu, is trying to curb the powers of the Supreme Court by tightening political control over judicial appointments. Mr Netanyahu has dismissed the protests as a refusal by his opponents to accept the results of the general election in November.
 
 Listen to an abridged version of the subscriber-only briefing.
 
