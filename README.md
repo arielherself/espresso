@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-01-22</p>
+# <p align="center">The world in brief 2023-01-23</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -16,16 +16,15 @@ America’s justice department found a new batch of classified documents at <str
 
 Ten people were <strong>killed</strong> and at least ten others injured by a gunman in <strong>Monterey Park,</strong> on the eastern edge of Los Angeles. The victims had gathered to celebrate the Chinese lunar new year in a ballroom-dancing venue. A police manhunt is under way for the shooter, who fled the scene. The motive for the attack is unknown. It was one of the worst mass-shootings in California’s modern history.
 
-“With a heavy heart and much sorrow” <strong>Binyamin Netanyahu</strong> complied with a high court ruling to sack a senior cabinet minister with a criminal record, Aryeh Deri, head of Shas Party. On Saturday, tens of thousands of <strong>Israelis </strong>protested against Mr Netanyahu’s plans to [reform the country’s judiciary](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court). He is trying to curb the powers of the Supreme Court by tightening political control over judicial appointments. 
+<strong>Germany</strong>’s foreign minister said it “would not stand in the way” if Poland sent German-made Leopard tanks to Ukraine. The move signals a shift in attitude in Berlin, which has so far resisted [heavy diplomatic pressure](https://te.arielherself.xyz/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons) to send its tanks to Kyiv, or allow others to do so. Earlier Emmanuel Macron, <strong>France</strong>’s president, said he had not ruled out the possibility of sending Leclerc tanks to Ukraine.
 
-<strong>New Zealand’s</strong> ruling Labour Party formally elected Chris Hipkins to succeed Jacinda Ardern as leader, and thus the new prime minister. Mr Hipkins, currently the minister for police, public service and education, will be sworn in on Wednesday. The charismatic Ms Ardern [resigned](https://te.arielherself.xyz/asia/2023/01/19/jacinda-ardern-resigns-as-new-zealands-prime-minister) as prime minister last Thursday, complaining that she has nothing “left in the tank.”
+Thousands demonstrated across <strong>America</strong> on the 50th anniversary of <strong><em>Roe v Wade</em></strong>, the Supreme Court decision that legalised abortion. Around 200 marches took place in 46 states to protest against the court’s [reversal of <em>Roe</em>](https://te.arielherself.xyz/the-world-ahead/2022/11/18/democrats-may-benefit-from-the-end-of-roe-v-wade) last June. Since then 12 states have passed near-total bans on abortion, while others have tightened restrictions. President Joe Biden called a woman’s right to choose “non-negotiable” and urged Congress to codify <em>Roe</em>.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-The president of <strong>Brazil</strong>, Luiz Inácio Lula da Silva, sacked the head of the army two weeks after thousands of protesters [attacked](https://te.arielherself.xyz/the-americas/2023/01/12/a-copycat-insurrection-in-brazil-and-its-troubling-aftermath) and vandalised the congress and other government buildings in the capital. Supporters of <strong>President Lula</strong> claim that some members of the armed forces colluded with the rioters, backers of the previous president Jair Bolsonaro. General Julio Cesar de Arruda had taken up the role only on December 30th, just before Mr Bolsonaro’s [term in office ](https://te.arielherself.xyz/the-americas/2022/10/31/luiz-inacio-lula-da-silva-will-be-brazils-next-president)ended.
+“With a heavy heart and much sorrow” <strong>Binyamin Netanyahu</strong> complied with a high court ruling to sack a senior cabinet minister with a criminal record, Aryeh Deri, head of Shas Party. On Saturday, tens of thousands of <strong>Israelis </strong>protested against Mr Netanyahu’s plans to [reform the country’s judiciary](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court). He is trying to curb the powers of the Supreme Court by tightening political control over judicial appointments. 
 
-Relations between <strong>Sweden and Turkey</strong> worsened after a far-right politician burnt a copy of the Koran at a protest in Stockholm outside the Turkish embassy. The Turkish foreign ministry called the decision to permit the demonstration “completely unacceptable”. A planned visit to Ankara by Sweden’s defence minister had already been cancelled. Turkey’s objections are holding up the accession to NATO of both Sweden and Finland.   
-
+<strong>New Zealand’s</strong> ruling Labour Party formally elected Chris Hipkins to succeed Jacinda Ardern as leader, and thus the new prime minister. Mr Hipkins, currently the minister for police, public service and education, will be sworn in on Wednesday. The charismatic Ms Ardern [resigned](https://te.arielherself.xyz/asia/2023/01/19/jacinda-ardern-resigns-as-new-zealands-prime-minister) as prime minister last Thursday, complaining that she has nothing “left in the tank.”
 
 The <strong>Iranian rial</strong> dropped to a record low against the dollar, as inflation continued to spiral. A year ago the dollar was worth well under 300,000 rials on unofficial markets; now it will fetch more than 440,000. [Protests](https://te.arielherself.xyz/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory) that have disturbed Iran since September have petered out, but the country must still contend with the daunting international sanctions that were imposed to persuade it to curb its nuclear programme.
 
