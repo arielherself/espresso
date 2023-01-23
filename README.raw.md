@@ -12,101 +12,61 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-America’s justice department found a new batch of classified documents at <strong>President Joe Biden’s </strong>private residence. After a 13-hour search, officials seized documents from Mr Biden’s time in the Senate and as vice-president. The discovery is the latest in a series of such findings that has caused a furore over Mr Biden’s [mishandling of government files](https://www.economist.com/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious). Earlier this month Merrick Garland, the attorney-general, appointed a special counsel to review Mr Biden’s case. 
+The <strong>gunman</strong> suspected of killing ten people and injuring ten others in <strong>Monterey Park</strong>, on the eastern edge of Los Angeles, was identified as 72-year-old Huu Can Tran. The victims had gathered to celebrate the Chinese lunar new year in a ballroom-dancing venue. The suspect later shot himself in a van after being surrounded by police. The motive for the attack is unknown. It was one of the deadliest [mass shootings](https://www.economist.com/special-report/2022/09/12/how-to-stop-the-killing) in California’s modern history.
 
-Ten people were <strong>killed</strong> and at least ten others injured by a gunman in <strong>Monterey Park,</strong> on the eastern edge of Los Angeles. The victims had gathered to celebrate the Chinese lunar new year in a ballroom-dancing venue. The suspect later shot himself in a van after being surrounded by police. The motive for the attack is unknown. It was one of the worst mass-shootings in California’s modern history.
+<strong>Citadel</strong>, the hedge fund run by Ken Griffin, earned investors $16bn (on assets of $53bn) last year, an industry record. The last time a hedgie reported such juicy profits was in 2007, when John Paulson [cleaned up](https://www.economist.com/business/2009/03/12/the-long-and-the-short) betting against subprime mortgages. Citadel bucked a trend: even including its mammoth return, the top 20 funds made $22.4bn in 2022, the lowest for six years, according to LCH Investments.
 
-<strong>Germany</strong>’s foreign minister said it “would not stand in the way” if Poland sent German-made Leopard tanks to Ukraine. The move signals a shift in attitude in Berlin, which has so far resisted [heavy diplomatic pressure](https://www.economist.com/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons) to send its tanks to Kyiv, or allow others to do so. Earlier Emmanuel Macron, <strong>France</strong>’s president, said he had not ruled out the possibility of sending Leclerc tanks to Ukraine.
+<strong>Russia</strong> ordered <strong>Estonia’s ambassador</strong>, Margus Laidre, to leave the country within a fortnight. The foreign ministry pinned the downgrade in relations on an “unfriendly step to radically reduce the size” of its own outpost in Tallinn. Meanwhile, diplomatic pressure to send [Leopard tanks](https://www.economist.com/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons) to Ukraine continued building on <strong>Germany</strong>, their maker. <strong>Poland</strong> said it would apply for permission to send its own stock.
 
-Thousands demonstrated across <strong>America</strong> on the 50th anniversary of <strong><em>Roe v Wade</em></strong>, the Supreme Court decision that legalised abortion. Around 200 marches took place in 46 states to protest against the court’s [reversal of <em>Roe</em>](https://www.economist.com/the-world-ahead/2022/11/18/democrats-may-benefit-from-the-end-of-roe-v-wade) last June. Since then 12 states have passed near-total bans on abortion, while others have tightened restrictions. President Joe Biden called a woman’s right to choose “non-negotiable” and urged Congress to codify <em>Roe</em>.
+<strong>Argentina</strong> and <strong>Brazil </strong>said they would begin preparatory work to develop a common South American currency. In a jointly written article, leaders of both countries said the currency—perhaps called the “sur”—would reduce costs and external vulnerability. According to the <em>Financial Times</em>, the proposal will be discussed at a summit in Argentina this week. It would be the world’s second-biggest currency bloc.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-“With a heavy heart and much sorrow” <strong>Binyamin Netanyahu</strong> complied with a high court ruling to sack a senior cabinet minister with a criminal record, Aryeh Deri, head of Shas Party. On Saturday, tens of thousands of <strong>Israelis </strong>protested against Mr Netanyahu’s plans to [reform the country’s judiciary](https://www.economist.com/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court). He is trying to curb the powers of the Supreme Court by tightening political control over judicial appointments. 
+<strong>New Zealand’s</strong> ruling Labour Party formally elected Chris Hipkins to [succeed](https://www.economist.com/asia/2023/01/19/jacinda-ardern-resigns-as-new-zealands-prime-minister) Jacinda Ardern as leader, and thus the new prime minister. Mr Hipkins promised to narrow his government’s focus, to concentrate on the country’s economy, and in particular the cost-of-living crisis. Mr Hipkins, currently minister for police, public service and education, will be sworn in on Wednesday.
 
-<strong>New Zealand’s</strong> ruling Labour Party formally elected Chris Hipkins to succeed Jacinda Ardern as leader, and thus the new prime minister. Mr Hipkins, currently the minister for police, public service and education, will be sworn in on Wednesday. The charismatic Ms Ardern [resigned](https://www.economist.com/asia/2023/01/19/jacinda-ardern-resigns-as-new-zealands-prime-minister) as prime minister last Thursday, complaining that she has nothing “left in the tank.”
+Thousands demonstrated across <strong>America</strong> on the 50th anniversary of <strong><em>Roe v Wade</em></strong>, the Supreme Court decision that made abortion a constitutional right. Around 200 marches took place in 46 states to protest against the court’s [reversal of <em>Roe</em>](https://www.economist.com/the-world-ahead/2022/11/18/democrats-may-benefit-from-the-end-of-roe-v-wade) last June. Since then 12 states have passed near-total bans on abortion, while others have tightened restrictions.
 
-The <strong>Iranian rial</strong> dropped to a record low against the dollar, as inflation continued to spiral. A year ago the dollar was worth well under 300,000 rials on unofficial markets; now it will fetch more than 440,000. [Protests](https://www.economist.com/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory) that have disturbed Iran since September have petered out, but the country must still contend with the daunting international sanctions that were imposed to persuade it to curb its nuclear programme.
+Luiz Inácio Lula da Silva, Brazil’s new president, accused his predecessor, Jair Bolsonaro, of committing genocide against the <strong>Yanomami people</strong> in the country’s Amazon. He said Mr Bolsonaro’s government had allowed the Yanomami’s protected reservation, home to an estimated 30,000 tribespeople, to be plundered by [gold miners](https://www.economist.com/culture/2022/10/12/richard-mosse-documents-the-hidden-war-in-the-brazilian-amazon), leading to widespread malnutrition and disease. A medical emergency has been declared.
 
-<strong>Word of the week: </strong><em>chunyu</em>, meaning “pure desire” in Mandarin. The make-up style from China, which involves trying to look alluring and innocent all at once, is now trending in Japan. [Read the full story](https://www.economist.com/asia/2023/01/19/japanese-youngsters-want-to-look-like-chinese-starlets).
+<strong>Fact of the day</strong>: 60%, the proportion of horses that were owned by Elizabeth II that have been sold at auction since her death in September. [Read the full story.](https://www.economist.com/britain/2023/01/17/horse-racing-in-britain-is-in-deep-trouble)
 
 ----------
 
-## France and Germany’s fractious friendship
+## China enters a new covid era
 
-Sixty years after France and Germany signed a treaty to cement their friendship, the two countries will hold a [bilateral summit](https://www.economist.com/europe/2023/01/19/france-and-germany-stifle-their-spats-to-celebrate-a-60-year-friendship) in Paris on Sunday. President Emmanuel Macron and Chancellor Olaf Scholz will speak before scores of ministers and parliamentarians at the Sorbonne. They will then hold a joint cabinet meeting, and finish with dinner <em>à deux</em>.
+Three years ago the 11m people of Wuhan, a Chinese city, were the first to be locked down to stop the spread of a strange new virus. Covid-19 had actually emerged weeks earlier, but authorities played down its dangers, allowing millions to leave before the city and its surrounding province were sealed. But in 2023, after China abruptly [dropped](https://www.economist.com/china/2023/01/19/covid-19-has-already-torn-through-large-swathes-of-china) strict pandemic controls, the country’s rulers are intent on promoting a return to normality. Celebrations of the [lunar new year](https://www.economist.com/china/2023/01/19/riding-the-slow-train-in-china) holidays began over the weekend.
 
-The summit comes at a tricky time. Russia’s war on Ukraine has exposed longstanding differences between the two countries, notably over defence and [energy](https://www.economist.com/briefing/2022/11/24/the-costs-and-consequences-of-europes-energy-crisis-are-growing). The two governments have struggled to find common ground; their leaders lack personal chemistry. Some countries closer to Russia’s borders argue that France and Germany have lost their leadership roles in Europe. 
+For unknown numbers of Chinese it is a more sombre new year. Official death tolls stand at around 70,000 between December 8th and January 19th. The true number is far higher, according to exhausted funeral workers and doctors. Millions heading to home towns and villages hope they will not infect elderly relatives, though it may help that many villagers have already had the virus. An exhausted country is ready to move on.
 
-But such troubles will doubtless be put aside during the festivities in Paris. France and Germany [often disagree](https://www.economist.com/europe/2022/10/27/europe-has-a-problem-france-and-germany-have-forgotten-how-to-argue), only to find a way to resolve their differences. The pair have little option but to keep trying, however difficult it seems right now.
+## Europe’s happy shoppers
 
-## Roe’s would-be 50th anniversary
+In 2022, Europe’s consumers presented economists with a puzzle. Following Russia’s invasion of Ukraine, consumer confidence—measured through surveys on households’ financial situation and their overall economic outlook—tanked. Europeans worried about the war’s impact on the rest of Europe, high energy costs and potential economic hardship. Economic forecasters feared a [recession](https://www.economist.com/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation). 
 
-A different mood will loom over Sunday’s public gatherings for <em>Roe v Wade</em> Day, the 50th anniversary of the Supreme Court decision that established a constitutional right to abortion. Seven justices backed <em>Roe</em> in 1973; last June, five voted to ditch it as “egregiously wrong from the start”. Organisers are pitching Sunday’s rallies as “bigger than <em>Roe</em>” and a fight “for a feminist future”. 
+Yet spending in shops held up fairly well. That was because the labour market remained strong, the post-pandemic spending boom still had legs and governments transferred billions to households to help pay energy bills. Since then, prices for gas, power and fuel have come down to pre-war levels and a severe energy crisis has been [avoided](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck). The release of new data on consumer sentiment on Monday should reflect that and show that Europeans are bullish. The European consumer is not exactly known for pushing the world economy forward, but has nonetheless proved remarkably resilient in this crisis. 
 
-In the past few months, pro-choicers have won several state-level skirmishes over reproductive rights. Six states—including Kansas, Kentucky and Michigan—have held referendum votes that either [solidified abortion rights](https://www.economist.com/united-states/2022/11/11/where-abortion-was-on-the-ballot-americans-voted-to-protect-it) or repelled efforts to undermine them. A new rule from the Food and Drug Administration makes abortion pills easier to acquire in many pharmacies and by mail. Overall, though, the horizon for abortion rights is grim in post-<em>Roe</em> America. Women in at least 13 states who could legally end their pregnancies a year ago now lack that right.
+## Will Vladimir Putin order another mobilisation?
 
-## America’s National Football League holds playoffs
+As the West promises more heavy weapons to Ukraine, rumours abound that Vladimir Putin will soon announce a [second wave](https://www.economist.com/europe/2023/01/16/a-russian-town-counts-the-cost-of-vladimir-putins-war) of mobilisation. Russia has not deployed all of the roughly 300,000 men recruited in the first drive, yet a new call-up would still be needed to sustain another large-scale offensive, which [Ukraine](https://www.economist.com/leaders/2022/12/15/a-looming-russian-offensive) reckons will begin in the spring. The recent appointment of [Valery Gerasimov](https://www.economist.com/the-economist-explains/2023/01/16/who-is-valery-gerasimov-russias-latest-commander-in-ukraine), Russia’s senior general, to take command of the invasion may also signal that a fresh attack is coming. 
 
-This weekend the remaining eight teams in contention for the NFL championship on February 12th will be whittled down to four. For the first time in 13 years, neither the 45-year-old [Tom Brady](https://www.economist.com/graphic-detail/2022/01/07/the-nfls-greatest-player-is-also-its-oldest), whose Tampa Bay Buccaneers lost to the Dallas Cowboys last weekend, nor the 39-year-old Aaron Rodgers, whose Green Bay Packers missed the playoffs, are among the final octet. All eight remaining quarterbacks are in their 20s. Which ones prove as enduring as Mr Brady and Mr Rodgers remains to be seen.
+For the offensive to stand a chance, claims Ukraine, Russia would have to call up half a million more men. That would be politically difficult. The first mobilisation sparked [widespread protests](https://www.economist.com/graphic-detail/2022/09/29/protests-erupt-across-russia) in September; an estimated 700,000-800,000 men fled the country in one month. Families have become only more unsure about sending their loved ones off to war. Mr Putin is committed to his fight. His people will have to consider the costs—not that anyone is asking their opinion. 
 
-The weekend’s most compelling storyline may be in Buffalo, where the Bills face the Cincinnati Bengals for the second time in three weeks. Their last meeting ended without a winner: the game was cancelled when Damar Hamlin collapsed with a stopped heart after taking a helmet to the chest. But with the Bills struggling against the Dolphins last weekend, the Kansas City Chiefs, who have appeared in two of the past three Super Bowls, are the bettors’ clear favourite to win the title.
+## India’s banking boom
 
-## A big-screen adaptation of “Cat Person”
+For years India’s economic growth was hindered by a [rotten banking sector](https://www.economist.com/finance-and-economics/2021/01/30/will-indias-government-act-to-save-its-public-sector-banks), plagued by bad loans and shoddy management. Now that constraint is easing. Banks’ credit growth rose to a ten-year high in December. Earlier in 2022, the share of bad loans fell to a seven-year low. The turnaround is a consequence of several factors. Government reforms to clean up balance-sheets have worked. A popular mobile-payments platform has brought more funds into the banking system. 
 
-Perhaps not since 1948 and “The Lottery”, Shirley Jackson’s tale of ritualised cruelty in an American town, has one of the <em>New Yorker</em>’s short stories attracted so much attention. “Cat Person”, by Kristen Roupenian, became an internet sensation after its publication in 2017. It has now been adapted into a film, which premieres this weekend at the Sundance Film Festival.
+Private banks are flourishing. On Saturday ICICI, the country’s second-biggest private bank, reported a 34% year-on-year increase in profits for the last quarter of 2022. Axis Bank, the third biggest, which reports results on Monday, is expected to post an even bigger increase. A global economic slowdown will hurt momentum, but the central bank is not too worried. It predicts that, in the worst possible scenario this year, Indian banks will remain resilient. In the best case, they will thrive. 
 
-“Cat Person” describes a brief, discomfiting liaison. Margot (Emilia Jones), a 20-year-old student, meets Robert (Nicholas Braun, of “Succession” fame), a 34-year-old man. They flirt, text and go on a date. That evening, despite Margot’s increasing revulsion, they have sex.
+## Art in the desert
 
-Female readers saw it as a distillation of the grim lengths to which women will go to avoid seeming, in Margot’s words, “spoiled and capricious”. Male readers argued that Robert merely followed his date’s lead. The new film will reignite the discussion about the power dynamics of contemporary relationships.
+With its famous undulating roof line, the Canopy Terminal at Jeddah airport is often the first view that pilgrims enjoy when they land in Saudi Arabia for the Hajj. From Monday, it will also be home for three months to the first Islamic Arts Biennale, featuring an indoor exhibition that focuses on <em>qiblah</em> or the “sacred direction” and an open-air show about<em> hijrah</em>, or migration, that began with the journey that the Prophet Muhammad took from Mecca to Medina in 622. Forty-four artists have created works that examine how Islam’s most sacred sites give Muslims around the world a sense of community and belonging.
 
-## Weekend profile: Matteo Messina Denaro, captured mafioso
+Politically, the Biennale is the latest expression of soft power by the crown prince, Muhammad bin Salman, and his cousin, Badr bin Farhan Al-Saud, the culture minister. They are keen to use art to project a gentler image for the kingdom after the murder of Jamal Khashoggi, a journalist, and a huge increase in public executions in 2022.
 
-“Kind, very kind” was how a fellow patient remembered the man she knew as Andrea Bonafede. In a television interview, the woman described how he had befriended her while they were undergoing chemotherapy at the Maddalena hospital in Palermo, Sicily. “Andrea”, whose colon cancer was spreading to his liver, had swapped telephone numbers not just with her but with some of her girlfriends. Then on Monday he was arrested, identified as Italy’s most wanted man, Matteo Messina Denaro, and accused of some of the most appalling crimes in Italy’s recent history. 
+## Daily quiz
 
-Nicknamed <em>U Siccu</em> (the skinny one) and more sinisterly as<em> Diabolik</em>, Mr Messina Denaro was among the Sicilian Mafia bosses who felt themselves so powerful in the early 1990s that they could take on the state. He was a leading ally of the Corleonesi clan, which originated in the market town of Corleone and which wrested control of Cosa Nostra with a campaign of unparalleled savagery. It was he and his friends who planted the bombs that killed the anti-Mafia prosecutors Giovanni Falcone and Paolo Borsellino and who mounted a campaign of terror attacks to try to bend the government of the day to their will.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="49183c20330c3a393b2c3a3a26092c2a26272624203a3d672a2624">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-Mr Messina Denaro had the reputation of a playboy—elegant and with a taste for fast cars and attractive women. Indeed. The police found that “Mr Bonafede’s” watch was worth €35,000 ($37,800). His fellow patient noted that, even in the torrid heat of a Sicilian summer, “Andrea” always arrived at the hospital in a formal, long-sleeved shirt.
-
-For many years it was assumed that he had succeeded the Corleonesi’s leader, [Salvatore Riina](https://www.economist.com/europe/2017/06/08/italy-struggles-to-deal-with-an-aged-godfather), as “Boss of Bosses”. But the latest view is that, while a symbol of the Mafia’s ability to defy the law, he was never more than the kingpin in his native province of Trapani. Still, the significance of Mr Messina Denaro’s arrest is that he was the last of those bosses still at large more than 30 years later. His capture sends a powerful message that the state always wins, eventually.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Victor and Natasha first met and eloped, then broke up for a change (11)
-
-<em>1 across</em> Movie-maker reflected desires (subconscious) (6) 
-
-<em>2 across </em>Wrongdoing, in some books, shows intelligence (5)
-
-<em>3 across </em>Almost change tonality of bird (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>What state-owned firms can arrest, rather than accelerate (11) 
-
-<em>1 across</em> A company celebrating its centenary (6) 
-
-<em>2 across </em>Something transforming how the world witnesses war (5) 
-
-<em>3 across </em>A country that may be on the brink of dictatorship (6) 
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>Corien Kershey,</strong> Ontario, Canada
-
-<strong>Richard H Moore,</strong> Pawleys Island, South Carolina
-
-<strong>Dave Moore,</strong> Fripp Island, South Carolina
-
-They all gave the correct answers of <em>Wild Cherry, Rowan Atkinson, Hazel, John Birch Society </em>and<em> Aspen</em>. The theme is trees: cherry, rowan, hazel, birch and aspen.
+<strong>Monday</strong>: The Blue Grotto is a feature of which resort island in the bay of Naples?
 
 ----------
 
