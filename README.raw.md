@@ -22,9 +22,9 @@ The <strong>gunman</strong> suspected of killing ten people and injuring ten oth
 
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Citadel</strong>, the hedge fund run by Ken Griffin, earned investors $16bn (on assets of $53bn) last year, an industry record. The last time a hedgie reported such juicy profits was in 2007, when John Paulson [cleaned up](https://www.economist.com/business/2009/03/12/the-long-and-the-short) betting against subprime mortgages. Citadel bucked a trend: even including its mammoth return, the top 20 funds made $22.4bn in 2022, the lowest for six years, according to LCH Investments.
+Four members of America’s far-right<strong> Oath Keepers</strong> group were convicted of [seditious conspiracy](https://www.economist.com/united-states/2023/01/19/how-americas-far-right-flits-from-issue-to-issue) for participating in the Capitol riot on January 6th 2021. It is a rare charge, carrying a maximum prison sentence of 20 years. Just 14 of the almost 1,000 people criminally prosecuted for storming the Capitol have been charged with seditious conspiracy. 
 
-<strong>Argentina</strong> and <strong>Brazil </strong>said they would begin preparatory work to develop a common South American currency. In a jointly written article, leaders of both countries said the currency—perhaps called the “sur”—would reduce costs and external vulnerability. According to the <em>Financial Times</em>, the proposal will be discussed at a summit in Argentina this week. It would be the world’s second-biggest currency bloc.
+<strong>Citadel</strong>, the hedge fund run by Ken Griffin, earned investors $16bn (on assets of $53bn) last year, an industry record. The last time a hedgie reported such juicy profits was in 2007, when John Paulson [cleaned up](https://www.economist.com/business/2009/03/12/the-long-and-the-short) betting against subprime mortgages. Citadel bucked a trend: even including its mammoth return, the top 20 funds made $22.4bn in 2022, the lowest for six years, according to LCH Investments.
 
 Luiz Inácio Lula da Silva, Brazil’s new president, accused his predecessor, Jair Bolsonaro, of committing genocide against the <strong>Yanomami people</strong> in the country’s Amazon. He said Mr Bolsonaro’s government had allowed the Yanomami’s protected reservation, home to an estimated 30,000 tribespeople, to be plundered by [gold miners](https://www.economist.com/culture/2022/10/12/richard-mosse-documents-the-hidden-war-in-the-brazilian-amazon), leading to widespread malnutrition and disease. A medical emergency has been declared.
 
@@ -64,7 +64,7 @@ Politically, the Biennale is the latest expression of soft power by the crown pr
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d988acb0a39caaa9abbcaaaab699bcbab6b7b6b4b0aaadf7bab6b4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0455716d7e417774766177776b4461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: The Blue Grotto is a feature of which resort island in the bay of Naples?
 
