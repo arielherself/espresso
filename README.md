@@ -40,9 +40,9 @@ For unknown numbers of Chinese it is a more sombre new year. Official death toll
 
 ## Europe’s happy shoppers
 
-In 2022, Europe’s consumers presented economists with a puzzle. Following Russia’s invasion of Ukraine, consumer confidence—measured through surveys on households’ financial situation and their overall economic outlook—tanked. Europeans worried about the war’s impact on the rest of Europe, high energy costs and potential economic hardship. Economic forecasters feared a [recession](https://te.arielherself.xyz/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation). 
+In 2022, Europe’s consumers presented economists with a puzzle. Following Russia’s invasion of Ukraine, consumer confidence—measured through surveys on households’ financial situation and their overall economic outlook—tanked. Europeans worried about the war’s impact on the rest of Europe, high energy costs and potential economic hardship. Economic forecasters feared a [recession](https://te.arielherself.xyz/finance-and-economics/2022/11/03/even-recession-may-not-bring-down-europes-inflation).
 
-Yet spending in shops held up fairly well. That was because the labour market remained strong, the post-pandemic spending boom still had legs and governments transferred billions to households to help pay energy bills. Since then, prices for gas, power and fuel have come down to pre-war levels and a severe energy crisis has been [avoided](https://te.arielherself.xyz/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck). The release of new data on consumer sentiment on Monday should reflect that and show that Europeans are bullish. The European consumer is not exactly known for pushing the world economy forward, but has nonetheless proved remarkably resilient in this crisis. 
+Yet spending in shops held up fairly well. That was because the labour market remained strong, the post-pandemic spending boom still had legs and governments transferred billions to households to help pay energy bills. Since then, prices for gas, power and fuel have come down to pre-war levels and a severe energy crisis has been [avoided](https://te.arielherself.xyz/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck). On Monday consumer sentiment in the euro area rose to its highest level since last February. The European consumer is not exactly known for pushing the world economy forward, but has nonetheless proved remarkably resilient in this crisis.
 
 ## Will Vladimir Putin order another mobilisation?
 
@@ -64,7 +64,7 @@ Politically, the Biennale is the latest expression of soft power by the crown pr
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="db8aaeb2a19ea8aba9bea8a8b49bbeb8b4b5b4b6b2a8aff5b8b4b6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5a0b2f33201f292a283f2929351a3f393534353733292e74393537">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: The Blue Grotto is a feature of which resort island in the bay of Naples?
 
