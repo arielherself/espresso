@@ -52,9 +52,9 @@ For the offensive to stand a chance, claims Ukraine, Russia would have to call u
 
 ## India’s banking boom
 
-For years India’s economic growth was hindered by a [rotten banking sector](https://www.economist.com/finance-and-economics/2021/01/30/will-indias-government-act-to-save-its-public-sector-banks), plagued by bad loans and shoddy management. Now that constraint is easing. Banks’ credit growth rose to a ten-year high in December. Earlier in 2022, the share of bad loans fell to a seven-year low. The turnaround is a consequence of several factors. Government reforms to clean up balance-sheets have worked. A popular mobile-payments platform has brought more funds into the banking system. 
+For years India’s economic growth was hindered by a [rotten banking sector](https://www.economist.com/finance-and-economics/2021/01/30/will-indias-government-act-to-save-its-public-sector-banks), plagued by bad loans and shoddy management. Now that constraint is easing. Banks’ credit growth rose to a ten-year high in December. Earlier in 2022, the share of bad loans fell to a seven-year low. The turnaround is a consequence of several factors. Government reforms to clean up balance-sheets have worked. A popular mobile-payments platform has brought more funds into the banking system.
 
-Private banks are flourishing. On Saturday ICICI, the country’s second-biggest private bank, reported a 34% year-on-year increase in profits for the last quarter of 2022. Axis Bank, the third biggest, which reports results on Monday, is expected to post an even bigger increase. A global economic slowdown will hurt momentum, but the central bank is not too worried. It predicts that, in the worst possible scenario this year, Indian banks will remain resilient. In the best case, they will thrive. 
+Private banks are flourishing. On Saturday ICICI, the country’s second-biggest private bank, reported a 34% year-on-year increase in profits for the last quarter of 2022. Axis Bank, the third biggest, posted an increase of 62% as it reported results on Monday. A global economic slowdown will hurt momentum, but the central bank is not too worried. It predicts that, in the worst possible scenario this year, Indian banks will remain resilient. In the best case, they will thrive.
 
 ## Art in the desert
 
@@ -64,7 +64,7 @@ Politically, the Biennale is the latest expression of soft power by the crown pr
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="85d4f0ecffc0f6f5f7e0f6f6eac5e0e6eaebeae8ecf6f1abe6eae8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0455716d7e417774766177776b4461676b6a6b696d77702a676b69">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday</strong>: The Blue Grotto is a feature of which resort island in the bay of Naples?
 
