@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>NATO’s secretary-general</strong>, Jens Stoltenberg, said he was “confident” that a solution would “soon” be found to release German-made<strong> Leopard tanks</strong> to Ukraine, after meeting with Boris Pistorius, Germany’s new defence minister, in Berlin. Germany has so far refused to send its own tanks, or [allow other countries to do so](https://te.arielherself.xyz/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks). Earlier Mateusz Morawiecki, <strong>Poland’s</strong> prime minister, said that his country could transfer the tanks without German permission, if other countries joined it.
+<strong>NATO’s secretary-general</strong>, Jens Stoltenberg, said he was “confident” that a solution would “soon” be found to release German-made<strong> Leopard tanks</strong> to Ukraine, after meeting with Boris Pistorius, Germany’s new defence minister, in Berlin. Germany has so far refused to send its own tanks, or [allow other countries to do so](https://te.arielherself.xyz/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks). On Tuesday <strong>Poland </strong>piled more pressure on Germany with a formal request to re-export its own stock to Ukraine. A day earlier its prime minister, Mateusz Morawiecki, warned that his country would send tanks without permission, if other countries joined it.
 
 Seven people were killed in Half Moon Bay, a city in northern <strong>California</strong>, in the state’s second <strong>mass shooting</strong> in three days. Police have arrested the suspected shooter. Earlier the death toll from Sunday’s [mass shooting](https://te.arielherself.xyz/special-report/2022/09/12/how-to-stop-the-killing) in <strong>Monterey Park</strong>, in Los Angeles, rose to 11 after an injured victim died in hospital. Police have not yet disclosed a motive for the attack. The 72-year-old suspect, Huu Can Tran, died after shooting himself in a van.
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2f7e5a46556a5c5f5d4a5c5c406f4a4c40414042465c5b014c4042">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a9f8dcc0d3ecdad9dbccdadac6e9cccac6c7c6c4c0dadd87cac6c4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
