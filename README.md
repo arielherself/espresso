@@ -22,7 +22,7 @@ After six months of [decline](https://te.arielherself.xyz/finance-and-economics/
 
 Listen to an abridged version of the subscriber-only briefing.
 
-Recep Tayyip Erdogan,<strong> Turkey’s </strong>president<strong>,</strong> said <strong>Sweden</strong> should not expect his support in its bid to join <strong>NATO</strong> after recent protests in Stockholm. Last week members of far-right groups burned a Koran in front of Turkey’s embassy in Sweden’s capital. Sweden applied to join NATO last year, but its bid needs the approval of all members, including Turkey.
+Pekka Haavisto, <strong>Finland’s foreign minister</strong>, said discussions with [Turkey](https://te.arielherself.xyz/special-report/2023/01/16/turkey-has-a-newly-confrontational-foreign-policy) about Finland’s and Sweden’s <strong>bid to join NATO </strong>should be paused until the “dust has settled”. The comment came after Recep Tayyip Erdogan,<strong> Turkey’s </strong>president<strong>,</strong> said on Monday that <strong>Sweden</strong> should not expect his support after members of far-right groups burned a Koran in front of Turkey’s embassy in Sweden’s capital last week.
 
 <strong>Burkina Faso </strong>terminated a security pact with <strong>France</strong> that has seen 400 French troops stationed in the west African country to fight [jihadists in the Sahel](https://te.arielherself.xyz/middle-east-and-africa/2022/02/24/west-africas-coastal-states-are-bracing-for-a-jihadist-storm). The government—which [seized power in a coup](https://te.arielherself.xyz/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) in September and has since reportedly cultivated ties with the Wagner Group, a Russian mercenary outfit—gave France’s soldiers a month to pack up. French soldiers left neighbouring Mali last year.
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="86d7f3effcc3f5f6f4e3f5f5e9c6e3e5e9e8e9ebeff5f2a8e5e9eb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b9e8ccd0c3fccac9cbdccacad6f9dcdad6d7d6d4d0cacd97dad6d4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
