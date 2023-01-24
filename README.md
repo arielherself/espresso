@@ -58,13 +58,13 @@ The investigation wrapped up in January. On Tuesday a judge will hear arguments 
 
 ## The many woes of El Salvador
 
-President Nayib Bukele said El Salvador had repaid its creditors &quot;in full&quot; as $604m of bonds matured on Tuesday. Concerns that the South American country might default were alleviated last year when the government secured a $450m loan from the Central American Bank for Economic Integration and executed two bond buybacks. But investors’ confidence in El Salvador remains low. The public debt-to-GDP ratio stands at over 80%. In September Fitch, a ratings agency, downgraded the country’s debt yet again.
+President Nayib Bukele said El Salvador had repaid its creditors &quot;in full&quot; as $604m of bonds matured on Tuesday. Concerns that the Central American country might default were alleviated last year when the government secured a $450m loan from the Central American Bank for Economic Integration and executed two bond buybacks. But investors’ confidence in El Salvador remains low. The public debt-to-GDP ratio stands at over 80%. In September Fitch, a ratings agency, downgraded the country’s debt yet again.
 
 The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional leadership. After making El Salvador the first country in the world in which [bitcoin is legal tender](https://te.arielherself.xyz/the-americas/2022/11/17/el-salvadors-bitcoin-experiment-is-not-paying-off), in September 2021, Mr Bukele started to invest public money in the cryptocurrency. But the government’s portfolio has lost almost half its value since then, a loss worth some $52m. Some of his other policies are expensive, too. A crackdown on gangs has swelled the prison population. And the cost is not just financial: many innocent people have been rounded up.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a9f8dcc0d3ecdad9dbccdadac6e9cccac6c7c6c4c0dadd87cac6c4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d786a2bead92a4a7a5b2a4a4b897b2b4b8b9b8babea4a3f9b4b8ba">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
