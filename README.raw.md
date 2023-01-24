@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Germany </strong>is expected to announce the dispatch of its Leopard <strong>tanks</strong> to Ukraine on Wednesday, following much dithering and pressure from allies. America is similarly poised to send its Abrams tanks, according to a report in the <em>Wall Street Journal</em>. The U-turn, which will also allow Poland and other countries to export their German-made Leopards, comes after NATO talks in Berlin on Tuesday.
+<strong>Germany </strong>is expected to announce the dispatch of its Leopard <strong>tanks</strong> to Ukraine on Wednesday, following much [dithering and pressure from allies](https://www.economist.com/europe/2023/01/22/what-western-armour-gives-ukraine-in-the-next-round-of-the-war). America is similarly poised to send its Abrams tanks, according to a report in the <em>Wall Street Journal</em>. The U-turn, which will also allow Poland and other countries to export their German-made Leopards, comes after NATO talks in Berlin on Tuesday.
 
 <strong>America’s</strong> justice department and eight states, including California and New York, sued <strong>Google</strong>, alleging that it illegally dominates the online-advertising market. They accused the tech giant of preventing publishers and advertisers from transacting over rival ad exchanges, among other anti-competitive practices. The lawsuit—the [second](https://www.economist.com/business/2020/10/21/american-trustbusters-take-on-google) federal antitrust case brought against Google—seeks to force the firm to divest several ad products.
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1746627e6d52646765726464785772747879787a7e64633974787a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
