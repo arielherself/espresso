@@ -32,7 +32,7 @@ Pekka Haavisto, <strong>Finland’s foreign minister</strong>, said discussions 
 
 ----------
 
-## Germany’s agony about tanks
+## Ukraine looks set to get Leopard tanks
 
 The Leopards may soon be set free. After refusing to send its domestically made tanks to Ukraine, or allowing other countries to do so, the government of Olaf Scholz, Germany’s chancellor, is expected to announce a U-turn on January 25th. Mr Scholz resisted for months, deeming the tanks “offensive[ weapons](https://te.arielherself.xyz/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons)” that could lead to escalation with Russia. But leaving a meeting with Germany’s defence minister on Tuesday morning, NATO’s secretary-general said he was “confident” of a forthcoming breakthrough.
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="08597d61724d7b787a6d7b7b67486d6b67666765617b7c266b6765">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
