@@ -22,11 +22,11 @@ After six months of [decline](https://te.arielherself.xyz/finance-and-economics/
 
 Listen to an abridged version of the subscriber-only briefing.
 
+Former senior officials in <strong>Lebanon</strong> were charged with homicide and probable intent linked to the 2020 [Beirut blast](https://te.arielherself.xyz/middle-east-and-africa/2022/08/04/beirut-marks-an-awful-anniversary-with-more-disaster). Among the accused is <strong>Hassan Diab</strong>, who was prime minister at the time and resigned days after the disaster, which killed more than 200 people. Lebanese authorities had stalled the probe for a year.
+
 <strong>Swatch</strong> said it will aim to achieve record sales this year as [China reopens](https://te.arielherself.xyz/leaders/2023/01/05/how-chinas-reopening-will-disrupt-the-world-economy) after a lengthy pandemic lockdown. The region accounts for an estimated 40% of the Swiss watchmaker’s revenue. The company—which also owns a swathe of luxury brands including[ Tissot, Longines and Omega](https://www.businesstimes.com.sg/companies-markets/swatch-upbeat-after-china-ends-zero-covid-policy)—reported an increase of 4.6% in net global sales from the previous year.
 
 Pekka Haavisto, <strong>Finland’s foreign minister</strong>, said discussions with [Turkey](https://te.arielherself.xyz/special-report/2023/01/16/turkey-has-a-newly-confrontational-foreign-policy) about Finland’s and Sweden’s <strong>bid to join NATO </strong>should be paused until the “dust has settled”. The comment came after Recep Tayyip Erdogan,<strong> Turkey’s </strong>president, said on Monday that <strong>Sweden</strong> should not expect his support after members of far-right groups burned a Koran in front of Turkey’s embassy in Sweden’s capital last week.
-
-Seven people were killed in Half Moon Bay, a city in northern <strong>California</strong>, in the state’s second <strong>mass shooting</strong> in three days. Police have arrested the suspected gunman. Earlier the death toll from Sunday’s [mass shooting](https://te.arielherself.xyz/special-report/2022/09/12/how-to-stop-the-killing) in <strong>Monterey Park</strong>, in Los Angeles, rose to 11 after an injured victim died in hospital. In both attacks, the victims were Asian-American.
 
 <strong>Fact of the day</strong>: 467,000, the number of working days British employers lost to strikes in November, the highest in over a decade. [Read the full story](https://te.arielherself.xyz/britain/2023/01/19/britains-trade-unions-lose-faith-in-the-pay-review-bodies).
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="9fceeaf6e5daecefedfaececf0dffafcf0f1f0f2f6ecebb1fcf0f2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c190b4a8bb84b2b1b3a4b2b2ae81a4a2aeafaeaca8b2b5efa2aeac">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
