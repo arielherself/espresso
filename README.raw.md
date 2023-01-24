@@ -24,9 +24,9 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Former senior officials in <strong>Lebanon</strong> were charged with homicide and probable intent linked to the 2020 [Beirut blast](https://www.economist.com/middle-east-and-africa/2022/08/04/beirut-marks-an-awful-anniversary-with-more-disaster). Among the accused is <strong>Hassan Diab</strong>, who was prime minister at the time and resigned days after the disaster, which killed more than 200 people. Lebanese authorities had stalled the probe for a year.
 
-After six months of [decline](https://www.economist.com/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be), business activity in the <strong>euro zone’s manufacturing and service sectors</strong> unexpectedly ticked up in January, according to S&amp;P Global, a financial-information provider. Good economic health provided a glimmer of hope that the region could escape recession, as lower energy prices and China’s reopening also bolster prospects for the global economy.
-
 Pekka Haavisto, <strong>Finland’s foreign minister</strong>, said discussions with [Turkey](https://www.economist.com/special-report/2023/01/16/turkey-has-a-newly-confrontational-foreign-policy) about Finland’s and Sweden’s <strong>bid to join NATO </strong>should be paused until the “dust has settled”. The comment came after Recep Tayyip Erdogan,<strong> Turkey’s </strong>president<strong>,</strong> said on Monday that <strong>Sweden</strong> should not expect his support after members of far-right groups burned a Koran in front of Turkey’s embassy in Sweden’s capital last week. 
+
+“Everything Everywhere All At Once”, a maximalist metaverse action-comedy, led the <strong>Academy Awards</strong> nominations with 11 nods. Behind it were “[The Banshees of Inisherin](https://www.economist.com/culture/2022/11/23/the-best-films-of-2022)” and Netflix’s “All Quiet on the Western Front”, with nine each. Three Asian actors from “Everything Everywhere” were nominated, as was Hong Chau for “The Whale”, setting a yearly record for actors of Asian descent. The ceremony is on March 12th.
 
 <strong>Fact of the day</strong>: 467,000, the number of working days British employers lost to strikes in November, the highest in over a decade. [Read the full story](https://www.economist.com/britain/2023/01/19/britains-trade-unions-lose-faith-in-the-pay-review-bodies).
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b6e7c3dfccf3c5c6c4d3c5c5d9f6d3d5d9d8d9dbdfc5c298d5d9db">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
