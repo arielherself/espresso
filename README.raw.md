@@ -34,9 +34,9 @@ Pekka Haavisto, <strong>Finland’s foreign minister</strong>, said discussions 
 
 ## Germany’s agony about tanks
 
-The NATO secretary-general, Jens Stoltenberg, left a meeting with Germany’s new defence minister, Boris Pistorius, on Tuesday morning on a hopeful note. Germany has [refused thus far](https://www.economist.com/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks) to send its Leopard tanks, deeming them “offensive [weapons](https://www.economist.com/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons)” that could lead to escalation with Russia; it also has not allowed other countries to donate their German-made Leopards. Mr Stoltenberg said he was “confident” of a forthcoming breakthrough.
+The Leopards may soon be set free. After refusing to send its domestically made tanks to Ukraine, or allowing other countries to do so, the government of Olaf Scholz, Germany’s chancellor, is expected to announce a U-turn on January 25th. Mr Scholz resisted for months, deeming the tanks “offensive[ weapons](https://www.economist.com/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons)” that could lead to escalation with Russia. But leaving a meeting with Germany’s defence minister on Tuesday morning, NATO’s secretary-general said he was “confident” of a forthcoming breakthrough.
 
-Flagellated by allies at home and abroad, the government of Olaf Scholz, Germany&#x27;s chancellor, has started moving. Last week his officials said sending Leopards would depend on America supplying Abrams tanks. Then Mr Pistorius said other countries could start training Ukrainian crews on the Leopards pending deliberations in Germany. Now Annalena Baerbock, the foreign minister, says allies such as Poland could potentially send Leopards. In the end, surely, Mr Scholz will release some tanks—but not before [wasting every opportunity](https://www.economist.com/europe/2022/04/23/why-olaf-scholz-hesitates-to-send-ukraine-heavy-weapons) for Germany to lead Europe.
+Such optimism was not misplaced. Last week Mr Scholz’s officials said sending Leopards would depend on America supplying Abrams tanks. Germany appears to have got its way: reports suggest that Joe Biden’s administration is poised to send Abrams tanks to Ukraine. Mr Scholz seems to have come around at last—but not before[ wasting every opportunity](https://www.economist.com/europe/2022/04/23/why-olaf-scholz-hesitates-to-send-ukraine-heavy-weapons) for Germany to lead Europe.
 
 ## European v American inflation
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0c5d796576497f7c7e697f7f634c696f63626361657f78226f6361">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2273574b58675152504751514d6247414d4c4d4f4b51560c414d4f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
