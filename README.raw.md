@@ -16,17 +16,17 @@
 
 <strong>Poland </strong>piled more pressure on Germany with a formal request to export its [German-made Leopard tanks](https://www.economist.com/europe/2023/01/20/a-meeting-in-germany-approves-more-arms-for-ukraine-but-no-leopard-tanks) to Ukraine. The German government said it would respond to the appeal with the “required urgency”; the Bundestag will debate the issue of sending tanks on Wednesday. Following talks in Berlin, <strong>NATO’s secretary-general</strong>, Jens Stoltenberg, said he was “confident” that a solution would be found “soon”.
 
+Documents with classified markings from <strong>Mike Pence’s</strong> tenure as vice-president in the Trump administration were found at his Indiana home. His aides conducted the search last week, after news broke of President Joe Biden’s <strong>documents scandal</strong>. Mr Pence had been “unaware” of their presence, said his lawyer. American prosecutors are [investigating](https://www.economist.com/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) both Donald Trump and Mr Biden for similar offences.
+
 After six months of [decline](https://www.economist.com/finance-and-economics/2022/08/31/europe-is-heading-for-recession-how-bad-will-it-be), business activity in the <strong>euro zone’s manufacturing and service sectors</strong> unexpectedly ticked up in January, according to S&amp;P Global, a financial-information provider. Good economic health provided a glimmer of hope that the region could escape recession, as lower energy prices and China’s reopening also bolster prospects for the global economy.
 
-<strong>Swatch</strong> said it will aim to achieve record sales this year as [China reopens](https://www.economist.com/leaders/2023/01/05/how-chinas-reopening-will-disrupt-the-world-economy) after a lengthy pandemic lockdown. The region accounts for an estimated 40% of the Swiss watchmaker’s revenue. The company—which also owns a swathe of luxury brands including[ Tissot, Longines and Omega](https://www.businesstimes.com.sg/companies-markets/swatch-upbeat-after-china-ends-zero-covid-policy)—reported an increase of 4.6% in net global sales from the previous year.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+<strong>Swatch</strong> said it will aim to achieve record sales this year as [China reopens](https://www.economist.com/leaders/2023/01/05/how-chinas-reopening-will-disrupt-the-world-economy) after a lengthy pandemic lockdown. The region accounts for an estimated 40% of the Swiss watchmaker’s revenue. The company—which also owns a swathe of luxury brands including[ Tissot, Longines and Omega](https://www.businesstimes.com.sg/companies-markets/swatch-upbeat-after-china-ends-zero-covid-policy)—reported an increase of 4.6% in net global sales from the previous year.
 
 Pekka Haavisto, <strong>Finland’s foreign minister</strong>, said discussions with [Turkey](https://www.economist.com/special-report/2023/01/16/turkey-has-a-newly-confrontational-foreign-policy) about Finland’s and Sweden’s <strong>bid to join NATO </strong>should be paused until the “dust has settled”. The comment came after Recep Tayyip Erdogan,<strong> Turkey’s </strong>president, said on Monday that <strong>Sweden</strong> should not expect his support after members of far-right groups burned a Koran in front of Turkey’s embassy in Sweden’s capital last week.
 
 Seven people were killed in Half Moon Bay, a city in northern <strong>California</strong>, in the state’s second <strong>mass shooting</strong> in three days. Police have arrested the suspected gunman. Earlier the death toll from Sunday’s [mass shooting](https://www.economist.com/special-report/2022/09/12/how-to-stop-the-killing) in <strong>Monterey Park</strong>, in Los Angeles, rose to 11 after an injured victim died in hospital. In both attacks, the victims were Asian-American.
-
-For the first time since the Stone Age, <strong>Comet C/2022 E3</strong> will pass Earth. The exotic green comet orbits the sun every 50,000 years and is now visible to the naked eye in the northern hemisphere. Next week it will reach its closest point to Earth, a mere 27m miles away, as it heads back to the Oort cloud at the edge of the solar system.
 
 <strong>Fact of the day</strong>: 467,000, the number of working days British employers lost to strikes in November, the highest in over a decade. [Read the full story](https://www.economist.com/britain/2023/01/19/britains-trade-unions-lose-faith-in-the-pay-review-bodies).
 
@@ -64,7 +64,7 @@ The uncertainty is thanks almost entirely to Mr Bukele&#x27;s unconventional lea
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="9fceeaf6e5daecefedfaececf0dffafcf0f1f0f2f6ecebb1fcf0f2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What name for a gentle breeze derives from that of a Greek god?
 
