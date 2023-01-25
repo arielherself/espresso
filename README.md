@@ -24,7 +24,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>ASML</strong>, a Dutch manufacturer of [chipmaking equipment](https://te.arielherself.xyz/business/2020/02/29/how-asml-became-chipmakings-biggest-monopoly), beat expectations with fourth-quarter earnings of €1.8bn ($2bn) and predicted sales growth of more than 25% this year. [Europe’s largest technology company](https://te.arielherself.xyz/business/in-the-global-chips-arms-race-europe-makes-its-move/21807603) has been subject to curbs on exports to China, but demand elsewhere in the world is making up for it—ASML had a record backlog of €40bn in orders by the end of 2022.
 
-<strong>Rupert Murdoch</strong> abandoned plans to reunite his two media companies, Fox Corporation and News Corporation. Shareholders had objected to the proposal, arguing that a <strong>merger</strong> would mask the value of News Corp, which owns the <em>Wall Street Journal</em> and The <em>Times</em>. (Fox Corp owns Fox News and other TV stations.) Mr Murdoch [split the companies](https://te.arielherself.xyz/business/2013/06/22/murdoch-20) in 2013.
+<strong>Rupert Murdoch</strong> abandoned plans to reunite his two media companies, Fox Corporation and News Corporation. Shareholders had objected to the proposal, arguing that a <strong>merger</strong> would mask the value of News Corp, which owns the <em>Wall Street Journal</em> and the <em>Times</em>. (Fox Corp owns Fox News and other TV stations.) Mr Murdoch [split the companies](https://te.arielherself.xyz/business/2013/06/22/murdoch-20) in 2013.
 
 Authorities in <strong>North Korea</strong> ordered a five-day lockdown in Pyongyang amid rising cases of an unspecified respiratory illness. Residents in the capital were told to stay at home and check their temperatures regularly, in the first city-wide lockdown in eight months. North Korea acknowledged an [outbreak of covid-19 last year](https://te.arielherself.xyz/asia/2022/05/14/north-korea-admits-it-has-an-outbreak-of-covid-19), but declared victory over the virus in August.
 
@@ -66,7 +66,7 @@ Russia says the separatist [mini-state in eastern Ukraine](https://te.arielherse
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4a1b3f23300f393a382f3939250a2f292524252723393e64292527">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b8e9cdd1c2fdcbc8caddcbcbd7f8dddbd7d6d7d5d1cbcc96dbd7d5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which kids TV show featured International Rescue, an organisation run by the Tracy family?
 
