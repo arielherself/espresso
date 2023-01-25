@@ -14,19 +14,19 @@
 
 The Biden administration said it will send 31 <strong>Abrams tanks</strong> to <strong>Ukraine</strong>, following Germany’s decision to dispatch 14 of its <strong>Leopard tanks</strong>. President Joe Biden announced a $400m package that will also include eight M88 recovery vehicles, which can tow the Abrams. Germany’s [move](https://www.economist.com/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine)—taken after much dithering—allows Poland and other countries to export their German-made Leopards.
 
+<strong>Meta</strong> said it would soon restore <strong>Donald Trump’s</strong> Facebook and Instagram accounts, two years after suspending him from the social-media platforms for stoking the Capitol riot on January 6th 2021. His risk to public safety has “sufficiently receded”, said the firm. Lawyers for America’s former president—who is [mounting a third run for office](https://www.economist.com/united-states/2022/11/16/of-course-donald-trump-is-running-again)—had lobbied for his reinstatement: Facebook has previously been a valuable fundraising tool.
+
 A court in Moscow upheld an order from <strong>Russia’s justice ministry</strong> to dissolve the <strong>Moscow Helsinki Group</strong> in the government’s continued [crackdown on civil society](https://www.economist.com/europe/2022/01/01/memorial-a-seminal-human-rights-group-in-russia). Judges said that the humanitarian group had violated legal requirements by operating outside its geographical remit. Originally set up to monitor Soviet abuses in 1976, it is Russia’s oldest human-rights organisation.
 
 <strong>Tesla</strong> reported a quarterly net income of $3.7bn, up by 59% year over year. Revenues rose by 37% from the same period a year ago, to $24.3bn. The electric-car company recorded a gross margin of 25.9%—[down from the past few quarters](https://www.economist.com/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm) but still the envy of the auto industry. That will help it absorb recently announced price cuts.
 
-The <strong>Bank of Canada </strong>signalled that it would become the first major central bank to stop hiking interest rates. After inflation slowed from 8.1% in June to 6.3% in December, it raised interest rates by a quarter of a percentage point, to 4.5%, their highest level since 2008. The bank’s governor said it would implement a “conditional pause” on further hikes.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+The <strong>Bank of Canada </strong>signalled that it would become the first major central bank to stop hiking interest rates. After inflation slowed from 8.1% in June to 6.3% in December, it raised interest rates by a quarter of a percentage point, to 4.5%, their highest level since 2008. The bank’s governor said it would implement a “conditional pause” on further hikes.
 
 Shares in <strong>Adani Group</strong>, a multinational conglomerate that underpins swathes of India’s economy, were hit by a scathing [report](https://www.economist.com/business/2021/06/19/a-strange-news-report-briefly-rattles-the-adani-group) by Hindenburg Research, an investment firm. The group was accused of market manipulation and accounting fraud; its chief financial officer called the claims “baseless”. Shares in the flagship Adani Enterprises dropped by 3.7% at their lowest point on Wednesday.
 
 <strong>ASML</strong>, a Dutch manufacturer of [chipmaking equipment](https://www.economist.com/business/2020/02/29/how-asml-became-chipmakings-biggest-monopoly), beat expectations with fourth-quarter earnings of €1.8bn ($2bn) and predicted sales growth of more than 25% this year. [Europe’s largest technology company](https://www.economist.com/business/in-the-global-chips-arms-race-europe-makes-its-move/21807603) has been subject to curbs on exports to China, but demand elsewhere in the world is making up for it—ASML had a record backlog of €40bn in orders by the end of 2022.
-
-Authorities in <strong>North Korea</strong> ordered a five-day lockdown in Pyongyang amid rising cases of an unspecified respiratory illness. Residents in the capital were told to stay at home and check their temperatures regularly, in the first city-wide lockdown in eight months. North Korea acknowledged an [outbreak of covid-19 last year](https://www.economist.com/asia/2022/05/14/north-korea-admits-it-has-an-outbreak-of-covid-19), but declared victory over the virus in August.
 
 <strong>Fact of the day</strong>: 67%, the average adult literacy rate in sub-Saharan Africa, according to UNESCO, the UN’s cultural agency. [Read the full story.](https://www.economist.com/middle-east-and-africa/2023/01/19/why-zimbabwes-schools-have-taken-to-selling-chickens)
 
@@ -66,7 +66,7 @@ Russia says the separatist [mini-state in eastern Ukraine](https://www.economist
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6f3e1a06152a1c1f1d0a1c1c002f0a0c00010002061c1b410c0002">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3a6b4f53407f494a485f4949557a5f595554555753494e14595557">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which kids TV show featured International Rescue, an organisation run by the Tracy family?
 
