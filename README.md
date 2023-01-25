@@ -16,7 +16,7 @@ The Biden administration said it will send 31 <strong>Abrams tanks</strong> to <
 
 A court in Moscow upheld an order from <strong>Russia’s justice ministry</strong> to dissolve the <strong>Moscow Helsinki Group</strong> in the government’s continued [crackdown on civil society](https://te.arielherself.xyz/europe/2022/01/01/memorial-a-seminal-human-rights-group-in-russia). Judges said that the humanitarian group had violated legal requirements by operating outside its geographical remit. Originally set up to monitor Soviet abuses in 1976, it is Russia’s oldest human-rights organisation.
 
-<strong>Canada’s central bank</strong> signalled it would pause subsequent interest-rate hikes, the first major central bank to do so. In what the bank hopes will be its final increase, it raised [interest rates](https://te.arielherself.xyz/finance-and-economics/2022/11/10/interest-rates-have-risen-sharply-but-is-monetary-policy-truly-tight) by 0.25 percentage points to their highest level since 2008. Inflation has slowed from 8.1% in June to 6.3% in December.
+The <strong>Bank of Canada </strong>signalled that it would become the first major central bank to stop hiking interest rates. After inflation slowed from 8.1% in June to 6.3% in December, it raised interest rates by a quarter of a percentage point, to 4.5%, their highest level since 2008. The bank’s governor said it would implement a “conditional pause” on further hikes.
 
 Shares in <strong>Adani Group</strong>, a multinational conglomerate that underpins swathes of India’s economy, were hit by a scathing [report](https://te.arielherself.xyz/business/2021/06/19/a-strange-news-report-briefly-rattles-the-adani-group) by Hindenburg Research, an investment firm. The group was accused of market manipulation and accounting fraud; its chief financial officer called the claims “baseless”. Shares in the flagship Adani Enterprises dropped by 3.7% at their lowest point on Wednesday.
 
@@ -66,7 +66,7 @@ Russia says the separatist [mini-state in eastern Ukraine](https://te.arielherse
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="faab8f9380bf898a889f898995ba9f999594959793898ed4999597">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="80d1f5e9fac5f3f0f2e5f3f3efc0e5e3efeeefede9f3f4aee3efed">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which kids TV show featured International Rescue, an organisation run by the Tracy family?
 
