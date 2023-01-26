@@ -16,7 +16,7 @@
 
 <strong>America’s economy</strong> slowed slightly to an annual growth rate of 2.9% in the fourth quarter of 2022, down from 3.2% in the third quarter, according to early figures from the US Commerce Department. The world’s biggest economy beat market expectations despite rising interest rates eroding business activity—but a [recession](https://www.economist.com/leaders/2023/01/26/the-world-economys-inflation-problem-is-easing) in the second half of the year still looks likely.
 
-Sayfullo Saipov, an Islamist extremist who killed eight people driving a truck on a <strong>Manhattan</strong> bike path in 2017, was convicted of 28 federal charges. He could face the <strong>death penalty</strong>, a rare consideration in New York. America’s attorney-general issued a [moratorium](https://www.economist.com/united-states/2021/01/21/use-of-the-death-penalty-in-america-may-be-ending) on federal executions, but allowed prosecutors to seek the death penalty in this case. 
+Sayfullo Saipov, an Islamist extremist who [killed](https://www.economist.com/united-states/2017/11/02/new-york-is-attacked-again-but-remains-remarkably-safe) eight people driving a truck on a <strong>Manhattan</strong> bike path in 2017, was convicted of 28 federal charges. He could face the <strong>death penalty</strong>, a rare consideration in New York. America’s attorney-general issued a [moratorium](https://www.economist.com/united-states/2021/01/21/use-of-the-death-penalty-in-america-may-be-ending) on federal executions, but allowed prosecutors to seek the death penalty in this case. 
 
 <strong>Russia</strong> outlawed one of the largest independent Russian-language news websites, <strong>Meduza</strong>, as part of the government’s media crackdown. Prosecutors said the site, which has been critical of the war in Ukraine, was “undesirable” and a threat to the country’s security. Meduza was established [in Latvia](https://www.economist.com/graphic-detail/2022/03/10/russians-are-trying-to-escape-online-censorship) in 2014; it was blocked by Russia in March but continued to post on Telegram, where it has more than 1.2m subscribers.
 
@@ -64,7 +64,7 @@ But Mr Khan also has his detractors. Many Hindu nationalists [resent the Muslim 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="613014081b241211130412120e2104020e0f0e0c0812154f020e0c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c392b6aab986b0b3b1a6b0b0ac83a6a0acadacaeaab0b7eda0acae">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Zodiac sign covers those people born between April 20th and May 20th?
 
