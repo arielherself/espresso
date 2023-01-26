@@ -34,7 +34,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 ## America’s economy stays strong (for now)
 
-The American economy seems to have ended 2022 on a high note. Early figures published on Thursday showed that GDP in the final three months of the year expanded at an annualised rate of about 2.9%, slightly higher than economists&#x27; expectations. That marks America’s second straight quarter of robust growth, [defying predictions of a recession](https://www.economist.com/the-world-ahead/2022/11/18/the-american-economy-is-set-for-a-downturn-not-a-crisis)—at least for now. A rebound in consumption and resilient non-housing investment were probably the main drivers of the performance.
+The American economy ended 2022 on a high note. Early figures published on Thursday showed that GDP in the final three months of the year expanded at an annualised rate of about 2.9%, slightly higher than economists&#x27; expectations. That marks America’s second straight quarter of robust growth, [defying predictions of a recession](https://www.economist.com/the-world-ahead/2022/11/18/the-american-economy-is-set-for-a-downturn-not-a-crisis)—at least for now. A big contribution from exports and a build-up of inventories were the main drivers of the performance.
 
 Yet this could prove to be America’s last strong GDP reading for a while. The Federal Reserve’s [aggressive tightening](https://www.economist.com/finance-and-economics/2022/11/02/the-fed-delivers-another-jumbo-rate-rise-and-its-far-from-done) is beginning to make its impact felt. The housing market has gone cold, which will depress investment levels in the coming months. Higher interest rates are also crimping consumers’ ability to borrow, which in turn is weighing on retail sales. GDP data is, by its nature, backward-looking. Forward-looking indicators are much less rosy.
 
@@ -64,7 +64,7 @@ But Mr Khan also has his detractors. Many Hindu nationalists [resent the Muslim 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2776524e5d62545755425454486742444849484a4e54530944484a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5b0a2e32211e282b293e2828341b3e383435343632282f75383436">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Zodiac sign covers those people born between April 20th and May 20th?
 
