@@ -18,7 +18,7 @@
 
 <strong>France</strong> recalled its ambassador to <strong>Burkina Faso</strong> a day after agreeing to withdraw troops from the country. 400 French troops were fighting an ongoing [Islamist insurgency](https://te.arielherself.xyz/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso), but Burkina Faso’s government says it wants to defend itself. France has also fallen out with other African allies—after more than nine years in 2022 its [soldiers left neighbouring Mali](https://te.arielherself.xyz/graphic-detail/2022/08/19/france-has-withdrawn-its-final-troops-from-mali) without having completed their mission.
 
-Opium production in <strong>Myanmar</strong> jumped to a nine-year high, reversing a downward trend, according to the UN. Production has roughly doubled from the previous year, when [the military junta](https://te.arielherself.xyz/asia/2023/01/12/myanmars-generals-are-deeply-superstitious) seized power, to nearly 795 metric tonnes in 2022. Opium poppy cultivation increased by a third, while the potential yield rose by 88%. Myanmar’s civil war and covid pandemic have put its [frail economy](https://te.arielherself.xyz/asia/2022/09/15/an-economically-illiterate-junta-is-running-myanmar-into-the-ground) in a tailspin.
+Opium production in <strong>Myanmar</strong> jumped to a nine-year high, reversing a downward trend, according to the UN. Production has roughly doubled from the previous year, when [the military junta](https://te.arielherself.xyz/asia/2023/01/12/myanmars-generals-are-deeply-superstitious) seized power, to nearly 795 tonnes in 2022. Opium poppy cultivation increased by a third, while the potential yield rose by 88%. Myanmar’s civil war and covid pandemic have put its [frail economy](https://te.arielherself.xyz/asia/2022/09/15/an-economically-illiterate-junta-is-running-myanmar-into-the-ground) in a tailspin.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Meta</strong> said it would soon restore <strong>Donald Trump’s</strong> Facebook and Instagram accounts, two years after suspending him from the social-media platforms for stoking the Capitol riot on January 6th 2021. His risk to public safety has “sufficiently receded”, said the firm. Lawyers for America’s former president—who is [mounting a fourth run for office](https://te.arielherself.xyz/united-states/2022/11/16/of-course-donald-trump-is-running-again)—had lobbied for his reinstatement: Facebook has previously been a valuable fundraising tool.
 
-<strong>Amsterdam</strong>, where 36% of all journeys are [by bike](https://te.arielherself.xyz/international/2020/05/31/how-lockdown-converted-the-world-to-cycling-and-the-speedbumps-that-lie-ahead), has long suffered from messy cycle parking taking up pedestrian spaces. The Dutch city is now encouraging them to store away bikes underwater. On Thursday it opened a bike garage capable of holding 7,000 bikes under its central station. The project cost €60m ($65.3m).
+<strong>Amsterdam</strong>, where 36% of all journeys are [by bike](https://te.arielherself.xyz/international/2020/05/31/how-lockdown-converted-the-world-to-cycling-and-the-speedbumps-that-lie-ahead), has long suffered from messy cycle parking taking up pedestrian spaces. The Dutch city is now encouraging cyclists to store away bikes underwater. On Thursday it opened a bike garage capable of holding 7,000 bikes under its central station. The project cost €60m ($65.3m).
 
 <strong>Fact of the day:</strong> 12%, the proportion of Afghan women who said females are treated “with respect and dignity” in their country. [Read the full story](https://te.arielherself.xyz/asia/2023/01/19/a-murder-in-afghanistan-highlights-the-misery-of-women). 
 
@@ -64,7 +64,7 @@ But Mr Khan also has his detractors. Many Hindu nationalists [resent the Muslim 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4415312d3e013734362137372b0421272b2a2b292d37306a272b29">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="28795d41526d5b585a4d5b5b47684d4b47464745415b5c064b4745">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>Which Zodiac sign covers those people born between April 20th and May 20th?
 
