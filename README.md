@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 Sayfullo Saipov, an Islamist extremist who [killed](https://te.arielherself.xyz/united-states/2017/11/02/new-york-is-attacked-again-but-remains-remarkably-safe) eight people when he drove a truck onto a <strong>Manhattan</strong> bike path in 2017, was convicted of 28 federal charges. He could face the <strong>death penalty</strong>, a rare consideration in New York. America’s attorney-general issued a [moratorium](https://te.arielherself.xyz/united-states/2021/01/21/use-of-the-death-penalty-in-america-may-be-ending) on federal executions in 2021, but allowed prosecutors to seek the death penalty in this case.
 
-<strong>Hasbro</strong>, an American toymaker, said it would axe around 15% of its workforce, about 1,000 staff. Demand for its consumer products, which include Dungeon &amp; Dragons and Peppa Pig, slumped over the holiday period, even as its gaming division grew. The firm reported preliminary sales of $5.9bn in 2022, down by 9% compared with the year before.
+<strong>Hong Kong</strong> labelled <strong>cannabidiol</strong> (CBD) “a dangerous drug” and banned it from next Wednesday. CBD, a non-psychoactive cannabis compound that has shown promise in [reducing anxiety and pain](https://te.arielherself.xyz/asia/2022/06/16/elderly-japanese-are-discovering-the-benefits-of-cannabis-products), is currently available in bars and shops. Trafficking and manufacturing CBD can carry a maximum penalty of life imprisonment and a HK$5m ($639,000) fine; possession will be also be punished.
 
 <strong>Fact of the day:</strong> 775,014, the number of cars that emerged from British factories in 2022, the worst year since 1956. [Read the full story](https://te.arielherself.xyz/britain/2023/01/24/britains-carmaking-industry-is-increasingly-under-threat).
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e1b094889ba49291938492928ea184828e8f8e8c889295cf828e8c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0253776b78477172706771716d4267616d6c6d6f6b71762c616d6f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
