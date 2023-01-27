@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Gautam Adani</strong>, India’s richest man, began selling $2.4bn-worth of shares in ​​Adani Enterprises, his sprawling conglomerate, despite an attack by a short-seller. Hindenburg Research [accuses](https://te.arielherself.xyz/business/2023/01/26/hindenburgs-critique-of-the-adani-empire) the wider Adani Group of dodgy accounting practices that it says artificially inflated the share price—a charge the group vigorously denies. India’s opposition Congress party has called for an investigation into the alleged corporate fraud. The mud seemed to be sticking: Adani Enterprises’ share price dropped by 17% on Friday; Adani Total Gas’s sank by 20%.
-
 At least seven people were killed by a <strong>Palestinian</strong> gunman at a synagogue in east <strong>Jerusalem</strong>. On Thursday <strong>Israeli</strong> troops killed nine Palestinians during a [military raid](https://te.arielherself.xyz/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) on Jenin refugee camp in the occupied West Bank, the deadliest raid in the camp in years. Israeli forces said they were targeting Islamist militants.
+
+<strong>Gautam Adani</strong>, India’s richest man, began selling $2.4bn-worth of shares in ​​Adani Enterprises, his sprawling conglomerate, despite an attack by a short-seller. Hindenburg Research [accuses](https://te.arielherself.xyz/business/2023/01/26/hindenburgs-critique-of-the-adani-empire) the wider Adani Group of dodgy accounting practices that it says artificially inflated the share price—a charge the group vigorously denies. India’s opposition Congress party has called for an investigation into the alleged corporate fraud. The mud seemed to be sticking: Adani Enterprises’ share price dropped by 17% on Friday; Adani Total Gas’s sank by 20%.
 
 <strong>President Joe Biden</strong> named <strong>Jeff Zients</strong> to replace Ron Klain as the White House chief of staff. The businessman—who co-owns a popular bagel chain in Washington, DC—co-ordinated the Biden administration’s covid response. The reshuffle comes at a delicate moment: Mr Biden is under fire for his [handling of classified documents](https://te.arielherself.xyz/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) as his party gears up for a presidential re-election [campaign](https://te.arielherself.xyz/films/2022/11/16/donald-trump-announces-2024-presidential-bid) next year.
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="bbeaced2c1fec8cbc9dec8c8d4fbded8d4d5d4d6d2c8cf95d8d4d6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="29785c40536c5a595b4c5a5a46694c4a46474644405a5d074a4644">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
