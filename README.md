@@ -52,7 +52,7 @@ Ms McDaniel will probably win. But the contest has emboldened her detractors. Mi
 
 ## Fighting femicides in Spain
 
-On Friday Spanish government officials will meet domestic-violence experts to discuss a worrying increase in [femicides](https://te.arielherself.xyz/the-americas/2020/03/05/why-latin-america-treats-femicides-differently-from-other-murders)—murders of women because of their sex. There have been six in January, as well as the killing of an eight-year-old girl, following 11 in December. (Since records began in 2003, the annual average has been 59.) The government is reportedly considering allowing authorities to inform abused women if their partners have previous convictions for violent crimes.
+On Friday Spanish government officials met domestic-violence experts to discuss a worrying increase in [femicides](https://te.arielherself.xyz/the-americas/2020/03/05/why-latin-america-treats-femicides-differently-from-other-murders)—murders of women because of their sex. There have been six in January, as well as the killing of an eight-year-old girl, following 11 in December. (Since records began in 2003, the annual average has been 59.) The government is reportedly considering allowing authorities to inform abused women if their partners have previous convictions for violent crimes.
 
 The country has made strides to protect women since 2016, when a court ruled that a woman’s lack of physical resistance to the five men who raped her meant that the crime was not violent and therefore merely “sexual abuse” (the Supreme Court later [found the men](https://te.arielherself.xyz/europe/2022/09/01/spain-acts-to-protect-women) guilty of rape). In 2020 the country recorded proportionately fewer cases of femicide than several of its neighbours, including France and Germany. And unlike other countries, Spain counts any murder of a woman by a man, where gender is deemed to have played a role, as femicide.
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3a6b4f53407f494a485f4949557a5f595554555753494e14595557">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
