@@ -14,7 +14,7 @@
 
 At least seven people were killed by a <strong>Palestinian</strong> gunman at a synagogue in east <strong>Jerusalem</strong>. On Thursday <strong>Israeli</strong> troops killed nine Palestinians during a [military raid](https://www.economist.com/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) on Jenin refugee camp in the occupied West Bank, the deadliest raid in the camp in years. Israeli forces said they were targeting Islamist militants.
 
-<strong>Gautam Adani</strong>, India’s richest man, began selling $2.4bn-worth of shares in ​​Adani Enterprises, his sprawling conglomerate, despite an attack by a short-seller. Hindenburg Research [accuses](https://www.economist.com/business/2023/01/26/hindenburgs-critique-of-the-adani-empire) the wider Adani Group of dodgy accounting practices that it says artificially inflated the share price—a charge the group vigorously denies. India’s opposition Congress party has called for an investigation into the alleged corporate fraud. The mud seemed to be sticking: Adani Enterprises’ share price dropped by 17% on Friday; Adani Total Gas’s sank by 20%.
+More than $50bn was wiped from the value of <strong>Gautam Adani’s</strong> conglomerate days after Hindenburg Research, a short-seller, [accused it of fraud](https://www.economist.com/business/2023/01/26/hindenburgs-critique-of-the-adani-empire). The share price of Adani Enterprises—the flagship in the empire of India’s richest man—plunged by 17%. Nevertheless the firm proceeded with a share auction, in which it aims to raise $2.5bn. It called Hindenburg’s report “maliciously mischievous”.
 
 David Solomon, chief executive of <strong>Goldman Sachs</strong>, received $25m in compensation last year, down by nearly 30% from 2021. His pay cut came amid [stumbles by the investment bank](https://www.economist.com/leaders/2023/01/26/the-humbling-of-goldman-sachs), including an ill-fated foray into consumer lending, and a dealmaking drought that has hit profits. The bosses of JPMorgan Chase and Morgan Stanley each made north of $30m last year.
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1b4a6e72615e686b697e6868745b7e787475747672686f35787476">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
