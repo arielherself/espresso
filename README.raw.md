@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Britain’s chancellor,</strong> Jeremy Hunt, outlined his long-term plan to boost economic growth. He said the government will delay tax cuts until it has curbed inflation, which ran at 9.2% in December. [Britain’s government](https://www.economist.com/britain/2023/01/23/rishi-sunaks-hapless-government) faces criticism for overseeing soaring living costs and industrial sluggishness, including a collapse in [British carmaking](https://www.economist.com/britain/2023/01/24/britains-carmaking-industry-is-increasingly-under-threat). Mr Hunt rejected “declinism” and said Britain could become the next Silicon Valley.
 
-<strong>Hong Kong</strong> labelled <strong>cannabidiol</strong> (CBD) “a dangerous drug” and banned it from next Wednesday. CBD, a non-psychoactive cannabis compound that has shown promise in [reducing anxiety and pain](https://www.economist.com/asia/2022/06/16/elderly-japanese-are-discovering-the-benefits-of-cannabis-products), is currently available in bars and shops. Trafficking and manufacturing CBD can carry a maximum penalty of life imprisonment and a HK$5m ($639,000) fine; possession will be also be punished.
+<strong>Hong Kong</strong> labelled <strong>cannabidiol</strong> (CBD) “a dangerous drug” and banned it from next Wednesday. CBD, a non-psychoactive cannabis compound that has shown promise in [reducing anxiety and pain](https://www.economist.com/asia/2022/06/16/elderly-japanese-are-discovering-the-benefits-of-cannabis-products), is currently available in bars and shops. Trafficking and manufacturing CBD can carry a maximum penalty of life imprisonment and a HK$5m ($639,000) fine; possession will also be punished.
 
 <strong>Fact of the day:</strong> 775,014, the number of cars that emerged from British factories in 2022, the worst year since 1956. [Read the full story](https://www.economist.com/britain/2023/01/24/britains-carmaking-industry-is-increasingly-under-threat).
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7627031f0c33050604130505193613151918191b1f05025815191b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="207155495a655350524553534f6045434f4e4f4d4953540e434f4d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
