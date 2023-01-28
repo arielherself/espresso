@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-At least seven people were shot dead by a <strong>Palestinian</strong> gunman at a synagogue in east <strong>Jerusalem</strong>. The shooter was killed by the police. On Thursday <strong>Israeli</strong> troops killed nine Palestinians during a [military raid](https://www.economist.com/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) on Jenin refugee camp in the occupied West Bank, the deadliest raid in the camp in years. Israeli forces said they were targeting Islamist militants.
+A <strong>Palestinian</strong> gunman shot at least seven people dead at a synagogue in east <strong>Jerusalem</strong>. The shooter was killed by the police. On Thursday <strong>Israeli</strong> troops killed nine Palestinians during a [military raid](https://www.economist.com/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) on Jenin refugee camp in the occupied West Bank, the deadliest raid in the camp in years. Israeli forces said they were targeting Islamist militants.
 
 The Memphis Police Department released four videos of <strong>Tyre Nichols</strong>, a black man, being beaten by officers during a traffic stop on January 7th. Mr Nichols died from his injuries three days later. The five officers involved have been fired and charged with second-degree murder. Protests are underway in the Tennessee city and several others around America.
 
@@ -26,7 +26,7 @@ Listen to an abridged version of the subscriber-only briefing.
 
 <strong>Ukrainian soldiers</strong> arrived in <strong>Germany</strong> and will soon start training on 40 Marder fighting vehicles that Berlin pledged to Ukraine. The preparation begins days after Olaf Scholz, Germany’s chancellor, promised—after much dithering—to send German-made [Leopard 2 tanks](https://www.economist.com/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) to fight Russia. The West has stepped up its [military support](https://www.economist.com/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) for Ukraine in anticipation of an upcoming Russian offensive.
 
-<strong>Hong Kong</strong> labelled <strong>cannabidiol</strong> (CBD) “a dangerous drug” and banned it. CBD, a non-psychoactive cannabis compound that has shown promise in [reducing anxiety and pain](https://www.economist.com/asia/2022/06/16/elderly-japanese-are-discovering-the-benefits-of-cannabis-products), is currently available in bars and shops. From next Wednesday trafficking and manufacturing CBD can carry a maximum penalty of life imprisonment and a HK$5m ($639,000) fine; possession will also be punished.
+<strong>Hong Kong</strong> labelled <strong>cannabidiol</strong> (CBD) “a dangerous drug” and banned it. CBD, a non-psychoactive cannabis compound that has shown promise in [reducing anxiety and pain](https://www.economist.com/asia/2022/06/16/elderly-japanese-are-discovering-the-benefits-of-cannabis-products), is currently available in bars and shops. From Wednesday trafficking and manufacturing CBD can carry a maximum penalty of life imprisonment and a HK$5m ($639,000) fine; possession will also be punished.
 
 <strong>Fact of the day:</strong> 775,014, the number of cars that emerged from British factories in 2022, the worst year since 1956. [Read the full story](https://www.economist.com/britain/2023/01/24/britains-carmaking-industry-is-increasingly-under-threat).
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d988acb0a39caaa9abbcaaaab699bcbab6b7b6b4b0aaadf7bab6b4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2c7d594556695f5c5e495f5f436c494f43424341455f58024f4341">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
