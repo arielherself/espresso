@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-A <strong>Palestinian</strong> gunman shot at least seven people dead at a synagogue in east <strong>Jerusalem</strong>. The shooter was killed by the police. On Thursday <strong>Israeli</strong> troops killed nine Palestinians during a [military raid](https://te.arielherself.xyz/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) on Jenin refugee camp in the occupied West Bank, the deadliest raid in the camp in years. Israeli forces said they were targeting Islamist militants.
+A <strong>Palestinian</strong> gunman shot at least seven people dead at a synagogue in east <strong>Jerusalem</strong>. The shooter was killed by the police. Forty-two people were later arrested, including members of the gunman’s family. On Thursday <strong>Israeli</strong> troops killed nine Palestinians during a [military raid](https://te.arielherself.xyz/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) on Jenin refugee camp in the occupied West Bank, the deadliest raid in the camp in years. Israeli forces said they were targeting Islamist militants.
 
 The Memphis Police Department released four videos of <strong>Tyre Nichols</strong>, a black man, being beaten by officers during a traffic stop on January 7th. Mr Nichols died from his injuries three days later. The five officers involved have been fired and charged with second-degree murder. Protests have taken place in the Tennessee city and several others around America.
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7223071b08370102001701011d3217111d1c1d1f1b01065c111d1f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6a3b1f03102f191a180f1919052a0f090504050703191e44090507">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
