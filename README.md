@@ -16,17 +16,17 @@ A <strong>Palestinian</strong> gunman shot at least seven people dead at a synag
 
 The Memphis Police Department released four videos of <strong>Tyre Nichols</strong>, a black man, being beaten by officers during a traffic stop on January 7th. Mr Nichols died from his injuries three days later. The five officers involved have been fired and charged with second-degree murder. Protests are underway in the Tennessee city and several others around America.
 
-More than $50bn was wiped from the value of <strong>Gautam Adani’s</strong> conglomerate days after Hindenburg Research, a short-seller, [accused it of fraud](https://te.arielherself.xyz/business/2023/01/26/hindenburgs-critique-of-the-adani-empire). The share price of Adani Enterprises—the flagship in the empire of India’s richest man—plunged by 17%. Nevertheless the firm proceeded with a share auction, in which it aims to raise $2.5bn. It called Hindenburg’s report “maliciously mischievous”.
-
 David Solomon, chief executive of <strong>Goldman Sachs</strong>, received $25m in compensation last year, down by nearly 30% from 2021. His pay cut came amid [stumbles by the investment bank](https://te.arielherself.xyz/leaders/2023/01/26/the-humbling-of-goldman-sachs), including an ill-fated foray into consumer lending, and a dealmaking drought that has hit profits. The bosses of JPMorgan Chase and Morgan Stanley each made north of $30m last year.
 
+More than $50bn was wiped from the value of <strong>Gautam Adani’s</strong> conglomerate days after Hindenburg Research, a short-seller, [accused it of fraud](https://te.arielherself.xyz/business/2023/01/26/hindenburgs-critique-of-the-adani-empire). The share price of Adani Enterprises—the flagship in the empire of India’s richest man—plunged by 17%. Nevertheless the firm proceeded with a share auction, in which it aims to raise $2.5bn. It called Hindenburg’s report “maliciously mischievous”.
+
 Listen to an abridged version of the subscriber-only briefing.
+
+The second round of <strong>Czech Republic’s</strong> third direct presidential election entered its second and final day on Sunday. Voters must choose either Andrej Babis, an oligarch and former prime minister, and Petr Pavel, a retired general, as their largely ceremonial head of state. A [first round](https://te.arielherself.xyz/europe/2023/01/17/the-next-czech-president-will-be-a-trumpish-oligarch-or-a-general), held between eight candidates on January 13th and 14th, failed to produce a clear winner.
 
 <strong>President Joe Biden</strong> selected <strong>Jeff Zients</strong> to replace Ron Klain as the White House chief of staff. The businessman—who co-owns a popular bagel chain in Washington, DC—co-ordinated the Biden administration’s covid-19 response. The reshuffle comes at a delicate moment: Mr Biden is under fire for his [handling of classified documents](https://te.arielherself.xyz/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) as he gears up for a presidential re-election [campaign](https://te.arielherself.xyz/films/2022/11/16/donald-trump-announces-2024-presidential-bid) next year.
 
 <strong>Ukrainian soldiers</strong> arrived in <strong>Germany</strong> and will soon start training on 40 Marder fighting vehicles pledged to Ukraine. The preparation begins days after Olaf Scholz, Germany’s chancellor, promised—after much dithering—to send German-made [Leopard 2 tanks](https://te.arielherself.xyz/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) to fight Russia. The West has stepped up its [military support](https://te.arielherself.xyz/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) for Ukraine in anticipation of an upcoming Russian offensive.
-
-<strong>Hong Kong</strong> labelled <strong>cannabidiol</strong> (CBD) “a dangerous drug” and banned it. CBD, a non-psychoactive cannabis compound that has shown promise in [reducing anxiety and pain](https://te.arielherself.xyz/asia/2022/06/16/elderly-japanese-are-discovering-the-benefits-of-cannabis-products), is currently available in bars and shops. From Wednesday trafficking and manufacturing CBD can carry a maximum penalty of life imprisonment and a HK$5m ($639,000) fine; possession will also be punished.
 
 <strong>Fact of the day:</strong> 775,014, the number of cars that emerged from British factories in 2022, the worst year since 1956. [Read the full story](https://te.arielherself.xyz/britain/2023/01/24/britains-carmaking-industry-is-increasingly-under-threat).
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7425011d0e310704061107071b3411171b1a1b191d07005a171b19">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="dd8ca8b4a798aeadafb8aeaeb29db8beb2b3b2b0b4aea9f3beb2b0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
