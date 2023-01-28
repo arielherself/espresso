@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Binyamin Netanyahu</strong>, Israel’s [prime minister](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court), promised a “strong, swift and precise” response to a shooting in <strong>Jerusalem </strong>on Saturday. A 13-year-old Palestinian boy shot and wounded two Israelis. The region has suffered a deadly string of attacks this week. On Friday seven people were killed at a synagogue on the outskirts of Jerusalem. On Thursday Israeli troops killed nine Palestinians during a raid on Jenin refugee camp in the West Bank.
+<strong>Binyamin Netanyahu</strong>, Israel’s [prime minister](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court), promised a “strong, swift and precise” response to a shooting near a synagogue in <strong>Jerusalem </strong>that killed seven people on Friday. The past few days have seen a series of lethal attacks. On Saturday a 13-year-old Palestinian boy shot and wounded two Israelis. And on Thursday Israeli troops killed nine Palestinians during a raid on Jenin refugee camp in the West Bank.
 
 Protests were held across <strong>America </strong>after the Memphis Police Department released videos showing officers fatally beating <strong>Tyre Nichols</strong>, an unarmed black man. Mr Nichols was repeatedly kicked and punched during a traffic stop on January 7th. He died from his injuries three days later. The five officers involved have been sacked and charged with second-degree murder. 
 
