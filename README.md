@@ -14,11 +14,11 @@
 
 At least seven people were shot dead by a <strong>Palestinian</strong> gunman at a synagogue in east <strong>Jerusalem</strong>. The shooter was killed by the police. On Thursday <strong>Israeli</strong> troops killed nine Palestinians during a [military raid](https://te.arielherself.xyz/middle-east-and-africa/2022/05/14/shireen-abu-aqleh-was-killed-covering-an-israeli-raid) on Jenin refugee camp in the occupied West Bank, the deadliest raid in the camp in years. Israeli forces said they were targeting Islamist militants.
 
+The Memphis Police Department released four videos of <strong>Tyre Nichols</strong>, a black man, being beaten by officers during a traffic stop on January 7th. Mr Nichols died from his injuries three days later. The five officers involved have been fired and charged with second-degree murder. Protests are underway in the Tennessee city and several others around America.
+
 More than $50bn was wiped from the value of <strong>Gautam Adani’s</strong> conglomerate days after Hindenburg Research, a short-seller, [accused it of fraud](https://te.arielherself.xyz/business/2023/01/26/hindenburgs-critique-of-the-adani-empire). The share price of Adani Enterprises—the flagship in the empire of India’s richest man—plunged by 17%. Nevertheless the firm proceeded with a share auction, in which it aims to raise $2.5bn. It called Hindenburg’s report “maliciously mischievous”.
 
 David Solomon, chief executive of <strong>Goldman Sachs</strong>, received $25m in compensation last year, down by nearly 30% from 2021. His pay cut came amid [stumbles by the investment bank](https://te.arielherself.xyz/leaders/2023/01/26/the-humbling-of-goldman-sachs), including an ill-fated foray into consumer lending, and a dealmaking drought that has hit profits. The bosses of JPMorgan Chase and Morgan Stanley each made north of $30m last year.
-
-The Memphis Police Department released four videos of <strong>Tyre Nichols</strong>, a black man, being beaten by officers during a traffic stop. Mr Nichols died from his injuries three days later. The five officers involved have been fired and charged with second-degree murder. Protests are underway in the Tennessee city, and others around the country are preparing for the possibility of demonstrations.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ Now the controversy will be streamed in a six-part series produced by Oprah Winf
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d382a6baa996a0a3a1b6a0a0bc93b6b0bcbdbcbebaa0a7fdb0bcbe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d988acb0a39caaa9abbcaaaab699bcbab6b7b6b4b0aaadf7bab6b4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
 
