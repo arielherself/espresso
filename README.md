@@ -16,7 +16,7 @@ A <strong>Palestinian</strong> gunman shot at least seven people dead at a synag
 
 The Memphis Police Department released four videos of <strong>Tyre Nichols</strong>, a black man, being beaten by officers during a traffic stop on January 7th. Mr Nichols died from his injuries three days later. The five officers involved have been fired and charged with second-degree murder. Protests have taken place in the Tennessee city and several others around America.
 
-David Solomon, chief executive of <strong>Goldman Sachs</strong>, received $25m in compensation last year, down by nearly 30% from 2021. His pay cut came amid [stumbles by the investment bank](https://te.arielherself.xyz/leaders/2023/01/26/the-humbling-of-goldman-sachs), including an ill-fated foray into consumer lending, and a dealmaking drought that has hit profits. The bosses of JPMorgan Chase and Morgan Stanley each made north of $30m last year.
+Japan and the Netherlands reached a deal with <strong>America </strong>to limit exports of [chipmaking](https://te.arielherself.xyz/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching) tools to <strong>China </strong>as the White House seeks to restrict China’s ability to develop advanced <strong>semiconductors</strong> and [bolster](https://te.arielherself.xyz/united-states/2022/07/29/america-takes-on-china-with-a-giant-microchips-bill) its own chip industry. Dutch and Japanese support is essential: ASML, Nikon and Tokyo Electron are leading manufacturers of chipmaking kit.
 
 More than $50bn was wiped from the value of <strong>Gautam Adani’s</strong> conglomerate days after Hindenburg Research, a short-seller, [accused it of fraud](https://te.arielherself.xyz/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire). The share price of Adani Enterprises—the flagship in the empire of India’s richest man—plunged by 17%. Nevertheless the firm proceeded with a share auction, in which it aims to raise $2.5bn. It called Hindenburg’s report “maliciously mischievous”.
 
@@ -26,61 +26,87 @@ The second round of the <strong>Czech Republic’s</strong> presidential electio
 
 <strong>Peru’s</strong> congress refused to bring the country’s presidential elections forward to December 2023, despite a plea from the incumbent, Dina Boluarte. Peru has been [gripped by almost daily protests](https://te.arielherself.xyz/the-americas/2023/01/19/perus-political-chaos-looks-likely-to-persist) demanding her resignation since she took office after a bungled coup attempt by her predecessor, Pedro Castillo, in early December. Forty-seven people have been killed in clashes between demonstrators and security forces.
 
-<strong>Ukrainian soldiers</strong> arrived in <strong>Germany</strong> and will soon start training on 40 Marder fighting vehicles pledged to Ukraine. The preparation begins days after Olaf Scholz, Germany’s chancellor, promised—after much dithering—to send German-made [Leopard 2 tanks](https://te.arielherself.xyz/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) to fight Russia. The West has stepped up its [military support](https://te.arielherself.xyz/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) for Ukraine in anticipation of an upcoming Russian offensive.
+David Solomon, chief executive of <strong>Goldman Sachs</strong>, received $25m in compensation last year, down by nearly 30% from 2021. His pay cut came amid [stumbles by the investment bank](https://te.arielherself.xyz/leaders/2023/01/26/the-humbling-of-goldman-sachs), including an ill-fated foray into consumer lending, and a dealmaking drought that has hit profits. The bosses of JPMorgan Chase and Morgan Stanley each made north of $30m last year.
 
-<strong>Fact of the day:</strong> 775,014, the number of cars that emerged from British factories in 2022, the worst year since 1956. [Read the full story](https://te.arielherself.xyz/britain/2023/01/24/britains-carmaking-industry-is-increasingly-under-threat).
+<strong>Word of the week: </strong><em>Blat</em>, Russian for an “economy of favours”, meaning one based on contacts, cunning and petty bribery. [Read the full story](https://te.arielherself.xyz/britain/2023/01/26/blat-the-soviet-art-of-getting-by-comes-to-britain).
 
 ----------
 
-## Disney marks its centenary
+## The Trump campaign begins again
 
-The happiest place on earth will be even jollier on Friday, as celebrations begin at Disneyland for the company’s [100th birthday](https://te.arielherself.xyz/briefing/2023/01/19/as-disney-turns-100-its-business-is-on-a-rollercoaster-ride). Disney’s first century has been a triumph: today the studio rules the worldwide box office, it has more streaming subscriptions than any of its competitors, and its theme parks are once again bustling now lockdowns have been lifted.
+Donald Trump will be in South Carolina on Saturday trying to stabilise his 2024 presidential bid after a rocky start. The former president announced his comeback campaign days after his party endured a humiliating setback in the midterm elections. Since then he has been plagued by scandal, including one over his dinner with a white nationalist. The growing appeal of rivals such as [Ron DeSantis](https://te.arielherself.xyz/united-states/2022/11/09/the-rise-of-ron-desanctimonious), the governor of Florida, has left Mr Trump’s grip on the Republican Party in question. 
 
-But its boardroom is less cheery. Fewer people watch films in the cinema and cable-TV, Disney’s main source of profit, is being replaced by streaming. Plus, despite all those subscribers to its streaming service, Disney is losing more than $1bn a quarter. In November the company fired its chief executive. His replacement, [Bob Iger](https://te.arielherself.xyz/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script), now faces a challenge from Nelson Peltz, an activist investor who wants a board seat. Mr Iger, who previously ran Disney from 2005 to 2020, has been given two years to steady the ship and find a successor. Disney’s second century is starting with a bumpy ride.
+Saturday’s event will not be one of the epic rallies he is known for, but a staid address at the statehouse for an audience of 500. It is proving difficult for the campaign to muster Republican grandees to appear behind Mr Trump because so many are holding their endorsements until other challengers arrive. That suggests that the king’s return may be a prelude not to a happy coronation but a bloody civil war.
 
-## A Modi documentary reverberates in India
+## In search of gas, Italy looks to Libya
 
-In recent days India’s ruling Bharatiya Janata Party and its leader Narendra Modi have provided a textbook example of the [Streisand effect](https://te.arielherself.xyz/the-economist-explains/2013/04/15/what-is-the-streisand-effect). That occurs when attempts to suppress something—in this case a controversial documentary—draw more attention to it. When “The Modi Question”, a BBC production, aired last week, the BJP immediately dismissed it as a “propaganda piece” for its account of the riots that killed more than 1,000 people, mainly Muslims, in Gujarat when Mr Modi was the state’s chief minister in 2002. The [Hindu nationalist party](https://te.arielherself.xyz/asia/2022/07/28/indias-hindu-nationalist-ruling-party-preaches-social-inclusion) then invoked an emergency law to ban the video on the internet.
+On Saturday Libya’s National Oil Corporation will sign a giant gas deal with Eni, Italy’s oil major. The $8bn agreement—part of a broader plan by [Giorgia Meloni](https://te.arielherself.xyz/europe/2023/01/26/after-a-steady-first-100-days-choppier-waters-await-giorgia-meloni), Italy’s prime minister, to strengthen energy ties with Africa—will allow Eni to develop two of Libya’s offshore gasfields. NOC says the sites could ultimately produce a total of 24m cubic metres of gas a day, about an eighth of what Italy currently consumes. 
 
-Twitter and YouTube have complied by taking down videos, but clips continue to proliferate on social-media channels. Activists and students have planned more screenings, even though some have been arrested. Media watchdogs have condemned the BJP’s heavy-handed response, which raises more questions about the commitment to democracy of the party and its leader.
+By reducing its gas exports to Europe, Russia has triggered a [hunt for alternative supplies](https://te.arielherself.xyz/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets). In 2022 the EU inked gas deals with Azerbaijan, Egypt and Israel, among others. Many countries in the bloc are pursuing agreements on their own. This one, though, looks trickier than most. Political instability and civil war have long prevented Libya from capitalising on its vast natural-energy reserves. Two rival factions still claim control of the country. The eastern-based parliament says the government in Tripoli, the capital, lacks the legitimacy to sign anything.
 
-## The race for the Republican Party executive
+## Stumble at the Royal Rumble
 
-On Friday the Republican National Committee chose its chair, who is responsible for fundraising and party messaging. The election was preceded by two days of old-fashioned politicking at the lavish waterfront Waldorf Astoria hotel in Dana Point, California. For the first time since 2013, the race was contested. The incumbent, Ronna McDaniel, faced a stiff challenge from Harmeet Dhillon, a conservative lawyer, before ultimately winning her fourth-term bid.
+Every January since 1988, World Wrestling Entertainment has gathered its elite wrestlers together for its Royal Rumble. Unlike other wrestling events, competitors enter the ring at fixed times rather than all at the start. The lycra-clad hall of fame includes Hulk Hogan, Shawn Michaels, “Stone Cold” Steve Austin and The Rock, who have each come out on top over the years.
 
-The contest emboldened Ms McDaniel’s detractors. Mike Lindell, a conspiracy theory-oriented businessman who also ran, has counted the “failures” of her leadership: the 2018 midterm elections, when Republicans lost the House of Representatives; the 2020 presidential election; the [2022 midterms](https://te.arielherself.xyz/united-states/2022/11/09/the-democrats-have-done-better-than-expected); and two [run-off](https://te.arielherself.xyz/united-states/2021/01/09/two-stunning-victories-for-democrats-in-georgia-upend-the-senate) Senate races. Ms McDaniel’s [ties to Donald Trump](https://te.arielherself.xyz/briefing/2022/08/18/donald-trumps-hold-on-the-republican-party-is-unquestionable) have alienated Never-Trumpers, while more insurgent types called for an organisational overhaul. But at a moment when the word “Republican” frequently precedes “division”, her message—of “unity and certainty”—proved sufficient to get her over the line.
+This year’s event, held in San Antonio, Texas, on Saturday, also comes with plenty of drama outside the ring. Vince McMahon retired as WWE’s chief executive last year after an internal investigation found that he had paid $15m to settle sexual misconduct allegations by four women. However, he returned to the board of directors this month and has hired JPMorgan to explore selling WWE. With a market capitalisation of $6.3bn, the world’s largest [wrestling institution](https://te.arielherself.xyz/united-states/2019/04/13/donald-trump-is-a-pro-wrestler-masquerading-as-commander-in-chief) has bidders circling. Decades after it was founded, its [scripted theatrics](https://te.arielherself.xyz/united-states/2021/07/08/how-wrestling-conspiracy-theories-and-politics-overlap-in-america) continue to keep fans enthralled.
 
-## Fighting femicides in Spain
+## Psychotherapy on screen
 
-On Friday Spanish government officials met domestic-violence experts to discuss a worrying increase in [femicides](https://te.arielherself.xyz/the-americas/2020/03/05/why-latin-america-treats-femicides-differently-from-other-murders)—murders of women because of their sex. There have been six in January, as well as the killing of an eight-year-old girl, following 11 in December. (Since records began in 2003, the annual average has been 59.) The government is reportedly considering allowing authorities to inform abused women if their partners have previous convictions for violent crimes.
+Jimmy Laird, the protagonist of “Shrinking”, a new series from Apple TV+, is a very bad therapist. Grieving for his dead wife and stupefied by drinking, drugs and self-pity, he ditches the guiding rules of his profession and decides to become a “psychological vigilante”. He tells one patient to leave her husband or he will stop treating her, and invites another to live in his spare room.
 
-The country has made strides to protect women since 2016, when a court ruled that a woman’s lack of physical resistance to the five men who raped her meant that the crime was not violent and therefore merely “sexual abuse” (the Supreme Court later [found the men](https://te.arielherself.xyz/europe/2022/09/01/spain-acts-to-protect-women) guilty of rape). In 2020 the country recorded proportionately fewer cases of femicide than several of its neighbours, including France and Germany. And unlike other countries, Spain counts any murder of a woman by a man, where gender is deemed to have played a role, as femicide.
+The number of Americans who report having been [treated for mental health](https://te.arielherself.xyz/leaders/2019/03/14/most-mental-health-problems-are-untreated-trained-laypeople-can-help) has almost doubled since 2002. That explains why portrayals of therapy are proliferating on screen, in shows such as “The Patient”, “Couples Therapy” and “Stutz”. Though few therapists want to be seen as vigilantes, they will understand the need for a compelling narrative arc. More concerning in their eyes would be to suggest that treatment makes no difference.
 
-## The 1619 Project sparks more debate
+## Weekend Profile: Olga Tsukanova, Russian anti-mobilisation activist
 
-The culture wars are coming to Hulu. In 2019, the <em>New York Times </em>magazine released a controversial set of essays that put slavery and the [black American experience](https://te.arielherself.xyz/united-states/2021/07/10/americas-history-wars) at the centre of the country’s founding and development. The 1619 Project divided opinion: it won a Pulitzer prize for commentary in 2020 while being denounced by some historians for factual inaccuracies. Several school districts, such as Chicago, embraced it as a curriculum for pupils; elsewhere whole states, such as Florida, have banned it, favouring more traditional views of American history.
+Last weekend Olga Tsukanova was heading to Moscow from her home in Samara, near the border with Kazakhstan, to deliver 700 letters written by disgruntled mothers of Russian soldiers to the prosecutor’s office. But at an airport in Samara she was detained, not for the first time, and warned she may be charged with “discrediting the army”. Ms Tsukanova has become the face of protests against Vladimir Putin’s mobilisation of Russian troops, though she is also uncomfortably close to peddlers of conspiracies about the war. 
 
-Now the controversy will be streamed in a six-part series produced by Oprah Winfrey and Nikole Hannah-Jones, the project’s creator, among others. Each episode adapts an essay from the collection to show how slavery impacts the present day. So far reviews have been mixed. Some praise it as innovative; others say it falls short of some more original documentaries about the black experience.
+Ms Tsukanova is a 46-year-old mother who says her son, who joined the army in July, faced pressure to deploy to Ukraine despite earlier assurances that he would not have to. (An official says her son is serving inside Russia.) 
 
-## Daily quiz
+After Mr Putin announced a “[partial mobilisation](https://te.arielherself.xyz/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation)” of recruits in September, Ms Tsukanova formed the Council of Mothers and Wives, which campaigns for better conditions for troops. Russian authorities have tolerated some criticism of the army’s incompetence in Ukraine. But there is little room for dissent in Mr Putin’s Russia: the government [stifled](https://te.arielherself.xyz/1843/2021/05/02/ive-mortally-offended-putin-by-surviving-why-alexei-navalny-keeps-fighting) opposition even before the invasion last February. Ms Tsukanova’s organisation has become a vehicle for broader [anger over the military mobilisation](https://te.arielherself.xyz/graphic-detail/2022/09/29/protests-erupt-across-russia)—a stance that avoids a blatant anti-war message, but puts authorities in an awkward position. 
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4514302c3f003635372036362a0520262a2b2a282c36316b262a28">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+To shut down the group would look bad, and Mr Putin clearly recognises the symbolic power of a soldier’s mother. In November he convened a televised meeting of women the Kremlin said were mothers of troops serving in Ukraine (all were sympathetic to the government). Ms Tsukanova rebuked Mr Putin for excluding her. The next month she was stopped by police. “They are afraid of us,” she declared.
 
-<strong>Friday: </strong>Which Italian ski resort was the site of the 1956 Winter Olympics?
+This is not Ms Tsukanova’s first foray into politics. She once stood as a candidate for Volya, a party that was later banned. Its leader, Svetlana Lada-Rus, is a spiritual healer and noted conspiracy theorist who once ran for president of Russia. Now Ms Tsukanova’s activism is complicated by her ties to another organisation affiliated with Ms Lada-Rus. The National Union of the Revival of Russia calls for the restoration of the Soviet Union and peddles anti-Semitic lies about the war’s origins. Ms Tsukanova’s council distributes that group’s conspiracy theories about covid-19 vaccines.
 
-<strong>Thursday: </strong>Which Zodiac sign covers those people born between April 20th and May 20th?
+To confront Mr Putin’s regime, you must be either courageous or crazy. Ms Tsukanova may be both.
 
-## The winners of last week’s crossword
+## Weekly crossword
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist.</em>
 
-<strong>Xiaochen Su</strong>, Chiba, Japan
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://te.arielherself.xyz/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
-<strong>Ramón Azpúrua-Núñez</strong>, Caracas, Venezuela
+<strong>Cryptic clues</strong>
 
-<strong>Denise Dias</strong>, Madrid, Spain
+<em>1 down </em>Bank initially gets 500 million in dodgy cash loans (7, 5)
 
-They all gave the correct answers of [development](https://te.arielherself.xyz/leaders/2023/01/19/south-africas-collapsing-railway-company-is-a-cautionary-tale), [Disney](https://te.arielherself.xyz/leaders/2023/01/19/disneys-troubles-show-how-technology-has-changed-the-business-of-culture), [OSINT](https://te.arielherself.xyz/leaders/2023/01/18/how-spies-soldiers-and-the-public-should-use-open-source-intelligence) and [Turkey](https://te.arielherself.xyz/leaders/2023/01/19/turkey-could-be-on-the-brink-of-dictatorship). Check back tomorrow for this week’s crossword.
+<em>1 across</em> Country’s former currency (6)
+
+<em>2 across </em>Tycoon is man trapped by technology (5)
+
+<em>3 across </em>Old communist angrily votes “aye”, we’re told (6)
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>Business once described as a “great vampire squid” (7, 5)
+
+<em>1 across</em> A source of bauxite (6)
+
+<em>2 across </em>Someone rapidly slipping down the world’s rich list (5)
+
+<em>3 across </em>Union with a flourishing “second economy” (6)
+
+## Quiz winners
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+<strong>Alastair Brockie, </strong>Stirling, Scotland
+
+<strong>Remzi Silvia Mustafa</strong>, Krakow, Poland
+
+<strong>Vincent H. Resh</strong>, El Cerrito, United States
+
+They all gave the correct answers of <em>Capri</em>, <em>zephyr</em>, <em>Thunderbirds</em>, <em>Taurus</em> and <em>Cortina d’Ampezzo</em>. The theme is they are, or were, Ford car models.
 
 ----------
 
