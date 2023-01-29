@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-01-28</p>
+# <p align="center">The world in brief 2023-01-29</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -14,7 +14,7 @@
 
 <strong>Binyamin Netanyahu</strong>, Israel’s [prime minister](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court), promised a “strong, swift and precise” response to a shooting near a synagogue in <strong>Jerusalem </strong>that killed seven people on Friday. The past few days have seen a series of lethal attacks. On Saturday a 13-year-old Palestinian boy shot and wounded two Israelis. And on Thursday Israeli troops killed nine Palestinians during a raid on Jenin refugee camp in the West Bank.
 
-Protests were held across <strong>America </strong>after the Memphis Police Department released videos showing officers fatally beating <strong>Tyre Nichols</strong>, an unarmed black man. Mr Nichols was repeatedly kicked and punched during a traffic stop on January 7th. He died from his injuries three days later. The five officers involved have been sacked and charged with second-degree murder. 
+The <strong>Memphis Police Department</strong> disbanded its Scorpion unit after five of its officers were tied to the death of <strong>Tyre Nichols</strong>, an unarmed black man. The unit was a specialised group tasked with patrolling crime hotspots. Video footage showed Mr Nichols being beaten during a traffic stop on January 7th. He died three days later. The officers involved have been sacked and charged with second-degree murder.
 
 <strong>Petr Pavel</strong>, a retired general, won the second round of the <strong>Czech Republic’s</strong> presidential election, beating Andrej Babis, an oligarch and former prime minister. With nearly all ballots counted, Mr Pavel had more than 58% of the vote. The country’s [presidency](https://te.arielherself.xyz/europe/2023/01/17/the-next-czech-president-will-be-a-trumpish-oligarch-or-a-general) is a largely ceremonial position, but Mr Pavel has been a strong supporter of NATO and providing aid for Ukraine. 
 
