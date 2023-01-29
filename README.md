@@ -12,21 +12,21 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+[Rishi Sunak](https://te.arielherself.xyz/britain/2023/01/23/rishi-sunaks-hapless-government), <strong>Britain’s</strong> prime minister, sacked <strong>Nadhim Zahawi</strong>, the chairman of the governing Conservative Party, for “a serious breach of the ministerial code”. Mr Zahawi, briefly chancellor of the exchequer last year, had admitted reaching a settlement with the authorities over previously unpaid tax—reportedly amounting to about £5m ($6.2m), including a penalty. He had described the error as “careless and not deliberate”.
+
 <strong>Binyamin Netanyahu</strong>, Israel’s [prime minister](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court), promised to “take steps to strengthen settlement” and “exact a price from terrorists” after seven people were shot dead near a synagogue in <strong>Jerusalem </strong>on Friday. Several lethal incidents have occurred in the past few days. On Thursday Israeli troops killed nine Palestinians during a raid on Jenin refugee camp in the West Bank. And on Saturday a 13-year-old Palestinian boy shot and wounded two Israelis.
 
 The <strong>Memphis Police Department</strong> disbanded its Scorpion unit after five of its officers were tied to the death of <strong>Tyre Nichols</strong>, an unarmed black man. The unit was a specialised group tasked with patrolling crime hotspots. Video footage showed Mr Nichols being beaten during a traffic stop on January 7th. He died three days later. The officers involved have been sacked and charged with second-degree murder.
 
 Russian missile strikes killed three people and wounded at least two in <strong>Kostiantynivka</strong>, a small city in eastern <strong>Ukraine</strong>, according to local officials. Separately, reports emerged of fierce fighting in the town of Vuhledar, also in the <strong>Donetsk</strong> region. On Friday [Ukraine’s](https://te.arielherself.xyz/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) president, Volodymyr Zelensky, described the situation at the front as “extremely acute”, especially in Donetsk.
 
-Japan and the Netherlands reached a deal with <strong>America </strong>to limit exports of [chipmaking](https://te.arielherself.xyz/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching) tools to <strong>China </strong>as the White House seeks to restrict China’s ability to develop advanced <strong>semiconductors</strong> and [bolster](https://te.arielherself.xyz/united-states/2022/07/29/america-takes-on-china-with-a-giant-microchips-bill) its own chip industry. Dutch and Japanese support is essential: ASML, Nikon and Tokyo Electron are leading manufacturers of chipmaking kit.
-
 Listen to an abridged version of the subscriber-only briefing.
+
+Japan and the Netherlands reached a deal with <strong>America </strong>to limit exports of [chipmaking](https://te.arielherself.xyz/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching) tools to <strong>China </strong>as the White House seeks to restrict China’s ability to develop advanced <strong>semiconductors</strong> and [bolster](https://te.arielherself.xyz/united-states/2022/07/29/america-takes-on-china-with-a-giant-microchips-bill) its own chip industry. Dutch and Japanese support is essential: ASML, Nikon and Tokyo Electron are leading manufacturers of chipmaking kit.
 
 <strong>China </strong>will again issue visas to <strong>Japanese</strong> citizens wanting to visit the country. In January, as China reopened its borders, [South Korea](https://te.arielherself.xyz/asia/2023/01/12/south-koreas-travel-spat-with-china) and Japan imposed restrictions on visitors coming from the country for fear of a covid-19 outbreak. China responded by refusing to issue visas to citizens of either country. On January 27th South Korea extended its restrictions until the end of February.
 
 <strong>Petr Pavel</strong>, a retired general, won the second round of the <strong>Czech Republic’s</strong> presidential election, beating Andrej Babis, an oligarch and former prime minister. With nearly all ballots counted, Mr Pavel had more than 58% of the vote. The country’s [presidency](https://te.arielherself.xyz/europe/2023/01/17/the-next-czech-president-will-be-a-trumpish-oligarch-or-a-general) is a largely ceremonial position, but Mr Pavel has been a strong supporter of NATO and providing aid for Ukraine. 
-
-Drones attacked an Iranian defence factory in Isfahan, in the centre of the country, on Saturday, according to<strong> Iran’s</strong> defence ministry. Three unmanned aerial vehicles were reported shot down. The ministry did not say whom it suspected of the attack.
 
 <strong>Word of the week: </strong><em>Blat</em>, Russian for an “economy of favours”, meaning one based on contacts, cunning and petty bribery. [Read the full story](https://te.arielherself.xyz/britain/2023/01/26/blat-the-soviet-art-of-getting-by-comes-to-britain).
 
