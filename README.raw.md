@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Binyamin Netanyahu</strong>, Israel’s [prime minister](https://www.economist.com/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court), promised a “strong, swift and precise” response to a shooting near a synagogue in <strong>Jerusalem </strong>that killed seven people on Friday. The past few days have seen a series of lethal attacks. On Saturday a 13-year-old Palestinian boy shot and wounded two Israelis. And on Thursday Israeli troops killed nine Palestinians during a raid on Jenin refugee camp in the West Bank.
+<strong>Binyamin Netanyahu</strong>, Israel’s [prime minister](https://www.economist.com/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court), promised to “take steps to strengthen settlement” and “exact a price from terrorists” after seven people were shot dead near a synagogue in <strong>Jerusalem </strong>on Friday. Several lethal incidents have occurred in the past few days. On Thursday Israeli troops killed nine Palestinians during a raid on Jenin refugee camp in the West Bank. And on Saturday a 13-year-old Palestinian boy shot and wounded two Israelis.
 
 The <strong>Memphis Police Department</strong> disbanded its Scorpion unit after five of its officers were tied to the death of <strong>Tyre Nichols</strong>, an unarmed black man. The unit was a specialised group tasked with patrolling crime hotspots. Video footage showed Mr Nichols being beaten during a traffic stop on January 7th. He died three days later. The officers involved have been sacked and charged with second-degree murder.
 
