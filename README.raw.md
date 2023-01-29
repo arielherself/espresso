@@ -22,11 +22,11 @@ Japan and the Netherlands reached a deal with <strong>America </strong>to limit 
 
 Listen to an abridged version of the subscriber-only briefing.
 
+<strong>China </strong>will again issue visas to <strong>Japanese</strong> citizens wanting to visit the country. In January, as China reopened its borders, [South Korea](https://www.economist.com/asia/2023/01/12/south-koreas-travel-spat-with-china) and Japan imposed restrictions on visitors coming from the country for fear of a covid-19 outbreak. China responded by refusing to issue visas to citizens of either country. On January 27th South Korea extended its restrictions until the end of February.
+
 <strong>Petr Pavel</strong>, a retired general, won the second round of the <strong>Czech Republic’s</strong> presidential election, beating Andrej Babis, an oligarch and former prime minister. With nearly all ballots counted, Mr Pavel had more than 58% of the vote. The country’s [presidency](https://www.economist.com/europe/2023/01/17/the-next-czech-president-will-be-a-trumpish-oligarch-or-a-general) is a largely ceremonial position, but Mr Pavel has been a strong supporter of NATO and providing aid for Ukraine. 
 
 Drones attacked an Iranian defence factory in Isfahan, in the centre of the country, on Saturday, according to<strong> Iran’s</strong> defence ministry. Three unmanned aerial vehicles were reported shot down. The ministry did not say whom it suspected of the attack.
-
-<strong>Peru’s</strong> congress refused to bring the country’s presidential elections forward to December 2023, despite a plea from the incumbent, Dina Boluarte. Peru has been [gripped by almost daily protests](https://www.economist.com/the-americas/2023/01/19/perus-political-chaos-looks-likely-to-persist) demanding her resignation since she took office after a bungled coup attempt by her predecessor, Pedro Castillo, in early December. Forty-seven people have been killed in clashes between demonstrators and security forces.
 
 <strong>Word of the week: </strong><em>Blat</em>, Russian for an “economy of favours”, meaning one based on contacts, cunning and petty bribery. [Read the full story](https://www.economist.com/britain/2023/01/26/blat-the-soviet-art-of-getting-by-comes-to-britain).
 
