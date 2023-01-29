@@ -32,29 +32,11 @@ Japan and the Netherlands reached a deal with <strong>America </strong>to limit 
 
 ----------
 
-## The Trump campaign begins again
+## Tunisian voters get another chance to shrug
 
-Donald Trump was in South Carolina on Saturday trying to stabilise his 2024 presidential bid after a rocky start. The former president announced his comeback campaign days after his party endured a humiliating setback in the midterm elections. Since then he has been plagued by scandal, including one over his dinner with a white nationalist. The growing appeal of rivals such as [Ron DeSantis](https://te.arielherself.xyz/united-states/2022/11/09/the-rise-of-ron-desanctimonious), the governor of Florida, has left Mr Trump’s grip on the Republican Party in question. 
+What if you call an election and no one comes? Tunisia holds a parliamentary run-off on Sunday. The [first round](https://te.arielherself.xyz/middle-east-and-africa/2022/12/20/a-farcical-election-pushes-tunisia-towards-one-man-rule), in December, was desultory: turnout was just 11%, far below the 43% of voters who showed up in 2019. Tunisians were unenthusiastic about their choices. Major parties decided to boycott the poll, leaving some districts with only one candidate or none at all. Just 21 candidates secured a majority (the parliament has 161 seats).
 
-Saturday’s event was not one of the epic rallies he is known for, but a staid address at the state house for an audience of 500. Mr Trump secured support from Henry McMaster, South Carolina’s governor, and Lindsey Graham, one of its senators. But many are holding their endorsements until other challengers arrive. That suggests that the king’s return may be a prelude not to a happy coronation but a bloody civil war.
-
-## In search of gas, Italy looks to Libya
-
-On Saturday Libya’s National Oil Corporation signed a giant gas deal with Eni, Italy’s oil major. The $8bn agreement—part of a broader plan by [Giorgia Meloni](https://te.arielherself.xyz/europe/2023/01/26/after-a-steady-first-100-days-choppier-waters-await-giorgia-meloni), Italy’s prime minister, to strengthen energy ties with Africa—will allow Eni to develop two of Libya’s offshore gasfields. NOC says the sites could ultimately produce a total of 24m cubic metres of gas a day, about an eighth of what Italy currently consumes. 
-
-By reducing its gas exports to Europe, Russia has triggered a [hunt for alternative supplies](https://te.arielherself.xyz/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets). In 2022 the EU inked gas deals with Azerbaijan, Egypt and Israel, among others. Many countries in the bloc are pursuing agreements on their own. This one, though, looks trickier than most. Political instability and civil war have long prevented Libya from capitalising on its vast natural-energy reserves. Two rival factions still claim control of the country. The eastern-based parliament says the government in Tripoli, the capital, lacks the legitimacy to sign anything.
-
-## Stumble at the Royal Rumble
-
-Every January since 1988, World Wrestling Entertainment has gathered its elite wrestlers together for its Royal Rumble. Unlike other wrestling events, competitors enter the ring at fixed times rather than all at the start. The lycra-clad hall of fame includes Hulk Hogan, Shawn Michaels, “Stone Cold” Steve Austin and The Rock, who have each come out on top over the years.
-
-This year’s event, held in San Antonio, Texas, on Saturday, also came with plenty of drama outside the ring. Vince McMahon retired as WWE’s chief executive last year after an internal investigation found that he had paid $15m to settle sexual misconduct allegations by four women. However, he returned to the board of directors this month and has hired JPMorgan to explore selling WWE. With a market capitalisation of $6.3bn, the world’s largest [wrestling institution](https://te.arielherself.xyz/united-states/2019/04/13/donald-trump-is-a-pro-wrestler-masquerading-as-commander-in-chief) has bidders circling. Decades after it was founded, its [scripted theatrics](https://te.arielherself.xyz/united-states/2021/07/08/how-wrestling-conspiracy-theories-and-politics-overlap-in-america) continue to keep fans enthralled.
-
-## Psychotherapy on screen
-
-Jimmy Laird, the protagonist of “Shrinking”, a new series from Apple TV+, is a very bad therapist. Grieving for his dead wife and stupefied by drinking, drugs and self-pity, he ditches the guiding rules of his profession and decides to become a “psychological vigilante”. He tells one patient to leave her husband or he will stop treating her, and invites another to live in his spare room.
-
-The number of Americans who report having been [treated for mental health](https://te.arielherself.xyz/leaders/2019/03/14/most-mental-health-problems-are-untreated-trained-laypeople-can-help) has almost doubled since 2002. That explains why portrayals of therapy are proliferating on screen, in shows such as “The Patient”, “Couples Therapy” and “Stutz”. Though few therapists want to be seen as vigilantes, they will understand the need for a compelling narrative arc. More concerning in their eyes would be to suggest that treatment makes no difference.
+Kais Saied, the authoritarian-minded president, shrugs off criticism of the vote. Since July 2021, when he suspended parliament, he has moved Tunisia towards one-man rule, sacking judges and arresting critics. He rammed through a [new constitution](https://te.arielherself.xyz/the-world-ahead/2021/11/08/tunisia-is-setting-itself-up-for-an-autocratic-future) last summer that weakened the legislature. Meanwhile the economy is sinking. Inflation is forecast to average 11% this year. There are shortages of basic goods, from milk to medicine. Mr Saied has no good ideas for fixing this—and his pliant new parliament is unlikely to be much help.
 
 ## Weekend Profile: Olga Tsukanova, Russian anti-mobilisation activist
 
@@ -69,6 +51,12 @@ To shut down the group would look bad, and Mr Putin clearly recognises the symbo
 This is not Ms Tsukanova’s first foray into politics. She once stood as a candidate for Volya, a party that was later banned. Its leader, Svetlana Lada-Rus, is a spiritual healer and noted conspiracy theorist who once ran for president of Russia. Now Ms Tsukanova’s activism is complicated by her ties to another organisation affiliated with Ms Lada-Rus. The National Union of the Revival of Russia calls for the restoration of the Soviet Union and peddles anti-Semitic lies about the war’s origins. Ms Tsukanova’s council distributes that group’s conspiracy theories about covid-19 vaccines.
 
 To confront Mr Putin’s regime, you must be either courageous or crazy. Ms Tsukanova may be both.
+
+## Wayne Thiebaud’s candy art
+
+Wayne Thiebaud, who as a teenager in the 1930s worked as an apprentice at Walt Disney Studios, painted sweet, cheery, ordinary things. The American’s subjects ranged from ice-cream cones to hot dogs, lipsticks, crayons and sardines in a tin. Candy-coloured and luminous, his canvases made [everyday objects into marvels](https://te.arielherself.xyz/1843/2020/01/15/how-andy-warhol-invented-american-art). On Sunday the first solo exhibition of his work in the German-speaking world opens at the Fondation Beyeler in Switzerland.
+
+In 2020, the year before he died (aged 101), his work began to fetch steep prices. A painting from 1962 of four pinball machines sold for $19.1m, a record for the artist. In the following year “Towelling off” (1968), his portrait of a tennis player, went for almost $8.5m, roughly five times its expected price. Sweet indeed.
 
 ## Weekly crossword
 
@@ -96,6 +84,12 @@ Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://
 
 <em>3 across </em>Union with a flourishing “second economy” (6)
 
+## Hockey looks for global relevance
+
+[Hockey](https://te.arielherself.xyz/culture/2023/01/27/hockeys-potential-relies-on-india-its-fallen-superpower) (field hockey, if you’re North American) has much in common with football: each team has 11 players fighting to propel a ball into the other side’s goal. But in popularity, there is no comparison. Around 30m people pick up a stick regularly; hundreds of millions play football. Few will know their national teams, even in Belgium and Germany, whose representatives contest the men’s hockey World Cup final on Sunday.
+
+One route for hockey to amass more popularity and cash runs through India. For years before and after independence, hockey was the country’s most popular sport, and India was the game’s superpower. But since then it has fallen behind in the rankings; a successful national team could reignite interest. That may be a while yet. At this World Cup, it couldn’t even make the quarter-finals. But it is slowly improving: at the last Olympics India snatched a bronze medal.
+
 ## Quiz winners
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
@@ -107,6 +101,12 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Vincent H. Resh</strong>, El Cerrito, United States
 
 They all gave the correct answers of <em>Capri</em>, <em>zephyr</em>, <em>Thunderbirds</em>, <em>Taurus</em> and <em>Cortina d’Ampezzo</em>. The theme is they are, or were, Ford car models.
+
+## Pakistan’s light in the tunnel
+
+Pakistan’s ailing economy may get a new lease of life this week. On Tuesday a delegation from the International Monetary Fund arrives in Islamabad, the capital, for talks on resuming a bail-out programme suspended last year. This follows an announcement by Pakistan’s central bank that it would stop depleting its foreign-exchange reserves—now down to around $3.7bn, barely enough for three weeks’ [imports](https://te.arielherself.xyz/the-economist-explains/2022/06/21/why-is-pakistans-government-asking-people-to-drink-less-tea)—to prop up the rupee. 
+
+Pakistan badly needs the IMF’s help. It has been [teetering on the brink](https://te.arielherself.xyz/asia/2022/07/28/pakistan-may-be-able-to-avoid-a-full-blown-economic-crisis) of default for months. Annual inflation rose to 24.5% in December. Businesses complain about goods piling up at the port in Karachi, with importers unable to get hold of enough dollars to pay for them. On January 23rd a collapse of the power grid plunged the entire country into darkness. [Political turmoil](https://te.arielherself.xyz/asia/2022/06/02/imran-khan-is-jeopardising-pakistans-attempts-to-fix-its-economy) has stymied efforts to tackle the crisis. The coming days will show if things can still be turned around.
 
 ----------
 
