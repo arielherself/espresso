@@ -16,9 +16,9 @@
 
 The <strong>Memphis Police Department</strong> disbanded its Scorpion unit after five of its officers were tied to the death of <strong>Tyre Nichols</strong>, an unarmed black man. The unit was a specialised group tasked with patrolling crime hotspots. Video footage showed Mr Nichols being beaten during a traffic stop on January 7th. He died three days later. The officers involved have been sacked and charged with second-degree murder.
 
-Japan and the Netherlands reached a deal with <strong>America </strong>to limit exports of [chipmaking](https://te.arielherself.xyz/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching) tools to <strong>China </strong>as the White House seeks to restrict China’s ability to develop advanced <strong>semiconductors</strong> and [bolster](https://te.arielherself.xyz/united-states/2022/07/29/america-takes-on-china-with-a-giant-microchips-bill) its own chip industry. Dutch and Japanese support is essential: ASML, Nikon and Tokyo Electron are leading manufacturers of chipmaking kit.
-
 Russian missile strikes killed three people and wounded at least two in <strong>Kostiantynivka</strong>, a small city in eastern <strong>Ukraine</strong>, according to local officials. Separately, reports emerged of fierce fighting in the town of Vuhledar, also in the <strong>Donetsk</strong> region. On Friday [Ukraine’s](https://te.arielherself.xyz/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) president, Volodymyr Zelensky, described the situation at the front as “extremely acute”, especially in Donetsk.
+
+Japan and the Netherlands reached a deal with <strong>America </strong>to limit exports of [chipmaking](https://te.arielherself.xyz/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching) tools to <strong>China </strong>as the White House seeks to restrict China’s ability to develop advanced <strong>semiconductors</strong> and [bolster](https://te.arielherself.xyz/united-states/2022/07/29/america-takes-on-china-with-a-giant-microchips-bill) its own chip industry. Dutch and Japanese support is essential: ASML, Nikon and Tokyo Electron are leading manufacturers of chipmaking kit.
 
 Listen to an abridged version of the subscriber-only briefing.
 
