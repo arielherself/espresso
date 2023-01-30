@@ -14,17 +14,17 @@
 
 America’s secretary of state, <strong>Antony Blinken</strong>, encouraged <strong>Palestinians </strong>and <strong>Israelis </strong>to calm tensions amid “a new and horrifying surge in violence” as he landed in Tel Aviv on Monday. A recent spate of killings, including a gun attack on a synagogue in East Jerusalem and a deadly Israeli raid in the West Bank, has prompted fears that conflict could escalate further.
 
-<strong>Volodymyr</strong> <strong>Zelensky</strong>, Ukraine’s president, called on allies to speed up the delivery of <strong>weapons </strong>and asked them to send more equipment, including long-range missiles. The [tanks](https://www.economist.com/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) promised by countries like Germany and America could take months to arrive. Mr Zelensky said weapons were needed sooner to repel a Russian offensive in Ukraine’s eastern Donetsk region.
-
-<strong>Renault</strong> tentatively agreed to reduce its stake in <strong>Nissan</strong> from 43% to 15%, thus equalising the carmakers’ shareholdings in each other. The French firm’s larger ownership of its Japanese partner had [long](https://www.economist.com/business/2020/05/28/the-renault-nissan-alliance-hunkers-down) been a source of friction in their alliance. In return Nissan will invest in Renault’s electric-vehicle unit. Talks to improve the fractious relationship have been under way for months.
+<strong>Poland </strong>said it will increase defence spending to 4% of GDP this year, up from 2.4% in 2022. That would be the highest proportion among NATO members. Russia’s invasion of Ukraine has made Poland, its neighbour, [anxious](https://www.economist.com/europe/poland-will-play-an-outsized-role-in-western-efforts-to-assist-ukraine/21808064). Poland recently signed a $1.4bn deal to buy a second batch of [Abrams tanks](https://www.economist.com/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) from America.
 
 <strong>Germany’s GDP </strong>in the fourth quarter of 2022 was slightly worse than expected, shrinking 0.2% compared with the previous quarter. Despite pressures from high [energy costs](https://www.economist.com/briefing/2022/11/24/the-costs-and-consequences-of-europes-energy-crisis-are-growing) and rising interest rates, most analysts had expected GDP to be flat. Another contraction, as is predicted for the first quarter of 2023, would mean a [recession](https://www.economist.com/the-world-ahead/2022/11/18/why-a-global-recession-is-inevitable-in-2023), which it had previously seemed as though Germany might narrowly avoid.
 
-Listen to an abridged version of the subscriber-only briefing.
-
 International Holding Company, the most valuable company listed in Abu Dhabi, promised to buy $400m in shares of the besieged Indian conglomerate the <strong>Adani Group</strong>. Adani Group’s share offering was set off-kilter last week by a scathing report from <strong>Hindenburg Research</strong>, a New York investment firm. [The report](https://www.economist.com/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire) accused Adani Group of market manipulation and accounting fraud, sparking a $65bn stockmarket rout.
 
+Listen to an abridged version of the subscriber-only briefing.
+
 In <strong>Pakistan </strong>a suicide bombing at a mosque killed at least 47 worshippers and injured scores more in Peshawar, close to the Afghanistan border, as they performed afternoon prayers. At least 260 people were in the building, located near to the city’s police headquarters. No group has claimed responsibility for the bombing, but the city has previously been terrorised by the [Tehreek-e Taliban Pakistan](https://www.economist.com/asia/2023/01/05/pakistan-and-china-find-they-have-little-leverage-with-the-taliban), a militant group.
+
+<strong>Renault</strong> tentatively agreed to reduce its stake in <strong>Nissan</strong> from 43% to 15%, thus equalising the carmakers’ shareholdings in each other. The French firm’s larger ownership of its Japanese partner had [long](https://www.economist.com/business/2020/05/28/the-renault-nissan-alliance-hunkers-down) been a source of friction in their alliance. In return Nissan will invest in Renault’s electric-vehicle unit. Talks to improve the fractious relationship have been under way for months.
 
 <strong>Unilever</strong>, a [consumer-goods giant](https://www.economist.com/business/2022/09/29/unilevers-problems-will-not-go-away-with-its-boss) that makes everything from soap to soup, appointed Hein Schumacher as its new chief executive. Mr Schumacher replaces Alan Jope whose four-year stint was beset by sagging sales and profits; a failed bid to buy GlaxoSmithKline, a drugmaker, last year precipitated his resignation. The appointment was welcomed by markets with Unilever shares rising by about 1% in morning trading.
 
@@ -64,7 +64,7 @@ The result is that states are reluctantly [playing an ever-larger role](https://
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cb9abea2b18eb8bbb9aeb8b8a48baea8a4a5a4a6a2b8bfe5a8a4a6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5a0b2f33201f292a283f2929351a3f393534353733292e74393537">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which small hand tool for boring holes is also used to describe a piercing stare?
 
