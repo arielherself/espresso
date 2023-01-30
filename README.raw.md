@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>America</strong>’s secretary of state, Antony Blinken, encouraged Palestinians and [Israelis](https://www.economist.com/middle-east-and-africa/2023/01/03/israels-new-government-will-test-the-ties-with-arab-states) to “calm tensions” as he landed in Israel on Monday. A recent spate of violence, including a gun attack on a synagogue in Jerusalem and a deadly Israeli raid in the West Bank, has prompted fears that conflict could escalate further. Mr Blinken will continue his trip in the Israeli-occupied West Bank on Tuesday.
+America’s secretary of state, <strong>Antony Blinken</strong>, encouraged <strong>Palestinians </strong>and <strong>Israelis </strong>to calm tensions amid “a new and horrifying surge in violence” as he landed in Tel Aviv on Monday. A recent spate of killings, including a gun attack on a synagogue in East Jerusalem and a deadly Israeli raid in the West Bank, has prompted fears that conflict could escalate further. Mr Blinken will continue his trip in the Israeli-occupied West Bank on Tuesday. Earlier he met with Egypt’s president [Abdel-Fattah al-Sisi](https://www.economist.com/middle-east-and-africa/2023/01/24/a-crisis-of-confidence-in-egypt), as part of a three-day tour of the Middle East.
 
 <strong>Volodymyr</strong> <strong>Zelensky</strong>, Ukraine’s president, called on allies to speed up the delivery of <strong>weapons </strong>and asked them to send more equipment, including long-range missiles. The [tanks](https://www.economist.com/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) promised by countries like Germany and America could take months to arrive. Mr Zelensky said weapons were needed sooner to repel a Russian offensive in Ukraine’s eastern Donetsk region. For months Ukraine has been asking the West to send fighter jets to help fend off Russian missiles and drones. A growing number of American officials support doing so, according to reports. Germany, however, has ruled it out.
 
@@ -64,7 +64,7 @@ The result is that states are reluctantly [playing an ever-larger role](https://
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a8f9ddc1d2eddbd8dacddbdbc7e8cdcbc7c6c7c5c1dbdc86cbc7c5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which small hand tool for boring holes is also used to describe a piercing stare?
 
