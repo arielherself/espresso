@@ -18,7 +18,7 @@
 
 International Holding Company, the most valuable company listed in Abu Dhabi, promised to buy $400m in shares of the besieged Indian conglomerate the <strong>Adani Group</strong>. Adani Group’s share offering was set off-kilter last week by a scathing report from <strong>Hindenburg Research</strong>, a New York investment firm. [The report](https://www.economist.com/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire) accused Adani Group of market manipulation and accounting fraud, sparking a $65bn stockmarket rout.
 
-In <strong>Pakistan </strong>an explosion at a mosque killed at least 32 worshippers and injured scores more in Peshawar, close to the Afghanistan border, as they performed afternoon prayers. At least 260 people were in the building, located near to the city’s police headquarters. No group has claimed responsibility for the bombing, but the city has previously been terrorised by the [Tehreek-e Taliban Pakistan](https://www.economist.com/asia/2023/01/05/pakistan-and-china-find-they-have-little-leverage-with-the-taliban), a militant group.
+In <strong>Pakistan </strong>a suicide bombing at a mosque killed at least 47 worshippers and injured scores more in Peshawar, close to the Afghanistan border, as they performed afternoon prayers. At least 260 people were in the building, located near to the city’s police headquarters. No group has claimed responsibility for the bombing, but the city has previously been terrorised by the [Tehreek-e Taliban Pakistan](https://www.economist.com/asia/2023/01/05/pakistan-and-china-find-they-have-little-leverage-with-the-taliban), a militant group.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ The result is that states are reluctantly [playing an ever-larger role](https://
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="bfeecad6c5facccfcddaccccd0ffdadcd0d1d0d2d6cccb91dcd0d2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f6a7839f8cb385868493858599b693959998999b9f8582d895999b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which small hand tool for boring holes is also used to describe a piercing stare?
 
