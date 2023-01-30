@@ -12,19 +12,19 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Volodymyr</strong> <strong>Zelensky</strong>, Ukraine’s president, called on allies to speed up the delivery of <strong>weapons </strong>and asked them to send more equipment, including long-range missiles. Countries, including America and Germany, have agreed to send [tanks](https://te.arielherself.xyz/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) to Ukraine, but under current plans these could take months to arrive. Mr Zelensky said weapons were needed sooner to repel a Russian offensive in Ukraine’s eastern Donetsk region.
+
+Recep Tayyip Erdogan, <strong>Turkey’s</strong> president, said his country may approve <strong>Finland’s</strong> application to join <strong>NATO</strong>, ahead of <strong>Sweden’s</strong>. Mr Erdogan suggested that unless Sweden extradited 120 Kurdish militants that he believes the country is harbouring, he would not give his consent to its bid to join NATO. Both [Finland and Sweden applied](https://te.arielherself.xyz/leaders/2022/05/19/why-nato-should-swiftly-admit-sweden-and-finland) to join the bloc last year, but need the approval of all members, including Turkey.
+
 [Rishi Sunak](https://te.arielherself.xyz/britain/2023/01/23/rishi-sunaks-hapless-government), <strong>Britain’s</strong> prime minister, sacked <strong>Nadhim Zahawi</strong>, the chairman of the governing Conservative Party, for “a serious breach of the ministerial code”. Mr Zahawi, briefly chancellor of the exchequer last year, had admitted reaching a settlement with the authorities over previously unpaid tax—reportedly amounting to about £5m ($6.2m), including a penalty. He had described the error as “careless and not deliberate”.
 
 America’s top diplomat, <strong>Antony Blinken</strong>, arrived in Egypt for talks with President Abdel Fattah el-Sisi. Elections in Libya and a stalled democratic transition in [Sudan](https://te.arielherself.xyz/middle-east-and-africa/2023/01/05/sudans-troubled-east-is-a-microcosm-of-a-wider-crisis) are on the agenda. Mr Blinken will continue his three-day trip in <strong>Jerusalem</strong> on Monday, and the Israeli-occupied <strong>West Bank </strong>on Tuesday, amid a fresh spate of violence between Israelis and Palestinians.
 
+Listen to an abridged version of the subscriber-only briefing.
+
 A lawyer representing the family of <strong>Tyre Nichols</strong>, who died after being beaten by five police officers in Memphis, called for police reform in <strong>America</strong>. Ben Crump said Mr Nichols’s killing should “finally get the George Floyd Justice in Policing Act passed”. [The bill](https://te.arielherself.xyz/united-states/2021/05/27/the-george-floyd-act-is-a-police-reform-smorgasbord-would-it-work) was introduced in 2021 after Floyd’s death, but has stalled in the Senate. It would restrict the use of force by officers and increase accountability. 
 
 <strong>Adani Group</strong>, a [conglomerate ](https://te.arielherself.xyz/business/2023/01/26/hindenburgs-critique-of-the-adani-empire)that underpins swathes of India’s economy, issued a 413-page response to a scathing report by <strong>Hindenburg Research</strong>, a New York investment firm. [The report](https://te.arielherself.xyz/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire) accused the Adani Group of market manipulation and accounting fraud, sparking a $48bn stockmarket rout. The lengthy retort repeated the conglomerate’s denial of wrongdoing and claimed that Hindenburg issued the report in order to book sizeable gains.
-
-Listen to an abridged version of the subscriber-only briefing.
-
-At least 41 people were killed when a bus crashed into a ravine in <strong>Pakistan’s </strong>south-western province of Balochistan. Local authorities suspect that the driver had been speeding or had fallen asleep. Separately, a boat carrying a school trip capsized in the north-west of the country, killing at least ten children.
-
-<strong>China </strong>will again issue visas to <strong>Japanese</strong> citizens wanting to visit the country. In January, as China reopened its borders, [South Korea](https://te.arielherself.xyz/asia/2023/01/12/south-koreas-travel-spat-with-china) and Japan imposed restrictions on visitors coming from the country for fear of a covid-19 outbreak. China responded by refusing to issue visas to citizens of either country. On January 27th South Korea extended its restrictions until the end of February.
 
 <strong>Novak Djokovic</strong> beat Stefanos Tsitsipas to win his tenth <strong>Australian Open</strong>—and his 22nd tennis grand slam—equalling a men’s record held by Rafael Nadal. The Serbian player returned to the tournament after being [kicked out of Australia](https://te.arielherself.xyz/asia/2022/01/22/novak-djokovics-deportation-from-australia-sets-a-troubling-precedent) last year, having refused to be vaccinated against covid.
 
