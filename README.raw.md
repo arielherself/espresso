@@ -12,101 +12,61 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Volodymyr</strong> <strong>Zelensky</strong>, Ukraine’s president, called on allies to speed up the delivery of <strong>weapons </strong>and asked them to send more equipment, including long-range missiles. Countries, including America and Germany, have agreed to send [tanks](https://www.economist.com/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) to Ukraine, but under current plans these could take months to arrive. Mr Zelensky said weapons were needed sooner to repel a Russian offensive in Ukraine’s eastern Donetsk region.
+<strong>Volodymyr</strong> <strong>Zelensky</strong>, Ukraine’s president, called on allies to speed up the delivery of <strong>weapons </strong>and asked them to send more equipment, including long-range missiles. The [tanks](https://www.economist.com/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) promised by countries like Germany and America could take months to arrive. Mr Zelensky said weapons were needed sooner to repel a Russian offensive in Ukraine’s eastern Donetsk region. For months Ukraine has been asking the West to send fighter jets to help fend off Russian missiles and drones. A growing number of American officials support doing so, according to reports. Germany, however, has ruled it out.
 
-Recep Tayyip Erdogan, <strong>Turkey’s</strong> president, said his country may approve <strong>Finland’s</strong> application to join <strong>NATO</strong>, ahead of <strong>Sweden’s</strong>. Mr Erdogan suggested that unless Sweden extradited 120 Kurdish militants that he believes the country is harbouring, he would not give his consent to its bid to join NATO. Both [Finland and Sweden applied](https://www.economist.com/leaders/2022/05/19/why-nato-should-swiftly-admit-sweden-and-finland) to join the bloc last year, but need the approval of all members, including Turkey.
+<strong>Germany’s GDP </strong>in the fourth quarter of 2022 was slightly worse than expected, shrinking 0.2% compared with the previous quarter. Despite pressures from high [energy costs](https://www.economist.com/briefing/2022/11/24/the-costs-and-consequences-of-europes-energy-crisis-are-growing) and rising interest rates, most analysts had expected GDP to be flat. Another contraction, as is predicted for the first quarter of 2023, would mean a [recession](https://www.economist.com/the-world-ahead/2022/11/18/why-a-global-recession-is-inevitable-in-2023), which it had previously seemed as though Germany might narrowly avoid.
 
-[Rishi Sunak](https://www.economist.com/britain/2023/01/23/rishi-sunaks-hapless-government), <strong>Britain’s</strong> prime minister, sacked <strong>Nadhim Zahawi</strong>, the chairman of the governing Conservative Party, for “a serious breach of the ministerial code”. Mr Zahawi, briefly chancellor of the exchequer last year, had admitted reaching a settlement with the authorities over previously unpaid tax—reportedly amounting to about £5m ($6.2m), including a penalty. He had described the error as “careless and not deliberate”.
+<strong>America’s</strong> secretary of state, Antony Blinken, met with <strong>Egypt’s</strong> president [Abdel-Fattah al-Sisi](https://www.economist.com/middle-east-and-africa/2023/01/24/a-crisis-of-confidence-in-egypt), on Monday as part of a three-day tour of the Middle East. In the meeting, they discussed regional stability and human rights. Mr Blinken will continue his trip in <strong>Jerusalem </strong>on Monday, and then the Israeli-occupied <strong>West Bank </strong>on Tuesday, amid a fresh spate of violence between Israelis and Palestinians.
 
-America’s top diplomat, <strong>Antony Blinken</strong>, arrived in Egypt for talks with President Abdel Fattah el-Sisi. Elections in Libya and a stalled democratic transition in [Sudan](https://www.economist.com/middle-east-and-africa/2023/01/05/sudans-troubled-east-is-a-microcosm-of-a-wider-crisis) are on the agenda. Mr Blinken will continue his three-day trip in <strong>Jerusalem</strong> on Monday, and the Israeli-occupied <strong>West Bank </strong>on Tuesday, amid a fresh spate of violence between Israelis and Palestinians.
+<strong>Recep Tayyip Erdogan</strong>, Turkey’s president, said his country may approve <strong>Finland’s</strong> application to join <strong>NATO</strong> before [Sweden’s](https://www.economist.com/leaders/2022/05/19/why-nato-should-swiftly-admit-sweden-and-finland). Mr Erdogan suggested that, unless Sweden extradited 120 Kurdish militants that he believes the country is harbouring, he would not give his consent to its bid to join the alliance. Finland and Sweden applied to join NATO last year, but need the approval of all members, including Turkey.
 
 Listen to an abridged version of the subscriber-only briefing.
 
-A lawyer representing the family of <strong>Tyre Nichols</strong>, who died after being beaten by five police officers in Memphis, called for police reform in <strong>America</strong>. Ben Crump said Mr Nichols’s killing should “finally get the George Floyd Justice in Policing Act passed”. [The bill](https://www.economist.com/united-states/2021/05/27/the-george-floyd-act-is-a-police-reform-smorgasbord-would-it-work) was introduced in 2021 after Floyd’s death, but has stalled in the Senate. It would restrict the use of force by officers and increase accountability. 
+<strong>Toyota</strong> sold 10.5m vehicles in 2022, retaining its title as the world’s top-selling carmaker for the third consecutive year. The Japanese firm was able to overcome [supply-chain constraints](https://www.economist.com/business/2022/06/12/how-supply-chain-turmoil-is-remaking-the-car-industry) to increase production. Last week it announced a new chief executive, Koji Sato, to lead Toyota in capturing more of the electric-vehicle market. Volkswagen, a German carmaker, came in second, selling 8.3m vehicles, its lowest sales in more than a decade. 
 
-<strong>Adani Group</strong>, a [conglomerate ](https://www.economist.com/business/2023/01/26/hindenburgs-critique-of-the-adani-empire)that underpins swathes of India’s economy, issued a 413-page response to a scathing report by <strong>Hindenburg Research</strong>, a New York investment firm. [The report](https://www.economist.com/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire) accused the Adani Group of market manipulation and accounting fraud, sparking a $48bn stockmarket rout. The lengthy retort repeated the conglomerate’s denial of wrongdoing and claimed that Hindenburg issued the report in order to book sizeable gains.
+A lawyer representing the family of <strong>Tyre Nichols</strong>, who died after being beaten by five police officers in Memphis, called for police reform in <strong>America</strong>. Ben Crump said Mr Nichols’s killing should “finally get the George Floyd Justice in Policing Act passed”. [The bill](https://www.economist.com/united-states/2021/05/27/the-george-floyd-act-is-a-police-reform-smorgasbord-would-it-work) was introduced in 2021 after Floyd’s death, but has stalled in the Senate. It would restrict the use of force by officers and increase accountability. 
 
 <strong>Novak Djokovic</strong> beat Stefanos Tsitsipas to win his tenth <strong>Australian Open</strong>—and his 22nd tennis grand slam—equalling a men’s record held by Rafael Nadal. The Serbian player returned to the tournament after being [kicked out of Australia](https://www.economist.com/asia/2022/01/22/novak-djokovics-deportation-from-australia-sets-a-troubling-precedent) last year, having refused to be vaccinated against covid.
 
-<strong>Word of the week: </strong><em>Blat</em>, Russian for an “economy of favours”, meaning one based on contacts, cunning and petty bribery. [Read the full story](https://www.economist.com/britain/2023/01/26/blat-the-soviet-art-of-getting-by-comes-to-britain).
+<strong>Fact of the day: </strong>$25bn, the revenue of the listed companies of the Adani Group in the last financial year. [Read the full story](https://www.economist.com/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire).
 
 ----------
 
-## Tunisian voters get another chance to shrug
+## Israel’s heavy-handed response to shootings
 
-What if you call an election and no one comes? Tunisia held a parliamentary run-off on Sunday with a provisional turnout of just 11.3%. Final results have not yet been declared. The [first round](https://www.economist.com/middle-east-and-africa/2022/12/20/a-farcical-election-pushes-tunisia-towards-one-man-rule), in December, was just as desultory: turnout was 11.2%, far below the 43% of voters who showed up in 2019. Tunisians were unenthusiastic about their choices. Major parties decided to boycott the poll, leaving some districts with only one candidate or none at all. Just 21 candidates secured a majority (the parliament has 161 seats).
+Israel’s [far-right government](https://www.economist.com/middle-east-and-africa/2022/12/29/israels-new-government-is-the-most-right-wing-ever) has responded to the worst terror attack against Israeli citizens in 15 years with collective punishment. The family of the Palestinian gunman who murdered seven passers-by in a shooting spree in Jerusalem on Friday night have already had their home sealed, as a prelude to its demolition. Similar steps are planned for the home of the 13-year-old who shot and wounded two Israelis on Saturday. Palestinians in Jerusalem found to be involved in terror activity will have their residency rights revoked.
 
-Kais Saied, the authoritarian-minded president, shrugs off criticism of the vote. Since July 2021, when he suspended parliament, he has moved Tunisia towards one-man rule, sacking judges and arresting critics. He rammed through a [new constitution](https://www.economist.com/the-world-ahead/2021/11/08/tunisia-is-setting-itself-up-for-an-autocratic-future) last summer that weakened the legislature. Meanwhile the economy is sinking. Inflation is forecast to average 11% this year. There are shortages of basic goods, from milk to medicine. Mr Saied has no good ideas for fixing this—and his pliant new parliament is unlikely to be much help.
+Legal and moral qualms aside, these tactics have all been tried with only limited success in the past. But the ministers are playing to their nationalist audience. Likewise, with the incendiary decision by Israel’s security cabinet on Sunday to encourage more Israeli civilians to carry guns. Help is unlikely to come from [America’s top diplomat](https://www.economist.com/middle-east-and-africa/2022/06/16/joe-bidens-middle-east-policy-looks-a-lot-like-his-predecessors), Antony Blinken, when he visits on Monday. The last serious American initiative to solve the conflict ended, fruitlessly, in 2014.
 
-## Pakistan’s light in the tunnel
+## Germany’s economy braces for a chill
 
-Pakistan’s ailing economy may get a new lease of life this week. On Tuesday a delegation from the International Monetary Fund arrives in Islamabad, the capital, for talks on resuming a bail-out programme suspended last year. This follows an announcement by Pakistan’s central bank that it would stop depleting its foreign-exchange reserves—now down to around $3.7bn, barely enough for three weeks’ [imports](https://www.economist.com/the-economist-explains/2022/06/21/why-is-pakistans-government-asking-people-to-drink-less-tea)—to prop up the rupee. 
+On Monday, when Germany’s statistics office unveiled its final figure for GDP growth in the fourth quarter of 2022, the number was slightly worse than expected. The country’s economy shrank by 0.2% compared with the third quarter. That followed a 0.5% rise in GDP between second and third quarters. Another contraction, as is predicted for the first quarter of 2023, would mean a recession, which it had previously seemed as though Germany might narrowly avoid.  
+  
+ War in Ukraine, lingering supply hiccups and surging inflation, especially in energy prices, has made Germany’s [energy-hungry](https://www.economist.com/business/2022/09/11/germany-faces-a-looming-threat-of-deindustrialisation) and export-reliant economy look especially wobbly. But after a relatively mild weather kept energy prices down, some optimism returned. In fact both production and demand have been hurt by high energy prices and rising interest rates. Now the German government is saying it expects a return to growth in the spring.
 
-Pakistan badly needs the IMF’s help. It has been [teetering on the brink](https://www.economist.com/asia/2022/07/28/pakistan-may-be-able-to-avoid-a-full-blown-economic-crisis) of default for months. Annual inflation rose to 24.5% in December. Businesses complain about goods piling up at the port in Karachi, with importers unable to get hold of enough dollars to pay for them. On January 23rd a collapse of the power grid plunged the entire country into darkness. [Political turmoil](https://www.economist.com/asia/2022/06/02/imran-khan-is-jeopardising-pakistans-attempts-to-fix-its-economy) has stymied efforts to tackle the crisis. The coming days will show if things can still be turned around.
+## Rahul Gandhi’s long walk back
 
-## Hockey looks for global relevance
+The de facto leader of India’s opposition party, [Congress](https://www.economist.com/asia/2022/10/06/indias-congress-party-seems-determined-to-prove-its-critics-right), finishes his near-3,500km “unite India March” on Monday. Rahul Gandhi has billed his [country-spanning walk](https://www.economist.com/asia/2023/01/26/relaunching-rahul-gandhi-again) as a riposte to the strident Hindu-nationalism of the ruling Bharatiya Janata Party (BJP). It is part of an effort to revive Congress’s electoral prospects before a general election next year. The former juggernaut of Indian politics has suffered successive humiliating defeats.
 
-[Hockey](https://www.economist.com/culture/2023/01/27/hockeys-potential-relies-on-india-its-fallen-superpower) (field hockey, if you’re North American) has much in common with football: each team has 11 players fighting to propel a ball into the other side’s goal. But in popularity, there is no comparison. Around 30m people pick up a stick regularly; hundreds of millions play football. Few will know their national teams, even in Belgium and Germany, whose representatives contest the men’s hockey World Cup final on Sunday.
+Such pilgrimages, <em>yatras</em>, have long been a feature of Indian politics. Marches in the 1990s were central to the BJP’s rise to prominence. Mr Gandhi has drawn crowds; he is planning more to galvanise local support. That is sorely needed: Congress controls just three of India’s 28 states and less than 10% of seats in the lower house of parliament. Polls say Narendra Modi, the BJP prime minister, is backed by twice as many Indians as Mr Gandhi. Mr Gandhi’s long walk may be over, but Congress still faces a daunting trek.
 
-One route for hockey to amass more popularity and cash runs through India. For years before and after independence, hockey was the country’s most popular sport, and India was the game’s superpower. But since then it has fallen behind in the rankings; a successful national team could reignite interest. That may be a while yet. At this World Cup, it couldn’t even make the quarter-finals. But it is slowly improving: at the last Olympics India snatched a bronze medal.
+## The opposition’s vision for Turkey
 
-## Wayne Thiebaud’s candy art
+Turkey’s opposition parties are hopeful about their chances of unseating President Recep Tayyip Erdogan in May, when the country holds both [presidential and parliamentary elections](https://www.economist.com/special-report/2023/01/16/turkey-faces-a-crucial-election-this-summer). On Monday they will unveil their manifesto, which includes bringing back the country’s old parliamentary system. Executive lawmaking powers were transferred to the president in 2018. Since then Mr Erdogan has [expanded his grip](https://www.economist.com/leaders/2023/01/19/turkey-could-be-on-the-brink-of-dictatorship) over Turkey’s courts and electoral board. He is also eyeing more constitutional change, to enshrine the right of Muslim women to wear the headscarf and to protect family values against “perverted currents”.
 
-Wayne Thiebaud, who as a teenager in the 1930s worked as an apprentice at Walt Disney Studios, painted sweet, cheery, ordinary things. The American’s subjects ranged from ice-cream cones to hot dogs, lipsticks, crayons and sardines in a tin. Candy-coloured and luminous, his canvases made [everyday objects into marvels](https://www.economist.com/1843/2020/01/15/how-andy-warhol-invented-american-art). On Sunday the first solo exhibition of his work in the German-speaking world opens at the Fondation Beyeler in Switzerland.
+To put a stop to that, the [six opposition parties](https://www.economist.com/special-report/2023/01/16/the-turkish-opposition-faces-big-obstacles-to-winning-the-election) have formed a coalition which will field a single candidate. But they cannot agree on who that should be. The likely choice—Kemal Kilicdaroglu, the uncharismatic chairman of the CHP, the biggest party in the bloc—has led his party to four successive parliamentary election defeats since 2010. The coalition has two weeks left to squabble until a planned announcement.
 
-In 2020, the year before he died (aged 101), his work began to fetch steep prices. A painting from 1962 of four pinball machines sold for $19.1m, a record for the artist. In the following year “Towelling off” (1968), his portrait of a tennis player, went for almost $8.5m, roughly five times its expected price. Sweet indeed.
+## The cost of hurricanes in America
 
-## Weekend Profile: Olga Tsukanova, Russian anti-mobilisation activist
+Residents of America’s Gulf coast have several months yet before they batten down the hatches when hurricane season starts in June. But their property-insurance bills offer a constant reminder of the risk of disaster: firms charge homeowners in Florida and Louisiana some of the dearest premiums in the country. Still, insurers are struggling to stay afloat after a run of terrible storms. More than eight went bankrupt in Louisiana last year; 15 have gone under in Florida since 2020.
 
-Last weekend Olga Tsukanova was heading to Moscow from her home in Samara, near the border with Kazakhstan, to deliver 700 letters written by disgruntled mothers of Russian soldiers to the prosecutor’s office. But at an airport in Samara she was detained, not for the first time, and warned she may be charged with “discrediting the army”. Ms Tsukanova has become the face of protests against Vladimir Putin’s mobilisation of Russian troops, though she is also uncomfortably close to peddlers of conspiracies about the war. 
+The result is that states are reluctantly [playing an ever-larger role](https://www.economist.com/united-states/2022/10/06/floridas-government-subsidises-people-living-in-hurricane-zones) in propping up their insurance markets. On Monday Louisiana lawmakers will gather for a special legislative session and probably allocate money—officials have requested $45m—to induce firms to keep operating. They want to limit homeowners’ reliance on the state-backed insurer of last resort, lest that undermine the private market, while insisting that premiums stay affordable. But what is affordable for homeowners is not economic for firms.
 
-Ms Tsukanova is a 46-year-old mother who says her son, who joined the army in July, faced pressure to deploy to Ukraine despite earlier assurances that he would not have to. (An official says her son is serving inside Russia.) 
+## Daily quiz
 
-After Mr Putin announced a “[partial mobilisation](https://www.economist.com/europe/2022/09/21/vladimir-putin-declares-a-partial-mobilisation)” of recruits in September, Ms Tsukanova formed the Council of Mothers and Wives, which campaigns for better conditions for troops. Russian authorities have tolerated some criticism of the army’s incompetence in Ukraine. But there is little room for dissent in Mr Putin’s Russia: the government [stifled](https://www.economist.com/1843/2021/05/02/ive-mortally-offended-putin-by-surviving-why-alexei-navalny-keeps-fighting) opposition even before the invasion last February. Ms Tsukanova’s organisation has become a vehicle for broader [anger over the military mobilisation](https://www.economist.com/graphic-detail/2022/09/29/protests-erupt-across-russia)—a stance that avoids a blatant anti-war message, but puts authorities in an awkward position. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0b5a7e62714e787b796e7878644b6e686465646662787f25686466">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-To shut down the group would look bad, and Mr Putin clearly recognises the symbolic power of a soldier’s mother. In November he convened a televised meeting of women the Kremlin said were mothers of troops serving in Ukraine (all were sympathetic to the government). Ms Tsukanova rebuked Mr Putin for excluding her. The next month she was stopped by police. “They are afraid of us,” she declared.
-
-This is not Ms Tsukanova’s first foray into politics. She once stood as a candidate for Volya, a party that was later banned. Its leader, Svetlana Lada-Rus, is a spiritual healer and noted conspiracy theorist who once ran for president of Russia. Now Ms Tsukanova’s activism is complicated by her ties to another organisation affiliated with Ms Lada-Rus. The National Union of the Revival of Russia calls for the restoration of the Soviet Union and peddles anti-Semitic lies about the war’s origins. Ms Tsukanova’s council distributes that group’s conspiracy theories about covid-19 vaccines.
-
-To confront Mr Putin’s regime, you must be either courageous or crazy. Ms Tsukanova may be both.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist.</em>
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Bank initially gets 500 million in dodgy cash loans (7, 5)
-
-<em>1 across</em> Country’s former currency (6)
-
-<em>2 across </em>Tycoon is man trapped by technology (5)
-
-<em>3 across </em>Old communist angrily votes “aye”, we’re told (6)
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>Business once described as a “great vampire squid” (7, 5)
-
-<em>1 across</em> A source of bauxite (6)
-
-<em>2 across </em>Someone rapidly slipping down the world’s rich list (5)
-
-<em>3 across </em>Union with a flourishing “second economy” (6)
-
-## Quiz winners
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>Alastair Brockie, </strong>Stirling, Scotland
-
-<strong>Remzi Silvia Mustafa</strong>, Krakow, Poland
-
-<strong>Vincent H. Resh</strong>, El Cerrito, United States
-
-They all gave the correct answers of <em>Capri</em>, <em>zephyr</em>, <em>Thunderbirds</em>, <em>Taurus</em> and <em>Cortina d’Ampezzo</em>. The theme is they are, or were, Ford car models.
+<strong>Monday: </strong>Which small hand tool for boring holes is also used to describe a piercing stare?
 
 ----------
 
