@@ -12,17 +12,17 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
+In <strong>France </strong>protesters have paralysed public transport and closed schools in the second national demonstration against President Emmanuel Macron’s most recent attempt to reform <strong>pensions</strong>. Mr Macron wants to raise France’s [unusually low](https://www.economist.com/the-economist-explains/2023/01/31/why-is-the-french-pension-age-so-low) minimum retirement age from 62 to 64. But this has proved wildly unpopular: over a million people attended the previous protest on January 19th and 68% of French disagree with the reform.
+
 President Joe Biden said <strong>America</strong> would not send F-16 fighter jets to <strong>Ukraine</strong>, despite pleas from Ukrainian officials for air support. Germany has also ruled out providing aircraft. However [Emmanuel Macron](https://www.economist.com/the-economist-explains/2023/01/27/what-exactly-is-emmanuel-macrons-policy-on-ukraine), France’s president, said “nothing is excluded” when it comes to military assistance. Meanwhile Volodymyr Zelensky, Ukraine’s president, said Russia has begun its “big revenge” for Ukrainian resistance, amid Russian attacks in eastern Ukraine.
 
 The <strong>euro zone </strong>looks set to narrowly [dodge a recession](https://www.economist.com/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) after the region’s economy grew by 0.1% in the fourth quarter of 2022. Record energy prices, forced up by Russia’s invasion of Ukraine, and high inflation had been expected to contract the economy. The euro-zone’s meagre expansion is, however, somewhat inflated by Ireland where multinationals book profits to swerve tax.
 
 The <strong>Biden administration</strong> reportedly stopped providing licences for some American firms to export items to <strong>Huawei</strong>. The Chinese telecom giant has faced [export restrictions](https://www.economist.com/business/2022/10/25/ren-zhengfei-has-big-plans-for-huawei-in-spite-of-american-sanctions) for years because of concerns that it helps China’s government engage in espionage. The proposed tightening is seen as another step towards the imposition of a total ban on sale of American technology to Huawei.
 
-The value of <strong>Norway’s </strong>$1.3trn sovereign-wealth fund, one of the world’s largest, fell by around 14% in 2022. The fund, which holds assets nearly three times larger than Norway’s GDP, lost 1.64trn krone ($167bn) last year. [Nicolai Tangen](https://www.economist.com/europe/2020/04/30/a-scandal-in-squeaky-clean-norway), its chief executive, said that the war in Ukraine, high inflation, and rising interest rates had all done damage.
-
 Listen to an abridged version of the subscriber-only briefing.
 
-<strong>Samsung Electronics</strong> reported its lowest quarterly profit since 2014, partly because of a slump in [chip sales](https://www.economist.com/business/2022/09/29/why-some-chipmakers-are-hurting-much-more-than-others). The South Korean giant earnt 4.3trn won ($3.5bn) in operating income in the last quarter of 2022. The firm, however, said it would not reduce investment in chip production as it believes demand will pick up in the second half of 2023.
+The value of <strong>Norway’s </strong>$1.3trn sovereign-wealth fund, one of the world’s largest, fell by around 14% in 2022. The fund, which holds assets nearly three times larger than Norway’s GDP, lost 1.64trn krone ($167bn) last year. [Nicolai Tangen](https://www.economist.com/europe/2020/04/30/a-scandal-in-squeaky-clean-norway), its chief executive, said that the war in Ukraine, high inflation, and rising interest rates had all done damage.
 
 In <strong>Pakistan</strong> rescuers are still searching for bodies after a suicide bombing at a mosque in Peshawar on Monday killed at least 90 people. The mosque was in a fortified security compound that houses the city’s police and counter-terrorism offices and many of the dead were policemen. The [Tehreek-e Taliban Pakistan](https://www.economist.com/asia/2023/01/05/pakistan-and-china-find-they-have-little-leverage-with-the-taliban), a militant organisation, denied responsibility for the bombing, blaming a splinter group.
 
@@ -64,7 +64,7 @@ The decision follows a long campaign by some locals to update the event, which c
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="bcedc9d5c6f9cfccced9cfcfd3fcd9dfd3d2d3d1d5cfc892dfd3d1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4e1f3b27340b3d3e3c2b3d3d210e2b2d21202123273d3a602d2123">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What was the code name given to the development of the nuclear bomb during the second world war?  
   
