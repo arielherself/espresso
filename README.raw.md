@@ -12,13 +12,13 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-In <strong>France </strong>protesters paralysed public transport and closed schools in the second national demonstration against President Emmanuel Macron’s most recent attempt to reform <strong>pensions</strong>. Mr Macron wants to raise France’s [unusually low](https://www.economist.com/the-economist-explains/2023/01/31/why-is-the-french-pension-age-so-low) minimum retirement age from 62 to 64. But this has proved wildly unpopular: over a million people attended the previous protest on January 19th and 68% of French disagree with the reform.
+In <strong>France </strong>protesters paralysed public transport and closed schools in the second national demonstration against President Emmanuel Macron’s most recent attempt to reform <strong>pensions</strong>. Mr Macron wants to raise France’s [unusually low](https://www.economist.com/the-economist-explains/2023/01/31/why-is-the-french-pension-age-so-low) minimum retirement age from 62 to 64. But this has proved wildly unpopular: over a million people attended the previous protest on January 19th and 68% of French people disagree with the reform.
 
 <strong>America</strong> said <strong>Russia</strong> is not complying with New Start, the two countries’ last remaining <strong>nuclear-arms</strong> control treaty. Russia has suspended weapons inspections and pulled out of consultations, officials from America’s state department said in a report to Congress. The compliance failures heighten concerns that the two powers will be [unable to negotiate](https://www.economist.com/united-states/2022/07/31/will-the-ukraine-war-ring-the-knell-for-nuclear-arms-control) an extension to New Start, which expires in 2026.
 
 <strong>Exxon Mobil</strong> recorded a record annual profit last year, of $55.7bn. The only firms that have outperformed the oil major or are likely to are Alphabet, Apple and Microsoft. It was the fourth-best performing stock in the S&amp;P 500 last year—up by about 80%. Exxon’s stellar year was fuelled by [surging energy prices](https://www.economist.com/finance-and-economics/2022/05/31/why-the-oil-price-is-spiking-again) amid the war in Ukraine.
 
-The <strong>euro zone </strong>looks set to narrowly [dodge a recession](https://www.economist.com/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) after the region’s economy grew by 0.1% in the fourth quarter of 2022. Record energy prices, forced up by Russia’s invasion of Ukraine, and high inflation had been expected to contract the economy. The euro-zone’s meagre expansion is, however, somewhat inflated by Ireland where multinationals book profits to swerve tax.
+The <strong>euro zone </strong>looks set to narrowly [dodge a recession](https://www.economist.com/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) after the region’s economy grew by 0.1% in the fourth quarter of 2022. Record energy prices, forced up by Russia’s invasion of Ukraine, and high inflation had been expected to lead to a contraction in the economy. The euro-zone’s meagre expansion is, however, somewhat inflated by Ireland where multinationals book profits to swerve tax.
 
 Listen to an abridged version of the subscriber-only briefing.
 
@@ -64,7 +64,7 @@ The decision follows a long campaign by some locals to update the event, which c
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2475514d5e615754564157574b6441474b4a4b494d57500a474b49">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="316044584b744241435442425e7154525e5f5e5c5842451f525e5c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What was the code name given to the development of the nuclear bomb during the second world war?  
   
