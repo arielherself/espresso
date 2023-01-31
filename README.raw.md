@@ -14,7 +14,7 @@
 
 President Joe Biden said <strong>America</strong> would not send F-16 fighter jets to <strong>Ukraine</strong>, despite pleas from Ukrainian officials for air support. Germany has also ruled out providing aircraft. However [Emmanuel Macron](https://www.economist.com/the-economist-explains/2023/01/27/what-exactly-is-emmanuel-macrons-policy-on-ukraine), France’s president, said “nothing is excluded” when it comes to military assistance. Meanwhile Volodymyr Zelensky, Ukraine’s president, said Russia has begun its “big revenge” for Ukrainian resistance, amid Russian attacks in eastern Ukraine.
 
-<strong>America</strong> will end its <strong>covid-19</strong> emergency declarations on May 11th, nearly three years after they were introduced. The measures were put in place by Donald Trump, but Joe Biden has repeatedly extended them, allowing Americans to get free covid treatments, vaccines and [tests](https://www.economist.com/science-and-technology/2023/01/04/all-around-the-world-covid-surveillance-is-faltering). Costs will instead soon be charged to private insurance and government-health plans. 
+The <strong>euro zone </strong>looks set to narrowly [dodge a recession](https://www.economist.com/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) after the region’s economy grew by 0.1% in the fourth quarter of 2022. Record energy prices, forced up by Russia’s invasion of Ukraine, and high inflation had been expected to contract the economy. The euro-zone’s meagre expansion is, however, somewhat inflated by Ireland where multinationals book profits to swerve tax.
 
 The <strong>Biden administration</strong> reportedly stopped providing licences for some American firms to export items to <strong>Huawei</strong>. The Chinese telecom giant has faced [export restrictions](https://www.economist.com/business/2022/10/25/ren-zhengfei-has-big-plans-for-huawei-in-spite-of-american-sanctions) for years because of concerns that it helps China’s government engage in espionage. The proposed tightening is seen as another step towards the imposition of a total ban on sale of American technology to Huawei.
 
@@ -38,11 +38,11 @@ Since the IMF last forecast global growth the world economy has enjoyed good new
 
 The fund warns, however, of dangers ahead. Underlying inflation is still rising, fuelled by overheating [labour markets](https://www.economist.com/graphic-detail/2023/01/24/where-have-all-americas-workers-gone). It will be harder to refill Europe’s gas storage for next winter without Russian inflows and with China hungry for energy. Financial stability risks “remain elevated”. And growth is not quickening everywhere. The fund has downgraded its growth forecast for Britain by almost a percentage point to -0.6%, making it the only major economy projected to shrink in 2023.
 
-## Adani’s troubles rumble on
+## Some relief for Adani
 
 Last week Hindenburg Research, a small American investment firm, published [a report](https://www.economist.com/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire) calling the Adani Group, a big [Indian conglomerate](https://www.economist.com/business/2022/09/01/adani-v-ambani-the-battle-of-the-tycoons), “the largest con in corporate history”. Adani dismissed the report as a ploy by Hindenburg, which as a short-seller makes money when its targets’ share prices tank, to depress its share price ahead of a secondary-share offering, which ends on Tuesday. If it was, it worked. The market value of the group’s firms fell by nearly $70bn—even though it published a 413-page rebuttal.
 
-The fallout could be more devastating yet. Life Insurance Corporation of India, a state insurer with 365bn rupees ($4.5bn) invested in Adani companies, is studying the issue. Opposition parties have called for a “serious investigation”, pointing to ties between the prime minister, Narendra Modi, and Gautam Adani, the group’s founder and boss. So far Mr Modi and his allies have been quiet. Prospective investors, however, have not. The share offering, with which Adani hoped to raise $2.5bn, was close to fully subscribed on Tuesday.
+The fallout could be more devastating yet. Life Insurance Corporation of India, a state insurer with 365bn rupees ($4.5bn) invested in Adani companies, is studying the issue. Opposition parties have called for a “serious investigation”, pointing to ties between the prime minister, Narendra Modi, and Gautam Adani, the group’s founder and boss. So far Mr Modi and his allies have been quiet. Some prospective investors, however, have not. The share offering, with which Adani hopes to raise $2.5bn, was fully subscribed on Tuesday.
 
 ## Saving the ​​Colorado river
 
@@ -64,7 +64,7 @@ The decision follows a long campaign by some locals to update the event, which c
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Tuesday: </strong>What was the code name given to the development of the nuclear bomb during the second world war?  
   
