@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-America’s <strong>Federal Reserve</strong> raised its benchmark interest rate by one-quarter of a percentage point, to a range between 4.5% and 4.75%, following [six consecutive](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) larger increases. Jerome Powell, chair of the central bank, promised “a couple more” rate increases and warned not to expect rate cuts this year. The Fed is keen to impress upon investors that it will do whatever it takes to squelch inflation.
+America’s <strong>Federal Reserve</strong> [raised its benchmark interest rate](https://te.arielherself.xyz/finance-and-economics/2023/02/01/rallying-markets-suffer-from-a-doveish-illusion) by one-quarter of a percentage point, to a range between 4.5% and 4.75%, following [six consecutive](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) larger increases. Jerome Powell, chair of the central bank, promised “a couple more” rate increases and warned not to expect rate cuts this year. The Fed is keen to impress upon investors that it will do whatever it takes to squelch inflation.
 
 <strong>Meta’s</strong> share price rocketed by almost a fifth in post-session trading after it reported quarterly revenues of $32.2bn, down by 4% year over year but above forecasts. Earlier a judge in California reportedly ruled that Meta can proceed with its acquisition of Within Unlimited, a virtual-reality firm. The <strong>Federal Trade Commission </strong>had requested an injunction to block the deal.
 
@@ -66,7 +66,7 @@ The one-woman show, in which a performer plays several characters, has a place i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e7b6928e9da294979582949488a782848889888a8e9493c984888a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="eebf9b8794ab9d9e9c8b9d9d81ae8b8d81808183879d9ac08d8183">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which magazine did Helen Gurley Brown edit for 32 years?  
   
