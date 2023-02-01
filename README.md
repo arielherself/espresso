@@ -52,7 +52,7 @@ With inflation close to the central bank’s upper limit of 6% and government de
 
 ## Myanmar’s state of emergency
 
-In 2015 and 2020 Aung San Suu Kyi’s National League for Democracy won democratic elections in Myanmar and led the first civilian governments in decades. But Wednesday marks two years since the army took back power in a [coup](https://te.arielherself.xyz/briefing/2021/02/06/myanmars-coup-turns-the-clock-back-a-decade) and shattered the country’s young democracy, [locking Ms Suu Kyi up](https://te.arielherself.xyz/asia/2021/12/11/myanmars-generals-want-aung-san-suu-kyi-locked-up-forever) for good measure.  
+In 2015 and 2020 Aung San Suu Kyi’s National League for Democracy won democratic elections in Myanmar and led the first civilian governments in decades. But Wednesday marks two years since the army took back power [in a coup](https://te.arielherself.xyz/asia/2023/01/31/myanmars-civil-war-has-moved-to-its-heartlands) and shattered the country’s young democracy, [locking Ms Suu Kyi up](https://te.arielherself.xyz/asia/2021/12/11/myanmars-generals-want-aung-san-suu-kyi-locked-up-forever) for good measure.  
   
  It is also decision time for the army, which looks set to extend the state of emergency that it declared on the day of the coup. That keeps power in the hands of [General Min Aung Hlaing](https://te.arielherself.xyz/asia/2023/01/12/myanmars-generals-are-deeply-superstitious), who is also the prime minister, and who has failed to quell an anti-coup uprising that is becoming enmeshed in the country’s old ethnic conflicts.
 
@@ -68,7 +68,7 @@ The one-woman show, in which a performer plays several characters, has a place i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="217054485b645251534452524e6144424e4f4e4c4852550f424e4c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="91c0e4f8ebd4e2e1e3f4e2e2fed1f4f2fefffefcf8e2e5bff2fefc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which magazine did Helen Gurley Brown edit for 32 years?  
   
