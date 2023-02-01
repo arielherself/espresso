@@ -18,7 +18,7 @@
 
 The pace of <strong>euro-zone inflation </strong>slowed to an annual rate of 8.5% in January, according to preliminary figures, the third [monthly decrease](https://te.arielherself.xyz/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) in a row. Lower energy costs are largely responsible for the deceleration. But core inflation, which excludes volatile energy and food prices, remains at an all-time high. European central bankers are expected to hike interest rates again on Thursday.
 
-<strong>America </strong>and<strong> India</strong> launched several defence and technology initiatives to counter China’s growing influence in the Indo-Pacific. They will co-operate in several areas, including artificial intelligence, semiconductors and weapons production. Many countries have adopted [similar Indo-Pacific strategies](https://te.arielherself.xyz/asia/2023/01/04/reinventing-the-indo-pacific) in recent years. America is also hoping to wean India off its reliance on Russian weapons.
+<strong>FBI </strong>agents searched President <strong>Joe Biden’s</strong> beach house for improperly-stored classified documents dating from his time as vice-president in the Obama administration. Classified papers have [already been discovered](https://te.arielherself.xyz/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) in one of Mr Biden’s old offices and at his family home. Mr Biden’s lawyer said that the president is co-operating fully with the Justice Department’s investigation.
 
 The largest day of [industrial action](https://te.arielherself.xyz/britain/2022/11/03/britain-faces-a-wave-of-industrial-action-this-winter) in at least ten years began in <strong>Britain </strong>as teachers, civil servants, train drivers, and university lecturers walked out over pay and working conditions. Around 500,000 workers are expected to participate. Britain’s government warned of “significant disruption”, with thousands of schools closed. [Healthworkers](https://te.arielherself.xyz/britain/2022/12/19/british-nurses-launch-unprecedented-strikes) and firefighters are planning more strikes soon.
 
@@ -66,7 +66,7 @@ The one-woman show, in which a performer plays several characters, has a place i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="ecbd998596a99f9c9e899f9f83ac898f83828381859f98c28f8381">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which magazine did Helen Gurley Brown edit for 32 years?  
   
