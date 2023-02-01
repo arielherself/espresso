@@ -16,7 +16,7 @@
 
 The pace of <strong>euro-zone inflation </strong>slowed to an annual rate of 8.5% in January, according to preliminary figures, the third [monthly decrease](https://te.arielherself.xyz/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) in a row. Lower energy costs are largely responsible for the deceleration. But core inflation, which excludes volatile energy and food prices, remains at an all-time high. European central bankers are expected to hike interest rates again on Thursday.
 
-<strong>Gautam Adani</strong>, the boss of Adani Group, lost his status as the richest man in Asia, or even India, after his net worth dropped by around $44bn in just one week. Shares in the vast [Indian conglomerate](https://te.arielherself.xyz/leaders/2023/01/31/nagging-questions-over-the-adani-empire-wont-go-away), that ranges from cement to media, fell by 28% on Wednesday<em>.</em> The company has now lost $92bn in market value since Hindenburg Research, a short-seller, declared that the business empire was a giant con.
+<strong>Gautam Adani</strong>, the boss of the Adani Group, lost his status as the richest man in Asia, or even India, after his net worth dropped by around $44bn in just one week. Shares in the vast [Indian conglomerate](https://te.arielherself.xyz/leaders/2023/01/31/nagging-questions-over-the-adani-empire-wont-go-away), that ranges from cement to media, fell by 28% on Wednesday<em>.</em> The company has now lost $92bn in market value since Hindenburg Research, a short-seller, declared that the business empire was a giant con.
 
 <strong>America </strong>and<strong> India</strong> launched several defence and technology initiatives to counter China’s growing influence in the Indo-Pacific. They will co-operate in several areas, including artificial intelligence, semiconductors and weapons production. Many countries have adopted [similar Indo-Pacific strategies](https://te.arielherself.xyz/asia/2023/01/04/reinventing-the-indo-pacific) in recent years. America is also hoping to wean India off its reliance on Russian weapons.
 
@@ -66,7 +66,7 @@ The one-woman show, in which a performer plays several characters, has a place i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f9a88c9083bc8a898b9c8a8a96b99c9a96979694908a8dd79a9694">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="81d0f4e8fbc4f2f1f3e4f2f2eec1e4e2eeefeeece8f2f5afe2eeec">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which magazine did Helen Gurley Brown edit for 32 years?  
   
