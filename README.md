@@ -24,7 +24,7 @@ The largest day of [industrial action](https://te.arielherself.xyz/britain/2022/
 
 <strong>Factory activity</strong> in several <strong>Asian countries</strong> shrank in January amid [slowing growth](https://te.arielherself.xyz/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) in America and Europe. Manufacturing indices in China, Japan, South Korea and Taiwan all contracted. Chinese factories were hit by staff absences because of surging covid-19 infections. However, activity in South-East Asian countries, such as Indonesia and Thailand, picked up.
 
-<strong>Australian</strong> authorities found a tiny <strong>radioactive capsule</strong> after a week-long search along a 1,400km highway in the country’s expansive wilderness. The pellet was part of a tool that measured iron ore at a mine owned by [Rio Tinto, a global mining giant](https://te.arielherself.xyz/business/rio-tinto-and-the-problem-of-toxic-culture/21807599). People were told to stay at least five metres from the capsule to avoid radiation.
+<strong>Tom Brady</strong>, American football’s [greatest quarterback,](https://te.arielherself.xyz/graphic-detail/2022/01/07/the-nfls-greatest-player-is-also-its-oldest) announced that he would retire “for good”, 22 years after becoming a starting player for the New England Patriots. Mr Brady has won best player of the season 15 times and led his team to the Super Bowl ten times (winning seven). Last year Mr Brady announced his resignation but changed his mind six weeks later.
 
 <strong>Fact of the day:</strong> $230bn, the amount China spent on defence in 2022. [Read the full story.](https://te.arielherself.xyz/china/2023/01/26/does-chinas-softer-tone-extend-to-taiwan)
 
@@ -66,7 +66,7 @@ The one-woman show, in which a performer plays several characters, has a place i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7322061a09360003011600001c3316101c1d1c1e1a00075d101c1e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6332160a19261013110610100c2306000c0d0c0e0a10174d000c0e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which magazine did Helen Gurley Brown edit for 32 years?  
   
