@@ -20,8 +20,6 @@ The pace of <strong>euro-zone inflation </strong>slowed to an annual rate of 8.5
 
 Shares in the <strong>Adani Group</strong>, a vast [Indian conglomerate](https://te.arielherself.xyz/leaders/2023/01/31/nagging-questions-over-the-adani-empire-wont-go-away) that ranges from cement to media, fell again on Wednesday. The company has now lost $84bn in market value since Hindenburg Research, a short-seller, declared that the business empire was a giant con. The group successfully raised $2.5bn in a share offering ending on Tuesday, but this has not diminished investors’ scepticism.
 
-Listen to an abridged version of the subscriber-only briefing.
-
 The largest day of [industrial action](https://te.arielherself.xyz/britain/2022/11/03/britain-faces-a-wave-of-industrial-action-this-winter) in at least ten years began in <strong>Britain </strong>as teachers, civil servants, train drivers, and university lecturers walked out over pay and working conditions. Around 500,000 workers are expected to participate. Britain’s government warned of “significant disruption”, with thousands of schools closed. [Healthworkers](https://te.arielherself.xyz/britain/2022/12/19/british-nurses-launch-unprecedented-strikes) and firefighters are planning more strikes soon.
 
 <strong>Factory activity</strong> in several <strong>Asian countries</strong> shrank in January amid [slowing growth](https://te.arielherself.xyz/finance-and-economics/2023/01/24/how-the-world-economy-could-avoid-recession) in America and Europe. Manufacturing indices in China, Japan, South Korea and Taiwan all contracted. Chinese factories were hit by staff absences because of surging covid-19 infections. However, activity in South-East Asian countries, such as Indonesia and Thailand, picked up.
@@ -68,7 +66,7 @@ The one-woman show, in which a performer plays several characters, has a place i
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="91c0e4f8ebd4e2e1e3f4e2e2fed1f4f2fefffefcf8e2e5bff2fefc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1f4e6a76655a6c6f6d7a6c6c705f7a7c70717072766c6b317c7072">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Wednesday: </strong>Which magazine did Helen Gurley Brown edit for 32 years?  
   
