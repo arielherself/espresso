@@ -22,7 +22,7 @@ The share price of the <strong>Adani Group </strong>continued to fall during ear
 
 <strong>America</strong> signed a deal with the <strong>Philippines</strong>, granting it access to four military bases from which it will monitor China’s aggression in the region. The Philippines is close to the South China Sea (which China mostly claims) and Taiwan (which it fully does). China’s neighbours are increasingly [pushing back](https://www.economist.com/asia/2023/02/01/chinas-put-upon-maritime-neighbours-are-pushing-back) on such expansionism.
 
-<strong>Meta’s</strong> share price rocketed by almost a fifth in post-session trading after it reported quarterly revenues of $32.2bn, down by 4% year over year but above forecasts. The social-media firm also said it would buy back $40bn of its shares. Earlier a judge in California reportedly ruled that Meta can proceed with its acquisition of Within Unlimited, a virtual-reality firm. The <strong>Federal Trade Commission </strong>had requested an injunction to block the deal.
+Shares in <strong>Deutsche Bank</strong> fell by about 5% after the bank missed analysts’ expectations for fourth-quarter profits. Despite an end-of-year slowdown, Germany’s [largest bank](https://www.economist.com/finance-and-economics/2022/01/29/has-deutsche-bank-turned-the-corner) has had a bumper year—it doubled its net profits to €5.7bn($6bn), a 15-year record. The bank was helped by rising interest rates and a febrile market, which proved a boon for fixed-income trading.
 
 <strong>Australia’s</strong> central bank said that <strong>King Charles III</strong> would not feature on the country’s new five-dollar note. The British monarch—who is also Australia’s head of state—has traditionally appeared on the currency. A motif honouring Aboriginal culture will take the king’s place. The [death](https://www.economist.com/leaders/2022/09/08/the-death-of-elizabeth-ii-marks-the-end-of-an-era) of Queen Elizabeth II in September 2022 rekindled a debate on whether Australia should [become a republic](https://www.economist.com/international/2022/09/09/some-of-the-new-kings-realms-may-become-republics).
 
@@ -66,7 +66,7 @@ China’s leader, Xi Jinping, has [suppressed](https://www.economist.com/china/2
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="adfcd8c4d7e8dedddfc8dedec2edc8cec2c3c2c0c4ded983cec2c0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What is the name for a one-wheeled passenger seat attached to a motorcycle or scooter?  
   
