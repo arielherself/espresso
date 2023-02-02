@@ -32,11 +32,11 @@ Shares in <strong>Deutsche Bank</strong> fell by about 5% after the bank missed 
 
 ## The woes of the Adani empire
 
-What next for the Adani Group? On Wednesday the flagship company of the Indian conglomerate [cancelled a secondary share offering](https://www.economist.com/business/2023/02/01/what-next-for-gautam-adanis-embattled-empire), which had been fully subscribed, after its share price plunged. On Thursday its share price fell further. The rout started last week when Hindenburg Research, an American short-seller, accused the Adani Group of accounting fraud and share-price manipulation—charges that it forcefully denies.
+On Wednesday Adani Enterprises [cancelled a secondary share offering](https://www.economist.com/business/2023/02/01/what-next-for-gautam-adanis-embattled-empire), which had been fully subscribed, after its share price plunged. By Thursday the Adani Group’s losses had reached $100bn. In a four-minute video the firm’s Indian founder, [Gautam Adani](https://www.economist.com/the-economist-explains/2023/01/31/who-is-gautam-adani), dismissed concerns about its finances and insisted that the move was to “insulate investors from potential losses”.  
+  
+ The rout started last week when Hindenburg Research, an American short-seller, [accused](https://www.economist.com/business/2023/01/27/a-short-seller-rattles-gautam-adanis-empire) the Adani Group of accounting fraud and share-price manipulation—charges it denies. The threat does not appear existential. Mr Adani is considered an able operator and his companies own many valuable assets. No rating agency has yet reappraised the group’s debt, which boasts an investment grade.
 
-The threat does not appear existential. [Gautam Adani](https://www.economist.com/the-economist-explains/2023/01/31/who-is-gautam-adani), the founder and until recently the world’s third-richest man, is considered an able operator and his companies own many valuable assets. No rating agency has yet reappraised the group’s debt, which boasts an investment grade.
-
-Yet it is hard to believe that Mr Adani’s grand investment plans will be unaffected. Between 2023 and 2027 his group was forecast to spend more than $50bn on investments. If the yields on Adani bonds remain elevated and its share prices depressed, securing the necessary funds will prove difficult. Foreign investors are not taking any chances. In just two recent days, global funds pulled a net $1.5bn from the Indian stockmarket.
+Yet it is hard to believe that his grand investment plans will be unaffected. Between 2023 and 2027 his group was forecast to spend more than $50bn on investments. If the yields on Adani bonds remain elevated and its share prices depressed, securing the necessary cash will prove difficult. Foreign investors are not taking any chances. In just two recent days, global funds pulled a net $1.5bn from the Indian stockmarket.
 
 ## Sweden and Finland discuss NATO bids
 
@@ -66,7 +66,7 @@ China’s leader, Xi Jinping, has [suppressed](https://www.economist.com/china/2
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d786a2bead92a4a7a5b2a4a4b897b2b4b8b9b8babea4a3f9b4b8ba">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5f0e2a36251a2c2f2d3a2c2c301f3a3c30313032362c2b713c3032">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What is the name for a one-wheeled passenger seat attached to a motorcycle or scooter?  
   
