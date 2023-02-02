@@ -52,9 +52,9 @@ The lifting of pandemic-related restrictions almost everywhere last year—China
 
 ## The BoE’s interest-rate decision
 
-The Bank of England is expected to raise its interest rate to 4% on Thursday, from 3.5%. The key question, though, is what signal the central bank’s nine-member monetary-policy committee will send about the pace of future rises. In November it noted that market expectations of where rates would peak were higher than its own. Market interest rates have since come down. 
+As expected the Bank of England raised its interest rate to 4% on Thursday, from 3.5%, its tenth consecutive raise. Central-bank watchers, though, were looking keenly for a signal from the central bank’s nine-member monetary-policy committee about the pace of future rises. In a statement the committee was more dovish than in recent months. While recognising the “considerable uncertainties around the outlook”, including on the impact of previous rises, it suggested that only unexpectedly dire news about inflation would require a further rise next time it meets.
 
-The committee may be more uncertain than usual about prospects for inflation, and thus interest rates. The bank’s governor, Andrew Bailey, has suggested that falling wholesale gas prices will make it easier to reduce inflation without steep increases in rates, which would be good news for the economy. But the bank’s chief economist, Huw Pill, has warned that Britain faces a unique combination of challenges that could cause inflation to persist more stubbornly than in America or Europe. If so, interest rates may have to continue rising more quickly and steeply than some observers expect.
+Before the announcement the bank’s governor, Andrew Bailey, had suggested that falling wholesale gas prices will make it easier to reduce inflation without steep increases in rates, which would be good news for the economy. But the bank’s chief economist, Huw Pill, had warned that Britain faces a unique combination of challenges that could cause inflation to persist more stubbornly than in America or Europe. If he is right then, interest rates may have to continue rising.
 
 ## Why China chooses to forget
 
@@ -66,7 +66,7 @@ China’s leader, Xi Jinping, has [suppressed](https://www.economist.com/china/2
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6e3f1b07142b1d1e1c0b1d1d012e0b0d01000103071d1a400d0103">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What is the name for a one-wheeled passenger seat attached to a motorcycle or scooter?  
   
