@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Russia </strong>stepped up its assault on <strong>eastern</strong> <strong>Ukraine</strong> ahead of the first anniversary of its invasion on February 24th. Volodomyr Zelensky, Ukraine’s president, said the situation in the east had “become tougher” as Russian forces advanced near the city of Bakhmut. However Ukrainian troops there are [quietly confident](https://te.arielherself.xyz/europe/2023/02/01/ukraines-troops-in-the-east-are-quietly-confident) of holding their enemy off. Russia wants to make gains before [tanks and weapons from the West](https://te.arielherself.xyz/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) arrive in Ukraine.
+<strong>Ursula von der Leyen</strong>, president of the European Commission, arrived in Kyiv for meetings with Volodymyr Zelensky, Ukraine’s president, about his country eventually joining the EU. Earlier <strong>Russia </strong>stepped up its assault on <strong>eastern</strong> <strong>Ukraine</strong>. Mr Zelensky said the situation in the east had “become tougher” as Russian forces advanced near the city of Bakhmut. However Ukrainian troops there are [quietly confident](https://te.arielherself.xyz/europe/2023/02/01/ukraines-troops-in-the-east-are-quietly-confident) of holding their enemy off.
 
 The <strong>European Central Bank</strong> raised interest rates by 0.5 percentage points to 2.5% and signalled a similar rise in March. Euro-zone inflation has [been slowing](https://te.arielherself.xyz/finance-and-economics/2022/12/07/inflation-is-falling-but-not-enough), due to cheaper energy costs, but at 8.5% remains high. The <strong>Bank of England</strong> raised its rate by the same amount, from 3.5% to 4%, but suggested that the pace of rises may slow.
 
@@ -66,7 +66,7 @@ China’s leader, Xi Jinping, has [suppressed](https://te.arielherself.xyz/china
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6233170b18271112100711110d2207010d0c0d0f0b11164c010d0f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="28795d41526d5b585a4d5b5b47684d4b47464745415b5c064b4745">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Thursday: </strong>What is the name for a one-wheeled passenger seat attached to a motorcycle or scooter?  
   
