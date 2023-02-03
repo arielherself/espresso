@@ -12,11 +12,11 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
+<strong>Antony Blinken</strong>, America’s secretary of state, postponed his planned trip to China after the Pentagon detected a Chinese spy balloon flying over Montana. Mr Blinken was due to land in China on Sunday, and was expected to meet with President Xi Jinping. China denied that the object was a spy balloon, claiming it was used for “meteorological” purposes and had been blown off course.
+
 <strong>American employers </strong>added 517,000 jobs in January, an unexpectedly large increase in an already-tight [labour market](https://te.arielherself.xyz/finance-and-economics/2022/11/24/why-american-unemployment-needs-to-rise) and a sign that a recession is not quite close at hand. The unemployment rate fell by 0.1 percentage points to 3.4%, a 53-year low. To policymakers’ relief, wage growth slowed, with average hourly earnings rising by 0.3% from December. Stockmarkets dipped on the news, as investors expect the Federal Reserve to keep raising interest rates.
 
 Shares in <strong>Alphabet</strong>, <strong>Apple</strong> and <strong>Amazon</strong> all slid after the tech giants reported weak results for the last quarter of 2022. Poor iPhone sales caused Apple’s quarterly revenues to fall by 5.5% year on year, the first decline in more than three years. Alphabet said quarterly revenues grew by just 1%, to $76bn, undershooting expectations. Amazon reported that net income was just $278m, down by 98%.
-
-The Pentagon is tracking a suspected <strong>Chinese</strong> spy balloon flying over parts of <strong>America</strong>. Officials decided against shooting it down because of fears about falling debris. The balloon was first spotted in the northern state of Montana. The incident will heighten [tensions between America and China](https://te.arielherself.xyz/china/2023/01/29/a-new-challenge-to-relations-between-america-and-china). Antony Blinken, America’s secretary of state, is expected to visit Beijing next week.
 
 <strong>Ursula von der Leyen</strong>, president of the European Commission, arrived in Kyiv for meetings with Volodymyr Zelensky, Ukraine’s president, about his country’s EU accession bid. European officials will also discuss imposing new sanctions on Russia. Meanwhile, on a visit to Volgograd (formerly Stalingrad), scene of a desperate Russian victory against the Nazis 80 years ago, Vladimir Putin promised to again repel German tanks in Ukraine.
 
@@ -72,7 +72,7 @@ What prompted the octogenarian film-maker to work with such a proverbially obsti
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d485a1bdae91a7a4a6b1a7a7bb94b1b7bbbabbb9bda7a0fab7bbb9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1243677b68576162607761617d5277717d7c7d7f7b61663c717d7f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What menace features in the TV shows “Black Summer” and “The Walking Dead”?
 
