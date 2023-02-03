@@ -64,15 +64,15 @@ ASEAN relies on consensus. Yet its menagerie of different models of government, 
 
 ## What’s it like to be a donkey?
 
-The latest film by Jerzy Skolimowksi, a Polish writer-director, has an unusual main character: a donkey. This unconventional casting has gone down well with critics. “EO” secured an Oscar nomination for best international feature film.
+The latest film by Jerzy Skolimowski, a Polish writer-director, has an unusual main character: a donkey. This unconventional casting has gone down well with critics. “EO” secured an Oscar nomination for best international feature film.
 
 The film tells the story of its titular long-eared protagonist, whose name, EO, is a phonetic spelling of its bray. EO travels from a circus in Poland to Italy, and is betrayed, neglected and mistreated by humans along the way. The director takes pains not to anthropomorphise his subject and the film reveals the world through EO’s eyes—at times literally, with the camera positioned at the creature’s sightline.
 
-What prompted the octogenarian film-maker to work with such a proverbially obstinate beast? Mr Skolimowksi was motivated, in part, by animal-welfare concerns. And his respect for animals deepened during filming, as he bonded with the donkeys in his cast. According to Mr Skolimowksi, donkeys “are stubborn, but they’re not stupid.”
+What prompted the octogenarian film-maker to work with such a proverbially obstinate beast? Mr Skolimowski was motivated, in part, by animal-welfare concerns. And his respect for animals deepened during filming, as he bonded with the donkeys in his cast. According to Mr Skolimowski, donkeys “are stubborn, but they’re not stupid.”
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="abfadec2d1eed8dbd9ced8d8c4ebcec8c4c5c4c6c2d8df85c8c4c6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="faab8f9380bf898a889f898995ba9f999594959793898ed4999597">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Friday: </strong>What menace features in the TV shows “Black Summer” and “The Walking Dead”?
 
