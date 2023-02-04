@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>America</strong> shot down a Chinese balloon over the Atlantic. Officials had cleared the Carolina coastline in preparation for the operation; efforts to recover the debris are underway. Earlier, <strong>Antony Blinken</strong>, America’s secretary of state, postponed a planned trip to China after the Pentagon detected the suspected spy balloon flying over sensitive military sites. Beijing denied that the object was a spy balloon, adding that American politicians were using the incident to “smear China”.
+<strong>America</strong> shot down a Chinese balloon over the Atlantic. Officials had cleared the Carolina coastline in preparation for the operation; efforts to recover the debris are underway. Earlier, <strong>Antony Blinken</strong>, America’s secretary of state, [postponed](https://te.arielherself.xyz/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) a planned trip to China after the Pentagon detected the suspected spy balloon flying over sensitive military sites. Beijing denied that the object was a spy balloon, adding that American politicians were using the incident to “smear China”.
 
 <strong>China </strong>said that political trust with <strong>Russia </strong>had deepened following a meeting between the two countries’ foreign ministers last week. The announcement came exactly one year after President Xi Jinping’s declaration that the two countries enjoy a “friendship without limits”. China has largely [shown indifference](https://te.arielherself.xyz/china/2023/02/02/why-vladimir-putin-is-not-a-pariah-in-china) to Russia’s invasion of Ukraine.
 
@@ -38,7 +38,7 @@ Antony Blinken, America’s top diplomat, was scheduled to arrive in Beijing on 
 
 The Pentagon claimed it was a surveillance balloon, though it downplayed its potential value for gathering intelligence. China said it was a “civilian airship” used mainly for meteorological research. It expressed regret about the balloon’s “unintended” entry into American airspace.
 
-Officials in Washington are disinclined to give China the benefit of the doubt. No politician wants to [appear soft towards the country](https://te.arielherself.xyz/china/2023/01/29/a-new-challenge-to-relations-between-america-and-china). That limits the Biden administration’s room for manoeuvre. Mr Blinken may still hope to visit Beijing at some point. One could argue, though, that now is precisely the time when talks are needed. 
+Officials in Washington are disinclined to give China the benefit of the doubt. No politician wants to [appear soft towards the country](https://te.arielherself.xyz/china/2023/01/29/a-new-challenge-to-relations-between-america-and-china). That limits the Biden administration’s room for manoeuvre. Mr Blinken may still hope to visit Beijing at some point. One could argue, though, that now is [precisely the time](https://te.arielherself.xyz/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) when talks are needed. 
 
 ## Pope Francis prays for peace in South Sudan
 
