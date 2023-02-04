@@ -12,81 +12,105 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Antony Blinken</strong>, America’s secretary of state, [postponed his planned trip to China](https://www.economist.com/china/2023/02/03/how-a-balloon-burst-sino-american-talks) after the Pentagon detected a Chinese spy balloon flying over Montana. Mr Blinken was due to land in China on Sunday, and was expected to meet with President Xi Jinping. China denied that the object was a spy balloon, claiming it was used for “meteorological” purposes and had been blown off course.
+Antony Blinken, America’s secretary of state, [postponed his planned trip](https://www.economist.com/china/2023/02/03/how-a-balloon-burst-sino-american-talks) to China after the Pentagon detected a Chinese balloon flying over Montana. Mr Blinken was due to land in China on Sunday, and was expected to meet with President Xi Jinping. China denied that the object was a spy balloon, and said that American politicians were using the incident to “smear China”. American officials said on Friday that a second Chinese spy balloon was flying over Latin America.
 
-<strong>American employers </strong>added 517,000 jobs in January, an unexpectedly large increase in an already-tight [labour market](https://www.economist.com/finance-and-economics/2022/11/24/why-american-unemployment-needs-to-rise) and a sign that a recession is not quite close at hand. The unemployment rate fell by 0.1 percentage points to 3.4%, a 53-year low. To policymakers’ relief, wage growth slowed, with average hourly earnings rising by 0.3% from December. Stockmarkets dipped on the news, as investors expect the Federal Reserve to keep raising interest rates.
+<strong>American employers </strong>added 517,000 jobs in January, an unexpectedly large increase in an already-tight [labour market](https://www.economist.com/finance-and-economics/2022/11/24/why-american-unemployment-needs-to-rise) and a sign that a recession is not quite close at hand. The unemployment rate fell by 0.1 percentage points to 3.4%, a 53-year low. To policymakers’ relief, wage growth slowed, with average hourly earnings rising by 0.3% from December. Stockmarkets dipped on the news, as investors expect the Federal Reserve to keep raising interest rates. 
 
-The <strong>EU</strong> agreed to a cap of $100 per barrel for exports of <strong>Russia’s refined-oil products</strong>, such as diesel, to take effect on Sunday. Fuel oil and other low-value exports will be capped at $45. A cap of $60 [already applies to Russian crude](https://www.economist.com/leaders/2023/02/01/why-the-wests-oil-sanctions-on-russia-are-proving-to-be-underwhelming). Insurers and shippers are prohibited from dealing in items covered by the cap unless they were bought below or at the designated price.
+The <strong>EU</strong> agreed to a cap of $100 per barrel on exports of <strong>Russia’s refined-oil products</strong>, such as diesel, to take effect on Sunday. Fuel oil and other low-value exports will be capped at $45. A cap of $60 [already applies to Russian crude](https://www.economist.com/leaders/2023/02/01/why-the-wests-oil-sanctions-on-russia-are-proving-to-be-underwhelming). Insurers and shippers are prohibited from dealing in items covered by the cap unless they were bought below or at the designated price.
 
-As Russia’s forces close in on the battered city of <strong>Bakhmut</strong>, Ukraine’s president said his troops would hold firm. Standing alongside EU leaders in Kyiv on Friday, Volodymr Zelensky declared that “no one will give away Bakhmut.” Meanwhile, America announced a new $2.2bn [aid package](https://www.economist.com/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) that includes longer-range precision missiles.
+As Russia’s forces close in on the battered city of <strong>Bakhmut</strong>, Ukraine’s president said his troops would hold firm. Standing alongside EU leaders in Kyiv on Friday, Volodymyr Zelensky declared that “no one will give away Bakhmut.” Meanwhile, America announced a new $2.2bn [aid package](https://www.economist.com/leaders/2023/01/25/nato-members-are-right-to-send-tanks-to-ukraine) that includes longer-range precision missiles.
 
-<strong>Pope Francis</strong> pleaded for peace in a speech to government officials in Juba, the capital of conflict-ridden [<strong>South Sudan</strong>](https://www.economist.com/middle-east-and-africa/2021/07/10/south-sudans-second-decade-may-be-as-troubled-as-its-first), where he arrived on Friday. “I beg of you…‘No more of this!’” he said, quoting Jesus in the New Testament, to an audience that included the country’s president. Joining him in South Sudan are the leaders of the Anglican and Scottish Presbyterian churches.
+<strong>Elon Musk </strong>and <strong>Tesla</strong> were cleared of wrongdoing over tweets from 2018 in which Mr Musk said he had “funding secured” to take the electric-vehicle firm private. Some of Tesla’s shareholders had filed a lawsuit against [Mr Musk](https://www.economist.com/leaders/2022/12/19/elon-musks-44bn-education-on-free-speech), claiming that he misled them with his social-media posts (the proposed deal did not materialise). But a jury in San Francisco found Tesla’s chief executive not guilty of fraud.
 
 <strong>Google</strong> invested about $300m and took a 10% stake in Anthropic, an <strong>artificial-intelligence</strong> startup, the<em> Financial Times</em> reported on Friday. Big tech is arming itself for [competition in AI](https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up): Microsoft recently announced a further $10bn investment in and partnership with OpenAI, which built ChatGPT, a chatbot. Anthropic was founded by former employees of OpenAI.
 
-<strong>Bobi</strong>, from Portugal, claimed the title of the world’s oldest dog after reaching the venerable age of 30, according to Guinness World Records. [His breed](https://www.economist.com/interactive/christmas-specials/2022/12/20/what-makes-certain-dogs-popular-in-certain-countries), a purebred Rafeiro do Alentejo, usually lives for around 12 to 14 years. Bobi’s long life was very nearly cut short; his owners intended to put him down as a puppy but he escaped.
+Researchers exploring a cave system in Spain discovered evidence that <strong>cave bears</strong>, a prehistoric species that went extinct around 24,000 years ago, may have lived further south than previously thought. The researchers found that the walls of the vast cave, which had been sealed off for thousands of years, had been clawed at by the creatures. Martín Lerma, the scientific director of the excavation, said the find “opens a new door on prehistory.”
 
-<strong>Correction:</strong> In Wednesday’s edition we mistakenly said that Tom Brady had won best player of the season 15 times. Mr Brady has been chosen for the “pro bowl” game, which features the best players of the season, 15 times, but has only been crowned best player three times. Sorry.
+<strong>Correction:</strong> In Friday’s edition we misspelt the name of Polish director Jerzy Skolimowski (as Skolimowksi). Sorry.
 
-<strong>Fact of the day: </strong>45.3%, the percentage of the world’s population that live in a democracy of some sort. [Read the full story.](https://www.economist.com/graphic-detail/2023/02/01/the-worlds-most-and-least-democratic-countries-in-2022)
+<strong>Word of the week:</strong> teledildonics, the term in pornography for virtual-sex encounters using remotely controlled toys. [Read the full story.](https://www.economist.com/science-and-technology/2023/02/01/the-touchy-feely-world-of-the-metaverse-and-future-gadgets)
 
 ----------
 
-## Tempering Ukraine’s EU aspirations
+## Tensions between American and China balloon
 
-Ukraine’s desire to [join the EU](https://www.economist.com/leaders/2022/06/16/the-eu-should-declare-ukraine-a-candidate-for-membership) lies at the heart of its conflict with Russia—which invaded last year to stop the country’s turn to the West. On Friday in Kyiv the bloc’s leaders will hold a summit with Volodymyr Zelensky, Ukraine’s president. Ursula von der Leyen, president of the European Commission, and Charles Michel, president of the European Council, will trumpet the EU’s massive financial support to Ukraine and confirm that its candidacy is progressing. But they will also dampen hopes of how quickly it can join.
+Antony Blinken, America’s top diplomat, was scheduled to arrive in Beijing on Sunday. The visit—the first by a secretary of state since 2018—seemed like proof that the countries’ fractious relationship was improving. But now it will not happen. On Friday Mr Blinken postponed his trip after a Chinese high-altitude balloon was spotted flying over America.
 
-Ukraine’s prime minister, Denys Shmyhal, said this week that the country could become a member in two years. EU officials say that is wildly unrealistic. Integrating a huge, impoverished country will be a political challenge. And the bloc demands Ukraine first undertake reforms, including to combat corruption. On February 1st the country’s security services raided the home of a well-known oligarch—earning plaudits from Ms von der Leyen for taking the issue of graft seriously.
+The Pentagon claimed it was a surveillance balloon, though it downplayed its potential value for gathering intelligence. China said it was a “civilian airship” used mainly for meteorological research. It expressed regret about the balloon’s “unintended” entry into American airspace.
 
-## Remaking America’s economy
+Officials in Washington are disinclined to give China the benefit of the doubt. No politician wants to [appear soft towards the country](https://www.economist.com/china/2023/01/29/a-new-challenge-to-relations-between-america-and-china). That limits the Biden administration’s room for manoeuvre. Mr Blinken may still hope to visit Beijing at some point. One could argue, though, that now is precisely the time when talks are needed. 
 
-President Joe Biden has [a plan](https://www.economist.com/leaders/2023/02/02/joe-bidens-effort-to-remake-the-economy-is-ambitious-risky-and-selfish) to change America’s economy. Audaciously, he has decided that the way to cope with three problems which are too hard to tackle separately is to deal with them all at once.   
-  
- In the past two years Congress has passed three bills—on infrastructure, semiconductor chips and greenery—that will make $2trn available. The idea is that, with government action, America can reindustrialise itself, bolster national security and dramatically reduce its carbon emissions all at the same time. 
+## Pope Francis prays for peace in South Sudan
 
-Those goals will sometimes conflict. Protectionism will infuriate the allies that support American security, if they lose vital home industries to American subsidies. The subsidies will also create inefficiencies: if green products such as wind turbines become more expensive, then the green transition will become costlier, too. Instead money should go towards technologies that are not yet commercially viable, such as new types of nuclear reactor. Nevertheless, America’s plan to spend $2trn could help save the planet.
+In 2019, months after striking a power-sharing agreement, Salva Kiir and Riek Machar—the president and one of the vice-presidents of South Sudan, respectively—visited the Vatican. Pope Francis famously kissed their feet, imploring the foes to [maintain their fragile peace](https://www.economist.com/middle-east-and-africa/2019/09/21/south-sudans-war-has-cooled). The two men, who come from rival tribes, had watched their young country descend into a [civil war](https://www.economist.com/middle-east-and-africa/2021/07/10/south-sudans-second-decade-may-be-as-troubled-as-its-first) in 2013. In less than five years the conflict was estimated to have left nearly 400,000 people dead and 4m displaced.
 
-## Big tech eyes AI
+On Friday Francis arrived in Juba, the capital of South Sudan, a predominantly Christian country, with the same message. Joining him are Justin Welby, the archbishop of Canterbury, and Iain Greenshields, of the Church of Scotland. But their prayers for peace will probably fall on deaf ears. Between August and December 166 civilians were killed as violence rose in South Sudan’s Upper Nile state, in the north. And on the eve of Francis’s arrival 27 were killed in the south of the country.
 
-Microsoft, Alphabet, Amazon, Apple and Meta have all now reported their most recent quarterly earnings. Apart from Meta, which saw its share price soar after posting better-than-expected results, the news was generally glum. Sales growth in key markets, such as cloud computing, is slowing as customers cut back on spending. In response, America’s tech giants are increasingly betting on [artificial intelligence](https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up).
+## “The Sign in Sidney Brustein’s Window”
 
-On Wednesday Mark Zuckerberg, the boss of Meta, talked up investments in AI in its recommendation algorithm and its advertising network. Microsoft has, according to the <em>Wall Street Journal</em>, invested as much as $10bn in OpenAI, the startup behind [ChatGPT](https://www.economist.com/business/2022/12/08/how-good-is-chatgpt), a popular AI-powered tool that gives human-like responses to questions. The software giant is reportedly working on incorporating OpenAI’s technology into Bing, its search engine. 
+At 25 [Lorraine Hansberry](https://www.economist.com/1843/2016/04/01/young-gifted-and-black), a black lesbian communist playwright, longed for fame. But she couldn’t have predicted how soon it would come. She was 28 when “A Raisin in the Sun”, about a black family seeking a piece of the American dream, opened on Broadway in 1959. It marked the first time a black woman playwright had reached the Great White Way.
 
-Alphabet, Google’s parent company, recently introduced a model that generates music from text. It is expected to respond to Microsoft with its own AI-powered chatbot. And [the vogue for AI](https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up) is not restricted to Silicon Valley. Baidu, a Chinese search giant, will reportedly launch its own chatbot in March.
+More than 60 years on, “Raisin” remains in heavy rotation. But another of Hansberry’s plays, “The Sign in Sidney Brustein’s Window”, has hardly been staged since it closed on Broadway in 1965, the year she died of cancer aged 34. The Brooklyn Academy of Music’s rare revival, starring Rachel Brosnahan and Oscar Isaac, opens in previews on Saturday. James Baldwin once raved of the play, about a group of friends in Greenwich Village straining to reconcile their ideals with reality, that “it is about nothing less than our responsibility to ourselves and each other.”
 
-## ASEAN’s search for consensus
+## Europe’s rugby World Cup warm-up
 
-Foreign ministers from the Association of South-East Asian Nations gather in Jakarta on Friday for their quarterly talkfest. Those watching the region will try to see how the ten-country bloc might be influenced by Indonesia, which recently assumed the chairmanship.  
-  
- A representative from Timor-Leste will attend, awaiting final approval of its membership application submitted back in 2011. But the military government of [Myanmar](https://www.economist.com/asia/2023/01/31/myanmars-civil-war-has-moved-to-its-heartlands), in power since a violent coup two years ago, is banned from attending. (A “non-political” representative from Myanmar has been invited instead.)
+This year’s [Six Nations tournament](https://www.economist.com/culture/2023/02/03/first-the-six-nations-next-the-world-cup) starts on Saturday. The competition, which pits the top European men’s rugby teams against one another, will also be keenly watched on the other side of the world. Ahead of a World Cup this autumn, Australia, New Zealand and [South Africa](https://www.economist.com/culture/2022/09/22/rugby-brings-south-africa-together-if-only-for-80-minutes) are eyeing the northern-hemisphere competition.
 
-ASEAN relies on consensus. Yet its menagerie of different models of government, from Communist one-party states, such as Vietnam, to vibrant democracies, including the Philippines, makes it hard for members to agree. The bloc has shown some courage in pushing back against Chinese bullying in the [South China Sea](https://www.economist.com/asia/2023/02/01/chinas-put-upon-maritime-neighbours-are-pushing-back). But its feeble five-point peace plan for Myanmar is languishing, ignored by the generals (hence their exclusion). Indonesia will hope to revive progress.
+Those southern-hemisphere powerhouses have won all but one of the previous World Cups. But France will look forward to home advantage. <em>Les bleus</em> have been in formidable form recently, with a powerful pack and a scrum-half, Antoine Dupont, who was voted World Rugby player of the year in 2021. 
 
-## What’s it like to be a donkey?
+It would, then, be a brave fan who bet against France in the Six Nations. But Ireland, who top the world rankings ahead of France and New Zealand, will be favourites. In Josh van der Flier, a flanker, they possess the player of 2022. Of all the northern teams, it is these two that will make southern boots quake come autumn. 
 
-The latest film by Jerzy Skolimowski, a Polish writer-director, has an unusual main character: a donkey. This unconventional casting has gone down well with critics. “EO” secured an Oscar nomination for best international feature film.
+## Weekend profile: Max Martin, pop hitmaker
 
-The film tells the story of its titular long-eared protagonist, whose name, EO, is a phonetic spelling of its bray. EO travels from a circus in Poland to Italy, and is betrayed, neglected and mistreated by humans along the way. The director takes pains not to anthropomorphise his subject and the film reveals the world through EO’s eyes—at times literally, with the camera positioned at the creature’s sightline.
+Britney Spears brought the sex appeal, plaintive vocals and teen longing. Max Martin supplied the rest. In 1998 their track [“...Baby One More Time”](https://www.economist.com/prospero/2018/10/23/how-baby-one-more-time-changed-pop-music) ruled the radio. Any allusions to domestic violence or sado-masochistic sex in the chorus—“Hit me baby one more time”—were supposedly unintentional. Mr Martin, the song’s Swedish writer and producer, says he understood “hit me” to mean “call me”.
 
-What prompted the octogenarian film-maker to work with such a proverbially obstinate beast? Mr Skolimowski was motivated, in part, by animal-welfare concerns. And his respect for animals deepened during filming, as he bonded with the donkeys in his cast. According to Mr Skolimowski, donkeys “are stubborn, but they’re not stupid.”
+The earworm was the first of Mr Martin’s 25 [number-one singles](https://www.economist.com/graphic-detail/2023/02/03/max-martin-knows-how-to-create-a-number-one-hit) on the Billboard Hot 100, a chart of America’s most popular songs. Only Paul McCartney and John Lennon rank higher as songwriters. His collaborators include pop heavyweights from Celine Dion to Taylor Swift. On Sunday, at the Grammy Awards, the 51-year-old has three separate nominations for album of the year: for his production work on Adele’s “30”, Lizzo’s “Special” and Coldplay’s “Music of the Spheres”.
 
-## Daily quiz
+Unlike the Beatles frontmen, Mr Martin has shunned the mic since his early days as a heavy-metal rocker in Sweden. Then he was known as Karl Martin Sandberg. But Denniz PoP, the producer who steered his turn towards songwriting, insisted that he rechristen himself. “‘Martin Sandberg’ wasn’t exactly a disco name, so you couldn’t really talk to him,” Mr PoP later recalled.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3f6e4a56457a4c4f4d5a4c4c507f5a5c50515052564c4b115c5052">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Mr Martin is a proponent of a technique he calls “melodic math”, the principle that every element should serve the record and its melody. Words are chosen for their sound as much as their meaning. Take “...Baby One More Time”—the percussive Bs of “baby” make it a more common endearment in pop songs than, say, “darling”. 
 
-<strong>Friday: </strong>What menace features in the TV shows “Black Summer” and “The Walking Dead”?
+In 2019, in a rare interview with the <em>Guardian</em>, he explained the importance of phonetics, and how “melodic math” came about as a result of not speaking English as a child. He would listen to Abba, Elton John and the Beatles without registering what the songs were about. “I felt something hearing this music, and it meant something to me,” he said. “If you can have a great lyric that also phonetically sounds amazing, then you’re golden. But it’s also kind of cool if you write a song and people are emotionally moved without understanding what’s being said.”
 
-<strong>Thursday: </strong>What is the name for a one-wheeled passenger seat attached to a motorcycle or scooter?
+All these years on, Mr Martin’s knack for meaningful nonsense shows no sign of diminishing.
 
-## The winners of last week’s crossword
+## Weekly crossword
 
-Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
 
-<strong>Brian Dalton</strong>, Washington, DC, America  
-<strong>Bibhusan Chapagain</strong>, Kathmandu, Nepal   
-<strong>Carlos Sangil</strong>, Madrid, Spain
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
-They all gave the correct answers of [Goldman Sachs](https://www.economist.com/briefing/2023/01/26/how-goldman-sachs-went-from-apex-predator-to-wall-street-laggard), [Guinea](https://www.economist.com/asia/2023/01/26/indonesia-embraces-resource-nationalism), [Adani](https://www.economist.com/business/2023/01/26/hindenburgs-critique-of-the-adani-empire) and [Soviet](https://www.economist.com/britain/2023/01/26/blat-the-soviet-art-of-getting-by-comes-to-britain). Check back tomorrow for this week’s crossword.
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Recycle ocean debris to reduce pollution (11) 
+
+<em>1 across</em> Appetite of Spanish man finally sated (6) 
+
+<em>2 across </em>Child, if raised right, becomes intellectual (5) 
+
+<em>3 across </em>Weather pattern regularly seen in Berlin, mid-noon (2, 4) 
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>What Biden wants to do to America’s economy (11) 
+
+<em>1 across</em> What the war in Ukraine has driven up for weapons (6) 
+
+<em>2 across </em>Where differences in political opinion might be seen (5)
+
+<em>3 across </em>What can cause fewer trees to flower in Australia (2, 4)
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+<strong>John MacMorris</strong>, Davis, California, America
+
+<strong>Gines Sánchez</strong>, Panama City, Panama 
+
+<strong>Wendy King</strong>, Sydney, Australia
+
+They all gave the correct answers of <em>gimlet, Manhattan Project, Cosmopolitan, sidecar </em>and <em>zombies</em>. The theme is cocktails.
 
 ----------
 
