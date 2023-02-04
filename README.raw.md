@@ -54,7 +54,7 @@ More than 60 years on, “Raisin” remains in heavy rotation. But another of Ha
 
 ## Europe’s rugby World Cup warm-up
 
-This year’s [Six Nations tournament](https://www.economist.com/culture/2023/02/03/first-the-six-nations-next-the-world-cup) starts on Saturday. The competition, which pits the top European men’s rugby teams against one another, will also be keenly watched on the other side of the world. Ahead of a World Cup this autumn, Australia, New Zealand and [South Africa](https://www.economist.com/culture/2022/09/22/rugby-brings-south-africa-together-if-only-for-80-minutes) are eyeing the northern-hemisphere competition.
+This year’s [Six Nations tournament](https://www.economist.com/culture/2023/02/03/first-the-six-nations-next-the-world-cup) started on Saturday. The competition, which pits the top European men’s rugby teams against one another, will also be keenly watched on the other side of the world. Ahead of a World Cup this autumn, Australia, New Zealand and [South Africa](https://www.economist.com/culture/2022/09/22/rugby-brings-south-africa-together-if-only-for-80-minutes) are eyeing the northern-hemisphere competition.
 
 Those southern-hemisphere powerhouses have won all but one of the previous World Cups. But France will look forward to home advantage. <em>Les bleus</em> have been in formidable form recently, with a powerful pack and a scrum-half, Antoine Dupont, who was voted World Rugby player of the year in 2021. 
 
