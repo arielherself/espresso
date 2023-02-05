@@ -6,13 +6,13 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-02-04</p>
+# <p align="center">The world in brief 2023-02-05</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>America</strong> shot down a Chinese balloon over the Atlantic. Officials had cleared the Carolina coastline in preparation for the operation; efforts to recover the debris are underway. Earlier, <strong>Antony Blinken</strong>, America’s secretary of state, [postponed](https://te.arielherself.xyz/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) a planned trip to China after the Pentagon detected the suspected spy balloon flying over sensitive military sites. Beijing denied that the object was a spy balloon, adding that American politicians were using the incident to “smear China”.
+<strong>America </strong>shot down a <strong>Chinese</strong> balloon over the Atlantic in what the Pentagon said was American airspace. Beijing responded with a sharp statement accusing the Biden administration of “seriously violating international conventions”. Earlier, Antony Blinken, America’s secretary of state, [postponed](https://te.arielherself.xyz/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) a planned trip to China after the Pentagon detected the suspected spy balloon flying over sensitive military sites. 
 
 <strong>China </strong>said that political trust with <strong>Russia </strong>had deepened following a meeting between the two countries’ foreign ministers last week. The announcement came exactly one year after President Xi Jinping’s declaration that the two countries enjoy a “friendship without limits”. China has largely [shown indifference](https://te.arielherself.xyz/china/2023/02/02/why-vladimir-putin-is-not-a-pariah-in-china) to Russia’s invasion of Ukraine.
 
