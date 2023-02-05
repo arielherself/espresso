@@ -20,7 +20,7 @@
 
 Avalanches in <strong>Austria </strong>and <strong>Switzerland </strong>killed ten people in apline ski resorts this weekend. Following intense snowfall and wind Austria put in place a level four avalanche alert, the second highest, meaning “very large avalanches are likely” and advising skiers to keep to official runs.
 
-<strong>Pope Francis</strong> ended his visit to Africa with an open-air mass in <strong>South Sudan</strong> at which he called for worshippers to shun the “blind fury of violence”. The predominantly Christian country slipped into a civil war two years after it broke away from Muslim-dominated Sudan in 2011. Earlier the Pope visited the Democratic Republic of Congo and held a million-person mass in its capital Juba
+<strong>General Pervez Musharraf</strong>, a former president of <strong>Pakistan</strong> who seized power in a military coup in 1999, died aged 79. Mr Musharraf oversaw a period of rapid economic growth, but was criticised by some for using the military to silence critics and for supporting America’s post-9/11 “war on terror”. [Mr Musharraf](https://www.economist.com/leaders/2013/06/29/the-general-in-the-dock) left office in 2008 and spent his later years in exile in Dubai.
 
 <strong>Foxconn</strong>, a Taiwanese electronics manufacturer with factories in China, reported record revenues of T$660bn ($22bn) in January, an increase of 48% year-on-year. The firm, which makes about 70% of Apple’s iPhones, has recovered after [severe disruptions](https://www.economist.com/china/2022/11/27/unrest-breaks-out-across-china-as-frustration-at-lockdowns-grows) caused by China’s zero-covid policy. The company reported that its factory outside the Chinese city of Zhengzhou has returned to normal levels of production.
 
