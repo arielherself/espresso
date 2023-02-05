@@ -30,6 +30,24 @@ America’s <strong>Democratic Party’s</strong> national committee voted to re
 
 ----------
 
+## Endless paralysis in Lebanon
+
+After the crime comes the cover-up. The investigation of the massive explosion at Beirut’s port in 2020, which killed 218 people, was stalled for more than a year by legal challenges. Tarek Bitar, the judge overseeing it, had hoped to resume interrogating officials on Monday. Instead he has been charged with judicial misconduct by Lebanon’s top prosecutor—one of the officials whom Mr Bitar had sought to question.
+
+The judicial feud is yet another sign of Lebanon’s dysfunction. It has not had a president since October, and parliament has failed 11 times to elect a new one. Last year the caretaker cabinet went six months without meeting. More than three years into a financial crisis, Lebanon’s currency has lost 97% of its value. Annual inflation was 171% in 2022. Bailout talks with the IMF are stalled. Lebanon’s corrupt ruling class cannot agree on anything, it seems, except their collective taste for impunity.
+
+## What’s at stake in Cyprus
+
+Greek Cypriots hold a presidential election on Sunday. The front-runner is Nikos Christodoulides, who resigned last month as foreign minister because rivals in the ruling party were angry about his presidential ambitions. Mr Christodoulides, now an independent backed by left-of-centre parties, is unlikely to get more than 50% of the vote (as are the other 13 candidates). But he should win a run-off on February 12th. Turkish Cypriots living in the north of the [divided island ](https://www.economist.com/europe/2021/11/18/putting-cyprus-together-may-be-impossible)will not participate.
+
+One of Mr Christodoulides’s main challenges will be to manage the complex [energy politics](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets) of the eastern Mediterranean. Several international companies plan to start exploiting natural gas from the Cypriot seabed. Israel and Egypt are already exploring their own such deposits, while Turkey has failed to make any finds so far. Cyprus could sell gas to Egypt, some of which could be re-exported to Turkey. A costly pipeline project to carry gas between Crete, Greece and Italy is also being discussed. Mr Christodoulides’s priority will be to ensure that Cyprus’s long-awaited gas bonanza actually happens. 
+
+## The Grammys might get it right, at last
+
+On Sunday American music’s great and good slap each others’ backs and dole out their annual awards. The sheer number of categories, at 91, speaks to the self-importance of the Recording Academy, which puts on the Grammys. That clubby self-regard has mired the awards show in controversy, prompting accusations of racism for snubs of black singers, and criticism for opaque voting procedures. 
+
+This year, at least, the nominations reflect pop culture. Black artists are present in all the major categories and among the favourites; exciting young bands such as Idles, Turnstile and Wet Leg have nominations; and there is the chance for both Taylor Swift and Beyoncé to win the major awards that have, surprisingly, been denied them so far: song of the year for Ms Swift, and [album of the year for Beyoncé](https://www.economist.com/culture/2022/08/01/renaissance-is-a-clever-crowd-pleasing-pop-album). Still, all awards ceremonies end in one certainty: that come the morning after, someone, somewhere will be up in arms about the injustice of it all.
+
 ## Brain-activity patterns cluster with ideology
 
 Everyone knows the frustration of arguing with a stubborn opponent. New research suggests that those on opposite sides of the political spectrum do not merely fail to see eye to eye; their brains [behave differently](https://www.economist.com/science-and-technology/2023/02/02/people-of-different-opinions-process-political-data-differently) in ways that are stark enough to be detectable with fairly crude instruments. Two groups of researchers scanned the brains of left- and right-wingers as they were shown words and news clips. Using changes in blood flow as a proxy for neural activity, both found that the subjects’ brains responded in similar ways to neutral material, but diverged when presented with content about divisive topics like immigration. 
@@ -49,12 +67,6 @@ Mr Martin is a proponent of a technique he calls “melodic math”, the princip
 In 2019, in a rare interview with the <em>Guardian</em>, he explained the importance of phonetics, and how “melodic math” came about as a result of not speaking English as a child. He would listen to Abba, Elton John and the Beatles without registering what the songs were about. “I felt something hearing this music, and it meant something to me,” he said. “If you can have a great lyric that also phonetically sounds amazing, then you’re golden. But it’s also kind of cool if you write a song and people are emotionally moved without understanding what’s being said.”
 
 All these years on, Mr Martin’s knack for meaningful nonsense shows no sign of diminishing.
-
-## The Grammys might get it right, at last
-
-On Sunday American music’s great and good slap each others’ backs and dole out their annual awards. The sheer number of categories, at 91, speaks to the self-importance of the Recording Academy, which puts on the Grammys. That clubby self-regard has mired the awards show in controversy, prompting accusations of racism for snubs of black singers, and criticism for opaque voting procedures. 
-
-This year, at least, the nominations reflect pop culture. Black artists are present in all the major categories and among the favourites; exciting young bands such as Idles, Turnstile and Wet Leg have nominations; and there is the chance for both Taylor Swift and Beyoncé to win the major awards that have, surprisingly, been denied them so far: song of the year for Ms Swift, and [album of the year for Beyoncé](https://www.economist.com/culture/2022/08/01/renaissance-is-a-clever-crowd-pleasing-pop-album). Still, all awards ceremonies end in one certainty: that come the morning after, someone, somewhere will be up in arms about the injustice of it all.
 
 ## Weekly crossword
 
@@ -82,12 +94,6 @@ Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://
 
 <em>3 across </em>What can cause fewer trees to flower in Australia (2, 4)
 
-## What’s at stake in Cyprus
-
-Greek Cypriots hold a presidential election on Sunday. The front-runner is Nikos Christodoulides, who resigned last month as foreign minister because rivals in the ruling party were angry about his presidential ambitions. Mr Christodoulides, now an independent backed by left-of-centre parties, is unlikely to get more than 50% of the vote (as are the other 13 candidates). But he should win a run-off on February 12th. Turkish Cypriots living in the north of the [divided island ](https://www.economist.com/europe/2021/11/18/putting-cyprus-together-may-be-impossible)will not participate.
-
-One of Mr Christodoulides’s main challenges will be to manage the complex [energy politics](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets) of the eastern Mediterranean. Several international companies plan to start exploiting natural gas from the Cypriot seabed. Israel and Egypt are already exploring their own such deposits, while Turkey has failed to make any finds so far. Cyprus could sell gas to Egypt, some of which could be re-exported to Turkey. A costly pipeline project to carry gas between Crete, Greece and Italy is also being discussed. Mr Christodoulides’s priority will be to ensure that Cyprus’s long-awaited gas bonanza actually happens. 
-
 ## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
@@ -99,12 +105,6 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Wendy King</strong>, Sydney, Australia
 
 They all gave the correct answers of <em>gimlet, Manhattan Project, Cosmopolitan, sidecar </em>and <em>zombies</em>. The theme is cocktails.
-
-## Endless paralysis in Lebanon
-
-After the crime comes the cover-up. The investigation of the massive explosion at Beirut’s port in 2020, which killed 218 people, was stalled for more than a year by legal challenges. Tarek Bitar, the judge overseeing it, had hoped to resume interrogating officials on Monday. Instead he has been charged with judicial misconduct by Lebanon’s top prosecutor—one of the officials whom Mr Bitar had sought to question.
-
-The judicial feud is yet another sign of Lebanon’s dysfunction. It has not had a president since October, and parliament has failed 11 times to elect a new one. Last year the caretaker cabinet went six months without meeting. More than three years into a financial crisis, Lebanon’s currency has lost 97% of its value. Annual inflation was 171% in 2022. Bailout talks with the IMF are stalled. Lebanon’s corrupt ruling class cannot agree on anything, it seems, except their collective taste for impunity.
 
 ----------
 
