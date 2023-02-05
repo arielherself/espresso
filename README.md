@@ -30,33 +30,11 @@ America’s <strong>Democratic Party’s</strong> national committee voted to re
 
 ----------
 
-## Tensions between American and China balloon
+## Brain-activity patterns cluster with ideology
 
-Antony Blinken, America’s top diplomat, was scheduled to arrive in Beijing on Sunday. The visit—the first by a secretary of state since 2018—seemed like proof that the countries’ fractious relationship was improving. But now it will not happen. On Friday Mr Blinken postponed his trip after a Chinese high-altitude balloon was spotted flying over America.
+Everyone knows the frustration of arguing with a stubborn opponent. New research suggests that those on opposite sides of the political spectrum do not merely fail to see eye to eye; their brains [behave differently](https://te.arielherself.xyz/science-and-technology/2023/02/02/people-of-different-opinions-process-political-data-differently) in ways that are stark enough to be detectable with fairly crude instruments. Two groups of researchers scanned the brains of left- and right-wingers as they were shown words and news clips. Using changes in blood flow as a proxy for neural activity, both found that the subjects’ brains responded in similar ways to neutral material, but diverged when presented with content about divisive topics like immigration. 
 
-The Pentagon claimed it was a surveillance balloon, though it downplayed its potential value for gathering intelligence. China said it was a “civilian airship” used mainly for meteorological research. It expressed regret about the balloon’s “unintended” entry into American airspace.
-
-Officials in Washington are disinclined to give China the benefit of the doubt. No politician wants to [appear soft towards the country](https://te.arielherself.xyz/china/2023/01/29/a-new-challenge-to-relations-between-america-and-china). That limits the Biden administration’s room for manoeuvre. Mr Blinken may still hope to visit Beijing at some point. One could argue, though, that now is [precisely the time](https://te.arielherself.xyz/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) when talks are needed. 
-
-## Pope Francis prays for peace in South Sudan
-
-In 2019, months after striking a power-sharing agreement, Salva Kiir and Riek Machar—the president and one of the vice-presidents of South Sudan, respectively—visited the Vatican. Pope Francis famously kissed their feet, imploring the foes to [maintain their fragile peace](https://te.arielherself.xyz/middle-east-and-africa/2019/09/21/south-sudans-war-has-cooled). The two men, who come from rival tribes, had watched their young country descend into a [civil war](https://te.arielherself.xyz/middle-east-and-africa/2021/07/10/south-sudans-second-decade-may-be-as-troubled-as-its-first) in 2013. In less than five years the conflict was estimated to have left nearly 400,000 people dead and 4m displaced.
-
-On Friday Francis arrived in Juba, the capital of South Sudan, a predominantly Christian country, with the same message. Joining him are Justin Welby, the archbishop of Canterbury, and Iain Greenshields, of the Church of Scotland. But their prayers for peace will probably fall on deaf ears. Between August and December 166 civilians were killed as violence rose in South Sudan’s Upper Nile state, in the north. And on the eve of Francis’s arrival 27 were killed in the south of the country.
-
-## “The Sign in Sidney Brustein’s Window”
-
-At 25 [Lorraine Hansberry](https://te.arielherself.xyz/1843/2016/04/01/young-gifted-and-black), a black lesbian communist playwright, longed for fame. But she couldn’t have predicted how soon it would come. She was 28 when “A Raisin in the Sun”, about a black family seeking a piece of the American dream, opened on Broadway in 1959. It marked the first time a black woman playwright had reached the Great White Way.
-
-More than 60 years on, “Raisin” remains in heavy rotation. But another of Hansberry’s plays, “The Sign in Sidney Brustein’s Window”, has hardly been staged since it closed on Broadway in 1965, the year she died of cancer aged 34. The Brooklyn Academy of Music’s rare revival, starring Rachel Brosnahan and Oscar Isaac, opens in previews on Saturday. James Baldwin once raved of the play, about a group of friends in Greenwich Village straining to reconcile their ideals with reality, that “it is about nothing less than our responsibility to ourselves and each other.”
-
-## Europe’s rugby World Cup warm-up
-
-This year’s [Six Nations tournament](https://te.arielherself.xyz/culture/2023/02/03/first-the-six-nations-next-the-world-cup) started on Saturday. The competition, which pits the top European men’s rugby teams against one another, will also be keenly watched on the other side of the world. Ahead of a World Cup this autumn, Australia, New Zealand and [South Africa](https://te.arielherself.xyz/culture/2022/09/22/rugby-brings-south-africa-together-if-only-for-80-minutes) are eyeing the northern-hemisphere competition.
-
-Those southern-hemisphere powerhouses have won all but one of the previous World Cups. But France will look forward to home advantage. <em>Les bleus</em> have been in formidable form recently, with a powerful pack and a scrum-half, Antoine Dupont, who was voted World Rugby player of the year in 2021. 
-
-It would, then, be a brave fan who bet against France in the Six Nations. But Ireland, who top the world rankings ahead of France and New Zealand, will be favourites. In Josh van der Flier, a flanker, they possess the player of 2022. Of all the northern teams, it is these two that will make southern boots quake come autumn. 
+Measuring blood flow using magnetic-resonance imaging, Daantje de Bruin and Oriel FeldmanHall, of Brown University in Rhode Island, recorded different patterns of activity in parts of the brain that handle emotions and cognition. Noa Katabi and Yaara Yeshurun, of Tel Aviv University, saw differences in the areas that deal with hearing, vision and movement. Big differences of opinion show up as big differences in brain activity.
 
 ## Weekend profile: Max Martin, pop hitmaker
 
@@ -71,6 +49,12 @@ Mr Martin is a proponent of a technique he calls “melodic math”, the princip
 In 2019, in a rare interview with the <em>Guardian</em>, he explained the importance of phonetics, and how “melodic math” came about as a result of not speaking English as a child. He would listen to Abba, Elton John and the Beatles without registering what the songs were about. “I felt something hearing this music, and it meant something to me,” he said. “If you can have a great lyric that also phonetically sounds amazing, then you’re golden. But it’s also kind of cool if you write a song and people are emotionally moved without understanding what’s being said.”
 
 All these years on, Mr Martin’s knack for meaningful nonsense shows no sign of diminishing.
+
+## The Grammys might get it right, at last
+
+On Sunday American music’s great and good slap each others’ backs and dole out their annual awards. The sheer number of categories, at 91, speaks to the self-importance of the Recording Academy, which puts on the Grammys. That clubby self-regard has mired the awards show in controversy, prompting accusations of racism for snubs of black singers, and criticism for opaque voting procedures. 
+
+This year, at least, the nominations reflect pop culture. Black artists are present in all the major categories and among the favourites; exciting young bands such as Idles, Turnstile and Wet Leg have nominations; and there is the chance for both Taylor Swift and Beyoncé to win the major awards that have, surprisingly, been denied them so far: song of the year for Ms Swift, and [album of the year for Beyoncé](https://te.arielherself.xyz/culture/2022/08/01/renaissance-is-a-clever-crowd-pleasing-pop-album). Still, all awards ceremonies end in one certainty: that come the morning after, someone, somewhere will be up in arms about the injustice of it all.
 
 ## Weekly crossword
 
@@ -98,6 +82,12 @@ Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://
 
 <em>3 across </em>What can cause fewer trees to flower in Australia (2, 4)
 
+## What’s at stake in Cyprus
+
+Greek Cypriots hold a presidential election on Sunday. The front-runner is Nikos Christodoulides, who resigned last month as foreign minister because rivals in the ruling party were angry about his presidential ambitions. Mr Christodoulides, now an independent backed by left-of-centre parties, is unlikely to get more than 50% of the vote (as are the other 13 candidates). But he should win a run-off on February 12th. Turkish Cypriots living in the north of the [divided island ](https://te.arielherself.xyz/europe/2021/11/18/putting-cyprus-together-may-be-impossible)will not participate.
+
+One of Mr Christodoulides’s main challenges will be to manage the complex [energy politics](https://te.arielherself.xyz/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets) of the eastern Mediterranean. Several international companies plan to start exploiting natural gas from the Cypriot seabed. Israel and Egypt are already exploring their own such deposits, while Turkey has failed to make any finds so far. Cyprus could sell gas to Egypt, some of which could be re-exported to Turkey. A costly pipeline project to carry gas between Crete, Greece and Italy is also being discussed. Mr Christodoulides’s priority will be to ensure that Cyprus’s long-awaited gas bonanza actually happens. 
+
 ## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
@@ -109,6 +99,12 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Wendy King</strong>, Sydney, Australia
 
 They all gave the correct answers of <em>gimlet, Manhattan Project, Cosmopolitan, sidecar </em>and <em>zombies</em>. The theme is cocktails.
+
+## Endless paralysis in Lebanon
+
+After the crime comes the cover-up. The investigation of the massive explosion at Beirut’s port in 2020, which killed 218 people, was stalled for more than a year by legal challenges. Tarek Bitar, the judge overseeing it, had hoped to resume interrogating officials on Monday. Instead he has been charged with judicial misconduct by Lebanon’s top prosecutor—one of the officials whom Mr Bitar had sought to question.
+
+The judicial feud is yet another sign of Lebanon’s dysfunction. It has not had a president since October, and parliament has failed 11 times to elect a new one. Last year the caretaker cabinet went six months without meeting. More than three years into a financial crisis, Lebanon’s currency has lost 97% of its value. Annual inflation was 171% in 2022. Bailout talks with the IMF are stalled. Lebanon’s corrupt ruling class cannot agree on anything, it seems, except their collective taste for impunity.
 
 ----------
 
