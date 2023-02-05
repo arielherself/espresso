@@ -14,7 +14,7 @@
 
 Divers from <strong>America’s </strong>navy are working to recover debris from the <strong>Chinese balloon </strong>that an American fighter jet [shot down Saturday](https://te.arielherself.xyz/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) over the Atlantic. The Pentagon confirmed it was downed over American territorial waters, but China accused the Biden administration of “seriously violating international conventions”. China has denied that the balloon, which the Pentagon detected flying over sensitive military sites, was used for surveillance. 
 
-<strong>Iran</strong>’s supreme leader, Ayatollah Ali Khamenei, claimed to have pardoned “tens of thousands” of prisoners, including some arrested in recent anti-government protests. The death of Mahsa Amini, a young woman arrested in September for not wearing a “proper” headscarf, sparked daily demonstrations. To [quell demonstrations](https://te.arielherself.xyz/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory) the authorities locked up nearly 20,000 people, sentencing over 100 to death.
+<strong>Iran’s </strong>supreme leader, Ayatollah Ali Khamenei, claimed to have pardoned “tens of thousands” of prisoners, including some arrested in recent anti-government protests. The death of Mahsa Amini, a young woman arrested in September for not wearing a “proper” headscarf, sparked daily demonstrations. To [quell demonstrations](https://te.arielherself.xyz/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory) the authorities locked up nearly 20,000 people, sentencing over 100 to death. 
 
 <strong>Ukraine’s </strong>defence minister, Oleksii Reznikov, will be replaced following a [corruption scandal](https://te.arielherself.xyz/europe/2023/01/25/a-minister-is-sacked-in-ukraine-as-corruption-allegations-swirl). Mr Reznikov’s deputy resigned after media reports accused the defence ministry of graft, but Mr Reznikov had said he would step down only if Volodymyr Zelensky, the country’s president, asked him to. Kyrylo Budanov, the head of military intelligence, will reportedly take his post. 
 
@@ -29,6 +29,24 @@ The presidential election in <strong>Cyprus</strong> will go to a run-off next w
 <strong>Word of the week:</strong> teledildonics, the term in pornography for virtual-sex encounters using remotely controlled toys. [Read the full story.](https://te.arielherself.xyz/science-and-technology/2023/02/01/the-touchy-feely-world-of-the-metaverse-and-future-gadgets)
 
 ----------
+
+## The world in brief, February 4th 2023
+
+Divers from <strong>America’s </strong>navy are working to recover debris from the <strong>Chinese balloon </strong>that an American fighter jet [shot down Saturday](https://te.arielherself.xyz/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) over the Atlantic. The Pentagon confirmed it was downed over American territorial waters, but China accused the Biden administration of “seriously violating international conventions”. China has denied that the balloon, which the Pentagon detected flying over sensitive military sites, was used for surveillance. 
+
+<strong>Iran’s </strong>supreme leader, Ayatollah Ali Khamenei, claimed to have pardoned “tens of thousands” of prisoners, including some arrested in recent anti-government protests. The death of Mahsa Amini, a young woman arrested in September for not wearing a “proper” headscarf, sparked daily demonstrations. To [quell demonstrations](https://te.arielherself.xyz/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory) the authorities locked up nearly 20,000 people, sentencing over 100 to death. 
+
+<strong>Ukraine’s </strong>defence minister, Oleksii Reznikov, will be replaced following a [corruption scandal](https://te.arielherself.xyz/europe/2023/01/25/a-minister-is-sacked-in-ukraine-as-corruption-allegations-swirl). Mr Reznikov’s deputy resigned after media reports accused the defence ministry of graft, but Mr Reznikov had said he would step down only if Volodymyr Zelensky, the country’s president, asked him to. Kyrylo Budanov, the head of military intelligence, will reportedly take his post. 
+
+The presidential election in <strong>Cyprus</strong> will go to a run-off next week after no candidate won an outright majority. Former foreign minister Nikos Christodoulides took 32% of the vote. Mr Christodoulides’s lead was expected, but Andreas Mavroyiannis, a career diplomat backed by a left-wing party, was a surprise runner-up. On the [divided island](https://te.arielherself.xyz/europe/2021/11/18/putting-cyprus-together-may-be-impossible), only Greek Cypriots participated in the vote.
+
+<strong>General Pervez Musharraf</strong>, a former president of <strong>Pakistan</strong> who seized power in a military coup in 1999, died aged 79. [Mr Musharraf](https://te.arielherself.xyz/asia/2023/02/05/pervez-musharraf-was-one-of-pakistans-better-army-dictators) oversaw a period of rapid economic growth, but was criticised by some for using the military to silence critics and for supporting America’s post-9/11 “war on terror”. Mr Musharraf left office in 2008 and spent his later years in exile in Dubai.
+
+<strong>Foxconn</strong>, a Taiwanese electronics manufacturer with factories in China, reported record revenues of T$660bn ($22bn) in January, an increase of 48% year-on-year. The firm, which makes about 70% of Apple’s iPhones, has recovered after [severe disruptions](https://te.arielherself.xyz/china/2022/11/27/unrest-breaks-out-across-china-as-frustration-at-lockdowns-grows) caused by China’s zero-covid policy. Foxconn reported that its factory outside the Chinese city of Zhengzhou has returned to normal levels of production.
+
+<strong>Charles Bronson</strong>, one of Britain’s most [dangerous prison inmates](https://te.arielherself.xyz/britain/1999/05/13/end-of-the-line), launched an online sale of new artwork ahead of a gallery exhibition later this month. Mr Bronson has spent much of the past 50 years in solitary confinement but has created a market for his cartoons. Born Michael Peterson, he renamed himself after the American actor but now goes by Charles Salvador, after his artistic hero, Salvador Dali.
+
+<strong>Word of the week:</strong> teledildonics, the term in pornography for virtual-sex encounters using remotely controlled toys. [Read the full story.](https://te.arielherself.xyz/science-and-technology/2023/02/01/the-touchy-feely-world-of-the-metaverse-and-future-gadgets)
 
 ## Endless paralysis in Lebanon
 
