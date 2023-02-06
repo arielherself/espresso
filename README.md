@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Two large earthquakes struck southern <strong>Turkey </strong>and <strong>Syria </strong>killing more than 2,300 people and trapping many more under collapsed buildings. The [first quake’s epicentre](https://te.arielherself.xyz/science-and-technology/predicting-earthquakes-is-not-possible-yet/21807129) was near the Turkish city of Gaziantep and had a magnitude of 7.8. Hours later a second quake of similar magnitude hit. These were the strongest earthquakes in the region since one near Istanbul in 1999 that killed over 17,000 people. 
+Large earthquakes struck southern <strong>Turkey</strong> and <strong>Syria</strong>, [killing more than 2,300 people](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) and trapping many more under collapsed buildings. The initial quake’s epicentre was near the Turkish city of Gaziantep and had a magnitude of 7.8. Hours later an aftershock of similar magnitude hit further north. These were the strongest earthquakes in the region since one near Istanbul in 1999 that killed over 17,000 people.
 
 The trial began in <strong>Hong Kong</strong> of a swathe of opposition politicians and pro-democracy campaigners. Forty-seven people, including prominent activists such as Joshua Wong, have been charged with organising a primary contest to determine candidates for legislative elections in 2020. It is the [largest case](https://te.arielherself.xyz/china/2021/01/07/hong-kong-arrests-dozens-of-pro-democracy-activists) yet brought under the territory’s draconian national-security law. The arrests effectively wiped out all opposition voices in Hong Kong’s legislative assembly.
 
@@ -68,7 +68,7 @@ A bigger motive may have been to protect domestic moviemakers. Patriotic hits li
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d584a0bcaf90a6a5a7b0a6a6ba95b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0b5a7e62714e787b796e7878644b6e686465646662787f25686466">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
 <strong>Monday: </strong>Which band, which had their greatest success in the 1980s, had hits with “Something About You” and “Lessons in Love”?
 
