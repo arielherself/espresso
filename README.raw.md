@@ -12,117 +12,65 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Divers from <strong>America’s </strong>navy are working to recover debris from the <strong>Chinese balloon </strong>that an American fighter jet [shot down Saturday](https://www.economist.com/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) over the Atlantic. The Pentagon confirmed it was downed over American territorial waters, but China accused the Biden administration of “seriously violating international conventions”. China has denied that the balloon, which the Pentagon detected flying over sensitive military sites, was used for surveillance. 
+An earthquake of magnitude 7.8 struck southern <strong>Turkey</strong><strong></strong>and <strong>Syria</strong>, killing more than 500 people. The death toll is expected to rise as officials and rescuers assess the damage. The earthquake’s epicentre was near [Gaziantep](https://www.economist.com/special-report/2010/10/23/silk-road-to-riches) in Turkey; nine other cities were also affected. Tremors were also felt in Cyprus and Lebanon. The [region](https://www.economist.com/special-report/2023/01/16/the-effects-on-turkey-of-syrias-civil-war) is one of the world’s most active earthquake zones. 
 
-<strong>Iran’s </strong>supreme leader, Ayatollah Ali Khamenei, claimed to have pardoned “tens of thousands” of prisoners, including some arrested in recent anti-government protests. The death of Mahsa Amini, a young woman arrested in September for not wearing a “proper” headscarf, sparked daily demonstrations. To [quell demonstrations](https://www.economist.com/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory) the authorities locked up nearly 20,000 people, sentencing over 100 to death. 
+The trial began in <strong>Hong Kong</strong> of a swathe of opposition politicians and pro-democracy campaigners. Forty-seven people, including prominent activists such as Joshua Wong, have been charged with organising a primary contest to determine candidates for legislative elections in 2020. It is the [largest case](https://www.economist.com/china/2021/01/07/hong-kong-arrests-dozens-of-pro-democracy-activists) yet brought under the territory’s draconian national-security law. The arrests effectively wiped out all opposition voices in Hong Kong’s legislative assembly.
+
+<strong>China’s</strong> vice-foreign minister, Xie Feng, submitted a formal complaint to the American embassy in Beijing over the [Chinese balloon](https://www.economist.com/china/2023/02/03/how-a-balloon-burst-sino-american-talks) that <strong>America</strong> shot down over the Atlantic on Saturday. He claimed that the decision to destroy the device “seriously violated the spirit of international law”. China has denied that the <strong>balloon</strong>, which the Pentagon detected flying over sensitive military sites, was used for surveillance. 
+
+Hundreds of protesters took to the streets in <strong>Delhi</strong> and other Indian cities amid growing calls to investigate [allegations](https://www.economist.com/business/2023/02/01/what-next-for-gautam-adanis-embattled-empire) of fraud against the <strong>Adani Group</strong>, an Indian conglomerate. Many demonstrators were associated with the Congress, [India’s main opposition party](https://www.economist.com/asia/2022/10/06/indias-congress-party-seems-determined-to-prove-its-critics-right). Around $110bn was wiped from the market value of the group’s firms after [Hindenburg Research](https://www.economist.com/business/2023/02/02/hindenburg-research-attacker-of-the-adani-empire), an American short-seller, made the allegations on January 24th.
+
+<strong>Indonesia’s economy</strong> grew at its fastest annual rate in nine years in 2022, with GDP rising by 5.3%. [South-East Asia’s largest economy](https://www.economist.com/briefing/2022/11/14/indonesia-is-poised-for-a-boom-politics-permitting) benefited from the end of covid restrictions, a rebound in tourism and a global boom in commodity prices. However the pace of growth slowed in the fourth quarter of 2022, as demand for exports such as palm oil weakened.
 
 <strong>Ukraine’s </strong>defence minister, Oleksii Reznikov, will be replaced following a [corruption scandal](https://www.economist.com/europe/2023/01/25/a-minister-is-sacked-in-ukraine-as-corruption-allegations-swirl). Mr Reznikov’s deputy resigned after media reports accused the defence ministry of graft, but Mr Reznikov had said he would step down only if Volodymyr Zelensky, the country’s president, asked him to. Kyrylo Budanov, the head of military intelligence, will reportedly take his post. 
 
-The presidential election in <strong>Cyprus</strong> will go to a run-off next week after no candidate won an outright majority. Former foreign minister Nikos Christodoulides took 32% of the vote. Mr Christodoulides’s lead was expected, but Andreas Mavroyiannis, a career diplomat backed by a left-wing party, was a surprise runner-up. On the [divided island](https://www.economist.com/europe/2021/11/18/putting-cyprus-together-may-be-impossible), only Greek Cypriots participated in the vote.
+<strong>Beyoncé </strong>won a 32nd <strong>Grammy</strong>, the most by any artist. “[Renaissance](https://www.economist.com/culture/2022/08/01/renaissance-is-a-clever-crowd-pleasing-pop-album)” was awarded the best dance/electronic album, while one of its singles, “Cuff It”, was crowned the best R&amp;B song. That meant she overtook Georg Solti, a Hungarian-British conductor, whose record of 31 awards had stood for more than 20 years.
 
-<strong>General Pervez Musharraf</strong>, a former president of <strong>Pakistan</strong> who seized power in a military coup in 1999, died aged 79. [Mr Musharraf](https://www.economist.com/asia/2023/02/05/pervez-musharraf-was-one-of-pakistans-better-army-dictators) oversaw a period of rapid economic growth, but was criticised by some for using the military to silence critics and for supporting America’s post-9/11 “war on terror”. Mr Musharraf left office in 2008 and spent his later years in exile in Dubai.
-
-<strong>Foxconn</strong>, a Taiwanese electronics manufacturer with factories in China, reported record revenues of T$660bn ($22bn) in January, an increase of 48% year-on-year. The firm, which makes about 70% of Apple’s iPhones, has recovered after [severe disruptions](https://www.economist.com/china/2022/11/27/unrest-breaks-out-across-china-as-frustration-at-lockdowns-grows) caused by China’s zero-covid policy. Foxconn reported that its factory outside the Chinese city of Zhengzhou has returned to normal levels of production.
-
-<strong>Charles Bronson</strong>, one of Britain’s most [dangerous prison inmates](https://www.economist.com/britain/1999/05/13/end-of-the-line), launched an online sale of new artwork ahead of a gallery exhibition later this month. Mr Bronson has spent much of the past 50 years in solitary confinement but has created a market for his cartoons. Born Michael Peterson, he renamed himself after the American actor but now goes by Charles Salvador, after his artistic hero, Salvador Dali.
-
-<strong>Word of the week:</strong> teledildonics, the term in pornography for virtual-sex encounters using remotely controlled toys. [Read the full story.](https://www.economist.com/science-and-technology/2023/02/01/the-touchy-feely-world-of-the-metaverse-and-future-gadgets)
+<strong>Fact of the day:</strong> 1.2m, the number of fishing licences sold in the state of Minnesota in 2020—roughly one for every five residents. [Read the full story.](https://www.economist.com/united-states/2023/02/02/the-sport-of-ice-fishing-is-being-transformed-by-technology)
 
 ----------
 
-## The world in brief, February 4th 2023
+## A transatlantic discussion on green subsidies
 
-Divers from <strong>America’s </strong>navy are working to recover debris from the <strong>Chinese balloon </strong>that an American fighter jet [shot down Saturday](https://www.economist.com/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) over the Atlantic. The Pentagon confirmed it was downed over American territorial waters, but China accused the Biden administration of “seriously violating international conventions”. China has denied that the balloon, which the Pentagon detected flying over sensitive military sites, was used for surveillance. 
+Margrethe Vestager’s early career was so impressive that it inspired [“Borgen”](https://www.economist.com/europe/2022/05/14/borgen-returns-after-a-decade-to-a-pessimistic-europe), a hit television show about [Danish](https://www.economist.com/prospero/2012/12/19/taking-over-the-world) politics. Now, as the competition boss of the [European Commission](https://www.economist.com/charlemagnes-notebook/2019/05/28/why-margrethe-vestager-ticks-all-the-boxes), Ms Vestager wields one of the EU’s sharpest economic swords: fierce competition rules and their enforcement.  
+  
+ Those weapons curb corporate power and egregious state support used to prop up national champions. But many EU governments, in particular the French, would like to blunt Ms Vestager’s sword. They argue that the American government’s ambitious (and [expensive](https://www.economist.com/briefing/2023/02/02/americas-government-is-spending-lavishly-to-revive-manufacturing)) plans to build up green manufacturing require Europe to respond in kind: with large subsidies. No doubt to Ms Vestager’s dismay, the EU’s new green industrial strategy weakens Europe&#x27;s competition rules and allows governments to spend more lavishly. 
 
-<strong>Iran’s </strong>supreme leader, Ayatollah Ali Khamenei, claimed to have pardoned “tens of thousands” of prisoners, including some arrested in recent anti-government protests. The death of Mahsa Amini, a young woman arrested in September for not wearing a “proper” headscarf, sparked daily demonstrations. To [quell demonstrations](https://www.economist.com/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory) the authorities locked up nearly 20,000 people, sentencing over 100 to death. 
+On Monday Ms Vestager will speak to America’s treasury secretary, Janet Yellen—who oversees the tax credits that form the backbone of America’s ambitions—in an attempt to limit the transatlantic fallout over subsidies. Not quite the stuff of noirish Scandinavian drama, but important for Europe’s economic future.
 
-<strong>Ukraine’s </strong>defence minister, Oleksii Reznikov, will be replaced following a [corruption scandal](https://www.economist.com/europe/2023/01/25/a-minister-is-sacked-in-ukraine-as-corruption-allegations-swirl). Mr Reznikov’s deputy resigned after media reports accused the defence ministry of graft, but Mr Reznikov had said he would step down only if Volodymyr Zelensky, the country’s president, asked him to. Kyrylo Budanov, the head of military intelligence, will reportedly take his post. 
+## The UN’s priorities for 2023
 
-The presidential election in <strong>Cyprus</strong> will go to a run-off next week after no candidate won an outright majority. Former foreign minister Nikos Christodoulides took 32% of the vote. Mr Christodoulides’s lead was expected, but Andreas Mavroyiannis, a career diplomat backed by a left-wing party, was a surprise runner-up. On the [divided island](https://www.economist.com/europe/2021/11/18/putting-cyprus-together-may-be-impossible), only Greek Cypriots participated in the vote.
+When preparing a setlist, musicians must give the crowd fresh material as well as old classics. António Guterres, the UN’s secretary-general, faces a similar challenge when he outlines his priorities for 2023 before the General Assembly on Monday. 
 
-<strong>General Pervez Musharraf</strong>, a former president of <strong>Pakistan</strong> who seized power in a military coup in 1999, died aged 79. [Mr Musharraf](https://www.economist.com/asia/2023/02/05/pervez-musharraf-was-one-of-pakistans-better-army-dictators) oversaw a period of rapid economic growth, but was criticised by some for using the military to silence critics and for supporting America’s post-9/11 “war on terror”. Mr Musharraf left office in 2008 and spent his later years in exile in Dubai.
+Mr Guterres is fond of grim proclamations: in recent months he has warned of “nuclear annihilation” and “climate hell”. Expect to hear such refrains again as he warns of the risks posed by Russia’s war in Ukraine, spiralling inflation and rising temperatures. 
 
-<strong>Foxconn</strong>, a Taiwanese electronics manufacturer with factories in China, reported record revenues of T$660bn ($22bn) in January, an increase of 48% year-on-year. The firm, which makes about 70% of Apple’s iPhones, has recovered after [severe disruptions](https://www.economist.com/china/2022/11/27/unrest-breaks-out-across-china-as-frustration-at-lockdowns-grows) caused by China’s zero-covid policy. Foxconn reported that its factory outside the Chinese city of Zhengzhou has returned to normal levels of production.
+But he should also offer something new. Watch out for mention of the UN’s [Sustainable Development Goals](https://www.economist.com/international/2015/03/26/unsustainable-goals), 17 targets for 2030 that cover everything from peace to renewable energy. Progress is assessed every four years: the next stocktake is scheduled for September. Mr Guterres will probably warn governments to pick up the tempo. Otherwise he will be forced to carry on singing the same tune.
 
-<strong>Charles Bronson</strong>, one of Britain’s most [dangerous prison inmates](https://www.economist.com/britain/1999/05/13/end-of-the-line), launched an online sale of new artwork ahead of a gallery exhibition later this month. Mr Bronson has spent much of the past 50 years in solitary confinement but has created a market for his cartoons. Born Michael Peterson, he renamed himself after the American actor but now goes by Charles Salvador, after his artistic hero, Salvador Dali.
+## India’s central bank meets
 
-<strong>Word of the week:</strong> teledildonics, the term in pornography for virtual-sex encounters using remotely controlled toys. [Read the full story.](https://www.economist.com/science-and-technology/2023/02/01/the-touchy-feely-world-of-the-metaverse-and-future-gadgets)
+On Monday India’s central bankers begin a three-day monetary-policy meeting at which they are expected to announce a small increase in interest rates. That will probably be the final rise in the current tightening cycle. The Reserve Bank of India is softening its stance because price rises are slowing. In December annual inflation fell for the third consecutive month, to 5.7%, its lowest level in more than a year. In last week’s budget the government announced plans to rein in spending, which should also help keep prices down. 
 
-## Endless paralysis in Lebanon
+But as one fire fizzles, another looms. Several of India’s largest banks are exposed to the [Adani Group](https://www.economist.com/business/2023/02/01/what-next-for-gautam-adanis-embattled-empire), the giant conglomerate that has been rocked by allegations of fraud. The RBI insists the “banking sector remains resilient and stable”. Commercial banks have also played down any concerns. But should the fallout worsen, the RBI, which has a mandate for maintaining financial stability, may be back firefighting.
 
-After the crime comes the cover-up. The investigation of the massive explosion at Beirut’s port in 2020, which killed 218 people, was stalled for more than a year by legal challenges. Tarek Bitar, the judge overseeing it, had hoped to resume interrogating officials on Monday. Instead he has been charged with judicial misconduct by Lebanon’s top prosecutor—one of the officials whom Mr Bitar had sought to question.
+## Anglicans debate same-sex marriage
 
-The judicial feud is yet another sign of Lebanon’s dysfunction. It has not had a president since October, and parliament has failed 11 times to elect a new one. Last year the caretaker cabinet went six months without meeting. More than three years into a financial crisis, Lebanon’s currency has lost 97% of its value. Annual inflation was 171% in 2022. Bailout talks with the IMF are stalled. Lebanon’s corrupt ruling class cannot agree on anything, it seems, except their collective taste for impunity.
+Gay marriage was legalised in Britain in 2014. But no religious organisation can be compelled to carry out same-sex weddings. When the Church of England’s governing body, the general synod, convenes on Monday for a four-day session, the issue will be at the top of the agenda. In January the church said it planned to allow clergy to bless same-sex unions but would continue to ban gay couples from marrying in its churches. When the synod debates the proposal this week, progressives may push for that ban to be lifted.
 
-## What’s at stake in Cyprus
+The church’s membership seems to be coming around to the idea. Some 55%, and almost three-quarters of those under 50, support same-sex marriage, up from 38% in 2013. But Anglicans elsewhere in the world are [less liberal](https://www.economist.com/britain/2016/01/15/justin-welby-just-about-manages-to-hold-together-the-anglican-communion). In August 2022 the Global South Fellowship of Anglican Churches, which represents around 75% of Anglicans worldwide, reaffirmed its view that homosexuality is “incompatible with scripture.” The Church of England risks [destabilising](https://www.economist.com/britain/2016/01/15/justin-welby-just-about-manages-to-hold-together-the-anglican-communion) the Anglican Communion entirely.
 
-Greek Cypriots hold a presidential election on Sunday. The front-runner is Nikos Christodoulides, who resigned last month as foreign minister because rivals in the ruling party were angry about his presidential ambitions. Mr Christodoulides, now an independent backed by left-of-centre parties, is unlikely to get more than 50% of the vote (as are the other 13 candidates). But he should win a run-off on February 12th. Turkish Cypriots living in the north of the [divided island ](https://www.economist.com/europe/2021/11/18/putting-cyprus-together-may-be-impossible)will not participate.
+## Marvel films return to China
 
-One of Mr Christodoulides’s main challenges will be to manage the complex [energy politics](https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets) of the eastern Mediterranean. Several international companies plan to start exploiting natural gas from the Cypriot seabed. Israel and Egypt are already exploring their own such deposits, while Turkey has failed to make any finds so far. Cyprus could sell gas to Egypt, some of which could be re-exported to Turkey. A costly pipeline project to carry gas between Crete, Greece and Italy is also being discussed. Mr Christodoulides’s priority will be to ensure that Cyprus’s long-awaited gas bonanza actually happens. 
+Chinese cinephiles will line up this week for the country’s first showings of “Wakanda Forever”, Disney’s Oscar-nominated follow-up to “Black Panther”. The studio’s Marvel superhero flicks have a big following [in China](https://www.economist.com/china/2019/05/02/avengers-endgame-has-been-an-unusual-hit-in-china). “Wakanda” is especially eagerly awaited, as it is the first Marvel movie to be granted a release in China since 2019.
 
-## The Grammys might get it right, at last
+No one is sure why China banned the previous lot. The content may be one reason. In 2021 “The Eternals” introduced Marvel’s first gay superhero. “Shang-Chi and the Legend of the Ten Rings”, also released in 2021, depicted Asian culture in ways that may have triggered China’s censors. Neither was shown in China.
 
-On Sunday American music’s great and good slap each others’ backs and dole out their annual awards. The sheer number of categories, at 91, speaks to the self-importance of the Recording Academy, which puts on the Grammys. That clubby self-regard has mired the awards show in controversy, prompting accusations of racism for snubs of black singers, and criticism for opaque voting procedures. 
+A bigger motive may have been to protect domestic moviemakers. Patriotic hits like [“The Battle at Lake Changjin”](https://www.economist.com/china/2022/01/22/how-chinese-propaganda-films-became-watchable) do better when Disney is shut out. No reason was given for Marvel&#x27;s sudden return. But a population that has become restless with covid clampdowns needs [cheering up](https://www.economist.com/china/2023/01/25/china-is-trying-to-win-over-westerners-and-private-firms). Not bread and circuses, but bread and cinema.
 
-This year, at least, the nominations reflect pop culture. Black artists are present in all the major categories and among the favourites; exciting young bands such as Idles, Turnstile and Wet Leg have nominations; and there is the chance for both Taylor Swift and Beyoncé to win the major awards that have, surprisingly, been denied them so far: song of the year for Ms Swift, and [album of the year for Beyoncé](https://www.economist.com/culture/2022/08/01/renaissance-is-a-clever-crowd-pleasing-pop-album). Still, all awards ceremonies end in one certainty: that come the morning after, someone, somewhere will be up in arms about the injustice of it all.
+## Daily quiz
 
-## Brain-activity patterns cluster with ideology
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="dd8ca8b4a798aeadafb8aeaeb29db8beb2b3b2b0b4aea9f3beb2b0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown one winner per continent on Saturday.
 
-Everyone knows the frustration of arguing with a stubborn opponent. New research suggests that those on opposite sides of the political spectrum do not merely fail to see eye to eye; their brains [behave differently](https://www.economist.com/science-and-technology/2023/02/02/people-of-different-opinions-process-political-data-differently) in ways that are stark enough to be detectable with fairly crude instruments. Two groups of researchers scanned the brains of left- and right-wingers as they were shown words and news clips. Using changes in blood flow as a proxy for neural activity, both found that the subjects’ brains responded in similar ways to neutral material, but diverged when presented with content about divisive topics like immigration. 
-
-Measuring blood flow using magnetic-resonance imaging, Daantje de Bruin and Oriel FeldmanHall, of Brown University in Rhode Island, recorded different patterns of activity in parts of the brain that handle emotions and cognition. Noa Katabi and Yaara Yeshurun, of Tel Aviv University, saw differences in the areas that deal with hearing, vision and movement. Big differences of opinion show up as big differences in brain activity.
-
-## Weekend profile: Max Martin, pop hitmaker
-
-Britney Spears brought the sex appeal, plaintive vocals and teen longing. Max Martin supplied the rest. In 1998 their track [“...Baby One More Time”](https://www.economist.com/prospero/2018/10/23/how-baby-one-more-time-changed-pop-music) ruled the radio. Any allusions to domestic violence or sado-masochistic sex in the chorus—“Hit me baby one more time”—were supposedly unintentional. Mr Martin, the song’s Swedish writer and producer, says he understood “hit me” to mean “call me”.
-
-The earworm was the first of Mr Martin’s 25 [number-one singles](https://www.economist.com/graphic-detail/2023/02/03/max-martin-knows-how-to-create-a-number-one-hit) on the Billboard Hot 100, a chart of America’s most popular songs. Only Paul McCartney and John Lennon rank higher as songwriters. His collaborators include pop heavyweights from Celine Dion to Taylor Swift. On Sunday, at the Grammy Awards, the 51-year-old has three separate nominations for album of the year: for his production work on Adele’s “30”, Lizzo’s “Special” and Coldplay’s “Music of the Spheres”.
-
-Unlike the Beatles frontmen, Mr Martin has shunned the mic since his early days as a heavy-metal rocker in Sweden. Then he was known as Karl Martin Sandberg. But Denniz PoP, the producer who steered his turn towards songwriting, insisted that he rechristen himself. “‘Martin Sandberg’ wasn’t exactly a disco name, so you couldn’t really talk to him,” Mr PoP later recalled.
-
-Mr Martin is a proponent of a technique he calls “melodic math”, the principle that every element should serve the record and its melody. Words are chosen for their sound as much as their meaning. Take “...Baby One More Time”—the percussive Bs of “baby” make it a more common endearment in pop songs than, say, “darling”. 
-
-In 2019, in a rare interview with the <em>Guardian</em>, he explained the importance of phonetics, and how “melodic math” came about as a result of not speaking English as a child. He would listen to Abba, Elton John and the Beatles without registering what the songs were about. “I felt something hearing this music, and it meant something to me,” he said. “If you can have a great lyric that also phonetically sounds amazing, then you’re golden. But it’s also kind of cool if you write a song and people are emotionally moved without understanding what’s being said.”
-
-All these years on, Mr Martin’s knack for meaningful nonsense shows no sign of diminishing.
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Recycle ocean debris to reduce pollution (11) 
-
-<em>1 across</em> Appetite of Spanish man finally sated (6) 
-
-<em>2 across </em>Child, if raised right, becomes intellectual (5) 
-
-<em>3 across </em>Weather pattern regularly seen in Berlin, mid-noon (2, 4) 
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>What Biden wants to do to America’s economy (11) 
-
-<em>1 across</em> What the war in Ukraine has driven up for weapons (6) 
-
-<em>2 across </em>Where differences in political opinion might be seen (5)
-
-<em>3 across </em>What can cause fewer trees to flower in Australia (2, 4)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>John MacMorris</strong>, Davis, California, America
-
-<strong>Gines Sánchez</strong>, Panama City, Panama 
-
-<strong>Wendy King</strong>, Sydney, Australia
-
-They all gave the correct answers of <em>gimlet, Manhattan Project, Cosmopolitan, sidecar </em>and <em>zombies</em>. The theme is cocktails.
+<strong>Monday: </strong>Which band, which had their greatest success in the 1980s, had hits with “Something About You” and “Lessons in Love”?
 
 ----------
 
