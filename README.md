@@ -24,7 +24,7 @@ The share price of some <strong>Adani Group</strong> companies rose on Tuesday, 
 
 The UN warned that about 1m <strong>Tibetan</strong> children have been sent to<strong> Chinese</strong> boarding schools seemingly under a government policy to [assimilate them](https://te.arielherself.xyz/china/2022/09/13/chinas-government-is-mass-collecting-dna-from-tibetans) into majority Han culture. Instruction is only in Mandarin, making it difficult for Tibetan children to communicate with family in their native language and contributing to the “erosion” of their identity, said three UN special rapporteurs.
 
-A British<strong> “digital pound”</strong> could be launched in the next decade according to the Treasury and the Bank of England. It would provide a state-backed alternative to potentially volatile digital currencies issued by private companies. Britain’s chancellor, Jeremy Hunt, said the digital pound would offer a “trusted and accessible” payment method. A consultation on the idea begins on Tuesday, but a final decision will not be taken until around 2025.
+A British<strong> “digital pound”</strong> could be launched in the next decade according to the Treasury and the Bank of England. It would provide a state-backed alternative to potentially volatile digital currencies issued by private companies. Britain’s chancellor, [Jeremy Hunt](https://te.arielherself.xyz/britain/2023/02/02/meet-ms-heeves-the-face-of-britains-new-political-consensus), said the digital pound would offer a “trusted and accessible” payment method. A consultation on the idea begins on Tuesday, but a final decision will not be taken until around 2025.
 
 <strong>Correction: </strong>In Sunday’s edition we incorrectly wrote that Juba is the capital of the Democratic Republic of Congo. In fact that is Kinshasa. Sorry.
 
@@ -64,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4514302c3f003635372036362a0520262a2b2a282c36316b262a28">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
