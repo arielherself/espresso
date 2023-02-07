@@ -24,7 +24,7 @@ Thousands attended the funeral prayers of <strong>Pervez Musharraf</strong>, Pak
 
 The share price of some <strong>Adani Group</strong> companies rose on Tuesday, after suffering another miserable day on Monday. The value of the Indian conglomerate has now fallen by more than $100bn in two weeks. The sell-off started after [<strong>Hindenburg Research</strong>](https://www.economist.com/business/2023/02/02/hindenburg-research-attacker-of-the-adani-empire), an American short-seller, made [allegations of fraud](https://www.economist.com/business/2023/02/01/what-next-for-gautam-adanis-embattled-empire). Hundreds of protesters took to the streets in Delhi and other Indian cities on Monday, amid growing calls to investigate the allegations.
 
-A British<strong> “digital pound”</strong> could be launched in the next decade according to the Treasury and the Bank of England. It would provide a state-backed alternative to potentially volatile digital currencies issued by private companies. Britain’s chancellor, [Jeremy Hunt](https://www.economist.com/britain/2023/02/02/meet-ms-heeves-the-face-of-britains-new-political-consensus), said the digital pound would offer a “trusted and accessible” payment method. A consultation on the idea begins on Tuesday, but a final decision will not be taken until around 2025.
+A British<strong> “digital pound”</strong> could be launched in the next decade according to the Treasury and the Bank of England. It would provide a state-backed alternative to potentially volatile digital currencies issued by private companies. A consultation on the idea begins on Tuesday, but a final decision will not be taken until around 2025.
 
 <strong>Correction: </strong>In Tuesday’s edition we incorrectly wrote that ChatGPT can generate images and videos. In fact it is OpenAI, a Microsoft-backed artificial-intelligence startup that created ChatGPT, which builds models that aim to do so. Sorry.
 
@@ -64,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f8a98d9182bd8b888a9d8b8b97b89d9b97969795918b8cd69b9795">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
