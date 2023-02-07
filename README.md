@@ -16,7 +16,7 @@
 
 <strong>Russia</strong> is gathering reinforcements and equipment ahead of a [new offensive](https://te.arielherself.xyz/europe/2023/02/01/ukraines-troops-in-the-east-are-quietly-confident) in eastern Ukraine, according to the governor of the Luhansk region. <strong>Ukraine</strong> has long warned that a new Russian offensive is in the offing. But Britain’s defence ministry said that Russia had probably already tried to launch its offensive, but lacked the “munitions and manoeuvre units” for success.
 
-The <strong>Pentagon</strong> said it had failed to detect previous <strong>Chinese surveillance balloons</strong> in American airspace, discovering them only later through “additional means of [intelligence] collection”. General Glen VanHerck called it an “awareness gap that we have to figure out”. At least four other intrusions had occurred in recent years before [last month’s](https://te.arielherself.xyz/china/2023/02/03/how-a-balloon-burst-sino-american-talks). America said it would not return the debris from the destroyed balloon to China.
+<strong>Jerome Powell</strong>, chair of America’s <strong>Federal Reserve</strong>, warned that interest rates may rise higher than [markets have anticipated](https://te.arielherself.xyz/finance-and-economics/2023/02/07/surging-stocks-undermine-a-hallowed-investing-rule) in order to restrain inflation. An unexpectedly strong jobs report last week, Mr Powell said during an event in Washington, “underscores the message” of caution. On Wednesday the Fed raised rates by a quarter of a percentage point.
 
 Thousands attended the funeral prayers of <strong>Pervez Musharraf</strong>, Pakistan’s former [president](https://te.arielherself.xyz/asia/2023/02/05/pervez-musharraf-was-one-of-pakistans-better-dictators), in Karachi, a city in the south of the country. Mr Musharraf, who died on Sunday, led a coup in 1999 and went on to rule Pakistan for nearly a decade, first as “chief executive” then as president. He had lived in Dubai since 2016. 
 
@@ -64,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4c1d392536093f3c3e293f3f230c292f23222321253f38622f2321">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d584a0bcaf90a6a5a7b0a6a6ba95b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
