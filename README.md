@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Rescue teams continued to hunt for survivors from [large earthquakes](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) that struck southern <strong>Turkey</strong> and <strong>Syria</strong> on Monday. The quakes have already left at least 5,000 people dead. That number looks certain to rise as temperatures dropped below freezing overnight. The World Health Organisation suggested that fatalities could reach 20,000. The initial quake’s epicentre was near the Turkish city of Gaziantep and had a magnitude of 7.8—the strongest in the region since one near Istanbul in 1999 that killed over 17,000 people. A series of aftershocks followed. 
+<strong>Turkey’s </strong>president, Recep Tayyip Erdogan, declared a three-month state of emergency in ten provinces affected by [large earthquakes](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) in the south of the country and neighbouring <strong>Syria</strong>. The quakes on Monday have already left at least 5,100 people dead. That number looks certain to rise; the World Health Organisation suggested that fatalities could reach 20,000. The initial quake’s epicentre was near the Turkish city of Gaziantep and had a magnitude of 7.8—the strongest in the region since one near Istanbul in 1999 that killed more than 17,000 people. A series of aftershocks followed. 
 
 <strong>Russia</strong> is gathering reinforcements and equipment ahead of a [new offensive](https://te.arielherself.xyz/europe/2023/02/01/ukraines-troops-in-the-east-are-quietly-confident) in eastern Ukraine, according to the governor of the Luhansk region. <strong>Ukraine</strong> has long warned that a new Russian offensive is in the offing. But Britain’s defence ministry said that Russia had probably already tried to launch its offensive, but lacked the “munitions and manoeuvre units” for success.
 
@@ -64,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0554706c7f407675776076766a4560666a6b6a686c76712b666a68">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="38694d51427d4b484a5d4b4b57785d5b57565755514b4c165b5755">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
