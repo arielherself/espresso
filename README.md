@@ -40,7 +40,7 @@ In preparation for a [re-election bid](https://te.arielherself.xyz/united-states
 
 ## Poor construction makes earthquakes more deadly
 
-The huge earthquakes that [struck](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) southern Turkey and northern Syria on Monday have killed at least 5,000 people. They were the strongest in the region since one near Istanbul in 1999 that killed over 17,000 people. That disaster, and botched search-and-rescue efforts, exposed a deeply flawed urban development model, corrupt building practices and lack of preparedness in Turkey. Some problems persist.
+The huge earthquakes that [struck](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) southern Turkey and northern Syria on Monday have killed at least 5,100 people. They were the strongest in the region since one near Istanbul in 1999 that killed over 17,000 people. That disaster, and botched search-and-rescue efforts, exposed a deeply flawed urban development model, corrupt building practices and lack of preparedness in Turkey. Some problems persist.
 
 Under Turkey’s president, Recep Tayyip Erdogan, in [power](https://te.arielherself.xyz/special-report/2023/01/16/turkey-is-still-just-a-democracy-but-it-is-not-certain-to-remain-that-way) since 2003, disaster response has improved. More than 3m housing units have been renovated and strengthened. Yet apartment blocks built on the cheap or in defiance of building codes continue to crowd Turkish cities and towns. An amnesty on unregistered construction work, passed by Mr Erdogan’s government in 2018 and which has had 9m applications, has not helped. It risked turning Turkish cities into “graveyards” in an earthquake, Cemal Gokce, the chairman of the Chamber of Civil Engineers, said a year later. His words may have proved prescient. 
 
@@ -64,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="38694d51427d4b484a5d4b4b57785d5b57565755514b4c165b5755">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="83d2f6eaf9c6f0f3f1e6f0f0ecc3e6e0ecedeceeeaf0f7ade0ecee">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
