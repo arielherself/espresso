@@ -48,7 +48,7 @@ Under Turkey’s president, Recep Tayyip Erdogan, in [power](https://te.arielher
 
 The coffers of big oil companies are overflowing. So far this year Shell unveiled net profits for 2022 of nearly $40bn; during the same period ExxonMobil made a record net profit of $55.7bn and Chevron’s doubled. BP added to the haul on Tuesday, reporting a profit of $27.7bn (£23bn) for 2022, more than double its total for 2021 ($12.8bn). TotalEnergies will also announce results on Wednesday. In total the five oil “supermajors” may have raked in around $200bn in profits.  
   
- Some of this bounty will flow back to shareholders, but a wedge will be invested. Where and how that money is spent is changing. Bosses need energy that is faster to market, less risky to develop, cleaner to produce and closer to home. Having been forced to abandon their assets in [Russia](https://te.arielherself.xyz/finance-and-economics/2023/01/29/how-russia-dodges-oil-sanctions-on-an-industrial-scale) after the invasion of Ukraine, some are diverting investments to the Americas, a region with relatively low-risk and low-cost reserves. Oil companies are also responding to pressure from activists and policymakers to decarbonise their portfolios. BP, for instance, vows to spend 40% of its capital expenditure budget on low-carbon projects by 2025.
+ Some of this bounty will flow back to shareholders, but a wedge will be invested. Where and how that money is spent is changing. Bosses need energy that is faster to market, less risky to develop, cleaner to produce and closer to home. Having been forced to abandon their assets in [Russia](https://te.arielherself.xyz/finance-and-economics/2023/01/29/how-russia-dodges-oil-sanctions-on-an-industrial-scale) after the invasion of Ukraine, some are diverting investments to the Americas, a region with relatively low-risk and low-cost reserves. Oil companies are also responding to pressure from activists and policymakers to decarbonise their portfolios. BP, for instance, vows to invest a cumulative $55bn to $65bn in low-carbon sectors between 2023 and 2030.
 
 ## Australia’s next interest-rate rise
 
@@ -64,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="114064786b546261637462627e5174727e7f7e7c7862653f727e7c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b9e8ccd0c3fccac9cbdccacad6f9dcdad6d7d6d4d0cacd97dad6d4">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
