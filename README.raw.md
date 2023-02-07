@@ -26,6 +26,8 @@ The UN warned that about 1m <strong>Tibetan</strong> children have been sent to<
 
 A British<strong> “digital pound”</strong> could be launched in the next decade according to the Treasury and the Bank of England. It would provide a state-backed alternative to potentially volatile digital currencies issued by private companies. Britain’s chancellor, [Jeremy Hunt](https://www.economist.com/britain/2023/02/02/meet-ms-heeves-the-face-of-britains-new-political-consensus), said the digital pound would offer a “trusted and accessible” payment method. A consultation on the idea begins on Tuesday, but a final decision will not be taken until around 2025.
 
+<strong>Correction: </strong>In Tuesday’s edition we incorrectly wrote that ChatGPT can generate images and videos. In fact it is OpenAI, a Microsoft-backed artificial-intelligence startup that created ChatGPT, which builds models that aim to do so. Sorry.
+
 <strong>Fact of the day: </strong>2.2%, the contraction of Russia’s GDP last year, which defied many economists’ expectations of an annual decline of 10% or more. [Read the full story.](https://www.economist.com/europe/2023/02/04/russias-technocrats-keep-funds-flowing-for-vladimir-putins-war)
 
 ----------
@@ -62,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3766425e4d72444745524444587752545859585a5e44431954585a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
