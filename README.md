@@ -12,7 +12,9 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Turkey’s </strong>president, Recep Tayyip Erdogan, declared a three-month state of emergency in ten provinces affected by [large earthquakes](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) in the south of the country and neighbouring <strong>Syria</strong>. The quakes on Monday have already left at least 7,200 people dead. That number looks certain to rise; the World Health Organisation suggested that fatalities could reach 20,000. The initial quake’s epicentre was near the Turkish city of Gaziantep and had a magnitude of 7.8. A series of aftershocks followed. 
+<strong>Turkey’s </strong>president, Recep Tayyip Erdogan, declared a three-month state of emergency in ten provinces affected by [large earthquakes](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) in the south of the country and neighbouring <strong>Syria</strong>. The quakes on Monday have already left at least 7,900 people dead. That number looks certain to rise; the World Health Organisation suggested that fatalities could reach 20,000. Rescue efforts continued on Tuesday, with America sending aid to both [Turkey and Syria](https://te.arielherself.xyz/europe/2023/02/07/the-scale-of-the-disaster-in-turkey-and-syria-keeps-growing). The initial quake’s epicentre was near the Turkish city of Gaziantep and had a magnitude of 7.8.
+
+In the <strong>state-of-the-union address</strong>, Joe Biden appealed for Republican support for policies that he said would reduce America’s debt, aid “hard-working families” and deal with the threat from China. The prospect of bipartisanship appeared dim, however. Republicans accused the president of obsessing over “woke fantasies”. Despite rock-bottom approval ratings Mr Biden is expected soon to announce that he will run for president again in 2024. 
 
 Denmark, Germany and the Netherlands said <strong>Ukraine</strong> would receive [at least 100](https://te.arielherself.xyz/the-economist-explains/2023/01/25/what-makes-germanys-leopard-2-tank-the-best-fit-for-ukraine) <strong>Leopard 1 tanks</strong> in the coming months. <strong>Germany </strong>has approved the export of up to 178. Separately, America approved the sale of weapons worth $10bn to Poland, including the HIMARS rocket launcher. Poland has ramped up its defences since Russia invaded its neighbour.
 
@@ -21,8 +23,6 @@ Denmark, Germany and the Netherlands said <strong>Ukraine</strong> would receive
 <strong>Jerome Powell</strong>, chair of America’s <strong>Federal Reserve</strong>, warned that interest rates may rise higher than [markets have anticipated](https://te.arielherself.xyz/finance-and-economics/2023/02/07/surging-stocks-undermine-a-hallowed-investing-rule) in order to restrain inflation. An unexpectedly strong jobs report last week, Mr Powell said during an event in Washington, “underscores the message” of caution. On Wednesday the Fed raised rates by a quarter of a percentage point.
 
 Thousands attended the funeral prayers of <strong>Pervez Musharraf</strong>, Pakistan’s former [president](https://te.arielherself.xyz/asia/2023/02/05/pervez-musharraf-was-one-of-pakistans-better-dictators), in Karachi, a city in the south of the country. Mr Musharraf, who died on Sunday, led a coup in 1999 and went on to rule Pakistan for nearly a decade, first as “chief executive” then as president. He had lived in Dubai since 2016. 
-
-A British<strong> “digital pound”</strong> could be launched in the next decade according to the Treasury and the Bank of England. It would provide a state-backed alternative to potentially volatile digital currencies issued by private companies. A consultation on the idea begins on Tuesday, but a final decision will not be taken until around 2025.
 
 <strong>Gustavo Dudamel</strong> will leave the Los Angeles Philharmonic to lead the <strong>New York Philharmonic</strong> in 2026. The Venezuelan-born conductor was appointed music director in Los Angeles in 2009, aged just 27, and has [breathed fresh air](https://te.arielherself.xyz/1843/2013/12/23/gustavo-dudamels-next-mountain) into the rarefied world of classical music. His mandate in New York is to help revitalise the financially troubled orchestra; he called it a “very interesting” challenge.
 
@@ -64,7 +64,7 @@ Those themes underpin the show, which is titled “Thinking Historically in the 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7627031f0c33050604130505193613151918191b1f05025815191b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4415312d3e013734362137372b0421272b2a2b292d37306a272b29">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
