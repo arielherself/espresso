@@ -16,7 +16,7 @@
 
 The death toll from the [large earthquakes](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) that struck parts of <strong>Turkey</strong> and <strong>Syria</strong> on Monday passed 11,000 and looks [certain to rise](https://www.economist.com/europe/2023/02/07/the-scale-of-the-disaster-in-turkey-and-syria-keeps-growing) further. Turkey’s president, Recep Tayyip Erdogan, visited the Turkish provinces worst affected by the disaster. America, China and countries across Asia and Europe sent specialist help to support the rescue efforts.
 
-<strong>Disney </strong>said revenues for the past quarter—during which Bob Iger [returned to the helm](https://www.economist.com/business/2022/11/23/what-disney-can-learn-from-elton-john)—rose by 8% year over year to $23.5bn, beating expectations. Net income was $1.3bn. Losses at the streaming unit, which includes Disney+, totalled $1.1bn. The number of Disney + subscribers dipped from the previous quarter to 161.8m. The media giant said it would sack 7,000 people, about 3% of its global staff.
+<strong>Disney </strong>said revenues for the past quarter—during which Bob Iger [returned to the helm](https://www.economist.com/business/2022/11/23/what-disney-can-learn-from-elton-john)—rose by 8% year over year to $23.5bn, beating expectations. Net income was $1.3bn. Losses at the streaming unit, which includes Disney+, totalled $1.1bn. The number of Disney + subscribers dipped from the previous quarter to 161.8m. The media giant said it would [sack 7,000 people](https://www.economist.com/graphic-detail/2023/02/08/disney-to-cut-7000-jobs-in-business-restructuring), about 3% of its global staff.
 
 International investigators said there were “strong indications” that Vladimir Putin himself approved the supply of anti-aircraft weapons that downed flight <strong>MH17 </strong>over eastern Ukraine in 2014 to the pro-Russian separatists who fired them. All 298 people on board the Malaysian Airlines flight were killed. Russia has denied involvement; prosecutors said they could not bring [criminal proceedings](https://www.economist.com/europe/2020/03/08/the-dutch-put-four-men-on-trial-for-shooting-down-flight-mh17) against Mr Putin.
 
@@ -68,7 +68,7 @@ Netflix released its first original [Arabic-language](https://www.economist.com/
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7a2b0f13003f090a081f0909153a1f191514151713090e54191517">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5d0c283427182e2d2f382e2e321d383e32333230342e29733e3230">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
