@@ -16,6 +16,8 @@
 
 The death toll from the [large earthquakes](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) that struck parts of <strong>Turkey</strong> and <strong>Syria</strong> on Monday passed 11,000 and looks [certain to rise](https://te.arielherself.xyz/europe/2023/02/07/the-scale-of-the-disaster-in-turkey-and-syria-keeps-growing) further. Turkey’s president, Recep Tayyip Erdogan, visited the Turkish provinces worst affected by the disaster. America, China and countries across Asia and Europe sent specialist help to support the rescue efforts.
 
+<strong>Disney </strong>said revenues for the past quarter—during which Bob Iger [returned to the helm](https://te.arielherself.xyz/business/2022/11/23/what-disney-can-learn-from-elton-john)—rose by 8% year over year to $23.5bn, beating expectations. Net income was $1.3bn. Losses at the streaming unit, which includes Disney+, totalled $1.1bn. The number of Disney + subscribers dipped from the previous quarter to 161.8m. The media giant said it would sack 7,000 people, about 3% of its global staff.
+
 International investigators said there were “strong indications” that Vladimir Putin himself approved the supply of anti-aircraft weapons that downed flight <strong>MH17 </strong>over eastern Ukraine in 2014 to the pro-Russian separatists who fired them. All 298 people on board the Malaysian Airlines flight were killed. Russia has denied involvement; prosecutors said they could not bring [criminal proceedings](https://te.arielherself.xyz/europe/2020/03/08/the-dutch-put-four-men-on-trial-for-shooting-down-flight-mh17) against Mr Putin.
 
 <strong>Uber </strong>reported higher-than-expected earnings in the final quarter of 2022, the first in which the American [ride-sharing and delivery](https://te.arielherself.xyz/business/uber-doordash-and-similar-firms-cant-defy-the-laws-of-capitalism-after-all/21806198) company carried out more than 2bn trips worldwide. Overall revenues rose 49% compared with the previous year, to $8.6bn, above analysts’ estimates of $8.5bn. The company said record numbers of drivers and couriers are using its platform.
@@ -24,19 +26,17 @@ Britain’s competition regulator warned that Microsoft’s [$69bn acquisition](
 
 The share price of <strong>Alphabet</strong>, Google’s parent company, fell by nearly 8% after a demonstration of its new AI-powered chatbot underwhelmed investors. Called Bard, it answered one query inaccurately. On Tuesday Microsoft unveiled an AI-enhanced version of its Bing search engine in an attempt to [win market share](https://te.arielherself.xyz/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end) in web search from Google.
 
-<strong>LeBron James</strong>, an American basketball player, broke a 39-year-old record to become the all-time leading scorer in the NBA. [Mr James](https://te.arielherself.xyz/game-theory/2017/06/08/lebron-james-has-provided-a-lift-to-small-businesses), who plays for the Los Angeles Lakers, scored 38 points during his team’s loss against the Oklahoma City Thunder. That took his career tally to 38,390, just above the 38,387 record set by Kareem Abdul-Jabbar. The previous top scorer, now 75, was in the stadium to see his record fall. 
-
 <strong>Fact of the day: </strong>15, the average number of earthquakes stronger than magnitude 7 per year. [See the full story](https://te.arielherself.xyz/the-economist-explains/2023/02/06/what-made-the-earthquake-in-turkey-and-syria-so-deadly). 
 
 ----------
 
 ## Iger’s first quarter back at Disney
 
-Three months ago, after Disney’s streaming business, Disney+, lost $1bn in a quarter, the entertainment giant fired its chief executive.[ Bob Iger](https://te.arielherself.xyz/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script) was brought back from retirement and given two years to turn it around. On Wednesday Disney will report its latest quarterly earnings, the first with him back in charge. 
+Three months ago, after Disney’s streaming business, Disney+, lost $1bn in a quarter, the entertainment giant fired its chief executive.[ Bob Iger](https://te.arielherself.xyz/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script) was brought back from retirement and given two years to turn it around. On Wednesday Disney report its latest quarterly earnings, the first with him back in charge. Revenues rose by 8% year over year to $23.5bn, beating expectations. Losses at the streaming unit totalled $1.1bn.
 
 Last year the firm’s market value nearly halved. Seeking to recoup some losses at Disney+, Mr Iger raised subscription prices in December. A new “Avatar” film, which has made more than $2bn at the box office, and busy theme parks have helped edge the share price up by around 25% this year.
 
-Disney is carrying $37bn of net debt, however. Mr Iger is reportedly considering licensing more content to competitors. But he is under fire from Nelson Peltz, an activist investor who is demanding a seat on the board and has complained about the firm’s creaking balance-sheet. Investors will be looking for news of Mr Iger’s plans for ABC, Disney’s broadcast network, and ESPN, its sports channel.
+Disney is carrying $37bn of net debt, however. Nelson Peltz, an activist investor, is demanding a seat on the board and has complained about the firm’s creaking balance-sheet. On Wednesday Mr Iger said Disney would sack 7,000 emloyees, about 3% of the global staff, in a bid to save $5.5bn in costs.
 
 ## The Northern Ireland protocol in court
 
@@ -68,7 +68,7 @@ Netflix released its first original [Arabic-language](https://te.arielherself.xy
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6435110d1e211714160117170b2401070b0a0b090d17104a070b09">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cc9db9a5b689bfbcbea9bfbfa38ca9afa3a2a3a1a5bfb8e2afa3a1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
