@@ -54,7 +54,7 @@ Reforms are required to secure a $2.9bn loan from the IMF, which has stalled bec
 
 ## North Korea puts on a military show
 
-After months of rehearsals, the big day is here. Satellite imagery suggests that North Korean soldiers and civilians have been training for a military parade celebrating the 75th anniversary of the founding of the Korean People’s Army on Wednesday. Expect marching troops, citizens in formation spelling out slogans and jets racing across the skies over Pyongyang, the capital.
+After months of rehearsals, the big day arrived. Satellite imagery suggests that North Korean soldiers and civilians have been training for a military parade celebrating the 75th anniversary of the founding of the Korean People’s Army on Wednesday. Early on Wednesday illuminated jets and propeller planes flew over Pyongyang, the capital; fireworks and music were reported in the evening as events appeared to kick off.
 
 North Korea loves to mark anniversaries. But the parade also signals the country’s readiness for war. On Monday Kim Jong Un, the country’s dictator, discussed “intensifying” its [military drills](https://te.arielherself.xyz/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many) with his generals. That came exactly 60 years after his grandfather, Kim Il Sung, said that each North Korean soldier must be ready to kill 100 enemies. 
 
@@ -68,7 +68,7 @@ Netflix released its first original [Arabic-language](https://te.arielherself.xy
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cc9db9a5b689bfbcbea9bfbfa38ca9afa3a2a3a1a5bfb8e2afa3a1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="510024382b142221233422223e1134323e3f3e3c3822257f323e3c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
