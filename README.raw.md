@@ -32,11 +32,11 @@ The share price of <strong>Alphabet</strong>, Google’s parent company, fell by
 
 ## Iger’s first quarter back at Disney
 
-Three months ago, after Disney’s streaming business, Disney+, lost $1bn in a quarter, the entertainment giant fired its chief executive.[ Bob Iger](https://www.economist.com/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script) was brought back from retirement and given two years to turn it around. On Wednesday Disney report its latest quarterly earnings, the first with him back in charge. Revenues rose by 8% year over year to $23.5bn, beating expectations. Losses at the streaming unit totalled $1.1bn.
+Three months ago, after Disney’s streaming business, Disney+, lost $1bn in a quarter, the entertainment giant fired its chief executive.[ Bob Iger](https://www.economist.com/leaders/2022/11/21/disney-brings-back-a-star-of-the-past-but-its-real-problem-is-the-script) was brought back from retirement and given two years to turn it around. On Wednesday Disney reported its latest quarterly earnings, the first with him back in charge. Revenues rose by 8% year over year to $23.5bn, beating expectations. Losses at the streaming unit totalled $1.1bn.
 
 Last year the firm’s market value nearly halved. Seeking to recoup some losses at Disney+, Mr Iger raised subscription prices in December. A new “Avatar” film, which has made more than $2bn at the box office, and busy theme parks have helped edge the share price up by around 25% this year.
 
-Disney is carrying $37bn of net debt, however. Nelson Peltz, an activist investor, is demanding a seat on the board and has complained about the firm’s creaking balance-sheet. On Wednesday Mr Iger said Disney would sack 7,000 emloyees, about 3% of the global staff, in a bid to save $5.5bn in costs.
+Disney is carrying $37bn of net debt, however. Nelson Peltz, an activist investor, is demanding a seat on the board and has complained about the firm’s creaking balance-sheet. On Wednesday Mr Iger said Disney would sack 7,000 emloyees, about 3% of the global staff, part of a bid to save $5.5bn in costs.
 
 ## The Northern Ireland protocol in court
 
@@ -68,7 +68,7 @@ Netflix released its first original [Arabic-language](https://www.economist.com/
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cc9db9a5b689bfbcbea9bfbfa38ca9afa3a2a3a1a5bfb8e2afa3a1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="114064786b546261637462627e5174727e7f7e7c7862653f727e7c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
