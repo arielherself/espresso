@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Ukraine’s </strong>president, Volodymyr Zelensky, was greeted by Britain’s prime minister, Rishi Sunak, as he arrived on a surprise visit to London. Later, Mr Zelensky will give a speech to Parliament and meet King Charles III. Meanwhile, Britain said it would train Ukrainian fighter jet pilots and marines; Ukraine desperately wants [Western jets](https://www.economist.com/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) but is yet to receive them. Separately, Denmark, Germany and the Netherlands said they would supply <strong>Ukraine</strong> with at least 100 restored <strong>Leopard 1 tanks</strong>. Mr Zelensky is expected to meet EU leaders in Brussels on Thursday.
+<strong>Ukraine’s </strong>president, Volodymyr Zelensky, was greeted by Britain’s prime minister, Rishi Sunak, as he arrived on a surprise visit to London. Mr Zelensky is due to give a speech to Parliament and meet King Charles III. Britain said it would train Ukrainian fighter jet pilots and marines; Ukraine desperately wants [Western jets](https://www.economist.com/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) but is yet to receive them. Mr Zelensky is expected to meet EU leaders in Brussels on Thursday.
 
 The death toll from the [large earthquakes](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) that struck parts of <strong>Turkey</strong> and <strong>Syria</strong> on Monday passed 11,000 and looks [certain to rise](https://www.economist.com/europe/2023/02/07/the-scale-of-the-disaster-in-turkey-and-syria-keeps-growing) further. Turkey’s president, Recep Tayyip Erdogan, visited the Turkish provinces worst affected by the disaster. America, China and countries across Asia and Europe sent specialist help to support the rescue efforts.
 
@@ -24,7 +24,7 @@ In his <strong>state-of-the-union address</strong>, [Joe Biden](https://www.econ
 
 Thousands attended the funeral prayers of <strong>Pervez Musharraf</strong>, Pakistan’s former [president](https://www.economist.com/asia/2023/02/05/pervez-musharraf-was-one-of-pakistans-better-dictators), in Karachi, a city in the south of the country. Mr Musharraf, who died on Sunday, led a coup in 1999 and went on to rule Pakistan for nearly a decade, first as “chief executive” then as president. He had lived in Dubai since 2016.
 
-<strong>LeBron James</strong>, an American basketball player, broke a 39-year-old record to become the all-time leading scorer in the NBA. [Mr James](https://www.economist.com/game-theory/2017/06/08/lebron-james-has-provided-a-lift-to-small-businesses), who plays for Los Angeles Lakers, scored 38 points during his team’s loss against Oklahoma City Thunder. That took his career tally to 38,390, just above the 38,387 record set by Kareem Abdul-Jabbar. The previous top scorer, now 75, was in the stadium to see his record fall. 
+<strong>LeBron James</strong>, an American basketball player, broke a 39-year-old record to become the all-time leading scorer in the NBA. [Mr James](https://www.economist.com/game-theory/2017/06/08/lebron-james-has-provided-a-lift-to-small-businesses), who plays for the Los Angeles Lakers, scored 38 points during his team’s loss against Oklahoma City Thunder. That took his career tally to 38,390, just above the 38,387 record set by Kareem Abdul-Jabbar. The previous top scorer, now 75, was in the stadium to see his record fall. 
 
 <strong>Fact of the day: </strong>15, the average number of earthquakes stronger than magnitude 7 per year. [See the full story](https://www.economist.com/the-economist-explains/2023/02/06/what-made-the-earthquake-in-turkey-and-syria-so-deadly). 
 
@@ -68,7 +68,7 @@ Netflix released its first original [Arabic-language](https://www.economist.com/
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a3f2d6cad9e6d0d3d1c6d0d0cce3c6c0cccdcccecad0d78dc0ccce">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
