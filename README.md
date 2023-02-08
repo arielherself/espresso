@@ -24,7 +24,7 @@ Britain’s competition regulator warned that Microsoft’s [$69bn acquisition](
 
 The share price of <strong>Alphabet</strong>, Google’s parent company, fell by nearly 8% after a demonstration of its new AI-powered chatbot underwhelmed investors. Called Bard, it answered one query inaccurately. On Tuesday Microsoft unveiled an AI-enhanced version of its Bing search engine in an attempt to [win market share](https://te.arielherself.xyz/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end) in web search from Google.
 
-<strong>LeBron James</strong>, an American basketball player, broke a 39-year-old record to become the all-time leading scorer in the NBA. [Mr James](https://te.arielherself.xyz/game-theory/2017/06/08/lebron-james-has-provided-a-lift-to-small-businesses), who plays for the Los Angeles Lakers, scored 38 points during his team’s loss against Oklahoma City Thunder. That took his career tally to 38,390, just above the 38,387 record set by Kareem Abdul-Jabbar. The previous top scorer, now 75, was in the stadium to see his record fall. 
+<strong>LeBron James</strong>, an American basketball player, broke a 39-year-old record to become the all-time leading scorer in the NBA. [Mr James](https://te.arielherself.xyz/game-theory/2017/06/08/lebron-james-has-provided-a-lift-to-small-businesses), who plays for the Los Angeles Lakers, scored 38 points during his team’s loss against the Oklahoma City Thunder. That took his career tally to 38,390, just above the 38,387 record set by Kareem Abdul-Jabbar. The previous top scorer, now 75, was in the stadium to see his record fall. 
 
 <strong>Fact of the day: </strong>15, the average number of earthquakes stronger than magnitude 7 per year. [See the full story](https://te.arielherself.xyz/the-economist-explains/2023/02/06/what-made-the-earthquake-in-turkey-and-syria-so-deadly). 
 
@@ -68,7 +68,7 @@ Netflix released its first original [Arabic-language](https://te.arielherself.xy
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7b2a0e12013e080b091e0808143b1e181415141612080f55181416">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4617332f3c03353634233535290623252928292b2f35326825292b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
