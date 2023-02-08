@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Ukraine’s </strong>president, Volodymyr Zelensky, was greeted by Britain’s prime minister, Rishi Sunak, as he arrived on a surprise visit to London. Mr Zelensky is due to give a speech to Parliament and meet King Charles III. Britain said it would train Ukrainian fighter jet pilots and marines; Ukraine desperately wants [Western jets](https://te.arielherself.xyz/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) but is yet to receive them. Mr Zelensky is expected to meet EU leaders in Brussels on Thursday.
+<strong>Ukraine’s </strong>president, Volodymyr Zelensky, repeated calls for the West to supply [fighter jets](https://te.arielherself.xyz/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) to his country during an address to Britain’s Parliament. Ukraine’s Western allies have so far refused to send jets, though Britain said it will train Ukrainian pilots. Mr Zelensky also met Britain’s prime minister, Rishi Sunak, and King Charles III during his surprise visit to London. He is due to travel to Paris to meet France’s President, Emmanuel Macron, and Olaf Scholz, Germany’s chancellor<em>.</em>
 
 The death toll from the [large earthquakes](https://te.arielherself.xyz/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) that struck parts of <strong>Turkey</strong> and <strong>Syria</strong> on Monday passed 11,000 and looks [certain to rise](https://te.arielherself.xyz/europe/2023/02/07/the-scale-of-the-disaster-in-turkey-and-syria-keeps-growing) further. Turkey’s president, Recep Tayyip Erdogan, visited the Turkish provinces worst affected by the disaster. America, China and countries across Asia and Europe sent specialist help to support the rescue efforts.
 
@@ -68,7 +68,7 @@ Netflix released its first original [Arabic-language](https://te.arielherself.xy
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="97c6e2feedd2e4e7e5f2e4e4f8d7f2f4f8f9f8fafee4e3b9f4f8fa">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6a3b1f03102f191a180f1919052a0f090504050703191e44090507">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
