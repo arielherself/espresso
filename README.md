@@ -24,7 +24,7 @@ Annual inflation in <strong>Germany</strong> fell in January, which may demand a
 
 <strong>Credit Suisse</strong> recorded its largest loss since the financial crisis in 2008 as it struggled to restore confidence after a series of social-media [rumours](https://te.arielherself.xyz/finance-and-economics/2022/10/03/credit-suisse-and-the-hunt-for-the-weakest-link-in-global-finance) questioning its liquidity and capital position emerged last year. The Swiss bank reported a loss of SFr1.4bn ($1.5bn) as both its investment banking and wealth management business suffered. That took its annual loss to SFr7.3bn.
 
-<strong>Spain’s </strong>supreme court ruled that the government was wrong to exclude <strong>bullfighting</strong> from a list of events that young people could attend through a free ticketing scheme. Spaniards turning 18 get a €400 (£355) allowance, half of which they can spend on cultural events. But the government omitted [bullfighting](https://te.arielherself.xyz/books-and-arts/2020/07/22/bullfighting-in-the-era-of-covid-19), prompting an organisation that promotes the activity to take the matter to court.
+<strong>Meta</strong> restored <strong>Donald Trump’s</strong> Facebook and Instagram accounts, which were [suspended](https://te.arielherself.xyz/united-states/2021/05/06/facebooks-oversight-board-says-that-donald-trump-can-be-kept-off-the-platform-for-now) shortly after the Capitol insurrection on January 6th 2021. Earlier the social-media firm announced its decision to reinstate the former president’s accounts, concluding that his threat to public safety had “sufficiently receded”. Twitter restored Mr Trump’s account in November, but it has sat idle.
 
 <strong>Fact of the day: </strong>8m, the number of people displaced by Pakistan’s monsoon flooding last summer. [Read the full story](https://te.arielherself.xyz/asia/2023/02/07/pakistan-is-at-risk-of-default).
 
@@ -66,7 +66,7 @@ His latest book, published this week, is a historical chronicle of the Vijayanag
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a1f0d4c8dbe4d2d1d3c4d2d2cee1c4c2cecfceccc8d2d58fc2cecc">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3f6e4a56457a4c4f4d5a4c4c507f5a5c50515052564c4b115c5052">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
