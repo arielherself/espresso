@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Turkey’s</strong> president, <strong>Recep Tayyip Erdogan</strong>, acknowledged that there were problems with his government’s response to [earthquakes](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) that struck his country, as well as <strong>Syria</strong>, on Monday. Many Turks have complained that state rescue teams lacked expertise and appropriate equipment, and that they were slow to arrive, even though people remain trapped under rubble. Mr Erdogan said it was impossible to have prepared for the situation but that it was now “under control”.
+The [death toll](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) from the <strong>earthquakes</strong> in <strong>Turkey</strong> and <strong>Syria</strong> on Monday surpassed 20,000. Turkey’s president, <strong>Recep Tayyip Erdogan</strong>, acknowledged that there were problems with his government’s response. Many Turks have complained that state rescue teams lacked expertise and appropriate equipment, and that they were slow to arrive, even though people remain trapped under rubble.
 
 <strong>Ukraine’s </strong>president, Volodymyr Zelensky, arrived in Brussels to address the European Parliament. During his speech he thanked European leaders for their support and reiterated Ukraine’s desire to [join the bloc](https://www.economist.com/europe/2023/02/03/ukraine-is-not-about-to-join-the-eu). On a surprise trip to London and Paris on Wednesday Mr Zelensky repeated his calls for the West to provide [fighter jets](https://www.economist.com/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) to his country. Western allies have so far refused to send warplanes.
 
@@ -66,7 +66,7 @@ His latest book, published this week, is a historical chronicle of the Vijayanag
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b4e5c1ddcef1c7c4c6d1c7c7dbf4d1d7dbdadbd9ddc7c09ad7dbd9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3564405c4f704645475046465a7550565a5b5a585c46411b565a58">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
