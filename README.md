@@ -20,7 +20,7 @@ Japan’s prime minister, Kishida Fumio, is reportedly set to appoint<strong> Ue
 
 <strong>Russia’s </strong>deputy prime minister, Alexander Novak, said that the country would cut its oil output by around 500,000 barrels a day in response to [Western sanctions](https://te.arielherself.xyz/leaders/2023/02/01/why-the-wests-oil-sanctions-on-russia-are-proving-to-be-underwhelming). On Sunday the EU banned the [seaborne import](https://te.arielherself.xyz/finance-and-economics/2023/01/29/how-russia-dodges-oil-sanctions-on-an-industrial-scale) of Russian diesel, having already done so for crude oil. The G7 has also introduced a price cap. Oil prices rose on Mr Novak’s announcement. 
 
-The <strong>FBI </strong>began a consensual search of the Indiana home of <strong>Mike Pence</strong>, America’s former vice-president. The search comes several weeks after his aides found classified papers there; Justice Department officials are reportedly sweeping for additional documents. The FBI has [also searched](https://te.arielherself.xyz/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) the private homes of President Joe Biden and—with a search warrant—his predecessor, Donald Trump, for classified documents. 
+The <strong>FBI </strong>found one classified document in a consensual search of the Indiana home of <strong>Mike Pence</strong>, America’s former vice-president. The search came several weeks after his aides found additional classified papers there. The FBI has [also searched](https://te.arielherself.xyz/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) the private homes of President Joe Biden and—with a search warrant—his predecessor, Donald Trump, for classified documents. 
 
 <strong>Britain’s </strong>national statistics agency revealed that the country narrowly avoided a recession last year, as it released figures showing that GDP growth was unchanged in the fourth quarter. GDP dropped by 0.2% in the third quarter; two consecutive contractions mark a recession. Britain’s chancellor, [Jeremy Hunt](https://te.arielherself.xyz/by-invitation/2023/02/09/jeremy-hunts-four-pillar-plan-to-boost-productivity), called the economy “more resilient than many feared”—but analysts still expect a recession this year.
 
@@ -66,7 +66,7 @@ The Rijksmuseum has sold more advanced tickets for “Vermeer” than for any pr
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2372564a59665053514650504c6346404c4d4c4e4a50570d404c4e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="eebf9b8794ab9d9e9c8b9d9d81ae8b8d81808183879d9ac08d8183">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
