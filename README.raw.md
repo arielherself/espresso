@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The [death toll](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) from the <strong>earthquakes</strong> that hit <strong>Turkey</strong> and <strong>Syria</strong> on Monday passed 22,500, as bitterly cold weather stoked fears that few people will now emerge from the rubble alive. The World Bank pledged $1.78bn of aid for Turkey. The first aid convoy reached Syria on Thursday, where the rescue effort has been [complicated](https://www.economist.com/leaders/2023/02/08/the-devastating-earthquakes-in-turkey-and-syria-might-upend-politics-too) by a decade of war and a regime that is suspicious of outsiders.
+The [death toll](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) from the <strong>earthquakes</strong> that hit <strong>Turkey</strong> and <strong>Syria</strong> on Monday passed 23,000, as bitterly cold weather stoked fears that few people will now emerge from the rubble alive. The World Bank pledged $1.78bn of aid for Turkey. The first aid convoy reached Syria on Thursday, where the rescue effort has been [complicated](https://www.economist.com/leaders/2023/02/08/the-devastating-earthquakes-in-turkey-and-syria-might-upend-politics-too) by a decade of war and a regime that is suspicious of outsiders.
 
 In a fresh missile attack, Russia hit power infrastructure in cities across <strong>Ukraine</strong>, including Kyiv, the capital. Ukrainian officials said that 17 rockets struck the south-eastern city of Zaporizhia in one hour. The head of Ukraine’s armed forces, [General Valery Zaluzhny](https://www.economist.com/zaluzhny-transcript), claimed that two missiles crossed over Moldova and Romania, though the latter country denied its airspace was intruded. 
 
@@ -66,7 +66,7 @@ The Rijksmuseum has sold more advanced tickets for “Vermeer” than for any pr
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="316044584b744241435442425e7154525e5f5e5c5842451f525e5c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6637130f1c23151614031515092603050908090b0f15124805090b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
