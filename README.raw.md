@@ -26,7 +26,9 @@ China’s biggest chipmaker, <strong>Semiconductor Manufacturing International C
 
 America’s State Department said that the <strong>Chinese balloon</strong> shot down over the Atlantic on Saturday was part of a sophisticated network of similar surveillance devices which [China](https://www.economist.com/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) has operated over more than 40 countries across five continents. The department also said America was “confident” the [balloon](https://www.economist.com/leaders/2023/02/04/the-sino-american-rivalry-needs-guardrails-to-contain-small-incidents) was made by a firm with direct links to China’s military. 
 
-<strong>Fact of the day: </strong>45,755, the number of people who came to Britain in small boats across the English Channel in 2022. [Read the full story](https://www.economist.com/britain/2023/02/08/the-british-government-is-planning-another-crackdown-on-asylum-seekers).
+Read our brief round-ups of this week’s biggest stories in [politics](https://www.economist.com/the-world-this-week/2023/02/09/politics) and [business](https://www.economist.com/the-world-this-week/2023/02/09/business).
+
+<strong>Fact of the day: </strong>45,755, the number of migrants who came to Britain in small boats across the English Channel in 2022. [Read the full story](https://www.economist.com/britain/2023/02/08/the-british-government-is-planning-another-crackdown-on-asylum-seekers).
 
 ----------
 
@@ -64,7 +66,7 @@ The Rijksmuseum has sold more advanced tickets for “Vermeer” than for any pr
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3f6e4a56457a4c4f4d5a4c4c507f5a5c50515052564c4b115c5052">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d786a2bead92a4a7a5b2a4a4b897b2b4b8b9b8babea4a3f9b4b8ba">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
