@@ -20,11 +20,11 @@ Poland’s president, Andrzej Duda, told the BBC that sending <strong>fighter je
 
 The <strong>Pentagon </strong>shot down an object flying at high altitude (12,000 metres) over Alaska’s airspace. The downed object was “roughly the size of a small car”. No indication was given about its owner or whether it was a spy balloon. Meanwhile America blacklisted five Chinese companies and a research institute connected to a suspected balloon-surveillance programme.
 
+Marc Tarabella, a Belgian MEP, was charged with <strong>corruption</strong> and other crimes over his alleged role in the [money-for-influence scheme](https://www.economist.com/europe/2022/12/15/a-corruption-scandal-leaves-the-eu-reeling) at the <strong>European Parliament</strong> that is said to involve Qatar. Another MEP who is co-operating with prosecutors had alleged that Mr Tarabella received up to €140,000 ($150,000) in bribes. Five other people have been charged with the same offences so far.
+
 Natalia Gavrilita, <strong>Moldova’s</strong> pro-Western prime minister, resigned. Ms Gavrilita, who was elected in 2021, has seen her popularity plummet as Moldova struggles to cope with an influx of refugees from neighbouring Ukraine. The country has also had some of its energy supplies cut by Russia, which is [angry](https://www.economist.com/europe/moldova-is-trying-to-stay-out-of-russias-war-with-ukraine/21809093) at its plan to join the EU. Dorin Recean, a security adviser, will be the new PM.
 
 <strong>France’s </strong>government braced itself for a fourth day of <strong>protests </strong>against plans to raise the [pension age](https://www.economist.com/the-economist-explains/2023/01/31/why-is-the-french-pension-age-so-low) from 62 to 64. Hundreds of thousands of people are expected to demonstrate; in January, more than 1m took part in strikes. Despite spending, on average, longer in retirement than people in almost any country in the OECD, most French people oppose President Emmanuel Macron’s plans.
-
-The <strong>FBI </strong>found one classified document in a consensual search of the Indiana home of <strong>Mike Pence</strong>, America’s former vice-president. The search came several weeks after his aides found additional classified papers there. The FBI has [also searched](https://www.economist.com/united-states/2023/01/13/the-presidential-mislaying-of-classified-documents-is-infectious) the private homes of President Joe Biden and—with a search warrant—his predecessor, Donald Trump, for classified documents. 
 
 <strong>Word of the week: </strong><em>dekasegi ryugaku</em>, a Japanese term that means “earning money while studying overseas”. [Read the full story](https://www.economist.com/asia/2023/02/09/japanese-workers-are-seeking-higher-wages-overseas).
 
