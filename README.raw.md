@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-The [death toll](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) from <strong>earthquakes </strong>in <strong>Turkey </strong>and <strong>Syria </strong>passed 25,000. But more than five days after the disaster, survivors were still being pulled from the rubble, including a mother and her baby. America said it would suspend some sanctions on Syria for 180 days, to help ease the supply of aid to the war-torn country.
+Shots were fired between unknown groups in <strong>Turkey’s </strong>Hatay province, disrupting efforts to rescue survivors from devastating earthquakes last week. There were also reports of looting in the area. Earlier the [death toll](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) passed 25,000—but more than five days after the disaster, survivors were still being pulled from the rubble.
 
 Poland’s president, Andrzej Duda, told the BBC that sending <strong>fighter jets</strong> to <strong>Ukraine </strong>would have to be a “joint decision” with other NATO members and would “not be easy to take”. Ukraine’s Western allies—including Poland, one of the most hawkish—remain leery of sending [American F-15 or F-16 ](https://www.economist.com/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them)aircraft, despite the entreaties made by Ukraine’s president, Volodymyr Zelensky, in London, Paris and Brussels this week.
 
