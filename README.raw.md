@@ -30,6 +30,34 @@ The <strong>Canadian women’s football </strong>team vowed to boycott training 
 
 ----------
 
+## Re-run of elections in Berlin
+
+On Sunday, for the first time, the city of Berlin is re-running elections for its parliament and 12 district councils. The ballots, which originally took place in September 2021, were nullified by Berlin’s constitutional court owing to chaotic scenes at polling stations. Voters had to queue for hours, often only to find that the places had run out of voting paper or ballot boxes. The disruptions were in part caused by a marathon that was held on the same day.
+
+The annulment allowed Franziska Giffey, Berlin’s mayor, from the Social Democratic Party (SPD), to hold on to her seat. But her party is now trailing the Christian Democratic Union (CDU) in the latest polls. Yet even if the conservatives win the most votes, the party might not be able to form a government. The governing coalition of SPD, Greens and the Left Party is determined to stay in power and have one of their own take the mayor’s job.
+
+## Betting at, and on, the Super Bowl
+
+On Sunday, for the 57th time, two American-football teams—this year, the Philadelphia Eagles and Kansas City Chiefs—will play for the championship in the Super Bowl. For the first time, the game will be held in a state (Arizona) where sports betting is legal.
+
+The National Football League long treated [gambling](https://www.economist.com/culture/2023/02/10/the-national-football-league-bets-on-betting) as a threat. Twenty years ago, it barred ads encouraging people to visit Las Vegas from appearing during its games. In 2018, though, the Supreme Court overturned a federal law forbidding states other than Nevada from legalising sports betting. Today, some form of wagering on sports is legal in most states.
+
+On Sunday, fans in Arizona can bet from their seats using their phones, or in person at a sportsbook just a few hundred feet from the stadium. They’ll have company: roughly 20% of American adults are expected to bet a total of around $16bn on Sunday’s game, and more than one-third of fans say that being able to do so has made games more exciting.
+
+## A bowling success for women’s cricket
+
+The Women’s T20 World Cup—a cricket tournament that began with the hosts, South Africa, taking on Sri Lanka on Friday—offers another example of the sport’s rapid progress. Skills are sharpening and the talent pool is deepening. That is largely thanks to high-profile domestic tournaments, such as the Women’s Big Bash League in Australia and The Hundred in Britain, which create more opportunities for sponsorship and investment.  
+  
+ The launch of the [Women’s Premier League in India](https://www.economist.com/asia/2023/02/09/indian-investors-pile-in-to-womens-cricket) in March will overshadow the lot. Investors spent $570m to acquire the five competing teams in January, an incredible sum for any women’s sport. The player auction on Monday, to allocate players and determine their wages, will be fierce. Some players will receive the biggest pay packets of their careers, earning as much in the three-week WPL as in a year with their national teams. Their excitement may not be shared by those teammates who go unsold.
+
+## Norwegian women marry up
+
+Norway is known for its fjords, fish and feminism. For decades it has jockeyed with its Nordic neighbours at the top of gender-equality charts. But in affairs of the heart, old habits die hard. Research in <em>The Journal of Human Resources</em> shows that hypergamy—marrying “up” a social class—influences how Norwegian women choose a romantic partner. 
+
+By using parental income as a proxy for earning potential, the study controlled for the lingering pay gap, and found that women tend to marry men of higher status. That creates more couples where the husband earns more, incentivising a more traditional division of labour. 
+
+These trends do not appear to have faded with increasing egalitarianism around the world. Hypergamy documented in [China](https://www.economist.com/1843/2018/03/05/a-wife-less-ordinary) has been blamed on a misogynistic culture. But its presence in the Nordic gender utopia serves as a reminder of the firm grip of primal forces.
+
 ## Weekend profile: Gustavo Dudamel, star maestro
 
 Gustavo Dudamel is easily excited—unusually so in the [serious world](https://www.economist.com/culture/2022/11/17/the-classical-music-world-is-grappling-with-accessibility) of classical music. “Everything was too loud and everything was too fast, and I loved it,” remembered Sir Simon Rattle, an illustrious conductor, of his introduction to Mr Dudamel, then a [young prodigy](https://www.economist.com/1843/2013/12/23/gustavo-dudamels-next-mountain). Now aged 42, Mr Dudamel has mastered the tempo without sacrificing the passion. On Tuesday it was announced that he will jump from the Los Angeles Philharmonic, which he has led since 2009, to the New York Philharmonic in 2026. 
@@ -79,34 +107,6 @@ Thank you to everyone who took part in this week’s quiz. The winners, chosen a
 <strong>Christian Weber</strong>, Hamburg, Germany
 
 They all gave the correct answers of Level 42, High Noon, Ada Lovelace, Call Me Madam and radar. The theme is that they all contain palindromes: level, noon, ada, madam and radar.
-
-## Norwegian women marry up
-
-Norway is known for its fjords, fish and feminism. For decades it has jockeyed with its Nordic neighbours at the top of gender-equality charts. But in affairs of the heart, old habits die hard. Research in <em>The Journal of Human Resources</em> shows that hypergamy—marrying “up” a social class—influences how Norwegian women choose a romantic partner. 
-
-By using parental income as a proxy for earning potential, the study controlled for the lingering pay gap, and found that women tend to marry men of higher status. That creates more couples where the husband earns more, incentivising a more traditional division of labour. 
-
-These trends do not appear to have faded with increasing egalitarianism around the world. Hypergamy documented in [China](https://www.economist.com/1843/2018/03/05/a-wife-less-ordinary) has been blamed on a misogynistic culture. But its presence in the Nordic gender utopia serves as a reminder of the firm grip of primal forces.
-
-## A bowling success for women’s cricket
-
-The Women’s T20 World Cup—a cricket tournament that began with the hosts, South Africa, taking on Sri Lanka on Friday—offers another example of the sport’s rapid progress. Skills are sharpening and the talent pool is deepening. That is largely thanks to high-profile domestic tournaments, such as the Women’s Big Bash League in Australia and The Hundred in Britain, which create more opportunities for sponsorship and investment.  
-  
- The launch of the [Women’s Premier League in India](https://www.economist.com/asia/2023/02/09/indian-investors-pile-in-to-womens-cricket) in March will overshadow the lot. Investors spent $570m to acquire the five competing teams in January, an incredible sum for any women’s sport. The player auction on Monday, to allocate players and determine their wages, will be fierce. Some players will receive the biggest pay packets of their careers, earning as much in the three-week WPL as in a year with their national teams. Their excitement may not be shared by those teammates who go unsold.
-
-## Betting at, and on, the Super Bowl
-
-On Sunday, for the 57th time, two American-football teams—this year, the Philadelphia Eagles and Kansas City Chiefs—will play for the championship in the Super Bowl. For the first time, the game will be held in a state (Arizona) where sports betting is legal.
-
-The National Football League long treated [gambling](https://www.economist.com/culture/2023/02/10/the-national-football-league-bets-on-betting) as a threat. Twenty years ago, it barred ads encouraging people to visit Las Vegas from appearing during its games. In 2018, though, the Supreme Court overturned a federal law forbidding states other than Nevada from legalising sports betting. Today, some form of wagering on sports is legal in most states.
-
-On Sunday, fans in Arizona can bet from their seats using their phones, or in person at a sportsbook just a few hundred feet from the stadium. They’ll have company: roughly 20% of American adults are expected to bet a total of around $16bn on Sunday’s game, and more than one-third of fans say that being able to do so has made games more exciting.
-
-## Re-run of elections in Berlin
-
-On Sunday, for the first time, the city of Berlin is re-running elections for its parliament and 12 district councils. The ballots, which originally took place in September 2021, were nullified by Berlin’s constitutional court owing to chaotic scenes at polling stations. Voters had to queue for hours, often only to find that the places had run out of voting paper or ballot boxes. The disruptions were in part caused by a marathon that was held on the same day.
-
-The annulment allowed Franziska Giffey, Berlin’s mayor, from the Social Democratic Party (SPD), to hold on to her seat. But her party is now trailing the Christian Democratic Union (CDU) in the latest polls. Yet even if the conservatives win the most votes, the party might not be able to form a government. The governing coalition of SPD, Greens and the Left Party is determined to stay in power and have one of their own take the mayor’s job.
 
 ----------
 
