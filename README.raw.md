@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Shots were fired between unknown groups in <strong>Turkey’s </strong>Hatay province, disrupting efforts to rescue survivors from devastating earthquakes last week. There were also reports of looting in the area. Earlier the [death toll](https://www.economist.com/international/2023/02/06/massive-earthquakes-in-turkey-and-northern-syria-kill-thousands) passed 25,000—but more than five days after the disaster, survivors were still being pulled from the rubble.
+Shots were fired between unknown groups in <strong>Turkey’s </strong>Hatay province, disrupting efforts to rescue survivors from devastating earthquakes that struck six days ago. There were also reports that 50 people were arrested for looting in the area. The death toll in Turkey and neighbouring <strong>Syria</strong> has now passed 28,000. Ever fewer survivors are being pulled from the rubble.
 
 An American fighter jet, acting at <strong>Canada’s</strong> behest, shot down an unidentified <strong>flying object </strong>over Canadian airspace. Prime Minister Justin Trudeau said Canadian forces would “recover and analyse the wreckage”. It came days after the downing of another unidentified object over Alaska and of a [Chinese spy balloon](https://www.economist.com/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) off the coast of South Carolina.
 
