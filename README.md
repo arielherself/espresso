@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b8e9cdd1c2fdcbc8caddcbcbd7f8dddbd7d6d7d5d1cbcc96dbd7d5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
