@@ -22,7 +22,7 @@ The party of [Olaf Scholz](https://te.arielherself.xyz/europe/2022/12/07/germany
 
 <strong>India’s</strong> prime minister, Narendra Modi, said he wants to more than triple its annual [military](https://te.arielherself.xyz/asia/2018/03/28/india-spends-a-fortune-on-defence-and-gets-poor-value-for-money) exports, from $1.5bn to $5bn, by 2024-25. Mr Modi, who also called on India’s private sector to invest more in arms manufacturing, made his comments at the Aero India show, a five-day event attended by firms including Lockheed Martin and Rolls Royce. India hopes to sign defence deals worth $9bn at the show.
 
-A spokesman for <strong>France’s</strong> government said that it was open to making concessions on its plan to raise the retirement age by two years. The proposal has been met with a wave of [strikes and protests](https://te.arielherself.xyz/europe/2023/02/06/why-france-is-arguing-about-work-and-the-right-to-be-lazy), with around 1m people demonstrating across the country on Saturday. Unions have said that they will escalate action unless the plan is scrapped.
+The European Commission said that the <strong>European Union</strong> would likely [avoid recession](https://te.arielherself.xyz/europe/2023/01/26/experience-from-a-past-crisis-suggests-europe-should-shake-off-any-complacency) this year, as wholesale gas prices fell below pre-war levels. The commission’s winter forecast was more optimistic than anticipated, with growth in the euro area predicted to hit 0.9% in 2023. Although core inflation continued to rise in January, the commision also forecast that inflation would ease in the coming months.
 
 The Kansas City Chiefs beat the Philadelphia Eagles by 38 points to 35 in the <strong>Super Bowl</strong> in Phoenix, Arizona. Patrick Mahomes, quarterback for the Chiefs, shook off an ankle injury to throw his team to a second championship in four years. It was the first Super Bowl to be held in a state where sports betting is legal. Punters were [expected to bet](https://te.arielherself.xyz/culture/2023/02/10/the-national-football-league-bets-on-betting) a total of around $16bn.
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f0a185998ab58380829583839fb095939f9e9f9d998384de939f9d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4f1e3a26350a3c3f3d2a3c3c200f2a2c20212022263c3b612c2022">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
