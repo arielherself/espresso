@@ -24,7 +24,7 @@ Wang Wenbin, a <strong>Chinese</strong> foreign ministry spokesperson, claimed t
 
 Tens of thousands of <strong>Israelis</strong> gathered to protest the introduction of legislation that would weaken the country’s independent judiciary. Israel’s parliament will begin voting on the [controversial reform bills](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court) soon. On Sunday Israel’s president, whose role is largely ceremonial, asked Binyamin Netanyahu’s government to delay the votes, saying that the country was “on the brink of constitutional and social collapse”.
 
-The Kansas City Chiefs beat the Philadelphia Eagles by 38 points to 35 in the <strong>Super Bowl</strong> in Phoenix, Arizona. Patrick Mahomes, quarterback for the Chiefs, shook off an ankle injury to throw his team to a second championship in four years. It was the first Super Bowl to be held in a state where sports betting is legal. Punters were [expected to bet](https://te.arielherself.xyz/culture/2023/02/10/the-national-football-league-bets-on-betting) a total of around $16bn.
+<strong>Mars Wrigley</strong>, a chocolate manufacturer, was fined $14,500 after two workers fell into a vat of melted chocolate last year. They had been hired to clean the tanks in a factory in Pennsylvania, but neither had received proper training on safety procedures. A hole had to be cut into the bottom of the contraption to rescue the fallen contractors.
 
 <strong>Fact of the day: </strong>37%, the share of women in Saudi Arabia with a job or looking for one. In 2017 it was 17%. [Read the full story](https://te.arielherself.xyz/leaders/2023/02/09/arab-petrostates-must-prepare-their-citizens-for-a-post-oil-future).
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e4b5918d9ea19794968197978ba481878b8a8b898d9790ca878b89">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c190b4a8bb84b2b1b3a4b2b2ae81a4a2aeafaeaca8b2b5efa2aeac">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
