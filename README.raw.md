@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Jens Stoltenberg,<strong> NATO’s</strong> secretary general, said that the new <strong>Russian offensive </strong>against Ukraine has already begun, and that Russia will send “more troops, more weapons” into the war. Mr Stoltenberg, who is meeting with defence ministers in Brussels on Tuesday, said that leaders would discuss the possibility of [sending aircraft](https://www.economist.com/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) to Ukraine. Volodymyr Zelensky, Ukraine’s president, renewed pleas for jets last week.
+Jens Stoltenberg,<strong> NATO’s</strong> secretary general, said that the new <strong>Russian offensive </strong>against Ukraine has already begun, and that Russia will send “more troops, more weapons” into the war. Mr Stoltenberg, who is meeting with defence ministers in Brussels on Tuesday, said that leaders would discuss the possibility of [sending aircraft](https://www.economist.com/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) to Ukraine. Volodymyr Zelensky, Ukraine’s president, renewed pleas for jets last week. 
 
 A week after [earthquakes](https://www.economist.com/europe/2023/02/09/the-earthquakes-in-turkey-and-syria-have-shaken-both-countries) in <strong>Turkey</strong> and <strong>Syria</strong> a UN spokesperson said that the rescue phase is drawing to a close and that the focus would now shift towards providing food and housing. Turkish officials said that they had issued at least 113 arrest warrants for architects, contractors and engineers connected with buildings that collapsed. The government has been widely blamed for not enforcing construction standards. The death toll has now passed 36,000. 
 
@@ -20,7 +20,7 @@ Maia Sandu, <strong>Moldova’s</strong> president, accused Russia of making pla
 
 The European Commission said that the <strong>European Union</strong> would probably [avoid recession](https://www.economist.com/europe/2023/01/26/experience-from-a-past-crisis-suggests-europe-should-shake-off-any-complacency) this year, as wholesale gas prices fell below pre-war levels. The commission’s winter forecast was more optimistic than anticipated, with growth in the euro area predicted to hit 0.9% in 2023. The commision also forecast that inflation would ease in the coming months.
 
-A <strong>Chinese</strong> official claimed that high-altitude <strong>American balloons</strong> have illegally entered China’s airspace more than ten times since January 2022—an allegation that America promptly denied.<strong></strong>The accusation came after America shot down yet another unidentified object on Sunday in the third such [incident](https://www.economist.com/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) in North American airspace in as many days. 
+A <strong>Chinese</strong> official claimed that high-altitude <strong>American balloons</strong> have illegally entered China’s airspace more than ten times since January 2022—an allegation that America promptly denied. The accusation came after America shot down yet another unidentified object on Sunday in the third such [incident](https://www.economist.com/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) in North American airspace in as many days. 
 
 Tens of thousands of <strong>Israelis</strong> gathered to protest the introduction of legislation that would weaken the country’s independent judiciary. Israel’s parliament will begin voting on the [controversial reform bills](https://www.economist.com/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court) soon. On Sunday Israel’s president, whose role is largely ceremonial, asked Binyamin Netanyahu’s government to delay the votes, saying that the country was “on the brink of constitutional and social collapse”.
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cb9abea2b18eb8bbb9aeb8b8a48baea8a4a5a4a6a2b8bfe5a8a4a6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="411034283b043231332432322e0124222e2f2e2c2832356f222e2c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
