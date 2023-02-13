@@ -6,7 +6,7 @@
 
 ![The Economist](menubar.png)
 
-# <p align="center">The world in brief 2023-02-12</p>
+# <p align="center">The world in brief 2023-02-13</p>
 
 ## <p align="center">Catch up quickly on the global stories that matter</p>
 
@@ -18,13 +18,13 @@
 
 The party of [Olaf Scholz](https://te.arielherself.xyz/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary), <strong>Germany’s</strong> chancellor, looked set for a stinging defeat in elections for Berlin’s state parliament. His centre-left Social Democrats, who currently govern Germany’s capital in a coalition, took just 18.5% of the vote according to provisional results, compared with 27.5% for the conservative Christian Democratic party. The elections were a re-run of a nullified vote in 2021.
 
+<strong>Israel’s</strong> president warned that his country risks “constitutional and social collapse” should the government ram through its [controversial reforms](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court) to weaken the judiciary. Isaac Herzog, whose post is largely ceremonial, urged compromise in a primetime speech. Separately, Israel retroactively authorised nine settler outposts in the occupied West Bank, the first such move since Binyamin Netanyahu reclaimed the premiership.
+
 Nikos Christodoulides won <strong>Cyprus’s</strong> presidency in a run-off election on Sunday. The former foreign minister once served in the ruling right-wing government, but ran as an independent candidate. Mr Christodoulides now must try to make good on his campaign promises, which included restarting stalled talks about reunifying the ethnically divided island and overhauling its energy infrastructure.
 
 A spokesman for <strong>France’s</strong> government said that it was open to making concessions on its plan to raise the retirement age by two years. The proposal has been met with a wave of [strikes and protests](https://te.arielherself.xyz/europe/2023/02/06/why-france-is-arguing-about-work-and-the-right-to-be-lazy), with around a million people demonstrating across the country on Saturday. Unions have said that they will escalate action unless the plan is scrapped.
 
-<strong>Iran’s</strong> president, Ebrahim Raisi, declared that months-long <strong>protests </strong>against his regime had [been defeated](https://te.arielherself.xyz/middle-east-and-africa/2023/01/12/protests-have-subsided-in-iran-but-clerics-cannot-yet-proclaim-victory). The country was roiled by demonstrations against the curtailment of women’s rights following the death of Mahsa Amini, a 22-year-old who was beaten by police. Speaking at a rally to mark the 44th anniversary of the Iranian Revolution, Mr Raisi claimed the protests had been fuelled by western “conspiracies”.
-
-Marc Tarabella, a Belgian MEP, was charged with <strong>corruption</strong> and other crimes over his alleged role in the [money-for-influence scheme](https://te.arielherself.xyz/europe/2022/12/15/a-corruption-scandal-leaves-the-eu-reeling) at the <strong>European Parliament</strong> that is said to involve Qatar. Another MEP who is co-operating with prosecutors had alleged that Mr Tarabella received up to €140,000 ($150,000) in bribes. Five other people have been charged with the same offences so far.
+<strong>American-football </strong>fans tuned in to the <strong>Super Bowl</strong>, between the Kansas City Chiefs and the Philadelphia Eagles in Phoenix, Arizona. For the first time both starting quarterbacks are black: Philadelphia’s Jalen Hurts and Kansas City’s Patrick Mahomes. And it is the first such championship to be held in a state where sports betting is legal. Punters are [expected to bet](https://te.arielherself.xyz/culture/2023/02/10/the-national-football-league-bets-on-betting) a total of around $16bn.
 
 <strong>Word of the week: </strong><em>dekasegi ryugaku</em>, a Japanese term that means “earning money while studying overseas”. [Read the full story](https://te.arielherself.xyz/asia/2023/02/09/japanese-workers-are-seeking-higher-wages-overseas).
 
