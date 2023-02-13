@@ -22,7 +22,7 @@ The European Commission said that the <strong>European Union</strong> would prob
 
 Wang Wenbin, a <strong>Chinese</strong> foreign ministry spokesperson, claimed that <strong>American spy balloons</strong> have flown into Chinese airspace more than ten times in the past year. His comments came after America shot down yet another unidentified object on Sunday. It was the third such incident in North American airspace in as many days, and came after a [Chinese spy balloon](https://www.economist.com/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) was downed on February 4th.
 
-<strong>Israel </strong>launched air strikes against an underground site in [Gaza](https://www.economist.com/middle-east-and-africa/2022/07/14/young-palestinians-in-gaza-cannot-find-work-and-cannot-leave) that it claimed was manufacturing rockets for Hamas, a Palestinian Islamist movement. Officials said they were retaliating for the firing of a rocket towards Israel. (It was intercepted.) Separately, Israel retroactively authorised nine Jewish settler outposts in the occupied West Bank, the first such move since Binyamin Netanyahu reclaimed the premiership in December last year.
+Tens of thousands of <strong>Israelis</strong> gathered to protest the introduction of legislation that would weaken the country’s independent judiciary. Israel’s parliament will begin voting on the [controversial reform bills](https://www.economist.com/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court) soon. On Sunday Israel’s president, whose role is largely ceremonial, asked Binyamin Netanyahu’s government to delay the votes, saying that the country was “on the brink of constitutional and social collapse”.
 
 The Kansas City Chiefs beat the Philadelphia Eagles by 38 points to 35 in the <strong>Super Bowl</strong> in Phoenix, Arizona. Patrick Mahomes, quarterback for the Chiefs, shook off an ankle injury to throw his team to a second championship in four years. It was the first Super Bowl to be held in a state where sports betting is legal. Punters were [expected to bet](https://www.economist.com/culture/2023/02/10/the-national-football-league-bets-on-betting) a total of around $16bn.
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="58092d31221d2b282a3d2b2b37183d3b37363735312b2c763b3735">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a2f3d7cbd8e7d1d2d0c7d1d1cde2c7c1cdcccdcfcbd1d68cc1cdcf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
