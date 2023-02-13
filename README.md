@@ -20,7 +20,7 @@ Maia Sandu, <strong>Moldova’s</strong> president, accused Russia of making pla
 
 The European Commission said that the <strong>European Union</strong> would probably [avoid recession](https://te.arielherself.xyz/europe/2023/01/26/experience-from-a-past-crisis-suggests-europe-should-shake-off-any-complacency) this year, as wholesale gas prices fell below pre-war levels. The commission’s winter forecast was more optimistic than anticipated, with growth in the euro area predicted to hit 0.9% in 2023. The commision also forecast that inflation would ease in the coming months.
 
-Wang Wenbin, a <strong>Chinese</strong> foreign ministry spokesperson, claimed that <strong>American spy balloons</strong> have flown into Chinese airspace more than ten times in the past year. His comments came after America shot down yet another unidentified object on Sunday. It was the third such incident in North American airspace in as many days, and came after a [Chinese spy balloon](https://te.arielherself.xyz/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) was downed on February 4th.
+A <strong>Chinese</strong> official claimed that high-altitude <strong>American balloons</strong> have illegally entered China’s airspace more than ten times since January 2022—an allegation that America promptly denied.<strong></strong>The accusation came after America shot down yet another unidentified object on Sunday in the third such [incident](https://te.arielherself.xyz/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) in North American airspace in as many days. 
 
 Tens of thousands of <strong>Israelis</strong> gathered to protest the introduction of legislation that would weaken the country’s independent judiciary. Israel’s parliament will begin voting on the [controversial reform bills](https://te.arielherself.xyz/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court) soon. On Sunday Israel’s president, whose role is largely ceremonial, asked Binyamin Netanyahu’s government to delay the votes, saying that the country was “on the brink of constitutional and social collapse”.
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1a4b6f73605f696a687f6969755a7f797574757773696e34797577">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cf9ebaa6b58abcbfbdaabcbca08faaaca0a1a0a2a6bcbbe1aca0a2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
