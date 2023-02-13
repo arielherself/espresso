@@ -20,7 +20,7 @@ Wang Wenbin, a <strong>Chinese</strong> foreign ministry spokesperson, claimed t
 
 The European Commission said that the <strong>European Union</strong> would probably [avoid recession](https://te.arielherself.xyz/europe/2023/01/26/experience-from-a-past-crisis-suggests-europe-should-shake-off-any-complacency) this year, as wholesale gas prices fell below pre-war levels. The commission’s winter forecast was more optimistic than anticipated, with growth in the euro area predicted to hit 0.9% in 2023. The commision also forecast that inflation would ease in the coming months.
 
-The party of [Olaf Scholz](https://te.arielherself.xyz/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary), Germany’s chancellor, suffered a stinging defeat in elections for Berlin’s state parliament. His centre-left Social Democrats, who currently govern Germany’s capital in a coalition, took just 18.5% of the vote according to provisional results, compared with 27.5% for the conservative Christian Democratic Union. The elections were a re-run of a nullified vote in 2021.
+The party of [Olaf Scholz](https://te.arielherself.xyz/europe/2022/12/07/germanys-ruling-coalition-marks-its-first-anniversary), <strong>Germany’s</strong> chancellor, suffered a stinging defeat in elections for Berlin’s state parliament. His centre-left Social Democrats, who currently govern Germany’s capital in a coalition, took just 18.5% of the vote according to provisional results, compared with 27.5% for the conservative Christian Democratic Union. The elections were a re-run of a nullified vote in 2021.
 
 <strong>India’s</strong> prime minister, Narendra Modi, said he wants to more than triple its annual [military](https://te.arielherself.xyz/asia/2018/03/28/india-spends-a-fortune-on-defence-and-gets-poor-value-for-money) exports, from $1.5bn to $5bn, by 2024-25. Mr Modi, who also called on India’s private sector to invest more in arms manufacturing, made his comments at the Aero India show, a five-day event attended by firms including Lockheed Martin and Rolls Royce. India hopes to sign defence deals worth $9bn at the show.
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0352766a79467073716670706c4366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cd9cb8a4b788bebdbfa8bebea28da8aea2a3a2a0a4beb9e3aea2a0">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
