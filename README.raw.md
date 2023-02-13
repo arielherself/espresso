@@ -12,9 +12,9 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-A week after [earthquakes](https://www.economist.com/europe/2023/02/09/the-earthquakes-in-turkey-and-syria-have-shaken-both-countries) in <strong>Turkey</strong> and <strong>Syria</strong> a UN spokesperson said that the rescue phase is drawing to a close and that the focus would now shift towards providing food and housing. Turkish officials said that they had issued at least 113 arrest warrants for architects, contractors and engineers connected with buildings that collapsed. The government has been widely blamed for not enforcing construction standards. The death toll has now passed 36,000. 
-
 Jens Stoltenberg,<strong> NATO’s</strong> secretary general, said that the new <strong>Russian offensive </strong>against Ukraine has already begun, and that Russia will send “more troops, more weapons” into the war. Mr Stoltenberg, who is meeting with defence ministers in Brussels on Tuesday, said that leaders would discuss the possibility of [sending aircraft](https://www.economist.com/the-economist-explains/2023/02/01/why-does-ukraine-want-western-jets-and-will-it-get-them) to Ukraine. Volodymyr Zelensky, Ukraine’s president, renewed pleas for jets last week.
+
+A week after [earthquakes](https://www.economist.com/europe/2023/02/09/the-earthquakes-in-turkey-and-syria-have-shaken-both-countries) in <strong>Turkey</strong> and <strong>Syria</strong> a UN spokesperson said that the rescue phase is drawing to a close and that the focus would now shift towards providing food and housing. Turkish officials said that they had issued at least 113 arrest warrants for architects, contractors and engineers connected with buildings that collapsed. The government has been widely blamed for not enforcing construction standards. The death toll has now passed 36,000. 
 
 Maia Sandu, <strong>Moldova’s</strong> president, accused Russia of making plans to take down her government using external saboteurs. In a briefing, [Ms Sandu](https://www.economist.com/europe/moldova-is-trying-to-stay-out-of-russias-war-with-ukraine/21809093) said that Russia intended to disrupt Moldova’s plans to join the European Union. Mr Zelensky told EU leaders last week that Ukraine had intercepted communications outlining an alleged scheme by the Russian Secret Service to destroy Moldova.
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f9a88c9083bc8a898b9c8a8a96b99c9a96979694908a8dd79a9694">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1d4c687467586e6d6f786e6e725d787e72737270746e69337e7270">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
