@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-<strong>Turkish</strong> officials said that they had issued at least 113 arrest warrants for architects, contractors and engineers connected with buildings that collapsed in [devastating earthquakes](https://te.arielherself.xyz/europe/2023/02/09/the-earthquakes-in-turkey-and-syria-have-shaken-both-countries) on February 6th. The government has been widely blamed for not enforcing construction standards. Meanwhile, unrest in the south of the country disrupted rescue efforts. The death toll in <strong>Turkey</strong> and neighbouring <strong>Syria</strong> has now passed 34,000.
+A week after earthquakes in <strong>Turkey</strong> and <strong>Syria</strong> a UN spokesperson said that the rescue phase is drawing to a close and that the focus would now shift towards providing food and housing. Turkish officials said that they had issued at least 113 arrest warrants for architects, contractors and engineers connected with buildings that collapsed in the [devastating earthquakes](https://te.arielherself.xyz/europe/2023/02/09/the-earthquakes-in-turkey-and-syria-have-shaken-both-countries). The government has been widely blamed for not enforcing construction standards. The death toll in <strong>Turkey</strong> and neighbouring <strong>Syria</strong> has now passed 36,000.
 
 Wang Wenbin, a <strong>Chinese</strong> foreign ministry spokesperson, claimed that <strong>American spy balloons</strong> have flown into Chinese airspace more than ten times in the past year. His comments came after America shot down yet another unidentified object on Sunday. It was the third such incident in North American airspace in as many days, and came after a [Chinese spy balloon](https://te.arielherself.xyz/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) was downed on February 4th.
 
@@ -64,7 +64,7 @@ Abstract Expressionism has long been regarded as one of the most clearly defined
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="94c5e1fdeed1e7e4e6f1e7e7fbd4f1f7fbfafbf9fde7e0baf7fbf9">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f0a185998ab58380829583839fb095939f9e9f9d998384de939f9d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
