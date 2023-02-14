@@ -66,7 +66,7 @@ Alcoholism has blighted many Aboriginal communities in Australia. But last summe
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="92c3e7fbe8d7e1e2e0f7e1e1fdd2f7f1fdfcfdfffbe1e6bcf1fdff">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="29785c40536c5a595b4c5a5a46694c4a46474644405a5d074a4644">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> Who was the longest-serving president of Kenya, in office from 1978 to 2002?
 
