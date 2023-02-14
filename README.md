@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Defence officials from the <strong>Ukraine Defence Contact Group </strong>of NATO members and allied countries met in Brussels to discuss [supplying arms to Ukraine](https://te.arielherself.xyz/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons), as Russia begins its new offensive. On Monday Jens Stoltenberg, NATO’s secretary-general, said that allies would need to increase their stockpile of ammunition as Ukraine’s military is using up reserves at a rate higher than that of production. A smaller NATO meeting will be held afterwards.
+Defence officials from the <strong>Ukraine Defence Contact Group </strong>of NATO members and allied countries met in Brussels to discuss [supplying arms to Ukraine](https://te.arielherself.xyz/europe/2023/01/21/apart-from-leopard-tanks-ukraine-is-getting-lots-of-weapons), as Russia begins its new offensive. On Monday Jens Stoltenberg, NATO’s secretary-general, said that allies would need to increase their stockpile of ammunition as Ukraine’s military is using up reserves at a rate higher than that of production. A smaller NATO meeting was held afterwards.
 
 <strong>UN</strong> humanitarian trucks crossed into opposition-held northwestern <strong>Syria </strong>after the country’s government agreed to open two border crossings to accept more aid following [devastating earthquakes](https://te.arielherself.xyz/europe/2023/02/09/the-earthquakes-in-turkey-and-syria-have-shaken-both-countries) last week. Meanwhile, more survivors were found in <strong>Turkey</strong>, but a UN spokesperson warned that the rescue phase was drawing to a close. The death toll has now passed 37,000.
 
@@ -66,7 +66,7 @@ Alcoholism has blighted many Aboriginal communities in Australia. But last summe
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="e0b195899aa59390928593938fa085838f8e8f8d899394ce838f8d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="ca9bbfa3b08fb9bab8afb9b9a58aafa9a5a4a5a7a3b9bee4a9a5a7">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> Who was the longest-serving president of Kenya, in office from 1978 to 2002?
 
