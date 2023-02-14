@@ -20,11 +20,11 @@ Xi Jinping, <strong>China’s </strong>president, said the country would work to
 
 <strong>Nikki Haley</strong> announced a run for president in 2024, making her the only Republican to challenge <strong>Donald Trump</strong> in the primaries so far. Ms Haley, a former governor of South Carolina, served as ambassador to the UN during Mr Trump’s administration [before resigning](https://te.arielherself.xyz/democracy-in-america/2018/10/09/nikki-haley-resigns-as-americas-ambassador-to-the-un) and the former president had encouraged her to run next year. She will hold her first campaign event on Wednesday.
 
+<strong>Dianne Feinstein</strong>, an 89-year-old Democratic senator from California, said she will not seek re-election in 2024. Ms Feinstein has held her seat longer than any woman in Senate history. In her [30-year congressional career](https://te.arielherself.xyz/democracy-in-america/2018/02/27/california-democrats-snub-dianne-feinstein) she has advocated for gun control and monitored CIA abuses. Recently, however, she has faced criticism over apparent [age-related](https://te.arielherself.xyz/graphic-detail/2022/09/21/why-are-american-lawmakers-so-old) gaffes. 
+
 Consumer prices in <strong>America</strong> rose by 0.5% in January compared with December, breaking a string of steadily[ decreasing readings](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last). The figures are more evidence that America’s economy is stronger than many had expected—but that it remains saddled with more persistent inflationary pressure. That will put pressure on the Federal Reserve to further raise interest rates to tame inflation.
 
 <strong>Ford</strong>, an American carmaker, will cut 3,800 jobs in Europe, or 11% of its workforce in the region. The company said that the restructuring will help it to become more competitive in the [electric-vehicle](https://te.arielherself.xyz/graphic-detail/2022/06/02/the-electric-vehicle-revolution-is-not-happening-fast-enough) market. By 2026 Ford will invest $50bn in EV manufacturing and, by 2035, its plants in Europe there will only make electric cars.
-
-<strong>San Antonio Zoo</strong> is inviting animal lovers to pay to name a cockroach after an ex-partner—before the creepy crawly is fed to an animal at the park in Texas. Their exes may also receive a [Valentine’s Day](https://te.arielherself.xyz/graphic-detail/2023/02/13/a-valentines-day-cost-of-loving-index) card informing them of when their namesake has perished. People from over 30 countries have participated in the “cry me a cockroach” fundraiser.
 
 <strong>Fact of the day: </strong>8.4%, the proportion of office buildings in London that are unoccupied. [Read the full story.](https://te.arielherself.xyz/finance-and-economics/2023/02/09/city-centres-from-offices-to-family-homes)
 
@@ -66,7 +66,7 @@ Alcoholism has blighted many Aboriginal communities in Australia. But last summe
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="5203273b28172122203721213d1237313d3c3d3f3b21267c313d3f">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> Who was the longest-serving president of Kenya, in office from 1978 to 2002?
 
