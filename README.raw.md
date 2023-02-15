@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Scotland’s</strong> first minister, <strong>Nicola Sturgeon</strong>, resigned after eight years in power. Ms Sturgeon, who will also stand down as leader of the Scottish National Party, is a fierce advocate for Scottish independence but in November her government suffered a setback when the Supreme Court ruled against a [second referendum](https://www.economist.com/britain/2022/11/23/scotlands-independence-movement-suffers-a-setback-at-the-supreme-court). Ms Sturgeon said that her decision to quit was not a reaction to “short-term pressures”, but that the job had taken its toll.
+<strong>Scotland’s</strong> first minister, <strong>Nicola Sturgeon</strong>, [resigned](https://www.economist.com/britain/2023/02/15/nicola-sturgeon-leaves-with-scotland-split-in-two) after eight years in power. Ms Sturgeon, who will also stand down as leader of the Scottish National Party, is a [fierce advocate](https://www.economist.com/leaders/2023/02/15/nicola-sturgeons-resignation-is-part-of-britains-great-moderation) for Scottish independence but in November her government suffered a setback when the Supreme Court ruled against a second referendum. Ms Sturgeon said that her decision to quit was not a reaction to “short-term pressures”, but that the job had taken its toll. 
 
 <strong>David Malpass</strong> will step down as president of the <strong>World Bank</strong> by June, nearly a year before his five-year term ends. Appointed by the Trump administration, [Mr Malpass](https://www.economist.com/finance-and-economics/2019/02/05/donald-trump-picks-david-malpass-to-run-the-world-bank) was criticised last autumn for initially refusing to state that human activity had contributed to global warming. America’s treasury secretary recently demanded that the World Bank take “bolder and more imaginative” steps to tackle climate change.
 
@@ -68,7 +68,7 @@ Julie’s story of friendship with Navi is told in the first episode of “Bot L
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="beefcbd7c4fbcdceccdbcdcdd1fedbddd1d0d1d3d7cdca90ddd1d3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1746627e6d52646765726464785772747879787a7e64633974787a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
