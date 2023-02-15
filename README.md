@@ -24,7 +24,7 @@ At least 73 <strong>migrants</strong> are missing and presumed dead after their 
 
 The <strong>European Union</strong> proposed a new [sanctions](https://te.arielherself.xyz/finance-and-economics/2023/01/29/how-russia-dodges-oil-sanctions-on-an-industrial-scale) package, worth €11bn ($11.8bn), including controls to restrict the export of electronic components used in Russian weapons. The EU will also place sanctions on Iranian companies to try to limit the supply of [drones to Russia](https://te.arielherself.xyz/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine). <strong>NATO</strong> defence ministers are meeting for a second day to discuss supplying more military aid to Ukraine.
 
-<strong>Louis Vuitton</strong>, a leading French fashion brand, put <strong>Pharrell Williams</strong>, a Grammy-winning musician, in charge of its menswear design. Mr Williams will take up the role left by [Virgil Abloh](https://te.arielherself.xyz/business/2022/10/06/fashion-gets-a-modern-makeover), who died in 2021, and was the first African-American man to run a major label at a European luxury-fashion house. Louis Vuitton is the main brand of [Bernard Arnault’s LVMH](https://te.arielherself.xyz/business/2022/12/20/how-bernard-arnault-became-the-worlds-richest-person), Europe’s biggest company by stock market capitalisation.
+<strong>North Koreans</strong> who share a name with a daughter of the country’s dictator, [Kim Jong Un](https://te.arielherself.xyz/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal), are reportedly being told to change it. The move seems to be an effort to create an air of mystery around Ju Ae, a child described by news agencies as “adorable” and “noble”. Her face, which bears an uncanny resemblance to her father’s, features on the country’s stamps. 
 
 <strong>Fact of the day: </strong>68%, the proportion of Thai eateries in Britain that are run by women. [Read the full story.](https://te.arielherself.xyz/culture/2023/02/08/thai-restaurateurs-and-british-pubs-have-proved-a-perfect-pairing)
 
@@ -68,7 +68,7 @@ Julie’s story of friendship with Navi is told in the first episode of “Bot L
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="702105190a350300021503031f3015131f1e1f1d1903045e131f1d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a8f9ddc1d2eddbd8dacddbdbc7e8cdcbc7c6c7c5c1dbdc86cbc7c5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
