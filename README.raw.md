@@ -18,11 +18,11 @@
 
 <strong>American retail sales</strong> rose by 3% in January over the previous month, the biggest increase since March 2021. After falling for two months in a row, consumer spending grew in most sectors, although [inflation](https://www.economist.com/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) contributed in part to the rise. Thus, the figures are good for American retailers, but a sign that inflationary pressures remain. That could persuade the Federal Reserve to further raise interest rates.
 
+<strong>Israel</strong> [passed a law](https://www.economist.com/middle-east-and-africa/2022/12/29/israels-new-government-is-the-most-right-wing-ever) to revoke Israeli Arabs’ citizenship and Palestinians’ residency rights if they have been convicted of terrorism or receive funds from the Palestinian Authority. The PA gives stipends to the families of Palestinian prisoners who have attacked Israelis; already Israel freezes those assets. Human-rights groups criticised the law for rendering people stateless.
+
 Recep Tayyip Erdogan, <strong>Turkey’s</strong> president, vowed to continue rescue efforts and promised to rebuild the buildings destroyed by [devastating earthquakes](https://www.economist.com/europe/2023/02/09/the-earthquakes-in-turkey-and-syria-have-shaken-both-countries) last week. Mr Erdogan said more than 105,000 people had been injured by the quakes. Ten survivors were rescued in Turkey on Tuesday, including a 77-year-old woman pulled from the rubble of an apartment block. The death toll in Turkey and Syria has now passed 41,000.
 
 At least 73 <strong>migrants</strong> are missing and presumed dead after their ship sank near the [Libyan coast](https://www.economist.com/middle-east-and-africa/an-eu-funded-horror-story/21807126). There were around 80 people in the boat hoping to make the journey from north Africa to Europe. Nearly 140 people have been declared missing in the central <strong>Mediterranean</strong> this year. A spokesperson for the International Organization for Migration called the situation “intolerable”.
-
-The <strong>European Union</strong> proposed a new [sanctions](https://www.economist.com/finance-and-economics/2023/01/29/how-russia-dodges-oil-sanctions-on-an-industrial-scale) package, worth €11bn ($11.8bn), including controls to restrict the export of electronic components used in Russian weapons. The EU will also place sanctions on Iranian companies to try to limit the supply of [drones to Russia](https://www.economist.com/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine). <strong>NATO</strong> defence ministers are meeting for a second day to discuss supplying more military aid to Ukraine.
 
 <strong>North Koreans</strong> who share a name with a daughter of the country’s dictator, [Kim Jong Un](https://www.economist.com/asia/2022/09/22/kim-jong-un-considers-devolving-power-over-his-nuclear-arsenal), are reportedly being told to change it. The move seems to be an effort to create an air of mystery around Ju Ae, a child described by news agencies as “adorable” and “noble”. Her face, which bears an uncanny resemblance to her father’s, features on the country’s stamps. 
 
@@ -68,7 +68,7 @@ Julie’s story of friendship with Navi is told in the first episode of “Bot L
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2372564a59665053514650504c6346404c4d4c4e4a50570d404c4e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="beefcbd7c4fbcdceccdbcdcdd1fedbddd1d0d1d3d7cdca90ddd1d3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
