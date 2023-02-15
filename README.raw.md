@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-<strong>Scotland’s</strong> first minister, <strong>Nicola Sturgeon</strong>, resigned after eight years in power. Ms Sturgeon, who will also stand down as leader of the Scottish National Party, is a fierce advocate for Scottish independence but in November her government suffered a setback when the Supreme Court ruled against a [second referendum](https://www.economist.com/britain/2022/11/23/scotlands-independence-movement-suffers-a-setback-at-the-supreme-court). This year it has faced opposition from Westminster over a proposed [gender-reform law](https://www.economist.com/britain/2023/01/05/scotlands-new-gender-reform-law-presents-rishi-sunak-with-a-dilemma).
+<strong>Scotland’s</strong> first minister, <strong>Nicola Sturgeon</strong>, resigned after eight years in power. Ms Sturgeon, who will also stand down as leader of the Scottish National Party, is a fierce advocate for Scottish independence but in November her government suffered a setback when the Supreme Court ruled against a [second referendum](https://www.economist.com/britain/2022/11/23/scotlands-independence-movement-suffers-a-setback-at-the-supreme-court). Ms Sturgeon said that her decision to quit was not a reaction to “short-term pressures”, but that the job had taken its toll.
 
 The <strong>European Union</strong> proposed a new [sanctions](https://www.economist.com/finance-and-economics/2023/01/29/how-russia-dodges-oil-sanctions-on-an-industrial-scale) package, worth €11bn ($11.8bn), including controls to restrict the export of electronic components used in Russian weapons. The EU will also place sanctions on Iranian companies to try to limit its supply of [drones to Russia](https://www.economist.com/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine). <strong>NATO</strong> defence ministers are meeting for a second day to discuss supplying more military aid to Ukraine.
 
@@ -68,7 +68,7 @@ Julie’s story of friendship with Navi is told in the first episode of “Bot L
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="de8fabb7a49badaeacbbadadb19ebbbdb1b0b1b3b7adaaf0bdb1b3">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="bcedc9d5c6f9cfccced9cfcfd3fcd9dfd3d2d3d1d5cfc892dfd3d1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
