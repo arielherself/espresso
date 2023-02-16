@@ -24,7 +24,7 @@ Amid rising diplomatic tensions<strong> China</strong> put two <strong>American<
 
 Thousands of <strong>Chinese</strong> pensioners took to the streets of Wuhan and Dalian, two big cities, to protest against cuts to their health benefits. Last week provincial officials said they would reduce the amount of medical expenses retirees could claim from their health-savings plans. China is tightening spending following its [costly zero-covid policy](https://www.economist.com/leaders/2022/12/01/xi-jinpings-zero-covid-policy-has-turned-a-health-crisis-into-a-political-one). Such demonstrations are rare in China; this was the second in a week.
 
-Jaime Rogozinski, the founder of <strong>WallStreetBets</strong>, an internet forum, that popularised investment into [“meme” stocks](https://www.economist.com/the-economist-explains/2021/07/06/are-meme-stocks-harmless-fun-or-a-threat-to-the-financial-old-guard), is suing <strong>Reddit, </strong>the social-media site where the forum was based. Mr Rogozinski accused Reddit of breaching contract by ousting him as the forum’s moderator in 2020, on grounds he said were a pretext to prevent him from controlling a “famous brand”. Reddit dismissed the lawsuit as “completely frivolous”.
+Scientists say that the “Doomsday Glacier” in the west <strong>Antarctic</strong> is [melting](https://www.economist.com/obituary/2019/09/21/obituary-okjokull-was-declared-dead-in-2014) at a dangerous rate as water temperatures rise. The glacier, which is roughly the size of Florida, is already responsible for 4% of annual sea-level rises. If it collapsed completely, levels could rise by a metre. 
 
 <strong>Fact of the day:</strong> 3,000, the number of volunteers for the White Helmets, a Syrian emergency-response force. [Read the full story.](https://www.economist.com/1843/2023/02/14/mouaz-survived-syrias-brutal-civil-war-then-he-spent-63-hours-trapped-under-rubble)
 
@@ -66,7 +66,7 @@ But the festival’s reputation is for political art. Thus, “Superpower”, a 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6534100c1f201615170016160a2500060a0b0a080c16114b060a08">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="6736120e1d22141715021414082702040809080a0e14134904080a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
