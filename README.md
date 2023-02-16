@@ -14,7 +14,7 @@
 
 A judge released parts of a grand-jury report assessing <strong>Donald Trump’s</strong> [interference](https://te.arielherself.xyz/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in) in the 2020 presidential election in Georgia. It is not yet clear whether there will be any indictments, but jurors believe that some witnesses may have committed perjury. They concluded that widespread electoral fraud did not take place in the state, and that the result should not be overturned, despite the former president’s claims to the contrary.
 
-Volodymyr Zelensky, <strong>Ukraine’s</strong> president, told the BBC that he would not concede land to Russia if the countries were to broker a peace deal. Earlier, Alexander Lukashenko, the president of <strong>Belarus</strong>, said that he would only join <strong>Russia’s</strong> invasion of <strong>Ukraine</strong> if attacked first, stressing that his country doesn’t “want war”. Mr Lukashenko, an ally of President Vladimir Putin, said he would allow Russian troops to enter Ukraine through Belarus [again](https://te.arielherself.xyz/interactive/2022/02/11/russias-military-build-up-enters-a-more-dangerous-phase) if necessary. The two leaders will meet in the Moscow region on Friday. 
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, told the BBC that he would not concede land to Russia if the countries were to broker a peace deal. Earlier, Alexander Lukashenko, the president of <strong>Belarus </strong>and an [ally](https://te.arielherself.xyz/by-invitation/2022/04/02/sviatlana-tsikhanouskaya-argues-that-europe-will-be-safer-if-belarus-is-free) of Russia’s president, Vladimir Putin, said that he would only join Russia’s invasion of Ukraine if attacked first. The two leaders will meet near Moscow on Friday. 
 
 Amid rising diplomatic tensions<strong> China</strong> put two <strong>American</strong> defence contractors, Lockheed Martin and Raytheon Technologies, on its “unreliable entities list” after they sold arms to <strong>Taiwan</strong>. Last February the companies faced sanctions for selling arms worth $100m to the island. China claims Taiwan as its own, but America supports its right to [self-govern](https://te.arielherself.xyz/china/2023/01/26/does-chinas-softer-tone-extend-to-taiwan).
 
@@ -66,7 +66,7 @@ But the festival’s reputation is for political art. Thus, “Superpower”, a 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="fdac889487b88e8d8f988e8e92bd989e92939290948e89d39e9290">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2b7a5e42516e585b594e5858446b4e484445444642585f05484446">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
