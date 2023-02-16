@@ -52,9 +52,11 @@ The trip comes amid a row over [Chinese surveillance balloons](https://www.econo
 
 ## Arresting Hong Kong’s decline
 
-The last time Hong Kong released population data it revealed an exodus. Some 121,500 Hong Kongers—1.6% of the population—fled in the 12 months to June 2022. They were escaping a recession, one of the world’s highest [covid death rates](https://www.economist.com/graphic-detail/2022/03/18/hong-kong-is-now-the-centre-of-the-pandemic) and a crippling covid-containment regime. They were also fleeing the repression that came in 2020 with a swingeing [national-security law](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state). The government will, then, be nervous when new figures are released on Thursday.
+“Will the last person to leave…turn out the lights.” So ran a famous <em>Sun</em> headline at the prospect of people fleeing dysfunctional Britain. In tropical Hong Kong they’ll have to remember to switch off the air conditioner too. On Thursday the territory reported a population decline in 2022 of 68,300—around 1% of its people—the third straight year it has fallen. 
 
-Hong Kong’s chief executive, [John Lee](https://www.economist.com/china/2022/04/09/john-lee-a-tough-former-policeman-looks-set-to-lead-hong-kong), knows the territory has a problem. The former security chief remains committed to [suppressing freedoms](https://www.economist.com/china/2023/02/09/hong-kong-starts-its-largest-national-security-trial). But he has launched a scheme to allow international high-flyers to relocate to the city without needing a job offer, to fill gaps left by skedaddling executives. Thousands of new homes are planned to help reduce eye-watering property costs. And many covid restrictions have finally been lifted, although a strict mask mandate endures. That may not be enough to arrest Hong Kong’s decline.
+A low birth rate doesn’t help. But mostly people were fleeing recession and suffocating covid-containment measures. And it is no coincidence the exodus began in 2020, when China “gifted” Hong Kong a swingeing [national-security law](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state). 
+
+Hong Kong’s chief executive, [John Lee](https://www.economist.com/china/2022/04/09/john-lee-a-tough-former-policeman-looks-set-to-lead-hong-kong), knows he has a problem. He remains committed to [suppressing freedoms](https://www.economist.com/china/2023/02/09/hong-kong-starts-its-largest-national-security-trial), but he has launched a scheme allowing international high-flyers to relocate to the city without needing a job offer. Thousands of new homes are planned to help reduce eye-watering property costs. And many covid restrictions have finally been lifted. It may not be enough.
 
 ## Berlin’s International Film Festival
 
@@ -64,7 +66,7 @@ But the festival’s reputation is for political art. Thus, “Superpower”, a 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="29785c40536c5a595b4c5a5a46694c4a46474644405a5d074a4644">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
