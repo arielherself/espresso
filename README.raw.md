@@ -46,9 +46,9 @@ The trip comes amid a row over [Chinese surveillance balloons](https://www.econo
 
 ## Will Paramount’s reboot succeed?
 
-“Unscripted”, a book published this week, chronicles the dysfunctional final years of Sumner Redstone, a nonagenarian billionaire, and his family atop the sprawling media empire he founded. (Redstone died in 2020.) Paramount Global, that conglomerate, which includes CBS, MTV, Paramount Pictures, Showtime and Simon &amp; Schuster, is now run by his daughter, [Shari Redstone](https://www.economist.com/business/2016/08/25/in-the-name-of-the-father). On Thursday it will report its latest quarterly results.  
-  
- While Paramount’s share price is nearly 40% below its level twelve months ago, a rally in recent weeks suggests increasing optimism over Ms Redstone’s stewardship. Paramount+, its streaming service, has garnered some 55m subscribers in under two years. [“Top Gun: Maverick”](https://www.economist.com/culture/2022/05/26/top-gun-maverick-feels-the-need-to-speed-into-the-past), an action reboot starring Tom Cruise and produced by Paramount Pictures, was a hit last year. A new buyer is being sought for Simon &amp; Schuster, a book publisher, after a proposed merger with Penguin Random House was blocked on competition grounds. Investors will be hoping for more signs of a successful reboot.
+“Unscripted”, a book published this week, chronicles the dysfunctional final years of Sumner Redstone, a nonagenarian billionaire, and his family atop the sprawling media empire he founded. (Redstone died in 2020.) Paramount Global, that conglomerate, which includes CBS, MTV, Paramount Pictures, Showtime and Simon &amp; Schuster, is now run by his daughter, [Shari Redstone](https://www.economist.com/business/2016/08/25/in-the-name-of-the-father). On Thursday the company reported mixed quarterly results—with strong subscriber growth but weak advertising revenue—sending shares down in morning trading.
+
+But there is still optimism around Ms Redstone’s stewardship. Paramount+, its streaming service, has garnered some 55m subscribers in under two years. [“Top Gun: Maverick”](https://www.economist.com/culture/2022/05/26/top-gun-maverick-feels-the-need-to-speed-into-the-past), an action reboot starring Tom Cruise and produced by Paramount Pictures, was a hit last year. A new buyer is being sought for Simon &amp; Schuster, a book publisher, after a proposed merger with Penguin Random House was blocked on competition grounds. Investors will be hoping for more signs of a successful reboot.
 
 ## Arresting Hong Kong’s decline
 
@@ -60,13 +60,13 @@ Hong Kong’s chief executive, [John Lee](https://www.economist.com/china/2022/0
 
 ## Berlin’s International Film Festival
 
-The 73rd Berlinale film festival begins in the German capital on Thursday. Among some 400 screenings, 19 films will vie to win Golden and Silver Bears. Contenders include “Le Grand Chariot” (“The Plough”), by Philippe Garrel, a French director, which tells the story of three generations of puppeteers, a dying profession. In “BlackBerry” Matt Johnson, a young Canadian director, dramatises the rise and fall of the pioneering smartphone-maker. 
+The 73rd Berlinale film festival begins in the German capital on Thursday. Of the nearly 300 festival films, 19 will vie to win Golden and Silver Bears. Contenders include “Le Grand Chariot” (“The Plough”), by Philippe Garrel, a French director, which tells the story of three generations of puppeteers, a dying profession. In “BlackBerry” Matt Johnson, a young Canadian director, dramatises the rise and fall of the pioneering smartphone-maker. 
 
 But the festival’s reputation is for political art. Thus, “Superpower”, a documentary about Ukraine’s president, [Volodymyr Zelensky](https://www.economist.com/ukraines-fateful-winter), will have its world premiere at the festival on Friday. Its American directors, Sean Penn and Aaron Kaufman, began the film long before the invasion, intending to document Mr Zelensky’s journey from stand-up comic to head of state. But they were in Kyiv on February 24th 2022 when the Russian army crossed the border, and captured Mr Zelensky’s overnight transformation from besuited politician to combat-fatigue-wearing war hero.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="affedac6d5eadcdfddcadcdcc0efcaccc0c1c0c2c6dcdb81ccc0c2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a0f1d5c9dae5d3d0d2c5d3d3cfe0c5c3cfcecfcdc9d3d48ec3cfcd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
