@@ -68,13 +68,25 @@ Britain’s best-supported club is up for sale after its much-loathed American o
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7726021e0d32040705120404183712141819181a1e04035914181a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0e5f7b67744b7d7e7c6b7d7d614e6b6d61606163677d7a206d6163">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday:</strong> What was the popular term for the events of October 20th, 1973 when Richard Nixon saw his attorney general and his deputy leave office?
 
 <strong>Thursday:</strong> Which busy traffic intersection is the point from which official highway traffic distances from New York are measured?
+
+## The winners of last week’s crossword
+
+<strong>T</strong>hank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+
+Sverre Prytz, <strong>Oslo, Norway</strong>
+
+Colin Eyssen, <strong>North Vancouver, Canada</strong>
+
+Christine Reiter, <strong>Tunis, Tunisia</strong>
+
+They all gave the correct answers of [petrodollars](https://te.arielherself.xyz/leaders/2023/02/09/arab-petrostates-must-prepare-their-citizens-for-a-post-oil-future), [profit](https://te.arielherself.xyz/business/2023/02/06/where-on-earth-is-big-oil-spending-its-150bn-profit-bonanza), [Delhi](https://te.arielherself.xyz/briefing/2023/02/09/why-adani-groups-troubles-will-reverberate-across-india) and [Shaman](https://te.arielherself.xyz/britain/2023/02/09/shamanism-is-britains-fastest-growing-religion). Check back tomorrow for this week’s crossword.
 
 ----------
 
