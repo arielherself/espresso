@@ -18,13 +18,13 @@ World leaders are gathering for the <strong>Munich Security Conference</strong>,
 
 Michael Regan, head of America’s [Environmental Protection Agency](https://te.arielherself.xyz/united-states/2022/06/30/the-supreme-court-throttles-joe-bidens-climate-agenda), visited East Palestine, <strong>Ohio</strong>, where a train derailment on February 3rd caused a toxic chemical leak, forcing residents to leave their homes. Mr Regan said that <strong>America’s </strong>government would hold Norfolk Southern, the train company involved, “accountable”. Residents were advised to drink bottled water until natural supplies are free from contamination.
 
+Shares at <strong>China Renaissance</strong>, an investment bank, dropped by as much as 50% on Friday after <strong>Bao Fan</strong>, its chairman, became uncontactable. His disappearance is believed to be linked to a government investigation. As the Chinese government’s anti-corruption campaign continues, several [billionaire financiers](https://te.arielherself.xyz/finance-and-economics/2022/07/07/what-a-tycoons-trial-says-about-the-rot-in-chinas-financial-system) have gone missing.
+
+David Smith, a former security guard at the <strong>British</strong> embassy in Berlin, was sentenced to more than 13 years in prison for [spying](https://te.arielherself.xyz/the-economist-reads/2022/12/21/what-to-read-to-understand-intelligence-and-espionage) for <strong>Russia</strong>. Mr Smith passed several sensitive documents, and photos of embassy staff, to Russian authorities. Britain’s Crown Prosecution Service said that Mr Smith “could have threatened national security”. 
+
 More than 2,000 flights were cancelled after workers at seven airports in <strong>Germany </strong>began a 24-hour [strike](https://te.arielherself.xyz/business/2022/11/24/germanys-biggest-trade-union-strikes-a-deal-on-pay). Around 300,000 passengers will be affected. Members of Verdi, a trade union, are seeking a 10.5% pay increase. The timing of the walkout is painful: it follows Lufthansa grounding its entire fleet over an IT outage on Wednesday and coincides with the Munich Security Conference.
 
 <strong>Portugal</strong> will stop offering “golden visas” to foreign property buyers, in an attempt at tackling the country’s lack of affordable housing. [The scheme](https://te.arielherself.xyz/europe/2014/11/20/buying-their-way-in) granted residence permits to non-EU nationals who invested in Portugal. It raised €6.8bn ($7.3bn), much of which came from Chinese real-estate investors. But locals complained that it sent property prices soaring. Ireland scrapped a similar scheme earlier this week. 
-
-<strong>Tesla</strong> said it would recall 362,800 cars to update its advanced driver-assistance [software](https://te.arielherself.xyz/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm). America’s auto-safety regulator reportedly pressed for the recall—which, in this case, can be implemented remotely—and said that cars with the feature have been known to violate local traffic laws. Tesla’s share price shed nearly 6%.
-
-<strong>Japan’s</strong> new <strong>H3 rocket</strong> failed to lift off on Friday after two booster engines did not ignite. The H3 was designed to put satellites into orbit, some of which could help detect North Korean ballistic missiles, and carry supplies to the International Space Station. The aborted take-off is a blow to Japan’s attempts to capture more of the [global space-launch market](https://te.arielherself.xyz/leaders/2019/07/18/a-new-age-of-space-exploration-is-beginning).
 
 <strong>Fact of the day:</strong> 57%, the proportion of Scots who say they “don’t know” who should take over from Nicola Sturgeon. [Read the full story.](https://te.arielherself.xyz/britain/2023/02/15/nicola-sturgeon-leaves-with-scotland-split-in-two)
 
@@ -68,7 +68,7 @@ Britain’s best-supported club is up for sale after its much-loathed American o
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0756726e7d42747775627474684762646869686a6e74732964686a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="87d6f2eefdc2f4f7f5e2f4f4e8c7e2e4e8e9e8eaeef4f3a9e4e8ea">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
