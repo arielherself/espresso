@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-World leaders are gathering for the <strong>Munich Security Conference</strong>, an annual diplomatic event, which kicks off with speeches by [Dmytro Kuleba](https://www.economist.com/europe/2022/03/23/an-interview-with-dmytro-kuleba), Ukraine’s foreign minister, Emmanuel Macron, France’s president, and the host, Olaf Scholz. <strong>Ukraine</strong> is top of the agenda, as <strong>Russian</strong> forces target [Bakhmut](https://www.economist.com/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut) in the east of the country. On Thursday Volodymyr Zelensky, Ukraine’s president, told the BBC that he would not concede land to Russia if the countries were to broker a peace deal.
+Volodymyr Zelensky, <strong>Ukraine’s</strong> president, made a virtual address to the <strong>Munich Security Conference</strong>, an annual diplomatic event, and asked leaders to deliver weapons quickly. Ukraine is top of the agenda at Munich, as <strong>Russian</strong> forces target [Bakhmut](https://www.economist.com/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut) in the east of the country. On Thursday Mr Zelensky told the BBC that he would not concede land to Russia if the countries were to broker a peace deal.
 
 <strong>President Joe Biden</strong> said he would speak with <strong>Xi Jinping</strong>, China’s president, about the suspected [Chinese spy balloon](https://www.economist.com/leaders/2023/02/09/cold-war-lessons-from-chinas-spy-balloon) that was shot down by an American fighter jet earlier this month. Mr Biden said America was “not looking for a new cold war”. Separately Michael Chase, the Pentagon’s top China official, plans to visit Taiwan, according to the <em>Financial Times</em>. Mr Chase would be the first senior American defence official to visit Taiwan since 2019.
 
@@ -68,7 +68,7 @@ Britain’s best-supported club is up for sale after its much-loathed American o
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d584a0bcaf90a6a5a7b0a6a6ba95b0b6babbbab8bca6a1fbb6bab8">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
