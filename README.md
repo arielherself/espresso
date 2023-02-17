@@ -14,9 +14,9 @@
 
 Britain’s defence ministry estimated that <strong>Russia</strong> has lost up to 60,000 soldiers and private military contractors in the country’s war against <strong>Ukraine</strong>. It asserted that the casualty rate had “significantly increased” after Russia introduced a [partial mobilisation](https://te.arielherself.xyz/europe/2023/01/16/a-russian-town-counts-the-cost-of-vladimir-putins-war) in September. Earlier, Volodymyr Zelensky, Ukraine’s president, made a virtual address to the <strong>Munich Security Conference</strong>, an annual diplomatic event, and asked leaders to deliver weapons quickly.
 
-<strong>President Joe Biden</strong> said he would speak with <strong>Xi Jinping</strong>, China’s president, about the suspected [Chinese spy balloon](https://te.arielherself.xyz/leaders/2023/02/09/cold-war-lessons-from-chinas-spy-balloon) that was shot down by an American fighter jet earlier this month. Mr Biden said America was “not looking for a new cold war”. Separately Michael Chase, the Pentagon’s top China official, plans to visit Taiwan, according to the <em>Financial Times</em>. Mr Chase would be the first senior American defence official to visit Taiwan since 2019.
-
 The five former police officers in Memphis, Tennessee, accused of second-degree murder in the death of <strong>Tyre Nichols</strong> pled not guilty. They also face charges of aggravated assault and official misconduct, among others, and are out on bail. They stopped Nichols’s car and beat him on January 7th; he [died in hospital](https://te.arielherself.xyz/united-states/2023/02/01/why-holding-bad-police-officers-to-account-is-so-difficult) three days later, prompting nationwide protests. They were subsequently fired.
+
+The chairman of a <strong>Qatari</strong> bank bid for <strong>Manchester United</strong>. A spokesperson declined to confirm the bid’s value, but the team’s owners, the Glazer family, are [asking around £5bn ($6bn)](https://te.arielherself.xyz/graphic-detail/2023/01/19/football-clubs-revenues-rebound-from-covid-especially-in-england). The nonbinding, debt-free offer by Sheikh Jassim bin Hamad bin Jaber al-Thani follows only one other public one, from Sir Jim Ratcliffe, a British billionaire.
 
 <strong>EDF</strong>, the French energy giant, reported its largest ever annual losses of €17.9bn ($19.1bn) in 2022. Financial debt rose by 50% to €64.5bn. It was a bruising year: the government forced the state-controlled company to cap prices to protect households and businesses, while scheduled repairs [shut down](https://te.arielherself.xyz/europe/2022/07/28/frances-nuclear-plants-are-going-down-for-repairs) more than half of the country’s [nuclear reactors](https://te.arielherself.xyz/business/2022/12/12/can-the-french-nuclear-industry-avoid-meltdown).
 
@@ -68,7 +68,7 @@ Britain’s best-supported club is up for sale after its much-loathed American o
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4c1d392536093f3c3e293f3f230c292f23222321253f38622f2321">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="86d7f3effcc3f5f6f4e3f5f5e9c6e3e5e9e8e9ebeff5f2a8e5e9eb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
