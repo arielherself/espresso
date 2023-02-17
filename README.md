@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://te.arielherself.xyz/the-world-in-brief">https://te.arielherself.xyz/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine’s</strong> president, made a virtual address to the <strong>Munich Security Conference</strong>, an annual diplomatic event, and asked leaders to deliver weapons quickly. Ukraine is top of the agenda at Munich, as <strong>Russian</strong> forces target [Bakhmut](https://te.arielherself.xyz/europe/2022/12/06/russia-is-hurling-troops-at-the-tiny-ukrainian-town-of-bakhmut) in the east of the country. On Thursday Mr Zelensky told the BBC that he would not concede land to Russia if the countries were to broker a peace deal.
+Britain’s defence ministry estimated that <strong>Russia</strong> has lost up to 60,000 soldiers and private military contractors in the country’s war against <strong>Ukraine</strong>. It asserted that the casualty rate had “significantly increased” after Russia introduced a [partial mobilisation](https://te.arielherself.xyz/europe/2023/01/16/a-russian-town-counts-the-cost-of-vladimir-putins-war) in September. Earlier, Volodymyr Zelensky, Ukraine’s president, made a virtual address to the <strong>Munich Security Conference</strong>, an annual diplomatic event, and asked leaders to deliver weapons quickly.
 
 <strong>President Joe Biden</strong> said he would speak with <strong>Xi Jinping</strong>, China’s president, about the suspected [Chinese spy balloon](https://te.arielherself.xyz/leaders/2023/02/09/cold-war-lessons-from-chinas-spy-balloon) that was shot down by an American fighter jet earlier this month. Mr Biden said America was “not looking for a new cold war”. Separately Michael Chase, the Pentagon’s top China official, plans to visit Taiwan, according to the <em>Financial Times</em>. Mr Chase would be the first senior American defence official to visit Taiwan since 2019.
 
@@ -68,7 +68,7 @@ Britain’s best-supported club is up for sale after its much-loathed American o
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="cf9ebaa6b58abcbfbdaabcbca08faaaca0a1a0a2a6bcbbe1aca0a2">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="207155495a655350524553534f6045434f4e4f4d4953540e434f4d">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@te.arielherself.xyz). 
 
 Please note, the way we choose winners has changed. We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
