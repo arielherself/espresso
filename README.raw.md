@@ -32,7 +32,7 @@ The five former police officers in Memphis, Tennessee, accused of second-degree 
 
 ## The Republicans’ new cash cow
 
-This weekend in balmy Key Biscayne, Florida, a fundraising frenzy is under way. The National Republican Congressional Committee, which funnels money to Republican candidates running for America’s House of Representatives, is hosting its winter retreat there. Deep-pocketed donors will enjoy golf, catamaran sailing, and access to the Republican Party’s leaders. 
+This weekend in balmy Key Biscayne, Florida, a fundraising frenzy is under way. The National Republican Congressional Committee, which funnels money to Republican candidates running for America’s House of Representatives, is hosting its winter retreat there. Deep-pocketed donors will enjoy golf, catamaran sailing and access to the Republican Party’s leaders. 
 
 Since leaving office Donald Trump has headlined several NRCC fundraisers. Yet his war chest for a 2024 presidential re-election bid, announced in November, remains small—a [reflection](https://www.economist.com/graphic-detail/2022/09/01/fundraising-remains-predictive-of-success-in-congressional-elections) of his waning popularity. He reported a meagre $9.5m haul in the first six weeks of his campaign. (By contrast, he raised $250m between November 2020, when he lost the election, and the Capitol insurrection on January 6th 2021.) Ron DeSantis, Florida’s governor and Mr Trump’s likely [chief competitor](https://www.economist.com/graphic-detail/2022/12/20/donald-trump-is-losing-ground-to-ron-desantis-ahead-of-2024), raised a staggering $200m in his gubernatorial race last year. He is the one set to get top billing at big fundraising events in Texas and California in the coming weeks. The money raised will go to county parties—but they will put him in front of major donors who might eventually bankroll him to the White House.
 
@@ -50,13 +50,11 @@ The biggest winner at the 76th British Academy Film Awards on Sunday is likely t
 
 With so many results hard to predict, BAFTA-watchers will be on the edge of their seats. So will Oscars-watchers: success at Britain’s flagship film-awards ceremony helps a movie’s chances in America’s contest, too.
 
-## A step towards a contraceptive pill for men?
+## Sand and speed at the Daytona 500
 
-Women may pick from a range of contraceptive options. Men, by contrast, have thus far had just two choices: condoms and vasectomy. For decades none of the injections, gels and hormonal pills developed for men has so far advanced beyond clinical trials.
+Daytona Beach, north-east of Orlando, Florida, has been synonymous with speed for more than a century. Automobile manufacturers and drivers decamped there from Europe in the 1920s and subsequently set 15 land-speed records. Since 1959 it has been home to the biggest [stock-car race](https://www.economist.com/business/2012/02/25/nascars-ride-gets-bumpy), the Daytona 500. This year’s edition takes place on Sunday. 
 
-In a new paper researchers from Weill Cornell Medicine, a medical school in New York, put forward a new candidate: a [fast-acting pill](https://www.economist.com/science-and-technology/2023/02/15/a-step-towards-a-contraceptive-pill-for-men). In mice it works within half an hour, making the animals temporarily infertile by stopping their sperm from swimming. It has no perceptible effects on their behaviour or sexual performance. Within a day their fertility returns. More animal tests will be needed before trials on people can go ahead. 
-
-Generally men have less control over family planning than women do, and sometimes feel little responsibility for it. The breakthrough, said one of the authors, “gives men the ability to be a partner”. Who knows? Some of them might even give it a try. 
+Those emerging from several days of qualifying must complete 200 laps of the 2.5-mile-long oval course in the fastest possible time. The record has stood for a scarcely believable 43 years, when Buddy Baker clocked an average speed of 177.6mph across two hours and 48 minutes of racing, leading for 143 laps. The 100,000 fans thronging this year’s event will be hoping for a more exciting contest, such as that in 2016, when Danny Hamlin beat Martin Truex Jr by 0.011 seconds, the closest-ever finish. The presence of seven previous winners on the start line augurs another nail-biter.
 
 ## Weekend profile: Peter Obi, the man shaking up Nigeria’s presidential race
 
