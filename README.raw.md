@@ -12,7 +12,7 @@
 
 <p align="center">Origin: <a href="https://www.economist.com/the-world-in-brief">https://www.economist.com/the-world-in-brief</a><hr>
 
-Volodymyr Zelensky, <strong>Ukraine’s</strong> president, urged Western leaders to speed up weapons deliveries to his country. In a virtual address to the <strong>Munich Security Conference</strong>, an annual diplomatic event, Mr Zelensky said any delays would help Russia as it prepares to launch a new offensive. Meanwhile, Britain’s defence ministry estimated that 40,000-60,000 Russian soldiers and private military contractors had been killed in the war. It asserted that the casualty rate had “significantly increased” after Russia introduced a [partial mobilisation](https://www.economist.com/europe/2023/01/16/a-russian-town-counts-the-cost-of-vladimir-putins-war) in September.
+Russia has committed <strong>crimes against humanity</strong> in Ukraine, according to America’s government. Speaking at the Munich Security Conference, an annual diplomatic event, Kamala Harris, America’s vice-president, called Russian actions “barbaric and inhumane” and promised that perpetrators would be held to account. In an earlier address Volodymyr Zelensky, Ukraine’s president, urged Western leaders to speed up weapons deliveries to his country
 
 <strong>America</strong> said it had successfully recovered all the sensors and debris from the suspected <strong>Chinese spy balloon</strong> it [shot down](https://www.economist.com/china/2023/02/07/the-lessons-from-the-chinese-spy-balloon) earlier this month. Officials will now analyse the “guts” of the recovered objects. However, the search for three other unidentified objects shot down this month was called off as investigators had “discovered no debris”. 
 
