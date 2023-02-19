@@ -96,9 +96,17 @@ Email all four answers, along with your home city and country, by 9am GMT on Mon
 
 <em>3 across </em>Recently resigned leader (6)
 
-## Chart of the week
+## The winners of last week&#x27;s quiz
 
-Russia’s invasion of Ukraine is a shameless land grab. At the height of Russia’s success its troops controlled, or were advancing on, around 160,000 square kilometres of Ukrainian territory—about 25% of the country. That was in March. Since then Russia’s president and armed forces have suffered humiliating setbacks. Our maps below show how the areas of control have shifted throughout the past 12 months.
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+Wayne Smith, <strong>Goderich, Canada</strong>
+
+Emily VM Seddon, <strong>Seattle, United States</strong>
+
+Ann Maher, <strong>Sauvian, France</strong>
+
+They all gave the correct answers of <em>New York Jets, Daniel arap Moi, rocket, Columbus Circle and the Saturday night massacre</em>. The theme is Elton John songs.
 
 ----------
 
