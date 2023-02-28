@@ -1,3 +1,5 @@
+# WARNING: This repository no longer has access to GitHub Actions, thus will not be updated anymore. However, you can deploy it on your own server. I don't recommend using GitHub Actions on your own fork.
+
 > **Read all homepage articles of The Economist without leaving GitHub.** [Try it now >>](https://arielherself.github.io/te)
 
 [English](https://github.com/arielherself/espresso/blob/main/README.md)|[中文](https://github-com.translate.goog/arielherself/espresso/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
